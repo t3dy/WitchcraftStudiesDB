@@ -1,0 +1,69 @@
+{
+  "id": "gaspar-tagliacarne-friuli-benandante",
+  "name": "Gaspar Tagliacarne",
+  "status": "Survived; Released",
+  "trial_id": "friuli-benandanti-1575-inquisition",
+  "location_id": "friuli",
+  "year_interrogated": 1575,
+  "age_at_trial": 40,
+  "social_status": "Rural farmer; Alleged benandante practitioner",
+  "gender": "Male",
+
+  "self_identification": "Benandante (the good walkers)",
+  "claimed_abilities": [
+    "Nocturnal spirit journeys to defend crops",
+    "Protection against maleficium",
+    "Healing through supernatural knowledge",
+    "Vision and knowledge of illness causes"
+  ],
+
+  "biography": "Gaspar Tagliacarne was a rural farmer in Friuli who claimed to possess the supernatural ability to protect agricultural fertility. According to his own account, he had experienced nocturnal visions since childhood where he believed his spirit left his body to engage in spiritual battles defending crops and animals against malevolent sorcerers. These experiences were not unique in Friuli—the benandante tradition apparently involved multiple practitioners who understood themselves as part of a protective magical order.",
+
+  "interrogation_narrative": {
+    "first_interrogation": {
+      "date": "1575",
+      "inquisitor": "Fra Felice da Montefalco",
+      "tagliacarne_initial_claim": "I am a benandante, a defender of fertility. My spirit travels at night to protect Friuli's crops and animals.",
+      "interrogator_response": "Leading questions about demonic allegiance, sabbath attendance, sexual relations with demons",
+      "tagliacarne_adaptation": "Gradual acceptance of demonological categories under interrogation pressure"
+    }
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Tagliacarne admitted to nocturnal experiences that he described in his own terms as spiritual journeys. He claimed to see and converse with other benandanti.",
+    "under_interrogation_pressure": "When confronted with demonological accusations, Tagliacarne gradually reinterpreted his experiences. He began acknowledging demonic contacts and sabbath attendance, though his descriptions remained vague and inconsistent.",
+    "final_confession": "Tagliacarne's final confession incorporated demonological categories: he admitted to demonic contact, sabbath attendance, and participation in collective witchcraft activities. However, careful analysis shows these admissions emerged through interrogator suggestion rather than spontaneous disclosure."
+  },
+
+  "microhistorical_significance": "Ginzburg's close reading of Tagliacarne's interrogation demonstrates the interrogation procedure's role in transforming benandante self-identification into demonological confession. The interrogation records show Tagliacarne's gradual shift from asserting his benandante identity (in his own language) to accepting inquisitor's demonological framework. This case exemplifies Ginzburg's insight: the gap between practitioner's language and magistrate's interpretation reveals how interrogation produced witchcraft confessions.",
+
+  "actor_vs_analyst_terminology": {
+    "tagliacarne_language": [
+      "Benandante (good walker)",
+      "Defender",
+      "Servant of fertility",
+      "Spirit traveler"
+    ],
+    "inquisitor_categories": [
+      "Witch",
+      "Demonic servant",
+      "Participant in sabbath",
+      "Heretic"
+    ]
+  },
+
+  "practical_activities": "Tagliacarne described himself as engaged in protective magic—he claimed ability to identify crop threats, protect against animal sickness, and warn others of supernatural dangers. Whether these claims represented actual knowledge (about pest control, disease prevention) reinterpreted as supernatural, or genuine belief in supernatural power, remains historically contested.",
+
+  "interrogation_outcome": "Unlike accused witches in Central European hunts, Tagliacarne was not executed. The Venetian Inquisition, less zealous than Germanic courts, eventually released him after extracting abjuration (renunciation of heresy). He survived by accepting the inquisitor's reinterpretation and abjuring his benandante identity.",
+
+  "historiographical_significance": "Tagliacarne exemplifies how interrogation could reframe folk practitioners as witches. His case demonstrates: (1) the existence of folk practitioners with self-understanding independent of demonological categories, (2) the interrogation procedure's role in producing demonological confessions, (3) the potential survival when reinterpretation stopped short of execution.",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-23",
+  "last_modified": "2026-05-23"
+}
