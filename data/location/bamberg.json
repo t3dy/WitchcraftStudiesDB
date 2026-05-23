@@ -1,0 +1,77 @@
+{
+  "id": "bamberg",
+  "name": "Bamberg (Prince-Bishopric of Bamberg)",
+  "type": "Ecclesiastical State",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Bavaria, Germany",
+  "coordinates": {
+    "latitude": 49.891,
+    "longitude": 10.903
+  },
+
+  "administrative_context": "Prince-Bishopric of Bamberg was an ecclesiastical territory in the Holy Roman Empire—neither fully secular nor fully clerical, ruled by a bishop-prince who wielded both spiritual and temporal authority. Bamberg was densely urbanized compared to surrounding territories, with approximately 15,000 inhabitants in the 17th century.",
+
+  "witchcraft_trials_significance": "Bamberg experienced the most intensive witch hunt in the Empire outside Trier: 300+ executions in 5 years (1626-1631), representing unparalleled density of prosecution. The trials targeted all social strata—from court officials to servants to ecclesiastics.",
+
+  "trial_events": [
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Johann Georg II Fuchs von Dornheim",
+      "role": "Prince-Bishop (1623-1631)",
+      "contribution_to_trials": "Initiated and authorized persecution; dismissed skeptics within court; maintained prosecutorial momentum until his death"
+    },
+    {
+      "name": "Friedrich Förner",
+      "role": "Inquisitor and ecclesiastical officer",
+      "contribution_to_trials": "Conducted interrogations; extracted confessions; managed denunciations"
+    }
+  ],
+
+  "ecclesiastical_authority": "As Prince-Bishop's territory, Bamberg combined inquisitorial authority (through Catholic Church) with secular criminal jurisdiction (through Prince-Bishop's court). This dual authority enabled unprecedented prosecutorial reach.",
+
+  "persecution_timeline": {
+    "1626_spring": "Hailstorm blamed on witches; court midwife Margaretha Binder arrested as vector",
+    "1626_summer": "First executions; confessions cascade through court and urban centers",
+    "1627": "Persecution expands to surrounding villages",
+    "1628": "Peak prosecutions; 19 executions in single month",
+    "1629": "Persecution continues at high intensity",
+    "1630": "Persecution moderates slightly; some accused escape or flee",
+    "1631": "Prince-Bishop Fuchs dies; successor suppresses trials; surviving accused are pardoned or released"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Prince-Bishopric of Bamberg and immediately surrounding territories",
+    "social_reach": "All strata: nobility, clergy, merchants, farmers, servants, women, men, old and young",
+    "gender_distribution": "Approximately 70% female accused (typical for witchcraft prosecutions)",
+    "mortality_impact": "Estimated 300-400 deaths from 900+ accused"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark emphasizes Bamberg as case where demonological theory shaped prosecutorial procedures. Magistrates applied learned doctrine systematically, executing those who confessed to demonic pacts.",
+    "hutton_perspective": "Hutton notes institutional vulnerability—court officials feared conspiracy; social anxiety amplified each new denunciation. Persecution revealed institutional panic rather than rational response to genuine threat.",
+    "ginzburg_perspective": "Ginzburg's interrogation analysis shows how Bamberg procedures generated cascading confessions. Each interrogation extracted names of 'accomplices,' who were then arrested and interrogated, who named new suspects, creating geometric expansion of accused."
+  },
+
+  "legacy_and_historiographical_importance": "Bamberg became emblematic of early modern witch hunt intensity and the mechanisms of cascade prosecution. The trials demonstrated how institutional structures, combined with demonological ideology and interrogation procedure, could produce unprecedented persecution.",
+
+  "primary_sources": "Bamberg episcopal archives (trial records); contemporary chronicles; Behringer's compilation and analysis of trial documents",
+
+  "contemporary_documentation": "Several Catholic clergy documented the trials with varying degrees of skepticism. Some records suggest concerns about convictions' legitimacy were raised but overridden by institutional momentum.",
+
+  "source_method": "Published scholarship (Behringer), archival records, contemporary documentation",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-23",
+  "last_modified": "2026-05-23"
+}

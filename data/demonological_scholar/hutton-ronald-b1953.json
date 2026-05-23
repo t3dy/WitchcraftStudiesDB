@@ -1,0 +1,125 @@
+{
+  "id": "hutton-ronald-b1953",
+  "name": "Ronald Hutton",
+  "birth_year": 1953,
+  "birth_place": "England",
+  "academic_discipline": "Social History & Religious History",
+  "primary_institution": "University of Bristol",
+  "specialization": "Social history of witchcraft, cunning folk, folk practitioners, religious history of Britain and Europe",
+
+  "major_works": [
+    {
+      "title": "The Witch: A History of Fear from Ancient Times to the Present",
+      "year": 2017,
+      "publisher": "Yale University Press",
+      "significance": "Comprehensive synthesis balancing intellectual, social, and practitioner perspectives",
+      "pages": 400,
+      "database_entry": "hutton-the-witch-2017"
+    },
+    {
+      "title": "Pagan Britain: Neolithic Religion After the Iron Age",
+      "year": 2013,
+      "publisher": "Yale University Press",
+      "significance": "Archaeology-informed history of pre-Christian religion and continuities into early modern period"
+    },
+    {
+      "title": "Triumph of the Moon: A History of Modern Pagan Witchcraft",
+      "year": 1999,
+      "publisher": "Oxford University Press",
+      "significance": "Documents modern pagan witchcraft movement's invention and self-understanding"
+    },
+    {
+      "title": "Queens of the Wild: Pagan Goddesses in Christian Europe",
+      "year": 1998,
+      "publisher": "Yale University Press",
+      "significance": "Traces goddess veneration traditions and their transformation under Christian pressure"
+    },
+    {
+      "title": "The Pagan Religions of the Ancient British Isles",
+      "year": 1991,
+      "publisher": "Blackwell",
+      "significance": "Archaeological and historical reconstruction of pre-Christian British religious practices"
+    }
+  ],
+
+  "historiographical_position": "SOCIAL HISTORY & PRACTITIONER-CENTERED HISTORY",
+  "core_argument": "Hutton's fundamental argument centers practitioners as historical agents rather than victims of persecution or perpetrators of superstition. Rather than asking 'How could magistrates believe witches existed?' (Clark's question), Hutton asks 'What were cunning folk and folk practitioners actually doing, and why were they perceived as threats?' His answer: cunning folk provided genuine services (healing, divination, charm-making) that competed with official medicine and clerical authority. Prosecution resulted not from witchcraft's reality but from social conflict between folk practitioners' independence and authorities' demand for monopoly over healing, law, and knowledge.",
+
+  "methodological_approach": {
+    "primary_materials": "Trial records read for accused persons' actual practices rather than magistrates' frameworks; court records of cunning folk prosecutions; demographic and social analysis",
+    "analysis_target": "The lived practices of folk practitioners and social dynamics of accusation",
+    "evidence_type": "Trial evidence analyzed for practitioner perspective; social history of institutions; demographic patterns of prosecution",
+    "explanatory_level": "Social dynamics, institutional competition, and material practices"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Cunning folk as practitioners, not witches",
+      "claim": "Cunning folk—healers, charmmakers, divination experts—provided valued services in communities. They were not witches, but persecution often conflated them with witches or forced practitioners to adopt the witchcraft label.",
+      "implication": "Witchcraft prosecutions involved real practitioners whose power was reinterpreted (or exaggerated) through demonological lenses. The gap between practitioner identity and witchcraft accusation becomes historically significant."
+    },
+    {
+      "concept": "Gender and social vulnerability",
+      "claim": "Women, particularly postmenopausal women and widows, disproportionately faced witchcraft accusations. Not because gender caused witchcraft belief, but because women's independence (unmarried women, widows, female practitioners) made them socially vulnerable to accusation.",
+      "implication": "Understanding gender in witchcraft history requires understanding women's actual social positions and vulnerabilities rather than abstract theories about female malleability."
+    },
+    {
+      "concept": "Institutional competition and state formation",
+      "claim": "Witchcraft persecution increased as centralized states and professional medicine grew. The conflict was not between superstition and enlightenment, but between folk practitioners' authority and emerging state/medical institutions' monopoly claims.",
+      "implication": "Witchcraft history reflects broader processes of state centralization and professionalization, not just religious or intellectual change."
+    },
+    {
+      "concept": "Practitioner agency and survival",
+      "claim": "Cunning folk persisted throughout and after the witch hunts. Rather than being eliminated by prosecution, they adapted, hid, or found legal protection. Many survived by claiming reformed status or working within acceptable frameworks.",
+      "implication": "Folk practice shows resilience and adaptation rather than victimization—practitioners were not passive victims but active negotiators of survival."
+    },
+    {
+      "concept": "Modern pagan witchcraft as invention",
+      "claim": "Contemporary pagan witchcraft represents modern invention, not survival from ancient times. Modern practitioners deliberately created new practices drawing on romantic reconstruction of ancient religion.",
+      "implication": "Understanding modern witchcraft requires recognizing its creative, innovative character rather than claiming ancient continuity."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Hutton mines trial records for evidence of practitioners' actual expertise—what herbs did they use? What charms did they make? What illnesses did they treat? This pragmatic approach reconstructs practitioner activity from hostile sources.",
+    "cunning_folk_records": "Hutton analyzes records of cunning folk who operated without witchcraft accusations, using their documented practices to understand what remained invisible in witch trial records.",
+    "demographic_patterns": "Hutton employs statistical analysis of prosecution patterns by gender, age, marital status, and occupation—understanding witchcraft through data rather than ideology."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Lyndal Roper (gender-informed social history)",
+      "Robin Briggs (practitioner-centered approach)",
+      "Owen Davies (cunning folk studies)",
+      "Diane Purkiss (women's agency in witchcraft history)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Clark emphasizes intellectual tradition; Hutton emphasizes social dynamics)",
+      "Carlo Ginzburg (Ginzburg focuses on interrogation procedures; Hutton reconstructs practitioner activity)",
+      "Norman Cohn (Hutton rejects continuity theory of ancient fertility cults; Ginzburg partly supports it)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Hutton's emphasis on practitioners' agency and social dynamics has become central to contemporary witchcraft history. His synthetic approach across periods and regions provides comparative perspective.",
+    "criticisms": [
+      "Some scholars argue Hutton underestimates the genuinely harmful nature of some folk practices; does emphasis on practitioner legitimacy minimize actual cases of poisoning or deliberate harm?",
+      "Others suggest Hutton's explanation of persecution as institutional competition doesn't fully account for theological ideology—magistrates really did believe in witchcraft, not just competition",
+      "Some question whether Hutton's demographic analysis can identify all relevant variables; does statistical pattern-finding explain witchcraft adequately?"
+    ]
+  },
+
+  "engagement_with_hutton_in_witchcraftdb": {
+    "database_integration": "Hutton's framework informs entries on healers, practitioners, and trial participants. Entries emphasize accused persons' actual practices before criminal reinterpretation; entries on witchcraft acknowledge practitioners' real expertise.",
+    "interpretive_weight": "Trials are analyzed for what they reveal about practitioner activity and social vulnerability; gender patterns are examined for institutional dimensions; concepts are understood through practitioners' language (Actor terms)."
+  },
+
+  "historiographical_significance": "Hutton exemplifies how social history transforms understanding of witchcraft from intellectual or religious phenomenon into social conflict. By centering practitioners—their work, their gender, their vulnerability—Hutton reorients witchcraft history toward lived experience and social dynamics. This move has influenced all subsequent scholarship to acknowledge practitioners' agency and the social causation of persecution, even scholars like Clark who emphasize intellectual tradition.",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-23",
+  "last_modified": "2026-05-23"
+}

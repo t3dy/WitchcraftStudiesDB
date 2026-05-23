@@ -1,0 +1,130 @@
+{
+  "id": "ginzburg-carlo-b1939",
+  "name": "Carlo Ginzburg",
+  "birth_year": 1939,
+  "birth_place": "Turin, Italy",
+  "academic_discipline": "Microhistory / Historical Anthropology",
+  "primary_institution": "University of Bologna (retired)",
+  "specialization": "Microhistorical analysis of interrogation, voice recovery, witchcraft historiography, religious heterodoxy",
+
+  "major_works": [
+    {
+      "title": "Ecstasies: Deciphering the Witches' Sabbath",
+      "year": 1989,
+      "original_year": 1989,
+      "original_language": "Italian (I Benandanti)",
+      "publisher": "Pantheon Books",
+      "significance": "Foundational microhistorical analysis of interrogation records; reveals torture's role in extracting confessions",
+      "pages": 600,
+      "database_entry": "ginzburg-ecstasies-1991"
+    },
+    {
+      "title": "The Night Battles: Witchcraft and Agrarian Cults in the Sixteenth and Seventeenth Centuries",
+      "year": 1983,
+      "original_year": 1966,
+      "publisher": "Johns Hopkins University Press",
+      "significance": "Earliest microhistorical study; Friuli benandanti as case study in folk magic vs. demonological interpretation",
+      "database_entry": "ginzburg-night-battles-1983"
+    },
+    {
+      "title": "The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller",
+      "year": 1980,
+      "original_year": 1976,
+      "publisher": "Johns Hopkins University Press",
+      "significance": "Pioneering microhistory; uses inquisition records to recover individual perspective"
+    },
+    {
+      "title": "Clues, Myths, and the Historical Method",
+      "year": 1989,
+      "publisher": "Johns Hopkins University Press",
+      "significance": "Theoretical exposition of microhistorical methodology"
+    },
+    {
+      "title": "Threads and Traces: True Stories",
+      "year": 2012,
+      "publisher": "University of California Press",
+      "significance": "Later reflections on microhistorical method applied to witchcraft and other historical problems"
+    }
+  ],
+
+  "historiographical_position": "MICROHISTORY / INTERROGATION ANALYSIS",
+  "core_argument": "Ginzburg's fundamental argument challenges both Clark and Hutton: witchcraft confessions, however coherent they appear, were primarily products of interrogation procedure rather than reflection of reality (Hutton's assumption) or intellectual coherence (Clark's analysis). Through close reading of interrogation records—examining question-answer sequences, patterns of leading questions, timing of confessions relative to torture, contradictions in testimony—Ginzburg demonstrates that confessions were shaped by interrogator expectations. The 'voices' we hear in trial documents are partly authentic practitioner perspectives, but partly artifacts of coercive procedures designed to extract specific admissions. Understanding witchcraft thus requires interrogating the interrogations themselves.",
+
+  "methodological_approach": {
+    "primary_materials": "Interrogation records analyzed with intense textual attention; comparison of interrogators' questions with accused persons' answers; analysis of how answers change with torture application; tracking of specific details' introduction and elaboration",
+    "analysis_target": "The interrogation procedure itself—how it generated specific confessions through systematic coercion",
+    "evidence_type": "Grammatical and rhetorical analysis of interrogation dialogue; psychological analysis of coercion effects; historical reconstruction of interrogation context",
+    "explanatory_level": "Procedural mechanism and interpersonal dynamics of interrogation"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Torture-shaped confessions",
+      "claim": "Interrogation under torture produces confessions in a systematic, predictable pattern: initial denial, application of torture, rapid admission of suggested facts, elaboration of details to satisfy interrogator expectations. These confessions contain characteristic features: implausibilities, contradictions, repetition of interrogator language.",
+      "implication": "Confessions cannot be read as factual accounts or even as representations of beliefs. They are artifacts of procedures designed to extract specific admissions under duress."
+    },
+    {
+      "concept": "Voice recovery through interrogation",
+      "claim": "Despite confessions' coerced nature, interrogation records can reveal aspects of accused persons' actual perspectives, practices, and understanding. By reading 'against the grain'—noting where accused persons resist interrogator suggestions, where they provide unexpected detail, where they assert perspective despite pressure—historians can recover glimpses of practitioners' own voices.",
+      "implication": "Microhistorical analysis of interrogation can recover subaltern perspectives (those normally silenced by historical record), if conducted with meticulous attention to procedure and coercion."
+    },
+    {
+      "concept": "Benandanti as folk practice vs. witchcraft",
+      "claim": "The Friuli benandanti identified themselves as protective practitioners serving fertility and community welfare. Inquisitors reinterpreted them as demonic witches. The gap reveals how interrogation procedure could transform practitioner self-understanding into demonological confession without the practitioner necessarily accepting the reinterpretation.",
+      "implication": "Early modern witch trials involved collision between practitioners' self-understanding and authorities' categories. What's confessed under torture may not represent what was believed or practiced."
+    },
+    {
+      "concept": "Historiographical relativism check",
+      "claim": "The witchcraft confessions—coherent as they appear to scholars like Clark—were mostly products of interrogation rather than lived experiences. This doesn't make witches 'real' (Hutton's position) but doesn't make confessions purely intellectual exercise (Clark's emphasis) either.",
+      "implication": "Understanding witchcraft requires interrogating the interrogations—examining the procedures through which historical record was created."
+    },
+    {
+      "concept": "Microhistorical method",
+      "claim": "Intensive focus on single case, single person, single interrogation can reveal structures invisible in large-scale analysis. Microhistory trades breadth for depth—examining one Friuli interrogation sequence in detail can illuminate how all such sequences functioned.",
+      "implication": "Historical understanding requires both statistical pattern-finding (Hutton's demographic analysis) and intensive case analysis (microhistory); they are complementary rather than competing."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "interrogation_records": "Ginzburg's method involves transcribing interrogation transcripts, noting the structure of questions, the introduction of specific topics, the points where accused persons either conform to or resist interrogator suggestions, the timing of torture relative to admissions.",
+    "inquisition_procedures": "Ginzburg contextualizes interrogations within official inquisition procedure, understanding how standard protocols shaped what was asked and how answers were recorded.",
+    "gap_analysis": "Ginzburg notes gaps between what practitioners claimed about themselves and what magistrates concluded. These gaps reveal the interpretive work of authorities."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Natalie Zemon Davis (microhistory, subaltern voice recovery)",
+      "Jacques Revel (microhistory methodology)",
+      "Jürgen Kocka (social history of interrogation)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Clark finds coherence in demonological thought; Ginzburg shows confessions produced through coercion)",
+      "Ronald Hutton (Hutton reconstructs practitioner activity; Ginzburg emphasizes interrogation's distortion of evidence)",
+      "Natalie Zemon Davis (Davis finds agency in recovered voices; Ginzburg emphasizes the difficulty of distinguishing recovered voice from interrogator imposition)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Ginzburg established microhistory as major methodological approach in early modern history. His interrogation analysis has become standard practice in witchcraft studies—scholars now routinely examine interrogation procedures rather than accepting confessions at face value.",
+    "criticisms": [
+      "Some argue Ginzburg's skepticism about confessions' reliability goes too far—some practitioners may have believed witchcraft claims even if confessions were coerced",
+      "Others suggest microhistory's focus on single cases limits generalizable insights; doesn't systematic analysis require larger sample?",
+      "Some contend Ginzburg underestimates consciously false accusation—some people accused others knowing accusations were baseless",
+      "Others argue that interrogation analysis, while illuminating procedure, cannot fully determine confession's relationship to practitioners' actual beliefs or practices"
+    ]
+  },
+
+  "engagement_with_ginzburg_in_witchcraftdb": {
+    "database_integration": "Ginzburg's framework informs the treatment of confessions in accused person entries and trial event entries. Rather than treating confessions as direct evidence of witchcraft belief or practice, entries note confessions' coerced origin and examine interrogation procedure.",
+    "interpretive_weight": "Trials are analyzed for interrogation mechanics; confessions are examined for what they reveal about both accusation procedure and accused persons' resistance/accommodation; concepts are understood as products of interrogation rather than representations of practitioners' belief."
+  },
+
+  "historiographical_significance": "Ginzburg's interrogation analysis has transformed witchcraft historiography from a problem of belief (How could people believe in witches?) into a problem of procedure (How did interrogation generate witchcraft confessions?). This shift doesn't resolve Clark-Hutton debate so much as reframe it: both intellectual coherence and social dynamics matter, but they operated within interrogation procedures that shaped all historical evidence. Ginzburg exemplifies how close attention to procedure and evidence-production can illuminate witchcraft history.",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-23",
+  "last_modified": "2026-05-23"
+}
