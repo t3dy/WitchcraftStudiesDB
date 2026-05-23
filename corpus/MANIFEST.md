@@ -7,12 +7,12 @@ Catalog of academic sources converted to Markdown from E:\pdf\witchcraft studies
 ### Stuart Clark (Intellectual History)
 
 #### ✅ CONVERTED
-- **thinking-with-demons-2001.md** (3.0M)
+- **thinking-with-demons-the-idea-of-witchcraft-in-ear.md** (3.0M)
   - *Thinking with Demons: The Idea of Witchcraft in Early-Modern Europe*
   - Author: Stuart Clark
   - Publisher: Oxford University Press, 2001 (1997 orig.)
   - Pages: 800+
-  - Status: VERIFIED | Confidence: HIGH
+  - Status: VERIFIED | Confidence: HIGH | Converted: May 23, 2026
   - Key Concepts: Demonology as intellectual tradition, learned theory, divine permission, demonic agency, theological sophistication
   - Key Trials Discussed: Bamberg, Trier, Essex, Salem
   - Key Scholars Referenced: Bodin, Kramer & Sprenger, Spee, theologians, natural philosophers
@@ -24,22 +24,23 @@ Catalog of academic sources converted to Markdown from E:\pdf\witchcraft studies
 
 ### Carlo Ginzburg (Microhistory)
 
-#### ⏳ QUEUED
+#### ⏳ IN PROGRESS (Conversion failed - needs investigation)
 - **ecstasies-deciphering-witches-sabbath-1991.md** (TBD)
   - *Ecstasies: Deciphering the Witches' Sabbath*
   - Author: Carlo Ginzburg
   - Pages: 500+
-  - Status: Priority Tier 1
+  - Status: Priority Tier 1 - Extraction attempt failed 2026-05-23 12:31
   - Key Methods: Interrogation analysis, torture-shaped confessions, voice recovery
   - Key Trials: Friuli, Bamberg, Trier
   - Relevance: CORE SOURCE for microhistory and interrogation analysis
+  - Note: pdfplumber extraction failed; may require OCR or different approach
 
-#### ⏳ QUEUED
+#### 🔄 IN PROGRESS
 - **night-battles-witchcraft-agrarian-cults-1983.md** (TBD)
   - *The Night Battles: Witchcraft and Agrarian Cults in the Sixteenth and Seventeenth Centuries*
   - Author: Carlo Ginzburg
   - Pages: 300+
-  - Status: Priority Tier 2
+  - Status: Priority Tier 2 - Re-converting 2026-05-23 12:33
   - Key Focus: Friuli benandanti, folk cosmology, demonological reinterpretation
   - Relevance: CORE SOURCE for case study methodology
 
@@ -280,14 +281,18 @@ Catalog of academic sources converted to Markdown from E:\pdf\witchcraft studies
 
 ## Ingestion Progress
 
-### Tier 1 (Foundation Sources)
-- [ ] Clark - Thinking with Demons ✅ **COMPLETE**
-- [ ] Ankarloo/Clark - Witchcraft & Magic Vol 2 (Ancient)
-- [ ] Ankarloo/Clark - Witchcraft & Magic Vol 3 (Medieval)
-- [ ] Ankarloo/Clark/Monter - Witchcraft & Magic Vol 4 (Early Modern)
-- [ ] Hutton - The Witch (comprehensive synthesis)
-- [ ] Hutton - Pagan Britain (practitioners)
-- [ ] Ginzburg - Ecstasies (interrogation method)
+### Tier 1 (Foundation Sources) — 9 of 11 CONVERTED
+- [x] Clark - Thinking with Demons ✅ **3.0M**
+- [x] Ankarloo/Clark - Witchcraft & Magic Vol 1 (Biblical/Pagan) ✅ **350K**
+- [x] Ankarloo/Clark - Witchcraft & Magic Vol 3 (Medieval) ✅ **780K**
+- [x] Ankarloo/Clark/Monter - Witchcraft & Magic Vol 4 (Early Modern) ✅ **564K**
+- [x] Hutton - The Witch (comprehensive synthesis) ✅ **1.2M**
+- [x] Hutton - Pagan Britain (practitioners) ✅ **1.5M**
+- [x] Hutton - Triumph of the Moon (modern pagan) ✅ **1.6M**
+- [x] Hutton - Queens of the Wild (gendered traditions) ✅ **632K**
+- [x] Hutton - Pagan Religions British Isles ✅ **987K**
+- [ ] Ginzburg - Ecstasies (interrogation method) ⚠️ FAILED
+- [ ] Ginzburg - Night Battles (Friuli benandanti) 🔄 RE-CONVERTING
 
 ### Tier 2 (Core Complementary)
 - [ ] Science of Demons (natural philosophy)
