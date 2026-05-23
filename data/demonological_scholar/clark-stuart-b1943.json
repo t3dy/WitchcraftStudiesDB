@@ -1,0 +1,106 @@
+{
+  "id": "clark-stuart-b1943",
+  "name": "Stuart Clark",
+  "birth_year": 1943,
+  "birth_place": "England",
+  "academic_discipline": "Intellectual History",
+  "primary_institution": "University of Wales, Swansea",
+  "specialization": "History of demonology, witchcraft doctrine, intellectual history of early modern Europe",
+
+  "major_works": [
+    {
+      "title": "Thinking with Demons: The Idea of Witchcraft in Early-Modern Europe",
+      "year": 1997,
+      "publisher": "Oxford University Press",
+      "significance": "Foundational work reframing witchcraft as intellectual tradition rather than superstition",
+      "pages": 800,
+      "database_entry": "clark-thinking-with-demons-2001"
+    },
+    {
+      "title": "Vanities of the Eye: Vision in Early Modern European Culture",
+      "year": 2007,
+      "publisher": "Oxford University Press",
+      "significance": "Explores epistemological foundations of early modern knowledge, including demonology"
+    },
+    {
+      "title": "Oaths and Swearing in Early Modern Europe (editor)",
+      "year": 2015,
+      "significance": "Contextualizes witchcraft oaths within broader early modern oath culture"
+    }
+  ],
+
+  "historiographical_position": "INTELLECTUAL HISTORY",
+  "core_argument": "Clark's fundamental argument reverses the evaluative direction of witchcraft history. Rather than asking 'How could people believe in witches?' (presupposing witchcraft belief as irrational), Clark asks 'What intellectual frameworks made witchcraft beliefs coherent and reasonable to educated men?' His answer: demonological theory constituted a comprehensive, internally consistent intellectual system that could explain witchcraft within early modern theology, natural philosophy, and law. Witchcraft prosecutions were not irrational panic but rational applications of learned doctrine to perceived threats. This does not make prosecutions justified—only intelligible within their intellectual context.",
+
+  "methodological_approach": {
+    "primary_materials": "Theological treatises, demonological compendia, trial documents interpreted as intellectual artifacts",
+    "analysis_target": "The coherence and persuasiveness of demonological thought systems",
+    "evidence_type": "Textual exegesis of learned tradition; reconstruction of intellectual genealogies",
+    "explanatory_level": "Ideas and their intellectual relationships"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Demonology as learned tradition",
+      "claim": "Early modern demonology was not popular superstition but sophisticated theology. Demonologists inherited centuries of academic theological debate about demons' existence, powers, and operations. Witchcraft doctrine applied this learning to contemporary anxieties.",
+      "implication": "Witch prosecution cannot be dismissed as superstitious panic; it must be understood as application of serious intellectual apparatus."
+    },
+    {
+      "concept": "Theological coherence of witchcraft doctrine",
+      "claim": "Demonic pact, witches' sabbath, and maleficium were not arbitrary accusations but logically integrated concepts within demonological system. If demons existed (Christian orthodoxy) and possessed powers (theological consensus), and if humans could ally with demons (logical inference), then witches posed real danger.",
+      "implication": "Prosecutions appear rational to those who accept the underlying theological premises."
+    },
+    {
+      "concept": "Continuity with medieval demonology",
+      "claim": "Early modern demonology was not created ex nihilo in 15th-16th centuries but developed from centuries of medieval theological tradition regarding demons, heresy, and covenant.",
+      "implication": "Understanding witchcraft requires understanding medieval intellectual history—prosecutions built on foundations laid centuries earlier."
+    },
+    {
+      "concept": "Educated magistrates' understanding",
+      "claim": "Magistrates who ordered prosecutions were not irrational but learned men who had read demonological texts and understood witchcraft through that intellectual lens.",
+      "implication": "Prosecution cannot be reduced to scapegoating or mass hysteria; it reflects learned judicial reasoning."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "malleus_maleficarum": "Clark treats the Malleus as serious theological treatise, not just superstitious manual. His exegesis shows how Kramer & Sprenger integrated witchcraft into Aristotelian natural philosophy and medieval demonology.",
+    "trial_documents": "Clark uses trial documents not to understand accused persons' experiences but to understand magistrates' intellectual frameworks—what assumptions shaped their questions and evaluations of evidence?",
+    "demonological_literature": "Clark comprehensively reads demonological treatises by Bodin, Weyer, Del Rio, Remy and others, tracing debates about witchcraft's reality and threat level."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Robin Briggs (intellectual history approach, contextualizing witch belief)",
+      "Peter Burke (history of knowledge, mentalities)",
+      "William Monter (early modern intellectual synthesis)"
+    ],
+    "creative_tension_with": [
+      "Ronald Hutton (Hutton emphasizes social dynamics where Clark emphasizes intellectual tradition)",
+      "Carlo Ginzburg (Ginzburg interrogates demonological concepts' reality; Clark explains their coherence)",
+      "Brian Levack (Levack's comparative prosecution data doesn't directly address Clark's intellectual question)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Clark fundamentally reoriented witchcraft scholarship away from 'explaining away' belief and toward understanding how it made sense. His framework influenced subsequent historians to take seriously the intellectual content of demonological texts.",
+    "criticisms": [
+      "Some scholars argue Clark privileges elite intellectual culture over popular experience; by focusing on learned demonology, does he neglect accused persons' voices or folk practitioners' traditions?",
+      "Others suggest that intellectual coherence doesn't explain why particular individuals were accused—social dynamics remain central to understanding prosecutions",
+      "Some claim Clark's approach risks making prosecution seem too rationally justified, obscuring the violence and injustice involved"
+    ]
+  },
+
+  "engagement_with_clark_in_witchcraftdb": {
+    "database_integration": "Clark's framework informs the 'scholarly_disagreement' fields throughout the database. His contribution is particularly evident in entries where demonological concepts must be understood both as intellectual tradition (Clark) and as socially-applied doctrine (Hutton) and as interrogation-generated artifacts (Ginzburg).",
+    "interpretive_weight": "Trials are analyzed for what they reveal about magistrates' intellectual assumptions; concepts are explored for their theological significance; sources are examined for how they articulate learned tradition."
+  },
+
+  "historiographical_significance": "Clark exemplifies how intellectual history transforms understanding of apparently irrational phenomena. Rather than dismissing witchcraft as hysteria or misogyny, Clark asks what intellectual premises made prosecution coherent. This move—taking seriously the ideas of perpetrators—has influenced all subsequent witchcraft historiography. Even historians who emphasize social causation (Hutton) or interrogation mechanics (Ginzburg) build on Clark's insight that demonology constituted a serious intellectual system, however wrong.",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-23",
+  "last_modified": "2026-05-23"
+}

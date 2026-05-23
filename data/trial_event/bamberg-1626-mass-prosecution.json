@@ -1,0 +1,78 @@
+{
+  "id": "bamberg-1626-mass-prosecution",
+  "name": "Bamberg-Franconia Witch Persecutions",
+  "location_id": "bamberg",
+  "year_start": 1626,
+  "year_end": 1631,
+  "alleged_accused_count": 900,
+  "executed_count": 300,
+  "regional_context": "Prince-Bishopric of Bamberg, Holy Roman Empire",
+
+  "summary": "The Bamberg persecutions (1626-1631) represent one of the largest and most concentrated witch hunts in European history. Under Prince-Bishop Johann Georg II Fuchs and subsequent leadership, approximately 300 individuals were executed in a five-year period—an extraordinary density of prosecution that scholars have analyzed as a cascade phenomenon driven by both demonological ideology and institutional panic. Unlike diffuse regional hunts, Bamberg's prosecutions created a self-perpetuating mechanism: each execution and extracted confession implicated additional suspects, expanding the prosecutorial net through geometrically expanding denunciations.",
+
+  "historiographical_significance": "Bamberg exemplifies how institutional authority combined with demonological theory could produce systematic mass persecution. Stuart Clark emphasizes Bamberg as a case where learned theory (demonic conspiracy, sabbath doctrine) shaped courtroom procedures and evidentiary standards. Carlo Ginzburg's microhistorical analysis of interrogation records reveals how torture-shaped confessions created internally coherent but factually baseless narratives of demonic pacts and sabbath assemblies. Ronald Hutton notes the involvement of clerical and secular officials, illustrating the cooperation between ecclesiastical and temporal authorities. The trial demonstrates how prosecution can become self-sustaining through institutional momentum and fear of conspiracy.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "female-susceptibility-theory",
+    "demonological-conspiracy",
+    "maleficium-weather-magic"
+  ],
+
+  "key_details": {
+    "initiating_bishop": "Johann Georg II Fuchs von Dornheim (1623-1631)",
+    "prosecuting_inquisitor": "Friedrich Förner (Prince-Bishop's ecclesiastical officer)",
+    "supreme_court": "Spiritual Council of Bamberg",
+    "procedure": "Ecclesiastical inquisition with torture-based testimony; confessional evidence weighted as proof",
+    "torture_methods": ["strappado", "leg screws", "hot irons", "sleep deprivation"],
+    "trial_phases": [
+      {
+        "phase": "Initial targeting (1626-1627)",
+        "context": "Severe hailstorms blamed on weather magic; court midwife accused as vector of conspiracy"
+      },
+      {
+        "phase": "Institutional cascade (1627-1629)",
+        "context": "Each confession implicates 8-12 accomplices; denunciations create expanding suspect pool"
+      },
+      {
+        "phase": "Peak executions (1629-1630)",
+        "context": "Mass burnings; 19 executions in single month (August 1629)"
+      },
+      {
+        "phase": "Collapse and suppression (1631-1632)",
+        "context": "Bishop Fuchs dies; successor suppresses trials; surviving accused pardoned"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate whether Bamberg represents demonological zealotry, institutional malfunction, or socioeconomic stress. Clark (intellectual history) emphasizes the internal coherence of demonological theory to magistrates; Hutton (social history) stresses the social dynamics of fear and suspicion; Ginzburg (microhistory) focuses on how interrogation procedures produced false confessions that fed further prosecutions. Recent scholarship questions the death toll figures (ranging 300-1,200 depending on source), but accepts the cascade mechanism as the defining feature.",
+
+  "accused_persons": [
+    "margaretha-binder-bamberg-1626",
+    "catharina-henot-bamberg-1627",
+    "frau-hoelmann-bamberg-1627",
+    "philip-fuchs-bamberg-1628"
+  ],
+
+  "related_trials": [
+    "trier-1581-mass-persecution",
+    "friuli-benandanti-1575-interrogation"
+  ],
+
+  "source_method": "Published trial records (Behringer 1997), contemporary ecclesiastical correspondence, Bamberg episcopal archives",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Bamberg serves as a touchstone for debates about early modern demonology's explanatory power. Does the hunt represent rational application of witchcraft doctrine to perceived threats, or institutional pathology masquerading as theology? The answer depends partly on whether one privileges intellectual coherence (Clark's approach) or social causation (Hutton's approach). Ginzburg's interrogation analysis suggests that neither explanation suffices: institutional procedures (torture, cumulative denunciations) created factually false but internally consistent confessional narratives that seemed to confirm demonological theory while actually refuting it.",
+
+  "created_date": "2026-05-23",
+  "last_modified": "2026-05-23"
+}

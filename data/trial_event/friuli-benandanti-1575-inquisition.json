@@ -1,0 +1,78 @@
+{
+  "id": "friuli-benandanti-1575-inquisition",
+  "name": "Friuli Benandanti Inquisition",
+  "location_id": "friuli",
+  "year_start": 1575,
+  "year_end": 1580,
+  "alleged_accused_count": 12,
+  "executed_count": 0,
+  "trial_type": "Ecclesiastical inquisition (no secular involvement)",
+  "regional_context": "Friuli-Venetia Giulia, Venetian Republic",
+
+  "summary": "The Friuli benandanti case (1575-1580) involved the interrogation of individuals who claimed to be 'the good walkers' (benandanti)—folk practitioners who believed they possessed the supernatural power to defend crops and fertility against malevolent sorcerers. Rather than the satanic conspiracy narrative of Central European demonology, the Friuli cases reveal a pre-demonological magical worldview where practitioners saw themselves as servants of fertility and community protection. The inquisitors' interrogation records show a collision between folk healing traditions and emerging demonological theory.",
+
+  "historiographical_significance": "Carlo Ginzburg's *Ecstasies* (1989) established the Friuli benandanti as a foundational case for understanding medieval pagan survivals and the process by which folk magic traditions were reinterpreted as demonic pacts through interrogation. Ginzburg demonstrates how torture and leading questions gradually transformed benandanti self-representations from protective magic into confessions of demonic allegiance. The case illuminates the gap between practitioners' own language (Actor term) and inquisitors' interpretive frame (Analyst term). Stuart Clark uses the case to show how demonological theory could misinterpret non-demonic magical practices. Ronald Hutton emphasizes benandanti as legitimate cunning folk whose healing practices were criminalized through demonological reframing.",
+
+  "interrogation_methodology": {
+    "inquisitor": "Fra Felice da Montefalco (Venetian Inquisition)",
+    "procedures": ["leading questions", "confrontational accusation", "sustained interrogation pressure"],
+    "torture_applied": false,
+    "confession_mechanism": "Cognitive dissonance produced by confrontation between folk identity and demonological accusations"
+  },
+
+  "actor_terms_benandanti": [
+    "the good walkers (benandanti)",
+    "servants of fertility",
+    "defenders against maleficium",
+    "practitioners with nocturnal visions",
+    "healers with supernatural knowledge"
+  ],
+
+  "analyst_terms_imposed": [
+    "witches",
+    "servants of demonic forces",
+    "congregators at sabbath",
+    "workers of maleficium",
+    "heretical conspirators"
+  ],
+
+  "key_accused": [
+    "gaspar-tagliacarne-friuli-1575",
+    "andrea-grioni-friuli-1576",
+    "battista-moduco-friuli-1580"
+  ],
+
+  "magical_practices_described": {
+    "crop_protection": "Practitioners claimed ability to defend fields against hail, crop disease, and livestock mortality through nocturnal spiritual journeys",
+    "healing": "Diagnosis and treatment of illnesses through contact with supernatural sources of knowledge",
+    "fertility_magic": "Rituals to ensure human and animal fertility through appeals to beneficent supernatural forces",
+    "opposition": "Conflict with 'malandanti' (malevolent sorcerers) viewed as personal rivals in supernatural realm"
+  },
+
+  "interrogation_outcomes": [
+    {
+      "accused": "Gaspar Tagliacarne",
+      "initial_claim": "Benandante defending Friuli against crop destruction",
+      "interrogation_result": "Gradual reinterpretation as demonic servant after sustained questioning",
+      "final_status": "Abjured under suspicion; case closed without execution"
+    }
+  ],
+
+  "scholarly_disagreement": "Ginzburg interprets the case as evidence of continuity from pre-Christian fertility cults and shamanic practices. Critics (including Robin Briggs) suggest Ginzburg over-interprets fragmentary evidence of pagan survivals. All scholars agree the case shows inquisitorial reframing of folk practices as demonic. The central question: Were benandanti preserving genuine pagan traditions, or engaging in folk healing that inquisitors misinterpreted through demonological lenses? Ginzburg argues the former; critics suggest the evidence permits both readings.",
+
+  "source_method": "Venetian Inquisition archival documents (Friuli), published transcripts analyzed by Ginzburg",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "ginzburg-night-battles-1983",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "The Friuli case demonstrates the fragility of the boundary between magical practice and witchcraft accusation. Benandanti saw themselves as beneficial practitioners; inquisitors saw them as demonic conspirators. The gap between these interpretations was not insurmountable—through interrogation, benandanti gradually accepted the inquisitorial frame, but crucially without actual execution. This contrasts with Central European hunts where such reframing led to mass death. The case illustrates how institutional context (Venetian inquisition's restraint vs. German prince-bishops' zealotry) shaped outcomes.",
+
+  "created_date": "2026-05-23",
+  "last_modified": "2026-05-23"
+}
