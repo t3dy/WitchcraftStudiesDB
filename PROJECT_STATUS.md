@@ -125,19 +125,26 @@ WitchcraftStudiesDB is a comprehensive digital humanities project combining:
 - `corpus/MANIFEST.md` (progress tracking)
 - `corpus/SOURCE_DATABASE_MAPPING.md` (cross-reference index)
 
-#### 2.3 PDF Conversions 🔄
+#### 2.3 PDF Conversions 🔄 — 10 of 11 Tier 1 Complete
 - [x] Stuart Clark - *Thinking with Demons* (2001)
-  - Successfully converted: 2.95M characters → 3.0MB Markdown
-  - File: `corpus/thinking-with-demons-*.md`
+  - 800 pages → 3.0MB Markdown (47,942 lines)
+  - Intellectual history framework
   
-- ⏳ Tier 1 Queue (High Priority):
-  - Ginzburg - *Ecstasies* (1991)
-  - Ginzburg - *Night Battles* (1983)
-  - Hutton - *The Witch* (comprehensive)
-  - Hutton - *Pagan Britain* (2013)
-  - Ankarloo/Clark - Witchcraft & Magic Vol 2 (Ancient)
-  - Ankarloo/Clark - Witchcraft & Magic Vol 3 (Medieval)
-  - Ankarloo/Clark/Monter - Witchcraft & Magic Vol 4 (Early Modern)
+- [x] **Tier 1 Converted (9 additional sources)**:
+  1. Ankarloo & Clark - Vol. 1: *Biblical and Pagan Societies* (9.5MB → 350KB)
+  2. Ankarloo & Clark - Vol. 3: *The Middle Ages* (16.1MB → 780KB)
+  3. Ankarloo, Clark & Monter - Vol. 4: *The Period of the Witch Trials* (13MB → 552KB)
+  4. Ginzburg - *The Night Battles* (3.5MB → 612KB)
+  5. Hutton - *The Witch: A History of Fear* (9.6MB → 1.2MB)
+  6. Hutton - *Pagan Britain* (32MB → 1.5MB)
+  7. Hutton - *Triumph of the Moon* (107MB → 1.6MB)
+  8. Hutton - *Queens of the Wild* (34MB → 632KB)
+  9. Hutton - *The Pagan Religions of the Ancient British Isles* (24MB → 987KB)
+
+- ⚠️ Tier 1 Failed (1 source):
+  - Ginzburg - *Ecstasies* (69MB) — pdfplumber extraction error; needs investigation or OCR
+
+- ⏳ Tier 2 Queue (Secondary - Ready for conversion):
 
 - ⏳ Tier 2 Queue (Secondary):
   - Science of Demons
