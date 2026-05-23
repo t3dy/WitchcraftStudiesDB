@@ -198,13 +198,22 @@ The portal synthesizes three historiographical approaches:
 
 ### Eight Entity Types
 
-- **TRIAL_EVENT**: 40+ documented witch trials with dates, locations, accused counts, outcomes, demonological frameworks, torture methods, scholarly interpretation
-- **ACCUSED_PERSON**: 40+ individual witch trial victims with occupation, prior reputation, accusation reason, confession details, torture records, scholarly sources
-- **DEMONOLOGICAL_CONCEPT**: 25-30 theoretical concepts (Demonic Pact, Witches' Sabbath, Maleficium, Female Susceptibility Theory, etc.) with Actor/Analyst distinctions
-- **TEXT**: 40+ primary and secondary sources (Malleus Maleficarum, Bodin's Demonologie, Ginzburg's *Ecstasies*, trial records, scholarly monographs)
-- **DEMONOLOGICAL_SCHOLAR**: 30+ contemporary historians whose work shapes the field (Clark, Hutton, Ginzburg, Roper, Levack, Briggs)
-- **LOCATION**: 40+ geographic entries (Bamberg, Trier, Friuli, Essex, Salem, etc.) with coordinates, trial associations, and regional context
-- **HEALER_PRACTITIONER**: 30+ individual practitioners (wise women, cunning folk, midwives, herbalists) across regions
+Each entry combines granular historical detail with historiographical sophistication:
+
+- **TRIAL_EVENT** (5 created): Documented witch trials with narrative arc, persecution timeline, torture methods, scholarly disagreement on causation. Example: Bamberg-Franconia Witch Persecutions (1626-1631, 300 executions) analyzed for cascade mechanism, institutional panic, demonological coherence, and social dynamics.
+
+- **ACCUSED_PERSON** (2+ created): Individual trial victims reconstructed through interrogation records. Entries track confession trajectory, torture application, and gap between accused person's self-understanding and magistrate's demonological interpretation. Example: Margaretha Binder (court midwife, Bamberg 1626) showing torture-extracted confession and historiographical analysis of how midwives became witchcraft vectors.
+
+- **DEMONOLOGICAL_CONCEPT** (2 created): Theoretical concepts analyzed across Clark/Hutton/Ginzburg frameworks. The Demonic Pact entry traces intellectual genealogy, actor language vs. analyst categories, and demonstrates how interrogation produced pact confessions. The Witches' Sabbath entry shows doctrine's coherence to magistrates vs. interrogation procedure's generation of sabbath descriptions.
+
+- **TEXT**: 40+ primary and secondary sources (Malleus Maleficarum, Bodin's Demonologie, Clark's *Thinking with Demons*, Ginzburg's *Ecstasies*, trial records, scholarly monographs)
+
+- **DEMONOLOGICAL_SCHOLAR** (3 created): Contemporary historians' frameworks and historiographical positions. Stuart Clark (intellectual history): demonology as coherent learned tradition. Ronald Hutton (social history): cunning folk as practitioners, institutional competition driving persecution. Carlo Ginzburg (microhistory): interrogation analysis revealing procedure's role in confession generation.
+
+- **LOCATION** (1+ created): Geographic entries with administrative context, persecution timeline, and scholarly disagreement. Bamberg entry integrates ecclesiastical authority structure, hailstorm trigger, cascade mechanism, and institutional collapse.
+
+- **HEALER_PRACTITIONER** (1+ created): Individual practitioners across traditions. Gaspar Tagliacarne (Friuli benandante) exemplifies practitioner's self-identification ("good walker," defender) vs. inquisitor's reinterpretation (demonic servant), with microhistorical analysis of interrogation-induced transformation.
+
 - **DEMONOLOGICAL_TEXT**: Theoretical treatises on demon lore and witchcraft theory
 
 ### Historiographical Principles
