@@ -1,0 +1,71 @@
+{
+  "id": "lorraine-duchy",
+  "name": "Duchy of Lorraine",
+  "type": "Province",
+  "region": "Western Europe / French-Imperial Borderland",
+  "modern_location": "Lorraine, France",
+  "coordinates": {
+    "latitude": 48.692,
+    "longitude": 6.184
+  },
+
+  "administrative_context": "The Duchy of Lorraine was an independent duchy on the frontier between France and the Holy Roman Empire, formally a fief of the Empire but with strong cultural and political ties to both powers. Lorraine maintained its own ducal courts and criminal jurisdiction. Nicolas Remy served as Procureur Général (chief prosecutor) and later counsellor to the ducal court, giving him direct authority over prosecutions across the duchy.",
+
+  "witchcraft_trials_significance": "Lorraine experienced one of the most sustained regional witch persecutions in Europe, with Nicolas Remy claiming personal responsibility for approximately 900 executions during his career, and modern historians estimating around 3,000 prosecutions in the duchy from roughly 1580 to the 1640s. The persecution was exceptional for its duration, geographic spread, and the personal role of Remy, whose Daemonolatreiae libri tres (1595) is one of the most important demonological texts, directly based on his own prosecutorial experience.",
+
+  "trial_events": [
+    "lorraine-1580-sustained"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Nicolas Remy (Remigius)",
+      "role": "Procureur Général of Lorraine; demonologist",
+      "contribution_to_trials": "Claimed personal responsibility for approximately 900 executions; based Daemonolatreiae (1595) on his courtroom experience; created systematic demonological theology from accumulated trial testimony"
+    },
+    {
+      "name": "Duke Charles III of Lorraine",
+      "role": "Ruling duke (1545-1608)",
+      "contribution_to_trials": "Provided institutional authorization for sustained prosecution under Remy"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1580": "Sustained persecution begins under Remy's prosecutorial authority",
+    "1585_1595": "Most intensive phase; Remy accumulates the cases on which Daemonolatreiae is based",
+    "1595": "Remy publishes Daemonolatreiae libri tres, codifying his prosecutorial experience as systematic demonology",
+    "1600_1620": "Prosecution continues at high levels",
+    "1620_1640": "Gradual decline; Thirty Years War disruption affects ducal administration",
+    "1648": "Treaty of Westphalia; increased French influence in Lorraine; prosecution winds down"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Duchy of Lorraine broadly including rural parishes, market towns, and administrative centers",
+    "social_reach": "Predominantly rural poor and middling peasantry; women predominant but men significantly represented",
+    "gender_distribution": "Approximately 75-80% female among accused, consistent with broader European pattern",
+    "mortality_impact": "Remy claimed 900 personal executions; broader scholarly estimates suggest 3,000 prosecutions across the duchy over six decades with high conviction rates"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark gives Remy's Daemonolatreiae extensive analysis as a major demonological text: Remy's systematic organization of trial testimony into theological categories, his treatment of the demonic pact, sabbath, and maleficium, represents a sophisticated intellectual project linking prosecution to learned demonology.",
+    "hutton_perspective": "Hutton situates the Lorraine persecution within regional patterns of long-term sustained prosecution driven by official initiative rather than mass popular panic, noting that the duchy's independent status and Remy's institutional position created conditions for exceptional duration.",
+    "ginzburg_perspective": "The Lorraine trial records, analyzed by Robin Briggs in Witches and Neighbours (1996), provide extensive microhistorical data about individual accused persons, enabling Ginzburg-style attention to the specific social and personal circumstances of each prosecution rather than aggregate statistics."
+  },
+
+  "legacy_and_historiographical_importance": "Lorraine is a major regional case in the historiography partly because of Robin Briggs's definitive study Witches and Neighbours (1996), which analyzed the Lorraine records in extraordinary depth, and because of Remy's Daemonolatreiae as a primary demonological source. Briggs's community-level analysis of Lorraine prosecutions became a model for social history of witch hunting.",
+
+  "primary_sources": "Nicolas Remy, Daemonolatreiae libri tres (1595); ducal court records in Nancy archives; analyzed by Robin Briggs, Witches and Neighbours (1996)",
+
+  "source_method": "Published scholarship (Briggs, Levack, Clark), Remy's Daemonolatreiae, ducal court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "briggs-witches-and-neighbours-1996"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

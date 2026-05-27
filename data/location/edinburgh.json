@@ -1,0 +1,69 @@
+{
+  "id": "edinburgh",
+  "name": "Edinburgh (Scotland)",
+  "type": "City",
+  "region": "Scotland",
+  "modern_location": "Edinburgh, Scotland",
+  "coordinates": {
+    "latitude": 55.953,
+    "longitude": -3.188
+  },
+
+  "administrative_context": "Edinburgh was the capital of the Kingdom of Scotland, seat of the Scottish Parliament, the Privy Council, and the central criminal court (the Court of Justiciary). It was also the ecclesiastical center of the Scottish Kirk. Witch prosecution in Scotland required a commission from the Privy Council or the Court of Justiciary for execution; Edinburgh served as the central administrative node through which local prosecutions were authorized and reviewed.",
+
+  "witchcraft_trials_significance": "Edinburgh was the administrative center of Scottish witch hunting, which was the most intensive per capita in Europe with approximately 4,000 accused and 1,500-2,000 executed. The North Berwick investigations were conducted partly at Holyrood. The city housed the torture chambers where accused witches were interrogated, and the Castlehill near Edinburgh Castle was the principal execution site for convicted witches in the central belt. The Privy Council in Edinburgh issued the commissions that authorized local witch trials throughout Scotland.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Scottish Privy Council",
+      "role": "Central authority issuing commissions for witch trials",
+      "contribution_to_trials": "Issued commissions authorizing local prosecution; occasional oversight of trial procedures; under pressure from local lairds frequently granted commissions without adequate review"
+    },
+    {
+      "name": "James VI",
+      "role": "King of Scotland; personal investigator of North Berwick accused",
+      "contribution_to_trials": "Conducted interrogations of accused witches at Holyrood Palace; personal involvement in North Berwick case; wrote Daemonologie (1597)"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1590_1591": "North Berwick investigation centred partly on Holyrood; James VI personally interrogates accused",
+    "1597": "Major Scotland-wide panic; Privy Council issues numerous commissions; Edinburgh central to coordination",
+    "1620s_1630s": "Continued sporadic prosecution; Edinburgh judicial apparatus central",
+    "1649_1650": "Major panic coinciding with political upheaval; one of the most intense periods of Scottish prosecution",
+    "1670s_1680s": "Declining prosecution; Privy Council increasingly reluctant to issue commissions",
+    "1727": "Last Scottish execution (Janet Horne, Dornoch); Edinburgh legal apparatus no longer supporting prosecution"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Edinburgh and the Lothians directly; as administrative center, Edinburgh's authority extended over prosecution across all of Scotland",
+    "social_reach": "Edinburgh city prosecutions included urban artisans and tradespeople; the Privy Council's commission system enabled prosecution across all social strata throughout Scotland",
+    "gender_distribution": "Scottish prosecution pattern approximately 85% female, somewhat higher than European average",
+    "mortality_impact": "Edinburgh Castlehill was the execution site for centrally processed cases; the broader Scottish total of 1,500-2,000 executed was administered through Edinburgh's commission system"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Edinburgh's central role within the intellectual context of Scottish Protestant demonology, noting that the Kirk's theology, shaped by Calvinist providentiialism and intensified by James VI's personal engagement, created a distinctive Scottish prosecutorial culture more intense than English Protestantism.",
+    "hutton_perspective": "Hutton analyzes the structural features of Scottish witch prosecution as shaped by Edinburgh's commission system: the requirement for Privy Council approval created a centralizing mechanism that both enabled and sometimes limited prosecution, with periods of intense commissioning corresponding to moments of political crisis.",
+    "ginzburg_perspective": "Edinburgh's role as interrogation and execution center means that much of the surviving Scottish testimony was processed through its courts, raising questions about how Edinburgh's judicial culture shaped the confessional narratives that traveled back from local communities to the central archives."
+  },
+
+  "legacy_and_historiographical_importance": "Edinburgh is central to the work of Julian Goodare and the Survey of Scottish Witchcraft project (University of Edinburgh), which has created the most comprehensive database of any national witch trial record. The Castlehill memorial to witch trial victims was installed in 2022 near Edinburgh Castle, representing a contemporary heritage acknowledgment of the persecution.",
+
+  "primary_sources": "Scottish Privy Council registers (Register of the Privy Council of Scotland); Court of Justiciary records; Scottish Record Office (National Records of Scotland); Survey of Scottish Witchcraft database",
+
+  "source_method": "Published scholarship (Goodare, Levack, Larner), Scottish Privy Council records, Survey of Scottish Witchcraft",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

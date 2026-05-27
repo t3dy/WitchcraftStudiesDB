@@ -1,0 +1,66 @@
+{
+  "id": "pays-de-vaud",
+  "name": "Pays de Vaud (Switzerland)",
+  "type": "Region",
+  "region": "Western Switzerland / Alpine Foothills",
+  "modern_location": "Vaud Canton, Switzerland",
+  "coordinates": {
+    "latitude": 46.570,
+    "longitude": 6.519
+  },
+
+  "administrative_context": "The Pays de Vaud in the early 15th century was under the rule of the House of Savoy and its subordinate lords. It was a region of small lordships and ecclesiastical territories subject to the Bishop of Lausanne and various secular overlords. Witchcraft prosecutions were conducted by both secular lords and inquisitors in this period, before the Swiss Confederation's later consolidation of the region.",
+
+  "witchcraft_trials_significance": "The Pays de Vaud and adjoining Alpine regions of the western Alps were the site of some of the earliest organized witch trials in Europe, with prosecutions documented from the 1420s-1430s. The region is associated with the earliest formulations of the composite sabbath concept—the witch as devil-worshipping member of a secret conspiratorial sect—rather than the older individual maleficium model. Trials in Vaud and the Valais in the 1420s-1440s provide the earliest evidence of the fully developed witch trial template including sabbath, demonic pact, and collective diabolism.",
+
+  "trial_events": [
+    "pays-de-vaud-1477-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Ulric de Torrenté",
+      "role": "Secular judge; Lausanne area",
+      "contribution_to_trials": "Conducted some of the earliest documented sabbath-based prosecutions in the 1430s"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1420s_1430s": "Earliest prosecutions with sabbath features in the Lausanne diocese area",
+    "1430s_1440s": "Intensification; inquisitors and secular judges both active; sabbath narrative becomes standardized",
+    "1477": "Notable series of prosecutions at Lausanne and surrounding areas",
+    "1480s_1530s": "Intermittent continued persecution across the region"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Pays de Vaud including Lausanne area, Lake Geneva region, and surrounding Alpine foothills",
+    "social_reach": "Predominantly rural poor; the early Swiss cases involved suspects with marginal social positions",
+    "gender_distribution": "Early Swiss cases show relatively higher male prosecution rates compared to later European pattern",
+    "mortality_impact": "Individual cases and small clusters rather than mass panics; exact totals uncertain from early documentation"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the early Alpine trials within the intellectual history of demonology: the formulation of the sabbath concept in the Vaud/Valais region in the 1420s-1430s represents the crystallization of a new conceptual model of witchcraft as organized devil-worship, a theological-judicial innovation that transformed prosecution across Europe.",
+    "hutton_perspective": "Hutton examines the early Alpine trials as potential evidence for the emergence of the witch stereotype from a combination of learned heresy prosecution models, existing Alpine folk beliefs, and judicial innovation, while remaining cautious about the claim that any single region was uniquely generative.",
+    "ginzburg_perspective": "Ginzburg's work on ecstatic traditions is directly relevant: the Alpine region's early witch trials may reflect a meeting point between shamanistic ecstatic traditions (related to those he identifies in the benandanti and similar figures) and the inquisitorial heresy-prosecution model, with the sabbath narrative emerging from the collision of these traditions."
+  },
+
+  "legacy_and_historiographical_importance": "The early Alpine witch trials are debated in the historiography as potential origin points for the European witch trial phenomenon. Arno Borst, Richard Kieckhefer, and most recently Wolfgang Behringer have analyzed the early Swiss cases. The question of whether the sabbath concept originated in the Alps or was disseminated from elsewhere is a key unresolved question in witch trial historiography.",
+
+  "primary_sources": "Early inquisitorial records from Lausanne diocese; trial records in cantonal archives; analyzed in Kieckhefer, Magic in the Middle Ages; Behringer, Witches and Witch-Hunts",
+
+  "source_method": "Published scholarship (Kieckhefer, Behringer, Levack, Ginzburg), cantonal archival sources",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "scholarly_disagreement": "The precise role of the Pays de Vaud in the origin of the witch trial phenomenon is debated: some historians identify the early Alpine trials as the generative site for the composite sabbath concept; others argue the concept emerged in multiple locations simultaneously or was spread by itinerant inquisitors.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

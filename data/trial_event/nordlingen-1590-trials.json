@@ -1,0 +1,71 @@
+{
+  "id": "nordlingen-1590-trials",
+  "name": "Nördlingen Witch Trials",
+  "location_id": "nordlingen",
+  "year_start": 1589,
+  "year_end": 1598,
+  "alleged_accused_count": 35,
+  "executed_count": 6,
+  "regional_context": "Imperial Free City of Nördlingen, Swabian-Franconian border, Holy Roman Empire; Lutheran Protestant imperial city",
+
+  "summary": "The Nördlingen trials (1589-1598) are distinguished primarily by the extraordinary case of Maria Holl, an innkeeper's wife who survived sixty-two applications of torture without confessing to witchcraft and was ultimately released — one of the most remarkable cases of resistance to torture-induced confession in the entire history of witch trials. The Nördlingen prosecution began in the late 1580s in the context of regional panics and crop failures, and approximately six individuals were ultimately executed. Holl's case stands apart: subjected to repeated strappado applications over multiple sessions, she consistently denied the charges, attributed her pain to her accusers, and was eventually freed when the council's procedural conscience asserted itself.",
+
+  "historiographical_significance": "Maria Holl's case has become a touchstone for historians examining the mechanics and limits of torture-based confession. Lyndal Roper's analysis emphasizes the psychological dimensions of interrogation and resistance, arguing that Holl's survival required both exceptional physical endurance and a coherent narrative self-understanding that torture could not dissolve. The case is crucial for understanding why most accused confessed: the pressure was nearly irresistible, and Holl's resistance was statistically exceptional. For Ginzburg, the case illustrates the inquisitorial process from the perspective of a subject who refused to be transformed by it — the 'resistant' voice that illuminates by contrast how confessional transformation usually worked.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic",
+    "witches-sabbath-collective"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Nördlingen municipal council",
+    "prosecuting_officials": "City magistrates and legal council; external consultants from Augsburg",
+    "procedure": "Civic inquisitorial procedure with documented torture applications; Maria Holl subjected to 62 torture sessions; council ultimately overrides prosecution pressure and releases her",
+    "torture_methods": ["strappado", "squassation"],
+    "trial_phases": [
+      {
+        "phase": "Initial prosecutions (1589-1591)",
+        "context": "Regional panic context; initial accusations against marginal women; several confessions and executions"
+      },
+      {
+        "phase": "Accusation of Maria Holl (1593)",
+        "context": "Holl accused by previously convicted witch; arrested and subjected to sustained torture over months"
+      },
+      {
+        "phase": "Holl's resistance and deliberation (1593-1594)",
+        "context": "Sixty-two torture applications fail to produce confession; council consults Augsburg jurists; growing unease about the case"
+      },
+      {
+        "phase": "Release and wind-down (1594-1598)",
+        "context": "Holl released; prosecution effectively ends; remaining accused processed without further cascade"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate what explains Holl's survival. Physical explanations (extraordinary pain tolerance) compete with psychological ones (strong narrative identity, religious conviction) and procedural ones (the council's eventual reluctance to continue). Roper's psychological interpretation emphasizes ego integrity; skeptics suggest the council simply ran out of procedural justification for continued torture when no confession was forthcoming. The case also raises questions about whether similar resisters in less-documented trials went unrecorded because they were eventually broken or executed.",
+
+  "accused_persons": [
+    "maria-holl-nordlingen-1593"
+  ],
+
+  "related_trials": [
+    "rothenburg-1629-trials",
+    "ellwangen-1611-persecution"
+  ],
+
+  "source_method": "Nördlingen municipal court records; Lyndal Roper, *Witch Craze* (2004); Behringer's regional studies of Swabian witch-hunting",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Maria Holl's case inverts the usual analytical focus on confession: instead of asking how torture produced confessions, it asks what it took to resist them. Roper's psychohistorical analysis of early modern witchcraft draws heavily on such cases to argue that confession was not simply coerced but involved a complex negotiation between the accused's self-understanding and the framework imposed by prosecution. Holl's maintenance of her identity across sixty-two torture sessions suggests that her sense of self was not susceptible to the narrative dissolution that most accused experienced. The case is also methodologically significant: it is one of the few instances where detailed torture records survive and can be correlated with outcome data, allowing historians to test hypotheses about the mechanics of confession production.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

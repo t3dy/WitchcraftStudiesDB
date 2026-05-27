@@ -1,0 +1,61 @@
+{
+  "id": "aberdeen-scotland",
+  "name": "Aberdeen (Scotland)",
+  "type": "City",
+  "region": "Scotland",
+  "modern_location": "Aberdeenshire, Scotland",
+  "coordinates": {
+    "latitude": 57.150,
+    "longitude": -2.110
+  },
+
+  "administrative_context": "Aberdeen was the largest city of northeastern Scotland, a burghal center and episcopal seat. As in all Scottish witch trials, prosecution required a commission from the Privy Council. The 1597 Aberdeen witch hunt was part of a major Scotland-wide panic in that year, which coincided with the publication of James VI's Daemonologie.",
+
+  "witchcraft_trials_significance": "Aberdeen experienced a large-scale witch hunt in 1597 that resulted in approximately 24 executions in a short period. The 1597 panic was one of the most intense episodes in Scottish witch prosecution and coincided with a nation-wide panic in which James VI's Privy Council issued numerous commissions. The Aberdeen cases are notable for their documentation, including examination records that preserve the testimony of accused women in detail.",
+
+  "trial_events": [
+    "aberdeen-1597-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Aberdeen city council and commissioned judges",
+      "role": "Governing authority and trial commission",
+      "contribution_to_trials": "Conducted trials under Privy Council commission during the 1597 panic"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1597_spring_summer": "Major witch panic in Aberdeen concurrent with national panic; approximately 24 executed over several months",
+    "1597": "James VI's Daemonologie published; Scotland-wide commission of prosecutions"
+  },
+
+  "affected_population": {
+    "geographic_extent": "City of Aberdeen and surrounding Aberdeenshire communities",
+    "social_reach": "Multiple social positions within the Aberdeen community affected by the panic",
+    "gender_distribution": "Predominantly female among Aberdeen accused, consistent with Scottish pattern of approximately 85% female",
+    "mortality_impact": "Approximately 24 executed in the 1597 Aberdeen witch hunt"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the 1597 Aberdeen panic within the context of James VI's active engagement with witch prosecution following the North Berwick trials and his publication of Daemonologie, illustrating how royal theological commitment could amplify local prosecution.",
+    "hutton_perspective": "Hutton notes the 1597 Scotland-wide panic as an instance of center-periphery dynamics in Scottish prosecution: royal enthusiasm for prosecution, expressed through liberal commission-granting, enabled local prosecution dynamics to escalate into mass panic.",
+    "ginzburg_perspective": "The Aberdeen examination records, preserved in local archives, provide microhistorical evidence for interrogation procedure and confessional narrative formation in northeast Scotland."
+  },
+
+  "legacy_and_historiographical_importance": "Aberdeen's 1597 witch hunt is analyzed within Julian Goodare's and Christina Larner's studies of Scottish witch prosecution. The Aberdeen city archives hold important trial documentation.",
+
+  "primary_sources": "Aberdeen city archives; Privy Council commission records; analyzed in Larner, Enemies of God (1981); Goodare and colleagues' Survey of Scottish Witchcraft",
+
+  "source_method": "Published scholarship (Larner, Goodare, Levack), Aberdeen city archives",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

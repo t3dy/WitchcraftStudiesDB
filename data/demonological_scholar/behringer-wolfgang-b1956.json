@@ -1,0 +1,76 @@
+{
+  "id": "behringer-wolfgang-b1956",
+  "name": "Wolfgang Behringer",
+  "birth_year": 1956,
+  "death_year": null,
+  "birth_place": "Germany",
+  "academic_discipline": "Early Modern History",
+  "primary_institution": "University of Kingston",
+  "specialization": "Global comparative witch-hunting; climate stress as contributing factor; comprehensive regional data synthesis",
+  "major_works": [
+    {
+      "title": "Witches and Witch-Hunts: A Global History",
+      "year": 2004,
+      "publisher": "Polity Press",
+      "significance": "Most comprehensive recent global comparative survey; introduced climate and social stress as systematic factors; provided comprehensive regional prosecution data",
+      "database_entry": "behringer-witches-witch-hunts-2004"
+    },
+    {
+      "title": "Hexen und Hexenprozesse in Deutschland (Witches and Witch Trials in Germany)",
+      "year": 1988,
+      "publisher": "dtv",
+      "significance": "Foundational German-language synthesis of German regional prosecution data; documents sources for German witchcraft studies",
+      "database_entry": null
+    },
+    {
+      "title": "Shaman of Oberstdorf: Chonrad Stoeckhlin and the Phantoms of the Night",
+      "year": 1998,
+      "publisher": "University of Virginia Press",
+      "significance": "Microhistorical case study of a German herdsman executed for witchcraft; engages with Ginzburg's night-journey traditions",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Witch-hunting was a global phenomenon with regional variations best understood through comparative analysis incorporating climate and social stress as contributing factors. The Little Ice Age (c.1560-1660) created crop failures, famines, and social anxiety that intensified demand for scapegoating and supernatural explanations; this environmental stress correlates with prosecution peaks across European regions.",
+  "methodological_approach": {
+    "primary_materials": "Regional prosecution records across Europe and globally; climate data; comparative social and economic history",
+    "analysis_target": "Global distribution of witch prosecution; correlation of prosecution peaks with climate and social stress; comparative regional patterns",
+    "evidence_type": "Quantitative comparative analysis; climate history correlation; synthesis of regional studies",
+    "explanatory_level": "Multi-causal macro-structural: environmental, social, and institutional factors interacting globally"
+  },
+  "key_contributions": [
+    {
+      "concept": "Climate stress correlation",
+      "claim": "Prosecution peaks in Europe correlate significantly with periods of Little Ice Age cold, crop failure, and social stress; weather catastrophes created demand for witch-scapegoating",
+      "implication": "Environmental history must be integrated into witch-hunting explanations"
+    },
+    {
+      "concept": "Global comparative framework",
+      "claim": "Witch-hunting is not uniquely European; comparable phenomena occurred in Africa, Asia, and the Americas, often under different names and cultural frameworks",
+      "implication": "European witch-hunting must be de-centered from a universal human narrative about scapegoating under stress"
+    },
+    {
+      "concept": "Comprehensive regional data",
+      "claim": "Systematic compilation of regional prosecution statistics enables global comparison impossible from individual case studies",
+      "implication": "Database methodology and synthesis work are essential for global-scale analysis"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["levack-brian-b1943", "midelfort-erik-b1942", "ginzburg-carlo-b1939"],
+    "creative_tension_with": ["barstow-anne-llewellyn-b1936"]
+  },
+  "reception_and_critique": {
+    "major_influences": "German regional witchcraft history; climate history (Hubert Lamb); comparative global history methods",
+    "criticisms": [
+      "Climate correlation thesis contested: some high-prosecution periods do not correlate with cold periods",
+      "Global comparisons risk flattening significant differences between culturally distinct phenomena",
+      "The micro-macro tension: his microhistory of Stoeckhlin demonstrates complexity that his global synthesis may obscure"
+    ]
+  },
+  "historiographical_significance": "Behringer produced the most comprehensive recent comparative synthesis of global witch-hunting and introduced climate history as a systematic analytical variable. His work bridges German regional expertise and global comparative ambition, making him central to current multi-causal approaches. His comprehensive German prosecution data remains a standard reference for Central European studies.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

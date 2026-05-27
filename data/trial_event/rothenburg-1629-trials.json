@@ -1,0 +1,66 @@
+{
+  "id": "rothenburg-1629-trials",
+  "name": "Rothenburg ob der Tauber Witch Trials",
+  "location_id": "rothenburg-ob-der-tauber",
+  "year_start": 1629,
+  "year_end": 1631,
+  "alleged_accused_count": 20,
+  "executed_count": 18,
+  "regional_context": "Imperial Free City of Rothenburg ob der Tauber, Franconian Circle, Holy Roman Empire; Lutheran Protestant city-state with independent municipal jurisdiction",
+
+  "summary": "The Rothenburg ob der Tauber trials (1629-1631) provide a relatively moderate example of witch prosecution amid the surrounding Franconian mass persecutions, a contrast that has made the case particularly valuable for comparative scholarship. As a Lutheran imperial city with independent municipal jurisdiction, Rothenburg operated under different legal and theological assumptions than the surrounding Catholic prince-bishoprics of Bamberg, Würzburg, and Eichstätt. The council records survive in unusually complete form, allowing detailed reconstruction of both the procedural steps and the internal deliberations of city councillors. Approximately 18 individuals were executed, a toll significant by English or Scottish standards but modest compared to Rothenburg's Catholic neighbors.",
+
+  "historiographical_significance": "Rothenburg's value to historians lies primarily in its exceptionally well-preserved council records, which allow reconstruction of the decision-making processes behind prosecution. Alison Rowlands's detailed study of Rothenburg (2003) demonstrates how a Protestant imperial city moderated persecution through institutional caution, concern for property rights, and councillors' reluctance to expand accusations into elite circles. The contrast with nearby Catholic territories illuminates the role of confession and jurisdiction in shaping prosecution patterns. Levack's comparative framework uses Rothenburg as evidence that Protestant territories generally prosecuted more cautiously than Catholic ones, though the reasons — theological, legal, or institutional — remain debated.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic",
+    "witches-sabbath-collective"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Rothenburg municipal council (city magistrates)",
+    "prosecuting_officials": "City council judges; municipal notaries; consulting jurists",
+    "procedure": "Civic inquisitorial procedure; torture applied but with recorded council deliberation; consulting external jurists before each execution; appeals possible to Imperial Chamber Court",
+    "torture_methods": ["strappado", "thumbscrews"],
+    "trial_phases": [
+      {
+        "phase": "Initial arrests (1629)",
+        "context": "Regional panic from Bamberg and Würzburg creates pressure to prosecute; initial accusations target marginal women"
+      },
+      {
+        "phase": "Council deliberations (1629-1630)",
+        "context": "Documented council debates about extension of accusations; external jurists consulted; notable caution about expanding into elite networks"
+      },
+      {
+        "phase": "Executions and closure (1630-1631)",
+        "context": "Executions proceed; prosecution contained within initial suspect pool without major cascade expansion"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Rowlands's study generated debate about whether Rothenburg's relative moderation reflects specifically Protestant theological skepticism about some sabbath doctrines, the legal institutions of the imperial city form, or simply the personal caution of specific councillors. The comparison with Catholic neighbors is suggestive but confounded by multiple variables: Rothenburg differed in confession, political structure, social composition, and economic context simultaneously.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "wurzburg-1626-mass-prosecution",
+    "nordlingen-1590-trials"
+  ],
+
+  "source_method": "Rothenburg municipal archive (well-preserved council records); Alison Rowlands, *Witchcraft Narratives in Germany: Rothenburg 1561-1652* (2003)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "The Rothenburg records are among the most complete surviving municipal witch-trial documentation in Germany, making the case a methodological resource as much as a historical subject. The ability to trace individual cases from accusation through council deliberation to sentencing provides unusually granular insight into how prosecution decisions were actually made. Rowlands's finding that councillors sometimes protected well-connected suspects while proceeding against marginal ones illustrates Hutton's social history emphasis: social position and community networks shaped outcomes even within a demonologically committed institutional framework. The case also demonstrates that the surrounding Franconian mass persecutions were not simply the default state but required specific institutional conditions to reach their extremity.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

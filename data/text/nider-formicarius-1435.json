@@ -1,0 +1,33 @@
+{
+  "id": "nider-formicarius-1435",
+  "title": "Formicarius",
+  "author": "Johannes Nider",
+  "author_id": null,
+  "year_published": 1435,
+  "language": "Latin",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Composed c.1435-1437; printed Cologne c.1475",
+  "modern_edition": "No complete modern critical edition in English; partial translations in Bailey, Michael D., Battling Demons (Penn State UP, 2003)",
+  "significance": "The earliest systematic account of witches as an organized cult with diabolical pact; Book 5 is the founding document of the witch-as-sect concept that made mass prosecution possible.",
+  "summary": "The Formicarius (Anthill) is a Dominican dialogue in five books discussing visions, moral theology, and the supernatural. Book 5, 'On Witches and Their Deceptions,' is the most historically significant: Nider reports conversations with a secular judge (Peter of Berne) who had prosecuted witches in the Simmental region of Switzerland, providing the first substantial account of an organized witch sect performing diabolical rites, killing children, and gathering for satanic assemblies. The text predates the Malleus by fifty years and directly shaped its arguments about organized witch cultsassemblies.",
+  "clark_analysis": "Clark situates the Formicarius within the Dominican intellectual tradition of demon-theory development. Nider's synthesis of pastoral, judicial, and theological sources represents an early stage in the formation of the learned demonological consensus that would culminate in the Malleus. The text shows demonology being constructed from multiple interacting sources rather than arising fully formed.",
+  "hutton_analysis": "Hutton notes the Formicarius's importance for establishing the witch-sect concept that would drive mass prosecutions; without the idea of an organized anti-Christian cult, large-scale panics were logically impossible. He also notes the text's origins in early Swiss Alpine prosecutions, suggesting the witch-sect concept emerged from specific regional judicial experience.",
+  "ginzburg_analysis": "Ginzburg examines the Simmental confessions reported by Nider as early evidence for night-journey and ecstatic traditions being reinterpreted through an inquisitorial lens. The material Nider recorded from Peter of Berne may preserve fragments of pre-existing folk beliefs before the full demonological template was imposed.",
+  "key_arguments": [
+    "An organized sect of witches exists who have made pacts with the devil",
+    "Witches kill infants and use their bodies in diabolical rites",
+    "Women are more susceptible to diabolical seduction than men",
+    "The sect has specific initiation rituals and renunciation of the faith",
+    "Judicial prosecution of the sect is both legitimate and necessary"
+  ],
+  "influence_on_prosecutions": "The Formicarius was one of the earliest texts used by judges prosecuting witch cases in the Swiss Alpine region. Its account of the Simmental prosecutions provided a model for understanding and prosecuting organized witch sects. The Malleus drew heavily on Nider, transmitting his witch-sect concept to a much wider audience through print.",
+  "related_texts": ["kramer-malleus-maleficarum-1487", "de-lancre-tableau-inconstance-1612"],
+  "related_trials": [],
+  "scholarly_disagreement": "The precise date of composition is debated (between 1435 and 1437). Scholars debate how much of Nider's witch material reflects actual prosecution records versus theological elaboration. Bailey's monograph on Nider is the most recent critical engagement with his demonology.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

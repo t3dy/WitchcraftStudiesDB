@@ -1,0 +1,75 @@
+{
+  "id": "child-stealing-infanticide",
+  "name": "Child-Stealing and Infanticide (Witch Cannibalism of Infants)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Central Europe",
+
+  "scholarly_definition": "Child-stealing and infanticide accusations held that witches killed unbaptized infants, consumed them at sabbath feasts, and rendered their bodies for flying ointment fat and other magical ingredients. This cluster of charges combined several distinct anxieties: early modern vulnerability of infants (especially unbaptized ones, spiritually unprotected), suspicion of midwives and women with access to birthing chambers, cannibalism as ultimate inversion of Christian communion, and the sabbath's anti-Christian feast dynamic. The charges were elaborately detailed in demonological literature and appeared with regularity in major Continental prosecutions.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Blood libel accusations against Jews (ritual murder of Christian children)",
+      "Heretical cannibalism accusations (Cathars, early Christians by pagans)",
+      "Classical strix legend — nocturnal predator devouring infants",
+      "Folk beliefs about changeling substitution (fairy theft of children)"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum — detailed procedures for witch midwives killing unbaptized infants",
+      "Sabbath doctrine incorporating infanticide feast as central ritual element",
+      "Bamberg and Würzburg trial records documenting specific child-murder accusations"
+    ],
+    "formalization_sources": [
+      "Demonological treatises linking infant fat to flying ointment preparation",
+      "Trial records from midwife-accused cases (Bamberg pattern)",
+      "Inquisitorial manuals detailing interrogation about infant murder"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark shows that sabbath infanticide accusations served a specific theological function: they established the sabbath as the inverse of Christian civilization by inverting the Eucharist (communal feast of Christ's body) into cannibalism (communal feast of children's bodies). The symmetry was theologically meaningful — witches mocked every aspect of Christian practice by performing its inversion. Infanticide of unbaptized children was particularly significant because unbaptized children existed in a liminal theological status (not in heaven, not yet fully Christian), making them ideal victims for demonic appropriation.",
+
+  "hutton_social_analysis": "Hutton situates infanticide accusations in the context of real high infant mortality rates that required social explanation. When midwives presided over infant deaths, suspicion of deliberate killing could easily arise. The demographic reality of frequent infant death, combined with the theological vulnerability of unbaptized infants, made infanticide a plausible accusation in a world where natural and supernatural causation were not sharply distinguished. Hutton also notes the misogynist dimension: accusations targeted women's specific bodily and reproductive knowledge domains.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg demonstrates that infanticide confessions show the clearest evidence of interrogation construction: accused persons who initially denied killing children would, under torture, produce highly specific accounts naming specific infants, specific methods, specific burial or disposal locations. The specificity was a product of interrogation pressure, not genuine recall. The infant fat ingredient connecting infanticide to flight ointment shows how interrogators wove separate charges together into coherent narratives — once torture extracted a flight confession, interrogators asked where the ointment came from, producing the child-murder supplement.",
+
+  "actor_perspective": {
+    "practitioner_language": "No genuine practitioner tradition claimed infant killing as a positive practice. The charges were externally imposed through prosecution. Midwives who attended births where infants died naturally had no framework within which to understand their practice as infanticide, and resisted these charges strenuously in pre-torture questioning.",
+    "misalignment": "The gap between prosecution charge (deliberate ritual infanticide) and social reality (high natural infant mortality attended by midwives) was enormous. The translation of infant death from natural tragedy into evidence of malefic killing required both the prosecutorial framework and the interrogation procedures that extracted matching confessions."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "The theological logic of witch infanticide was: unbaptized children were spiritually unprotected and therefore uniquely vulnerable to demonic appropriation; witches as Satan's servants had both motive (serving Satan's need for souls) and means (access to birth chambers) to kill such children; the sabbath's anti-Christian feast required human flesh.",
+    "canonical_law": "Infanticide accusations in witch trials merged with secular law on child murder, adding capital murder charges to heresy and maleficium. The charge was effectively undefendable: accused persons could not disprove killing infants at night since night provided no witnesses."
+  },
+
+  "regional_variations": "Infanticide accusations were most elaborate in Continental European prosecutions, particularly German cases (Bamberg, Würzburg). English prosecutions rarely featured systematic infanticide charges, though familiar-spirit teat-nursing accusations had some thematic overlap. Italian inquisitorial prosecutions showed more restraint on infanticide charges than German secular courts. The midwife-witch association was particularly strong in German cases.",
+
+  "scholarly_disagreement": "Historians debate whether infanticide accusations reflected any real practice or were entirely prosecutorial constructions. The universal appearance of infant fat in flying ointment recipes, regardless of regional variation, suggests it was a textual tradition derived from demonological literature rather than from real confessions. Some scholars argue the accusations reflect projection of real infant mortality anxieties onto prosecutable agents; others see the accusations as pure theological construction with no folk basis.",
+
+  "trial_examples": [
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "related_concepts": [
+    "witches-sabbath-collective",
+    "witches-ointment-flying",
+    "midwife-suspect-figure",
+    "child-stealing-infanticide",
+    "sabbath-infanticide-feast"
+  ],
+
+  "source_method": "Demonological treatises (Malleus); trial records from Bamberg/Würzburg; scholarly analysis of interrogation procedure",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Child-stealing and infanticide accusations exemplify the prosecutorial construction of witchcraft charges through the integration of several independent anxieties (infant mortality, midwife access, sabbath inversion, ointment preparation) into a coherent narrative. The charges reveal the intellectual coherence Clark emphasizes — they fit perfectly into demonological logic — while also revealing the social dimensions Hutton identifies (real infant mortality, female knowledge suspicion) and the interrogation dynamics Ginzburg traces. Few witchcraft concepts better illustrate how prosecution manufactured evidence through the combination of theological expectation and torture-extracted confession.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

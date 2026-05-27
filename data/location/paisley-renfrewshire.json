@@ -1,0 +1,68 @@
+{
+  "id": "paisley-renfrewshire",
+  "name": "Paisley (Renfrewshire, Scotland)",
+  "type": "Town",
+  "region": "Scotland",
+  "modern_location": "Renfrewshire, Scotland",
+  "coordinates": {
+    "latitude": 55.845,
+    "longitude": -4.424
+  },
+
+  "administrative_context": "Paisley was a town in Renfrewshire, west of Glasgow, under Scottish secular and Kirk jurisdiction. As in all Scottish witch trials, prosecution required a commission from the Privy Council. The Bargarran case involved both local presbytery and secular court proceedings.",
+
+  "witchcraft_trials_significance": "The Paisley/Bargarran witch trial of 1697 is significant as the last major Scottish mass witch trial and one of the last Scottish trials to result in execution. The case was initiated by the apparent possession and fits of Christian Shaw, the young daughter of the laird of Bargarran, who accused several people of bewitching her. Seven people were executed at Paisley in June 1697: John Reid, Agnes Naismith, Margaret Fulton, Catherine Campbell, Elizabeth Anderson, James Lindsay, and Margaret Lang. The case attracted sceptical commentary at the time and is often cited as a turning point in Scottish prosecution.",
+
+  "trial_events": [
+    "paisley-1697-bargarran"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Lord Blantyre",
+      "role": "Presiding judge of the special commission",
+      "contribution_to_trials": "Presided over the Bargarran trial commission; signed execution warrants"
+    },
+    {
+      "name": "Christian Shaw",
+      "role": "Accuser (age 11)",
+      "contribution_to_trials": "Exhibited fits attributed to bewitchment; named accused persons; her symptoms drove the prosecution forward"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1696_august": "Christian Shaw begins exhibiting fits and vomiting objects attributed to witchcraft",
+    "1696_autumn": "Investigation begins; Shaw names accused; Privy Council issues commission",
+    "1697_spring": "Trial of accused before special commission",
+    "1697_june_10": "Seven convicted persons hanged and burned at Paisley Cross"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Paisley and the Bargarran estate in Renfrewshire",
+    "social_reach": "Accused ranged from a local minister's daughter to servants and elderly women; the social breadth reflected standard accusation patterns",
+    "gender_distribution": "Six women and one man executed",
+    "mortality_impact": "Seven executed; several others died in custody or were not brought to execution"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "The Bargarran case occurred at a moment when educated Scottish opinion was becoming increasingly sceptical of witchcraft prosecution, partly under influence of Restoration natural philosophy. The commission's willingness to proceed despite growing scepticism illustrates the continuing power of institutional and community pressure even as the intellectual foundations of prosecution were eroding.",
+    "hutton_perspective": "Hutton situates the Paisley case as evidence for the social dynamics of Scottish witch hunting in decline: the local community's belief in bewitchment, driven by Shaw's affliction, overrode the growing reluctance of the central legal apparatus to authorize further prosecution.",
+    "ginzburg_perspective": "The Bargarran testimonies, while following the standard sabbath template, were extracted in the context of a changing epistemological environment in which the reliability of such confessions was increasingly questioned, illustrating the late-stage operation of the interrogation-confession mechanism."
+  },
+
+  "legacy_and_historiographical_importance": "The Paisley execution is commemorated locally. The case is analyzed by Brian Levack and Julian Goodare in the context of the decline of Scottish witch prosecution. Christian Shaw later became famous as the inventor of Paisley thread manufacturing, a biographical detail that has attracted popular and some scholarly attention.",
+
+  "primary_sources": "Trial records; Privy Council commission; contemporary pamphlet A True Narrative of the Sufferings and Relief of a Young Girle (1698); analyzed in Levack and Goodare",
+
+  "source_method": "Published scholarship (Levack, Goodare, Larner), pamphlet literature, Privy Council records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

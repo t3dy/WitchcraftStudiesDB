@@ -1,0 +1,83 @@
+{
+  "id": "salem-massachusetts",
+  "name": "Salem (Massachusetts Bay Colony)",
+  "type": "Town",
+  "region": "New England / British Colonial America",
+  "modern_location": "Massachusetts, USA",
+  "coordinates": {
+    "latitude": 42.519,
+    "longitude": -70.896
+  },
+
+  "administrative_context": "Salem in 1692 was a town in the Massachusetts Bay Colony, a Puritan-founded colony operating under a new royal charter (1691) that had recently replaced the original Puritan charter. The political and religious transition created governance uncertainty. Witch trials were conducted before a specially constituted Court of Oyer and Terminer appointed by Governor Sir William Phips, operating under English common law rather than purely ecclesiastical jurisdiction.",
+
+  "witchcraft_trials_significance": "The Salem witch trials of 1692 are the most extensively documented and culturally resonant witch trial episode in the English-speaking world. Nineteen people were hanged, one man (Giles Corey) was pressed to death for refusing to enter a plea, and at least five died in prison. Over 150 people were formally accused. The trials began in Salem Village (present-day Danvers) with the afflictions of a group of young girls, spread rapidly through accusation networks, and ended in part through the intervention of Boston clergy and the governor's wife being accused.",
+
+  "trial_events": [
+    "salem-1692-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "William Stoughton",
+      "role": "Chief Justice, Court of Oyer and Terminer",
+      "contribution_to_trials": "Presided over court; admitted spectral evidence (testimony that the accused's 'specter' had tormented the witness) over objections; signed execution warrants; showed no remorse after the fact"
+    },
+    {
+      "name": "Samuel Parris",
+      "role": "Minister of Salem Village",
+      "contribution_to_trials": "His household was the origin point of the initial afflictions; he actively supported prosecution and interpreted events in providentialist terms"
+    },
+    {
+      "name": "Cotton Mather",
+      "role": "Boston Puritan minister and writer",
+      "contribution_to_trials": "Supported prosecutions and observed executions; wrote Wonders of the Invisible World (1693) defending the trials; later subject of historical condemnation"
+    },
+    {
+      "name": "Thomas Brattle",
+      "role": "Boston merchant and critic",
+      "contribution_to_trials": "Wrote influential letter (October 1692) criticizing spectral evidence and the court's procedures; contributed to turning colonial elite opinion against the trials"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1692_january_february": "Girls in Rev. Parris's household exhibit fits attributed to witchcraft; Tituba (enslaved woman), Sarah Good, and Sarah Osborne first accused",
+    "1692_march": "Formal examinations begin; accusations spread rapidly through Salem Village and neighbouring towns",
+    "1692_may": "Governor Phips constitutes Court of Oyer and Terminer; mass arrests; Bridget Bishop first tried",
+    "1692_june": "Bridget Bishop hanged; prominent ministers issue Return of Several Ministers questioning spectral evidence",
+    "1692_july_august": "Multiple hanging days; 14 executed by late August including former minister George Burroughs",
+    "1692_september": "Giles Corey pressed to death; 8 more hanged September 22",
+    "1692_october": "Governor Phips dissolves Court of Oyer and Terminer following widespread criticism and his wife's accusation",
+    "1693": "Superior Court convicts no one; remaining accused released; Governor pardons all"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Salem Village and Salem Town; spread to Andover, Ipswich, Gloucester, and other Essex County communities",
+    "social_reach": "Initially marginal figures; expanded rapidly to respected community members, ministers, wealthy merchants, and even the governor's wife",
+    "gender_distribution": "Approximately 75% female among accused; male accusation rate higher than European norm",
+    "mortality_impact": "19 executed by hanging, 1 pressed to death, at least 5 died in custody; approximately 150-200 formally accused"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark's framework illuminates how Puritan New England had absorbed a fully formed demonological tradition from English and continental sources, so that Salem magistrates were working within a coherent inherited intellectual framework when they credited spectral evidence and confessions of diabolical pact.",
+    "hutton_perspective": "Hutton situates Salem within the broader pattern of New England Puritan social stress: transition from original covenant community to commercial society, political uncertainty following the new charter, conflicts between Salem Village factions, and pre-existing neighborhood tensions all fed accusation patterns.",
+    "ginzburg_perspective": "Ginzburg's attention to confession analysis is applicable: the rapid spread of standardized sabbath narratives at Salem—meetings at Parris's pasture, signing a book, receiving a familiar—reflects both an inherited confessional template and the social dynamics of testimony in a tightly networked community."
+  },
+
+  "legacy_and_historiographical_importance": "Salem is by far the most studied witch trial episode in scholarship and popular culture, subject to dozens of monographs, sociological analyses, and literary treatments (most famously Arthur Miller's The Crucible, 1953). Key historiographical debates include the role of ergotism, Puritan social stress, frontier anxiety, factional politics, and adolescent psychology. Paul Boyer and Stephen Nissenbaum's Salem Possessed (1974) provided the landmark social-structural analysis. Bernard Rosenthal's Salem Story (1993) and Mary Beth Norton's In the Devil's Snare (2002) offered subsequent reinterpretations.",
+
+  "primary_sources": "Salem witch trial records (Massachusetts State Archives); Cotton Mather, Wonders of the Invisible World (1693); Robert Calef, More Wonders of the Invisible World (1700); Thomas Brattle letter (1692)",
+
+  "source_method": "Published scholarship (Boyer & Nissenbaum, Levack, Norton, Rosenthal), primary court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

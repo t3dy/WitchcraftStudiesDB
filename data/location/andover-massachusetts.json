@@ -1,0 +1,63 @@
+{
+  "id": "andover-massachusetts",
+  "name": "Andover (Massachusetts Bay Colony)",
+  "type": "Town",
+  "region": "New England / British Colonial America",
+  "modern_location": "Massachusetts, USA",
+  "coordinates": {
+    "latitude": 42.658,
+    "longitude": -71.137
+  },
+
+  "administrative_context": "Andover was a town in Essex County, Massachusetts Bay Colony, approximately 25 miles north of Salem. It was a farming community of moderate prosperity subject to the same colonial governance as Salem. The 1692 Andover witch accusations were triggered in part by the Salem panic spreading outward through family and community networks.",
+
+  "witchcraft_trials_significance": "Andover became the second major center of the 1692 Salem witch panic, with approximately 50 people accused—more per capita than Salem itself. The Andover cases are significant because they were triggered differently from Salem: Andover families invited the Salem accusers (the afflicted girls) to come to their town to identify witches among them, initiating a local cascade. The Andover cases also include some of the most remarkable self-accusations—individuals turning themselves in as witches—and some of the earliest recantations, as accused persons protested their innocence.",
+
+  "trial_events": [
+    "andover-1692-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Dudley Bradstreet",
+      "role": "Justice of the Peace, Andover",
+      "contribution_to_trials": "Initially issued warrants at the start of the Andover panic; later refused to issue further warrants as accusation spiraled; himself accused of witchcraft and fled"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1692_july": "Andover selectmen invite Salem accusers to identify local witches; initial Andover arrests",
+    "1692_august": "Cascade of accusations; approximately 50 Andover residents accused within weeks; some self-accuse",
+    "1692_september": "Andover petitioners begin protesting; Dudley Bradstreet refuses further warrants; accused recant testimonies",
+    "1692_october": "Andover petition against prosecution submitted; Court of Oyer and Terminer dissolved"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Andover and neighboring communities in northern Essex County",
+    "social_reach": "The Andover accusations crossed social boundaries unusually broadly, including several respectable church members and property-owning families",
+    "gender_distribution": "Mixed; while women predominated among accused, the Andover cases included a notable proportion of men",
+    "mortality_impact": "Several Andover accused were executed at Salem; at least 3 Andover residents among the 19 hanged"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark's framework illuminates how the Andover community's invitation of the Salem accusers represents active community participation in the prosecution framework—Andover residents initially sought out the identification process, reflecting genuine fear of diabolical infiltration within their community.",
+    "hutton_perspective": "Hutton situates Andover as evidence for the social dynamics of accusation spread: the panic moved from Salem to Andover through invitation and family networks rather than independent emergence, illustrating how social connectivity shaped the geography of witch panic.",
+    "ginzburg_perspective": "The Andover recantations—accused persons withdrawing confessions and proclaiming innocence—provide valuable evidence about the relationship between coerced confession and individual belief, raising questions about the nature of the testimony extracted during the crisis."
+  },
+
+  "legacy_and_historiographical_importance": "Andover's role in the Salem panic is analyzed in Bernard Rosenthal's Salem Story (1993) and Mary Beth Norton's In the Devil's Snare (2002). The town's petition against prosecution is an important document in the history of prosecutorial resistance.",
+
+  "primary_sources": "Salem witch trial records (Massachusetts State Archives) including Andover cases; Andover petition; analyzed in Rosenthal, Norton, Boyer and Nissenbaum",
+
+  "source_method": "Published scholarship (Rosenthal, Norton, Levack), trial records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

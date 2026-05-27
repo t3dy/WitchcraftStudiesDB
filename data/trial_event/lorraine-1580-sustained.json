@@ -1,0 +1,68 @@
+{
+  "id": "lorraine-1580-sustained",
+  "name": "Duchy of Lorraine Sustained Witch Persecutions",
+  "location_id": "lorraine-duchy",
+  "year_start": 1580,
+  "year_end": 1640,
+  "alleged_accused_count": 3000,
+  "executed_count": 900,
+  "regional_context": "Duchy of Lorraine, independent duchy on the France-HRE border; not formally part of France until 1766; mixed legal tradition drawing on both French and imperial law",
+
+  "summary": "The Duchy of Lorraine sustained the most extensive and prolonged witch prosecution in the French-speaking world, with approximately 3,000 prosecutions and around 900 executions across six decades. The magistrate Nicolas Rémy personally presided over approximately 900 executions and published *Daemonolatreiae* (1595), one of the most important demonological treatises produced in the context of active prosecution. Robin Briggs made Lorraine his primary research site, spending decades analyzing the surviving records, and his work fundamentally transformed understanding of how accusation networks functioned in a community context. Unlike German mass persecutions driven by institutional cascade, Lorraine's prosecutions were diffuse, sustained across sixty years, and deeply rooted in village-level social tensions.",
+
+  "historiographical_significance": "Robin Briggs's *Witches and Neighbours* (1996), based extensively on Lorraine records, established the foundational community-based model of witch accusation. Briggs demonstrated that Lorraine prosecutions typically resulted from long-standing neighborhood conflicts, repeated small accusations, and community-level suspicion building over years before formal prosecution, rather than sudden panic or institutional cascade. This finding challenged models emphasizing persecution as top-down imposition and instead showed prosecution as partly driven by community demand. Lorraine thus represents the largest empirical base for understanding 'normal' — non-mass-panic — witch prosecution in early modern Europe.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic",
+    "witches-sabbath-collective",
+    "female-susceptibility-theory"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Ducal courts of Lorraine; Nicolas Rémy as chief judge (Prévôt général) from 1570s",
+    "prosecuting_officials": "Nicolas Rémy (presided over ~900 executions); village prévôts; ducal bailliages",
+    "procedure": "French-influenced inquisitorial procedure; local courts with appeal to ducal tribunals; torture routinely applied; Rémy's *Daemonolatreiae* (1595) codified the accumulated demonological knowledge",
+    "torture_methods": ["strappado", "question extraordinaire (reserved for major crimes)"],
+    "trial_phases": [
+      {
+        "phase": "Early decades (1580-1600)",
+        "context": "Rémy's active prosecution period; hundreds of executions; *Daemonolatreiae* compiled from case records"
+      },
+      {
+        "phase": "Continued prosecution (1600-1625)",
+        "context": "Sustained pace across ducal territories; village-level accusations remain primary driver"
+      },
+      {
+        "phase": "Later phase (1625-1640)",
+        "context": "Thirty Years' War disruptions; French military pressure on Lorraine; prosecutions continue but in disrupted administrative context"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Briggs's community-based model of Lorraine prosecution has been influential but debated. Some historians argue Briggs overstates community agency and understates the role of judicial officials in shaping accusations and driving prosecution forward. Others question whether the Lorraine pattern can be generalized beyond the duchy's specific legal and social context. Rémy's role is also contested: was he a zealous prosecutor driving persecution, or primarily responding to community demands brought to his court?",
+
+  "accused_persons": [
+    "marie-dindarte-labourd-1609"
+  ],
+
+  "related_trials": [
+    "labourd-1609-trials",
+    "trier-1581-mass-persecution"
+  ],
+
+  "source_method": "Lorraine ducal court archives (Nancy); Robin Briggs, *Witches and Neighbours* (1996); Nicolas Rémy, *Daemonolatreiae libri tres* (1595)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Lorraine is arguably the single most important evidentiary base for community-based models of witch accusation. Briggs's decades of archival work revealed that most Lorraine accused were known community members with long histories of suspected maleficium, that accusers were typically people who believed themselves harmed rather than officials seeking suspects, and that the social dynamics of accusation involved complex webs of neighborhood obligation, suspicion, and fear. This community-level evidence complicates both the institutional explanation (prosecution as top-down imposition) and the elite-theory explanation (prosecution as demonological ideology driving persecution from above). Lorraine suggests that community-level demand for prosecution was often the initiating factor, with judicial officials serving a confirming rather than originating role.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

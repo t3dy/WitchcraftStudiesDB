@@ -1,0 +1,55 @@
+{
+  "id": "john-fian-north-berwick-1590",
+  "name": "John Fian (John Cunningham)",
+  "status": "Executed",
+  "trial_id": "north-berwick-1590",
+  "location_id": "north-berwick",
+  "year_accused": 1590,
+  "year_executed": 1591,
+  "age_at_trial": null,
+  "social_status": "Schoolmaster, Saltpans (Prestonpans)",
+  "gender": "Male",
+  "biography": "John Fian, whose real name was John Cunningham, was a schoolmaster at Saltpans (modern Prestonpans) in East Lothian at the time of the North Berwick trials. His position as an educated man gave him a social standing somewhat above most accused witches, and his role as a schoolmaster — responsible for instructing the young — made his alleged leadership of a witch conspiracy particularly alarming to contemporaries. He was named as the alleged ringleader of the North Berwick coven, the secretary and registrar of the devil.\n\nFian's case became notorious for the extraordinary torture applied to him and his dramatic recantation and re-arrest. Contemporary pamphlet accounts dwell at length on the methods used against him, depicting a man broken by suffering who nonetheless at one point managed to escape custody before being recaptured. His case illustrates the machinery of torture and confession in early modern Scottish witch trials with unusual clarity.",
+
+  "arrest_narrative": "Fian was arrested as part of the North Berwick prosecutions and accused of being the principal secretary and schoolmaster of the witches' assembly. He was brought before James VI and subjected to systematic torture. After confessing under torture, he was placed in less severe confinement, at which point he recanted all confessions and denied any dealings with the devil. This recantation was interpreted as proof of renewed demonic assistance, and he was subjected to extreme torture a second time.",
+
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": ["the boot (leg-crushing device)", "nail extraction", "head compression with rope", "needle insertion under fingernails"],
+    "torture_sessions": [
+      {"session": 1, "method": "The boot (leg-crushing device)", "outcome": "Confession to organizing North Berwick sabbath"},
+      {"session": 2, "method": "Nail extraction — nails torn out and needles inserted in the stumps", "outcome": "Further confessions"},
+      {"session": 3, "method": "Head compression and renewed boot", "outcome": "Recantation maintained despite torture; re-confession extracted eventually"}
+    ],
+    "initial_response": "Unknown — initial interrogation records partially lost; pamphlet suggests early confession",
+    "final_confession_summary": "Confessed to being secretary of the witches' assembly at North Berwick, raising storms against the king's ship, attempting love magic on a young woman, and making demonic pact; recanted after first confession, was tortured again, and died after this second round of torture"
+  },
+
+  "accusations_against_them": [
+    "Ringleader and secretary of North Berwick witches' assembly",
+    "Conspiracy to drown James VI at sea",
+    "Love magic and sexual misconduct",
+    "Demonic pact and allegiance",
+    "Raising storms by supernatural means",
+    "Attendance at witches' sabbath at North Berwick Kirk"
+  ],
+
+  "execution_details": {
+    "date": "1591-01-01",
+    "method": "Burning at stake after strangling",
+    "location": "Edinburgh, Castle Hill"
+  },
+
+  "historiographical_significance": "Fian's case is significant as one of the most elaborately documented torture-and-confession sequences in Scottish witch-trial history. His recantation and re-torture sequence illustrates how confession was understood not as evidence but as required admission, and how its withdrawal could only be explained demonologically. Scholars use his case to examine how the boot and other Scottish torture methods functioned in producing standardized confessions.",
+
+  "source_method": "Newes from Scotland pamphlet (1591); Scottish privy council records; Robert Pitcairn's Criminal Trials in Scotland (1833)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

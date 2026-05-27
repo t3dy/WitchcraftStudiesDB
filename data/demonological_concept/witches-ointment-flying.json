@@ -1,0 +1,73 @@
+{
+  "id": "witches-ointment-flying",
+  "name": "Flying Ointment (Unguentum Sabbati)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Central Europe",
+
+  "scholarly_definition": "The flying ointment (Latin unguentum, German Hexensalbe) was a substance allegedly prepared by witches from rendered infant fat, poisonous herbs, and other ingredients, applied to the body or to a broomstick to enable flight to the sabbath. The concept appeared in demonological treatises from the early 15th century onward, drawing on classical traditions of metamorphic ointments (notably Apuleius's *Golden Ass*). The pharmacological dimension of the concept — the possibility that psychoactive plant compounds could produce hallucinations of flight — has attracted modern scholarly and scientific attention, though the hypothesis remains contested.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Apuleius's *Metamorphoses* (*Golden Ass*) — ointment enabling shape transformation",
+      "Classical traditions of pharmaka (magical substances, potions)",
+      "Medieval herbalism and knowledge of toxic plant preparations"
+    ],
+    "early_modern_codification": [
+      "Johannes Nider's *Formicarius* (c.1437) — early ointment description",
+      "Malleus Maleficarum — systematic ointment doctrine",
+      "Giambattista della Porta's *Magia Naturalis* (1558) — naturalistic analysis of ointment ingredients",
+      "Johannes Weyer's *De Praestigiis Daemonum* (1563) — pharmacological skeptical interpretation"
+    ],
+    "formalization_sources": [
+      "Inquisitorial confessions describing ointment preparation",
+      "Medical and botanical literature on solanaceous plant toxicology",
+      "Humanist skeptical literature reinterpreting flight as drug-induced hallucination"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark shows that learned debates about the flying ointment forced demonologists to engage with natural philosophy: if flight was caused by a natural substance (ointment), was it really preternatural or merely pharmacological? Demonologists typically resolved this by arguing that Satan used the ointment as an instrument of his power, not that the ointment acted independently. The ointment debate thus became a site for working out the relationship between natural causation and demonic agency — a live philosophical question with implications for how prosecutions were justified.",
+
+  "hutton_social_analysis": "Hutton notes that ointment preparation involved knowledge systems — herbal, chemical, domestic — associated with women's household expertise. The criminalization of ointment-making transformed practical knowledge of medicinal and poisonous plants into evidence of malefic preparation. The overlap between legitimate herbalism and witch ointment preparation is one of the clearest examples of how female knowledge domains could be reframed as satanic practice under prosecution pressure.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg observes that ointment descriptions in trial confessions vary considerably, suggesting they were not drawn from a single coherent tradition but elaborated from interrogator prompts combined with accused persons' genuine knowledge of plant preparations. The infant-fat ingredient was a prosecutorial obsession (linking ointment to child-murder and sabbath cannibalism) not evidenced in folk descriptions; it entered confessions through interrogation, not practitioner self-description.",
+
+  "actor_perspective": {
+    "practitioner_language": "Some accused persons did describe using preparations before experiencing nocturnal visions or journeys, suggesting that solanaceous plant compounds (belladonna, henbane, datura) were genuinely used in some magical contexts and produced subjective experiences of flight or transformation. These practitioners would not have framed such preparations as 'flying ointments' in the demonological sense but as aids to visionary practice.",
+    "misalignment": "The gap is between a possible genuine pharmacological practice (using psychoactive plants for visionary experience) and the demonological interpretation (ointment as devil-given tool for physical flight to sabbath). The naturalistic explanation (drug-induced hallucination) was in fact advanced by early modern skeptics like Weyer, making this concept unusual in having a recognized alternative interpretation from within the period itself."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Most demonologists held that physical flight was real, enabled by Satan who used the ointment as an occasion for demonic transport. Some allowed that flight might be illusory while still diabolic — the devil causing the witch to dream of flight while her body remained asleep. This debate connected to the Canon Episcopi controversy about whether nocturnal experiences were real or imaginary.",
+    "canonical_law": "Ointment preparation from infanticide materials connected flying ointment to capital crimes of murder; even without flight, the preparation of malefic substances from child corpses constituted multiple prosecutable offences."
+  },
+
+  "regional_variations": "Flying ointment descriptions were most elaborate in German and Italian sources. English prosecutions rarely featured ointment narratives, consistent with England's lesser emphasis on sabbath flight. The specific ingredient of infant fat appeared more consistently in interrogation-heavy Continental confessions than in English cases. Humanist and medical commentators in Italy (della Porta) and Germany (Weyer) were early skeptics who proposed pharmacological alternatives to supernatural flight.",
+
+  "scholarly_disagreement": "The pharmacological hypothesis — that solanaceous alkaloids in ointment plants (atropine, scopolamine, hyoscine) could produce hallucinations of flight — remains unverified in controlled conditions and is widely considered insufficient as a general explanation for sabbath narratives. Scholars like Harner proposed it as a serious hypothesis in the 1970s; most current historians regard it as at best a partial explanation for a subset of cases, not a general account of sabbath confessions, which were primarily generated through interrogation procedures.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "witches-sabbath-collective",
+    "nocturnal-flight-reality",
+    "child-stealing-infanticide",
+    "witch-flying-broom",
+    "shapeshifting-metamorphosis"
+  ],
+
+  "source_method": "Theological treatises; inquisitorial confessions; naturalistic literature (della Porta, Weyer); modern pharmacological analyses",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The flying ointment represents one of the few early modern witchcraft concepts where contemporaries themselves advanced naturalistic explanations. Weyer's pharmacological skepticism anticipated modern theories by four centuries, suggesting the limits of purely intellectual-history or social-history approaches. The concept requires holding in tension a genuine possible practice (psychoactive plant use) with an elaborated prosecutorial narrative (infant murder, sabbath flight) that was largely constructed through interrogation. This complexity makes the flying ointment an important test case for methodological approaches to separating practitioner reality from prosecutorial construction.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

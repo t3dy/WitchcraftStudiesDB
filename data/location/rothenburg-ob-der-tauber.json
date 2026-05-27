@@ -1,0 +1,60 @@
+{
+  "id": "rothenburg-ob-der-tauber",
+  "name": "Rothenburg ob der Tauber (Bavaria, Germany)",
+  "type": "City",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Bavaria, Germany",
+  "coordinates": {
+    "latitude": 49.378,
+    "longitude": 10.180
+  },
+
+  "administrative_context": "Rothenburg ob der Tauber was a Free Imperial City of the Holy Roman Empire—a city with direct Imperial subjection rather than governed by a territorial prince. As such its prosecutions fell under its own city council and courts rather than an ecclesiastical or secular prince's jurisdiction. This independent city status gave the council significant autonomy over prosecution decisions.",
+
+  "witchcraft_trials_significance": "Rothenburg ob der Tauber experienced significant witch prosecutions in 1629-1631, concurrent with the peak south German persecution wave. The city's status as a Free Imperial City and its predominantly Lutheran character (it had converted to Lutheranism in the Reformation) meant its persecutions occurred in a Protestant institutional context, contrasting with the Catholic ecclesiastical-state prosecutions at Bamberg and Würzburg. The Rothenburg records have been analyzed by Alison Rowlands in a major study focusing on how the city's council moderated prosecution compared to Catholic neighbours.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Rothenburg City Council",
+      "role": "Governing authority of the Free Imperial City",
+      "contribution_to_trials": "Exercised judicial control; notably more restrained in prosecution than Catholic neighbours; several accused were ultimately released rather than executed"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1629": "Witch prosecutions begin at Rothenburg in context of the wider south German panic",
+    "1630": "Cases continue; city council's relative restraint prevents mass execution",
+    "1631": "Prosecution winds down; Swedish military advance into south Germany disrupts normal governance"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Rothenburg ob der Tauber and its immediate hinterland",
+    "social_reach": "Multiple social positions represented among accused; city council's oversight moderated the social breadth of prosecution",
+    "gender_distribution": "Predominantly female among accused",
+    "mortality_impact": "Fewer executions than in neighbouring Catholic territories; some accused acquitted or released; Rowlands documents the relative moderation of Rothenburg's prosecution"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark's framework situates Rothenburg within Lutheran demonology, noting that Protestant witch prosecution operated within a broadly similar theological framework to Catholic prosecution while differing in institutional structure—city councils rather than bishop-princes, without inquisitorial procedure.",
+    "hutton_perspective": "Hutton notes that the comparative moderation of Protestant city-council prosecution, visible at Rothenburg, reflects the absence of the combined ecclesiastical-secular authority that enabled the most intensive Catholic prosecutions, suggesting institutional structure as a significant variable.",
+    "ginzburg_perspective": "Alison Rowlands's detailed microhistorical study of individual Rothenburg cases illustrates both the community dynamics of accusation and the council's negotiation between prosecutorial pressure and legal restraint."
+  },
+
+  "legacy_and_historiographical_importance": "Rothenburg is the subject of Alison Rowlands's Witchcraft Narratives in Germany: Rothenburg, 1561-1652 (2003), which provides one of the most detailed microhistorical analyses of any German city's witch prosecution. The city is today known primarily as a beautifully preserved medieval walled city and major tourist destination.",
+
+  "primary_sources": "Rothenburg city council records and court records; analyzed in Rowlands, Witchcraft Narratives in Germany (2003)",
+
+  "source_method": "Published scholarship (Rowlands, Behringer, Levack), Rothenburg city archives",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

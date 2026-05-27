@@ -1,0 +1,72 @@
+{
+  "id": "healing-magic-white",
+  "name": "Healing Magic / White Witchcraft (Beneficial Folk Magic)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "England",
+
+  "scholarly_definition": "Healing magic encompassed the wide range of beneficial magical practices offered by cunning folk, wise women, and village healers: diagnosis and treatment of bewitchment, herbal medicine, charm healing, bone-setting, midwifery, and counter-magic against maleficium. The term 'white witchcraft' is a modern analytical label for this practice domain; contemporary practitioners did not typically use it. Healing magic occupied a paradoxical position in witch prosecution: the same techniques of diagnosis, charm, and counter-magic that established a practitioner's reputation as a healer also positioned them as potentially capable of harm — the witch who could heal could also curse.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Folk healing traditions combining herbal medicine and supernatural invocation",
+      "Church-licensed exorcism and healing as legitimate practice",
+      "Medical astrology and humoral diagnosis traditions"
+    ],
+    "early_modern_codification": [
+      "Reginald Scot's documentation of cunning folk services (*Discoverie*, 1584)",
+      "Keith Thomas's anthropological reconstruction of folk healer practices",
+      "Hutton's systematic study of cunning folk in British sources"
+    ],
+    "formalization_sources": [
+      "Church court records documenting 'cunning man' consultations",
+      "Assize records for both prosecution and defence of healers",
+      "Surviving charm books and magical manuscripts"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark situates healing magic in the theological grey zone between legitimate prayer (asking God for healing) and illegitimate manipulation (compelling supernatural forces). Demonologists were concerned that healing magic, even when apparently beneficial, might involve implicit demonic pact — the healer's power, if genuinely effective against natural expectation, required explanation, and demonic agency provided that explanation. Perkins's Protestant demonology emphasized that the 'good witch' was more dangerous than the evil one precisely because beneficial effects drew clients into diabolic networks.",
+
+  "hutton_social_analysis": "Hutton's work on cunning folk is foundational here: he shows that virtually every English community had access to at least one cunning man or wise woman offering healing services, counter-magic, divination, and lost property recovery. These practitioners were legitimate, consulted, respected community figures — not marginal eccentrics. The same community that prosecuted a witch frequently protected its cunning folk, making the distinction between healer and witch a social judgment about reputation and trustworthiness rather than a difference of technique.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's interest in healing magic connects to his benandanti research: the benandanti were fundamentally healers, defending community fertility through nocturnal spirit battles. Their conversion from community defenders to prosecuted witches illustrates how interrogation transformed beneficial practitioners into sabbath attenders. Ginzburg's broader argument is that many accused witches were genuine magical practitioners whose real practices were reframed through demonological categories under interrogation.",
+
+  "actor_perspective": {
+    "practitioner_language": "Healers understood their practice through frameworks of inherited knowledge, gift, divine favour, and experience. They drew on herbal knowledge, spoken charms (typically Christian prayer formulas), physical manipulation, and diagnostic procedures that were practically continuous with what physicians offered, differing more in social access and cost than in fundamental technique.",
+    "misalignment": "The demonological reinterpretation insisted that any genuinely effective magical healing required demonic supplementation — prayer could not be effective through magical technique but only through God's response, meaning any reliably effective charm involved demonic assistance. Practitioners who simply understood their techniques as working were not aware of the diabolic agency supposedly enabling their effectiveness."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Protestant and Catholic demonology alike condemned healing magic that operated through efficacious charms rather than genuine prayer, on the grounds that magic's effectiveness implied demonic rather than divine agency. The 'good witch' who healed was worse than the evil witch who harmed because she normalised the diabolic transaction for clients seeking help.",
+    "canonical_law": "Canon law distinguished between legitimate religious healing (exorcism, blessed objects, intercessory prayer) and magical healing (charms, sympathetic procedures). The boundary was practically impossible to draw when folk healers combined Christian prayer with manual techniques, creating perennial jurisdictional uncertainty."
+  },
+
+  "regional_variations": "England had the best-documented cunning folk tradition, studied extensively by Keith Thomas and Ronald Hutton. The Welsh had their own healer traditions (dyn hysbys). Scotland showed similar patterns. German Zauberdoktoren and Segensprecher paralleled English cunning folk. Italian folk healers (often called streghe for women) had complex inquisitorial records. Scandinavian wise women (kloke koner in Norway) were common community figures. The universality of beneficial magical practitioners across European communities is one of Hutton's key findings.",
+
+  "scholarly_disagreement": "Thomas and Macfarlane debated whether cunning folk were primarily treated as beneficial practitioners (Thomas) or whether their ambiguous status made them potential witch suspects (Macfarlane). Hutton's comprehensive English survey supports Thomas's view that cunning folk were generally respected and relatively protected from prosecution. Briggs's French material shows more ambiguity. The question of whether the healer/witch boundary was stable or constantly at risk remains debated.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "cunning-folk-services",
+    "wise-woman-healer",
+    "cunning-folk-vs-witch",
+    "maleficium-concept",
+    "protective-magic-counter"
+  ],
+
+  "source_method": "Church court records; assize records; Hutton's cunning folk research; Thomas's Religion and the Decline of Magic; surviving charm books",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Healing magic is the domain where Hutton's social history of cunning folk contributes most distinctively to witchcraft studies. His insistence that beneficial practitioners were legitimate, respected community figures rather than marginalized suspects challenges earlier accounts that saw the healer-to-witch transition as routine. The analytical challenge is to hold both poles simultaneously: healing practitioners were genuinely useful and generally protected, yet the same knowledge and reputation that made them useful could under specific circumstances of accusation convert into evidence of malefic capacity.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "labourd-1609-trials",
+  "name": "Labourd Basque Witch Trials",
+  "location_id": "labourd",
+  "year_start": 1609,
+  "year_end": 1610,
+  "alleged_accused_count": 500,
+  "executed_count": 80,
+  "regional_context": "Labourd, Basque Country, Kingdom of France; Henri IV sent commissioners to investigate reports of widespread witchcraft in the Basque coastal territory",
+
+  "summary": "The Labourd trials (1609-1610) were conducted by two commissioners sent by Henri IV of France — Pierre de Lancre and Jean d'Espaignet — who spent approximately four months conducting intense prosecutions in the Basque coastal territory. Over 80 individuals were burned in this short period, an extraordinary rate achieved partly by the commissioners' willingness to proceed without the procedural cautions normal in French parlement courts. De Lancre subsequently published *Tableau de l'inconstance des mauvais anges et démons* (1612), one of the most elaborate descriptions of sabbath ceremony in demonological literature, featuring detailed accounts of Basque sabbath practices at the Aquelarre (witch's meadow). The local Basque clergy were themselves accused, adding a dimension of clerical crisis to the prosecutions.",
+
+  "historiographical_significance": "Pierre de Lancre's *Tableau* is a primary source of extraordinary demonological elaboration, and Stuart Clark's analysis treats it as a sophisticated construction of sabbath inversion-theology — the sabbath as the systematic inversion of Christian sacramental order. Clark demonstrates how de Lancre's descriptions were not merely reportage but ideological construction, each element of the alleged sabbath corresponding to a perversion of Christian ritual. The Labourd case is also crucial for understanding French prosecution patterns: French parlement courts were generally skeptical of witch prosecutions and tended to acquit on appeal, but commissioners operating outside the parlement framework could achieve very different outcomes. De Lancre operated with vice-regal authority that bypassed normal French procedural constraints.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "demonological-conspiracy",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Henri IV of France; commissioners Pierre de Lancre and Jean d'Espaignet",
+    "prosecuting_officials": "Pierre de Lancre (primary judge); Jean d'Espaignet (co-commissioner); local Basque prévôts",
+    "procedure": "Vice-regal commission bypassing normal parlement oversight; very rapid proceedings; torture applied; local clergy accused alongside laity",
+    "torture_methods": ["question ordinaire", "question extraordinaire"],
+    "trial_phases": [
+      {
+        "phase": "Commission arrival and initial prosecutions (summer 1609)",
+        "context": "Commissioners arrive in Labourd; systematic questioning of accused persons; first executions; local clergy among accused"
+      },
+      {
+        "phase": "Intensive prosecution (autumn 1609)",
+        "context": "Peak execution rate; elaborate sabbath confessions recorded; de Lancre's elaborate demonological framework applied to Basque cultural practices"
+      },
+      {
+        "phase": "Commission departure (early 1610)",
+        "context": "Commissioners leave; prosecution rate drops sharply; parlement of Bordeaux reasserts oversight; further executions prevented"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate the relationship between de Lancre's demonological ideology and the specific Basque cultural context. De Lancre's *Tableau* contains detailed descriptions of specifically Basque customs, music, and landscape that he interpreted through a demonological lens. Some scholars argue he systematically misinterpreted Basque folk practices as diabolism; others suggest that actual folk magical practices in the region provided the raw material that de Lancre then reformulated. The role of Basque cultural distinctiveness — language, maritime isolation, specific folk traditions — in producing the particular character of the Labourd confessions is also debated.",
+
+  "accused_persons": [
+    "marie-dindarte-labourd-1609"
+  ],
+
+  "related_trials": [
+    "lorraine-1580-sustained",
+    "zugarramurdi-1609-trials"
+  ],
+
+  "source_method": "Pierre de Lancre, *Tableau de l'inconstance des mauvais anges et démons* (1612); Parlement de Bordeaux records; Michelet's nineteenth-century synthesis; modern Basque regional historiography",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "De Lancre's *Tableau* holds a distinctive place in demonological literature as the most elaborately visual and ethnographically detailed description of the sabbath produced during active prosecution. Clark's reading of the text as systematic theological inversion (sabbath as anti-church) illuminates its internal logic: every element of the sabbath described by de Lancre corresponds to a perversion of Catholic sacrament and liturgy. This reading emphasizes that de Lancre was not simply recording confessions but constructing a theologically coherent counter-narrative of demonic worship. The Labourd case also introduces Basque folk culture as a specific regional variable, raising the question of whether different regional magical traditions produced qualitatively different prosecution narratives — a question central to Ginzburg's comparative microhistorical project.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "aix-en-provence",
+  "name": "Aix-en-Provence (Provence, France)",
+  "type": "City",
+  "region": "Southern France",
+  "modern_location": "Provence-Alpes-Côte d'Azur, France",
+  "coordinates": {
+    "latitude": 43.529,
+    "longitude": 5.447
+  },
+
+  "administrative_context": "Aix-en-Provence was the capital of Provence and seat of the Parlement de Provence, the sovereign appellate court for the region. The Parlement exercised oversight over witchcraft prosecutions in the region. The 1611 possession case was heard by ecclesiastical authority but the broader legal context was monitored by the Parlement.",
+
+  "witchcraft_trials_significance": "The 1611 Aix-en-Provence possession case involved Madeleine de Demandolx de la Palud, a Ursuline novice who claimed diabolical possession, and resulted in the execution of Louis Gaufridy, a priest from Marseille accused of bewitching her. The case is significant as one of the earliest major French possession trials, predating Loudun by two decades, and for its elaborate demonological testimony under exorcism about the sabbath and diabolical pact. Gaufridy was burned at Aix on April 30, 1611.",
+
+  "trial_events": [
+    "aix-en-provence-1611-possession"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Louis Gaufridy",
+      "role": "Accused — priest of Accoules parish, Marseille",
+      "contribution_to_trials": "Accused by the possessed Madeleine de Demandolx; subjected to intense interrogation and torture; confessed; burned April 30, 1611"
+    },
+    {
+      "name": "Sebastian Michaëlis",
+      "role": "Dominican inquisitor and exorcist",
+      "contribution_to_trials": "Conducted exorcisms of Madeleine de Demandolx; extracted extensive testimony about the sabbath and demonic hierarchy; published Admirable History (1612) documenting the case"
+    },
+    {
+      "name": "Madeleine de Demandolx de la Palud",
+      "role": "Possessed novice; principal accuser",
+      "contribution_to_trials": "Central figure; claimed Gaufridy had introduced her to diabolism; testimony under exorcism provided the prosecution's narrative"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1609": "Madeleine de Demandolx enters Ursuline convent; symptoms of possession begin",
+    "1610": "Exorcisms begin under Michaëlis; Gaufridy named as the bewitching priest",
+    "1611_january_march": "Intensive exorcisms at Sainte-Baume; Gaufridy arrested; confession extracted",
+    "1611_april_30": "Gaufridy burned alive at Aix",
+    "1612": "Michaëlis publishes Admirable History documenting the case and its demonological revelations",
+    "1652_1670": "Madeleine de Demandolx later tried and imprisoned for witchcraft herself, having continued diabolical activity"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Aix-en-Provence and Marseille primarily; drew ecclesiastical and judicial attention from across Provence",
+    "social_reach": "Confined to convent environment and accused priest; relatively limited social spread compared to mass panics",
+    "gender_distribution": "Female possessed (Madeleine); male accused and executed (Gaufridy)",
+    "mortality_impact": "Gaufridy executed; the case was narrow in its immediate victim count but influential as a model case"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark analyzes Michaëlis's Admirable History as a demonological text in which the demon Beelzebub, speaking through the possessed Madeleine, provides a theological account of the diabolical hierarchy and the mechanisms of possession and bewitchment—illustrating how exorcism served as a vehicle for demonological knowledge production.",
+    "hutton_perspective": "Hutton situates Aix within the pattern of convent possession cases that followed the Counter-Reformation intensification of female religious life: enclosed convents created conditions of psychological intensity, hierarchical tension, and social isolation that generated possession performances serving multiple institutional functions.",
+    "ginzburg_perspective": "The Aix case raises questions about the voice and agency of Madeleine de Demandolx whose later prosecution for witchcraft suggests a complex trajectory from victimhood to active participation in diabolical identity—a trajectory that resists simple categorization."
+  },
+
+  "legacy_and_historiographical_importance": "The Aix case is studied as an early major French possession trial and as a model that influenced later cases including Loudun. Michaëlis's Admirable History is a primary demonological source. The case has been analyzed by Robert Mandrou and in broader studies of French possession cases.",
+
+  "primary_sources": "Sebastian Michaëlis, Admirable History (Histoire admirable de la possession..., 1612); trial records in Aix archives; contemporary ecclesiastical documentation",
+
+  "source_method": "Published scholarship (Mandrou, Levack, Clark), Michaëlis's Admirable History",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

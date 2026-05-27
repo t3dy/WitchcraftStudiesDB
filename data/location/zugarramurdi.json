@@ -1,0 +1,68 @@
+{
+  "id": "zugarramurdi",
+  "name": "Zugarramurdi (Navarre, Spain)",
+  "type": "Town",
+  "region": "Iberian Peninsula / Basque Country",
+  "modern_location": "Navarre, Spain",
+  "coordinates": {
+    "latitude": 43.269,
+    "longitude": -1.542
+  },
+
+  "administrative_context": "Zugarramurdi was a small Basque village in the Kingdom of Navarre, which fell under the jurisdiction of the Spanish Inquisition's tribunal at Logroño. The Spanish Inquisition differed markedly from secular witch courts elsewhere in Europe in its generally sceptical institutional posture toward witchcraft claims, although local enthusiasms sometimes pushed prosecutorial action.",
+
+  "witchcraft_trials_significance": "The Zugarramurdi case of 1609 resulted in a notable auto-da-fé at Logroño where 6 people were burned in effigy and 6 in person (12 effigies representing those who had died or fled). The case prompted a remarkable response: Inquisitor Alonso de Salazar Frías was sent to investigate witchcraft accusations across the Basque country and concluded, after exhaustive investigation of some 1,800 cases, that there was no reliable evidence of witchcraft whatsoever. His findings led the Spanish Inquisition to issue instructions (1614) effectively ending major witch prosecution in Spain—making Zugarramurdi paradoxically the catalyst for the most thoroughgoing sceptical refutation of witch trial claims in early modern Europe.",
+
+  "trial_events": [
+    "zugarramurdi-1609-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Juan de Valle Alvarado",
+      "role": "Inquisitor, Logroño tribunal",
+      "contribution_to_trials": "Led initial prosecution; organized the 1610 auto-da-fé at Logroño; sent enthusiastic reports to the Suprema"
+    },
+    {
+      "name": "Alonso de Salazar Frías",
+      "role": "Inquisitor; investigator (1609-1612)",
+      "contribution_to_trials": "Dispatched to investigate in the aftermath of the Logroño auto; visited 1,800+ accused; found physical evidence of witchcraft consistently unreliable; wrote exhaustive report recommending cessation of prosecution"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1609": "Initial denunciations in Zugarramurdi and surrounding Basque villages; Logroño tribunal initiates prosecution",
+    "1610_november": "Auto-da-fé at Logroño; 12 burned in person or effigy; panic spreads across the Basque country",
+    "1611_1612": "Salazar Frías's extensive visitation of accused communities; physical and testimonial evidence systematically examined",
+    "1614": "Spanish Inquisition Suprema issues new instructions citing Salazar's findings; effectively halts Spanish witch prosecution"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Zugarramurdi and surrounding Basque and Navarrese villages; panic temporarily spread across Spanish Basque country",
+    "social_reach": "Village community broadly; accused came from multiple social positions within the Basque rural community",
+    "gender_distribution": "Mixed, with women predominant among accused as in most European cases",
+    "mortality_impact": "6 burned in person at Logroño auto-da-fé (1610); 6 burned in effigy; the broader panic contained by Salazar's investigation before mass execution could occur"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark reads the Zugarramurdi case within the intellectual history of scepticism: Salazar's evidentiary standards and his conclusion that confessions and testimony were unreliable represent an important moment in the epistemological critique of witch trial procedure, occurring within the Spanish Inquisition's own institutional framework.",
+    "hutton_perspective": "Hutton notes the paradox that the Spanish Inquisition, often regarded as the most feared tribunal in Europe, was in fact more sceptical about witchcraft claims than many secular courts, and that Salazar's investigation represents the most rigorous application of evidential standards to witch trial claims in the early modern period.",
+    "ginzburg_perspective": "Ginzburg finds significance in the Basque sabbath narratives—the akelarre—which have structural features connecting them to regional shamanic traditions. Salazar's debunking does not necessarily resolve the question of whether the underlying folk beliefs contained authentic traditional elements."
+  },
+
+  "legacy_and_historiographical_importance": "Zugarramurdi/Logroño is historiographically crucial because of Salazar's investigation and the resulting Inquisition instructions. Gustav Henningsen's The Witches' Advocate (1980) provides the definitive scholarly treatment, analyzing Salazar's report in full and arguing that his work constitutes the most sophisticated empirical refutation of witch trial claims in early modern Europe.",
+
+  "primary_sources": "Salazar Frías's report to the Suprema (1612, preserved in Inquisition archives Madrid); auto-da-fé relaciones (accounts); analyzed in Henningsen, The Witches' Advocate (1980)",
+
+  "source_method": "Published scholarship (Henningsen, Levack, Caro Baroja), Spanish Inquisition archival sources",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

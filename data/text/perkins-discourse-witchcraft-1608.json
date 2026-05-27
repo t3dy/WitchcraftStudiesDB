@@ -1,0 +1,33 @@
+{
+  "id": "perkins-discourse-witchcraft-1608",
+  "title": "A Discourse of the Damned Art of Witchcraft",
+  "author": "William Perkins",
+  "author_id": null,
+  "year_published": 1608,
+  "language": "English",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Cantrel Legge, Cambridge, 1608 (posthumous)",
+  "modern_edition": "Available in early modern reprints; no modern critical edition",
+  "significance": "The most influential Puritan demonological text; particularly important for its argument that cunning folk (healers and diviners) are more spiritually dangerous than malefic witches; shaped New England Puritan witch prosecution theology.",
+  "summary": "Perkins, the leading Puritan theologian of late Elizabethan Cambridge, composed this treatise (published posthumously) as a comprehensive Calvinist account of witchcraft. He defines witchcraft as any practice involving a covenant with the devil, whether for harm or healing. His most distinctive and influential argument is that the 'good witch' — the cunning man or wise woman who heals and finds lost goods — is more spiritually dangerous than the malefic witch, because the good witch's services lead people to seek the devil's help rather than God's providence. This argument had significant consequences for persecution of healers and cunning folk.",
+  "clark_analysis": "Clark reads Perkins within the Reformed theological tradition that understood any human attempt to manipulate the supernatural as a violation of God's absolute sovereignty. Perkins's condemnation of cunning folk is not incidental to his theology but flows directly from his Calvinist understanding of providence and the limits of human agency.",
+  "hutton_analysis": "Hutton takes direct issue with Perkins's framework: his research on cunning folk demonstrates that they functioned as legitimate community healers, not as devil-pact practitioners. Perkins's demonological framework misrepresented a genuine healing tradition and contributed to making it legally vulnerable. Hutton's work on the social history of cunning folk is partly a rebuttal of the Perkins framework.",
+  "ginzburg_analysis": "Ginzburg notes that Perkins's condemnation of cunning folk represents the Reformed Protestant version of the same suppresssion of popular magical culture that Catholic demonologists pursued through different theological means. Both traditions targeted practitioners who served community needs through unauthorized supernatural engagement.",
+  "key_arguments": [
+    "Any covenant with the devil, whether for harm or healing, is equally damnable",
+    "The cunning man or wise woman is more dangerous than the malefic witch because more trusted",
+    "Seeking help from cunning folk is spiritually equivalent to worshipping the devil",
+    "Christian providence provides all necessary remedies; seeking magical help is rebellion against God",
+    "Death is the appropriate penalty for all practitioners of covenant-based magic"
+  ],
+  "influence_on_prosecutions": "Perkins's text was particularly influential in New England: it was reprinted there and shaped Puritan attitudes toward both malefic witches and cunning folk. The Salem prosecutions of 1692 drew on a theological culture that Perkins had substantially shaped. In England, his arguments contributed to hostility toward cunning folk that persisted through the seventeenth century.",
+  "related_texts": ["james-vi-daemonologie-1597", "daneau-dialogue-witches-1574", "bernard-guide-grand-jury-1627", "mather-wonders-invisible-world-1693"],
+  "related_trials": [],
+  "scholarly_disagreement": "Historians debate the degree to which Perkins's demonology was representative of mainstream Puritan opinion versus an extreme position. Some argue his condemnation of cunning folk had limited practical effect on prosecution rates; others argue it fundamentally shaped prosecution culture in Calvinist regions. His relationship to earlier Continental Calvinist demonology (Daneau, Lambert Daneau) has been analyzed differently by different scholars.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-ronald-b1953"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

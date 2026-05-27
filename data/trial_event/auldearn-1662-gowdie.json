@@ -1,0 +1,70 @@
+{
+  "id": "auldearn-1662-gowdie",
+  "name": "Auldearn Trial of Isobel Gowdie",
+  "location_id": "scotland-general",
+  "year_start": 1662,
+  "year_end": 1662,
+  "alleged_accused_count": 4,
+  "executed_count": 4,
+  "regional_context": "Auldearn, Nairnshire, Highland Scotland; within the broader 1661-1662 Scottish Restoration panic; rural Highland community with strong folk magical tradition",
+
+  "summary": "Isobel Gowdie's confession (April-May 1662) at Auldearn in Nairnshire is the most elaborate, detailed, and analytically significant voluntary confession in the history of British witch trials. Unlike most accused witches who confessed under torture, Gowdie voluntarily came forward and gave four detailed, internally consistent confessions describing sabbath attendance, shape-shifting into animals (hare, cat, crow), the shooting of elf-arrows to harm humans and livestock, sexual intercourse with the Devil, and membership in a coven of thirteen. No torture is recorded in her depositions. The richness and apparent spontaneity of her confessions has made them foundational evidence for historians analyzing the relationship between folk belief and demonological prosecution.",
+
+  "historiographical_significance": "Carlo Ginzburg's analysis of Gowdie's confession in *Ecstasies* (1989) treats it as one of the strongest pieces of evidence for his thesis of a pan-European shamanic substratum underlying witch confessions. The shape-shifting, elf-arrow shooting, and fairy encounters described by Gowdie parallel benandanti confessions from Friuli and other European folk magical traditions, suggesting to Ginzburg a deep cultural stratum rather than either torture-fabrication or demonological invention. Emma Wilby's detailed analysis *The Visions of Isobel Gowdie* (2010) argues even more strongly for the authenticity of Gowdie's folk magical belief system. Skeptics including Briggs question whether Gowdie's 'voluntary' confessions were truly uncoerced or whether social pressure and procedural context shaped them despite the absence of recorded torture.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "shapeshifting-transformation",
+    "fairy-folk-belief-diabolized",
+    "maleficium-elf-arrows"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Local commission in Nairnshire; within broader 1661-1662 Scottish panic",
+    "prosecuting_officials": "Local Nairnshire commissioners; minister and kirk session",
+    "procedure": "Four separate voluntary confessions given by Gowdie without recorded torture; unusually detailed and elaborate; names coven associates",
+    "torture_methods": [],
+    "trial_phases": [
+      {
+        "phase": "First confession (April 13, 1662)",
+        "context": "Gowdie presents herself voluntarily; first detailed account of sabbath, coven, demonic pact, shape-shifting"
+      },
+      {
+        "phase": "Second, third, fourth confessions (April-May 1662)",
+        "context": "Three further elaborate confessions adding detail about elf-arrows, fairy queen encounters, maleficium practices"
+      },
+      {
+        "phase": "Outcome",
+        "context": "Execution presumed; exact date of execution not recorded in surviving sources"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The central debate about Gowdie is whether her voluntary, uncoerced confessions reflect genuine folk magical belief, deliberate fabrication for unknown personal reasons, or a confession culture in which the form of self-presentation was shaped by available cultural scripts (demonological and folk magical) even without direct torture. Wilby argues powerfully for genuine folk belief; Briggs and others question whether 'voluntary' is the right characterization given the social context of her interrogation. The absence of recorded torture does not guarantee the absence of pressure, and the question of what motivated Gowdie to confess at all — if she was not under torture — remains unresolved.",
+
+  "accused_persons": [
+    "isobel-gowdie-auldearn-1662"
+  ],
+
+  "related_trials": [
+    "great-scottish-witch-hunt-1661",
+    "aberdeen-1597-trials"
+  ],
+
+  "source_method": "Original confessions (Pitcairn's Criminal Trials in Scotland, 1833); Emma Wilby, *The Visions of Isobel Gowdie* (2010); Ginzburg, *Ecstasies* (1991); Christina Larner, *Enemies of God* (1981)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Gowdie's confessions are among the most frequently analyzed texts in witch-trial scholarship precisely because their apparent voluntariness makes them analytically exceptional. If most confessions were primarily shaped by torture, leading questions, and the prosecutorial framework, Gowdie's apparently self-generated account opens a window onto folk magical belief that the coercion-hypothesis tends to close. Ginzburg's use of her testimony in *Ecstasies* exemplifies the comparative microhistorical method: the similarity of her elf-arrow shooting and shape-shifting narratives to distant traditions (Livonian werewolves, Friulian benandanti, Sámi shamanic practice) is used to argue for deep structural continuity in European folk magical tradition. This argument remains contested but has proved generative for decades of subsequent scholarship.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

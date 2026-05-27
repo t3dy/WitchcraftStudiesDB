@@ -1,0 +1,63 @@
+{
+  "id": "bekker-balthasar-1634-1698",
+  "name": "Balthasar Bekker",
+  "birth_year": 1634,
+  "death_year": 1698,
+  "birth_place": "Netherlands",
+  "academic_discipline": "Dutch Reformed Theology",
+  "primary_institution": "Dutch Reformed Church (Amsterdam)",
+  "specialization": "Philosophical critique of demonology; scriptural argument against devil's physical power; proto-Enlightenment religious thought",
+  "major_works": [
+    {
+      "title": "De Betoverde Weereld (The Enchanted World)",
+      "year": 1691,
+      "publisher": "Daniel van Dalen, Amsterdam",
+      "significance": "Argued from Scripture and Cartesian philosophy that the devil has no power over the physical world; effectively stripped the theological foundation from witch prosecution",
+      "database_entry": "bekker-betoverde-weereld-1691"
+    }
+  ],
+  "historiographical_position": "INTELLECTUAL HISTORY",
+  "core_argument": "Scriptural analysis demonstrates that the devil, as a fallen spiritual being, has no power to act in the physical world; therefore the physical effects attributed to witchcraft — storms, disease, crop failure, harm to cattle — cannot be produced by demonic agency. Without the possibility of diabolical physical intervention, the entire demonological framework collapses and witch prosecution loses its theological basis.",
+  "methodological_approach": {
+    "primary_materials": "Biblical texts (Old and New Testament); classical demonological sources; Cartesian natural philosophy",
+    "analysis_target": "Scriptural evidence for or against devil's physical power; philosophical coherence of demonological claims",
+    "evidence_type": "Biblical exegesis combined with Cartesian mechanical philosophy; textual critique of demonological authorities",
+    "explanatory_level": "Philosophical-theological: logical and scriptural refutation of foundational demonological premises"
+  },
+  "key_contributions": [
+    {
+      "concept": "Devil's impotence in physical world",
+      "claim": "Scripture properly read shows the devil is a spiritual being entirely unable to intervene in physical causation; all apparent diabolical effects have natural explanations",
+      "implication": "If the devil cannot act physically, the Devil's pact — the core legal element of witchcraft prosecution — is impossible"
+    },
+    {
+      "concept": "Cartesian dualism applied to demonology",
+      "claim": "Descartes' separation of mind and matter entails that purely spiritual beings cannot interact with physical matter; therefore demonic possession and harm are philosophically incoherent",
+      "implication": "Enlightenment natural philosophy provided intellectual tools for dismantling demonological theology"
+    },
+    {
+      "concept": "Reformed theological critique",
+      "claim": "Protestant principles of scriptural authority, when consistently applied, undermine the Catholic demonological tradition that witch prosecution inherited",
+      "implication": "Reformed Protestantism, properly understood, should lead to rejection of witch prosecution"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["weyer-praestigiis-daemonum-1563", "thomasius-de-crimine-1701"],
+    "creative_tension_with": ["clark-stuart-b1943", "kramer-malleus-maleficarum-1487", "bodin-demonomanie-1580"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Descartes, Cartesian natural philosophy; Dutch Reformed biblical scholarship; early Enlightenment rational theology",
+    "criticisms": [
+      "Dismissed from his Amsterdam pulpit by the Dutch Reformed Church for his views",
+      "Critics argued he had misread Scripture and that demonological tradition was well-founded",
+      "Clark (Thinking with Demons) contextualizes Bekker as part of a broader skeptical tradition rather than a revolutionary break",
+      "His specifically Cartesian framework became dated as Newtonian physics superseded Cartesianism"
+    ]
+  },
+  "historiographical_significance": "Bekker represents the intellectual culmination of demonological skepticism: not the practical caution of Weyer or Spee, but a full philosophical demolition of the theological foundations for witch prosecution. His work marks a crucial transition point in the intellectual history of European witchcraft toward Enlightenment naturalism. The controversy his book generated — it was a bestseller while costing him his ministry — illustrates the cultural stakes of demonological belief in the late seventeenth century.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

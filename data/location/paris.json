@@ -1,0 +1,61 @@
+{
+  "id": "paris",
+  "name": "Paris (Kingdom of France)",
+  "type": "City",
+  "region": "Northern France",
+  "modern_location": "Île-de-France, France",
+  "coordinates": {
+    "latitude": 48.856,
+    "longitude": 2.352
+  },
+
+  "administrative_context": "Paris was the capital of the Kingdom of France and seat of the Parlement de Paris, the supreme appellate court for most of northern France. The Parlement de Paris exercised supervisory jurisdiction over criminal cases across a vast territory, including the right to review capital convictions on appeal. This appellate role gave the Parlement extraordinary power to moderate or restrain witch prosecution throughout northern and central France.",
+
+  "witchcraft_trials_significance": "Paris is significant in witch trial history primarily for the moderating role of the Parlement de Paris rather than as a site of intensive prosecution. The Parlement's practice of reviewing witch trial convictions on appeal, and its increasing scepticism about witch trial evidence from the mid-17th century onward, had the effect of limiting execution rates in northern France. The Parlement's 1624 and 1625 decisions effectively ended capital prosecution in many areas under its jurisdiction, making Paris the administrative center of French prosecutorial restraint.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Parlement de Paris",
+      "role": "Supreme appellate court for northern France",
+      "contribution_to_trials": "Systematically reviewed witch trial convictions; increasingly overturned death sentences from the 1590s onward; issued declarations against witch prosecution in 1620s"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1590s": "Parlement begins routinely reviewing witch trial appeals; overturning increasing number of convictions",
+    "1624_1625": "Parlement issues significant rulings limiting capital prosecution for witchcraft in its jurisdiction",
+    "1682": "Royal edict under Louis XIV effectively decriminalizes witchcraft as a capital offense, bringing French prosecution to an end"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Paris and its immediate hinterland (relatively few witch prosecutions); but Parlement's jurisdiction extended across most of northern France",
+    "social_reach": "Parlement's moderating role primarily affected provincial accused who appealed; Paris itself saw relatively few witch trials",
+    "gender_distribution": "Not directly applicable as a prosecution center; Paris's role was appellate/administrative",
+    "mortality_impact": "The Parlement's appellate activity saved numerous lives by overturning provincial convictions; the 1682 royal edict ended French capital prosecution entirely"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the Parlement de Paris's scepticism within the broader intellectual shift of the 17th century, noting that the growing influence of skeptical natural philosophy, combined with legal procedural concerns about evidence standards, shaped the Parlement's increasingly reluctant response to witch trial appeals.",
+    "hutton_perspective": "Hutton identifies the Parlement as a key institutional moderating force, illustrating the principle that appellate court structures could significantly constrain local prosecution enthusiasm and that the institutional design of judicial systems shaped execution rates independently of popular belief.",
+    "ginzburg_perspective": "The Parlement's evidential scepticism represents the institutional embodiment of an epistemological shift in which the interrogation-shaped confession was no longer accepted at face value—a shift whose intellectual underpinnings Ginzburg and others have analyzed."
+  },
+
+  "legacy_and_historiographical_importance": "The Parlement de Paris's role in limiting French witch prosecution has been analyzed by Robert Mandrou in Magistrats et sorciers en France (1968), a foundational work in French witchcraft historiography. The 1682 royal edict under Louis XIV, effectively decriminalizing witchcraft, is the administrative terminus of French prosecution.",
+
+  "primary_sources": "Parlement de Paris records (Archives nationales); royal edicts; analyzed in Mandrou, Magistrats et sorciers en France (1968)",
+
+  "source_method": "Published scholarship (Mandrou, Levack, Briggs), Parlement records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "briggs-witches-and-neighbours-1996"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "treasure-finding-divination",
+  "name": "Treasure-Finding and Divination (Cunning Folk Services)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "England",
+
+  "scholarly_definition": "Treasure-finding and divination encompassed a cluster of cunning folk services involving location of hidden or lost objects, identification of thieves, prediction of future events, and communication with the dead or supernatural. These services were commercially viable and widely sought, positioning cunning folk as useful community resources. Treasure-finding exploited widespread early modern beliefs in buried hoards and the possibility of their supernatural discovery; divination addressed demands for certainty about future marriages, voyages, business ventures, and legal outcomes. Both practices occupied ambiguous legal and moral territory — useful, widely tolerated, but potentially prosecutable under the Witchcraft Acts.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Clerical nigromancy tradition — ritual magic for knowledge of hidden things",
+      "Astrology as legitimate learned divination tradition",
+      "Folk seeress and oracle traditions"
+    ],
+    "early_modern_codification": [
+      "English Witchcraft Acts (1542, 1563, 1604) including treasure-finding and divination",
+      "Reginald Scot's documentation of cunning folk divination services",
+      "Keith Thomas's systematic reconstruction of service types in *Religion and the Decline of Magic*"
+    ],
+    "formalization_sources": [
+      "Church court records of consultation with cunning folk for divination",
+      "Assize records for prosecuted treasure-finding cases",
+      "Cunning folk account books and community reputation records"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark situates divination within the broad intellectual category of knowledge of hidden things (occult knowledge), which was not inherently demonic in early modern thought but became so when obtained through demonic intermediation. The line between licit divination (judicial astrology, sortes scripturae — opening the Bible at random) and illicit divination (crystal gazing, ritual magic, spirit consultation) was contested and context-dependent. Treasure-finding occupied a particularly grey zone because it was both commercially lucrative and apparently harmless, making prosecution inconsistent.",
+
+  "hutton_social_analysis": "Hutton's research on cunning folk establishes treasure-finding and divination as core commercial services of every English community's magical practitioner. He estimates that access to divination services was essentially universal in early modern England — virtually every community could identify a cunning man or woman within reasonable distance. The demand for divination services reflected genuine information needs (where is my stolen goods? who is the thief? will my ship return?) that official institutions could not meet, creating a durable market for magical knowledge provision.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg notes that divination practitioners often used techniques involving altered states — crystal gazing, mirror scrying, trance consultation of spirits — that could produce genuine subjective experiences of knowledge acquisition. The question of whether these states were self-induced, pharmacologically assisted, or genuinely mediated by supernatural contact was not settled by practitioners themselves, and their uncertainty should be respected rather than resolved by anachronistic assumptions.",
+
+  "actor_perspective": {
+    "practitioner_language": "Cunning folk diviners understood themselves as possessing a gift (born with a caul, seventh son, specific inherited ability) or as accessing knowledge through instruments (crystal balls, mirrors, sieve-and-shears) that functioned through legitimate means. Many invoked angelic or saintly assistance rather than demonic contact, positioning their practice as prayer-adjacent rather than diabolical.",
+    "misalignment": "The prosecutorial framework required that any genuinely effective divination — actually revealing hidden information — was accomplished through demonic agency (only demons could know hidden things). Practitioners who understood their technique as working through natural, angelic, or gifted means were unaware that effective divination was being interpreted as proof of diabolic contact."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "The theological framework for divination prosecution was that knowledge of hidden things beyond natural human capacity was either divinely revealed (through prophecy) or demonically provided (through pact). Effective divination that was not prophetic must therefore be demonic, regardless of the practitioner's self-understanding. This logic closed the gap between folk divination practice and diabolic accusation.",
+    "canonical_law": "The English Witchcraft Act of 1563 made divination a criminal offence, reflecting Protestant suspicion of all forms of non-biblical knowledge claim. The 1604 Act strengthened provisions. Continental canon law handled divination through inquisitorial procedure as a lesser form of diabolism."
+  },
+
+  "regional_variations": "English cunning folk documentation is the richest available, partly because the Witchcraft Acts created prosecution records and partly because church courts regularly noted consultations with cunning folk. German Zauberdoktoren offered similar divination services. Spanish and Italian inquisitorial records document Mediterranean divination practitioners. Scandinavian wise women (kloke koner) combined healing with divination. The universality of divination services suggests a universal human demand for certainty about the unknown.",
+
+  "scholarly_disagreement": "Historians debate whether cunning folk divination reflected genuine belief in their own powers or constituted conscious performance of expected social roles. Hutton argues for genuine belief; some others are more skeptical. The question of how to interpret crystal-gazing and trance consultations without imposing either supernatural credulity or modern rationalist dismissal is methodologically challenging. Thomas's functionalist account (divination serves social needs for certainty) has been criticized for not taking seriously whether practitioners and clients believed in what they were doing.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "cunning-folk-services",
+    "water-divination",
+    "wise-woman-healer",
+    "cunning-folk-vs-witch",
+    "healing-magic-white"
+  ],
+
+  "source_method": "Church court records; assize records; Keith Thomas's reconstruction; Scot's Discoverie; Hutton's cunning folk research",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Divination and treasure-finding represent the commercial backbone of early modern folk magical practice and demonstrate that magical services were embedded in functioning markets with regular clientele. Thomas's demonstration of divination's pervasiveness fundamentally changed how historians understood popular culture and magic — rather than a fringe practice of marginal figures, divination was a mainstream community service. Hutton extends this picture and argues that cunning folk were integral community members, not suspects, challenging any simple healer-as-proto-witch narrative.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

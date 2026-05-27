@@ -1,0 +1,67 @@
+{
+  "id": "bideford-devon",
+  "name": "Bideford (Devon, England)",
+  "type": "Town",
+  "region": "Southwest England",
+  "modern_location": "Devon, England",
+  "coordinates": {
+    "latitude": 51.017,
+    "longitude": -4.205
+  },
+
+  "administrative_context": "Bideford was a port town in Devon, subject to the Devon Assizes at Exeter. By 1682 England's witch prosecution was in steep decline, and the Bideford case is historically significant precisely because it was exceptional—one of the last prosecutions in England to result in execution, occurring in a period when educated opinion was rapidly turning against witch trial conviction.",
+
+  "witchcraft_trials_significance": "The Bideford witch trial of 1682 resulted in the last executions for witchcraft in England. Three elderly women—Temperance Lloyd, Mary Trembles, and Susanna Edwards—were tried at the Exeter Assizes and hanged on August 25, 1682. The case proceeded despite growing discomfort among educated observers; the Recorder of Bideford, Thomas Gist, reportedly sought guidance about whether to proceed from London and received no intervention. The executions are now commemorated in Bideford with a memorial plaque.",
+
+  "trial_events": [
+    "bideford-1682-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Thomas Gist",
+      "role": "Recorder of Bideford",
+      "contribution_to_trials": "Presided over initial examinations; reportedly sought direction from London; facilitated transfer to Exeter Assizes"
+    },
+    {
+      "name": "Francis North, Baron Guilford",
+      "role": "Lord Chief Justice; received trial account",
+      "contribution_to_trials": "Received a report on the trial from judge Raymond; expressed discomfort about the convictions but did not intervene before execution"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1682_july": "Temperance Lloyd arrested on suspicion of witchcraft; confesses; Mary Trembles and Susanna Edwards subsequently arrested",
+    "1682_august": "Trial at Exeter Assizes; all three convicted",
+    "1682_august_25": "All three hanged at Heavitree gallows, Exeter"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Bideford and surrounding north Devon community",
+    "social_reach": "Three elderly, impoverished women with neighborhood reputations for witchcraft; all widowed or single; all from the margins of Bideford society",
+    "gender_distribution": "All three accused were women",
+    "mortality_impact": "Three executed; these are the last executions for witchcraft under English law"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "The Bideford case illustrates the persistence of community-level belief in witchcraft and the continuing operation of the neighborhood-accusation mechanism even after educated English opinion had largely abandoned prosecution. The disconnect between elite scepticism and popular belief is starkly evident.",
+    "hutton_perspective": "Hutton situates Bideford as evidence that the decline of English witch prosecution was driven from above—by legal and educated elite scepticism—rather than from below. Local communities continued to believe in and desire prosecution of witches long after the state effectively ceased to support executions.",
+    "ginzburg_perspective": "The three Bideford women's confessions, preserved in a pamphlet account, provide late-period evidence of the popular witchcraft belief system in Devon, including familiars, diabolical assistance, and maleficium—showing the persistence of a coherent popular tradition even as its institutional prosecution was ending."
+  },
+
+  "legacy_and_historiographical_importance": "The Bideford case has attracted interest as the last English execution and has been extensively studied by Malcolm Gaskill whose work Witchfinders (2005) and other scholarship situates it within the broader trajectory of English witch prosecution's decline. A memorial to the three women was installed in Bideford in 2008, reflecting contemporary heritage recognition of the case.",
+
+  "primary_sources": "A True and Impartial Relation of the Informations against Three Witches (1682); Devon Assize records; analyzed in Gaskill, Sharpe",
+
+  "source_method": "Published scholarship (Gaskill, Sharpe, Levack), 1682 pamphlet, assize records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

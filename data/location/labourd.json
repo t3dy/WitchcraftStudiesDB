@@ -1,0 +1,63 @@
+{
+  "id": "labourd",
+  "name": "Labourd (Basque Country, France)",
+  "type": "Province",
+  "region": "Southwest France / French Basque Country",
+  "modern_location": "Pyrénées-Atlantiques, France",
+  "coordinates": {
+    "latitude": 43.480,
+    "longitude": -1.560
+  },
+
+  "administrative_context": "Labourd (Lapurdi in Basque) was a coastal region in the French Basque Country, part of the Province of Guyenne under French royal jurisdiction. As a frontier territory between France and Spain with a distinct Basque cultural identity, it was regarded by Parisian authorities as remote and semi-barbarous. The 1609 persecution was conducted by Pierre de Lancre, a Bordeaux magistrate specially commissioned by King Henry IV.",
+
+  "witchcraft_trials_significance": "The Labourd persecution of 1609 resulted in approximately 80 people being burned, making it one of the most intensive French witch hunts. Pierre de Lancre, the royal commissioner, was convinced that the entire Basque population was infected with diabolism, partly attributable (in his view) to the fishing population's absence at sea leaving women unsupervised. De Lancre wrote Tableau de l'inconstance des mauvais anges (1612), one of the most elaborate accounts of the Basque witches' sabbath (akelarre). The case is significant for revealing how ethnic and cultural prejudice against the Basques intensified prosecution.",
+
+  "trial_events": [
+    "labourd-1609-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Pierre de Lancre",
+      "role": "Royal commissioner; judge",
+      "contribution_to_trials": "Appointed by Henry IV; conducted mass prosecutions; burned approximately 80 people; wrote Tableau de l'inconstance (1612) as his account and demonological analysis"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1609_may": "De Lancre arrives in Labourd with commission to investigate witchcraft",
+    "1609_summer": "Intensive interrogations and executions; approximately 80 burned over several months",
+    "1609_autumn": "Prosecution ends when de Lancre's commission expires; Parlement de Bordeaux reasserts jurisdiction and blocks further prosecution",
+    "1612": "De Lancre publishes Tableau de l'inconstance describing the Labourd sabbath in elaborate detail"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Labourd region of the French Basque country, including coastal fishing communities and inland villages",
+    "social_reach": "Broad community impact; de Lancre believed virtually the entire population was involved in witchcraft; accused included priests",
+    "gender_distribution": "Predominantly female among executed, but priests and men also accused",
+    "mortality_impact": "Approximately 80 burned in the summer of 1609; Parlement de Bordeaux's intervention prevented further executions"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark analyzes de Lancre's Tableau as a major demonological text remarkable for its elaborate literary and visual descriptions of the sabbath, including detailed accounts of demonic music, sexual orgies, and ritual inversion, placing it within the genre of learned demonological literature that elaborated sabbath theology in ever-greater detail.",
+    "hutton_perspective": "Hutton situates de Lancre's persecution within a pattern of externally imposed prosecution: a Parisian legal official with no ties to the local community, convinced of the region's diabolical corruption partly through cultural prejudice, was able to conduct mass prosecution precisely because he was operating outside normal local social constraints.",
+    "ginzburg_perspective": "The Basque akelarre sabbath descriptions recorded by de Lancre, with their distinctive Basque cultural features including specific locations, foods, and musical forms, raise questions about the relationship between learned sabbath theology and authentic Basque popular traditions—a subject explored by Henningsen in relation to the Spanish Basque cases."
+  },
+
+  "legacy_and_historiographical_importance": "De Lancre's Tableau de l'inconstance is a primary demonological source extensively analyzed by scholars of French witch hunting. The case is treated by Robert Muchembled in his studies of French popular culture and witchcraft, and by Henningsen in relation to the broader Basque witch panic of 1609. The connection between the Labourd and Zugarramurdi cases (both occurring in 1609 in Basque territories on either side of the French-Spanish border) has attracted attention to trans-Pyrenean transmission of witch panic.",
+
+  "primary_sources": "Pierre de Lancre, Tableau de l'inconstance des mauvais anges et démons (1612); Parlement de Bordeaux records; compared with Spanish side in Henningsen, The Witches' Advocate",
+
+  "source_method": "Published scholarship (Henningsen, Levack, Muchembled), de Lancre's Tableau",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

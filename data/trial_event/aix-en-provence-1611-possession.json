@@ -1,0 +1,69 @@
+{
+  "id": "aix-en-provence-1611-possession",
+  "name": "Aix-en-Provence Possession and Trial of Louis Gaufridy",
+  "location_id": "aix-en-provence",
+  "year_start": 1610,
+  "year_end": 1611,
+  "alleged_accused_count": 1,
+  "executed_count": 1,
+  "regional_context": "Aix-en-Provence, Provence, Kingdom of France; Parlement de Provence jurisdiction; Ursuline convent with distinct social dynamics",
+
+  "summary": "The Aix-en-Provence case (1610-1611) involved the possession of Madeleine de Demandolx de la Palud, a young Ursuline novice, who accused her confessor and priest Father Louis Gaufridy of bewitching her through a diabolical pact. Demandolx's dramatic possession symptoms, exorcised over an extended period, produced detailed testimony about Gaufridy's alleged attendance at sabbaths and his sexual relationship with her through diabolical means. Gaufridy was burned at Aix-en-Provence on April 30, 1611, after being convicted by the Parlement de Provence — making this an unusual case where the French parlement system, typically skeptical of witch prosecutions, proceeded to execution. Demandolx herself later recanted her accusations and expressed remorse.",
+
+  "historiographical_significance": "The Aix case is significant as one of the few French cases where a parlement court — typically skeptical and prone to acquittal — proceeded to a witchcraft execution. Historians have analyzed the institutional conditions that made this outcome possible: the involvement of Capuchin exorcists, the physical evidence of possession symptoms witnessed by the court, and the socially prominent status of the accuser. Lyndal Roper's analysis emphasizes the sexual and power dynamics between confessor and female penitent as the psychological core of possession accusations: Demandolx's accusation against Gaufridy reflects the intense, charged, and potentially abusive relationship between enclosed women and their male confessors.",
+
+  "demonological_framework": [
+    "demonic-possession",
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Ursuline convent authorities; Capuchin exorcists; Parlement de Provence",
+    "prosecuting_officials": "Parlement de Provence; Capuchin Father Romillon and Father Michaëlis as chief exorcists",
+    "procedure": "Extended exorcism sessions used to gather testimony; parlement court reviewed evidence; torture applied; unusually, the French parlement system proceeded to execution",
+    "torture_methods": ["question ordinaire", "question extraordinaire"],
+    "trial_phases": [
+      {
+        "phase": "Possession onset (1609-1610)",
+        "context": "Madeleine de Demandolx de la Palud develops possession symptoms; Capuchin exorcists called; Gaufridy first named"
+      },
+      {
+        "phase": "Exorcism and evidence gathering (1610-1611)",
+        "context": "Extended exorcism sessions; possession testimony collected; Gaufridy arrested and tortured"
+      },
+      {
+        "phase": "Trial and execution (April 1611)",
+        "context": "Parlement de Provence convicts Gaufridy; burned April 30, 1611"
+      },
+      {
+        "phase": "Aftermath",
+        "context": "Demandolx's continued possession symptoms; her eventual recantation; long-term religious sequelae"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The Aix case raises historiographical questions about the psychology of accusation in female convent environments. Roper's psychohistorical reading emphasizes how the confessor-penitent relationship, especially in an enclosed religious community, created conditions for deeply charged transference and accusation. Some historians prefer a more skeptical reading: Demandolx's later recantation suggests she may have been manipulated by the Capuchin exorcists who framed her symptoms in terms of Gaufridy's guilt. The parlement's willingness to convict in this case — unusual for France — also requires explanation, and scholars debate whether the physical visibility of possession symptoms overcame normal judicial skepticism.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "loudun-1634-possession",
+    "louviers-1647-possession"
+  ],
+
+  "source_method": "Parlement de Provence records; Father Michaëlis, *Admirable History* (1612); Roper, *Witch Craze* (2004); Mandrou's analysis of French witch prosecution",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The Aix case preceded Loudun by over two decades and established some of the patterns — Ursuline convent, male confessor accused, Capuchin exorcists as key witnesses — that would recur there. This recurrence suggests the institutional structure of female religious houses created specific conditions for such accusations: intense spiritual direction, enclosed community, dependence on male confessors, and the framework of demonic possession as an available explanatory system for unusual psychological and physiological experiences. Father Michaëlis's published account of the Aix exorcisms became widely read across Europe, potentially influencing how similar situations in other convents were interpreted and managed.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

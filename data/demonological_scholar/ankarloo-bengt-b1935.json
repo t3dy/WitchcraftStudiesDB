@@ -1,0 +1,68 @@
+{
+  "id": "ankarloo-bengt-b1935",
+  "name": "Bengt Ankarloo",
+  "birth_year": 1935,
+  "death_year": 2013,
+  "birth_place": "Sweden",
+  "academic_discipline": "Scandinavian History",
+  "primary_institution": "University of Lund",
+  "specialization": "Scandinavian witchcraft; comparative European witch-hunting; editorial and synthesis work",
+  "major_works": [
+    {
+      "title": "Witchcraft and Magic in Europe (6 volumes, co-editor with Stuart Clark)",
+      "year": 1999,
+      "publisher": "University of Pennsylvania Press",
+      "significance": "Definitive comparative survey of European witchcraft and magic across all periods; made regional scholarship accessible in synthesis form",
+      "database_entry": null
+    },
+    {
+      "title": "Trolldomsprocesserna i Sverige (Witchcraft Trials in Sweden)",
+      "year": 1971,
+      "publisher": "Institutet för rättshistorisk forskning",
+      "significance": "Foundational study of Swedish witchcraft prosecutions using legal records; established Scandinavian regional witchcraft historiography",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Scandinavian witchcraft prosecutions, while sharing structural features with Central European patterns, had distinctive characteristics shaped by Lutheran state-churches, late timing of major panics (1660s-1670s in Sweden), and different legal procedures. Comparative European perspective is essential: no single regional pattern can stand as the norm for European witch-hunting.",
+  "methodological_approach": {
+    "primary_materials": "Swedish legal and church records; Scandinavian regional trial documentation",
+    "analysis_target": "Regional prosecution patterns in Scandinavia; comparative European framework for contextualizing local studies",
+    "evidence_type": "Archival legal history; comparative synthesis of regional studies across Europe",
+    "explanatory_level": "Regional comparative: identifying structural similarities and differences across European jurisdictions"
+  },
+  "key_contributions": [
+    {
+      "concept": "Scandinavian regional scholarship",
+      "claim": "Sweden and other Scandinavian countries had major witch panics (notably 1668-1676 Dalarna panic) with distinctive features, including children as accusers and high execution rates",
+      "implication": "Scandinavian data challenges models built only on German, French, or English cases"
+    },
+    {
+      "concept": "Comparative European framework",
+      "claim": "No single regional experience is typical; European witch-hunting must be understood through systematic comparison",
+      "implication": "The six-volume Witchcraft and Magic in Europe series provides the comparative infrastructure for such analysis"
+    },
+    {
+      "concept": "Editorial synthesis",
+      "claim": "Making disparate regional scholarship available in translation and synthesis is itself a scholarly contribution",
+      "implication": "Ankarloo's collaboration with Clark demonstrates that scholarly infrastructure (edited volumes, translations) shapes how fields develop"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["clark-stuart-b1943", "levack-brian-b1943"],
+    "creative_tension_with": []
+  },
+  "reception_and_critique": {
+    "major_influences": "Swedish legal history tradition; comparative European social history; collaboration with Stuart Clark",
+    "criticisms": [
+      "Primary work in Swedish has limited accessibility to non-Scandinavian scholars",
+      "As primarily an editorial synthesizer, his individual theoretical contributions are less prominent than his collaborative work"
+    ]
+  },
+  "historiographical_significance": "Ankarloo made Scandinavian witchcraft scholarship internationally accessible and, through co-editing the six-volume Witchcraft and Magic in Europe with Stuart Clark, created the most comprehensive comparative reference work in the field. His regional expertise on Swedish prosecutions established Scandinavian witchcraft as a distinct area of inquiry. His collaboration with Clark bridged intellectual history and regional social history approaches.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

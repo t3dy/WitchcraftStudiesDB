@@ -1,0 +1,72 @@
+{
+  "id": "night-riding-strix",
+  "name": "Night-Riding / Strix (Classical Nocturnal Female Predator)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Ancient",
+  "primary_locale": "Italy",
+
+  "scholarly_definition": "The strix (plural striges) was a classical Roman tradition of a nocturnal flying creature, typically female, who preyed on infants by sucking their blood or devouring their flesh. The tradition appears in Ovid's Fasti, Pliny's Natural History, and later late antique sources. The strix combined elements later absorbed into the witch stereotype: female gender, nocturnal activity, flight, and predation on the most vulnerable (infants). Medieval variants (the striga, the stria) carried this tradition into early modern times, particularly in Italian usage where strega (witch) derived directly from the classical strix, indicating the direct genealogical connection between ancient nocturnal predator belief and early modern witchcraft prosecution.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Ovid's Fasti (VI.131–168) — systematic classical description of striges",
+      "Pliny's Natural History — striges as real nocturnal birds",
+      "Late antique compilations transmitting strix tradition to medieval scholars"
+    ],
+    "early_modern_codification": [
+      "Italian strega tradition directly etymologically linked to strix",
+      "Humanist recovery of classical strix texts influencing Renaissance demonology",
+      "Italian demonological treatises connecting strega to classical tradition"
+    ],
+    "formalization_sources": [
+      "Classical textual tradition (Ovid, Pliny, Apuleius)",
+      "Italian regional witchcraft folklore",
+      "Renaissance humanist classical scholarship"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark traces the intellectual genealogy of the night-riding strix as part of his broader analysis of how classical and late antique elements were incorporated into Christian demonological frameworks. The strix provided an ancient pedigree for witch imagery that gave early modern demonologists cultural authority — the witch was not a medieval invention but a creature documented in respectable classical sources. This classical legitimacy contributed to the intellectual credibility of demonological claims.",
+
+  "hutton_social_analysis": "Hutton emphasises the strix tradition as evidence of the deep time-depth of nocturnal predator beliefs, suggesting that anxieties about child mortality, night dangers, and female supernatural threat were perennial rather than early modern inventions. The continuity from ancient strix to early modern strega illustrates how prosecution drew on pre-existing cultural material rather than fabricating entirely new categories. Folk fears about night visitors threatening infants were genuinely ancient and persistent.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg sees the strix tradition as one strand in the complex genealogy of European night-flight imagery, related to but distinct from the shamanic spirit-battle traditions he traces in Eurasian sources. The strix is a predatory tradition — one-way harm to children — while the benandanti tradition involves protective spirit combat. These different strands fed into the complex composite image of the sabbath-attending witch that early modern demonology constructed.",
+
+  "actor_perspective": {
+    "practitioner_language": "The strix was not a self-description by practitioners but an external category applied to feared nocturnal attackers. No one claimed to be a strix in the way that benandanti claimed their identity. The strix was a threat figure in folk cosmology, not a practitioner identity.",
+    "misalignment": "As an ancient predator tradition rather than a practitioner category, the strix concept shows less actor/analyst tension than most entries. The misalignment was between the classical literary tradition (owl-like creature) and the humanoid witch figure it contributed to constructing in early modern demonological imagery."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Early modern theologians and demonologists drawing on the strix tradition used it to argue that witch beliefs had ancient pedigree and thus were not merely medieval clerical inventions. The classical sources gave weight to prosecution by suggesting that the phenomena being prosecuted were ancient, widespread, and documented by respected authorities.",
+    "canonical_law": "The strix tradition itself had no direct canonical law dimension; its significance was genealogical and cultural, shaping the imaginary of the witch before that imaginary acquired legal form."
+  },
+
+  "regional_variations": "The strix tradition was primarily classical Mediterranean, with strongest influence in Italy (where strega derives directly from the term). Northern European witchcraft traditions drew less directly on the strix, drawing more on Germanic and Norse traditions. The Italian case is distinctive in how directly classical tradition shaped both vernacular terminology and demonological elaboration.",
+
+  "scholarly_disagreement": "Scholars debate how direct the genealogical connection was between the classical strix and the early modern witch, versus how much early modern demonology independently arrived at similar images. The etymological evidence (strega from strix) is strong for Italian, but other European vernacular terms for witch had different origins, suggesting the strix tradition was one among several converging streams rather than the single origin of the witch concept.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "night-riding-strix",
+    "child-stealing-infanticide",
+    "witches-sabbath-collective",
+    "nocturnal-flight-reality",
+    "strega-italian"
+  ],
+
+  "source_method": "Classical literary sources (Ovid, Pliny); humanist scholarship; Italian demonological tradition; etymological evidence",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The strix tradition illustrates how early modern witchcraft prosecution drew on deep cultural reservoirs of accumulated imagery and fear. The direct etymological link between strix and strega — ancient nocturnal predator becoming early modern prosecuted witch — is one of the clearest documented examples of cultural continuity in witchcraft history. This continuity challenges accounts that explain the witch persecutions as a purely early modern phenomenon, suggesting instead that specific institutional and theological developments activated a pre-existing cultural repertoire of supernatural female threat.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

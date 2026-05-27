@@ -1,0 +1,71 @@
+{
+  "id": "loudun-1634-possession",
+  "name": "Loudun Possession and Trial of Urbain Grandier",
+  "location_id": "loudun",
+  "year_start": 1632,
+  "year_end": 1634,
+  "alleged_accused_count": 1,
+  "executed_count": 1,
+  "regional_context": "Loudun, Vienne, Kingdom of France; a town with acute political and religious tensions between Catholic and Huguenot factions; Cardinal Richelieu allegedly held personal antipathy toward Grandier",
+
+  "summary": "The Loudun case (1632-1634) involved the accusation that Father Urbain Grandier, a secular Catholic priest of the town, had bewitched the Ursuline nuns of Loudun, causing their spectacular mass possession symptoms. Grandier was a controversial figure — he had been previously accused of sexual misconduct and had written a tract against clerical celibacy — but he vigorously denied the possession accusations and maintained his innocence throughout. The prosecution was driven by a commission appointed by Cardinal Richelieu, and Grandier's enemies both within the Church and politically enabled the proceedings. He was convicted and burned alive on August 18, 1634. The possessed nuns continued to exhibit symptoms for years after his death, complicating the narrative of witchcraft as a simple cause.",
+
+  "historiographical_significance": "Loudun has attracted disproportionate historiographical attention as an intersection of demonological belief, political manipulation, and collective psychology. Michel de Certeau's *The Possession at Loudun* (1970) analyzed the case as a collision between an archaic theological worldview and emerging modern subjectivity, using the nuns' possessed behavior as evidence of a cultural rupture. Lyndal Roper's psychohistorical approach treats Loudun as a study in the somatic expression of institutional and sexual repression among enclosed women. Clark's intellectual history framework focuses on the demonological logic by which Grandier's priestly power was inverted into diabolical power. The political dimension — Richelieu's alleged role — also makes Loudun a case study in the use of witchcraft prosecution for political purposes.",
+
+  "demonological_framework": [
+    "demonic-possession",
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Cardinal Richelieu's commission; initially local ecclesiastical investigation",
+    "prosecuting_officials": "Royal commissioner Jean de Laubardemont (Richelieu's cousin); Capuchin exorcists including Father Tranquille",
+    "procedure": "Royal commission bypassing normal ecclesiastical and judicial review; exorcisms used as evidence-gathering; Grandier denied right to standard legal defenses",
+    "torture_methods": ["question ordinaire", "brodequins (leg crushing)"],
+    "trial_phases": [
+      {
+        "phase": "Initial possession reports (1632-1633)",
+        "context": "Ursuline nuns at Loudun report possession symptoms; Grandier first named by some nuns; local investigation begins"
+      },
+      {
+        "phase": "Royal commission appointment (1633)",
+        "context": "Richelieu appoints Laubardemont to investigate; commission bypasses normal judicial channels; Grandier arrested"
+      },
+      {
+        "phase": "Trial and exorcisms (1634)",
+        "context": "Public exorcisms performed; nuns testify against Grandier while possessed; trial conducted with limited defense rights"
+      },
+      {
+        "phase": "Execution (August 18, 1634)",
+        "context": "Grandier convicted and burned alive; possession symptoms in nuns continue for years afterward"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians are divided on the relative weight of political manipulation versus religious belief in the Loudun prosecution. Some historians treat the case primarily as a political assassination of Grandier by Richelieu and local enemies, with the possession narrative as a convenient cover. Others (including de Certeau) take the nuns' possession experiences more seriously as genuine psychological and cultural phenomena requiring analysis on their own terms. The continued symptoms after Grandier's death also pose interpretive problems for any purely manipulative account: if the prosecution was entirely cynical, why did the possession symptoms persist?",
+
+  "accused_persons": [
+    "urbain-grandier-loudun-1634"
+  ],
+
+  "related_trials": [
+    "aix-en-provence-1611-possession",
+    "louviers-1647-possession"
+  ],
+
+  "source_method": "Contemporary trial records; exorcism depositions; Laubardemont commission documents; Michel de Certeau, *La possession de Loudun* (1970); Aldous Huxley, *The Devils of Loudun* (1952)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Loudun occupies an unusual historiographical position because it attracted literary and philosophical attention (Huxley's novel, de Certeau's theoretical analysis, Ken Russell's film) alongside standard historical analysis. This cultural prominence has both enriched and distorted the historiography: the case is over-represented in popular accounts while remaining analytically distinctive. For Roper's psychohistory, Loudun offers rare documentation of the somatic and psychological dynamics of collective possession, allowing analysis of the nuns' embodied experience alongside the judicial proceedings. Clark's reading focuses on the theological logic of priestly possession — how Grandier's sacred role was inverted into a source of diabolical power — as an example of his broader argument about demonology as the systematic inversion of Christian theology.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

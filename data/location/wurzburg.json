@@ -1,0 +1,61 @@
+{
+  "id": "wurzburg",
+  "name": "Würzburg (Prince-Bishopric of Würzburg)",
+  "type": "Ecclesiastical State",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Bavaria, Germany",
+  "coordinates": {
+    "latitude": 49.7913,
+    "longitude": 9.9534
+  },
+  "administrative_context": "Prince-Bishopric of Würzburg was an ecclesiastical principality in the Holy Roman Empire, ruled by the Bishop of Würzburg who exercised both spiritual and temporal authority. The territory lay in Franconia, adjacent to the Prince-Bishopric of Bamberg, and shared similar institutional vulnerabilities that enabled mass prosecution.",
+  "witchcraft_trials_significance": "Würzburg was the site of one of the largest witch hunts in European history: the 1626-1631 persecution under Prince-Bishop Philipp Adolf von Ehrenberg resulted in approximately 900 executions—the highest single-jurisdiction death toll in German territories. Persecution encompassed 29 documented burning sessions between 1627 and 1629 alone.",
+  "trial_events": [
+    "wurzburg-1626-mass-prosecution"
+  ],
+  "key_magistrates": [
+    {
+      "name": "Philipp Adolf von Ehrenberg",
+      "role": "Prince-Bishop (1623-1631)",
+      "contribution_to_trials": "Principal architect of mass persecution; authorized cascade prosecutions; executed his own nephew among the victims; persecution extended to children and clergy"
+    },
+    {
+      "name": "Sebastian Röttinger",
+      "role": "Chancellor and secular legal official",
+      "contribution_to_trials": "Administered secular criminal proceedings; coordinated denunciation lists extracted from confessions"
+    }
+  ],
+  "persecution_timeline": {
+    "1626": "Harvest failures and social tensions precede first arrests; persecution begins in earnest",
+    "1627": "Mass prosecutions accelerate; 29 burnings recorded; suspects drawn from all social strata",
+    "1628": "Peak prosecution year; children tried and executed; episcopal officials among victims",
+    "1629": "Persecution continues; some of the youngest victims burned; clerics implicated",
+    "1630": "Momentum slows as credible defendants become scarce; fleeing suspects",
+    "1631": "Prince-Bishop Ehrenberg dies; Swedish advance into Franconia disrupts persecution; trials cease"
+  },
+  "affected_population": {
+    "geographic_extent": "Prince-Bishopric of Würzburg and outlying villages in Franconia",
+    "social_reach": "Comprehensive social sweep: nobility, clergy, university students, merchants, artisans, servants, children as young as seven years old",
+    "gender_distribution": "Approximately 60-65% female accused; higher proportion of male victims than Bamberg",
+    "mortality_impact": "Approximately 900 executions out of an estimated population of 25,000-30,000; catastrophic demographic impact on certain communities"
+  },
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Würzburg as a case where demonological doctrine, particularly the belief in sabbat assemblies and maleficium networks, drove institutional logic. The learned theory that witches recruited others provided the prosecutorial rationale for extracting denunciations.",
+    "hutton_perspective": "Hutton emphasizes the social instability of the period—harvest failure, the Thirty Years War, plague—as context amplifying institutional panic. The Prince-Bishopric's administrative structure channeled communal fears into judicial process.",
+    "ginzburg_perspective": "Ginzburg's concern with how confessional procedures shaped testimony is acute here: Würzburg confessions show formulaic sabbat descriptions extracted through standard interrogation techniques, demonstrating that testimony reflects judicial procedure as much as genuine belief."
+  },
+  "legacy_and_historiographical_importance": "Würzburg stands as the quantitative apex of German witch persecution, often cited alongside Bamberg to illustrate the catastrophic potential of mass prosecution in ecclesiastical territories. The targeting of children and clergy distinguishes it historiographically as evidence of prosecutorial desperation and ideological extremism.",
+  "primary_sources": "Episcopal trial records (partially preserved); the 'Würzburg Chronicle' list of 29 burning sessions with victim names and occupations; Soldan and Heppe's 19th-century compilation; Behringer's modern archival work",
+  "source_method": "Published scholarship (Behringer, Midelfort), archival records, contemporary chronicle documentation",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "midelfort-witch-hunting-sw-germany-1972",
+    "behringer-witchcraft-persecutions-1997",
+    "levack-witch-hunts-1987",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-05-26",
+  "last_modified": "2026-05-26"
+}

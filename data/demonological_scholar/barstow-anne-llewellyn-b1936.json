@@ -1,0 +1,71 @@
+{
+  "id": "barstow-anne-llewellyn-b1936",
+  "name": "Anne Llewellyn Barstow",
+  "birth_year": 1936,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "Women's History",
+  "primary_institution": "State University of New York (College at Old Westbury)",
+  "specialization": "Feminist analysis of European witch-hunts; gender and misogyny in prosecution",
+  "major_works": [
+    {
+      "title": "Witchcraze: A New History of the European Witch Hunts",
+      "year": 1994,
+      "publisher": "Pandora/HarperCollins",
+      "significance": "Argued that the European witch-hunts were fundamentally misogynist in motivation and effect; brought feminist analysis to wide popular and scholarly audience",
+      "database_entry": null
+    },
+    {
+      "title": "Married Priests and the Reforming Papacy",
+      "year": 1982,
+      "publisher": "Edwin Mellen Press",
+      "significance": "Earlier work on gender and clerical culture in medieval church",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "GENDER HISTORY",
+  "core_argument": "The European witch-hunts were fundamentally an attack on women, motivated by misogyny rooted in clerical culture and patriarchal social structures. The disproportionate targeting of women — approximately 80% of the accused in most regions — reflects not coincidence but systematic fear and hatred of female power, sexuality, and autonomy. Witch-hunting was gendered violence at a mass scale.",
+  "methodological_approach": {
+    "primary_materials": "Cross-regional prosecution statistics; demonological texts with misogynist content; trial records showing gender of accused",
+    "analysis_target": "Gender distribution of accused; misogynist themes in demonological literature; relationship between clerical celibacy culture and witch-hunting",
+    "evidence_type": "Statistical gender analysis of prosecution records; textual analysis of demonological misogyny",
+    "explanatory_level": "Patriarchal structural: misogynist ideology as primary driver of gendered prosecution"
+  },
+  "key_contributions": [
+    {
+      "concept": "Witch-hunt as gendered violence",
+      "claim": "The systematic targeting of women in witch prosecutions constitutes a form of gendered violence comparable to modern gender-based persecution",
+      "implication": "Historical witch-hunting should be understood in feminist frameworks of structural violence"
+    },
+    {
+      "concept": "Clerical misogyny as driver",
+      "claim": "The misogynist ideology embedded in clerical culture, especially the Malleus Maleficarum's explicit woman-hatred, directly shaped prosecution patterns",
+      "implication": "Intellectual history of demonological misogyny is inseparable from the gendered pattern of prosecutions"
+    },
+    {
+      "concept": "Quantitative gendering",
+      "claim": "Statistical evidence of female predominance among the accused is itself an argument for gender as primary explanatory category",
+      "implication": "Any adequate explanation of witch-hunting must account for the gender disparity"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["larner-christina-1934-1983", "roper-lyndal-b1956"],
+    "creative_tension_with": ["levack-brian-b1943", "briggs-robin-b1942", "midelfort-erik-b1942", "thomas-keith-b1933"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Second-wave feminist historiography; women's history movement; Mary Daly's theological feminist analysis",
+    "criticisms": [
+      "Midelfort and others show that large panics had substantially higher male representation, complicating simple misogyny thesis",
+      "Briggs argues that community-level evidence shows women accusing women, not patriarchal persecution from above",
+      "Levack argues multi-causal model is better supported by regional variation than single-cause gender explanation",
+      "Some historians argue the misogyny thesis conflates different regional and temporal patterns",
+      "Roper accepted gender analysis but replaced misogyny with a more nuanced psychoanalytic account of gender dynamics"
+    ]
+  },
+  "historiographical_significance": "Barstow's work elevated gender to the center of witchcraft historiography and brought feminist analysis to a wide audience. While her strong misogyny thesis has been qualified by subsequent regional scholarship, she established the non-negotiability of gender as an analytical category in any serious account of European witch-hunting. Her work stimulated productive debate that refined the field's understanding of gender dynamics.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

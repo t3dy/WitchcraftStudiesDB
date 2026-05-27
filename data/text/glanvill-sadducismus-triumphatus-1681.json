@@ -1,0 +1,33 @@
+{
+  "id": "glanvill-sadducismus-triumphatus-1681",
+  "title": "Sadducismus Triumphatus, or Full and Plain Evidence Concerning Witches and Apparitions",
+  "author": "Joseph Glanvill (expanded posthumously by Henry More)",
+  "author_id": null,
+  "year_published": 1681,
+  "language": "English",
+  "type": "APOLOGETIC_TREATISE",
+  "publisher_original": "J. Collins and S. Lowndes, London, 1681 (posthumous expanded edition)",
+  "modern_edition": "Available in facsimile; no modern critical edition",
+  "significance": "Defense of witchcraft belief against materialist skeptics (particularly Hobbes and his followers); attempted to provide empirical case evidence for supernatural events at a time when Cartesian and materialist philosophy were undermining demonological credibility.",
+  "summary": "Glanvill, a Fellow of the Royal Society, first published a smaller defense of witchcraft belief in 1668 (A Blow at Modern Sadducism). After his death, Henry More expanded the work into Sadducismus Triumphatus (1681), adding philosophical arguments and additional cases. The title refers to the Sadducees who denied spirits and resurrection: Glanvill argues that modern materialists who deny witchcraft are 'Sadducees' undermining all spiritual religion. The work includes case histories collected as empirical evidence, most famously the account of the Drummer of Tedworth. Glanvill represents the unusual position of a Royal Society member defending witch prosecution on empirical-philosophical grounds.",
+  "clark_analysis": "Clark sees Glanvill as exemplifying the late-seventeenth-century defense of demonology against the challenge of materialist natural philosophy: the argument shifted from Scholastic theology to empirical evidence-collection as the battle lines changed. The Sadducismus Triumphatus shows demonological belief adapting its evidential strategies to the new scientific culture rather than simply being overwhelmed by it.",
+  "hutton_analysis": "Hutton contextualizes Glanvill within the English intellectual culture of the Restoration period, when materialist philosophy (Hobbes) created genuine anxiety among religiously orthodox thinkers. The empirical case-collection approach reflects an attempt to meet the new philosophy on its own evidentiary terms.",
+  "ginzburg_analysis": "Ginzburg is less interested in Glanvill's philosophical argument than in his case evidence: the accounts of apparitions and supernatural events collected in Sadducismus Triumphatus provide evidence for popular supernatural belief that persisted outside the formal witch trial context.",
+  "key_arguments": [
+    "Denying witchcraft leads logically to denying all spiritual reality, including God",
+    "Empirical evidence — properly collected and verified case histories — demonstrates supernatural events",
+    "Materialist philosophy (Hobbes) threatens Christian civilization by denying spirit",
+    "The Royal Society's empirical method can and should be applied to supernatural phenomena",
+    "Skeptics about witchcraft are motivated by irreligion, not by evidence"
+  ],
+  "influence_on_prosecutions": "Published after the peak of English witch prosecution, Sadducismus Triumphatus reflects a defensive posture rather than an enabling one. It contributed to a learned debate about the reality of witchcraft in Restoration England but probably had limited direct effect on prosecution rates, which were already declining.",
+  "related_texts": ["scot-discoverie-witchcraft-1584", "bekker-betoverde-weereld-1691", "hutchinson-historical-essay-1718"],
+  "related_trials": [],
+  "scholarly_disagreement": "The relationship between Glanvill's original 1668 text and More's expansions in the 1681 edition is debated; how much of the later version represents Glanvill's own views versus More's additions requires careful editing. Scholars debate whether Glanvill genuinely believed in the cases he collected or was primarily engaged in philosophical-religious argumentation.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

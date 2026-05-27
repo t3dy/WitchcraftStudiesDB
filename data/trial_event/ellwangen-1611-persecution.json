@@ -1,0 +1,73 @@
+{
+  "id": "ellwangen-1611-persecution",
+  "name": "Ellwangen Witch Persecution",
+  "location_id": "ellwangen",
+  "year_start": 1611,
+  "year_end": 1618,
+  "alleged_accused_count": 480,
+  "executed_count": 450,
+  "regional_context": "Ellwangen Provostry, Swabia, Holy Roman Empire; Catholic ecclesiastical territory in the Swabian Circle",
+
+  "summary": "The Ellwangen persecution (1611-1618) was one of the densest per-capita witch-hunting episodes in German history, resulting in approximately 450 executions in a small Catholic provostry in Swabia. The Provost office initiated proceedings following a complaint about crop failures and livestock death, triggering a cascade prosecution that spread through denunciation networks across the entire community. The intensity of the Ellwangen hunt — proportionally one of the most destructive in Germany — has led historians to focus on institutional factors: a small, isolated Catholic territory with concentrated ecclesiastical authority and no effective external check on prosecutorial momentum.",
+
+  "historiographical_significance": "Ellwangen serves as a critical case study in the role of institutional isolation in enabling extreme persecution. Unlike territories where imperial courts or neighboring secular powers could intervene, Ellwangen's provostry structure concentrated both prosecutorial and appellate authority in the same office, eliminating the checks that moderated persecution elsewhere. Levack's structural analysis emphasizes how jurisdictional fragmentation within the Holy Roman Empire permitted individual territories to pursue persecutions without external constraint. The case also illustrates the cascade denunciation mechanism at maximum intensity: in a small community, denunciations could circle back through the same social networks repeatedly.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "demonological-conspiracy",
+    "maleficium-weather-magic",
+    "female-susceptibility-theory"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Provost's office (Catholic ecclesiastical authority, Ellwangen)",
+    "prosecuting_officials": "Provostry secular court with ecclesiastical oversight; local bailiffs",
+    "procedure": "Inquisitorial procedure; systematic torture; denunciations used to expand suspect pool; no effective appellate review outside the provostry",
+    "torture_methods": ["strappado", "leg irons", "thumbscrews"],
+    "trial_phases": [
+      {
+        "phase": "Initiation (1611)",
+        "context": "Crop failures and livestock mortality attributed to weather magic; initial complaints lead to arrests of marginal women"
+      },
+      {
+        "phase": "Cascade expansion (1611-1614)",
+        "context": "Each accused denunciates 8-15 others under torture; denunciation networks spiral through entire community"
+      },
+      {
+        "phase": "Mass executions (1614-1616)",
+        "context": "Peak burning period; multiple executions per session; community-wide terror"
+      },
+      {
+        "phase": "Exhaustion and wind-down (1617-1618)",
+        "context": "Suspect pool depleted; prosecution winds down through attrition rather than external intervention"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The Ellwangen death toll figures vary considerably across sources, with estimates ranging from 300 to over 450. Historians debate whether Ellwangen's intensity reflects primarily institutional factors (no external oversight), ideological factors (particularly zealous demonological belief among the provostry officials), or socioeconomic stress factors (poor harvests, religious tensions of the early Thirty Years' War period). The relative absence of documentary survival makes precise reconstruction difficult.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "wurzburg-1626-mass-prosecution",
+    "trier-1581-mass-persecution",
+    "eichstatt-1617-persecution"
+  ],
+
+  "source_method": "Swabian territorial court records (fragmentary); Behringer's *Witches and Witch-Hunts* (2004); regional German historiography",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Ellwangen's extreme per-capita toll forces consideration of the counterfactual: what prevented other German territories from reaching this level of destruction? Comparative analysis suggests that effective appellate mechanisms (the Reichskammergericht, or Imperial Chamber Court), Protestant skepticism about Catholic demonology, and the intervention of concerned relatives and officials in larger territories all served as brakes elsewhere. Ellwangen lacked all three. The case thus functions as a kind of natural experiment in what happens when institutional checks on prosecution are absent — a finding that resonates with Levack's systemic analysis of witch-hunting conditions.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

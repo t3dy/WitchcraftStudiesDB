@@ -1,0 +1,33 @@
+{
+  "id": "spee-cautio-criminalis-1631",
+  "title": "Cautio Criminalis, seu de Processibus contra Sagas Liber",
+  "author": "Friedrich Spee von Langenfeld",
+  "author_id": null,
+  "year_published": 1631,
+  "language": "Latin",
+  "type": "SKEPTICAL_TREATISE",
+  "publisher_original": "Published anonymously, Rinteln, 1631",
+  "modern_edition": "Spee, Friedrich, Cautio Criminalis, or A Book on Witch Trials, trans. Marcus Hellyer, University of Virginia Press, 2003",
+  "significance": "A Jesuit confessor's eyewitness account of witch trial procedure, argued from inside the system that the process guaranteed false convictions regardless of guilt; pivotal in turning educated Catholic opinion against prosecution.",
+  "summary": "Spee, a Jesuit priest who served as confessor to condemned witches in the Würzburg executions, published the Cautio Criminalis anonymously to avoid execution himself. In fifty-one dubitations (doubts), he argues systematically that the witch trial procedure is so fundamentally unjust that it will convict innocent people under any circumstances: torture forces confessions regardless of guilt, the requirement to name accomplices expands the accused pool without limit, and judges are motivated to convict by financial interests in confiscated property. Spee does not deny the reality of witchcraft in principle but argues no one has actually been proven guilty through the current procedure. The anonymity was maintained through multiple editions.",
+  "clark_analysis": "Clark contextualizes Spee within the tradition of Catholic reform of judicial procedure rather than as a secular skeptic. Spee's argument is not that witches do not exist but that the current procedure cannot identify real witches from innocent victims — a distinction that preserves the theological framework while attacking the judicial one. Clark sees this as characteristic of how skepticism operated within early modern religious culture.",
+  "hutton_analysis": "Hutton values Spee's testimony as an eyewitness account of actual prosecution experience: his descriptions of the psychological state of condemned prisoners and the financial incentives of judges provide social-historical evidence for how the prosecution system functioned in practice.",
+  "ginzburg_analysis": "Ginzburg notes that Spee's account confirms what microhistorical evidence repeatedly shows: the confessional record in witch trials reflects judicial procedure rather than authentic popular belief. Spee's observations from inside the system corroborate the external analytical conclusion that confession content was shaped by interrogation rather than by accuseds' actual experiences.",
+  "key_arguments": [
+    "Torture applied to any person will eventually produce a confession, regardless of guilt",
+    "The requirement to name accomplices under torture guarantees endless expansion of accused pool",
+    "Financial interests (confiscated property) corrupt judges toward conviction",
+    "No accused can defend themselves effectively: any defense is interpreted as further evidence of guilt",
+    "The current procedure makes it impossible to distinguish guilty from innocent"
+  ],
+  "influence_on_prosecutions": "The Cautio Criminalis is credited as a significant factor in the decline of German witch prosecutions in the mid-seventeenth century. It influenced both Catholic and Protestant educated opinion and was cited by reformers including Christian Thomasius in his later attack on witch prosecution. The text's anonymity initially protected its circulation; later editions named Spee.",
+  "related_texts": ["weyer-praestigiis-daemonum-1563", "thomasius-de-crimine-1701", "delrio-disquisitio-magica-1599", "hutchinson-historical-essay-1718"],
+  "related_trials": [],
+  "scholarly_disagreement": "Scholars debate the degree to which Spee's intervention actually changed prosecution rates versus reflecting a broader shift in judicial culture that was already underway. Whether his anonymity protected him or whether authorities knew his identity is debated. The relationship between his Rhineland experience and the much larger Würzburg and Bamberg persecutions nearby has been analyzed in context of German Catholic regional patterns.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

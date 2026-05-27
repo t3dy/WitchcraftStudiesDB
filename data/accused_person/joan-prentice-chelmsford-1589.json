@@ -1,0 +1,50 @@
+{
+  "id": "joan-prentice-chelmsford-1589",
+  "name": "Joan Prentice",
+  "status": "Executed",
+  "trial_id": "chelmsford-1589",
+  "location_id": "chelmsford",
+  "year_accused": 1589,
+  "year_executed": 1589,
+  "age_at_trial": null,
+  "social_status": "Elderly woman, almshouse resident, Sible Hedingham, Essex",
+  "gender": "Female",
+  "biography": "Joan Prentice was an elderly woman who, at the time of her accusation, was resident in an almshouse in Sible Hedingham, Essex — a position that reflects her poverty and marginality within local society. Like many Essex accused witches of the Elizabethan period, she existed at the social margins, dependent on community charity, and her accusation arose from neighborhood conflicts and suspicions that had built up over time.\n\nPrentice confessed to possessing a familiar spirit in the form of a ferret, which she named Bid. Her confession followed the well-established Essex pattern of animal familiars, neighborhood maleficium, and a pact with the devil in animal form. She was one of three women tried at the 1589 Chelmsford assizes, the third and final of the major sixteenth-century Chelmsford witch trials. Her confession, like those of her predecessors, was produced without recorded torture.",
+
+  "arrest_narrative": "Prentice was accused at the 1589 Chelmsford assizes along with two other women (Joan Cunny and Joan Upney). She confessed to encounters with a familiar spirit which appeared to her in the almshouse where she lived, describing it as a ferret-like creature. Her confession implicated her in the death or illness of several neighbors.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {"session": 1, "method": "Examination before assize judges", "outcome": "Confession to familiar possession and maleficium"}
+    ],
+    "initial_response": "Confession obtained without recorded resistance",
+    "final_confession_summary": "Confessed to a devil appearing to her as a ferret (named Bid), renouncing God, and using the familiar to harm and kill several children and individuals in her neighborhood"
+  },
+
+  "accusations_against_them": [
+    "Possessing familiar spirit (ferret named Bid)",
+    "Renouncing God and making demonic pact",
+    "Causing illness and death to children",
+    "Maleficium against neighbors in Sible Hedingham"
+  ],
+
+  "execution_details": {
+    "date": "1589-07-01",
+    "method": "Hanging",
+    "location": "Chelmsford, Essex"
+  },
+
+  "historiographical_significance": "Joan Prentice's case represents the continuation of the familiar-spirit pattern in Essex witch prosecution across three decades, from the 1566 cases through 1589. Her status as an almshouse resident illustrates how poverty and social marginality created particular vulnerability to witch accusation. Her case is one of the clearer examples of how the animal-familiar confession pattern had become standardized in Essex by the late sixteenth century.",
+
+  "source_method": "The Apprehension and confession of three notorious Witches (1589); Essex assize records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "thomas-religion-and-decline-of-magic-1971",
+    "macfarlane-witchcraft-in-tudor-and-stuart-england-1970"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

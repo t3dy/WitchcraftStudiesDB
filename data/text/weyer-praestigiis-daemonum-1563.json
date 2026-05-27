@@ -1,0 +1,33 @@
+{
+  "id": "weyer-praestigiis-daemonum-1563",
+  "title": "De Praestigiis Daemonum et Incantationibus ac Venificiis",
+  "author": "Johann Weyer (Wier)",
+  "author_id": null,
+  "year_published": 1563,
+  "language": "Latin",
+  "type": "SKEPTICAL_TREATISE",
+  "publisher_original": "Oporinus, Basel, 1563",
+  "modern_edition": "Weyer, Johann, Witches, Devils, and Doctors in the Renaissance, ed. George Mora, MRTS, 1991",
+  "significance": "The first systematic medical and psychological defense of accused witches; argued they suffered from melancholy and demonic delusion rather than real pacts; Bodin's furious response shows how seriously the demonological establishment took the threat.",
+  "summary": "In six books, Weyer argues that women accused of witchcraft are victims of diabolical deception rather than real diabolic agents: the devil deludes melancholic women into believing they fly to sabbaths and harm their neighbors, but no physical effects follow from these delusions. Weyer draws on his medical training under Cornelius Agrippa and his experience as personal physician to Duke Wilhelm of Cleves to argue for a medical-psychiatric explanation of witch behavior. He does not deny the devil's existence or power but argues the devil works through deception, not through actual physical agents. The work went through six expanded editions by 1583.",
+  "clark_analysis": "Clark contextualizes Weyer's skepticism as operating within the demonological tradition rather than outside it: Weyer accepted devils, demonic possession, and divine providence; he merely relocated the locus of error from the witch to the devil's deception. This internal skepticism explains why the debate between Weyer and Bodin was so bitter — they shared fundamental assumptions but drew radically different conclusions.",
+  "hutton_analysis": "Hutton treats Weyer as a pioneering humanitarian whose medical framework for understanding accused women was genuinely protective in intent. The medical-psychiatric model Weyer proposed, however limited by modern standards, represented a real alternative to execution and influenced later skeptical traditions.",
+  "ginzburg_analysis": "Ginzburg notes that Weyer, while defending accused women, still denied the reality of the popular beliefs those women expressed. Like the demonologists who opposed him, Weyer showed little interest in what the accused actually believed; both sides in the debate were more concerned with theological-medical questions than with recovering popular culture.",
+  "key_arguments": [
+    "Accused women are victims of diabolical deception and melancholy, not real agents of harm",
+    "The devil can delude susceptible minds but cannot grant power over the physical world to humans",
+    "Medical and psychological explanations account for confession content without requiring real diabolic agency",
+    "Executing deluded and mentally ill women is judicial murder",
+    "True criminals are those who practice real harmful magic (veneficium), not deluded old women"
+  ],
+  "influence_on_prosecutions": "Weyer's influence is hard to measure but his work circulated widely and was cited by later skeptics including Reginald Scot. His medical framework for accused women influenced the gradual shift toward psychiatric rather than judicial management of suspected witches in the seventeenth century.",
+  "related_texts": ["scot-discoverie-witchcraft-1584", "bodin-demonomanie-1580", "spee-cautio-criminalis-1631", "bekker-betoverde-weereld-1691"],
+  "related_trials": [],
+  "scholarly_disagreement": "Historians debate whether Weyer should be seen as a proto-rationalist skeptic or as a demonologist who differed only on the question of human agency. Recent scholarship (Clark, Mora) has emphasized the degree to which Weyer operated within demonological assumptions rather than breaking with them. The question of how much his medical arguments actually protected accused women in practice remains open.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

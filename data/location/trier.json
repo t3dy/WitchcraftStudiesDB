@@ -1,0 +1,75 @@
+{
+  "id": "trier",
+  "name": "Trier (Electorate of Trier)",
+  "type": "Ecclesiastical State",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Rhineland-Palatinate, Germany",
+  "coordinates": {
+    "latitude": 49.749,
+    "longitude": 6.637
+  },
+
+  "administrative_context": "The Electorate of Trier was one of the seven Electoral territories of the Holy Roman Empire, governed by an Archbishop-Elector who wielded both ecclesiastical and secular power. As an ecclesiastical prince-elector, the Archbishop of Trier held significant political weight within the Empire and combined episcopal inquisitorial authority with secular criminal jurisdiction.",
+
+  "witchcraft_trials_significance": "The Trier persecution of 1581-1593 was among the first large-scale organized witch panics in the Holy Roman Empire, preceding the Bamberg and Würzburg persecutions by four decades. Approximately 300 people were executed in the course of more than a decade of sustained prosecution. Trier became a model—and a warning—studied by later demonologists and skeptics alike.",
+
+  "trial_events": [
+    "trier-1581-mass-persecution"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Johann von Schönenberg",
+      "role": "Archbishop-Elector of Trier (1581-1599)",
+      "contribution_to_trials": "Authorized and sustained the persecution over more than a decade; provided ecclesiastical legitimacy for prosecutions"
+    },
+    {
+      "name": "Peter Binsfeld",
+      "role": "Suffragan Bishop of Trier and inquisitor",
+      "contribution_to_trials": "Chief theological authority for the prosecution; wrote Tractatus de Confessionibus Maleficorum et Sagarum (1589) defending the validity of witch trial confessions; conducted or supervised many interrogations"
+    },
+    {
+      "name": "Dietrich Flade",
+      "role": "Suffragen Bishop and judge",
+      "contribution_to_trials": "Initially sceptical of the prosecutions; later himself accused, tortured, and executed in 1589, demonstrating that prosecutorial caution provided no protection"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1581": "Persecution begins in rural communities surrounding Trier",
+    "1582_1585": "Spread to urban areas; multiple villages report most adult female population accused or executed",
+    "1586": "Contemporary account records villages left nearly depopulated of women",
+    "1589": "Peter Binsfeld publishes his Tractatus; Judge Dietrich Flade accused and executed",
+    "1590_1593": "Persecution gradually winds down; last major executions"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Electorate of Trier and surrounding territories; rural villages heavily affected",
+    "social_reach": "Initially marginalized women; expanding to men, civic officials, and respected community members as denunciation chains lengthened",
+    "gender_distribution": "Predominantly female among early victims; high male representation in later phases as officials were accused",
+    "mortality_impact": "Approximately 300 executions; some villages in the Eifel region reportedly lost the majority of adult women"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark analyses Binsfeld's Tractatus as a serious contribution to demonological theory defending torture-extracted confessions as valid on the grounds that diabolical assistance could not long withstand proper inquisitorial procedure, illustrating the coherent theological logic underpinning prosecution.",
+    "hutton_perspective": "Hutton frames Trier as an instance of extreme official-driven persecution where learned elite anxiety about diabolical conspiracy, amplified by a decade of poor harvests and political insecurity, drove prosecution far beyond any organic community accusation.",
+    "ginzburg_perspective": "Ginzburg notes that the Trier confessions, systematically extracted by Binsfeld's methods, produced a standardized narrative of sabbath and diabolical pact structurally identical across unrelated defendants, confirming the interrogation-shaped character of witchcraft confessions."
+  },
+
+  "legacy_and_historiographical_importance": "The Trier persecution is significant for the survival of Peter Binsfeld's theoretical defense of witch trial procedures, making it a crucial primary text in demonological literature. The execution of skeptical judge Dietrich Flade became emblematic in historiography of the self-consuming dynamic of cascade persecution. Contemporary chronicler reports of depopulated villages, while possibly exaggerated, influenced later historical memory of the persecution's scale.",
+
+  "primary_sources": "Peter Binsfeld, Tractatus de Confessionibus Maleficorum et Sagarum (1589); contemporary chronicle accounts; episcopal and secular court records in Trier archives",
+
+  "source_method": "Published scholarship (Levack, Behringer, Lea), Binsfeld's Tractatus, archival sources",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

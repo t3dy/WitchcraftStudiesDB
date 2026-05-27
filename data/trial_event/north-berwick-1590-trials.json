@@ -1,0 +1,75 @@
+{
+  "id": "north-berwick-1590-trials",
+  "name": "North Berwick Witch Trials",
+  "location_id": "north-berwick",
+  "year_start": 1590,
+  "year_end": 1591,
+  "alleged_accused_count": 70,
+  "executed_count": 25,
+  "regional_context": "North Berwick, East Lothian, Kingdom of Scotland; directly involving King James VI, who personally interrogated the accused; politically charged context of royal marriage to Anne of Denmark",
+
+  "summary": "The North Berwick trials (1590-1591) were the most politically significant Scottish witch prosecution, directly involving King James VI of Scotland, who personally interrogated at least one accused witch (Agnes Sampson) and later published *Daemonologie* (1597) partly in response to the case. The accused — including Agnes Sampson, John Fian, Euphemia Maclean, and Geillis Duncan — were alleged to have raised storms to sink the ship carrying James and his new bride Anne of Denmark back from Denmark. James's personal engagement transformed what might have been a local Scottish prosecution into a royal affair with direct implications for demonological theory and subsequent Stuart witch-hunting policy in both Scotland and England.",
+
+  "historiographical_significance": "North Berwick holds exceptional historiographical importance because it directly produced royal demonological authorship: James VI's *Daemonologie* (1597) was a direct intellectual response to the trials, and when James became James I of England in 1603, his demonological views influenced English witch-hunt policy and the 1604 Witchcraft Act. Lawrence Normand and Gareth Roberts's edition of the North Berwick documents (2000) established the textual basis for analysis. Stuart Clark analyzes *Daemonologie* as a sophisticated demonological treatise informed by the personal experience of royal interrogation. The political dimension — storm-raising against the king — illustrates how witchcraft could be constructed as both religious crime and political treason simultaneously.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "maleficium-weather-magic",
+    "demonological-conspiracy"
+  ],
+
+  "key_details": {
+    "initiating_authority": "King James VI of Scotland; Scottish Privy Council",
+    "prosecuting_officials": "James VI (personal interrogation of Agnes Sampson at Holyrood); Privy Council commissioners; local sheriffs",
+    "procedure": "Extraordinary royal commission; James VI personally present at interrogations; torture applied including the pilniewinks (thumbscrews) and the 'joug' (iron collar); witch's marks searched",
+    "torture_methods": ["pilniewinks (thumbscrews)", "iron collar (joug)", "sleep deprivation", "hair shirt with pitch"],
+    "trial_phases": [
+      {
+        "phase": "Initial arrests (autumn 1590)",
+        "context": "Geillis Duncan's suspicious healing activities draw attention; under torture she names Agnes Sampson and others"
+      },
+      {
+        "phase": "Royal interrogation (winter 1590-1591)",
+        "context": "James VI personally interrogates Agnes Sampson at Holyroodhouse; storm-raising conspiracy narrative emerges"
+      },
+      {
+        "phase": "Mass trials (1591)",
+        "context": "John Fian, Euphemia Maclean, Agnes Sampson and others tried and executed; some accused escape or die before trial"
+      },
+      {
+        "phase": "Continued prosecutions (1591)",
+        "context": "Francis Stewart, Earl of Bothwell implicated (he escapes); further regional prosecutions sparked by the North Berwick narrative"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate the degree to which James VI was a sincere demonologist versus a politically motivated monarch who used the witch-trials to neutralize enemies (particularly Francis Stewart, Earl of Bothwell, who was named in confessions). Christina Larner's foundational study of Scottish witch-hunting emphasizes the political dimensions; subsequent scholars have generally accepted both elements as genuinely present. The relationship between the North Berwick trials and James's *Daemonologie* is also contested: did the trials create James's demonological convictions, or did he arrive with prior beliefs that the trials confirmed?",
+
+  "accused_persons": [
+    "agnes-sampson-north-berwick-1590",
+    "john-fian-north-berwick-1590",
+    "euphemia-maclean-north-berwick-1590",
+    "geillis-duncan-north-berwick-1590"
+  ],
+
+  "related_trials": [
+    "great-scottish-witch-hunt-1661",
+    "aberdeen-1597-trials"
+  ],
+
+  "source_method": "Newes from Scotland (1591, contemporary pamphlet); Scottish Privy Council records; Lawrence Normand and Gareth Roberts, *Witchcraft in Early Modern Scotland* (2000); Christina Larner, *Enemies of God* (1981)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "The North Berwick trials represent one of the few cases where witch-hunting directly produced an important demonological text. James VI's *Daemonologie* is not merely a response to the trials in a general sense — it engages specifically with the theological and procedural questions that the North Berwick interrogations raised. Clark's analysis of the text illuminates how James synthesized Continental demonological learning (he had been in Denmark during the period of intense Danish witch-hunting) with his own royal experience of interrogation. The transposition of James's Scottish demonological convictions to English soil after 1603 is a key factor in understanding the subsequent English prosecution of the early seventeenth century.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

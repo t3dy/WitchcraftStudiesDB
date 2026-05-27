@@ -1,0 +1,66 @@
+{
+  "id": "valais-canton",
+  "name": "Valais (Canton Valais, Switzerland)",
+  "type": "Region",
+  "region": "Central Alps / Switzerland",
+  "modern_location": "Valais Canton, Switzerland",
+  "coordinates": {
+    "latitude": 46.228,
+    "longitude": 7.360
+  },
+
+  "administrative_context": "The Valais in the early 15th century was a territory under the Bishop of Sion (Sitten) and the local lords of the upper Rhône valley. It bordered Savoy and was subject to both episcopal and secular jurisdiction. The region was mountain agricultural economy with distinctive Alpine folk traditions. Witch prosecutions were conducted by episcopal and secular courts.",
+
+  "witchcraft_trials_significance": "The Valais witch trials of 1428-1447 are among the earliest documented organized witch persecutions in Europe, predating the publication of the Malleus Maleficarum (1487) by decades. The Valais trials are crucial to understanding the formation of the witch trial template: they document early formulations of the sabbath (here called the 'synagogue' of witches), demonic pact, and organized diabolical conspiracy. Contemporary chronicler sources suggest hundreds of people were prosecuted over two decades, with significant executions. The Valais is often cited alongside the Pays de Vaud as a site of origin for the European witch trial phenomenon.",
+
+  "trial_events": [
+    "valais-1428-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Bishop Andreas of Sion",
+      "role": "Episcopal authority",
+      "contribution_to_trials": "Episcopal courts participated in prosecutions under his authority"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1428": "First documented prosecutions with sabbath features in the Valais; early formulations of the 'synagogue' of witches",
+    "1430s": "Continued prosecutions; the witch sect concept develops in trial testimony",
+    "1440s": "Further prosecutions; Johannes Fründ's chronicle documents the scale of persecution",
+    "1447": "Last major documented phase of the initial persecution"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Upper and lower Valais, the Rhône valley, and neighbouring Alpine territories",
+    "social_reach": "Mountain peasant communities; marginal figures and those with prior reputations for maleficium",
+    "gender_distribution": "Notably higher male prosecution rates than later European witch trials; some historians estimate equal or majority male accused in early Alpine cases",
+    "mortality_impact": "Johannes Fründ's chronicle suggests hundreds prosecuted over the 1428-1447 period; exact execution total uncertain"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the Valais trials as evidence for the formation of organized demonological prosecution in the early 15th century: the 'synagogue' terminology applied to witch gatherings reflects the heresy-persecution model inherited from campaigns against Cathars and Waldensians, showing how prosecutorial categories shaped the witch trial template.",
+    "hutton_perspective": "Hutton is cautious about the claim that the Valais represents a single origin point, noting that the Alpine trials may reflect local conditions—mountain communities, insecurity, boundary disputes—rather than a universal generative event, and that similar prosecutions occurred across a wide Alpine arc.",
+    "ginzburg_perspective": "Ginzburg sees the Valais as a key site for understanding the collision between indigenous Alpine folk traditions (possibly including ecstatic or shamanic elements) and the heresy-prosecution model: the earliest sabbath accounts from the Valais may preserve traces of pre-Christian beliefs filtered through an inquisitorial template."
+  },
+
+  "legacy_and_historiographical_importance": "The Valais trials are analyzed in detail by Richard Kieckhefer, Wolfgang Behringer, and Martine Ostorero, whose edition of early witch trial texts includes key Valais documents. The question of Valais as a potential origin site for European witch hunting remains one of the most debated questions in the field.",
+
+  "primary_sources": "Johannes Fründ, chronicle account of Valais prosecutions (c.1428-1430); episcopal court records in Sion archives; analyzed in Ostorero et al., L'imaginaire du sabbat (1999)",
+
+  "source_method": "Published scholarship (Kieckhefer, Behringer, Ostorero, Ginzburg), Fründ chronicle, Sion archives",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "scholarly_disagreement": "Whether the Valais was an origin point or merely an early instance of witch prosecution remains debated. The high male prosecution rate in the Valais is anomalous relative to later European patterns and its explanation is disputed.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

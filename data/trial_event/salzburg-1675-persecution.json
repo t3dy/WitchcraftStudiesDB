@@ -1,0 +1,70 @@
+{
+  "id": "salzburg-1675-persecution",
+  "name": "Salzburg Zauberer-Jackl Witch Persecution",
+  "location_id": "salzburg",
+  "year_start": 1675,
+  "year_end": 1690,
+  "alleged_accused_count": 200,
+  "executed_count": 139,
+  "regional_context": "Archbishopric of Salzburg, Bavaria-Austria border; Catholic prince-archbishopric under Archbishop Max Gandolph von Kuenburg",
+
+  "summary": "The Salzburg 'Zauberer-Jackl' persecution (1675-1690) was initiated by allegations that a young vagrant named Jackl (Jakob) had organized a gang of child and vagrant sorcerers who committed maleficium across the archbishopric. The panic was distinctive for its extreme targeting of children, vagrants, and social marginals — approximately 139 individuals were executed, including a significant proportion of minors and homeless beggars. The social profile of the accused was unusually homogeneous in its marginality: these were not the community-embedded cunning folk or prosperous women who figured in many other persecutions, but genuinely rootless vagrant populations who lacked community advocates.",
+
+  "historiographical_significance": "The Salzburg persecution raises sharply the question of how social marginality shapes witch-hunting dynamics. Unlike the German mass persecutions that swept through all social levels via cascade denunciation, Salzburg remained predominantly focused on vagrant and child populations throughout its fifteen-year course. Ronald Hutton's social history framework is directly relevant: Hutton argues that witch accusations most readily targeted those with the fewest social resources to mount a defense — and vagrant children had none. The involvement of children as both accusers and accused also connects Salzburg to the contemporaneous Swedish Mora panic and the slightly later Salem trials, suggesting a pan-European pattern of child-centered witch panics in the late seventeenth century.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic",
+    "witches-sabbath-collective",
+    "demonological-conspiracy"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Archbishop Max Gandolph von Kuenburg; secular court of the archbishopric",
+    "prosecuting_officials": "Archiepiscopal secular magistrates; local bailiffs; parish clergy providing denunciations",
+    "procedure": "Criminal procedure applied to vagrant populations; children subjected to interrogation and some forms of torture; confession-based prosecution",
+    "torture_methods": ["strappado", "confinement", "sleep deprivation"],
+    "trial_phases": [
+      {
+        "phase": "Initial vagrant accusations (1675-1677)",
+        "context": "Reports of vagrant child-sorcerers committing maleficium across rural Salzburg; first arrests of homeless youth and adults"
+      },
+      {
+        "phase": "Establishment of 'Jackl' narrative (1677-1681)",
+        "context": "Confessions construct narrative of Jackl as master-sorcerer leading a gang; Jackl himself never captured, remaining a spectral organizing figure"
+      },
+      {
+        "phase": "Mass prosecutions (1681-1685)",
+        "context": "Peak executions; dozens of vagrant children and adults burned; archiepiscopal courts systematically prosecute vagrant populations"
+      },
+      {
+        "phase": "Extended tail (1685-1690)",
+        "context": "Continued scattered prosecutions; persecution gradually winds down as vagrant population pool is depleted or flees"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate the relationship between the Salzburg persecution's social profile (vagrants, children) and its ideological framework. Was the prosecution primarily a social control mechanism targeting vagrant populations under the cover of demonological belief, or was it a genuine demonological prosecution that happened to find most of its evidence in vagrant communities? The fugitive status of the alleged ringleader Jackl — who was never captured — raises questions about whether he existed at all, or was a narrative construction of the prosecution.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "mora-sweden-1669-trials",
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "source_method": "Salzburg archiepiscopal court records; Behringer's studies of Bavarian-Austrian witch-hunting; Austrian regional historiography",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "historiographical_notes": "The Salzburg case illustrates the late-seventeenth-century transformation of witch-hunting toward social control of marginalized populations. While earlier German panics (Bamberg, Würzburg, Trier) swept through entire communities via cascade denunciation, Salzburg remained focused on a specific social stratum — vagrants and vagrant children — throughout its duration. This suggests either that Salzburg's prosecutorial mechanisms were less susceptible to cascade expansion, or that the social-control function became dominant over the demonological-panic function. The child victims of Salzburg have attracted particular historical attention as examples of how the most vulnerable populations bore the brunt of witch prosecution when community-embedded prosecution dynamics were absent.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

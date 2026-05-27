@@ -1,0 +1,49 @@
+{
+  "id": "barbara-napier-north-berwick-1590",
+  "name": "Barbara Napier",
+  "status": "Survived; Released",
+  "trial_id": "north-berwick-1590",
+  "location_id": "north-berwick",
+  "year_accused": 1590,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Wife of Edinburgh merchant Archibald Douglas; burgess class",
+  "gender": "Female",
+  "biography": "Barbara Napier was the wife of Archibald Douglas, an Edinburgh merchant, placing her solidly in the prosperous burgess class. Her relatively elevated social position, combined with the specific accusations against her, made her case one of the most politically charged episodes in the North Berwick trials. She was implicated through confessions extracted from other accused witches and charged with consulting Agnes Sampson and with participation in the North Berwick conspiracy.\n\nNapier's case took a dramatic turn when the jury acquitted her, producing an extraordinary royal reaction. James VI, who had personally invested in the North Berwick prosecutions as a direct attack on his person and his royal authority, was furious at the verdict. He threatened the jurors with a treason prosecution of their own — an astonishing exercise of royal pressure on the judicial process that illustrates how politicized the North Berwick trials had become.",
+
+  "arrest_narrative": "Napier was accused based on confessions extracted from Agnes Sampson and other North Berwick accused, who named her as a participant in the conspiracy against James VI. Her burgess social status likely contributed to her ability to secure a jury acquittal where lower-status accused could not. The trial took place amid intense royal scrutiny and pressure.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [],
+    "initial_response": "Denial of all charges",
+    "final_confession_summary": "No full confession extracted; acquitted by jury despite royal pressure"
+  },
+
+  "accusations_against_them": [
+    "Consulting Agnes Sampson regarding witchcraft",
+    "Participation in North Berwick conspiracy against James VI",
+    "Knowledge of and assistance to witch conspiracy",
+    "Maleficium against named individuals"
+  ],
+
+  "execution_details": {
+    "date": null,
+    "method": null,
+    "location": null
+  },
+
+  "historiographical_significance": "Napier's case is exceptional in the North Berwick trials because she was acquitted — one of the very few such outcomes. James VI's furious response to her acquittal and his threat to prosecute the jury for treason illuminates the political stakes of the North Berwick prosecutions and the fragility of normal judicial procedure when royal authority was personally invested in conviction. Her case is important for understanding how social status could provide marginal protection and how that protection operated within severe limits.",
+
+  "source_method": "Scottish privy council records; Pitcairn's Criminal Trials in Scotland (1833); secondary accounts",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "goodare-scottish-witch-hunt-2002",
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

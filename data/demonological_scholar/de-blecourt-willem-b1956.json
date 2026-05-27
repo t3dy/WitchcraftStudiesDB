@@ -1,0 +1,69 @@
+{
+  "id": "de-blecourt-willem-b1956",
+  "name": "Willem de Blécourt",
+  "birth_year": 1956,
+  "death_year": null,
+  "birth_place": "Netherlands",
+  "academic_discipline": "Cultural History",
+  "primary_institution": "University of Amsterdam",
+  "specialization": "Dutch witch beliefs; cultural constructionism; critique of Murray thesis; regional variation in witchcraft concepts",
+  "major_works": [
+    {
+      "title": "Termen van toverij (Terms of Witchcraft)",
+      "year": 1990,
+      "publisher": "SUN",
+      "significance": "Dutch-language study of witchcraft terminology and concepts in the Dutch popular tradition; showed regional diversity of witch beliefs",
+      "database_entry": null
+    },
+    {
+      "title": "Witchcraft Continued: Popular Magic in Modern Europe (co-editor)",
+      "year": 2004,
+      "publisher": "Manchester University Press",
+      "significance": "Edited volume demonstrating continuity of magical beliefs and practices beyond the prosecution period",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "The 'witch' was a cultural construct that varied significantly by region, time period, and social context; there was no single coherent witch figure across Europe. The Murray thesis of a unified witch cult is demonstrably false. Regional variation is so significant that generalizations about 'the witch' or 'the witch-hunt' risk falsifying the historical reality of diverse local beliefs and practices.",
+  "methodological_approach": {
+    "primary_materials": "Dutch archival records; folklore collections; regional trial records from the Netherlands and neighboring areas",
+    "analysis_target": "Regional variation in witch beliefs and accusations; construction of witch identity in different local contexts; continuity of popular magic after prosecution period",
+    "evidence_type": "Archival and ethnographic analysis; terminological and conceptual history of witch beliefs",
+    "explanatory_level": "Cultural constructionist: meanings of 'witch' constructed locally and varying accordingly"
+  },
+  "key_contributions": [
+    {
+      "concept": "Witch as cultural construct",
+      "claim": "What counted as a 'witch' varied so significantly by region and period that umbrella generalizations about witchcraft are analytically dangerous",
+      "implication": "Regional history must precede comparative synthesis, not follow it"
+    },
+    {
+      "concept": "Demolition of Murray thesis",
+      "claim": "Systematic examination of trial evidence shows no trace of a real organized witch cult; Murray's thesis was based on selective reading and special pleading",
+      "implication": "The Murray thesis should be treated as a historiographical object of study (why was it believed?) rather than as evidence"
+    },
+    {
+      "concept": "Dutch witchcraft distinctiveness",
+      "claim": "Dutch witch beliefs and prosecution patterns differed significantly from German and English models, reflecting different legal institutions and religious culture",
+      "implication": "The Netherlands' relatively low prosecution rate requires its own explanation, not assimilation into a general European model"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["briggs-robin-b1942", "purkiss-diane-b1961"],
+    "creative_tension_with": ["murray-margaret-1863-1963", "hutton-ronald-b1953", "muchembled-robert-b1944"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Cultural constructionism; Dutch and Flemish regional historiography; folkloristics",
+    "criticisms": [
+      "Strong constructionism can make cross-regional comparison difficult",
+      "Primarily engaged with Dutch material, limiting visibility in Anglophone historiography",
+      "Skepticism about generalization sometimes reads as resistance to synthesis rather than a positive research program"
+    ]
+  },
+  "historiographical_significance": "De Blécourt has been a persistent voice for empirical rigor and regional specificity in witchcraft scholarship, effectively demolishing the Murray thesis through detailed archival evidence. His emphasis on the 'witch' as locally constructed has reinforced the importance of regional studies and challenged premature comparative synthesis. His work on Dutch witchcraft remains the authoritative regional study for the Netherlands.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

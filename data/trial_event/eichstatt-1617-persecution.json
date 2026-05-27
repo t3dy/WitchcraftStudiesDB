@@ -1,0 +1,72 @@
+{
+  "id": "eichstatt-1617-persecution",
+  "name": "Eichstätt Prince-Bishopric Witch Persecution",
+  "location_id": "eichstatt",
+  "year_start": 1617,
+  "year_end": 1637,
+  "alleged_accused_count": 274,
+  "executed_count": 220,
+  "regional_context": "Prince-Bishopric of Eichstätt, Franconian Circle, Holy Roman Empire; neighboring territory to Bamberg and Würzburg",
+
+  "summary": "The Eichstätt persecution (1617-1637) was a sustained, institutionalized witch hunt lasting two decades across the Prince-Bishopric of Eichstätt in Catholic Franconia. Unlike single-wave panics that peaked and subsided within a few years, the Eichstätt prosecutions repeatedly restarted after apparent lulls, suggesting a deeply institutionalized willingness to prosecute among ecclesiastical authorities rather than a single crisis of communal panic. Over 200 individuals were executed in multiple discrete waves of prosecution, making it one of the most protracted as well as lethal of the German mass persecutions. Its proximity to the simultaneous Bamberg and Würzburg hunts suggests a regional culture of witch prosecution in Catholic Franconia during this period.",
+
+  "historiographical_significance": "Eichstätt's multi-phase structure makes it analytically valuable for distinguishing between crisis-driven and institutionalized models of witch-hunting. Levack's comparative framework identifies Eichstätt as evidence that persecution could become a routine judicial function rather than an exceptional panic response. Stuart Clark's intellectual history approach emphasizes how the persistence of demonological belief among Eichstätt's episcopal administrators sustained repeated waves of prosecution beyond what social crisis or communal fear alone could have driven. The case also demonstrates the Franconian concentration: the simultaneous prosecutions in Bamberg, Würzburg, and Eichstätt created a regional landscape of persecution in which denunciations could cross jurisdictional boundaries.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "demonological-conspiracy",
+    "maleficium-weather-magic",
+    "female-susceptibility-theory"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Prince-Bishops of Eichstätt; multiple bishops oversaw different waves of prosecution across the twenty-year period",
+    "prosecuting_officials": "Episcopal secular court; local bailiffs and magistrates; ecclesiastical advisory council",
+    "procedure": "Inquisitorial procedure with systematic torture; use of denunciation lists from each accused; repeated waves rather than single sustained campaign",
+    "torture_methods": ["strappado", "thumbscrews", "leg irons", "sleep deprivation"],
+    "trial_phases": [
+      {
+        "phase": "First wave (1617-1622)",
+        "context": "Initial prosecutions following crop failures; women and marginal persons targeted; approximately 50-60 executions"
+      },
+      {
+        "phase": "Interlude and restart (1623-1626)",
+        "context": "Apparent lull; new episcopal administration restarts prosecutions on accumulated accusations"
+      },
+      {
+        "phase": "Second major wave (1627-1631)",
+        "context": "Synchronized with Bamberg and Würzburg peaks; cross-border denunciations add to Eichstätt suspect pool"
+      },
+      {
+        "phase": "Final wave and end (1632-1637)",
+        "context": "Thirty Years' War disruption eventually forces administrative attention elsewhere; prosecutions taper and end"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The precise chronology and death toll of the Eichstätt persecution are contested due to incomplete record survival. Whether the multiple waves represent continuous institutional prosecution or genuinely distinct episodes triggered by separate crises is debated. Some historians attribute the restart of prosecutions primarily to new episcopal administrations bringing renewed zeal; others see continuous institutional pressure beneath apparent lulls.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "wurzburg-1626-mass-prosecution",
+    "ellwangen-1611-persecution"
+  ],
+
+  "source_method": "Eichstätt episcopal court records (fragmentary); Behringer's regional studies; Riezler's nineteenth-century compilation of German witch-trial records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Eichstätt's twenty-year span raises important questions about the sociology of persecution maintenance. Short panics can be explained by immediate communal crises — bad weather, epidemics, social tensions — that temporarily make scapegoating mechanisms available. A two-decade institutionalized persecution requires a different explanation: ongoing ideological commitment by governing authorities, structural features that reward prosecution (confiscated property, patronage), or embedded social conflicts that repeatedly resurface through the witchcraft accusation framework. Eichstätt thus points toward the institutional and intellectual factors emphasized by Clark rather than the social stress factors favored by some functionalist accounts.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

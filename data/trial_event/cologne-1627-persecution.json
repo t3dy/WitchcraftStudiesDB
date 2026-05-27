@@ -1,0 +1,73 @@
+{
+  "id": "cologne-1627-persecution",
+  "name": "Archbishopric of Cologne Witch Persecution",
+  "location_id": "cologne-archbishopric",
+  "year_start": 1627,
+  "year_end": 1630,
+  "alleged_accused_count": 150,
+  "executed_count": 80,
+  "regional_context": "Archbishopric of Cologne, Rhineland, Holy Roman Empire; one of the most powerful Catholic ecclesiastical territories in the Empire; backdrop of Thirty Years' War",
+
+  "summary": "The Cologne persecution (1627-1630) took place in the context of the early Thirty Years' War, when the political and religious crisis of the Empire intensified accusations of supernatural conspiracy across Catholic territories. Multiple villages in the archbishopric were affected, and approximately 80 individuals were executed across the period. The prosecution of Catharina Henot, a prominent postmistress and member of a well-connected Cologne family, stands as one of the most socially significant individual prosecutions: her case demonstrates how accusations could target prominent civic figures with established reputations and professional standing. Henot was executed in 1627 despite the efforts of her family and despite considerable doubt about the evidence.",
+
+  "historiographical_significance": "The Cologne persecution illustrates the intersection of religious warfare and witch-hunting: the Thirty Years' War created conditions of fear, political instability, and religious polarization that intensified prosecution pressure across Catholic Germany. Levack's comparative analysis emphasizes that the peak years of German witch-hunting (1626-1631) coincided with the early intensification of the Thirty Years' War, suggesting a structural connection between military-religious crisis and increased prosecution. The Henot case specifically raises questions about gender and civic status: as a postmistress operating a licensed communication network, Henot occupied an unusual professional position for a woman, and historians have debated whether this visibility made her a target.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "demonological-conspiracy",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Archbishopric of Cologne ecclesiastical and secular courts",
+    "prosecuting_officials": "Cologne Archiepiscopal court officials; lay magistrates under episcopal oversight",
+    "procedure": "Ecclesiastical inquisitorial procedure combined with secular criminal process; torture applied; denunciations across village networks",
+    "torture_methods": ["strappado", "thumbscrews"],
+    "trial_phases": [
+      {
+        "phase": "Village prosecutions (1627)",
+        "context": "Multiple village communities in the archbishopric accuse neighbors of weather magic and maleficium; initial arrests"
+      },
+      {
+        "phase": "Urban expansion and Henot case (1627)",
+        "context": "Accusations reach into Cologne city itself; Catharina Henot arrested despite family intervention; executed May 19, 1627"
+      },
+      {
+        "phase": "Continued rural prosecution (1627-1629)",
+        "context": "Village-level prosecutions continue; denunciation networks active across multiple communities"
+      },
+      {
+        "phase": "Wind-down (1629-1630)",
+        "context": "Military pressures of Thirty Years' War redirect administrative attention; prosecutions taper"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The role of the Thirty Years' War in intensifying the Cologne persecution is debated. Some historians argue the correlation between military crisis and prosecution is direct: war creates the conditions of fear and social disruption that drive persecution. Others suggest the War's administrative effects are more important: territories needed to demonstrate Catholic zeal to maintain political alliances, making active witch prosecution politically advantageous. The Henot case specifically raises questions about whether her prosecution was motivated by personal enemies exploiting the panic, or whether she was genuinely suspected within her community.",
+
+  "accused_persons": [
+    "catharina-henot-cologne-1627"
+  ],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "wurzburg-1626-mass-prosecution",
+    "trier-1581-mass-persecution"
+  ],
+
+  "source_method": "Cologne archiepiscopal court records; Briggs's regional analysis of Rhineland persecution; Behringer's broader German witch-hunt studies",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Cologne's intersection of urban civic culture with intense demonological prosecution distinguishes it from the rural-dominated Bamberg and Würzburg cases. The Henot case introduces the variable of civic professional women into the analysis: Henot was not marginal but central to Cologne's communication infrastructure. Her prosecution thus complicates simplistic marginality theories of witch accusation while supporting Clark's argument that demonological logic, once institutionally activated, was not inherently bounded by social status. The Thirty Years' War context also matters for Hutton's social history framework: the material disruptions of war — economic dislocation, military quartering, population movement — create exactly the social stress conditions Hutton identifies as enabling prosecution.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

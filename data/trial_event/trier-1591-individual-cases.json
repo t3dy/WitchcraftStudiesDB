@@ -1,0 +1,65 @@
+{
+  "id": "trier-1591-individual-cases",
+  "name": "Trier Surrounding Villages Final Persecution Phase",
+  "location_id": "trier",
+  "year_start": 1591,
+  "year_end": 1593,
+  "alleged_accused_count": 60,
+  "executed_count": 48,
+  "regional_context": "Electorate of Trier, surrounding villages, Holy Roman Empire; final phase of the larger Trier persecution (1581-1593)",
+
+  "summary": "The final phase of the Trier persecution (1591-1593) concentrated on the surrounding rural villages of the electorate, bringing the overall hunt to a devastating conclusion. Contemporary accounts record that two villages in the region were left with only one female inhabitant each following the executions — a claim that, while possibly exaggerated, reflects the scale of prosecution relative to small rural communities. This final phase followed the execution of Dietrich Flade in 1589 and represented the prosecution's outward spread from urban and elite targets back to the rural communities where the hunt had begun. The cascade of denunciations had by this point implicated nearly every household in some villages.",
+
+  "historiographical_significance": "The reported near-total depopulation of certain villages in the Trier region has become one of the most cited data points in the historiography of European witch-hunting, representing the extreme end of community-level devastation that cascade prosecution could produce. Historians have approached this claim with varying degrees of skepticism: literal depopulation is improbable given recorded death tolls, but the phrase almost certainly reflects genuine social destruction — the execution of nearly all adult women in small communities of perhaps a hundred people. Levack uses this data to argue that European witch-hunting, at its extremes, was not merely the scapegoating of marginal individuals but the systematic destruction of communities.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "demonological-conspiracy",
+    "maleficium-weather-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Archbishop Johann von Schönenberg; ongoing episcopal authority from the broader Trier persecution",
+    "prosecuting_officials": "Village magistrates acting under episcopal authority; Peter Binsfeld's framework continued to guide prosecution",
+    "procedure": "Rural inquisitorial procedure; torture applied; denunciation lists spreading through village networks; virtually no effective resistance possible in small communities",
+    "torture_methods": ["strappado", "thumbscrews"],
+    "trial_phases": [
+      {
+        "phase": "Rural intensification (1591-1592)",
+        "context": "Cascade prosecutions from earlier urban and elite cases reach surrounding villages; denunciation lists exhaust community after community"
+      },
+      {
+        "phase": "Final executions (1592-1593)",
+        "context": "Peak of village-level destruction; contemporary accounts of near-total depopulation of some communities"
+      },
+      {
+        "phase": "Collapse (1593)",
+        "context": "Prosecution ends through depletion of suspects and growing administrative exhaustion; Archbishop's attention shifts"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The claim of villages left with only one female inhabitant is contested: scholars debate whether contemporary sources are exaggerating for rhetorical effect, whether 'village' refers to very small hamlets where even modest execution numbers could approach total female population, or whether the report is broadly accurate. Even skeptical interpretations acknowledge severe community disruption. The relationship between the 1591-1593 phase and the earlier urban/elite prosecutions is also analyzed differently: was this a natural cascade outward, or did the execution of elite suspects like Flade redirect prosecutorial attention toward less-protected rural populations?",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "trier-1581-mass-persecution"
+  ],
+
+  "source_method": "Contemporary Trier chroniclers; Archbishop Johann's administrative correspondence; Peter Binsfeld's Tractatus; nineteenth-century regional histories by Soldan-Heppe",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "The Trier final phase raises important questions about the endpoint of cascade prosecution dynamics. In the absence of external intervention (imperial oversight, neighboring protests, or the death of a prosecuting bishop), cascade prosecutions appear to have ended primarily through exhaustion: when the suspect pool was depleted, the denunciation mechanism broke down. This pattern — prosecution ending through community destruction rather than institutional critique — suggests that the limiting factor was demographic rather than moral or legal. Hutton's social history framework is particularly apt for analyzing these village-level cases: the question of who survived and why (family connections, economic status, strategic relationships with officials) reveals the social mechanics beneath the demonological surface.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

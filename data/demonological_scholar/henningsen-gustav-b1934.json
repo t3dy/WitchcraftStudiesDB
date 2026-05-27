@@ -1,0 +1,69 @@
+{
+  "id": "henningsen-gustav-b1934",
+  "name": "Gustav Henningsen",
+  "birth_year": 1934,
+  "death_year": null,
+  "birth_place": "Denmark",
+  "academic_discipline": "Folklore and History",
+  "primary_institution": "Danish Folklore Archives",
+  "specialization": "Spanish Inquisition and witchcraft; Basque witch persecution; inquisitorial skepticism",
+  "major_works": [
+    {
+      "title": "The Witches' Advocate: Basque Witchcraft and the Spanish Inquisition 1609-1614",
+      "year": 1980,
+      "publisher": "University of Nevada Press",
+      "significance": "Showed the Spanish Inquisition's internal skepticism about witch accusations through Alonso de Salazar's investigation that effectively exonerated Basque accused",
+      "database_entry": "henningsen-witches-advocate-1980"
+    },
+    {
+      "title": "The Early Modern Witch Trials (co-editor with John Tedeschi)",
+      "year": 1986,
+      "publisher": "Northern Illinois University Press",
+      "significance": "Edited volume on early modern witch trial methodology using Inquisition records",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "The Spanish Inquisition, contrary to popular image, was a relatively skeptical institution regarding witchcraft accusations. Inquisitor Alonso de Salazar's investigation of the 1609-1614 Basque witch scare demonstrated that physical evidence for the sabbath was absent and that confessions were produced by suggestion and social contagion rather than by actual events. This institutional skepticism prevented the spread of large-scale witch panics in most of Spain.",
+  "methodological_approach": {
+    "primary_materials": "Inquisition trial records and internal correspondence from the Archivo Histórico Nacional (Madrid); Salazar's investigation reports",
+    "analysis_target": "Institutional decision-making within Inquisition; evidentiary standards applied to witch accusations; geographic spread of witch scare",
+    "evidence_type": "Archival institutional history; close reading of Inquisition administrative records and correspondence",
+    "explanatory_level": "Institutional: how bureaucratic skepticism within an inquisitorial institution shaped prosecution outcomes"
+  },
+  "key_contributions": [
+    {
+      "concept": "Inquisitorial skepticism",
+      "claim": "The Spanish Inquisition developed rigorous evidentiary standards that led Salazar to conclude that most accused were innocent and that belief in the sabbath was a form of mass delusion",
+      "implication": "Not all inquisitorial institutions promoted witch-hunting; institutional culture and individual officials could be skeptical"
+    },
+    {
+      "concept": "Salazar's investigation as model",
+      "claim": "Alonso de Salazar's systematic investigation of physical evidence (looking for marks, confirming alleged deaths, testing substances) provided an empirical methodology that refuted witch accusations",
+      "implication": "Empirical investigation of physical claims was possible within early modern institutional frameworks"
+    },
+    {
+      "concept": "Social contagion of witch belief",
+      "claim": "Salazar's evidence showed that confessions spread through communities by suggestion and imitation, not because accused persons had actually participated in sabbaths",
+      "implication": "Mass witch accusations can be explained as social contagion phenomena without assuming actual diabolical activity"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["levack-brian-b1943", "monter-william-b1936"],
+    "creative_tension_with": ["bodin-demonomanie-1580", "de-lancre-tableau-inconstance-1612"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Archival folklore studies; Spanish Inquisition historiography; comparative European witchcraft history",
+    "criticisms": [
+      "The Inquisition's skepticism was not uniform; different tribunals and different inquisitors varied considerably",
+      "Salazar's investigation was partly politically motivated within inquisitorial factional disputes",
+      "Focus on Spanish case limits applicability to northern European prosecution patterns"
+    ]
+  },
+  "historiographical_significance": "Henningsen fundamentally revised the popular and scholarly image of the Spanish Inquisition as a witch-hunting machine, demonstrating instead its comparative skepticism. His work on Salazar established a model of empirical investigation within early modern institutional frameworks and contributed to understanding of how inquisitorial procedure could both enable and constrain prosecution. His Basque study remains the standard reference on the 1609-1614 Zugarramurdi persecution.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

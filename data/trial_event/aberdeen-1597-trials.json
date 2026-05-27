@@ -1,0 +1,70 @@
+{
+  "id": "aberdeen-1597-trials",
+  "name": "Aberdeen Witch Trials",
+  "location_id": "aberdeen-scotland",
+  "year_start": 1597,
+  "year_end": 1597,
+  "alleged_accused_count": 40,
+  "executed_count": 24,
+  "regional_context": "Aberdeen and surrounding Aberdeenshire, Kingdom of Scotland; part of the major 1597 Scottish panic that spread across multiple regions simultaneously",
+
+  "summary": "The Aberdeen trials of 1597 formed part of the major Scotland-wide witch panic of that year, producing approximately 24 executions in the Aberdeen area alone. The 1597 panic was the largest single-year Scottish witch prosecution until the Restoration panic of 1661-1662, spreading across multiple Scottish jurisdictions simultaneously. Andro Man, one of the Aberdeen accused, provided an unusual confession claiming many years of sexual relations with the Queen of Elfhame and attendance at fairy gatherings — a confession Ginzburg analyzed as evidence of pre-Christian fairy-lore being reinterpreted through demonological frameworks. The case thus sits at the intersection of formal demonological prosecution and deeper folk magical traditions.",
+
+  "historiographical_significance": "Andro Man's confession is one of the most analyzed individual testimonies in Scottish witch-trial scholarship, primarily because of its elaborate fairy-mythology content. Ginzburg's comparative analysis in *Ecstasies* treats Andro Man alongside the benandanti as evidence of a shared pan-European shamanic substratum underlying apparently diverse confessional traditions. Emma Wilby's *Cunning Folk and Familiar Spirits* (2005) likewise analyzes Man's testimony as representing a genuine folk magical tradition of fairy encounters being processed through the judicial framework. The Aberdeen case thus raises methodological questions central to the entire historiography: should confessional content be read as fabricated under torture, or as distorted reflections of actual magical belief?",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective",
+    "fairy-folk-belief-diabolized",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Aberdeen burgh council; Scottish Privy Council issuing general commission in 1597 panic",
+    "prosecuting_officials": "Aberdeen town magistrates; Thomas Leys reportedly active as a witch-finder in the region",
+    "procedure": "Standard Scottish criminal procedure with commissions from the Privy Council; torture applied; North Berwick precedent (1590-91) shapes prosecutorial framework",
+    "torture_methods": ["pilniewinks (thumbscrews)", "boot (leg crushing device)"],
+    "trial_phases": [
+      {
+        "phase": "Panic outbreak (early 1597)",
+        "context": "Scotland-wide panic following the 1596 publication of King James's *Daemonologie*; local commissions issued across Scotland"
+      },
+      {
+        "phase": "Aberdeen prosecutions (1597)",
+        "context": "Mass trials; Andro Man and others interrogated; elaborate confessions extracted; 24 executions"
+      },
+      {
+        "phase": "Privy Council restraint (late 1597)",
+        "context": "James VI orders restraint after the panic threatens to spread too widely; commissions withdrawn; trials slow dramatically"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The central scholarly debate over the Aberdeen trials concerns the interpretation of Andro Man's fairy-mythology confessions. Ginzburg argues these represent genuine folk tradition distorted by demonological interrogation. Briggs and others are skeptical, suggesting the fairy-lore elements may be artifacts of leading questions or post-hoc elaboration rather than genuine folk belief. Emma Wilby offers a middle position: the specific detail and internal consistency of Man's account suggests it reflects real folk beliefs, even if those beliefs were then interpreted through judicial and demonological frameworks that transformed their meaning.",
+
+  "accused_persons": [
+    "andro-man-aberdeen-1597"
+  ],
+
+  "related_trials": [
+    "north-berwick-1590-trials",
+    "great-scottish-witch-hunt-1661",
+    "auldearn-1662-gowdie"
+  ],
+
+  "source_method": "Aberdeen burgh records; Scottish Privy Council registers; P.G. Maxwell-Stuart, *Satan's Conspiracy* (2001); Emma Wilby, *Cunning Folk and Familiar Spirits* (2005); Ginzburg, *Ecstasies* (1991)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "The Aberdeen 1597 trials sit at the intersection of two analytical traditions: the institutional history of Scottish witch prosecution (Scottish Privy Council commissions, royal demonological influence after North Berwick) and the folk-belief tradition analysis (Andro Man's fairy mythology). This intersection makes Aberdeen 1597 methodologically rich: it requires historians to hold both analytical frames simultaneously. The 1597 Scotland-wide panic is also important for Larner's argument that Scottish witch-hunting was driven partly by royal and institutional pressure from above, not only by community demand from below — the simultaneous outbreak across jurisdictions following the *Daemonologie* publication suggests a top-down triggering mechanism.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

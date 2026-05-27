@@ -1,0 +1,63 @@
+{
+  "id": "mora-sweden",
+  "name": "Mora (Dalarna, Sweden)",
+  "type": "Town",
+  "region": "Scandinavia",
+  "modern_location": "Dalarna, Sweden",
+  "coordinates": {
+    "latitude": 61.004,
+    "longitude": 14.540
+  },
+
+  "administrative_context": "Mora was a parish in the province of Dalarna (Dalecarlia) in the Kingdom of Sweden. Swedish witchcraft prosecution fell under both ecclesiastical and secular jurisdiction, with major cases referred to royal commissions. The 1669-1670 crisis prompted the Swedish Crown to appoint a royal commission headed by secular and ecclesiastical officials to investigate the reported mass transportation of children to the witches' sabbath at Blåkulla.",
+
+  "witchcraft_trials_significance": "The Mora witch panic of 1669-1670 was the most intense episode in a broader series of Swedish witch panics centered on the Blåkulla tradition—the belief that witches transported children by night to a sabbath on a mythical mountain. At Mora and surrounding parishes, 85 adults were executed (23 in Mora itself) and approximately 15 children were also executed. Hundreds more children were publicly flogged and forced to run the gauntlet as punishment. The mass child testimony and the punishments meted out to child witnesses make this one of the most disturbing episodes in European witch trial history.",
+
+  "trial_events": [
+    "mora-sweden-1669-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Royal Commission of 1669",
+      "role": "Crown-appointed investigative and judicial body",
+      "contribution_to_trials": "Investigated testimony of hundreds of children who claimed to have been transported to Blåkulla; accepted child testimony; authorized mass executions"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1669": "Children in Mora and Elfdale begin claiming they have been transported to Blåkulla (a mythical sabbath site) by adult witches; alarm spreads rapidly",
+    "1669_autumn": "Royal commission appointed; hundreds of children testify; adults accused by children arrested",
+    "1670_august": "Mass executions at Mora: 23 adults executed; simultaneous executions in neighbouring parishes; approximately 85 total executed across the region",
+    "1670_later": "Panic spreads to other Swedish provinces; further prosecutions follow through the 1670s"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Mora and surrounding parishes in Dalarna province; panic subsequently spread to other Swedish regions",
+    "social_reach": "Adult accused were primarily women; children of all ages were both accusers and in some cases accused; the entire parish community was implicated",
+    "gender_distribution": "Predominantly female among executed adults; child accusers were mixed gender",
+    "mortality_impact": "85 adults executed across Dalarna in the 1669-1670 crisis; approximately 15 children also executed; hundreds of children flogged"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark's analysis of the Blåkulla tradition situates it within the broader development of sabbath theology in Protestant northern Europe, noting that Swedish demonology adapted continental Catholic concepts into a specifically Lutheran providentialist framework that interpreted child transportation narratives as genuine diabolical intervention.",
+    "hutton_perspective": "Hutton situates the Mora panic within the distinctive Swedish Blåkulla tradition—a culturally specific elaboration of sabbath belief that may incorporate older Scandinavian shamanic or folk belief elements—while emphasizing the role of official acceptance of child testimony in triggering cascade prosecution.",
+    "ginzburg_perspective": "Ginzburg's framework is particularly illuminating for Mora: the Blåkulla narratives, with their emphasis on journey, communal assembly, and reversal of Christian ritual, share structural features with the Italian benandanti tradition and other shamanistic-ecstatic complexes, suggesting deep pre-Christian substrates beneath the Christian prosecutorial narrative."
+  },
+
+  "legacy_and_historiographical_importance": "The Swedish Blåkulla panics, and Mora specifically, have been analyzed by Bengt Ankarloo as part of his major study of Swedish witch prosecution. The Mora case raises important questions about child testimony, the sociology of moral panics, and the mechanisms by which official investigation can amplify rather than contain hysteria.",
+
+  "primary_sources": "Royal commission records; parish records; contemporary accounts; analyzed in Ankarloo, Trolldomsprocesserna i Sverige (1971) and English summary in Ankarloo and Henningsen (eds), Early Modern European Witchcraft (1990)",
+
+  "source_method": "Published scholarship (Ankarloo, Levack, Briggs), Swedish archival sources",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

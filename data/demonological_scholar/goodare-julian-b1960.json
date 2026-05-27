@@ -1,0 +1,76 @@
+{
+  "id": "goodare-julian-b1960",
+  "name": "Julian Goodare",
+  "birth_year": 1960,
+  "death_year": null,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "Scottish History",
+  "primary_institution": "University of Edinburgh",
+  "specialization": "Scottish witchcraft prosecutions; digital database methodology; state anxiety and persecution",
+  "major_works": [
+    {
+      "title": "The Survey of Scottish Witchcraft (online database)",
+      "year": 2003,
+      "publisher": "University of Edinburgh",
+      "significance": "Comprehensive digital database of all known Scottish witchcraft cases; foundational resource for quantitative Scottish witchcraft research",
+      "database_entry": null
+    },
+    {
+      "title": "The Scottish Witch-Hunt in Context (editor)",
+      "year": 2002,
+      "publisher": "Manchester University Press",
+      "significance": "Edited volume contextualizing Scottish cases within European framework; includes multiple methodological approaches",
+      "database_entry": null
+    },
+    {
+      "title": "State and Society in Early Modern Scotland",
+      "year": 1999,
+      "publisher": "Oxford University Press",
+      "significance": "Broader political history framework within which the witchcraft study is embedded",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Scottish witch-hunting was driven by state and elite anxiety about social order, particularly during periods of political and religious instability. The prosecution pattern correlates with moments of heightened state concern about disorder rather than with grassroots community accusations. Goodare builds on Larner but emphasizes state mechanisms over popular pressure.",
+  "methodological_approach": {
+    "primary_materials": "Complete surviving Scottish witchcraft case records systematically surveyed in the Survey of Scottish Witchcraft database; privy council, circuit court, and presbytery records",
+    "analysis_target": "Temporal and geographic patterns of prosecution; social characteristics of accused; institutional mechanisms of prosecution",
+    "evidence_type": "Digital database analysis; quantitative pattern identification across full surviving record set",
+    "explanatory_level": "State institutional and political: elite anxiety and institutional capacity driving prosecution"
+  },
+  "key_contributions": [
+    {
+      "concept": "Survey of Scottish Witchcraft database",
+      "claim": "Complete systematic survey of ~4,000 named accused persons in Scotland enables quantitative analysis of patterns impossible from case studies",
+      "implication": "Digital humanities methodology can transform witchcraft historiography by providing population-level data"
+    },
+    {
+      "concept": "State anxiety model",
+      "claim": "Prosecution peaks correlate with specific moments of political crisis and state anxiety rather than with continuous popular demand",
+      "implication": "The timing of prosecutions is explained by state dynamics, not by fluctuating popular belief"
+    },
+    {
+      "concept": "Institutional capacity",
+      "claim": "Prosecution intensity reflects the availability of institutional machinery (willing magistrates, accessible courts, Kirk pressure) as much as the degree of witch belief",
+      "implication": "Institutional history must be integrated with intellectual and social history"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["larner-christina-1934-1983", "levack-brian-b1943"],
+    "creative_tension_with": ["macfarlane-alan-b1941", "briggs-robin-b1942"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Christina Larner, Scottish institutional history, digital humanities methodology",
+    "criticisms": [
+      "State-anxiety model may overweight top-down factors relative to community-level dynamics",
+      "Database-driven approach can obscure local narrative texture that case studies reveal",
+      "Scotland remains a special case; applicability of conclusions to other regions contested"
+    ]
+  },
+  "historiographical_significance": "Goodare's Survey of Scottish Witchcraft database is the model for digital humanities approaches to witchcraft prosecution records and has made Scottish witchcraft data the most comprehensively documented in Europe. His theoretical emphasis on state anxiety updated and extended Larner's framework with new methodological tools. His work is central to current quantitative approaches to European witch-hunting.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

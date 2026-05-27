@@ -1,0 +1,72 @@
+{
+  "id": "witch-mark-malefic",
+  "name": "Witch's Mark / Devil's Mark (Stigma Diabolicum)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+
+  "scholarly_definition": "The witch's mark or devil's mark was a physical sign on the body of an accused witch, interpreted as either a mark made by Satan at the time of the pact, or a supernumerary nipple from which a familiar spirit fed. The mark was held to be insensible to pain and incapable of bleeding when pricked — a belief that generated the practice of witch-pricking, in which professional prickers probed the accused's body with long needles seeking an insensible spot. Body searches for marks became a standard element of English and Scottish procedure and provided apparent physical evidence of demonic alliance.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Branding of criminals and heretics by human authorities (analogical origin)",
+      "Theological concept of the character sacramentalis (indelible mark of baptism) inverted",
+      "Classical traditions of divine marking (stigmata of slaves and soldiers)"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum's discussion of physical signs on witches' bodies",
+      "Scottish North Berwick trials (1590–91) — systematic marking accusations",
+      "James VI's *Daemonologie* (1597) codifying mark doctrine for English readers",
+      "Matthew Hopkins's witch-pricking campaigns (1645–47)"
+    ],
+    "formalization_sources": [
+      "Medical testimony in trials certifying insensibility of marks",
+      "Witch-prickers as professional body-search specialists",
+      "Legal protocols for body examination in Scottish and English procedure"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark shows how the devil's mark concept fitted logically within the broader intellectual framework of demonological theory: if Satan marked his servants as a master branded slaves, and if baptism left an indelible spiritual character on Christians, then Satan's counter-baptism should leave a physical counter-character on witches. The mark doctrine was not arbitrary superstition but an intellectually coherent inversion of sacramental theology, applying the logic of spiritual marking to the body in ways educated contemporaries found persuasive.",
+
+  "hutton_social_analysis": "Hutton notes that body searches for witch marks were a distinctively traumatic aspect of prosecution that exposed accused persons — often elderly women — to humiliating intimate examination by strangers. The social function of mark-seeking was partly to transform the accused's body into evidence and partly to degrade her social standing through public physical examination. The 'witch's teat' accusation in English contexts served the additional function of providing physical evidence for familiar-spirit relationships in a legal culture where confessional evidence was less systematically extracted through torture.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's work on mark-searching reveals it as a quasi-scientific procedure that generated false positives through confirmation bias — ordinary moles, birthmarks, old scars, or skin anomalies were interpreted as devil's marks when found on accused persons. Professional witch-prickers had a financial incentive to find marks and developed techniques (retractable needles, psychological tricks) to manufacture the appearance of insensibility. The mark thus exemplifies how persecution created its own evidentiary standards.",
+
+  "actor_perspective": {
+    "practitioner_language": "Accused persons rarely claimed devil's marks as a positive identity. The marks were found through bodily search, not self-reported. Some accused did describe receiving marks at pact ceremonies — being scratched or bitten by the devil — but this was typically extracted under interrogation rather than volunteered.",
+    "misalignment": "The devil's mark was almost entirely an analyst imposition — a physical sign sought and interpreted by prosecutors — rather than a concept that practitioners held about themselves. The gap between interrogator's expectation and accused person's body was bridged by professional prickers operating in bad faith or self-deception."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "The mark doctrine integrated with pact theology: the pact was sealed by the devil's marking of the witch, and the mark was the physical evidence of pact's existence. This created a circular evidentiary logic — the mark proves the pact, the pact explains the mark.",
+    "canonical_law": "Scottish law made witch-mark examination a standard pre-trial procedure. The Privy Council authorized witch-prickers to examine accused persons. English procedure was less formally codified but body searches were routinely performed by parish officials and midwives in witch cases."
+  },
+
+  "regional_variations": "The devil's mark was most prominent in Scottish and English prosecutions. Continental European trials focused less on physical marks, emphasizing instead confessional evidence of pact and sabbath. The witch's teat (a distinct concept — supernumerary nipple for feeding familiars) was specifically English. Scottish mark doctrine was more purely about the pact seal. Some German trials mentioned marks but less systematically than British cases.",
+
+  "scholarly_disagreement": "Historians debate whether professional witch-prickers consciously defrauded prosecutors or genuinely believed in their own procedure. The psychological mechanism of confirmation bias — seeing what one expects to find — may explain how ordinary body anomalies were consistently interpreted as devil's marks. The economic incentives of professional prickers (paid per mark found) created obvious structural fraud incentives, and some were later exposed as charlatans. The historiographical question is how much of witch-mark evidence reflected manipulation versus genuine perceptual error.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "familiar-spirit-english",
+    "demonic-pact-early-modern",
+    "devil-mark-branding",
+    "witch-mark-malefic"
+  ],
+
+  "source_method": "Trial records documenting body search procedures; Scottish Privy Council records; pamphlet literature describing witch-pricking; James VI's Daemonologie",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The witch's mark illustrates how early modern prosecution generated its own physical evidence through procedures designed to confirm prior assumptions. The professionalization of witch-pricking in mid-17th century England and Scotland transformed what began as a theological doctrine into a quasi-medical procedure with professional practitioners, legal protocols, and fee structures. This professionalization reveals how witch prosecution could become self-sustaining through the creation of specialist knowledge industries that had structural interests in maintaining prosecution practices.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

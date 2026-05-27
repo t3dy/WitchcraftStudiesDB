@@ -1,0 +1,33 @@
+{
+  "id": "potts-wonderful-discovery-1613",
+  "title": "The Wonderfull Discoverie of Witches in the Countie of Lancaster",
+  "author": "Thomas Potts",
+  "author_id": null,
+  "year_published": 1613,
+  "language": "English",
+  "type": "TRIAL_RECORD",
+  "publisher_original": "W. Stansby for John Barnes, London, 1613",
+  "modern_edition": "Potts, Thomas, The Wonderfull Discoverie of Witches, ed. G.B. Harrison, Peter Davies, 1929; ed. Robert Poole, Manchester University Press, 2002",
+  "significance": "The official semi-verbatim account of the 1612 Pendle witch trials; contains the most detailed contemporary record of an English witch trial, preserving accused persons' words with unusual completeness.",
+  "summary": "Potts, a clerk of the assize court, compiled this account of the Lancaster Assizes of August 1612 at the request of the judges, Sir James Altham and Sir Edward Bromley. Twenty accused persons were tried; ten hanged. The work includes near-verbatim testimony, confessions, and examination records for each accused, making it uniquely valuable as primary source documentation. Key figures include Elizabeth Device (who confessed and named family members), Alizon Device (who confessed to bewitching a pedlar), and Old Demdike and Old Chattox (elderly women who died before trial). The accused are presented as an organized network of malefic practitioners in the Pendle Forest area.",
+  "clark_analysis": "Clark contextualizes the Pendle trials within the legal and theological framework James I's Daemonologie helped establish; the trials occurred nine years after James became English king and show his demonological influence on prosecution culture.",
+  "hutton_analysis": "Hutton treats the Pendle documentation as valuable evidence for the social world of accused practitioners: the Device family's poverty, the community tensions over healing practices and livestock illness, and the multigenerational pattern of accusation all reflect the social dynamics of English witch accusation.",
+  "ginzburg_analysis": "Ginzburg finds the Pendle confessions particularly interesting for the traces of vernacular Lancashire magical practice they preserve: familiars (clay images), healing relationships, and the social function of cunning-folk activities appear beneath the judicial witch-cult framework. The accused's own language about their practices sometimes differs significantly from the prosecution's framing.",
+  "key_arguments": [
+    "The Pendle witches formed an organized group practicing harmful magic against neighbors",
+    "Familiars (animal spirits) were given to witches by the devil to assist maleficium",
+    "The Device family constituted a hereditary witch lineage with Demdike as the founding witch",
+    "Children's testimony is reliable evidence against accused adult witches",
+    "The Daemonologie framework of organized diabolical conspiracy applies to English provincial cases"
+  ],
+  "influence_on_prosecutions": "The Pendle trials became a template for English witch prosecution and the official publication of Potts's account gave them special authority. Later accused persons in Lancashire sometimes referenced the 1612 cases. The 1634 Lancashire trials attempted to invoke the same narrative with less success.",
+  "related_texts": ["james-vi-daemonologie-1597", "perkins-discourse-witchcraft-1608", "bernard-guide-grand-jury-1627"],
+  "related_trials": ["pendle-1612-mass-prosecution"],
+  "scholarly_disagreement": "The extent to which Potts accurately transcribed testimony versus edited it for publication is debated. Robert Poole's edition includes critical analysis of the discrepancies between the printed account and surviving manuscript evidence. Whether the accused actually formed the organized network Potts describes or whether this was a judicial construction is a central historiographical question.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["thomas-religion-decline-magic-1971", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

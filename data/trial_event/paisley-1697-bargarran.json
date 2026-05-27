@@ -1,0 +1,70 @@
+{
+  "id": "paisley-1697-bargarran",
+  "name": "Paisley Bargarran Witch Trial",
+  "location_id": "paisley-renfrewshire",
+  "year_start": 1696,
+  "year_end": 1697,
+  "alleged_accused_count": 35,
+  "executed_count": 7,
+  "regional_context": "Paisley, Renfrewshire, Kingdom of Scotland; Restoration-era Scotland with declining but not extinct witch prosecution; final mass Scottish execution",
+
+  "summary": "The Bargarran case (1696-1697) centered on eleven-year-old Christian Shaw, daughter of the Laird of Bargarran, who developed dramatic fits and accused several neighbors of bewitching her. After extended local and church investigation, a royal commission was established, and seven individuals were hanged and burned on June 10, 1697, at the Gallow Green of Paisley. This mass execution proved to be the last in Scotland. The case sparked significant contemporary debate, with some observers questioning the reliability of child testimony and the validity of the evidence, and within a generation the Scottish judiciary had effectively stopped convicting on witchcraft charges. Christian Shaw later founded a successful thread-spinning business.",
+
+  "historiographical_significance": "The Bargarran case is historically significant as Scotland's last mass execution for witchcraft and as a case that provoked genuine contemporary skepticism about prosecution methodology. Historians including Brian Levack have identified Paisley 1697 as a turning point after which Scottish elite opinion shifted decisively against prosecution, even though witchcraft remained a capital crime until 1736. The case also illustrates the role of child accusers: Shaw's accusations resemble those of the Salem accusers of 1692, and some historians have speculated about possible information transmission between the cases. The subsequent careers of the Bargarran affair participants — including Shaw's eventual professional success — have attracted biographical analysis.",
+
+  "demonological_framework": [
+    "demonic-possession",
+    "maleficium-harmful-magic",
+    "demonic-pact-early-modern"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Scottish Privy Council; royal commission issued after local investigation",
+    "prosecuting_officials": "Royal commission of justiciary; local Renfrewshire landowners; church session",
+    "procedure": "Royal commission procedure; Christian Shaw's fits as primary evidence; physical examination of accused for witch's marks; testimony of multiple witnesses to fits",
+    "torture_methods": ["witch's mark search", "swimming test reportedly discussed but unclear if applied"],
+    "trial_phases": [
+      {
+        "phase": "Shaw's fits and local investigation (1696)",
+        "context": "Christian Shaw develops fits; local church session investigates; accused denied proximity produces symptoms"
+      },
+      {
+        "phase": "Commission established (early 1697)",
+        "context": "Privy Council establishes royal commission; accused imprisoned; formal criminal proceedings begin"
+      },
+      {
+        "phase": "Trial and execution (June 10, 1697)",
+        "context": "Seven convicted and executed at Paisley Gallow Green; three others die in custody or are released"
+      },
+      {
+        "phase": "Aftermath and reform discussion (1697 onward)",
+        "context": "Case generates controversy; further prosecutions effectively halted by elite skepticism"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The nature of Christian Shaw's condition is contested: did she genuinely believe herself bewitched (and act accordingly), was she deliberately fabricating symptoms, or was she experiencing genuine physiological/psychological distress that she (and others) interpreted through the available framework of bewitchment? The question matters for understanding how much agency child accusers had in the prosecution process. Historians also debate whether the Bargarran case was genuinely the direct cause of the shift in Scottish elite opinion or merely coincident with it.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "great-scottish-witch-hunt-1661",
+    "north-berwick-1590-trials",
+    "dornoch-1727-horne"
+  ],
+
+  "source_method": "Scottish Privy Council records; contemporary pamphlet *A True Narrative of the Sufferings of a Young Girl* (1698); Levack, *Witch-Hunting in Scotland* (2008)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "historiographical_notes": "The contrast between the Bargarran case of 1697 and the Salem trials of 1692 has attracted comparative attention: both involved child accusers, both resulted in multiple executions, and both proved to be effectively the last significant prosecution in their respective jurisdictions. The parallel end-points suggest a structural convergence across Atlantic Protestant societies in the final decade of the seventeenth century: judicial skepticism about spectral and child testimony was reaching a threshold across multiple legal cultures simultaneously. Scotland's 1736 formal abolition of witchcraft as a capital crime thus represented legal codification of a skepticism that had already achieved practical effect in the years following Bargarran.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

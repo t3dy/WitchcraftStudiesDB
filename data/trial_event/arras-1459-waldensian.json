@@ -1,0 +1,70 @@
+{
+  "id": "arras-1459-waldensian",
+  "name": "Vauderie d'Arras",
+  "location_id": "arras",
+  "year_start": 1459,
+  "year_end": 1461,
+  "alleged_accused_count": 30,
+  "executed_count": 6,
+  "regional_context": "County of Artois, Burgundian Netherlands; inquisitorial jurisdiction intersecting with ducal and episcopal authority; important commercial city with diverse urban population",
+
+  "summary": "The 'Vauderie d'Arras' (1459-1461) was one of the earliest urban witch prosecutions in northern Europe, distinguished by its targeting of a socially diverse urban population that included a painter, a poet, a prostitute, and minor nobles. The term 'Vauderie' (from 'Vaudois' or Waldensians) reflects the early conflation of heresy and witchcraft accusations characteristic of fifteenth-century prosecution. Six individuals were executed, and the accused were forced to implicate many others in public confessions. The prosecution was subsequently criticized by contemporaries, and some of the survivors were eventually rehabilitated by the Parlement de Paris in 1491, acknowledging the injustice of the original proceedings.",
+
+  "historiographical_significance": "The Arras prosecution occupies a crucial position in the historiography of early witch-hunting as evidence for the formation of the sabbath concept in northern Europe. Scholars including Norman Cohn (*Europe's Inner Demons*, 1975) and Richard Kieckhefer have analyzed the Vauderie as a transitional case where heresy-hunting procedures and accusations were reapplied to an emergent witchcraft concept. The partial rehabilitation in 1491 is equally important: it demonstrates that contemporaries could and sometimes did recognize the injustice of witch prosecutions and act to correct them, complicating teleological narratives that present pre-Enlightenment Europe as uniformly credulous. The targeting of urban professionals and nobles challenges social marginality theories.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "heresy-witchcraft-conflation"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Inquisitor of Tournai (Dominican); supported by Bishop of Arras and ducal officials",
+    "prosecuting_officials": "Dominican inquisitor; Bishop of Arras; ducal court of Burgundy in background",
+    "procedure": "Inquisitorial procedure; torture applied; public confessions extracted; forced implication of associates; eventual partial rehabilitation by Parlement de Paris",
+    "torture_methods": ["strappado", "standard inquisitorial torture procedures"],
+    "trial_phases": [
+      {
+        "phase": "Initiation and first arrests (1459)",
+        "context": "Accusations begin; painter, jongleur, and prostitute among first arrested; confessions of sabbath attendance extracted"
+      },
+      {
+        "phase": "Expansion and executions (1460)",
+        "context": "Six individuals burned; further accusations spread to minor nobility; public confessions implicate many others"
+      },
+      {
+        "phase": "Collapse and criticism (1460-1461)",
+        "context": "Growing criticism of the prosecution; some accused flee or are protected by powerful patrons; hunt winds down"
+      },
+      {
+        "phase": "Rehabilitation (1491)",
+        "context": "Parlement de Paris partially rehabilitates convicted persons; acknowledges procedural injustice"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate the role of the Arras prosecution in the broader development of the sabbath concept. Cohn argued the sabbath narrative was fundamentally an invention of clerical and inquisitorial imagination with no basis in actual practice. Ginzburg's response (in *Ecstasies*) argued for folk-cultural substrata that inquisitors distorted rather than fabricated. For the Arras case specifically, the question is whether the accused actually participated in any form of non-orthodox gathering, or whether their confessions were entirely the product of torture and leading questions.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "valais-1428-trials",
+    "pays-de-vaud-1477-trials"
+  ],
+
+  "source_method": "Contemporary chronicle of Jacques du Clercq; Martin Le Franc, *Le Champion des dames*; Parlement de Paris rehabilitation records (1491); Norman Cohn, *Europe's Inner Demons* (1975); Kieckhefer's analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "historiographical_notes": "The Arras rehabilitation in 1491 — thirty years after the prosecutions — is a rare documented acknowledgment of witchcraft-prosecution injustice by contemporaneous legal institutions, and it complicates the historiographical tendency to treat skepticism about witch trials as a post-Enlightenment development. The targeting of painters, poets, and prostitutes alongside minor nobles at Arras also supports Clark's argument that demonological prosecution logic was not primarily socially selective: once the conspiracy framework was invoked, social diversity among the accused reflected the demonic conspiracy's alleged breadth rather than social-targeting mechanisms. The early date (1459) makes Arras important as a northern European precursor that predates the major German and Scottish panics by more than a century.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

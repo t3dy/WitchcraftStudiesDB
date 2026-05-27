@@ -1,0 +1,75 @@
+{
+  "id": "loudun",
+  "name": "Loudun (Vienne, France)",
+  "type": "Town",
+  "region": "Western France",
+  "modern_location": "Vienne, France",
+  "coordinates": {
+    "latitude": 47.004,
+    "longitude": 0.075
+  },
+
+  "administrative_context": "Loudun was a town in the province of Poitou in the Kingdom of France. As a mixed Protestant-Catholic community, it was subject to both civil and ecclesiastical jurisdiction. The 1634 possession case was investigated and tried under a special royal commission rather than ordinary local courts, reflecting the high political stakes of the affair.",
+
+  "witchcraft_trials_significance": "The Loudun possession case of 1634 is the most famous French diabolical possession episode. The Ursuline nuns of Loudun's convent claimed to be possessed by demons after the death of their spiritual director, and accusations focused on the town's flamboyant secular priest Urbain Grandier. Grandier had powerful enemies, including Cardinal Richelieu, whom Grandier had allegedly satirized. He was convicted of witchcraft and sorcery by a special commission and burned alive in August 1634. The case is notable both as an example of the intersection of political intrigue and witch prosecution and for the extensive documentation of the possession performances before ecclesiastical exorcists.",
+
+  "trial_events": [
+    "loudun-1634-possession"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Urbain Grandier",
+      "role": "Accused — Curé of Saint-Pierre-du-Marché, Loudun",
+      "contribution_to_trials": "Central accused; convicted of bewitching the Ursuline convent; burned alive August 18, 1634; maintained innocence throughout"
+    },
+    {
+      "name": "Jean-Martin de Laubardemont",
+      "role": "Royal commissioner; judge",
+      "contribution_to_trials": "Appointed by Richelieu to investigate and prosecute; dismissed exculpatory evidence; orchestrated the prosecution"
+    },
+    {
+      "name": "Jeanne des Anges (Jeanne de Belciel)",
+      "role": "Prioress of the Ursuline convent; principal possessed",
+      "contribution_to_trials": "Chief accuser; performed diabolical possession before large audiences; later became celebrated mystic and celebrity"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1632": "First signs of disturbed behavior among Ursuline nuns; initial accusations against a local Carmelite priest",
+    "1633": "Accusations redirect to Grandier; exorcisms begin; controversy over whether possession is genuine",
+    "1634_january": "Laubardemont arrives with royal commission; formal investigation begins; Grandier arrested",
+    "1634_april_july": "Grandier's trial before special commission; torture (without yielding confession); conviction",
+    "1634_august_18": "Grandier burned alive in Loudun's Place Sainte-Croix",
+    "1634_1637": "Exorcisms of nuns continue; possessions become a public spectacle drawing visitors from across France"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Loudun town primarily; drew observers from across France and beyond",
+    "social_reach": "Ursuline convent community; the accused priest Grandier; political figures including Richelieu's circle",
+    "gender_distribution": "Possessed were all female (Ursuline nuns); the accused and prosecuted was male",
+    "mortality_impact": "Grandier alone executed; the case is atypical in its singular victim and political character"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Loudun within the demonological tradition of possession theology: the exorcists' procedures assumed that demons within the nuns could be compelled to testify against Grandier, treating possession as a form of supernatural prosecution, coherent within its theological framework.",
+    "hutton_perspective": "Hutton emphasizes the political dimension: Grandier's execution was facilitated by his powerful enemies including Richelieu, and the possession performances served multiple social functions—institutional control of the convent, political neutralization of a troublesome priest, Catholic counter-reformation demonstration of supernatural reality.",
+    "ginzburg_perspective": "From a microhistorical perspective, the Loudun case raises questions about agency and performance: the possessed nuns occupied an unusual social space in which diabolical possession provided a form of power and celebrity, complicating simple narratives of victimhood."
+  },
+
+  "legacy_and_historiographical_importance": "Loudun has generated a rich historiography and cultural legacy. Aldous Huxley's The Devils of Loudun (1952) is the most famous literary treatment; it was adapted into Ken Russell's film The Devils (1971). Historiographically, Robert Rapley's A Case of Witchcraft (1998) and Michel de Certeau's La Possession de Loudun (1970; trans. 2000) provide major scholarly analyses. The case is frequently cited in gender history of possession and as a case study in the intersection of political and religious persecution.",
+
+  "primary_sources": "Trial records; exorcism reports; Grandier's Mémoire (protest of innocence); contemporary pamphlet literature; analyzed by de Certeau and Rapley",
+
+  "source_method": "Published scholarship (de Certeau, Rapley, Levack, Huxley), trial records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "midelfort-erik-b1942",
+  "name": "H.C. Erik Midelfort",
+  "birth_year": 1942,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "German History",
+  "primary_institution": "University of Virginia",
+  "specialization": "Southwestern German witchcraft prosecutions; cascade and panic dynamics; gender analysis of accused",
+  "major_works": [
+    {
+      "title": "Witch Hunting in Southwestern Germany 1562-1684",
+      "year": 1972,
+      "publisher": "Stanford University Press",
+      "significance": "First major regional German witchcraft study; developed the cascade model of prosecution panics; challenged simple misogyny thesis through gender data",
+      "database_entry": "midelfort-witch-hunting-sw-germany-1972"
+    },
+    {
+      "title": "A History of Madness in Sixteenth-Century Germany",
+      "year": 1999,
+      "publisher": "Stanford University Press",
+      "significance": "Extends analysis of social-psychological dynamics to madness and possession in same period",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Large-scale witch panics in southwestern Germany followed a cascade logic: initial prosecutions led to confessions naming accomplices, which expanded the accused pool, until the accused began to include people of high social status, at which point prosecutions collapsed. Gender analysis reveals that while women predominated in small-scale prosecutions, large panics ensnared substantial numbers of men, complicating simple misogyny explanations.",
+  "methodological_approach": {
+    "primary_materials": "Trial records from over 1,200 prosecutions in southwestern German territories (Breisgau, Württemberg, Alsace, episcopal territories) 1562-1684",
+    "analysis_target": "Gender and social status of accused; prosecution scale and duration; timing of panic onset and collapse",
+    "evidence_type": "Quantitative statistical analysis of regional prosecution records; comparative case studies of small vs. large panics",
+    "explanatory_level": "Regional structural: legal institutions and social dynamics interacting to produce varying prosecution intensities"
+  },
+  "key_contributions": [
+    {
+      "concept": "Cascade mechanism",
+      "claim": "Witch panics expanded through forced denunciation: each accused named accomplices under torture, creating chains of accusation that could encompass hundreds",
+      "implication": "The scale of large persecutions was a procedural artifact as much as a reflection of underlying belief"
+    },
+    {
+      "concept": "Gender complexity in large panics",
+      "claim": "While women made up the majority of accused in small-scale prosecutions, large panics showed substantially higher male representation, sometimes approaching parity",
+      "implication": "Simple misogyny explanations for witch-hunting require qualification; gender dynamics varied by prosecution scale"
+    },
+    {
+      "concept": "Social status threshold for panic collapse",
+      "claim": "Prosecutions tended to collapse when accusation chains reached persons of high social standing whose guilt was socially implausible",
+      "implication": "Social structure provided a natural brake on cascading prosecutions"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["levack-brian-b1943", "briggs-robin-b1942", "monter-william-b1936"],
+    "creative_tension_with": ["barstow-anne-llewellyn-b1936", "larner-christina-1934-1983"]
+  },
+  "reception_and_critique": {
+    "major_influences": "German legal history, comparative European regional studies, quantitative social history",
+    "criticisms": [
+      "Southwestern Germany may not represent German prosecutions generally",
+      "Feminist historians argue the gender complexity finding should not obscure the overall predominance of female victims",
+      "Cascade model is descriptive rather than fully explanatory of why some regions panicked and others did not"
+    ]
+  },
+  "historiographical_significance": "Midelfort's study established the regional monograph as the dominant format for witchcraft scholarship and provided the first rigorous statistical analysis of German prosecutions. His cascade model became a standard analytical tool for understanding large panics. His gender findings generated productive controversy that pushed feminist historiography to greater nuance.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

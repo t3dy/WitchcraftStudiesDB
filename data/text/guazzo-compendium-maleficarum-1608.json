@@ -1,0 +1,33 @@
+{
+  "id": "guazzo-compendium-maleficarum-1608",
+  "title": "Compendium Maleficarum",
+  "author": "Francesco Maria Guazzo",
+  "author_id": null,
+  "year_published": 1608,
+  "language": "Latin",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Haeredes Augustini Tradati, Milan, 1608",
+  "modern_edition": "Guazzo, Francesco Maria, Compendium Maleficarum, ed. Montague Summers, Dover, 1988 (reprint of 1929 translation)",
+  "significance": "The most visually striking demonological text, featuring famous woodblock illustrations of sabbath scenes; synthesized Italian and northern European demonological traditions into a comprehensive handbook used by Italian inquisitors.",
+  "summary": "Compiled by an Ambrosian monk, the Compendium Maleficarum draws on a wide range of demonological sources to present a comprehensive account of witchcraft in three books. Book I covers the pact with the devil, the witches' sabbath (with detailed illustrations), and the initiation rites. Book II addresses the harms witches inflict and remedies available. Book III discusses remedies and exorcisms. The text synthesizes northern European demonology (Malleus, Bodin) with Italian and Spanish sources, creating an unusually comprehensive cross-regional compilation. The woodblock illustrations depicting sabbath scenes became among the most widely reproduced demonological images.",
+  "clark_analysis": "Clark uses the Compendium as evidence for the international exchange of demonological learning across Catholic Europe; Guazzo's synthesis of sources from multiple national traditions demonstrates that demonological thought was a pan-European intellectual project with active cross-border circulation.",
+  "hutton_analysis": "Hutton notes the Compendium's importance as a synthetic text that consolidated sabbath imagery into a standard visual vocabulary; the woodblock illustrations helped fix a particular conception of the sabbath in educated imagination that influenced subsequent prosecution patterns.",
+  "ginzburg_analysis": "Ginzburg finds the Compendium useful as evidence for how sabbath imagery became standardized across regions; by 1608 the visual and narrative template was sufficiently fixed that a compiler like Guazzo could synthesize sources without apparent contradiction, a homogeneity that masks the regional diversity of underlying folk beliefs.",
+  "key_arguments": [
+    "The diabolical pact involves formal apostasy and bodily submission to the devil",
+    "Witches gather at sabbaths involving feasting, dancing, sexual intercourse with demons, and worship of the devil",
+    "Witches can cause specific physical harms: disease, impotence, crop failure, death of livestock",
+    "Infant victims are used in preparation of magical ointments",
+    "Proper legal and religious remedies can protect communities from witchcraft"
+  ],
+  "influence_on_prosecutions": "The Compendium was used as a reference by Italian inquisitors and broader Catholic authorities. Its comprehensive organization and visual clarity made it practically useful for officials conducting prosecutions. Its synthesis of multiple national traditions facilitated cross-regional standardization of prosecution approaches.",
+  "related_texts": ["kramer-malleus-maleficarum-1487", "delrio-disquisitio-magica-1599", "bodin-demonomanie-1580", "remy-demonolatry-1595"],
+  "related_trials": [],
+  "scholarly_disagreement": "The Montague Summers translation (1929) is colored by Summers's own credulous approach to demonology and has been criticized as unreliable. Scholars debate the extent of Guazzo's personal judicial experience versus his reliance on literary sources. The relationship between text and illustration (who commissioned the woodblocks, their iconographic sources) has been studied in art historical contexts.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

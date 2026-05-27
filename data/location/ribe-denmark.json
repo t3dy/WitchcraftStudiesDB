@@ -1,0 +1,62 @@
+{
+  "id": "ribe-denmark",
+  "name": "Ribe (Denmark)",
+  "type": "City",
+  "region": "Scandinavia / Denmark",
+  "modern_location": "South Jutland, Denmark",
+  "coordinates": {
+    "latitude": 55.324,
+    "longitude": 8.762
+  },
+
+  "administrative_context": "Ribe was one of Denmark's oldest cities and an episcopal center in Jutland. Danish witch prosecution operated under secular royal law, with the Witchcraft Act of 1617 under Christian IV providing the primary legal framework. Cases could be reviewed by the high court (herredag). Ribe's location in western Jutland placed it in one of the more prosecution-intensive Danish regions.",
+
+  "witchcraft_trials_significance": "Ribe is associated with notable Danish witch trial cases including the famous 1641 execution of Maren Spliid, a butcher's wife from Ribe who was burned after a particularly dramatic trial that attracted widespread attention. Danish witch prosecution was intensive in the late 16th and early 17th centuries, with approximately 1,000 executions overall, and the western Jutland region including Ribe was among the most prosecution-intensive areas. The Maren Spliid case became emblematic of Danish witch hunting and is commemorated locally.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Local magistrates and herredag",
+      "role": "Town magistrates and appellate high court",
+      "contribution_to_trials": "Danish trial procedure involved local prosecution followed by potential high court review; the Maren Spliid case went through the full appellate process"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1580s": "Danish witch prosecution intensifies under Christian IV's reign; Ribe region affected",
+    "1617": "Christian IV's Witchcraft Act provides systematic legal framework",
+    "1620s_1630s": "Sustained prosecution in western Jutland",
+    "1641": "Maren Spliid executed at Ribe after lengthy prosecution process",
+    "1650s": "Prosecution begins to decline in Denmark"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Ribe and surrounding western Jutland",
+    "social_reach": "Mixed social range; Maren Spliid was a butcher's wife of middling status, not a marginal figure, demonstrating how prosecution could reach into respectable community members",
+    "gender_distribution": "Predominantly female in the Ribe cases, consistent with broader Danish pattern",
+    "mortality_impact": "Multiple executions in Ribe over the 1580s-1641 period; Maren Spliid the most documented individual case"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Danish Protestant prosecution within the Lutheran demonological framework: Danish theologians and magistrates applied the diabolical pact and sabbath concepts within a providentialist framework that interpreted witchcraft as diabolical assault on the Christian community.",
+    "hutton_perspective": "Hutton notes that Danish prosecution, like Scottish, was intensive relative to English prosecution despite similar Protestant institutional contexts, suggesting that national legal and cultural factors beyond simple Protestantism shaped prosecution intensity.",
+    "ginzburg_perspective": "Danish confessions, including those from the Ribe region, show both the standard sabbath template and distinctive Scandinavian elements, raising questions about the interaction of learned prosecution and local folk belief traditions."
+  },
+
+  "legacy_and_historiographical_importance": "Maren Spliid's execution is commemorated in Ribe and is part of Danish public historical memory of witch hunting. Danish witch prosecution has been studied by Jens Christian V. Johansen and in the broader Scandinavian scholarship of Ankarloo and colleagues.",
+
+  "primary_sources": "Danish court records; herredag records; analyzed in Johansen and in Ankarloo and Henningsen (eds), Early Modern European Witchcraft",
+
+  "source_method": "Published scholarship (Johansen, Levack, Ankarloo), Danish court records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

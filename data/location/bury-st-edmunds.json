@@ -1,0 +1,79 @@
+{
+  "id": "bury-st-edmunds",
+  "name": "Bury St Edmunds (Suffolk, England)",
+  "type": "Town",
+  "region": "Eastern England",
+  "modern_location": "Suffolk, England",
+  "coordinates": {
+    "latitude": 52.246,
+    "longitude": 0.716
+  },
+
+  "administrative_context": "Bury St Edmunds was the principal town of West Suffolk and the seat of the Suffolk Assizes. Like Chelmsford/Essex, it served as the assize venue where witch cases from the surrounding county were tried. Suffolk was one of the most prosecution-intensive English counties, particularly during the Hopkins period.",
+
+  "witchcraft_trials_significance": "Bury St Edmunds hosted two significant trial clusters: trials connected to Matthew Hopkins's East Anglian witch hunt (1645), and the 1662 trial of Rose Cullender and Amy Denny before Sir Matthew Hale, which became a highly influential precedent. The 1662 trial is notable because it was presided over by the highly respected jurist Matthew Hale, whose acceptance of witch trial evidence and whose directions to the jury were widely cited in subsequent prosecutions including Salem 1692. The trials demonstrate the persistence of witch prosecution in England into the Restoration period.",
+
+  "trial_events": [
+    "bury-st-edmunds-1645-trials",
+    "bury-st-edmunds-1662-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Sir Matthew Hale",
+      "role": "Chief Baron of the Exchequer; trial judge (1662)",
+      "contribution_to_trials": "Presided at the 1662 trial; ruled spectral evidence admissible; directed the jury toward conviction; his authority gave the verdicts exceptional precedential weight"
+    },
+    {
+      "name": "Matthew Hopkins",
+      "role": "Witchfinder General (connected to 1645 cases)",
+      "contribution_to_trials": "Hopkins's activities in Suffolk in 1645 sent multiple accused to the Bury Assizes; his methods of swimming and watching produced confessions that fuelled the prosecutions"
+    },
+    {
+      "name": "Rose Cullender",
+      "role": "Accused — 1662 trial",
+      "contribution_to_trials": "One of two women convicted and executed at the 1662 trial; her case is the subject of a contemporary trial pamphlet"
+    },
+    {
+      "name": "Amy Denny",
+      "role": "Accused — 1662 trial",
+      "contribution_to_trials": "Convicted alongside Rose Cullender; both hanged at Bury, March 1662"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1645": "Hopkins-era Suffolk prosecutions reach Bury Assizes; multiple accused tried and executed",
+    "1662_march": "Rose Cullender and Amy Denny tried before Matthew Hale; both convicted and executed on March 17, 1662",
+    "1682": "Later trial connections; Suffolk continues to see prosecution through the 1660s-1680s"
+  },
+
+  "affected_population": {
+    "geographic_extent": "West Suffolk broadly; accused came from Lowestoft and surrounding villages for the 1662 trial",
+    "social_reach": "Elderly widows and marginalized women (Cullender, Denny); the 1645 cases showed broader social range under Hopkins's methods",
+    "gender_distribution": "Overwhelmingly female among the accused at both trial clusters",
+    "mortality_impact": "Several executed in 1645 Hopkins cases; 2 executed in the famous 1662 trial"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Hale's 1662 ruling within the intellectual history of English witchcraft prosecution: Hale's use of biblical authority (the text 'thou shalt not suffer a witch to live') and natural philosophical arguments in support of witchcraft's reality demonstrates the continuing intellectual plausibility of prosecution in educated English culture in the 1660s.",
+    "hutton_perspective": "Hutton notes that the Cullender-Denny case conformed to the standard English social template: elderly widowed women with neighborhood reputations for cursing, accused after misfortunes befell neighbors following quarrels. Hale's verdict demonstrates that the social mechanics of English prosecution remained operative in the Restoration period.",
+    "ginzburg_perspective": "The testimony in the 1662 trial, preserved in the pamphlet A Tryal of Witches (1682), provides microhistorical evidence of the accused women's social position and the mechanics of neighborhood accusation in mid-17th century English rural society."
+  },
+
+  "legacy_and_historiographical_importance": "The 1662 Bury trial is significant because a pamphlet account A Tryal of Witches at the Assizes held at Bury St Edmunds (1682) was widely circulated and cited at Salem in 1692—Cotton Mather and others referenced it. Hale's authority made the case an important precedent for English-speaking prosecution through the late 17th century.",
+
+  "primary_sources": "A Tryal of Witches at the Assizes held at Bury St Edmunds (1682 pamphlet); Suffolk Assize records; Hopkins's The Discovery of Witches (1647)",
+
+  "source_method": "Published scholarship (Sharpe, Levack, Gaskill), trial pamphlets, assize records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

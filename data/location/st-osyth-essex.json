@@ -1,0 +1,63 @@
+{
+  "id": "st-osyth-essex",
+  "name": "St Osyth (Essex, England)",
+  "type": "Town",
+  "region": "Eastern England",
+  "modern_location": "Essex, England",
+  "coordinates": {
+    "latitude": 51.790,
+    "longitude": 1.074
+  },
+
+  "administrative_context": "St Osyth was a village in the Tendring Hundred of Essex, subject to the Essex Assizes at Chelmsford. The 1582 St Osyth trials were unusually large for a single village-based English prosecution and were specifically associated with the case of Ursula Kemp.",
+
+  "witchcraft_trials_significance": "The St Osyth trials of 1582 produced one of the most extensively documented early English witch cases. Ursula Kemp, a local wise woman and healer, was accused of bewitching children and confessed to owning four familiars (a cat, two toads, and a lamb). Her testimony, recorded by examining magistrate Brian Darcy, is a key primary source for English familiar spirit belief. The St Osyth case involved approximately 17 accused persons—unusually large for an English case outside the Hopkins period—and resulted in multiple executions.",
+
+  "trial_events": [
+    "st-osyth-1582-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Brian Darcy",
+      "role": "Justice of the Peace for Essex",
+      "contribution_to_trials": "Conducted initial examinations; his detailed recording of testimony preserved the familiar spirit narratives; his leading questioning shaped the confessions"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1582_february": "Initial accusations; Ursula Kemp first examined by Brian Darcy",
+    "1582_march": "Additional accused examined; familiar spirit testimonies elaborated",
+    "1582_assizes": "Trial at Chelmsford Assizes; Ursula Kemp and others convicted and executed"
+  },
+
+  "affected_population": {
+    "geographic_extent": "St Osyth and surrounding Tendring Hundred villages",
+    "social_reach": "Predominantly poor women with neighborhood reputations as cunning folk or cursers; several defendants were known healers",
+    "gender_distribution": "Overwhelmingly female among the accused",
+    "mortality_impact": "Ursula Kemp and at least one other woman executed; total execution number from St Osyth 1582 uncertain from surviving records"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the St Osyth familiar spirit testimonies within the English tradition of domesticated demon lore—the familiar as a household creature rather than a grand diabolical figure—illustrating the English adaptation of continental demonological concepts into a more intimate register.",
+    "hutton_perspective": "Hutton and Keith Thomas both emphasize Ursula Kemp as a paradigm case of the cunning woman prosecuted as witch: she had practiced healing and charm work, occupied the ambiguous position of local magical practitioner, and her known reputation made her vulnerable when her services were refused or her relationships soured.",
+    "ginzburg_perspective": "Ursula Kemp's detailed testimony about her familiars—their names, appearances, specific tasks—is a microhistorical document of rare value. Ginzburg's attention to individual voice and authentic belief is directly applicable: the question of whether Kemp genuinely believed in her familiars or confessed under pressure shapes how her testimony should be read."
+  },
+
+  "legacy_and_historiographical_importance": "Ursula Kemp's case is one of the most analyzed individual English witch trial cases. Her skeleton, allegedly excavated from St Osyth in 1921 with iron spikes through the joints (interpreted as preventing her ghost from walking), became a sensational display piece and is now the subject of ongoing heritage controversy. The 1582 pamphlet A True and just Recorde is a primary source analyzed by Thomas, Macfarlane, Sharpe, and many others.",
+
+  "primary_sources": "A True and just Recorde of the Information, Examination and Confession of all the Witches taken at St Oses in the countie of Essex (1582); examined in Thomas, Macfarlane, and Sharpe",
+
+  "source_method": "Published scholarship (Thomas, Macfarlane, Sharpe, Levack), 1582 pamphlet primary source",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

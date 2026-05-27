@@ -1,0 +1,74 @@
+{
+  "id": "weather-magic-maleficium",
+  "name": "Weather Magic (Tempestarii / Storm-Raising)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Central Europe",
+
+  "scholarly_definition": "Weather magic designated the alleged capacity of witches to cause or direct destructive meteorological phenomena — hailstorms, tempests, droughts, floods, frosts — with the intent of destroying crops and harming communities. Among the most commonly charged maleficia, weather-working accusations were particularly prevalent in agrarian communities dependent on grain harvests, where a single hailstorm could destroy an entire season's crop. The Bamberg witch persecution was reputedly triggered by crop-destroying hailstorms in 1626, illustrating how meteorological disaster could catalyze mass prosecution. Weather magic accusations also appear in some of the earliest witchcraft legislation (German and Swiss territorial ordinances) and demonological literature.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Carolingian capitularies condemning tempestarii (storm-raisers)",
+      "Classical belief in magicians able to command weather (Seneca, Pliny)",
+      "Ecclesiastical prohibitions on weather magic in 9th–10th century penitentials"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum Part I, Questions 15–16 — systematic weather-magic doctrine",
+      "Bodin's detailed account of how witches raised storms",
+      "Bamberg documentation (1626) connecting harvest failure to witch prosecution"
+    ],
+    "formalization_sources": [
+      "Agricultural community complaint records citing witch-caused weather events",
+      "Theological explanations of how demons manipulated meteorological processes",
+      "Swiss and German territorial legislation targeting storm-raisers"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark explains weather-magic prosecution through the prism of early modern natural philosophy, in which meteorological processes were understood through a theory of elemental causation and celestial influence. Demons, as preternatural agents capable of manipulating natural processes within established limits, could plausibly redirect or intensify weather events without violating scholastic natural philosophy. Weather magic accusations thus made sense within a natural-philosophical framework where unusual weather required causal explanation and demonic agency offered a coherent one.",
+
+  "hutton_social_analysis": "Hutton emphasizes the economic devastation caused by early modern weather disasters and the social pressures they generated. The Little Ice Age brought increased weather volatility to Central Europe in the late 16th and early 17th centuries, with crop failures generating poverty, hunger, and social tension. Behringer's research has shown a statistical correlation between extreme weather events and surges in witchcraft prosecution. For Hutton, weather accusations were community responses to disaster that required a responsible agent — the witch — rather than pure misfortune.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg notes that weather-magic confessions tend to be highly specific and locally grounded — accused persons named specific hailstorms, specific fields, specific dates — suggesting they were not purely fabricated but drew on accused persons' knowledge of specific local disasters. Yet the systematic form in which weather-working appeared in confessions (witches gathering to raise storms, using specific techniques, targeting specific communities) was shaped by interrogation. The specificity of local detail combined with the formulaic structure of collective action reveals the mixed character of these confessions.",
+
+  "actor_perspective": {
+    "practitioner_language": "Weather workers appear in some historical records as self-identified specialists offering their services to control weather — in some Alpine traditions, charging for protection against storms as well as being accused of causing them. This ambiguity (the same person who claims to stop storms is suspected of causing them) parallels the broader cunning folk pattern of beneficial practice tipping into malefic accusation.",
+    "misalignment": "Folk traditions of weather-working (including protective charms, processions, ringing church bells) implied human capacity to influence weather within a framework of practical skill and religious ritual. The demonological reframing attributed weather effects to demonic agency via the pact, transforming community weather ritual into evidence of satanic allegiance."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Demonologists taught that demons could manipulate the natural causes of weather (moisture, wind, elemental qualities) within the limits God permitted. Satan could not cause weather beyond natural possibility, but could direct and intensify natural processes to destructive ends. Divine permission was always required — the witch's storm was God's scourge as much as Satan's attack.",
+    "canonical_law": "Weather-working appeared in early witchcraft legislation as a specific capital offence, reflecting agricultural communities' acute vulnerability to meteorological harm. The crime required both demonic agency (pact) and intent to harm (maleficium), combining the heresy and harm dimensions of witchcraft prosecution."
+  },
+
+  "regional_variations": "Weather-magic accusations were most intense in Central Europe (German territories, Switzerland, Alsace) where grain agriculture was central and hailstorms could be catastrophic. The Bamberg and Würzburg mass persecutions both occurred in contexts of harvest failure. Alpine regions show distinctive traditions of weather specialists (weather-makers, storm-callers) with ambiguous community standing. England showed fewer weather-magic accusations, consistent with a different agricultural economy and legal framework. Scandinavian cases include sea-storm raising, reflecting maritime rather than agricultural economic vulnerability.",
+
+  "scholarly_disagreement": "Behringer's climate hypothesis — correlating Little Ice Age weather stress with witch prosecution intensity — has generated significant debate. Critics note that the correlation is imprecise and that many major prosecutions occurred without obvious meteorological triggers. Supporters argue that general climatic stress created conditions of social anxiety within which specific weather disasters could trigger prosecution. The historiographical tension is between structural explanations (climate stress) and event-level analysis (specific hailstorm, specific community, specific accusation).",
+
+  "trial_examples": [
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "related_concepts": [
+    "maleficium-concept",
+    "demonic-agency-theological",
+    "divine-permission-doctrine",
+    "social-strain-model",
+    "denunciation-chain"
+  ],
+
+  "source_method": "Trial records documenting weather accusations; theological treatises; Behringer's climate-correlation research; Bamberg documentation",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Weather magic illustrates the intersection of intellectual history, social history, and environmental history in witchcraft studies. Clark's intellectual approach explains why weather magic made philosophical sense; Hutton's social approach explains how economic vulnerability made weather accusations socially compelling; Behringer adds an environmental dimension by correlating climate stress with prosecution intensity. The Bamberg case — where mass prosecution was reputedly triggered by catastrophic hailstorms — provides a case study where all three analytical frameworks can be applied simultaneously.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

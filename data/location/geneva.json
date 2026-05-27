@@ -1,0 +1,66 @@
+{
+  "id": "geneva",
+  "name": "Geneva (Republic of Geneva)",
+  "type": "City",
+  "region": "Western Switzerland / Francophone Europe",
+  "modern_location": "Geneva, Switzerland",
+  "coordinates": {
+    "latitude": 46.204,
+    "longitude": 6.143
+  },
+
+  "administrative_context": "The Republic of Geneva was a city-state on the southwestern tip of Lake Geneva, governed by its councils (Petit Conseil and Conseil des Deux-Cents) under the dominant influence of the Reformed Protestant church established by John Calvin. Calvin's Geneva was a closely monitored godly community where the consistory (ecclesiastical court) and secular government worked in close alignment. Witch prosecution was a secular matter handled by the Petit Conseil.",
+
+  "witchcraft_trials_significance": "Geneva under Calvin experienced a significant witch panic in 1545, focused on the 'greasers' (engraisseurs)—people accused of spreading plague by smearing it on doorposts. This connected epidemic fear to diabolism. The 1545 cases resulted in approximately 40 executions. Geneva continued to prosecute witches through the 16th century, though William Monter's research found that Geneva was comparatively moderate in its prosecution rates compared to some Swiss neighbors. The Calvinist context is particularly interesting for understanding Protestant witch prosecution.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Petit Conseil of Geneva",
+      "role": "Governing secular court authority",
+      "contribution_to_trials": "Exercised judicial authority over witch prosecution; maintained records that are exceptionally well preserved"
+    },
+    {
+      "name": "John Calvin",
+      "role": "Minister and theological authority",
+      "contribution_to_trials": "Supported prosecution of witches and magicians as agents of the devil; his theological framework provided the providentialist basis for prosecution; did not oppose the 1545 trials"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1545": "Plague epidemic; 'greasers' prosecutions begin; approximately 40 executed",
+    "1550s": "Continued prosecution under Calvin's Geneva",
+    "1560s_1580s": "Intermittent cases; William Monter's research documents cases across the century",
+    "1600s": "Prosecution continues; Geneva records are among the best preserved for any Swiss territory"
+  },
+
+  "affected_population": {
+    "geographic_extent": "City of Geneva and immediately surrounding territories",
+    "social_reach": "Initially plague-related cases (greasers); later more typical witchcraft accusations",
+    "gender_distribution": "Mixed in early plague-related cases; later cases more female-dominated",
+    "mortality_impact": "Approximately 40 executed in 1545 epidemic context; subsequent executions documented by Monter through the late 16th century"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark analyzes Calvin's theological framework as providing a strongly developed Reformation demonology in which the devil was an active agent in the world, providentialist theology intensified awareness of diabolical threat, and the duty of the godly magistrate included prosecution of devil-worshippers.",
+    "hutton_perspective": "Hutton notes the paradox that Calvin's Geneva, often presented as a model of ordered godly discipline, nonetheless prosecuted witches, illustrating that Protestant reformation did not inherently reduce witch prosecution and might intensify the theological anxiety that drove it.",
+    "ginzburg_perspective": "The Geneva 'greasers' cases of 1545 are an unusual variant of the witch trial—focused on plague-spreading rather than the standard sabbath template—that raises questions about the multiple forms that diabolism accusations could take in response to different social anxieties."
+  },
+
+  "legacy_and_historiographical_importance": "Geneva is the primary research site for William Monter's Witchcraft in France and Switzerland (1976), which remains the standard scholarly treatment of western Swiss and Savoyard witch prosecution. Monter's use of Geneva's exceptionally preserved archives established a model for quantitative analysis of witch trial records.",
+
+  "primary_sources": "Geneva Petit Conseil records (Archives d'Etat de Genève); analyzed in Monter, Witchcraft in France and Switzerland (1976)",
+
+  "source_method": "Published scholarship (Monter, Levack, Clark), Geneva State Archives",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

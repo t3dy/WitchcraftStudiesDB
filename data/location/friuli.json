@@ -1,0 +1,78 @@
+{
+  "id": "friuli",
+  "name": "Friuli (Republic of Venice)",
+  "type": "Region",
+  "region": "Northeastern Italy / Venetian Terraferma",
+  "modern_location": "Friuli-Venezia Giulia, Italy",
+  "coordinates": {
+    "latitude": 46.063,
+    "longitude": 13.235
+  },
+
+  "administrative_context": "Friuli was a frontier region of the Venetian terraferma (mainland territories), formally subject to the Republic of Venice but with significant local autonomy under the Patriarch of Aquileia's ecclesiastical jurisdiction. Witchcraft and heresy cases were handled by the Venetian Inquisition, which was notably more moderate than many European inquisitions and exercised careful review over capital punishment. The Holy Office in Friuli conducted the benandanti inquisitions as heresy/superstition cases rather than capital witch prosecutions.",
+
+  "witchcraft_trials_significance": "Friuli is Carlo Ginzburg's primary research site, the subject of his foundational microhistorical study The Night Battles (I Benandanti, 1966). The benandanti ('good walkers') were a distinctive group of men and women who claimed that their spirits traveled out of their bodies at night to do battle with evil witches (malandanti) to protect the harvest and community. Initially prosecuted for heresy and superstition from 1575, the benandanti were gradually reinterpreted under inquisitorial pressure as witches themselves, and their ecstatic fertility cult testimonies became increasingly conformed to the standard sabbath template. This transformation over roughly a century (1575-1660s) provides Ginzburg with his key evidence for the relationship between indigenous popular belief and learned prosecutorial categories.",
+
+  "trial_events": [
+    "friuli-benandanti-1575-inquisition"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Various Venetian Inquisition officials",
+      "role": "Inquisitors of the Holy Office in Friuli",
+      "contribution_to_trials": "Conducted the benandanti interrogations over nearly a century; the evolution of their questioning strategies can be traced through the surviving records"
+    },
+    {
+      "name": "Paolo Gasparotto",
+      "role": "Benandante (accused); first major case",
+      "contribution_to_trials": "Subject of Ginzburg's analysis in the 1575 case; described ecstatic night battles in vivid detail before the Inquisition"
+    },
+    {
+      "name": "Menichino della Nota",
+      "role": "Benandante (accused); 1618 case",
+      "contribution_to_trials": "Key figure in Ginzburg's Night Battles; describes elaborate ecstatic journey traditions; his testimony shows both authentic popular belief and incipient sabbath contamination"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1575": "First benandanti inquisition; Paolo Gasparotto describes ecstatic night battles to Venetian Holy Office",
+    "1580s_1610s": "Series of benandanti cases; inquisitors gradually recognize the phenomenon and begin systematically questioning accused",
+    "1618": "Menichino della Nota case; most elaborate benandanti testimony surviving",
+    "1640s_1650s": "Later cases show increased contamination by sabbath concepts as inquisitors push benandanti testimonies toward witch trial templates",
+    "1660s": "Last major benandanti inquisitions; the tradition apparently fading under sustained interrogation pressure"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Friulian villages of the Venetian terraferma; cases clustered in agricultural communities of the Udine area",
+    "social_reach": "Rural peasantry; predominantly agricultural workers who believed themselves called to the night battles on the Ember Days",
+    "gender_distribution": "Predominantly male in early cases (night battles); female benandanti appear later and their testimonies differ in emphasis",
+    "mortality_impact": "Very low: the Venetian Inquisition rarely imposed capital punishment; most benandanti received penances, recantations, and short imprisonment"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark acknowledges Ginzburg's benandanti evidence but questions whether it demonstrates the survival of genuine shamanistic traditions or rather reflects a learned inquisitorial imposition. He situates the Friuli cases within the broader pattern of confessional narrative shaped by interrogation procedure.",
+    "hutton_perspective": "Hutton engages extensively with Ginzburg's benandanti thesis in The Witch (2017), arguing that while the Friuli evidence is exceptional in its detail, the benandanti's night battle tradition reflects early modern folk belief rather than demonstrably ancient pre-Christian shamanism. He cautions against reading too deep a history into the surviving evidence.",
+    "ginzburg_perspective": "Ginzburg's The Night Battles (1966) and Ecstasies (1989) place Friuli at the center of his argument that European witch beliefs contain a substrate of shamanistic ecstatic tradition—a 'morphological' layer predating the sabbath concept—preserved most fully in the benandanti testimonies. Friuli is his primary evidentiary site for this claim."
+  },
+
+  "legacy_and_historiographical_importance": "Friuli is perhaps the single most important site in witch trial historiography for methodological reasons: it generated Ginzburg's microhistorical method, his ecstatic substrate thesis, and The Night Battles, which transformed the field. The benandanti testimonies remain the most debated primary source in witch trial studies, at the center of the controversy between Ginzburg's shamanism thesis and Hutton's and Clark's more skeptical readings.",
+
+  "primary_sources": "Venice Inquisition trial records, now in the Archivio di Stato, Venice (Friuli series); analyzed in Ginzburg, I Benandanti (1966; trans. Night Battles, 1983)",
+
+  "source_method": "Published scholarship (Ginzburg, Hutton, Levack), Venetian Inquisition archival records",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "scholarly_disagreement": "The core debate is whether the benandanti represent survival of a pre-Christian shamanic tradition (Ginzburg) or a contemporaneous popular belief formation with no deep historical continuity (Hutton, Clark). The extent to which sabbath contamination in later testimonies reflects genuine belief change versus interrogation pressure is also debated.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

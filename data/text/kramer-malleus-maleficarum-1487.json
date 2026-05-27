@@ -1,0 +1,33 @@
+{
+  "id": "kramer-malleus-maleficarum-1487",
+  "title": "Malleus Maleficarum",
+  "author": "Heinrich Kramer (Institoris)",
+  "author_id": null,
+  "year_published": 1487,
+  "language": "Latin",
+  "type": "INQUISITION_MANUAL",
+  "publisher_original": "Peter Drach, Speyer",
+  "modern_edition": "Mackay, Christopher S., ed. and trans., Cambridge University Press, 2006 (2 vols.)",
+  "significance": "The most widely printed demonological text after the Bible until the eighteenth century; established the standard template for understanding witchcraft as primarily female, sexually transgressive, and diabolically organized.",
+  "summary": "The Malleus Maleficarum is divided into three parts: Part I argues for the reality of witchcraft and the heresy of disbelief, drawing on Thomistic theology and canon law. Part II describes the methods witches employ — sexual congress with devils, harming men's sexual capacity, killing children, weather magic — and the remedies available. Part III provides detailed prosecution procedures including interrogation, torture, and sentencing guidelines. The work is notable for its virulent misogyny: Kramer argues women are more susceptible to witchcraft due to carnal lust, moral weakness, and credulity. The papal bull Summis Desiderantes (1484) by Innocent VIII is printed as a preface, lending apparent papal authority, though historians debate how formally authorized the work was.",
+  "clark_analysis": "Clark treats the Malleus as a serious intellectual document representing the coalescence of Scholastic demonology into systematic form. He contextualizes its misogyny within broader Scholastic gender theology rather than dismissing it as pathological. The Malleus exemplifies how learned demonological tradition synthesized classical, canonical, and theological sources into a coherent witch-theory.",
+  "hutton_analysis": "Hutton emphasizes the Malleus's role in defining 'the witch' as a figure fundamentally opposed to cunning folk and beneficial practitioners. He notes that the text's influence, while real, was not uniform: English witchcraft patterns developed largely independently of Malleus-derived Continental demonology.",
+  "ginzburg_analysis": "Ginzburg reads the Malleus alongside regional confessional traditions to identify where the inquisitorial template distorted pre-existing folk beliefs. The sexual and diabolical framework of the Malleus overlaid and suppressed more complex indigenous belief systems, particularly night-journey traditions.",
+  "key_arguments": [
+    "Witchcraft is real and those who deny it are heretics",
+    "Women are more prone to witchcraft than men due to inherent moral and physical weakness",
+    "The Devil's pact is the foundational legal element of the witchcraft crime",
+    "Normal rules of evidence should be suspended in witchcraft cases given the gravity of the offense",
+    "Torture is justified and effective for obtaining confessions"
+  ],
+  "influence_on_prosecutions": "The Malleus was cited in court proceedings across Germany, France, and elsewhere; its prosecution procedures were adopted by secular courts extending inquisitorial methods. Its effect was uneven — it shaped prosecution culture in Germany and Scotland more than England — but it established the baseline template for what constituted a witch and how to prosecute one.",
+  "related_texts": ["nider-formicarius-1435", "bodin-demonomanie-1580", "guazzo-compendium-maleficarum-1608", "delrio-disquisitio-magica-1599"],
+  "related_trials": [],
+  "scholarly_disagreement": "Historians debate how directly the Malleus influenced specific prosecutions versus establishing a general intellectual climate. Some argue its effect was mediated through later secondary texts. Mackay's critical edition challenged earlier translations and interpretations. Scholars also debate whether Kramer's co-author Jacob Sprenger was genuinely involved or whether his name was added for authority.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

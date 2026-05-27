@@ -1,0 +1,76 @@
+{
+  "id": "levack-brian-b1943",
+  "name": "Brian Levack",
+  "birth_year": 1943,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "Legal and Comparative History",
+  "primary_institution": "University of Texas at Austin",
+  "specialization": "Comparative prosecution statistics, legal history of witch trials, cumulative concept of witchcraft",
+  "major_works": [
+    {
+      "title": "The Witch-Hunt in Early Modern Europe",
+      "year": 1987,
+      "publisher": "Longman",
+      "significance": "Standard textbook synthesis of European witch-hunting with comprehensive prosecution statistics and multi-causal analysis",
+      "database_entry": "levack-witch-hunt-early-modern-1987"
+    },
+    {
+      "title": "Witch-Hunting in Scotland: Law, Politics and Religion",
+      "year": 2008,
+      "publisher": "Routledge",
+      "significance": "Detailed study of Scottish prosecutions integrating legal and political factors",
+      "database_entry": null
+    },
+    {
+      "title": "The Devil Within: Possession and Exorcism in the Christian West",
+      "year": 2013,
+      "publisher": "Yale University Press",
+      "significance": "Comparative study of demonic possession extending Levack's legal-religious framework",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "LEGAL HISTORY",
+  "core_argument": "The European witch-hunt was driven by the convergence of a cumulative demonological concept of witchcraft (sabbath, Devil's pact, maleficium combined) and specific legal changes — particularly the adoption of Roman-canon inquisitorial procedure with judicial torture — that made prosecution and chain-reaction panics possible. No single cause suffices; a multi-causal model is required.",
+  "methodological_approach": {
+    "primary_materials": "Trial records across multiple European jurisdictions, legal codes, ecclesiastical procedure manuals",
+    "analysis_target": "Prosecution rates, legal procedures, regional variation in outcomes",
+    "evidence_type": "Quantitative statistical analysis of prosecutions; comparative legal-institutional analysis",
+    "explanatory_level": "Macro-structural: legal and institutional factors driving aggregate prosecution patterns"
+  },
+  "key_contributions": [
+    {
+      "concept": "Cumulative concept of witchcraft",
+      "claim": "Witch trials required the coalescence of maleficium, Devil's pact, and sabbath attendance into a single crime; without this cumulative concept, prosecution chains could not develop",
+      "implication": "The intellectual history of demonological synthesis directly enabled mass prosecution"
+    },
+    {
+      "concept": "Legal change as enabling factor",
+      "claim": "Adoption of torture-permitted Roman-canon procedure in secular courts allowed confessions to name accomplices, creating chain reactions",
+      "implication": "Institutional legal reform (not just belief) was a proximate cause of large-scale hunts"
+    },
+    {
+      "concept": "Prosecution statistics",
+      "claim": "Approximately 110,000 tried and 60,000 executed across Europe; highest rates in German territories, Scotland, and Switzerland",
+      "implication": "Empirical baseline that contextualizes regional studies and challenges exaggerated popular estimates"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["midelfort-erik-b1942", "monter-william-b1936", "goodare-julian-b1960"],
+    "creative_tension_with": ["murray-margaret-1863-1963", "barstow-anne-llewellyn-b1936"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Legal history, comparative European history, institutional analysis",
+    "criticisms": [
+      "Multi-causal framework sometimes criticized as too eclectic or insufficiently explanatory",
+      "Statistics debated by regional specialists who find local patterns do not match aggregate model",
+      "Less attention to individual agency and micro-level dynamics than microhistorians prefer"
+    ]
+  },
+  "historiographical_significance": "Levack's synthesis is the standard reference work for the European witch-hunt in academic and pedagogical contexts. His insistence on multi-causality and rigorous prosecution statistics set the baseline for all subsequent comparative work. The multiple revised editions of his textbook reflect sustained engagement with new regional scholarship.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "essex-county",
+  "name": "Essex (England)",
+  "type": "County",
+  "region": "Eastern England",
+  "modern_location": "Essex, England",
+  "coordinates": {
+    "latitude": 51.574,
+    "longitude": 0.470
+  },
+
+  "administrative_context": "Essex was an English county in the Home Counties, governed by the county administration and subject to the Essex Assizes held at Chelmsford. Its proximity to London and its substantial Puritan population made it a significant center of Reformed Protestant culture. As the county seat, Chelmsford hosted the Assizes where witch cases from across Essex were tried.",
+
+  "witchcraft_trials_significance": "Essex is the most prosecution-intensive county in England, with approximately 317 witch trials documented between 1560 and 1680—more than any other English county. It was the primary research site for two foundational studies of English witch prosecution: Keith Thomas's Religion and the Decline of Magic (1971) and Alan Macfarlane's Witchcraft in Tudor and Stuart England (1970). The Essex records were the empirical foundation for the 'charity refused' model of English witch prosecution, in which the accused was typically an older woman who had requested charity from a neighbour, been refused, and whose subsequent curse was blamed for later misfortunes.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Various Essex Justices of the Peace",
+      "role": "Examining magistrates",
+      "contribution_to_trials": "Conducted initial examinations; referred cases to the Chelmsford Assizes"
+    },
+    {
+      "name": "Matthew Hopkins",
+      "role": "Witchfinder General (1645-1647)",
+      "contribution_to_trials": "Hopkins operated primarily in Essex and Suffolk in 1645-1647; his methods dramatically increased the prosecution rate during his activity period"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1560s": "First documented Essex witch trials at Chelmsford Assizes (1566 case)",
+    "1579_1589": "Two further Chelmsford trial clusters",
+    "1582": "St Osyth trials (within Essex)",
+    "1610s_1630s": "Continued intermittent prosecution",
+    "1645_1647": "Hopkins panic: most intensive period of Essex prosecution; dozens executed",
+    "1650s_1680s": "Declining prosecution following Hopkins's discrediting"
+  },
+
+  "affected_population": {
+    "geographic_extent": "All parts of Essex county including both urban Chelmsford area and rural communities",
+    "social_reach": "Predominantly poor elderly women with prior reputations for cursing; Macfarlane's analysis showed typical accused were widows or spinsters of low status",
+    "gender_distribution": "Approximately 90% female among Essex accused—higher than the European average",
+    "mortality_impact": "Approximately 82 executed in Essex 1560-1680 (excluding Hopkins panic); perhaps 100+ during Hopkins period making Essex total the highest in England"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Essex prosecution within English Protestant demonology: the Reformed emphasis on providential interpretation of misfortune, combined with the popularization of demonological concepts through printed pamphlet literature, created a prosecutorial culture in which community misfortune was routinely interpreted through the lens of maleficium.",
+    "hutton_perspective": "Hutton and Keith Thomas's charity-refused model is central to understanding Essex: the accused woman had typically denied charity to a neighbour and then cursed them; the neighbour subsequently blamed subsequent misfortune on the curse. This dynamic reflects the breakdown of traditional charitable obligations in an increasingly commercializing rural society.",
+    "ginzburg_perspective": "Macfarlane's detailed case-by-case analysis of Essex records, read through Ginzburg's microhistorical lens, reveals the individual human stories behind aggregate statistics—the specific relationships, quarrels, and misfortunes that produced each prosecution."
+  },
+
+  "legacy_and_historiographical_importance": "Essex is the paradigm case for English witch hunting scholarship, primarily through Macfarlane's Witchcraft in Tudor and Stuart England (1970) and Thomas's Religion and the Decline of Magic (1971). These works established the social-functional analysis of English prosecution and the 'charity refused' model that dominated the field for decades.",
+
+  "primary_sources": "Essex Assize records (Public Record Office / National Archives, ASSI 35); analyzed exhaustively in Macfarlane and Thomas",
+
+  "source_method": "Published scholarship (Macfarlane, Thomas, Sharpe, Levack), Essex Assize records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

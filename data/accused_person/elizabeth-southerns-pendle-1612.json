@@ -1,0 +1,52 @@
+{
+  "id": "elizabeth-southerns-pendle-1612",
+  "name": "Elizabeth Southerns (Old Demdike)",
+  "status": "Died in Prison",
+  "trial_id": "pendle-1612",
+  "location_id": "pendle",
+  "year_accused": 1612,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Elderly widow; matriarch of Demdike family; rural poor, Forest of Pendle",
+  "gender": "Female",
+  "biography": "Elizabeth Southerns, universally known as Old Demdike, was an elderly, nearly blind woman who had been associated with magical practice in the Forest of Pendle for decades before the 1612 trials. Thomas Potts described her as a witch of fifty years standing — a characterization that, whatever its accuracy, reflects her long-established local reputation as a woman of cunning craft. She was the matriarch around whom the Demdike family network was organized, and her grandchildren, children, and neighbors were all drawn into the prosecution web.\n\nDemdike represents the archetype of the English cunning woman whose services to the local community — healing, finding lost goods, identifying bewitchment — had created a reputation that could be reframed as witchcraft under judicial pressure. She freely confessed during her examination before Justice Nowell in March 1612, describing a decades-long familiarity with a familiar spirit named Tibb. Whether this confession reflected genuine belief, rational calculation, or the confusion of an elderly infirm woman under pressure from an authority figure is a question scholars continue to debate.",
+
+  "arrest_narrative": "Demdike was among the first arrested in the March 1612 examinations. Justice Nowell's examination at Read Hall drew out her confession without apparent torture — she was elderly, nearly blind, and reportedly submitted with relative ease to questioning. She was committed to Lancaster Castle, where the conditions were harsh enough that she died before trial, never facing formal legal proceedings.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {"session": 1, "method": "Examination before Justice Roger Nowell at Read Hall", "outcome": "Extensive voluntary-appearing confession about familiar spirit Tibb and maleficium"}
+    ],
+    "initial_response": "Relatively ready confession compared to others",
+    "final_confession_summary": "Confessed to encounter with familiar spirit Tibb twenty years earlier; described how Tibb appeared and she pledged herself to him; confessed to killing several persons and harming animals by maleficium over the following decades"
+  },
+
+  "accusations_against_them": [
+    "Long-standing demonic pact with familiar spirit Tibb",
+    "Murder of Richard Baldwyn's child by witchcraft",
+    "Murder of other unnamed persons by maleficium",
+    "General practice of malefic witchcraft over fifty years",
+    "Corrupting and teaching her family in witchcraft"
+  ],
+
+  "execution_details": {
+    "date": null,
+    "method": "Died in Lancaster Castle before trial",
+    "location": "Lancaster Castle"
+  },
+
+  "historiographical_significance": "Old Demdike is historically significant as the archetype around whom the Pendle prosecutions crystallized. Her voluntary-appearing confession — made without recorded torture by an elderly, nearly blind woman before a magistrate — raises profound questions about what 'voluntary' meant in this context, whether she believed her own narrative, and how long-established local reputations for cunning craft became the raw material for witch prosecution. Her death before trial means she was never formally convicted, a legal ambiguity that her descendants later exploited.",
+
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assizes records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "briggs-witches-and-neighbours-1996",
+    "levack-witch-hunt-early-modern-europe-2006",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

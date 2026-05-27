@@ -1,0 +1,33 @@
+{
+  "id": "scot-discoverie-witchcraft-1584",
+  "title": "The Discoverie of Witchcraft",
+  "author": "Reginald Scot",
+  "author_id": null,
+  "year_published": 1584,
+  "language": "English",
+  "type": "SKEPTICAL_TREATISE",
+  "publisher_original": "William Brome, London, 1584",
+  "modern_edition": "Scot, Reginald, The Discoverie of Witchcraft, ed. Brinsley Nicholson (1886); facsimile reprint available",
+  "significance": "The most thorough early English skeptical treatment of witchcraft; argued that confessions arose from delusion and melancholy; so threatening to demonological orthodoxy that James VI reportedly ordered it burned.",
+  "summary": "Scot's Discoverie, in sixteen books, systematically dismantles the case for witchcraft through multiple strategies: theological argument (the Bible does not support the demonological witch concept), natural philosophy (demons cannot take physical form), medical argument (confessing witches suffer from melancholy and delusion), and social observation (accusers are malicious neighbors, victims of community prejudice). Scot draws on Johann Weyer's earlier skeptical arguments but develops them more fully in English for a lay readership. The text also contains extensive descriptions of conjuring tricks, exposing stage magic that credulous observers mistook for supernatural effects.",
+  "clark_analysis": "Clark reads Scot not simply as a rationalist proto-skeptic but as a serious theological thinker whose arguments operated within the same scriptural and Scholastic framework as his opponents. Scot's challenge to demonology was from within the tradition, not from outside it, which is why the demonologists had to engage with him seriously.",
+  "hutton_analysis": "Hutton values Scot as evidence for a persistent tradition of English skepticism about witchcraft that contributed to England's relatively lower execution rates compared to Scotland and Continental regions. Scot represents a recognizable English Protestant sensibility that was never comfortable with full Continental-style demonology.",
+  "ginzburg_analysis": "Ginzburg is more interested in what Scot describes than in his skepticism per se: his accounts of cunning folk, healing practices, and village magic provide evidence for the popular magical world that demonological prosecution targeted. Scot's documentation of what he sought to explain away is often more valuable than his explanations.",
+  "key_arguments": [
+    "The Bible does not authorize the execution of witches as the demonologists define them",
+    "Confessing witches suffer from melancholia, not actual diabolic pacts",
+    "Demons are purely spiritual and cannot act in the physical world",
+    "Accusers are motivated by malice, superstition, or credulity",
+    "The prosecution and execution of innocent poor women is a moral and legal scandal"
+  ],
+  "influence_on_prosecutions": "Scot's influence is difficult to measure quantitatively, but his arguments circulated among educated English readers and contributed to a culture of skepticism about prosecution excess. James VI's reported hostility demonstrates that demonologists took him seriously as a threat. Later English skeptics including Francis Hutchinson cited him.",
+  "related_texts": ["weyer-praestigiis-daemonum-1563", "james-vi-daemonologie-1597", "hutchinson-historical-essay-1718"],
+  "related_trials": [],
+  "scholarly_disagreement": "Whether James VI literally ordered Scot burned is disputed; no contemporary evidence confirms the book-burning story, which may be legend. Scholars debate the extent of Scot's direct influence on subsequent English prosecution patterns versus his role as a symptom of broader cultural skepticism.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "thomas-religion-decline-magic-1971"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

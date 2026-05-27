@@ -1,0 +1,76 @@
+{
+  "id": "roper-lyndal-b1956",
+  "name": "Lyndal Roper",
+  "birth_year": 1956,
+  "death_year": null,
+  "birth_place": "Australia",
+  "academic_discipline": "Gender History",
+  "primary_institution": "University of Oxford",
+  "specialization": "Gender, body, and fantasy in early modern German witchcraft",
+  "major_works": [
+    {
+      "title": "Witch Craze: Terror and Fantasy in Baroque Germany",
+      "year": 2004,
+      "publisher": "Yale University Press",
+      "significance": "Psychoanalytic approach to witchcraft focusing on embodied fantasy, generativity, and aging",
+      "database_entry": "roper-witch-craze-2004"
+    },
+    {
+      "title": "Oedipus and the Devil: Witchcraft, Sexuality, and Religion in Early Modern Europe",
+      "year": 1994,
+      "publisher": "Routledge",
+      "significance": "Essays developing psychoanalytic and gender approaches to early modern religion and witchcraft",
+      "database_entry": null
+    },
+    {
+      "title": "The Holy Household: Women and Morals in Reformation Augsburg",
+      "year": 1989,
+      "publisher": "Oxford University Press",
+      "significance": "Foundational study of gender and the Reformation in Augsburg",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "GENDER HISTORY",
+  "core_argument": "Witchcraft accusations emerged from deep psychic and social anxieties around generativity, the female body, and aging. Post-Freudian analysis reveals that witch confessions and accusations were shaped by unconscious fantasies about motherhood, infanticide, and bodily harm, grounded in real social tensions between older and younger women.",
+  "methodological_approach": {
+    "primary_materials": "Trial records, interrogation transcripts, confession narratives from Augsburg and Bavaria",
+    "analysis_target": "Psychological and somatic content of witch confessions; social relationships between accusers and accused",
+    "evidence_type": "Narrative analysis of confession content; gender and age demographics of accused and accusers",
+    "explanatory_level": "Psychoanalytic and social-bodily; individual psychology embedded in communal structures"
+  },
+  "key_contributions": [
+    {
+      "concept": "Embodied witchcraft",
+      "claim": "Witch fantasies were rooted in bodily experience — particularly around lactation, infanticide, and aging — rather than purely in theological doctrine",
+      "implication": "Witch trials cannot be understood purely as intellectual or legal history; they reflect deep somatic anxieties"
+    },
+    {
+      "concept": "Generativity conflict",
+      "claim": "Accusations typically ran between older post-menopausal women and younger women with infants, reflecting tension over reproductive capacity",
+      "implication": "The social profile of witchcraft accusation reveals structured intergenerational conflict rather than random persecution"
+    },
+    {
+      "concept": "Post-Freudian witch history",
+      "claim": "Psychoanalytic categories (projection, fantasy, unconscious) can be applied to historical evidence without anachronism if grounded in period-specific somatic beliefs",
+      "implication": "Opens productive dialogue between historical method and psychological theory"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["ginzburg-carlo-b1939", "larner-christina-1934-1983"],
+    "creative_tension_with": ["clark-stuart-b1943", "hutton-ronald-b1953", "briggs-robin-b1942"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Feminist theory, psychoanalytic theory (Freud, Melanie Klein), social history of early modern Germany",
+    "criticisms": [
+      "Psychoanalytic framework seen as anachronistic by some historians",
+      "Hutton and others question whether projecting modern psychological categories onto early modern minds is valid",
+      "Scope limited largely to German (especially Augsburg/Bavarian) material"
+    ]
+  },
+  "historiographical_significance": "Roper's work fundamentally shifted witchcraft historiography toward the body and psyche, challenging purely intellectual and social-structural explanations. Her integration of gender theory with close reading of confessional documents opened new analytical possibilities. Her position as Regius Professor of History at Oxford signals her central standing in the field.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

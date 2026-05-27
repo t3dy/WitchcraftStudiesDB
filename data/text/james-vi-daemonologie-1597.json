@@ -1,0 +1,33 @@
+{
+  "id": "james-vi-daemonologie-1597",
+  "title": "Daemonologie, In Forme of a Dialogue",
+  "author": "James VI of Scotland (later James I of England)",
+  "author_id": null,
+  "year_published": 1597,
+  "language": "English",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Robert Walde-grave, Edinburgh, 1597",
+  "modern_edition": "James VI/I, Daemonologie, ed. G.B. Harrison, Bodley Head Quartos, 1924; reprint Folger Shakespeare Library",
+  "significance": "Royal demonology written by the future king of England; when James became James I, his views directly shaped English witchcraft law and cultural anxiety; influenced Shakespeare's Macbeth.",
+  "summary": "Written as a dialogue between Epistemon (the learned believer) and Philomathes (the curious skeptic), the Daemonologie argues in three books for the reality of witchcraft, sorcery, and demonic possession. Book I covers magic and necromancy; Book II witch practices including the sabbath, Devil's pact, and maleficium; Book III demonic possession and apparitions. James wrote it partly in response to the North Berwick witch trials (1590-91) in which he personally interrogated suspects who allegedly conspired to sink his ship and kill him. The text reflects his anxieties about conspiracy and his genuine theological engagement with demonological questions.",
+  "clark_analysis": "Clark reads the Daemonologie as a sophisticated piece of Protestant demonological theology, not merely a paranoid royal document. James engages seriously with skeptical arguments (particularly Reginald Scot's positions) and provides reasoned rebuttals. The text exemplifies the learned Protestant consensus on witch-theology that Clark argues should be taken seriously as intellectual history.",
+  "hutton_analysis": "Hutton emphasizes the Daemonologie's political context — James's personal experience of the North Berwick trials — and its institutional consequences when James became English king. The text's influence on the 1604 Witchcraft Act that hardened English prosecution standards illustrates how royal belief could reshape legal practice.",
+  "ginzburg_analysis": "Ginzburg notes James's Daemonologie as part of the elite demonological tradition that standardized sabbath imagery and suppressed regional variation in witch belief. The royal text imposed a uniform framework on what were in practice diverse local accusation patterns.",
+  "key_arguments": [
+    "Witchcraft is real and denying it is an error Scripture refutes",
+    "The Devil's pact involves formal renunciation of baptism and submission to satanic service",
+    "Witches gather at sabbaths where they worship the devil in various obscene rites",
+    "Witches cause harm through maleficium: disease, death, storms, sexual incapacity",
+    "Judges should prosecute witches vigorously; the gravity of the crime justifies strict procedure"
+  ],
+  "influence_on_prosecutions": "When James acceded to the English throne in 1603, the Daemonologie's arguments directly informed the Witchcraft Act of 1604, which expanded English prosecution standards. The text's cultural influence extended to literature: Shakespeare reportedly incorporated elements from the North Berwick trials and Daemonologie into Macbeth (1606), performed for the new king.",
+  "related_texts": ["scot-discoverie-witchcraft-1584", "kramer-malleus-maleficarum-1487", "perkins-discourse-witchcraft-1608"],
+  "related_trials": [],
+  "scholarly_disagreement": "Scholars debate the balance between genuine theological engagement and political-personal anxiety in the Daemonologie. Some argue James's views moderated significantly after he became English king and encountered less Scottish-style demonological intensity; others see continuity. The text's relationship to specific North Berwick trial documents is debated.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

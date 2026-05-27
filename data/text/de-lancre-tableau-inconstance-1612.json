@@ -1,0 +1,33 @@
+{
+  "id": "de-lancre-tableau-inconstance-1612",
+  "title": "Tableau de l'inconstance des mauvais anges et démons",
+  "author": "Pierre de Lancre",
+  "author_id": null,
+  "year_published": 1612,
+  "language": "French",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Jean Berjon, Paris, 1612",
+  "modern_edition": "De Lancre, Pierre, On the Inconstancy of Witches, trans. Harriet Stone and Gerhild Scholz Williams, ACMRS, 2006",
+  "significance": "First-person account by the presiding judge of the 1609 Labourd persecution; contains the most elaborate sabbath descriptions in demonological literature; reveals how anti-Basque ethnic prejudice shaped prosecution.",
+  "summary": "De Lancre, a Bordeaux magistrate sent by Henri IV to investigate witchcraft in the Basque province of Labourd (1609), wrote the Tableau as both a record of his prosecutions and a comprehensive demonological synthesis. The text contains extraordinarily elaborate descriptions of the sabbath, drawn from confessions obtained under torture, and is notable for its illustrated plates depicting sabbath scenes. De Lancre attributed Basque susceptibility to witchcraft to their maritime lifestyle, Celtic ancestry, and lack of stable social structures — a framework that combined demonological and ethnographic prejudice. He executed approximately 80 persons.",
+  "clark_analysis": "Clark reads de Lancre's elaborate sabbath descriptions as a demonstration of how demonological imagination could expand and elaborate when given the opportunity of a concentrated prosecution: the very richness of the sabbath descriptions reflects the interaction between judicial questioning and accuseds' responses within a shared cultural framework.",
+  "hutton_analysis": "Hutton notes the Labourd persecution as a case study in how political decision (royal commission) and local religious anxiety could combine to produce concentrated prosecution. The anti-Basque ethnic dimension illustrates how cultural prejudice intersected with demonological theory.",
+  "ginzburg_analysis": "Ginzburg examines the Labourd confessions for traces of genuine Basque folk belief beneath the imposed demonological template; some elements of the sabbath descriptions may preserve indigenous Basque supernatural beliefs that de Lancre reinterpreted within a diabolical framework.",
+  "key_arguments": [
+    "Basque people are particularly prone to witchcraft due to cultural instability and maritime disorder",
+    "The sabbath is an elaborate real event involving thousands of participants",
+    "Children and young women are especially susceptible to diabolical seduction",
+    "The witch-priest collaboration at the sabbath represents the total inversion of Christian order",
+    "Vigorous prosecution with judicial torture is necessary to identify and eliminate the sect"
+  ],
+  "influence_on_prosecutions": "The Labourd persecution itself executed approximately 80 persons before being halted by the Spanish Inquisition (which covered the Spanish Basque territory). De Lancre's text contributed to sabbath iconography and elaboration in subsequent demonological literature.",
+  "related_texts": ["bodin-demonomanie-1580", "remy-demonolatry-1595", "guazzo-compendium-maleficarum-1608"],
+  "related_trials": [],
+  "scholarly_disagreement": "The degree to which de Lancre's sabbath descriptions reflect genuine Basque folk belief versus pure judicial construction is debated. Henningsen's study of the adjacent Spanish Basque area provides important comparative evidence. Whether the prosecution was primarily driven by de Lancre's personal zeal, royal political concerns, or local anxiety is debated.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "henningsen-witches-advocate-1980"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

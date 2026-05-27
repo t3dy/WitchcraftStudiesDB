@@ -1,0 +1,72 @@
+{
+  "id": "love-magic-philtres",
+  "name": "Love Magic / Philtres (Amatory Magic)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+
+  "scholarly_definition": "Love magic encompassed a wide range of practices intended to create, direct, or compel romantic and sexual attraction: philtres (love potions consumed by the target), binding spells connecting two persons, image magic focusing desire, and spoken charms activating attraction. Unlike maleficium, love magic did not necessarily cause physical harm (though it could be prosecuted as bodily violation and coercion). Love magic occupied a contested position in the spectrum of magical practices — widely offered by cunning folk and magical practitioners, sometimes prosecuted, sometimes treated as lesser folk magic. Its ambiguous moral status (seeking love rather than causing harm) placed it at the borderline between prosecuted witchcraft and tolerated popular practice.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Classical amatory magic traditions (Theocritus's Idylls, Ovid's Remedia Amoris)",
+      "Medieval herbalist traditions of aphrodisiac and anti-aphrodisiac preparations",
+      "Penitentials condemning love potions as forms of harm"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum's discussion of love magic as form of maleficium",
+      "Folk magical practitioner records documenting love-magic commissions",
+      "Inquisitorial records (especially Italian) showing high rates of love-magic prosecution"
+    ],
+    "formalization_sources": [
+      "Italian inquisitorial records — most systematic prosecution of love magic in Europe",
+      "Cunning folk account books and reputation records",
+      "Learned natural magic tradition (Ficino on astrological love influence)"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark situates love magic within the broader spectrum of magical practice that demonologists had to categorize. The key theological question was whether love magic required demonic agency: could a natural philtre cause genuine attraction without demonic supplement, or did any effective magic require pact? The answer shaped whether love magic practitioners were prosecuted for maleficium (requiring demonic agency) or merely for superstitious practice (not capital). The spectrum from natural to preternatural was contested terrain that generated significant demonological discussion.",
+
+  "hutton_social_analysis": "Hutton emphasizes that love magic was among the most commonly sought folk magical services, reflecting the high personal stakes of marriage and sexual relationships in a society where marriage determined economic survival and social status. Cunning folk who offered love magic services were responding to genuine demand. The prosecution of love magic was episodic rather than systematic, suggesting it was tolerated when not causing complaint but prosecuted when relationships broke down and former clients or targets complained.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's work on Italian inquisitorial records shows that love magic prosecution provides unusually good evidence for genuine folk practice — accused persons described specific clients, specific commissions, specific techniques — in ways that suggest real commercial magical practice rather than interrogation-constructed narratives. Love magic records offer some of the clearest windows into actual folk magical service provision in the period.",
+
+  "actor_perspective": {
+    "practitioner_language": "Practitioners offering love magic understood themselves as providing a valuable social service — helping clients attract suitable partners, revive failing relationships, or protect existing relationships from rivals. The techniques (herbs, prayers, binding objects, image sympathies) were understood as working through natural or spiritual channels, not as coercion of another's will through demonic force.",
+    "misalignment": "The fundamental moral problem demonologists identified was consent violation: love magic bypassed the target's free will, compelling attraction through external force. This was both a theological problem (interfering with God-given free will) and a legal problem (sexual coercion). Practitioners framed this differently — as directing or channeling natural forces, not as overriding will."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Demonologists argued that truly effective love magic (that actually changed another's desires) required demonic agency, since only demons could reach into the human soul to redirect the will. Mere natural philtres might affect physical arousal through humoral mechanisms but could not compel genuine love — suggesting that successful love magic proved demonic involvement.",
+    "canonical_law": "Love magic that compelled marriage could be grounds for marriage annulment (like ligature, affecting the validity of free consent). Italian inquisitions prosecuted love magic as a lesser offence than full diabolism, reflecting a graduated approach to magical crime."
+  },
+
+  "regional_variations": "Love magic prosecution was particularly well documented in Italian inquisitorial records, where it constituted a major category of magical crime. English cunning folk records show love magic as a standard service. Spanish inquisitorial records show similar patterns. Northern European prosecution records more often subsumed love magic under maleficium categories. The Italian records offer the most detailed evidence for love magic as a commercial service industry.",
+
+  "scholarly_disagreement": "Historians debate whether love magic was more commonly practiced by women (seeking to attract or retain men) or by men (seeking sexual access to women), with Italian records suggesting both. The moral framing of love magic as consent violation or as legitimate love facilitation varied by social context. Some historians argue love magic prosecution particularly targeted women, while others note significant male prosecution in Italian records.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "healing-magic-white",
+    "cunning-folk-services",
+    "impotence-magic-ligature",
+    "malefic-binding-knots",
+    "maleficium-concept"
+  ],
+
+  "source_method": "Italian inquisitorial records; English cunning folk documentation; Malleus Maleficarum; scholarly analysis of folk magic services",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Love magic occupies the softest boundary in the spectrum from tolerated folk practice to prosecuted witchcraft. Its prosecution depended largely on whether complaints were made, suggesting that social relationships rather than the practice itself determined outcomes. The Italian inquisitorial records have been crucial for recovering genuine folk magical practice precisely because love magic was prosecuted with less violence than full diabolism, meaning more accused persons survived to give detailed testimony about their actual practices without extreme torture distortion.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

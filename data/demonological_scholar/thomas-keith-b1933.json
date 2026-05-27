@@ -1,0 +1,70 @@
+{
+  "id": "thomas-keith-b1933",
+  "name": "Keith Thomas",
+  "birth_year": 1933,
+  "death_year": null,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "Social History",
+  "primary_institution": "University of Oxford",
+  "specialization": "English magical beliefs; witchcraft in context of religious change and popular culture",
+  "major_works": [
+    {
+      "title": "Religion and the Decline of Magic",
+      "year": 1971,
+      "publisher": "Weidenfeld and Nicolson",
+      "significance": "Foundational 800-page survey placing English witchcraft and magic within the full context of popular religious belief and the Reformation",
+      "database_entry": "thomas-religion-decline-magic-1971"
+    },
+    {
+      "title": "Man and the Natural World: Changing Attitudes in England 1500-1800",
+      "year": 1983,
+      "publisher": "Allen Lane",
+      "significance": "Extends social history methodology to attitudes toward nature",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "English witchcraft accusations arose from the social tensions created by the decline of Catholic magical services after the Reformation, combined with the 'charity refused' mechanism: when a householder refused charity to a poor neighbor who then suffered misfortune, guilt was projected onto the refused beggar as a witch. Witchcraft filled the gap left by the Church's lost magical remedies.",
+  "methodological_approach": {
+    "primary_materials": "Parish records, court records, pamphlet literature, ecclesiastical depositions across England 1500-1700",
+    "analysis_target": "Social function of magical belief; relationship between religious change and witchcraft; charity and community obligation",
+    "evidence_type": "Wide-ranging qualitative survey of print and archival sources; contextual social analysis",
+    "explanatory_level": "Sociological-functional: beliefs serve social needs created by structural changes"
+  },
+  "key_contributions": [
+    {
+      "concept": "Charity-refused thesis",
+      "claim": "The typical English witch accusation followed a pattern: a householder refused charity to a poor woman, she cursed or muttered on leaving, the householder later suffered misfortune, guilt about the refusal was converted into accusation",
+      "implication": "Witchcraft accusations reflect guilt and psychological projection by accusers, not evidence of witches' malice"
+    },
+    {
+      "concept": "Decline of Church magic",
+      "claim": "The Reformation removed Catholic magical services (blessings, holy water, saints' intercession) that had managed anxiety about illness and misfortune; witchcraft belief and cunning folk filled this vacuum",
+      "implication": "English witchcraft must be understood in the context of religious change, not in isolation"
+    },
+    {
+      "concept": "Magic as social need",
+      "claim": "Pre-modern magical beliefs were rational responses to real problems of illness, crop failure, and uncertainty in the absence of alternative explanations",
+      "implication": "Magic should be analyzed functionally and sympathetically, not dismissed as superstition"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["macfarlane-alan-b1941", "briggs-robin-b1942", "davies-owen-b1969"],
+    "creative_tension_with": ["clark-stuart-b1943", "muchembled-robert-b1944"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Social anthropology (Evans-Pritchard), sociology of religion (Weber), Annales social history",
+    "criticisms": [
+      "Charity-refused thesis critiqued as overly schematic; not all cases fit the pattern",
+      "English focus limits applicability to Continental patterns",
+      "Later scholars (Clark) argued Thomas underweights the theological sophistication of demonological thought",
+      "Feminist historians argued insufficient attention to gender dynamics"
+    ]
+  },
+  "historiographical_significance": "Thomas's Religion and the Decline of Magic remains one of the most cited works in early modern English history and established social history methodology for studying magical belief. Its scope, ambition, and empirical depth set a standard that subsequent regional studies aimed to match or refine. The charity-refused thesis influenced Macfarlane and remains a reference point in community-level analyses.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

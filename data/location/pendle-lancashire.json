@@ -1,0 +1,68 @@
+{
+  "id": "pendle-lancashire",
+  "name": "Pendle (Lancashire)",
+  "type": "Region",
+  "region": "Northern England",
+  "modern_location": "Lancashire, England",
+  "coordinates": {
+    "latitude": 53.851,
+    "longitude": -2.234
+  },
+
+  "administrative_context": "Pendle Forest was a royal hunting forest in the county of Lancashire, a deeply Catholic region of England where Protestant Reformation had made comparatively slow progress. Lancashire was regarded by London authorities as a remote, semi-lawless territory with strong recusant traditions and a population resistant to religious conformity. Witchcraft prosecutions fell under the jurisdiction of the Lancaster Assizes.",
+
+  "witchcraft_trials_significance": "The Pendle witch trials of 1612 are the most famous English witch trial case before Salem, involving 19 accused persons from the Pendle area and resulting in 10 executions at Lancaster. The case is unusually well documented because the examining magistrate Roger Nowell sent a detailed account to London, which was published by Thomas Potts as The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613). The case involved two rival families (the Demdikes and the Chattoxes) and demonstrated the role of community conflict and prior reputation in fuelling accusation.",
+
+  "trial_events": [
+    "pendle-1612-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Roger Nowell",
+      "role": "Justice of the Peace for Lancashire",
+      "contribution_to_trials": "Conducted initial examinations at Read Hall; gathered testimonies; sent case to Lancaster Assizes; his detailed notes were preserved and published"
+    },
+    {
+      "name": "Thomas Potts",
+      "role": "Clerk of Assize",
+      "contribution_to_trials": "Compiled and published The Wonderfull Discoverie (1613), the primary narrative source for the trials, dedicated to the judges who presided at Lancaster"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1612_march": "Initial confrontation between Alizon Device and a pedlar; Alizon Device accuses herself before Roger Nowell; mutual accusations between Demdike and Chattox families",
+    "1612_april": "Further examinations; accused held at Lancaster Castle; meeting at Malkin Tower on Good Friday alleged to be a witches' sabbath",
+    "1612_august": "Lancaster Summer Assizes; trial of 20 accused; 10 found guilty and hanged; one died in prison; one acquitted; one tried at York"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Pendle Forest and immediately surrounding townships in east Lancashire",
+    "social_reach": "Predominantly poor, elderly women from marginalized families with reputations as cunning folk and healers; some younger family members also accused",
+    "gender_distribution": "Predominantly female; the key accused figures (Elizabeth Southerns 'Old Demdike', Anne Whittle 'Old Chattox', Anne Redferne) were women; James Device among male accused",
+    "mortality_impact": "10 executed at Lancaster; 1 died in Lancaster Castle awaiting trial; approximately 19-20 formally accused"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark notes that the Pendle case applied learned demonological concepts—diabolical pact, sabbath meeting—to a community context shaped by popular cunning-craft traditions, illustrating the interface between learned prosecution and popular practice.",
+    "hutton_perspective": "Hutton emphasizes that the accused Demdike and Chattox families were practitioners of cunning craft—healing, charming, curse-lifting—whose activities placed them in a culturally ambiguous position exploited by prosecution. The rivalry between families was a social precondition for the cascade of accusations.",
+    "ginzburg_perspective": "Ginzburg's microhistorical approach would focus on the individual testimonies and self-descriptions: figures like Old Demdike who apparently accepted an identity as witch, and the young Alizon Device whose voluntary confession and apparent genuine belief in her own maleficent power raises questions about the relationship between popular belief and prosecutorial narrative."
+  },
+
+  "legacy_and_historiographical_importance": "The Pendle trials are exceptionally well documented through Potts's Wonderfull Discoverie, which preserves extended examination transcripts and testimony. This source has been analyzed extensively by social historians (J.A. Sharpe, Keith Thomas) as evidence of popular witchcraft belief in early modern England. The site remains a major heritage and tourist destination in Lancashire, with ongoing public and academic interest.",
+
+  "primary_sources": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assize records; Roger Nowell's examination notes (partially surviving)",
+
+  "source_method": "Published scholarship (Sharpe, Thomas, Levack), Potts's Wonderfull Discoverie (primary source)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

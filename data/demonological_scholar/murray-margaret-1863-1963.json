@@ -1,0 +1,78 @@
+{
+  "id": "murray-margaret-1863-1963",
+  "name": "Margaret Murray",
+  "birth_year": 1863,
+  "death_year": 1963,
+  "birth_place": "India (British)",
+  "academic_discipline": "Egyptology and Anthropology",
+  "primary_institution": "University College London",
+  "specialization": "Witch-cult hypothesis; anthropological interpretation of witch trial records as evidence for pre-Christian religion",
+  "major_works": [
+    {
+      "title": "The Witch-Cult in Western Europe",
+      "year": 1921,
+      "publisher": "Clarendon Press",
+      "significance": "Argued that witch trials prosecuted a real surviving pre-Christian fertility cult; enormously influential despite being thoroughly discredited; shaped popular witchcraft imagination and Wicca",
+      "database_entry": "murray-witch-cult-western-europe-1921"
+    },
+    {
+      "title": "The God of the Witches",
+      "year": 1931,
+      "publisher": "Sampson Low",
+      "significance": "Popular extension of the witch-cult thesis; more accessible version reaching wide audience",
+      "database_entry": null
+    },
+    {
+      "title": "The Divine King in England",
+      "year": 1954,
+      "publisher": "Faber",
+      "significance": "Extension of ritual-sacrifice theory to English monarchy; further demonstration of her anthropological method applied to historical sources",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Witch trials prosecuted real members of an organized pre-Christian fertility cult worshipping a horned god, which had survived underground through the medieval period. Confessions extracted under torture reflected actual cult practices, not delusion or judicial coercion. This 'Dianic cult' had organized covens, sabbath meetings, and a consistent theology across Western Europe.",
+  "methodological_approach": {
+    "primary_materials": "Witch trial confessions from across Western Europe, selected and interpreted to support cult-survival hypothesis",
+    "analysis_target": "Consistency of confession content as evidence for real underlying practices",
+    "evidence_type": "Selective reading of confessional testimony; anthropological analogy with other documented folk religions",
+    "explanatory_level": "Religious-survivalist: pre-Christian religion persisting underground"
+  },
+  "key_contributions": [
+    {
+      "concept": "Witch-cult thesis (discredited)",
+      "claim": "A real pre-Christian fertility cult survived into the early modern period; witch trials were persecution of genuine religious practitioners",
+      "implication": "If true (it is not), would require complete reinterpretation of trial evidence as religious history rather than judicial history"
+    },
+    {
+      "concept": "Foundation of Wicca",
+      "claim": "Murray's thesis was adopted by Gerald Gardner as the historical basis for Wicca in the 1950s; whether Murray believed this application is unclear",
+      "implication": "Her work has had enormous cultural influence despite scholarly rejection"
+    },
+    {
+      "concept": "Historiographical object of study",
+      "claim": "The persistence of Murray's influence (Encyclopedia Britannica carried her thesis as credible until 1968) demonstrates how historical mythologies can outlast their debunking",
+      "implication": "Murray's thesis is now primarily significant as a study in how false historical narratives achieve and maintain cultural authority"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": [],
+    "creative_tension_with": ["clark-stuart-b1943", "hutton-ronald-b1953", "ginzburg-carlo-b1939", "de-blecourt-willem-b1956", "briggs-robin-b1942"]
+  },
+  "reception_and_critique": {
+    "major_influences": "James George Frazer (Golden Bough), evolutionary anthropology, Egyptological methodology",
+    "criticisms": [
+      "Norman Cohn (Europe's Inner Demons, 1975) systematically demolished the thesis showing Murray misquoted, truncated, and selectively used sources",
+      "No independent evidence for a organized pan-European fertility cult exists",
+      "Confessions were produced by torture and leading questions, not free testimony about real practices",
+      "The 'consistency' of confessions reflects shared demonological questioning procedures, not shared cult practices",
+      "Hutton's Triumph of the Moon (1999) provided definitive debunking while sympathetically explaining why the thesis was compelling"
+    ]
+  },
+  "historiographical_significance": "Murray's witch-cult thesis is the most influential false thesis in witchcraft historiography. Accepted by major reference works and academic figures for decades, it shaped popular witchcraft belief, gave historical legitimacy to Wicca, and required sustained scholarly effort to dislodge. As a historiographical case study, it illustrates how authority, selectivity, and cultural need can sustain a false thesis; and how thorough debunking (Cohn, Hutton) is required to clear the field for rigorous analysis.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

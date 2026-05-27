@@ -1,0 +1,68 @@
+{
+  "id": "hungary-royal",
+  "name": "Royal Hungary (Kingdom of Hungary)",
+  "type": "Kingdom",
+  "region": "Central-Eastern Europe",
+  "modern_location": "Hungary and Slovakia",
+  "coordinates": {
+    "latitude": 47.497,
+    "longitude": 19.040
+  },
+
+  "administrative_context": "Royal Hungary in the 17th-18th century was the portion of the Kingdom of Hungary under Habsburg rule (as opposed to Ottoman-controlled areas). It was governed by the Habsburg administration from Vienna through the Hungarian Diet and royal courts. Witch prosecution in Hungary occurred relatively later than in western Europe, with the most intensive period in the early 18th century—among the last major European witch panics.",
+
+  "witchcraft_trials_significance": "Hungary experienced significant witch prosecution in the late 17th and early 18th centuries, with the Szeged witch trials of 1728 among the last major European mass executions. At Szeged in 1728, twelve people were burned in a single day—one of the last mass executions in European history. Empress Maria Theresa subsequently issued decrees in 1756 and 1768 requiring judicial review of all witch trial capital convictions, and effectively ending witch prosecution in the Habsburg lands. Hungary thus represents both a late persistence of major prosecution and an early example of Enlightenment administrative abolition.",
+
+  "trial_events": [
+    "hungary-1728-szeged"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Szeged city council and judges",
+      "role": "Municipal court authority",
+      "contribution_to_trials": "Conducted the 1728 Szeged trials; sentenced 12 people burned and 6 beheaded"
+    },
+    {
+      "name": "Empress Maria Theresa",
+      "role": "Habsburg ruler",
+      "contribution_to_trials": "Issued abolition decrees in 1756 and 1768 requiring central review of witch trial death sentences; effectively ended Habsburg witch prosecution"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1680s_1700s": "Sustained witch prosecution in Royal Hungary; multiple regional cases",
+    "1728_june": "Szeged witch trials: 12 burned and 6 beheaded in a single day",
+    "1756": "Maria Theresa's first decree requiring Viennese court review of witch trial death sentences",
+    "1768": "More comprehensive Maria Theresa decree; witch prosecution effectively ended in Habsburg lands"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Royal Hungary broadly; Szeged and surrounding Great Plain (Alföld) region for the 1728 case",
+    "social_reach": "Rural and small-town communities; the Szeged victims came from various social positions in the market town",
+    "gender_distribution": "Mixed; Hungarian witch prosecution shows relatively higher male accused rates than western European average",
+    "mortality_impact": "1728 Szeged: 12 burned, 6 beheaded; broader Hungarian 18th-century total estimated in hundreds"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the late persistence of Hungarian prosecution within the broader European pattern of declining prosecution from the west and north to the east and south, noting that Hungarian Catholic and Protestant theological culture maintained the intellectual framework for prosecution longer than France or England.",
+    "hutton_perspective": "Hutton notes that late-persisting prosecution in eastern Europe reflects the delayed penetration of Enlightenment scepticism and legal reform rather than greater popular credulity—the institutional and legal framework for prosecution persisted longer in Habsburg-ruled Hungary than in France or England.",
+    "ginzburg_perspective": "Hungarian witch trial testimonies show distinctive folk belief elements including the táltosok (shamanistic figures) and other specifically Hungarian/Carpathian traditions that may preserve archaic ecstatic traditions of the kind Ginzburg identifies as a substrate beneath European witch beliefs."
+  },
+
+  "legacy_and_historiographical_importance": "Hungarian witch prosecution has been studied by Gábor Klaniczay, whose work on Hungarian táltosok and witch beliefs is significant for Ginzburg's broader argument about shamanistic substrates. The Szeged 1728 trials represent one of the last major European mass executions and have been commemorated in Hungarian public memory.",
+
+  "primary_sources": "Szeged city court records; Hungarian county court records; analyzed in Klaniczay and in the broader surveys of Levack and Behringer",
+
+  "source_method": "Published scholarship (Klaniczay, Levack, Behringer), Hungarian court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

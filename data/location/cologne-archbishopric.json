@@ -1,0 +1,62 @@
+{
+  "id": "cologne-archbishopric",
+  "name": "Archbishopric of Cologne",
+  "type": "Ecclesiastical State",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "North Rhine-Westphalia, Germany",
+  "coordinates": {
+    "latitude": 50.938,
+    "longitude": 6.960
+  },
+
+  "administrative_context": "The Archbishopric of Cologne was one of the three ecclesiastical Electorates of the Holy Roman Empire, governed by the Archbishop-Elector of Cologne who wielded both church authority and electoral political power. As an ecclesiastical territory it combined episcopal inquisitorial jurisdiction with secular criminal courts. The 1627-1630 persecution occurred during the early Thirty Years War, adding political crisis to the conditions for persecution.",
+
+  "witchcraft_trials_significance": "The Archbishopric of Cologne experienced a significant wave of witch prosecution between 1627 and 1630, concurrent with and adjacent to the Bamberg and Würzburg panics. The trials affected multiple towns within the electorate. The 1627-1630 period was part of a broader Rhine-region wave of persecution that extended from the Cologne electorate through adjacent territories during the height of Catholic Counter-Reformation activity and the early Thirty Years War.",
+
+  "trial_events": [
+    "cologne-1627-persecution"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Ferdinand of Bavaria",
+      "role": "Archbishop-Elector of Cologne (1612-1650)",
+      "contribution_to_trials": "Presided over the territory during the persecution; also Archbishop of Paderborn and Münster, enabling cross-territorial coordination of prosecution"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1627": "Witch prosecution intensifies in the electorate; multiple communities affected",
+    "1628_1629": "Peak persecution concurrent with Bamberg and Würzburg panics",
+    "1630": "Prosecution begins to moderate; Thirty Years War disruption increasingly affects administrative capacity"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Archbishopric of Cologne including its scattered territories along the Rhine",
+    "social_reach": "Broad community impact; prosecution spread across urban and rural communities within the electorate",
+    "gender_distribution": "Predominantly female among accused, consistent with broader Rhine-region pattern",
+    "mortality_impact": "Several hundred prosecuted and executed across the electorate during the peak years; precise totals difficult to establish from surviving records"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the Cologne persecution within the broader pattern of Counter-Reformation intensification of witch prosecution in Catholic ecclesiastical territories, where the combination of episcopal authority and secular jurisdiction, combined with political crisis, created exceptional prosecutorial capacity.",
+    "hutton_perspective": "Hutton notes the geographical clustering of the 1626-1631 Rhine-region persecutions (Cologne, Bamberg, Würzburg, Trier) as evidence for regional transmission of prosecutorial panic, suggesting that institutional communication between adjacent territories amplified local persecution.",
+    "ginzburg_perspective": "The Rhine-region wave represents a case study in geographically clustered prosecution—the interrogation-shaped confessions from one territory's accused provided templates for neighboring courts, illustrating the systematic transmission of standardized narratives across judicial networks."
+  },
+
+  "legacy_and_historiographical_importance": "The Cologne ecclesiastical persecution is treated within the broader literature on Rhine-region witch hunting by Wolfgang Behringer and in the general surveys of Levack and Briggs. The role of Ferdinand of Bavaria's multiple ecclesiastical principalities in coordinating prosecution across territories has been noted by historians.",
+
+  "primary_sources": "Episcopal and secular court records in Cologne archives; analyzed in Behringer, Witches and Witch-Hunts; Levack, Witch-Hunt in Early Modern Europe",
+
+  "source_method": "Published scholarship (Behringer, Levack, Briggs), archival sources",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

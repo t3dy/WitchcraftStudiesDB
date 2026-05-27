@@ -1,0 +1,71 @@
+{
+  "id": "curse-evil-eye-malevolent",
+  "name": "Curse / Evil Eye (Malocchio / Böser Blick)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+
+  "scholarly_definition": "The evil eye (Italian malocchio, German böser Blick, Latin fascinatio) designated harm caused by a malevolent glance or envious gaze, while the curse more broadly encompassed verbal imprecations directing harm toward a specific person or household. Both were understood as direct channels for malevolent intention to produce physical effects — illness, death, crop failure, livestock loss — without physical contact or visible mechanism. The evil eye belief was among the most ancient and geographically widespread human traditions, documented from classical antiquity through the early modern period across European, Middle Eastern, and South Asian cultures. In early modern Europe, it could trigger prosecution if illness followed a publicly witnessed encounter with someone known to have the evil eye.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Classical fascinatio theory: harmful visual emission from envious eyes (Pliny, Plutarch, Ovid)",
+      "Aristotelian optical theory: vision as active emission rather than passive reception",
+      "Folk traditions of amulet protection against evil eye across Mediterranean world"
+    ],
+    "early_modern_codification": [
+      "Medical literature on fascinatio as natural phenomenon (del Rio, Ficino)",
+      "Demonological reinterpretation of evil eye as demonic supplement to natural emission",
+      "Trial records documenting evil eye accusations"
+    ],
+    "formalization_sources": [
+      "Italian inquisitorial records with high evil eye prosecution rates",
+      "Medical theory of visual rays as disease-transmitting mechanism",
+      "Folk prophylactic traditions documenting fear of evil eye"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark shows that the evil eye was a philosophically serious concept in early modern intellectual culture, not mere superstition. The Aristotelian theory that vision involved active emission of visual rays from the eye — rays that could be tainted by emotional states like envy — gave the evil eye a naturalistic mechanism that learned men found plausible. Demonologists had to decide whether evil eye effects were natural (dangerous vision emission) or preternatural (demonic supplementation of natural process), with different answers producing different prosecutorial implications.",
+
+  "hutton_social_analysis": "Hutton situates evil eye beliefs within community social dynamics of envy, resource competition, and moral evaluation. The person identified as having the evil eye was typically one who expressed envy or was known to covet others' possessions. Accusations thus reflected community moral judgments about appropriate emotional responses to others' prosperity. The evil eye gave tangible form to the social anxiety that others' envy could cause harm — a universally human concern given social shape through magical belief.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg notes that evil eye beliefs were deeply embedded in folk culture and required no interrogation to produce — community members genuinely feared certain individuals' glances and took apotropaic precautions. The evil eye was one area where prosecuted belief genuinely reflected pre-existing community tradition rather than being manufactured through interrogation. However, the prosecution of evil eye as evidence of diabolic pact transformed a genuine folk belief into evidence for a charge that required entirely different mechanisms.",
+
+  "actor_perspective": {
+    "practitioner_language": "People believed to have the evil eye often understood themselves as having an involuntary capacity for harm through their gaze — not a chosen magical practice but an affliction. Some traditional accounts describe the evil eye person as themselves distressed by their capacity. The lack of intentionality in many evil eye traditions distinguished it sharply from deliberate cursing.",
+    "misalignment": "The prosecutorial transformation of evil eye from involuntary capacity (natural or supernatural affliction) into evidence of demonic pact and intentional maleficium was a significant reframing. The person who feared their own evil eye was not claiming satanic allegiance, but prosecution required exactly that reframing."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Catholic theology had to decide whether evil eye effects were natural (through visual ray emission), preternatural (through demonic supplementation), or supernatural (miraculous, impossible without divine involvement). The dominant answer — that the evil eye could be naturally dangerous but was most powerful when supplemented by demonic agency — positioned it on the spectrum from folk belief to prosecutable maleficium.",
+    "canonical_law": "Evil eye was not typically prosecuted as a capital witchcraft offence unless combined with other charges (pact evidence, repeated maleficium, deliberate cursing). Italian inquisitions often handled evil eye cases as superstitious practice rather than full diabolism, imposing penances rather than death."
+  },
+
+  "regional_variations": "Evil eye belief was strongest in Mediterranean cultures (Italian, Spanish, Greek) where it remains a living tradition. English prosecution records show less emphasis on evil eye as a category, though verbal curses appear regularly. German records show böser Blick accusations primarily in connection with bewitchment of children and livestock. The graduations of prosecution — from Italian penance to German capital charge — reflect different institutional approaches to magical harm.",
+
+  "scholarly_disagreement": "Historians debate whether evil eye prosecution was primarily a Mediterranean phenomenon or pan-European, and whether its relative absence from English prosecution records reflects genuine absence of the belief or institutional differences in prosecution. The naturalistic dimension (Aristotelian visual ray theory) has attracted attention as an example of how learned natural philosophy and folk belief converged around the same phenomenon.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "maleficium-concept",
+    "curse-evil-eye-malevolent",
+    "reputation-accumulation",
+    "community-disruption-model"
+  ],
+
+  "source_method": "Italian inquisitorial records; medical literature on fascinatio; trial documentation; classical sources on evil eye",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The evil eye is one of the clearest examples in witchcraft studies of a belief that was simultaneously a genuine, widely held folk conviction and a natural-philosophical theory with learned support. Its presence across so many cultures and time periods suggests it addresses something fundamental in human social psychology — the fear that envy can cause harm. The early modern period is distinctive in connecting this ancient belief to the demonological framework of pact and satanic allegiance, a connection that enabled prosecution while potentially distorting the genuine folk belief it was built upon.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

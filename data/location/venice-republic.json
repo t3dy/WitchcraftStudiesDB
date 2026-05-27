@@ -1,0 +1,66 @@
+{
+  "id": "venice-republic",
+  "name": "Republic of Venice",
+  "type": "Province",
+  "region": "Northern Italy / Mediterranean",
+  "modern_location": "Veneto and Friuli-Venezia Giulia, Italy",
+  "coordinates": {
+    "latitude": 45.437,
+    "longitude": 12.335
+  },
+
+  "administrative_context": "The Republic of Venice was an oligarchic city-state and maritime empire governed by the Doge and the Council of Ten. Its extensive mainland territories (terraferma) included Friuli, the Veneto, and other northeastern Italian regions. The Venetian Inquisition—the local tribunal of the Roman Inquisition under Venetian oversight—handled heresy and superstition cases with notable institutional moderation, rarely imposing capital punishment.",
+
+  "witchcraft_trials_significance": "The Republic of Venice is significant in witch trial historiography primarily as the jurisdiction that conducted the benandanti inquisitions in Friuli—Carlo Ginzburg's key research site. The Venetian Inquisition's institutional character profoundly shaped these prosecutions: its preference for penance, abjuration, and spiritual correction over execution meant that the Friulian benandanti were not executed but interrogated over decades, producing the rich testimony archive that Ginzburg analyzed. The Venetian terraferma also contained other notable inquisitorial sites including the trials of Gianfrancesco Pico della Mirandola's region.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Holy Office (Venetian Inquisition)",
+      "role": "Inquisitorial tribunal for the Republic of Venice",
+      "contribution_to_trials": "Conducted benandanti inquisitions in Friuli and heresy/superstition cases throughout Venetian territories; institutional moderation shaped the character of prosecution"
+    },
+    {
+      "name": "Tre Savii all'Eresia",
+      "role": "Venetian lay overseers of the Holy Office",
+      "contribution_to_trials": "Three elected Venetian laymen observed Inquisition proceedings; their oversight contributed to the institutional moderation of Venetian prosecution"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1575_onwards": "Benandanti inquisitions in Friuli; extended over approximately a century",
+    "16th_17th_centuries": "Various heresy and superstition cases throughout Venetian terraferma",
+    "1660s": "Last major benandanti inquisitions in Friuli"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Republic of Venice's mainland territories, primarily Friuli but also Veneto and other areas",
+    "social_reach": "Rural peasant communities in the terraferma; the benandanti were primarily agricultural workers",
+    "gender_distribution": "Mixed in the benandanti cases (predominantly male in early cases, more female in later ones)",
+    "mortality_impact": "Very low: the Venetian Inquisition's institutional moderation meant few capital executions; most accused received penances"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark notes that the Venetian Inquisition's moderation—the product of both institutional design and the lay oversight mechanism—demonstrates that institutional structure significantly shaped prosecution outcomes, with identical accusations producing penance in Venice versus execution in secular German courts.",
+    "hutton_perspective": "Hutton situates Venetian prosecution moderation within the broader pattern of inquisitorial restraint that he contrasts with secular court intensity: the Roman Inquisition's procedural caution and theological sophistication about the reliability of confessions produced consistently lower execution rates than secular courts.",
+    "ginzburg_perspective": "Venice is Ginzburg's institutional context: the Venetian Inquisition's relative mildness preserved the benandanti as living practitioners who continued to testify across generations, providing the long-run evidence base that makes the Friuli cases uniquely valuable for his argument."
+  },
+
+  "legacy_and_historiographical_importance": "Venice is inseparable from Ginzburg's scholarly legacy: the Archivio di Stato di Venezia, with its Inquisition records, is the source archive for The Night Battles. John Martin's Venice's Hidden Enemies (1993) provides context for Venetian heresy prosecution more broadly.",
+
+  "primary_sources": "Archivio di Stato di Venezia, Sant'Uffizio (Holy Office) records; analyzed in Ginzburg, Night Battles; Martin, Venice's Hidden Enemies",
+
+  "source_method": "Published scholarship (Ginzburg, Martin, Levack), Venetian State Archives",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

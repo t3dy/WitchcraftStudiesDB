@@ -1,0 +1,69 @@
+{
+  "id": "pittenweem-1704-trials",
+  "name": "Pittenweem Witch Trials",
+  "location_id": "scotland-general",
+  "year_start": 1704,
+  "year_end": 1705,
+  "alleged_accused_count": 8,
+  "executed_count": 1,
+  "regional_context": "Pittenweem, Fife, Kingdom of Scotland; post-Union period; witchcraft still a capital crime but judicial elite increasingly skeptical; local community attitudes lagged behind elite skepticism",
+
+  "summary": "The Pittenweem trials (1704-1705) represent the last significant Scottish witch case and are particularly notable for the mob lynching of Janet Cornfoot in January 1705 — the last mob murder of an alleged witch in Scotland. The prosecution began when a young blacksmith's apprentice, Patrick Morton, accused several local women of bewitching him. The local minister Reverend Patrick Cowper drove the prosecution vigorously, but higher courts released some of the accused as insufficient evidence emerged. Janet Cornfoot, released from prison on bail, was seized by a mob, repeatedly tortured, and crushed to death under a heavy door with stones piled on it on January 30, 1705. No legal action was ever taken against those responsible.",
+
+  "historiographical_significance": "The Pittenweem case illustrates the growing divergence between elite judicial skepticism and popular belief that characterized the last decades of early modern witch prosecution. By 1704, Scottish courts were reluctant to convict on standard witchcraft evidence, but popular belief and community fear remained intense. Janet Cornfoot's mob murder shows what happened in this gap: when courts refused to provide the execution that community fear demanded, extrajudicial violence substituted for judicial process. This pattern — judicial decline enabling mob violence — also appears in the final English cases. The failure to prosecute Cornfoot's murderers is itself historically significant: the state was unable or unwilling to defend accused witches against community violence even when it would not convict them.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Reverend Patrick Cowper (Pittenweem minister); local kirk session",
+    "prosecuting_officials": "Kirk session; local magistrates; higher courts that eventually released most accused",
+    "procedure": "Kirk session investigation leading to criminal prosecution; torture reportedly applied in early stages; higher courts skeptical; accused released on bail",
+    "torture_methods": ["sleep deprivation", "pricking for witch's mark"],
+    "trial_phases": [
+      {
+        "phase": "Patrick Morton's accusations (1704)",
+        "context": "Apprentice develops fits; accuses local women; Rev. Cowper drives prosecution vigorously"
+      },
+      {
+        "phase": "Arrests and initial prosecutions (1704)",
+        "context": "Several women imprisoned; one dies in prison; courts begin releasing others as evidence insufficient"
+      },
+      {
+        "phase": "Lynching of Janet Cornfoot (January 30, 1705)",
+        "context": "Cornfoot released on bail; seized by mob; crushed to death — last mob witch murder in Scotland"
+      },
+      {
+        "phase": "Aftermath and non-prosecution (1705)",
+        "context": "No legal action against mob participants; Morton later confessed his accusations were fabricated"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate the relative responsibility of Rev. Cowper versus community members in driving the Pittenweem prosecution. Cowper's persistent pursuit of the accused despite higher-court skepticism suggests clerical-driven prosecution; but the mob's response to Cornfoot's release suggests genuine community fear. Morton's later confession also raises questions about how much of the prosecution rested on fabricated rather than genuinely believed accusation.",
+
+  "accused_persons": [
+    "janet-cornfoot-pittenweem-1705"
+  ],
+
+  "related_trials": [
+    "paisley-1697-bargarran",
+    "dornoch-1727-horne"
+  ],
+
+  "source_method": "Scottish Privy Council records; contemporary pamphlet literature; Levack, *Witch-Hunting in Scotland* (2008); P.G. Maxwell-Stuart's analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Pittenweem's mob murder of Cornfoot represents the pathology of the transition period between active judicial prosecution and legal abolition. When courts stopped convicting, they did not simultaneously eliminate popular belief or community fear — they merely removed the institutional channel through which that fear had been managed. Extrajudicial violence filled the gap. This suggests that the decline of witch prosecution was not a smooth cultural transition but a period of institutional-popular divergence in which individuals could be left more vulnerable rather than less, as legal protection diminished while community accusation continued. The case is also a reminder that 'the end of witch-hunting' was experienced differently by different social actors.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

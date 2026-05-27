@@ -1,0 +1,76 @@
+{
+  "id": "davies-owen-b1969",
+  "name": "Owen Davies",
+  "birth_year": 1969,
+  "death_year": null,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "History",
+  "primary_institution": "University of Hertfordshire",
+  "specialization": "Post-Reformation cunning folk; continuity of magical practice after witch trials; popular magic in modern England",
+  "major_works": [
+    {
+      "title": "Popular Magic: Cunning-folk in English History",
+      "year": 2003,
+      "publisher": "Hambledon Continuum",
+      "significance": "Comprehensive study of cunning folk in England from Reformation to twentieth century; showed continuity of magical practice service after witch-trial era ended",
+      "database_entry": null
+    },
+    {
+      "title": "Witchcraft, Magic and Culture 1736-1951",
+      "year": 1999,
+      "publisher": "Manchester University Press",
+      "significance": "Post-prosecution popular magical beliefs and their legal and cultural management in modern England",
+      "database_entry": null
+    },
+    {
+      "title": "America Bewitched: The Story of Witchcraft After Salem",
+      "year": 2013,
+      "publisher": "Oxford University Press",
+      "significance": "Extension of cunning folk analysis to American context; post-Salem popular witchcraft and magic",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Magical belief and practice did not end with the witch trials; cunning folk continued to operate in England well into the nineteenth and twentieth centuries, serving community needs for healing, divination, and counter-magic. The end of formal prosecution did not indicate the end of belief; it indicated a change in how the state managed popular magic.",
+  "methodological_approach": {
+    "primary_materials": "Newspaper records, court records for petty offenses related to magic, folklore collection records, parish records from post-1736 England",
+    "analysis_target": "Continuity of cunning folk practice after Witchcraft Act 1736; social functions of popular magic; legal and cultural management of magical practitioners",
+    "evidence_type": "Archival survey of post-prosecution period; newspaper and court record analysis; continuity across before/after periodization",
+    "explanatory_level": "Social-functional: magic serving community needs across changing legal and religious contexts"
+  },
+  "key_contributions": [
+    {
+      "concept": "Post-prosecution magical continuity",
+      "claim": "Cunning folk and popular magical practitioners continued operating in England in substantial numbers through the nineteenth century and beyond, demonstrating that legal suppression did not end magical practice",
+      "implication": "The witch trial period cannot be sharply periodized from what followed; magical belief and practice show long-term continuity"
+    },
+    {
+      "concept": "Cunning folk as legitimate professionals",
+      "claim": "Cunning folk operated as recognized community specialists in healing, lost property recovery, and counter-magic; they were not marginal figures but integrated practitioners",
+      "implication": "Extends Hutton's social history of cunning folk into the post-prosecution period"
+    },
+    {
+      "concept": "State management of magic",
+      "claim": "After 1736, the state managed popular magic through fraud laws and public health regulation rather than demonological prosecution; the form of control changed but not the attempt to control",
+      "implication": "State regulation of magical practice is continuous across the prosecution/post-prosecution divide"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["hutton-ronald-b1953", "thomas-keith-b1933"],
+    "creative_tension_with": ["muchembled-robert-b1944"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Keith Thomas, Ronald Hutton, English social history; folklore studies",
+    "criticisms": [
+      "English focus limits applicability to Continental patterns",
+      "The cunning folk tradition may be too specific to English religious culture to generalize",
+      "Some argue Davies underweights the changes in magical culture that did occur after the prosecution period"
+    ]
+  },
+  "historiographical_significance": "Davies established the study of post-prosecution popular magic as a legitimate historical field, demonstrating that 1736 (end of English prosecutions) was not a cultural discontinuity but a legal one. His comprehensive survey of cunning folk extends Ronald Hutton's social history methodology into the modern period and provides essential evidence for long-term continuity of magical culture in England.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "fairy-faith-supernatural",
+  "name": "Fairy Faith (Fairy Knowledge vs. Demonic Framework)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Scotland",
+
+  "scholarly_definition": "The fairy faith designates the corpus of folk beliefs about supernatural beings — fairies, the good folk, the little people, the sídhe — that existed in British Isles and Irish traditions as a framework for explaining misfortune, missing persons, illness, changelings, and supernatural encounters. In early modern prosecution contexts, some accused persons claimed their magical knowledge came from fairies rather than from demonic sources, a claim that created interpretive difficulties for prosecutors committed to demonological frameworks. Scottish and Irish cases provide the richest documentation of accused persons invoking fairy origins for their powers, and the clash between fairy-framework and demon-framework reveals the plurality of supernatural belief systems coexisting in early modern British culture.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Medieval romance and exemplum literature on fairy encounters",
+      "Celtic traditions of the sídhe and the Otherworld",
+      "Folk beliefs in the 'Good Neighbours' as euphemistic acknowledgment of ambiguous supernatural powers"
+    ],
+    "early_modern_codification": [
+      "Andro Man (Aberdeen, 1597) claiming Queen of Elfhame as his mistress",
+      "Bessie Dunlop (Ayrshire, 1576) claiming fairy knowledge",
+      "Alison Pearson (Fife, 1588) drawing on fairy knowledge claims",
+      "Robert Kirk's *The Secret Commonwealth* (1691) — learned reconstruction of fairy faith"
+    ],
+    "formalization_sources": [
+      "Scottish witch trial records with fairy testimony",
+      "Emma Wilby's analysis of Scottish cunning folk and fairy familiars",
+      "Hutton's research on fairy faith as distinct tradition"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark notes that the fairy framework posed a specific intellectual problem for Protestant demonologists in Scotland: if accused persons claimed fairy teachers rather than demonic ones, were they guilty of witchcraft? The Presbyterian response was typically to assert that fairies were simply demons in disguise — the Queen of Elfhame was Satan, whatever the accused called her. This interpretive move closed the conceptual gap between fairy belief and demonic pact doctrine, enabling prosecution despite the accused's resistance to demonological framing.",
+
+  "hutton_social_analysis": "Hutton argues that fairy faith represented a genuinely distinct cosmological tradition that competed with and partially overlapped with demonological frameworks. Some Scottish and Irish practitioners genuinely understood their supernatural helpers as fairies — morally ambiguous but not inherently demonic — within a cosmology where the boundaries between human and supernatural worlds were more permeable than Protestant theology allowed. The prosecution of fairy-claiming practitioners forced an interpretive choice between fairy and demon categories that the folk tradition had never required.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's cross-cultural framework situates Scottish fairy faith within a broader pattern of shamanic traditions involving contact with an Otherworld inhabited by supernatural beings who conveyed knowledge and power. The Scottish fairy practitioners' accounts — visits to fairy hills, learning healing knowledge from fairy queens, participating in nocturnal fairy processions — parallel the benandanti's spirit-battle accounts and Siberian shamanic initiation narratives. Ginzburg sees these as distorted records of genuine ecstatic traditions, not pure fiction.",
+
+  "actor_perspective": {
+    "practitioner_language": "Scottish practitioners who claimed fairy knowledge used a vocabulary of encounter, negotiation, and service: being taken to fairy hills, receiving gifts of knowledge or power, sometimes against their will, sometimes in exchange for services. The fairy relationship was ongoing and reciprocal, not a one-time pact. This differed structurally from the demonic pact narrative of surrender and service.",
+    "misalignment": "The gap between the fairy-knowledge framework (ongoing reciprocal relationship with morally complex supernatural beings) and the demonic pact framework (formal apostasy and surrender to Satan) was substantial. Scottish prosecutors typically resolved it by declaring fairies to be demons regardless of accused persons' terminology, a move accused persons sometimes explicitly resisted."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Protestant Scottish demonology (and pre-Reformation Catholic demonology) recognized no morally neutral supernatural beings — everything supernatural was either divine or demonic. Fairies therefore had to be demons, whatever popular tradition called them. This theological commitment drove the interpretive assimilation of fairy belief to demonological framework.",
+    "canonical_law": "Scottish witch prosecution under the 1563 Act did not specifically address fairy claims; prosecution proceeded under general witchcraft provisions, with interrogators asserting that fairy encounters constituted demonic pact regardless of accused persons' terminology."
+  },
+
+  "regional_variations": "Fairy faith was strongest in Scotland, Ireland, and the Celtic regions of England and Wales. It was weaker or differently configured in England and nearly absent in Continental European prosecution records. The distinctiveness of the British fairy tradition compared to Continental demonological focus reflects genuine regional variation in supernatural cosmology rather than prosecution differences alone.",
+
+  "scholarly_disagreement": "Emma Wilby's work on Scottish cunning folk and fairy familiars argues that fairy belief was a genuine and coherent cosmological system, not merely folk superstition or veiled demonology. Hutton broadly agrees. More skeptical historians suggest that fairy claims were strategic — a way to claim supernatural power while avoiding demonic pact charges. The extent to which practitioners genuinely believed in fairy contacts versus strategically deployed fairy language remains debated.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "familiar-spirit-english",
+    "cunning-folk-services",
+    "benandanti-fertility-defenders",
+    "changeling-belief",
+    "night-riding-strix"
+  ],
+
+  "source_method": "Scottish witch trial records; Emma Wilby's cunning folk research; Hutton's fairy faith analysis; Kirk's Secret Commonwealth",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The fairy faith cases represent some of the most compelling evidence for Ginzburg's thesis that European witch prosecutions encountered genuinely diverse folk belief systems rather than a single diffused superstition. The resistance of some Scottish accused persons to demonological reinterpretation of their fairy experiences — insisting they dealt with fairies, not demons — provides rare moments of practitioner voice in the prosecution record. These moments are precious for what they reveal about genuine folk cosmology before its suppression by prosecution pressure.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

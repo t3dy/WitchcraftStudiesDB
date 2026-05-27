@@ -1,0 +1,69 @@
+{
+  "id": "larner-christina-1934-1983",
+  "name": "Christina Larner",
+  "birth_year": 1934,
+  "death_year": 1983,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "Sociology and History",
+  "primary_institution": "University of Glasgow",
+  "specialization": "Scottish witch-hunting; state formation; gender and prosecution; Calvinist religious culture",
+  "major_works": [
+    {
+      "title": "Enemies of God: The Witch-Hunt in Scotland",
+      "year": 1981,
+      "publisher": "Chatto and Windus",
+      "significance": "Foundational study of Scottish witch-hunting integrating state formation theory with gender analysis; argued prosecution was both religiously driven and politically functional",
+      "database_entry": "larner-enemies-of-god-1981"
+    },
+    {
+      "title": "Witchcraft and Religion: The Politics of Popular Belief",
+      "year": 1984,
+      "publisher": "Blackwell",
+      "significance": "Posthumous collection of essays on the politics of witchcraft belief; influential despite Larner's early death",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Scottish witch-hunting was driven by Calvinist state formation: the post-Reformation Scottish state, led by Kirk and crown, used witch prosecution as a mechanism for imposing godly discipline on the population. While witch-hunting was 'woman-hunting' in the sense that women were disproportionately targeted, this was not the exclusive or primary motivation; state religious ideology was the driving force.",
+  "methodological_approach": {
+    "primary_materials": "Scottish privy council records, circuit court records, presbytery records from 1560-1727; state and church administrative documents",
+    "analysis_target": "State-church institutional dynamics; gender demographics of accused; relationship between persecution intensity and political/religious crisis",
+    "evidence_type": "Institutional analysis combined with quantitative prosecution data; sociological state-formation theory applied to historical record",
+    "explanatory_level": "State-formation and religious ideology: macro-political structure driving persecution"
+  },
+  "key_contributions": [
+    {
+      "concept": "State formation and witch-hunting",
+      "claim": "The Scottish witch-hunt intensified during periods of Calvinist state-building; prosecution served the project of creating a godly commonwealth under Kirk discipline",
+      "implication": "Witch-hunting should be analyzed as a state-building tool, not only as popular superstition or community-level conflict"
+    },
+    {
+      "concept": "Woman-hunting qualification",
+      "claim": "Witch-hunting was disproportionately directed at women but was not solely or primarily about gender; religious and political factors were equally important",
+      "implication": "Gender cannot be the sole explanatory variable; it operated within a matrix of religious and state power"
+    },
+    {
+      "concept": "Calvinist religious culture",
+      "claim": "The specifically Calvinist theology of Scottish Protestantism — its emphasis on devil's power, moral discipline, and godly polity — created uniquely intense conditions for witch-hunting",
+      "implication": "Denominational differences in Protestant theology produced different prosecution intensities"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["goodare-julian-b1960", "levack-brian-b1943"],
+    "creative_tension_with": ["barstow-anne-llewellyn-b1936", "muchembled-robert-b1944"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Sociology of religion (Weber on Calvinist discipline), state formation theory, feminist historiography",
+    "criticisms": [
+      "Died at 49 before completing a projected comprehensive study",
+      "Some feminist historians felt her qualification of the 'woman-hunting' thesis was an understatement of gender's role",
+      "Scottish focus limits generalizability, though she explicitly contextualized Scotland comparatively"
+    ]
+  },
+  "historiographical_significance": "Larner's work gave Scottish witchcraft historiography its foundational framework and introduced state-formation theory to the field. Her contribution to feminist analysis — acknowledging gender while insisting on multi-causality — influenced subsequent gender historians including Roper. Her early death left a gap in Scottish witchcraft scholarship that Goodare's Survey of Scottish Witchcraft later partially addressed.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "animal-bewitchment",
+  "name": "Animal Bewitchment (Livestock Maleficium)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+
+  "scholarly_definition": "Animal bewitchment designated the alleged magical harm to livestock — causing illness, death, milk loss in dairy cattle, breeding failure, and related economic damage — through the witch's malefic power. This was one of the most commonly charged categories of maleficium in European witch trials, reflecting the central economic importance of livestock in agrarian communities. The loss of a cow, pig, or working horse could mean economic ruin for a small-holding family, making such losses acutely felt and requiring explanation. Animal bewitchment accusations typically emerged from specific community conflicts (a neighbourly dispute preceding the livestock's illness) and provided the concrete harm charge at the foundation of many prosecutions.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Roman veneficium law covering harm to animals as well as persons",
+      "Medieval folk beliefs in 'overlooking' or 'ill-wishing' cattle",
+      "Agricultural protective magic traditions across European peasant communities"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum cataloguing livestock maleficia specifically",
+      "Trial records documenting cattle-illness charges as prosecution foundation",
+      "Counter-magic traditions (witch bottles, protective charms for byres) responding to animal bewitchment threat"
+    ],
+    "formalization_sources": [
+      "Agricultural court records documenting compensation claims",
+      "Church court records of consultation for bewitched animals",
+      "Veterinary folk literature distinguishing natural and supernatural illness"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark notes that animal bewitchment was the area where early modern natural philosophy and maleficium prosecution intersected most directly. Demonologists had to explain how the witch's malice was transmitted to animals — through demonic intermediaries, through visual or verbal emission, through physical contacts — in ways that connected to contemporary theories of animal physiology and humoral medicine. The theoretical elaboration required was less extensive than for human maleficium (animals lacked souls, so spiritual damage was not at issue), but the physical mechanism still required explanation.",
+
+  "hutton_social_analysis": "Hutton emphasises that animal bewitchment accusations arose from the texture of rural economic relations: disputes over grazing rights, property boundaries, debt repayment, neighbourly obligations. A person who had publicly quarrelled with a neighbour, whose livestock subsequently sickened, was an obvious suspect. The social logic of accusation was not random but tracked real community conflicts. Cunning folk profited from animal bewitchment fears by offering diagnostic and protective services — identifying bewitchment, prescribing counter-charms, and monitoring livestock health — which embedded them in the agricultural economy.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg notes that animal bewitchment confessions were among the most locally grounded and specific, with accused persons naming specific animals, specific farms, specific times. This specificity suggests either genuine local knowledge being extracted under interrogation, or genuine malefic intent and action by some accused. The problem for historical analysis is distinguishing between confessions that describe real events (genuine attempt at magical harm), confessions that accurately name incidents of natural animal death reinterpreted as maleficium, and confessions fabricated under torture.",
+
+  "actor_perspective": {
+    "practitioner_language": "People who had cursed or ill-wished a neighbour's animals might genuinely believe they had caused harm through their expressed malice. The line between feeling angry toward a neighbour's cattle and intentionally cursing them was fuzzy in communities that believed in the material power of strong emotion. Some accused persons admitted to having wished harm on animals, which they and the court treated as equivalent to causing it.",
+    "misalignment": "The translation of emotional ill-wishing or verbal curse into evidence of formal demonic pact overreached what most accusers and accused understood as their own practice. A spoken curse was not the same as a formal diabolic compact, but prosecution treated them as equivalent."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Animal bewitchment required demonic intermediation in the same way as human maleficium — the witch's malice alone could not kill a cow without satanic power enabling it. This meant every animal bewitchment charge carried implicit evidence of demonic pact. The economic significance of livestock also meant that animal maleficium was a serious charge in agrarian communities regardless of its theological implications.",
+    "canonical_law": "Animal bewitchment was a prosecutable maleficium under both secular and ecclesiastical law, with graduated penalties depending on the value of animals killed and the frequency of offence. It rarely produced capital sentences alone but combined with other charges became part of capital cases."
+  },
+
+  "regional_variations": "Milk-stealing magic was particularly prevalent in Scandinavian and North German cases (the trollhare or milk-hare motif). English cases showed high rates of pig and cattle bewitchment. German cases emphasised herd disease. The economic specificity of animal accusations tracked regional agricultural economies — dairy-dependent communities focused on milk magic, grain-dependent communities on draught animals.",
+
+  "scholarly_disagreement": "Historians debate whether animal bewitchment accusations were primarily economically motivated (protecting livestock investment), socially motivated (providing cause of action in community disputes), or genuinely believed as supernatural harm. The MacFarlane/Thomas charity-refused model fits animal bewitchment well — but Briggs argues the relationship between social conflict and accusation was more complex than this model suggests, with accusations following diverse social paths not reducible to a single pattern.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "maleficium-concept",
+    "milk-stealing-magic",
+    "weather-magic-maleficium",
+    "curse-evil-eye-malevolent",
+    "charity-refused-mechanism"
+  ],
+
+  "source_method": "Trial records; church court records; agricultural community documentation; counter-magic archaeological evidence",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Animal bewitchment is the most economically grounded witchcraft charge, connecting the history of witchcraft prosecution directly to agricultural history, early modern ecology, and animal husbandry. Behringer's research on climate and witch hunts intersects here — periods of livestock epidemic disease combined with bad harvests created cumulative economic stress that could trigger accusation cascades. The mundane economic foundation of animal bewitchment charges is a reminder that witchcraft prosecution was not primarily an intellectual affair but a community response to material suffering that required attributable cause.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

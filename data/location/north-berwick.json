@@ -1,0 +1,80 @@
+{
+  "id": "north-berwick",
+  "name": "North Berwick (East Lothian, Scotland)",
+  "type": "Town",
+  "region": "Scotland",
+  "modern_location": "East Lothian, Scotland",
+  "coordinates": {
+    "latitude": 56.057,
+    "longitude": -2.724
+  },
+
+  "administrative_context": "North Berwick was a small coastal burgh in East Lothian under Scottish royal jurisdiction. Witchcraft prosecutions in Scotland were conducted under the Witchcraft Act of 1563 and typically involved local secular courts followed by appeal or referral to the Privy Council. The North Berwick case was exceptional in being investigated directly by King James VI himself.",
+
+  "witchcraft_trials_significance": "The North Berwick witch trials of 1590-1591 are among the most politically significant witch trials in European history because they directly involved the personal intervention of King James VI of Scotland. The accused were alleged to have raised storms to destroy the fleet carrying James and his new bride Anne of Denmark from Copenhagen. James attended interrogations personally, questioned accused witches himself, and was so convinced of the diabolical conspiracy that he later wrote Daemonologie (1597), one of the most important royal demonological texts. The case directly shaped the intellectual environment for later Scottish prosecution.",
+
+  "trial_events": [
+    "north-berwick-1590-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "James VI of Scotland",
+      "role": "King of Scotland; personal investigator",
+      "contribution_to_trials": "Personally attended and conducted interrogations of accused witches at Holyrood; was convinced by confessions to the sabbath at North Berwick Kirk; wrote Daemonologie (1597) partly in response"
+    },
+    {
+      "name": "Agnes Sampson",
+      "role": "Accused — leading figure among the accused",
+      "contribution_to_trials": "Prominent healer and midwife; accused of leading the sabbath at North Berwick Kirk and raising storms; confessed under torture; executed"
+    },
+    {
+      "name": "John Fian",
+      "role": "Accused — schoolmaster of Saltpans",
+      "contribution_to_trials": "Accused of being secretary at the witches' sabbath; subjected to extreme torture including the boots; confessed, recanted, was re-tortured, and executed"
+    },
+    {
+      "name": "Francis Stewart, Earl of Bothwell",
+      "role": "Alleged instigator",
+      "contribution_to_trials": "Named by accused as the aristocratic patron who commissioned the magical attacks on the king; charged but fled and was eventually forfeited"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1590_autumn": "Geillis Duncan, a servant girl, begins exhibiting unusual behavior; under torture names other witches",
+    "1590_november_december": "Agnes Sampson, John Fian, and others arrested; James VI returns from Denmark and initiates personal investigation",
+    "1591_january": "James personally interrogates Agnes Sampson at Holyrood; extended examinations; sabbath narrative at North Berwick Kirk fully elaborated",
+    "1591_spring": "Executions including Agnes Sampson and John Fian; Earl of Bothwell implicated and flees",
+    "1591_1593": "Continued prosecutions connected to North Berwick case; Bothwell makes several failed attempts to regain royal favor"
+  },
+
+  "affected_population": {
+    "geographic_extent": "East Lothian, Midlothian, and surrounding areas of central Scotland",
+    "social_reach": "Unusual social range: from servant girls and local healers to a schoolmaster and an earl of the realm",
+    "gender_distribution": "Mixed: Agnes Sampson and several women central to the case, but notable male accused including Fian and Bothwell",
+    "mortality_impact": "At least 6 executed in the core case; wider investigations connected to it resulted in further deaths; precise total uncertain"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark reads James VI's Daemonologie as a serious intellectual contribution to demonological literature, noting that the king engaged with and responded to sceptical arguments (particularly Reginald Scot's Discoverie of Witchcraft) with theological and philosophical sophistication, placing the North Berwick case within a tradition of learned Protestant demonology.",
+    "hutton_perspective": "Hutton emphasizes the political dimension: the conspiracy narrative conveniently implicated Bothwell, James's most dangerous rival, suggesting that political anxieties shaped what the king 'heard' in the confessions, even if James's personal belief in diabolism was genuine.",
+    "ginzburg_perspective": "Ginzburg's attention to the content of confessional narratives illuminates how the North Berwick sabbath accounts combine distinctly Scottish popular traditions (folk healing, storm-raising) with continental learned demonology in ways that suggest both genuine popular belief and prosecutorial imposition."
+  },
+
+  "legacy_and_historiographical_importance": "The North Berwick case had direct political consequences: James VI's experience shaped his Daemonologie and, when he became James I of England in 1603, influenced the harsher English Witchcraft Act of 1604. The case thus connects Scottish local prosecution to the broader intellectual history of English witch hunting. Julian Goodare's work on Scottish witch hunting and Lawrence Normand and Gareth Roberts's edition of the primary sources are key scholarly contributions.",
+
+  "primary_sources": "Newes from Scotland (1591), pamphlet account; James VI, Daemonologie (1597); Scottish Privy Council records; examination transcripts partially surviving",
+
+  "source_method": "Published scholarship (Goodare, Clark, Levack), Daemonologie (primary), Newes from Scotland (primary)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "trier-1581-mass-persecution",
+  "name": "Trier Mass Witch Persecution",
+  "location_id": "trier",
+  "year_start": 1581,
+  "year_end": 1593,
+  "alleged_accused_count": 368,
+  "executed_count": 300,
+  "regional_context": "Electorate of Trier, Holy Roman Empire; Rhineland ecclesiastical territory",
+
+  "summary": "The Trier persecution (1581-1593) was one of the most devastating witch hunts of the sixteenth century, ultimately responsible for the execution of approximately 300 individuals across the Electorate of Trier and its surrounding territories. Archbishop Johann von Schönenberg authorized the campaign, which was prosecuted with particular intensity by the inquisitor Peter Binsfeld and the regional magistrate Dietrich Flade — who was himself later accused, convicted, and burned in 1589. The hunt decimated entire communities: contemporary reports claim that two villages in the region were left with only one female inhabitant each. Binsfeld's *Tractatus de Confessionibus Maleficorum et Sagarum* (1589), written during the hunt, became one of the most influential demonological texts of the period.",
+
+  "historiographical_significance": "The Trier persecutions occupy a central place in demonological history as the context for Peter Binsfeld's systematic treatise on witch confessions. Stuart Clark analyzes Binsfeld's *Tractatus* as a sophisticated theological argument for the validity of torture-extracted confessions, representing the intellectual apparatus that justified the hunt. The trial of Dietrich Flade — a senior judicial official and vice governor — demonstrates how accusation cascades could reach the very officials overseeing prosecutions. Levack uses Trier as a comparative case for understanding how concatenated denunciations across a large territory produced geographically dispersed but institutionally unified persecution.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "demonological-conspiracy",
+    "maleficium-weather-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Archbishop Johann von Schönenberg (r. 1581-1599)",
+    "prosecuting_officials": "Peter Binsfeld (auxiliary bishop and inquisitor); Dietrich Flade (regional judge, later accused); secular courts under episcopal oversight",
+    "procedure": "Ecclesiastical and secular mixed jurisdiction; systematic use of strappado and other torture; cascading denunciations from each accused",
+    "torture_methods": ["strappado", "thumbscrews", "squassation", "sleep deprivation"],
+    "trial_phases": [
+      {
+        "phase": "Initial village prosecutions (1581-1585)",
+        "context": "Harvest failures and livestock deaths attributed to weather magic; marginal rural women targeted first"
+      },
+      {
+        "phase": "Expansion and intensification (1585-1589)",
+        "context": "Prosecutions spread across the electorate; Binsfeld develops his demonological treatise; denunciations reach into urban and elite circles"
+      },
+      {
+        "phase": "Trial and execution of Dietrich Flade (1589)",
+        "context": "Flade, the chief judge himself, is accused, tortured, and burned — a watershed moment demonstrating no one is immune"
+      },
+      {
+        "phase": "Final phase and exhaustion (1590-1593)",
+        "context": "Villages left almost completely depopulated; prosecution winds down through sheer depletion of suspects and growing unease"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians dispute the precise death toll, which ranges from 300 to 500 depending on the source and whether satellite villages are counted within the Trier electorate. The case of Dietrich Flade raises particular interpretive questions: was his prosecution politically motivated by the Archbishop, or did it represent the prosecution mechanism running out of control? Some historians emphasize Binsfeld's intellectual contribution; others focus on the social panic dynamics that Binsfeld's treatise was attempting to justify after the fact.",
+
+  "accused_persons": [
+    "dietrich-flade-trier-1589"
+  ],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "wurzburg-1626-mass-prosecution",
+    "ellwangen-1611-persecution"
+  ],
+
+  "source_method": "Peter Binsfeld, *Tractatus de Confessionibus Maleficorum* (1589); contemporary chronicle of Archbishop Johann; Behringer's regional analysis; Levack's comparative study",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "Trier's most enduring contribution to witch-hunt scholarship is Binsfeld's treatise, which Clark treats as a paradigmatic example of demonological reasoning. Binsfeld argued systematically that confessions extracted under torture were valid testimony because demons — unable to protect their servants from God's justice — would allow the truth to emerge. This theological argument effectively neutralized the most obvious procedural objection to torture-based prosecution. The depopulation of villages is also a key datum for Hutton's social history: unlike theories emphasizing scapegoating of marginal individuals, Trier shows community-level destruction rather than targeted persecution of isolated suspects.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

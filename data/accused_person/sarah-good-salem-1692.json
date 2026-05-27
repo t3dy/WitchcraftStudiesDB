@@ -1,0 +1,52 @@
+{
+  "id": "sarah-good-salem-1692",
+  "name": "Sarah Good",
+  "status": "Executed",
+  "trial_id": "salem-1692",
+  "location_id": "salem-village",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": null,
+  "social_status": "Homeless beggar; impoverished woman",
+  "gender": "Female",
+  "biography": "Sarah Good was one of the most socially marginal of the Salem accused, living as a homeless vagrant with her husband William Good and their children, begging from house to house in the Salem area. She had fallen into poverty following failed marriages and had acquired a reputation for muttering curses at those who refused her charity — a classic social dynamic of the witch accusation pattern, where the beggar who was refused aid and then muttered became the suspected source of subsequent misfortune. Her very marginality made her a natural first target when the 1692 crisis required credible initial victims.\n\nGood was among the first three accused, along with Tituba and Sarah Osborne, on February 29, 1692. She was nursing an infant daughter, Dorcas, who would herself be accused and imprisoned. Good refused to confess and maintained her defiance throughout — legend has it that when the minister Nicholas Noyes, standing at the gallows, urged her to confess, she replied that she was no more a witch than he was a wizard and if he took away her life God would give him blood to drink. She was hanged July 19, 1692.",
+
+  "arrest_narrative": "Good was among the first three arrested following the initial accusations in February 1692. Her poverty, her habit of muttering, and her social marginality made her an obvious suspect. Unlike Tituba, who confessed, and unlike more respected members of the community, Good had no social capital to spend in her defense. Her nursing infant daughter was also accused and imprisoned, a detail that shocked even contemporaries who supported the proceedings.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {"session": 1, "method": "Examination before magistrates Hathorne and Corwin", "outcome": "Refused to confess; accused her husband instead"},
+      {"session": 2, "method": "Subsequent examinations", "outcome": "Maintained denial throughout"}
+    ],
+    "initial_response": "Defiant denial; turned and accused her husband William Good of being 'an enemy to all good'",
+    "final_confession_summary": "No confession; maintained innocence to gallows; nursing infant daughter Dorcas separately accused and imprisoned"
+  },
+
+  "accusations_against_them": [
+    "Tormenting afflicted girls through spectral means",
+    "General maleficium",
+    "Sending specter to torment accusers",
+    "Muttering curses at those who refused her charity (pre-trial reputation)"
+  ],
+
+  "execution_details": {
+    "date": "1692-07-19",
+    "method": "Hanging",
+    "location": "Gallows Hill, Salem"
+  },
+
+  "historiographical_significance": "Good's case is central to understanding the social dynamics of Salem as a persecution targeting the most vulnerable. As a homeless vagrant, she had no social resources to defend herself and no reason to trust that confession would save her (ultimately it did save others, though she had no way to know this). Her defiant refusal to confess has made her one of the more memorable figures in the Salem narrative. Her nursing infant daughter's imprisonment has been cited by historians as evidence of how the prosecutorial machinery could override even basic human instinct in the accusers.",
+
+  "source_method": "Salem witchcraft trial records; Rosenthal, Records of the Salem Witch-Hunt (2009); Boyer and Nissenbaum, Salem Possessed (1974)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-the-devils-snare-2002",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

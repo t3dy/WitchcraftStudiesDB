@@ -1,0 +1,77 @@
+{
+  "id": "wurzburg-1626-mass-prosecution",
+  "name": "Würzburg Mass Witch Persecution",
+  "location_id": "wurzburg",
+  "year_start": 1626,
+  "year_end": 1631,
+  "alleged_accused_count": 900,
+  "executed_count": 300,
+  "regional_context": "Prince-Bishopric of Würzburg, Holy Roman Empire; Franconian Circle",
+
+  "summary": "The Würzburg persecutions (1626-1631) represent one of the largest witch trials in European history, running simultaneously with the closely related Bamberg persecutions to form a Franconian 'axis of persecution.' Under Prince-Bishop Philipp Adolf von Ehrenberg, approximately 300 individuals were executed across 29 documented burning sessions. The trials distinguished themselves by targeting high-status victims including children, university students, cathedral canons, and members of the nobility, undermining the stereotype that witch persecutions targeted only marginal social figures. Ehrenberg himself had a nephew and his own son-in-law executed, illustrating how denunciations cascaded through elite networks.",
+
+  "historiographical_significance": "Würzburg challenges historians to explain why elite men and children figured prominently among the accused. Stuart Clark argues the prosecutions reflect the internal logic of demonological theory — once demonic conspiracy was accepted, no social category was immune. Brian Levack's comparative analysis situates Würzburg within the broader pattern of cascade prosecutions enabled by the use of torture-extracted denunciations. The case is critical for understanding the Thirty Years' War's contribution to witch-hunting: the combination of climatic deterioration, religious polarization, and political insecurity intensified prosecution pressure across Catholic Franconia.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "demonological-conspiracy",
+    "maleficium-weather-magic",
+    "female-susceptibility-theory"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Prince-Bishop Philipp Adolf von Ehrenberg (r. 1623-1631)",
+    "prosecuting_officials": "Secular and ecclesiastical courts under episcopal authority; suffragan bishop Friedrich Förner also active",
+    "procedure": "Inquisitorial procedure with systematic use of torture; denunciation lists extracted from each accused; mass burning sessions",
+    "torture_methods": ["strappado", "thumbscrews", "leg irons", "burning with sulfur"],
+    "trial_phases": [
+      {
+        "phase": "Initial phase (1626-1627)",
+        "context": "Prosecutions begin following poor harvests and crop failures attributed to weather magic; marginal persons targeted first"
+      },
+      {
+        "phase": "Expansion to elites (1627-1629)",
+        "context": "Cascade denunciations implicate nobles, clergy, children, and university students; 19 executions in single sessions"
+      },
+      {
+        "phase": "Peak persecution (1629-1630)",
+        "context": "High-profile executions including cathedral canons and the bishop's own relatives; panic spreads through all social strata"
+      },
+      {
+        "phase": "Collapse (1631)",
+        "context": "Bishop Ehrenberg dies; Swedish military advances force end of trials; survivors released"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Historians debate whether the Würzburg and Bamberg persecutions should be analyzed as a unified 'Franconian persecution' or as parallel but distinct institutional events. Behringer emphasizes shared personnel, legal frameworks, and demonological assumptions; others stress the independent jurisdictional dynamics of each prince-bishopric. The targeting of children and elites is also disputed — whether this represents institutional logic running to extremes, or specific social tensions within these communities, remains contested.",
+
+  "accused_persons": [
+    "frederica-von-seebach-wurzburg-1628",
+    "dorothea-flock-wurzburg-1629",
+    "george-haan-bamberg-1628"
+  ],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "eichstatt-1617-persecution",
+    "ellwangen-1611-persecution"
+  ],
+
+  "source_method": "Published trial records; Würzburg episcopal archives; Behringer's *Witches and Witch-Hunts* (2004); contemporary chronicles including the Würzburg Chronicle of Chancellor Haan",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "historiographical_notes": "Würzburg is particularly important for complicating simplistic social-marginality explanations of witch-hunting. The execution of children, students, and nobles demonstrates that demonological logic — once institutionally activated — could override the normal social protections afforded by status and gender. Clark's framework helps explain this: if demonic conspiracy was taken as a real theological fact, then powerful individuals made more dangerous witches, not less. Ginzburg's interrogation analysis of confessional records from the region shows the mechanical production of denunciations through torture-structured testimony.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

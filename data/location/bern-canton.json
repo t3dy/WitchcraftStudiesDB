@@ -1,0 +1,60 @@
+{
+  "id": "bern-canton",
+  "name": "Bern (Canton of Bern, Switzerland)",
+  "type": "Region",
+  "region": "Western Switzerland",
+  "modern_location": "Bern Canton, Switzerland",
+  "coordinates": {
+    "latitude": 46.948,
+    "longitude": 7.447
+  },
+
+  "administrative_context": "The Canton of Bern was one of the leading cantons of the Swiss Confederation, governed by its city council (Kleiner and Grosser Rat). By the 17th century Bern was a Reformed (Calvinist) Protestant city-state. Witch prosecution fell under the authority of Bern's secular courts, which had jurisdiction over criminal cases in the expanding Bernese territories.",
+
+  "witchcraft_trials_significance": "Bern experienced witch trials across multiple periods, with a notable cluster in 1669-1671. The Canton of Bern had been involved in witch prosecution since the early 15th century Alpine trials, and the 17th century cases represent a late continuation of the Swiss prosecution tradition. The Bernese cases are notable for occurring within a Reformed Protestant context and for the relatively restrained response of the Bern council compared to some other Swiss cantons.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Bern city council",
+      "role": "Governing authority over criminal prosecution",
+      "contribution_to_trials": "Exercised oversight over witch trials within Bernese territories; moderated some prosecutions through appellate review"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1420s_1430s": "Bern region involved in earliest Alpine witch prosecutions",
+    "1550s_1600s": "Intermittent prosecution in Bernese territories",
+    "1669_1671": "Notable cluster of trials in the canton"
+  },
+
+  "affected_population": {
+    "geographic_extent": "City of Bern and the extensive Bernese territories in the Mittelland and pre-Alps",
+    "social_reach": "Rural communities predominantly; occasional urban cases",
+    "gender_distribution": "Predominantly female among accused in the later 17th century cases",
+    "mortality_impact": "Multiple executions across the various prosecution periods; the 1669-1671 cluster involved several executions"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Bern's Reformed Protestant prosecution context demonstrates that the demonological framework was not exclusively Catholic: Calvinist theology's intense providentialism and its conception of diabolical agency provided an equally coherent framework for witch prosecution, even if the specific institutional mechanisms differed.",
+    "hutton_perspective": "Hutton situates the Bernese cases within the broader Swiss pattern of prosecution that spans from the 1420s Alpine trials through the 17th century, noting the long temporal continuity of prosecution in Swiss territories and the role of local secular courts in sustaining it.",
+    "ginzburg_perspective": "The Bern region's proximity to the earliest Alpine trial sites of the 1420s-1440s makes it relevant to questions about the formation and persistence of sabbath-based prosecution traditions in the western Alps."
+  },
+
+  "legacy_and_historiographical_importance": "Bern's witch trials form part of the broader Swiss persecution history analyzed by Eva Labouvie and in the broader western Swiss studies of Monter and others.",
+
+  "primary_sources": "Bern cantonal archives; analyzed in Monter, Witchcraft in France and Switzerland (1976) and subsequent scholarship",
+
+  "source_method": "Published scholarship (Monter, Levack, Behringer), Bern cantonal archives",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

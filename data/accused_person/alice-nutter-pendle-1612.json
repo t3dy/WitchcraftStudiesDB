@@ -1,0 +1,50 @@
+{
+  "id": "alice-nutter-pendle-1612",
+  "name": "Alice Nutter",
+  "status": "Executed",
+  "trial_id": "pendle-1612",
+  "location_id": "pendle",
+  "year_accused": 1612,
+  "year_executed": 1612,
+  "age_at_trial": null,
+  "social_status": "Gentlewoman; owner of Roughlee Hall",
+  "gender": "Female",
+  "biography": "Alice Nutter was a prosperous gentlewoman who owned Roughlee Hall in the Forest of Pendle, placing her far above the social level of the other accused in the 1612 trials. Her family was of yeoman stock that had risen to gentry status, and she had no obvious connection to the Demdike and Chattox families who formed the core of the prosecution. Why a woman of her standing was caught in a net that captured primarily the rural poor has puzzled historians for four centuries.\n\nNutter's most distinctive feature as an accused is her silence. Unlike most of the other Pendle accused, she made no confession, offered no testimony against others, and maintained her denial throughout. This extraordinary composure has generated extensive historical speculation — some have suggested she may have had something to conceal regarding her religious affiliations (possible crypto-Catholicism), others that she was protecting family members, others that she was simply maintaining her dignity and denying false charges. The mystery of her inclusion in the prosecution remains historically unresolved.",
+
+  "arrest_narrative": "Nutter was named as a participant in the Good Friday meeting at Malkin Tower by James Device's confession. This was the principal evidence against her — that she had attended the alleged conspiracy meeting. Her social status and distance from the other accused families made her arrest remarkable, and it remains unclear why she was specifically named or whether naming reflected genuine knowledge or confessional pressure to implicate someone of higher standing.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {"session": 1, "method": "Examination before Justice Nowell", "outcome": "Denial maintained throughout"}
+    ],
+    "initial_response": "Complete denial of all charges",
+    "final_confession_summary": "No confession was ever extracted; Nutter maintained her innocence throughout all proceedings"
+  },
+
+  "accusations_against_them": [
+    "Attendance at Good Friday meeting at Malkin Tower (conspiracy)",
+    "Participation in plot against the gaoler and imprisoned witches",
+    "General association with the Pendle witches"
+  ],
+
+  "execution_details": {
+    "date": "1612-08-20",
+    "method": "Hanging",
+    "location": "Lancaster"
+  },
+
+  "historiographical_significance": "Alice Nutter's case is the most historically mysterious of the Pendle trials. As a gentlewoman who maintained silence throughout, whose inclusion among the accused is unexplained by the usual social dynamics of witch accusation, and who left no confession to analyze, she represents the limits of what trial records can tell us. Scholarly debate continues over whether she had genuine connections to the accused families, whether crypto-Catholicism played a role, or whether her death was the product of some unknown local or political grievance. Her silence itself has become a historiographical subject.",
+
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assizes records; local family records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "briggs-witches-and-neighbours-1996",
+    "levack-witch-hunt-early-modern-europe-2006",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

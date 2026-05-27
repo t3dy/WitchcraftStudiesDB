@@ -1,0 +1,33 @@
+{
+  "id": "daneau-dialogue-witches-1574",
+  "title": "Les Sorciers: Dialogue Très Utile et Nécessaire pour ce Temps (A Dialogue of Witches)",
+  "author": "Lambert Daneau",
+  "author_id": null,
+  "year_published": 1574,
+  "language": "French",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Jean Bonnefoy, Geneva, 1574",
+  "modern_edition": "Available in early English translation (1575); no modern critical edition",
+  "significance": "Important early Reformed Protestant demonological text demonstrating that witch prosecution logic was not exclusively Catholic; shows how Calvinist theology generated its own witch-prosecution rationale.",
+  "summary": "Daneau's Dialogue is a short but influential work in dialogue form between two characters (Theophile and Anthony) discussing the reality of witchcraft and the appropriate Christian response. Daneau, a French Reformed minister associated with Theodore Beza in Geneva, argues that witches make real pacts with the devil and deserve prosecution. The text was quickly translated into English (1575) and Latin, indicating wide Protestant interest. Daneau argues from Reformed theological principles — emphasizing God's permission of diabolical activity as a test of faith — rather than from Catholic canon law, showing that Protestant demonology had its own internal logic.",
+  "clark_analysis": "Clark uses Daneau as evidence that Protestant demonology was intellectually substantive and internally coherent, not merely an importation of Catholic witch-belief. Reformed theology provided its own reasons for believing in the devil's active role in the world and the necessity of combating his agents, independent of the Catholic Scholastic tradition.",
+  "hutton_analysis": "Hutton notes Daneau's significance for demonstrating that the Genevan Reformed tradition was fully committed to witch prosecution despite its rejection of many Catholic practices and beliefs. This challenges any simple equation of Protestantism with skepticism about witchcraft.",
+  "ginzburg_analysis": "Ginzburg is less engaged with Daneau specifically; the text's dialogue format and Swiss Reformed context place it within the learned Protestant tradition that generally imposed elite demonological frameworks on accused persons rather than preserving popular belief structures.",
+  "key_arguments": [
+    "Witches make real diabolical pacts; this is not illusion or delusion",
+    "Reformed theology correctly identifies the devil as an active agent in the world, permitted by God",
+    "Witch prosecution is a Christian duty; magistrates must prosecute God's enemies",
+    "The Reformed church has stripped away Catholic superstitions but must preserve the truth about diabolical witchcraft",
+    "Skeptics err by underestimating the devil's power and activity"
+  ],
+  "influence_on_prosecutions": "Daneau's text contributed to establishing Reformed Protestant demonological consensus and influenced prosecution thinking in Geneva, the Pays de Vaud, and Calvinist areas of France. Its early English translation brought Reformed demonological arguments to English Protestant readers.",
+  "related_texts": ["kramer-malleus-maleficarum-1487", "james-vi-daemonologie-1597", "perkins-discourse-witchcraft-1608"],
+  "related_trials": [],
+  "scholarly_disagreement": "The relationship between Daneau's Reformed theology and his demonological conclusions has been analyzed differently; some scholars see his witch-belief as an adaptation of Catholic tradition, others as a genuinely Reformed development. The text's influence relative to other Reformed demonological sources (Perkins, James VI) is debated.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

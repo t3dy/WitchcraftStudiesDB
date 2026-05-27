@@ -1,0 +1,63 @@
+{
+  "id": "ellwangen",
+  "name": "Ellwangen (Baden-Württemberg, Germany)",
+  "type": "Ecclesiastical State",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Baden-Württemberg, Germany",
+  "coordinates": {
+    "latitude": 48.962,
+    "longitude": 10.133
+  },
+
+  "administrative_context": "Ellwangen was a Provostry (Fürstpropstei), an ecclesiastical territory in the Holy Roman Empire governed by the Provost of Ellwangen with both spiritual and secular authority. As a small ecclesiastical territory it had its own criminal court system. The persecution occurred under Provost Johann Christoph von Westerstetten (who later became Bishop of Eichstätt and continued persecution there).",
+
+  "witchcraft_trials_significance": "The Ellwangen persecution of 1611-1618 resulted in approximately 450 executions—an extraordinarily high toll for a small territory. Ellwangen was one of the most intensive per-capita witch hunts in European history, affecting virtually every community within the small provostry. The driving force was Provost Johann Christoph von Westerstetten, whose enthusiasm for prosecution he carried with him when he subsequently became Bishop of Eichstätt.",
+
+  "trial_events": [
+    "ellwangen-1611-persecution"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Johann Christoph von Westerstetten",
+      "role": "Provost of Ellwangen (1603-1613); subsequently Bishop of Eichstätt",
+      "contribution_to_trials": "Primary driver of the persecution; authorized and sustained the prosecutions; carried his prosecutorial methodology to Eichstätt after his promotion"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1611": "Persecution begins under Westerstetten's authority",
+    "1612_1615": "Peak intensity; multiple communities devastated; denunciation chains reach across the territory",
+    "1616_1618": "Prosecution continues at high level before gradually declining",
+    "1613": "Westerstetten elevated to Bishop of Eichstätt, taking his persecution policies with him"
+  },
+
+  "affected_population": {
+    "geographic_extent": "The territory of the Fürstpropstei Ellwangen; a small area but prosecuted with extraordinary intensity",
+    "social_reach": "All social strata within the small territory; the cascade prosecution exhausted communities of potential accused",
+    "gender_distribution": "Predominantly female among accused, consistent with the broader regional pattern",
+    "mortality_impact": "Approximately 450 executed, an extraordinary per-capita rate for the territory's small population"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "The Ellwangen case illustrates the role of individual magistrates in driving persecution: Westerstetten's personal commitment to prosecution, expressed first at Ellwangen then at Eichstätt, shows how institutional authority concentrated in a single individual could sustain persecution over extended periods.",
+    "hutton_perspective": "Hutton notes Ellwangen as a case of extreme small-territory persecution driven by ecclesiastical authority, where the compact nature of the territory and unified judicial command enabled prosecution to continue without the moderating pressures that larger territories might impose.",
+    "ginzburg_perspective": "The cascade prosecution dynamic at Ellwangen, where interrogation-extracted denunciations geometrically expanded the pool of accused, illustrates with particular clarity the mechanism by which the interrogation-shaped confession generated further prosecution."
+  },
+
+  "legacy_and_historiographical_importance": "Ellwangen is analyzed in Wolfgang Behringer's studies of south German witch prosecution and in Lyndal Roper's Witch Craze, which examines the south German persecution wave to which Ellwangen belongs.",
+
+  "primary_sources": "Ellwangen court records (Fürstpropstei archives); analyzed in Behringer and the standard surveys",
+
+  "source_method": "Published scholarship (Behringer, Roper, Levack), territorial court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,57 @@
+{
+  "id": "klaits-joseph-b1942",
+  "name": "Joseph Klaits",
+  "birth_year": 1942,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "Early Modern History",
+  "primary_institution": "Oakland University",
+  "specialization": "Psychological approach to prosecution; gender and sexuality in witch-hunting; French and Central European cases",
+  "major_works": [
+    {
+      "title": "Servants of Satan: The Age of the Witch Hunts",
+      "year": 1985,
+      "publisher": "Indiana University Press",
+      "significance": "Psychological approach to prosecution dynamics; analysis of gender and sexuality in demonological ideology; French and Central European case focus",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "Witch prosecutions were driven by psychological dynamics including fear of female sexuality and reproductive power, combined with clerical male anxiety about women's bodies. The psychological content of witch confessions — which focus heavily on diabolical sexual intercourse, bodily harm, and disruption of fertility — reveals deep cultural anxieties that motivated accusers and judges alike.",
+  "methodological_approach": {
+    "primary_materials": "Trial records and confessional narratives from France and Central Europe; demonological texts emphasizing sexual and bodily themes",
+    "analysis_target": "Psychological content of witch confessions; gender and sexuality in prosecution patterns; role of clerical male psychology in persecution",
+    "evidence_type": "Psycho-historical analysis of confession content; comparative case study approach",
+    "explanatory_level": "Psychological and cultural: gendered anxieties and clerical psychosexual dynamics as driving forces"
+  },
+  "key_contributions": [
+    {
+      "concept": "Clerical psychosexual anxiety",
+      "claim": "The emphasis on sexual intercourse with the devil in witch confessions reflects clerical male anxiety about female sexuality, projected onto accused women through leading questions and torture",
+      "implication": "The sexual content of demonology was not incidental but reflected the psychology of those conducting prosecutions"
+    },
+    {
+      "concept": "Fertility disruption as central fear",
+      "claim": "Fear of harm to crops, cattle, children, and reproductive capacity was the core content of maleficium charges, reflecting deep anxieties about subsistence and family survival",
+      "implication": "Witchcraft accusations were rooted in concrete economic and bodily fears, not merely theological abstraction"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["roper-lyndal-b1956", "barstow-anne-llewellyn-b1936"],
+    "creative_tension_with": ["clark-stuart-b1943", "briggs-robin-b1942"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Psychohistory; social history of gender; feminist historiography",
+    "criticisms": [
+      "Psychohistorical approach vulnerable to same anachronism objections as other psychoanalytic approaches",
+      "Less empirically grounded than regional specialists like Midelfort or Briggs",
+      "Synthesis work rather than primary archival research"
+    ]
+  },
+  "historiographical_significance": "Klaits provided an accessible synthesis of psychological and gender approaches to witch-hunting that helped bring these perspectives to students and non-specialist audiences. His emphasis on sexuality and fertility as core psychological drivers of prosecution anticipated more sophisticated treatments by Roper and others. His textbook synthesis served an important pedagogical function in establishing gender as a central analytical category.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

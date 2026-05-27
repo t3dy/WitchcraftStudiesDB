@@ -1,0 +1,63 @@
+{
+  "id": "eichstatt",
+  "name": "Eichstätt (Prince-Bishopric of Eichstätt)",
+  "type": "Ecclesiastical State",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Bavaria, Germany",
+  "coordinates": {
+    "latitude": 48.893,
+    "longitude": 11.189
+  },
+
+  "administrative_context": "The Prince-Bishopric of Eichstätt was an ecclesiastical territory in the Holy Roman Empire governed by the Bishop of Eichstätt with combined spiritual and secular authority. Located between Bamberg and Augsburg, it was embedded in the same Catholic ecclesiastical network as the neighbouring persecuting territories.",
+
+  "witchcraft_trials_significance": "The Eichstätt witch persecution of 1617-1637 is one of the more sustained German persecutions, with Bishop Johann Christoph von Westerstetten—who had already presided over the devastating Ellwangen persecution—bringing his prosecutorial methods to the larger territory of Eichstätt after his elevation to bishop in 1613. The Eichstätt persecution thus represents a direct continuity with and expansion of the Ellwangen case, driven by the same individual.",
+
+  "trial_events": [
+    "eichstatt-1617-persecution"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Johann Christoph von Westerstetten",
+      "role": "Bishop of Eichstätt (1613-1637)",
+      "contribution_to_trials": "Brought his persecution methodology from Ellwangen; sustained prosecution throughout his episcopate; represents institutional continuity of persecution across two territories"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1617": "Systematic witch prosecution begins under Westerstetten's episcopal authority",
+    "1620s": "Sustained persecution across the territory",
+    "1630s": "Continued prosecution; Thirty Years War begins to affect administrative coherence",
+    "1637": "Westerstetten's death ends the primary period of sustained persecution"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Prince-Bishopric of Eichstätt including its towns and rural parishes",
+    "social_reach": "Broad social impact across the territory; prosecution extended to men and women of various social positions under cascade denunciation",
+    "gender_distribution": "Predominantly female among accused",
+    "mortality_impact": "Several hundred executed across the twenty-year persecution under Westerstetten; precise totals from surviving records uncertain"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "The Eichstätt case, combined with Ellwangen, demonstrates how an individual bishop-prince with personal conviction in the diabolical conspiracy and institutional authority to act could sustain prosecution across multiple territories and decades.",
+    "hutton_perspective": "Hutton notes the pattern of individual official-driven persecution exemplified by Westerstetten: prosecution does not require mass popular demand but can be sustained by a single powerful official with institutional control, even in territories where local community dynamics might not have generated prosecution independently.",
+    "ginzburg_perspective": "The transfer of prosecutorial methods from Ellwangen to Eichstätt under the same individual illustrates how the interrogation-shaped confession template was portable—carried by officials rather than arising independently in each location."
+  },
+
+  "legacy_and_historiographical_importance": "Eichstätt is analyzed within the broader literature on south German Catholic ecclesiastical persecution, alongside Bamberg, Würzburg, and Ellwangen. The Westerstetten connection linking Ellwangen and Eichstätt has been noted as a case study in individual-driven persecution.",
+
+  "primary_sources": "Eichstätt episcopal court records; analyzed in Behringer and standard surveys of German witch hunting",
+
+  "source_method": "Published scholarship (Behringer, Levack, Roper), episcopal court records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

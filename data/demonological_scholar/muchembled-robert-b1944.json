@@ -1,0 +1,77 @@
+{
+  "id": "muchembled-robert-b1944",
+  "name": "Robert Muchembled",
+  "birth_year": 1944,
+  "death_year": null,
+  "birth_place": "France",
+  "academic_discipline": "Social and Cultural History",
+  "primary_institution": "Université Paris XIII (Paris Nord)",
+  "specialization": "Acculturation thesis; popular culture and elite suppression; Devil as cultural symbol",
+  "major_works": [
+    {
+      "title": "A History of the Devil: From the Middle Ages to the Present",
+      "year": 2003,
+      "publisher": "Polity Press",
+      "significance": "Long-term cultural history of devil symbolism showing how devil imagery served to suppress popular culture and enforce orthodoxy",
+      "database_entry": null
+    },
+    {
+      "title": "Popular Culture and Elite Culture in France 1400-1750",
+      "year": 1985,
+      "publisher": "Louisiana State University Press",
+      "significance": "Foundational statement of acculturation thesis; witch-hunt as tool of elite cultural dominance",
+      "database_entry": null
+    },
+    {
+      "title": "La Sorcière au village (The Village Witch)",
+      "year": 1979,
+      "publisher": "Gallimard",
+      "significance": "Regional study of Artois witchcraft prosecutions applying acculturation thesis",
+      "database_entry": null
+    }
+  ],
+  "historiographical_position": "SOCIAL HISTORY",
+  "core_argument": "The witch-hunt was a mechanism of acculturation — the systematic suppression of popular culture by educated elites. The Devil of demonological treatises became the vehicle through which priests, judges, and literate elites imposed orthodox Christian morality on peasant populations whose practices (healing, seasonal rituals, village magic) were reinterpreted as diabolical. Witch-hunting was cultural warfare disguised as religious prosecution.",
+  "methodological_approach": {
+    "primary_materials": "Regional trial records (especially Artois and northern France); popular literature and almanacs; church disciplinary records",
+    "analysis_target": "Cultural gap between elite and popular religion; mechanisms of cultural suppression through witch prosecution",
+    "evidence_type": "Comparative cultural analysis; Annales-influenced long-duration study; class and culture analysis",
+    "explanatory_level": "Cultural-structural: elite vs. popular culture conflict mediated through religious institutions"
+  },
+  "key_contributions": [
+    {
+      "concept": "Acculturation thesis",
+      "claim": "Witch prosecutions were primarily instruments of cultural domination by literate elites over popular peasant culture, not expressions of popular demand",
+      "implication": "The witch-hunt's ultimate target was the autonomous cultural world of peasants, not individual witches"
+    },
+    {
+      "concept": "Devil as cultural weapon",
+      "claim": "Demonological construction of the Devil allowed elites to criminalize popular healing, seasonal practices, and village religion by labeling them diabolical",
+      "implication": "Demonology was not intellectually autonomous; it served cultural power interests"
+    },
+    {
+      "concept": "Long cultural duree of devil symbolism",
+      "claim": "The Devil as cultural symbol persisted and transformed over centuries, maintaining its function of legitimizing social control",
+      "implication": "Witchcraft scholarship must engage with long-term cultural history, not only the peak prosecution period"
+    }
+  ],
+  "scholarly_relationships": {
+    "alignment_with": ["thomas-keith-b1933", "larner-christina-1934-1983"],
+    "creative_tension_with": ["clark-stuart-b1943", "briggs-robin-b1942", "ginzburg-carlo-b1939"]
+  },
+  "reception_and_critique": {
+    "major_influences": "Annales school (Braudel, Le Goff), Marxist cultural history, Michel Vovelle",
+    "criticisms": [
+      "Briggs and others argue community-level evidence shows accusation coming from below, not imposed from above",
+      "Clark argues the acculturation thesis undervalues demonological thought as an intellectually serious tradition",
+      "Binary elite/popular culture model critiqued as oversimplified",
+      "Ginzburg's microhistorical evidence shows accused themselves sometimes had autonomous cultural frameworks"
+    ]
+  },
+  "historiographical_significance": "Muchembled introduced a structuralist Marxist-Annales framework to witchcraft history that placed prosecution in the context of long-term cultural domination. His acculturation thesis generated significant debate and forced historians to consider the relationship between prosecution and cultural power, even when his specific claims were contested. His work on the Devil as cultural symbol influenced religious and cultural history broadly.",
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

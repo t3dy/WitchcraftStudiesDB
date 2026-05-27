@@ -1,0 +1,69 @@
+{
+  "id": "great-scottish-witch-hunt-1661",
+  "name": "Great Scottish Witch Hunt of 1661-1662",
+  "location_id": "scotland-general",
+  "year_start": 1661,
+  "year_end": 1662,
+  "alleged_accused_count": 660,
+  "executed_count": 300,
+  "regional_context": "Kingdom of Scotland; Restoration political context following Charles II's return; Scottish Parliament reasserting authority; widespread local commission-issuing across all Scottish regions",
+
+  "summary": "The Great Scottish Witch Hunt of 1661-1662 was the largest single-episode Scottish prosecution, with approximately 660 individuals accused within a single year following the Restoration of Charles II. Prosecutions spread across virtually every Scottish region as the newly reconstituted Scottish Parliament issued local commissions widely, creating a geographically dispersed but temporally concentrated panic. Isobel Gowdie's celebrated voluntary confession at Auldearn occurred in 1662 within this broader context. The hunt is interpreted primarily in terms of Restoration politics: the reassertion of royal authority required demonstrations of civic order and the suppression of spiritual disorder, and witch prosecution served this function.",
+
+  "historiographical_significance": "Christina Larner's pioneering work *Enemies of God* (1981) established the analytical framework for understanding the 1661-1662 hunt primarily through political sociology: the Restoration created incentives for local magistrates to demonstrate zeal and loyalty through active prosecution, while the Parliament's commission-issuing policy created the procedural infrastructure. Larner's approach anticipated later arguments about the role of state formation in driving witch-hunting — the construction of witch prosecution as a demonstration of sovereign power. Levack's comparative analysis situates 1661-1662 within the broader pattern of Scottish major hunts (1590, 1597, 1628-30, 1649, 1661-62) as evidence that Scottish prosecution was episodic rather than continuous, with major panics triggered by specific political conditions.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic",
+    "demonological-conspiracy"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Scottish Parliament under Restoration monarchy; Charles II; local commissioners issued across all regions",
+    "prosecuting_officials": "Local lairds and sheriffs empowered by parliamentary commissions; church sessions providing initial investigation; various regional judges",
+    "procedure": "Commission-based procedure; wide regional distribution creating decentralized but simultaneous prosecutions; torture applied in many jurisdictions; witch's mark search routine",
+    "torture_methods": ["sleep deprivation (waking)", "pilniewinks", "boot", "witch's mark pricking"],
+    "trial_phases": [
+      {
+        "phase": "Commission-issuing outbreak (late 1661)",
+        "context": "Scottish Parliament floods country with local commissions; prosecutions begin across multiple regions simultaneously"
+      },
+      {
+        "phase": "Peak prosecution (1661-1662)",
+        "context": "Approximately 660 accusations across Scotland; hundreds of executions; Isobel Gowdie's voluntary confession at Auldearn (May 1662)"
+      },
+      {
+        "phase": "Privy Council restraint (1662)",
+        "context": "Privy Council becomes alarmed at scale; begins restricting commission-issuing; prosecution rate drops sharply by end of 1662"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Larner's political-sociological explanation (Restoration politics driving prosecution) has been influential but debated. Some historians argue the 1661-1662 hunt requires more local-level explanation: community-level accumulated suspicions and personal conflicts that the commission structure enabled to come to trial, rather than top-down political pressure. The relationship between royal politics and local community dynamics remains a central unresolved tension in Scottish witch-hunt historiography.",
+
+  "accused_persons": [
+    "isobel-gowdie-auldearn-1662"
+  ],
+
+  "related_trials": [
+    "north-berwick-1590-trials",
+    "auldearn-1662-gowdie",
+    "aberdeen-1597-trials"
+  ],
+
+  "source_method": "Scottish Privy Council registers; Scottish Parliament records; Christina Larner, *Enemies of God* (1981); P.G. Maxwell-Stuart, *Satan's Conspiracy* (2001)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "The 1661-1662 hunt illustrates the political-institutional triggering mechanism for mass prosecution at its clearest. The commission-issuing decision by the Scottish Parliament effectively unleashed accumulated local suspicions that had been unable to reach trial under normal judicial procedures. This suggests a model of prosecution as reservoir-and-valve: communities accumulated suspicions and accusations over years, and institutional mechanisms (commissions, panic periods) opened the valve allowing them to flood into court. When the Privy Council closed the valve by restricting commissions in 1662, the rate dropped immediately — evidence that judicial infrastructure rather than communal panic was the limiting factor.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

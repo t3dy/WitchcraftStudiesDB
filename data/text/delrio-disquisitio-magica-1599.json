@@ -1,0 +1,33 @@
+{
+  "id": "delrio-disquisitio-magica-1599",
+  "title": "Disquisitionum Magicarum Libri Sex",
+  "author": "Martín Del Rio",
+  "author_id": null,
+  "year_published": 1599,
+  "language": "Latin",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Birckmann, Cologne, 1599-1600",
+  "modern_edition": "Del Rio, Martín, Investigations into Magic, trans. P.G. Maxwell-Stuart, Manchester University Press, 2000",
+  "significance": "The most scholarly and encyclopedic demonological work of the era; its six-book systematic treatment was used as a legal reference in courts across Catholic Europe and represented the summit of Jesuit demonological learning.",
+  "summary": "Del Rio's six-book Disquisitionum draws on an extraordinarily wide range of classical, patristic, Scholastic, legal, and contemporary sources to create the most comprehensive demonological reference work of the period. Book I covers natural and artificial magic. Book II addresses maleficium, witchcraft, and diabolical operations in detail. Books III-VI cover divination, judicial procedure, and remedies. Del Rio's Jesuit training is evident in the rigorously scholastic organization and the careful engagement with objections and counterarguments. Despite this scholarly balance, Del Rio's conclusions are firmly prosecutorial: witchcraft is real, dangerous, and must be vigorously suppressed.",
+  "clark_analysis": "Clark treats Del Rio as the exemplary synthesis of learned demonological tradition: his comprehensive engagement with objections shows the intellectual seriousness of the tradition, his Jesuit training means he cannot be dismissed as a credulous barbarian, and his prosecutorial conclusions demonstrate how rigorous scholarship could support rather than challenge witch persecution.",
+  "hutton_analysis": "Hutton notes Del Rio's importance as a legal reference that gave intellectual cover to prosecutors: having Del Rio's authority to cite made witch persecution appear rigorously justified rather than arbitrary. The text's scholastic apparatus served a legitimating function for judicial violence.",
+  "ginzburg_analysis": "Ginzburg finds Del Rio's systematic cataloguing of diabolical practices useful as a compendium of what the elite demonological tradition asserted about witch behavior, against which popular folk beliefs (night journeys, benandanti, fairy beliefs) stand in contrast.",
+  "key_arguments": [
+    "Magic is real and divided into natural (potentially legitimate), artificial, and diabolical categories",
+    "Diabolical magic involves real pacts with demons who perform apparent miracles",
+    "The witches' sabbath is a real event, not merely a delusion",
+    "Judicial torture is justified given the grave nature of the crime and the difficulty of obtaining proof",
+    "Weyer and other skeptics have been deceived or are themselves diabolically influenced"
+  ],
+  "influence_on_prosecutions": "Del Rio's text was cited in court proceedings across Catholic Europe as a legal authority for prosecution procedure. Its prestige as a Jesuit scholarly production gave it authority beyond confessional lines. It went through more than twenty editions by 1755, indicating sustained use as a practical legal reference.",
+  "related_texts": ["kramer-malleus-maleficarum-1487", "guazzo-compendium-maleficarum-1608", "bodin-demonomanie-1580", "spee-cautio-criminalis-1631"],
+  "related_trials": [],
+  "scholarly_disagreement": "Scholars debate whether Del Rio's rigor and balance made him more or less influential on prosecution than more extreme texts. Some argue his systematic fairness to objections actually strengthened pro-prosecution arguments by showing they could survive scholarly scrutiny. The relationship between his Flemish Jesuit background and his demonological positions has been analyzed in the context of Counter-Reformation culture.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "elizabeth-device-pendle-1612",
+  "name": "Elizabeth Device",
+  "status": "Executed",
+  "trial_id": "pendle-1612",
+  "location_id": "pendle",
+  "year_accused": 1612,
+  "year_executed": 1612,
+  "age_at_trial": null,
+  "social_status": "Daughter of Elizabeth Southerns (Old Demdike); rural poor, Forest of Pendle",
+  "gender": "Female",
+  "biography": "Elizabeth Device was the daughter of Elizabeth Southerns, known as Old Demdike, the matriarch of one of the two families at the center of the Pendle witch trials. She lived in poverty in the Forest of Pendle, Lancashire, within a community that had long associated the Demdike family with magical practice and cunning craft. Elizabeth Device was physically distinctive — she had a cross-eye — and contemporary accounts make clear that her appearance contributed to the popular perception of her as a witch.\n\nThe Pendle trials of 1612 were unusual in producing an extensive written record through the assize clerk Thomas Potts, who published The Wonderfull Discoverie of Witches in the Countie of Lancaster later that year. This document, based on the legal proceedings and testimony, provides the primary source for the Pendle accused and preserves details of Elizabeth Device's role in the prosecutions, including the devastating testimony offered against her by her own son.",
+
+  "arrest_narrative": "Elizabeth Device was arrested following the initial examination before Justice Roger Nowell at Read Hall in March 1612, which drew in multiple members of the Demdike family and their neighbors. A gathering at Malkin Tower on Good Friday 1612, which Device organized, was interpreted by the authorities as a witches' sabbath plotting the murder of the gaoler and the release of those already imprisoned. This gathering sealed her fate and led to her trial at Lancaster Assizes in August.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {"session": 1, "method": "Examination before Justice Nowell; no formal torture recorded but intense pressure", "outcome": "Confessions extracted"}
+    ],
+    "initial_response": "Partial denials initially; confessions followed",
+    "final_confession_summary": "Confessed to possessing a familiar spirit named Ball, killing several named individuals through maleficium, and organizing the Good Friday gathering at Malkin Tower"
+  },
+
+  "accusations_against_them": [
+    "Possession of familiar spirit (Ball)",
+    "Murder of John Robinson by witchcraft",
+    "Murder of James Robinson by witchcraft",
+    "Murder of Anne Towneley by witchcraft",
+    "Organizing Good Friday meeting at Malkin Tower (conspiracy)",
+    "General maleficium against neighbors"
+  ],
+
+  "execution_details": {
+    "date": "1612-08-20",
+    "method": "Hanging",
+    "location": "Lancaster"
+  },
+
+  "historiographical_significance": "Elizabeth Device's case is notable for the devastating role her own son James played in the prosecution — he testified against her at trial, a detail that contemporary and later observers found particularly striking. Her cross-eye, taken as a physical marker of witchhood, illustrates how physical difference could contribute to witch accusation. Thomas Potts's detailed record makes her one of the better-documented English accused witches of the period.",
+
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assizes records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "briggs-witches-and-neighbours-1996",
+    "levack-witch-hunt-early-modern-europe-2006",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

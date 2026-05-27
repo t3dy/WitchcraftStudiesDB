@@ -1,0 +1,76 @@
+{
+  "id": "maleficium-concept",
+  "name": "Maleficium (Harmful Magic)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+
+  "scholarly_definition": "Maleficium designated the concrete harmful act at the core of witchcraft prosecution: magical harm inflicted upon persons, livestock, crops, or property through supernatural means. It encompassed a wide range of alleged harms including causing illness, death, crop failure, livestock loss, impotence, and misfortune. Unlike the theological concept of the pact, maleficium was the prosecutable social harm — the act that brought a suspect to the attention of neighbours, magistrates, and courts. Maleficium formed the evidentiary foundation of most witchcraft charges, with the theological elaboration of sabbath and pact constructed around it.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Roman law concept of veneficium (poisoning/magical harm)",
+      "Canon law prohibitions on magical harm (Council of Paris, 829)",
+      "Ecclesiastical penitentials listing harmful magic offences"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum Part II — systematic catalogue of maleficia types",
+      "Roman law's reception into German Carolina (1532)",
+      "Bodin's *Demon-Mania* integrating maleficium with pact doctrine"
+    ],
+    "formalization_sources": [
+      "Secular court records documenting harm-causation accusations",
+      "Inquisitorial manuals linking maleficium to heresy via pact",
+      "Physician testimony in trials certifying supernatural cause of illness"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark situates maleficium within the broader intellectual framework of early modern natural philosophy, where the boundary between natural cause and preternatural agency was genuinely contested. Learned men who prosecuted maleficium were not simply credulous but were working through a coherent epistemological system in which demonic agency offered a rational explanation for misfortune otherwise inexplicable by natural philosophy. The shift that made maleficium a capital crime was the theological argument that harmful magic required demonic assistance and therefore demonic pact — transforming a criminal act into apostasy.",
+
+  "hutton_social_analysis": "Hutton emphasizes that maleficium accusations were socially embedded accusations arising from specific community relationships of debt, conflict, and dependency. The classic pattern identified by Thomas and Macfarlane — the charity-refused mechanism, the muttered curse, the subsequent misfortune — shows maleficium accusations emerging from the texture of village life rather than from theological doctrine. Hutton notes that the same practitioners who healed and helped could be accused of maleficium when their interventions failed, revealing the social contingency of the witch label.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's contribution on maleficium is to show how specific harm accusations, rooted in real community conflicts, were transformed through interrogation into evidence of systematic satanic conspiracy. The accused confessed to maleficia they may never have performed, then were asked to name accomplices who attended the sabbath where such maleficia were coordinated. The original social harm accusation thus became the entry point through which interrogators constructed larger conspiracy narratives that bore little resemblance to the original community dispute.",
+
+  "actor_perspective": {
+    "practitioner_language": "Practitioners who engaged in harmful magic — those who did curse, bind, or hex — understood themselves as wielding powers rooted in natural substances, spoken words, symbolic actions, or inherited skill. They did not typically frame their practice as demonic service but as the application of specialist knowledge, sometimes justified by grievance or contractual failure by a client.",
+    "misalignment": "The fundamental gap was that maleficium as prosecuted required demonic agency and therefore satanic allegiance, while practitioners who understood themselves to cause harm did so through magical technique or personal power, not through demonic contract. The theological transformation of social harm into apostasy was the prosecution's most significant conceptual move."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Demonologists argued that maleficium was impossible without demonic assistance — no human could cause supernatural harm unaided. Therefore anyone performing maleficium had necessarily contracted with Satan for demonic power, rendering them guilty of apostasy as well as harm. This logical chain converted every maleficium accusation into a heresy accusation.",
+    "canonical_law": "The Carolina of 1532 specified death for maleficium that caused harm, reflecting secular law's accommodation of magical-harm prosecution. Ecclesiastical courts focused more on the heretical dimension (pact, apostasy) while secular courts focused on the harm itself."
+  },
+
+  "regional_variations": "English law under the Witchcraft Acts (1542, 1563, 1604) prosecuted maleficium as a secular crime with graduated penalties based on severity of harm — death reserved for harm causing death, lesser penalties for other maleficia. Continental jurisdictions, influenced by inquisitorial procedure, more readily combined maleficium charges with pact and sabbath allegations. Scottish prosecutions showed high rates of maleficium combined with demonic pact. Mediterranean inquisitions sometimes treated maleficium without pact as a lesser offence.",
+
+  "scholarly_disagreement": "Scholars debate whether maleficium accusations reflected genuine community beliefs in magical harm, economic conflicts seeking legal expression, or projection of guilt by accusers onto marginalized scapegoats. Thomas and Macfarlane's social-functionalist account emphasizes structural tensions; Clark warns against reducing intellectual content to social function; Ginzburg notes that some accused genuinely identified as cursers and understood themselves to wield harmful powers, complicating purely victim-centred accounts.",
+
+  "trial_examples": [
+    "chelmsford-1566-trials",
+    "north-berwick-1590-trials"
+  ],
+
+  "related_concepts": [
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective",
+    "weather-magic-maleficium",
+    "animal-bewitchment",
+    "curse-evil-eye-malevolent",
+    "cumulative-concept-witch"
+  ],
+
+  "source_method": "Trial records documenting harm accusations; theological treatises; secular court records; legal codes (Carolina 1532, English Witchcraft Acts)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Maleficium sits at the intersection of social history and intellectual history in witchcraft studies. It was simultaneously the concrete social harm that brought accusations into courts, the legal category around which secular and ecclesiastical jurisdiction competed, and the evidentiary foundation on which theological superstructure of pact and sabbath was constructed. The historiographical tension between those who see maleficium accusations as reflecting genuine social conflicts (Thomas, Macfarlane, Briggs) and those who see them as products of interrogation-generated narratives (Ginzburg) remains productive and unresolved.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

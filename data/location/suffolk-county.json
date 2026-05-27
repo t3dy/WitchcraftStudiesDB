@@ -1,0 +1,65 @@
+{
+  "id": "suffolk-county",
+  "name": "Suffolk (England)",
+  "type": "County",
+  "region": "Eastern England",
+  "modern_location": "Suffolk, England",
+  "coordinates": {
+    "latitude": 52.188,
+    "longitude": 1.005
+  },
+
+  "administrative_context": "Suffolk was an English county adjacent to Essex, governed by the county administration and subject to the Suffolk Assizes. Like Essex, it had a substantial Puritan population and strong godly Protestant culture. Suffolk's county town of Ipswich and the West Suffolk town of Bury St Edmunds were the principal assize venues. Suffolk was Matthew Hopkins's primary territory during his 1645-1647 witch-hunting campaign.",
+
+  "witchcraft_trials_significance": "Suffolk was the primary area of Matthew Hopkins's witchfinding campaign of 1645-1647, which produced the most intensive short-period English prosecution. Hopkins, operating as self-styled Witchfinder General, used methods including sleep deprivation (watching), swimming, and searching for the devil's mark to extract confessions and identify witches across the county. His Suffolk activities resulted in dozens of executions. The Hopkins panic represents the extreme case of English witch prosecution, both in intensity and in the organized, systematic methods applied.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Matthew Hopkins",
+      "role": "Self-styled Witchfinder General",
+      "contribution_to_trials": "Primary operative in Suffolk during the 1645-1647 panic; used swimming, watching, and search for devil's mark; wrote The Discovery of Witches (1647)"
+    },
+    {
+      "name": "John Stearne",
+      "role": "Hopkins's associate",
+      "contribution_to_trials": "Worked alongside Hopkins; wrote A Confirmation and Discovery of Witchcraft (1648)"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1645": "Hopkins begins operations in Essex; moves rapidly into Suffolk; the Suffolk Assizes at Bury St Edmunds try many accused",
+    "1646": "Continued Suffolk prosecution; Hopkins and Stearne move through multiple communities",
+    "1647": "Growing skepticism about Hopkins's methods; his career ends; Hopkins dies that year"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Multiple Suffolk towns and villages; Hopkins toured the county systematically",
+    "social_reach": "Elderly women predominantly; the Hopkins campaign also targeted men with unusual behaviors; the systematic nature of his investigation reached communities throughout Suffolk",
+    "gender_distribution": "Predominantly female among accused; approximately 80-85%",
+    "mortality_impact": "Malcolm Gaskill estimates approximately 100 executed in East Anglia (Essex and Suffolk combined) during the Hopkins period 1645-1647—the most intensive short-period execution wave in English history"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Hopkins's Puritan providentialist framework, in which the presence of demonic familiars indicated diabolical pact and the Civil War context intensified apocalyptic anxieties, reflects Clark's analysis of how Protestant demonology could generate intense prosecution under particular political and religious conditions.",
+    "hutton_perspective": "Hutton situates Hopkins within the broader pattern of popular witch-finders—individuals who exploited community fears and were paid for their services—noting that the Hopkins panic required both community demand and official tolerance, neither of which was straightforwardly imposed from above.",
+    "ginzburg_perspective": "The Hopkins testimonies, with their elaborate familiar narratives and confession accounts, are valuable microhistorical documents; the specific named familiars (Jarmara, Vinegar Tom, etc.) and their interactions with accused women reveal both popular belief frameworks and the impact of Hopkins's leading interrogation methods."
+  },
+
+  "legacy_and_historiographical_importance": "Malcolm Gaskill's Witchfinders (2005) is the definitive Hopkins study. John Stearne's and Hopkins's own writings are important primary sources. The Hopkins panic has been a major subject for historians of English Civil War radicalism and godly Protestant culture.",
+
+  "primary_sources": "Matthew Hopkins, The Discovery of Witches (1647); John Stearne, A Confirmation and Discovery of Witchcraft (1648); Suffolk Assize records; analyzed in Gaskill, Witchfinders (2005)",
+
+  "source_method": "Published scholarship (Gaskill, Sharpe, Levack), Hopkins and Stearne writings, assize records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,71 @@
+{
+  "id": "impotence-magic-ligature",
+  "name": "Impotence Magic / Ligature (Magical Binding of Sexual Function)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Central Europe",
+
+  "scholarly_definition": "Ligature (from Latin ligare, to bind) referred to magical causation of male sexual impotence or infertility, typically through knotted cords, buried objects, wax figures, or spoken charms. The Malleus Maleficarum devoted Part I, Question 8 and substantial later sections to this subject, classifying it as among the most serious and common maleficia. The concept reflected early modern concerns about fertility, marital duty, dynastic succession, and the bodily dimension of the demonic pact. While primarily framed as maleficium (harm), ligature also overlapped with love magic and magical coercion of the body more generally.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Roman veneficium traditions targeting fertility and sexual function",
+      "Penitentials condemning use of ligatures and knots in magic",
+      "Canon law's recognition of maleficium as grounds for marriage annulment (if impotence was permanent)"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum, Part I, Questions 8–9 — detailed systematic treatment",
+      "Bodin's discussion of sexual impotence magic",
+      "Marriage law cases involving ligature as annulment grounds"
+    ],
+    "formalization_sources": [
+      "Canon law marriage tribunals handling impotence cases",
+      "Demonological treatises systematizing ligature doctrine",
+      "Trial records from Central European cases"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark situates ligature in the demonological framework as one of the clearest examples of how demonic agency was understood to operate on the human body. The question demonologists had to answer was whether demons could genuinely prevent erection or simply create the illusion of impotence — and through what physical mechanism. The debate generated sophisticated analysis of how demonic power interacted with bodily function, humoral theory, and psychological states. The ligature question reveals demonology as practical natural philosophy, not mere superstition.",
+
+  "hutton_social_analysis": "Hutton emphasizes that ligature accusations arose from specific social situations: marital breakdown, failed relationships, male sexual anxiety, inheritance disputes. The accusation that a specific woman had 'bound' a specific man's sexual function gave social form to experiences of impotence that could not otherwise be explained or adjudicated. The canon law dimension — impotence as grounds for marriage annulment — meant ligature accusations had immediate practical consequences for property, inheritance, and social status.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg notes that ligature accusations, while appearing in prosecutorial interrogations, also reflected genuine folk practices of magical binding that both practitioners and clients understood as real. Unlike some witchcraft charges that were purely imposed through interrogation, ligature magic appears in records of folk practitioners offering both to cast and to remove binding spells — suggesting a real market for this service. The prosecutorial elaboration (demonic agency, sabbath context) was imposed on what may have been genuine magical practice.",
+
+  "actor_perspective": {
+    "practitioner_language": "Folk practitioners offered binding and unbinding services, using knotted cords, buried threshold objects, and spoken charms to cause or cure impotence. Within the framework of sympathetic magic (what is tied is bound, what is untied is released), these practices were understood as technically effective interventions in natural processes, not as demonic operations.",
+    "misalignment": "The demonological reframing required that any genuine binding magic was accomplished through demonic intermediation (the knot served as focus for demonic power, not as directly efficacious symbol), transforming what practitioners understood as technical skill into evidence of diabolic service."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Malleus Maleficarum held that ligature was possible through demonic power acting on the humors and imagination of the affected man. The devil could redirect or suppress the spirits (spiritus) necessary for erection, or create illusory barriers through manipulation of the imagination. True impotence versus apparent impotence required careful diagnosis to determine whether malefic binding was present.",
+    "canonical_law": "Canon law recognized permanent impotence as grounds for marriage annulment (diriment impediment). If a witch had caused permanent ligature before a marriage, the marriage could be declared null. This created a legal incentive to prove ligature, since annulment enabled remarriage."
+  },
+
+  "regional_variations": "Ligature magic accusations appeared across Central and Western Europe, with particular intensity in German and French cases. The canon law dimension was more prominent in Catholic jurisdictions. English cases showed impotence magic accusations but less developed ligature doctrine. The marriage-annulment dimension gave ligature accusations specific legal traction in jurisdictions where canonical marriage law applied.",
+
+  "scholarly_disagreement": "Historians debate the extent to which ligature accusations reflected genuine folk magical practice versus prosecutorial construction. The Malleus Maleficarum's obsessive attention to sexual impotence has attracted psychoanalytic interpretations (Summers, modern scholars) that some historians find anachronistic. The broader question is whether early modern men genuinely experienced magical impotence as a real category of experience, or whether the legal and theological framework shaped symptom presentation through expectation.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "maleficium-concept",
+    "love-magic-philtres",
+    "malefic-binding-knots",
+    "demonic-pact-early-modern"
+  ],
+
+  "source_method": "Malleus Maleficarum; canonical law marriage records; trial documentation; demonological treatises",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Ligature magic occupies a distinctive position in witchcraft studies because it connects demonological theory, canon law practice, and folk magical tradition in a single cluster of accusations. The Malleus Maleficarum's extensive treatment reflects the authors' specific anxieties but also genuine legal and pastoral problems being brought to clerical attention. That the canon law gave ligature real legal consequences (annulment) meant it was not purely theoretical but had practical stakes that shaped how accusations were made and adjudicated.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,65 @@
+{
+  "id": "lancashire-county",
+  "name": "Lancashire (England)",
+  "type": "County",
+  "region": "Northern England",
+  "modern_location": "Lancashire, England",
+  "coordinates": {
+    "latitude": 53.763,
+    "longitude": -2.703
+  },
+
+  "administrative_context": "Lancashire was an English county in the northwest, governed by the county administration under the Lancaster Assizes. It was notable for the persistence of Catholic recusancy and popular traditional religion. The county was regarded by the central government as a remote, semi-lawless region where Protestant conformity was poorly enforced. Lancashire's persistent Catholicism made it a site of particular official anxiety.",
+
+  "witchcraft_trials_significance": "Lancashire hosted two major documented witch trial clusters: the Pendle witch trials of 1612 (the most famous English case outside Essex) and a subsequent Pendle-area case in 1633 involving the same families and communities. The 1612 trials were published by Thomas Potts and became one of the most widely read witch trial pamphlets in English. The 1633 case, involving a young boy accuser (Edmund Robinson), was investigated by the Privy Council and the accused were eventually reprieved—making it a significant case in the history of growing prosecutorial scepticism.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Roger Nowell",
+      "role": "Justice of the Peace (1612 trials)",
+      "contribution_to_trials": "Conducted initial examinations in the Pendle case; preserved detailed records"
+    },
+    {
+      "name": "Edmund Robinson",
+      "role": "Child accuser (1633 trials)",
+      "contribution_to_trials": "His accusations triggered the 1633 prosecutions; under Privy Council examination he admitted fabrication, saving the accused"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1612": "Pendle witch trials: 10 executed at Lancaster",
+    "1633": "Second Pendle panic: Edmund Robinson's accusations; several accused tried; Privy Council intervenes; Robinson admits fabrication; accused pardoned or released"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Lancashire county broadly; Pendle Forest area most affected in both episodes",
+    "social_reach": "Predominantly poor, marginal families with traditions of cunning craft; some expansion to other community members through denunciation",
+    "gender_distribution": "Predominantly female in both the 1612 and 1633 cases",
+    "mortality_impact": "10 executed in 1612; no executions from the 1633 cases due to Privy Council intervention"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Lancashire within the intellectual history of English provincial prosecution, noting how the Pendle case applied demonological categories (sabbath meeting at Malkin Tower, demonic pact) to a community context shaped by popular cunning-craft traditions.",
+    "hutton_perspective": "Hutton and J.A. Sharpe have analyzed the Lancashire cases as demonstrating both the persistence and the limits of English witch prosecution: the 1633 case shows that child testimony, which had been credible in 1612, was subjected to increasing scepticism by the 1630s as prosecutorial norms shifted.",
+    "ginzburg_perspective": "The accused families' apparent embrace of a witch identity—particularly figures like Old Demdike who had practiced cunning craft for decades—raises questions about the relationship between popular practitioner identity and prosecutorial narrative."
+  },
+
+  "legacy_and_historiographical_importance": "The Lancashire cases are analyzed by J.A. Sharpe, Robert Poole (ed., The Lancashire Witches, 2002), and Jonathan Lumby. The Pendle case remains the most visited tourist heritage site in English witch trial memory.",
+
+  "primary_sources": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assize records; Privy Council records for the 1633 case",
+
+  "source_method": "Published scholarship (Sharpe, Poole, Levack), Potts's Wonderfull Discoverie, assize records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}
