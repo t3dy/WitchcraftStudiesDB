@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Geographic Map — WitchcraftStudiesDB</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<link rel="stylesheet" href="css/style.css">
+<style>
+* { box-sizing:border-box; }
+body { margin:0; background:#0d0d0d; color:#e8e0d0; font-family:Georgia,serif; display:flex; flex-direction:column; height:100vh; overflow:hidden; }
+.map-container { display:flex; flex:1; overflow:hidden; }
+#map { flex:1; }
+.sidebar { width:280px; background:#1a1a1a; border-right:1px solid #3a3a3a; overflow-y:auto; padding:1rem; flex-shrink:0; font-size:0.85rem; }
+.sidebar h2 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; font-size:1rem; margin:0 0 1rem; border-bottom:1px solid #3a3a3a; padding-bottom:0.5rem; }
+.filter-group { margin-bottom:1rem; }
+.filter-group label { display:block; color:#888; font-size:0.75rem; margin-bottom:0.3rem; text-transform:uppercase; letter-spacing:0.05em; }
+.filter-group input[type=range] { width:100%; accent-color:#8B0000; }
+.range-labels { display:flex; justify-content:space-between; color:#666; font-size:0.75rem; }
+.checkbox-row { display:flex; align-items:center; gap:0.5rem; margin:0.3rem 0; color:#e8e0d0; cursor:pointer; }
+.checkbox-row input { accent-color:#8B0000; cursor:pointer; }
+.filter-group select { width:100%; background:#111; color:#e8e0d0; border:1px solid #3a3a3a; padding:0.3rem; border-radius:3px; font-family:Georgia,serif; font-size:0.82rem; }
+.legend { margin-top:1rem; border-top:1px solid #2a2a2a; padding-top:0.75rem; }
+.legend-title { color:#888; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.05em; margin-bottom:0.4rem; }
+.legend-item { display:flex; align-items:center; gap:0.5rem; font-size:0.78rem; color:#b8b0a0; margin:0.2rem 0; }
+.dot { width:12px; height:12px; border-radius:50%; flex-shrink:0; opacity:0.8; }
+#info-panel { background:#1f1f1f; border:1px solid #3a3a3a; border-radius:4px; padding:0.9rem; margin-top:0.75rem; }
+#info-panel h3 { color:#C9A84C; font-size:0.95rem; margin:0 0 0.4rem; font-family:'Palatino Linotype',Palatino,serif; }
+#info-panel p { font-size:0.8rem; color:#b8b0a0; line-height:1.5; margin:0; }
+#info-empty { color:#555; font-size:0.8rem; font-style:italic; }
+#markerCount { color:#555; font-size:0.75rem; margin-top:0.75rem; }
+.stat-row { display:flex; gap:0.5rem; margin-top:0.4rem; flex-wrap:wrap; }
+.stat-pill { background:#2a0000; border:1px solid #8B0000; border-radius:3px; padding:0.1rem 0.4rem; font-size:0.72rem; color:#e8e0d0; }
+
+/* Leaflet popup dark override */
+.leaflet-popup-content-wrapper { background:#1f1f1f; color:#e8e0d0; border:1px solid #3a3a3a; border-radius:4px; box-shadow:0 4px 20px rgba(0,0,0,0.8); }
+.leaflet-popup-tip { background:#1f1f1f; }
+.leaflet-popup-content { margin:10px 14px; font-family:Georgia,serif; font-size:0.85rem; min-width:160px; }
+</style>
+</head>
+<body>
+<nav style="background:#1a1a1a;border-bottom:2px solid #8B0000;padding:0.6rem 1.5rem;display:flex;align-items:center;gap:1.5rem;flex-wrap:wrap;flex-shrink:0;z-index:2000;position:relative;">
+  <a href="index.html" style="color:#C9A84C;font-size:1.1rem;font-weight:bold;text-decoration:none;font-family:'Palatino Linotype',Palatino,serif;">⚸ WitchcraftStudiesDB</a>
+  <a href="map.html" style="color:#C9A84C;text-decoration:none;border-bottom:1px solid #C9A84C;">Map</a>
+  <a href="timeline.html" style="color:#e8e0d0;text-decoration:none;">Timeline</a>
+  <a href="trials.html" style="color:#e8e0d0;text-decoration:none;">Trials</a>
+  <a href="concepts.html" style="color:#e8e0d0;text-decoration:none;">Concepts</a>
+  <a href="scholars.html" style="color:#e8e0d0;text-decoration:none;">Scholars</a>
+  <a href="accused.html" style="color:#e8e0d0;text-decoration:none;">People</a>
+  <a href="about.html" style="color:#e8e0d0;text-decoration:none;">About</a>
+</nav>
+<div class="map-container">
+  <div class="sidebar">
+    <h2>⚸ Map Controls</h2>
+    <div class="filter-group">
+      <label>Year From: <span id="minLabel">1300</span></label>
+      <input type="range" id="yearMin" min="1300" max="1800" value="1300" step="10">
+    </div>
+    <div class="filter-group">
+      <label>Year To: <span id="maxLabel">1800</span></label>
+      <input type="range" id="yearMax" min="1300" max="1800" value="1800" step="10">
+    </div>
+    <div class="filter-group">
+      <label>Layers</label>
+      <label class="checkbox-row"><input type="checkbox" id="showTrials" checked> <span style="color:#cc4444;">●</span>&nbsp;Major Trials</label>
+      <label class="checkbox-row"><input type="checkbox" id="showAccused" checked> <span style="color:#FF8C55;">●</span>&nbsp;Accused Persons</label>
+      <label class="checkbox-row"><input type="checkbox" id="showHealers" checked> <span style="color:#5599DD;">●</span>&nbsp;Folk Practitioners</label>
+      <label class="checkbox-row"><input type="checkbox" id="showTexts" checked> <span style="color:#AA55CC;">●</span>&nbsp;Key Texts</label>
+    </div>
+    <div class="filter-group">
+      <label>Region</label>
+      <select id="regionFilter">
+        <option value="">All Regions</option>
+        <option>Scotland</option>
+        <option>England</option>
+        <option>Germany</option>
+        <option>France</option>
+        <option>Italy</option>
+        <option>Switzerland</option>
+        <option>Spain</option>
+        <option>Scandinavia</option>
+        <option>Americas</option>
+      </select>
+    </div>
+    <div class="legend">
+      <div class="legend-title">Legend</div>
+      <div class="legend-item"><div class="dot" style="background:#cc2222;"></div> Major trial (size = executions)</div>
+      <div class="legend-item"><div class="dot" style="background:#FF8C55;"></div> Accused person</div>
+      <div class="legend-item"><div class="dot" style="background:#5599DD;"></div> Folk practitioner</div>
+      <div class="legend-item"><div class="dot" style="background:#AA55CC;"></div> Text publication</div>
+    </div>
+    <div id="info-panel">
+      <div id="info-empty">Click a marker to see details</div>
+      <h3 id="info-title" style="display:none;"></h3>
+      <p id="info-body" style="display:none;"></p>
+    </div>
+    <div id="markerCount">Loading...</div>
+  </div>
+  <div id="map"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="js/data_bundle.js"></script>
+<script>
+const map = L.map('map', { zoomControl: true }).setView([50, 12], 5);
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
+  subdomains: 'abcd',
+  maxZoom: 19
+}).addTo(map);
+
+const layers = {
+  trials: L.layerGroup().addTo(map),
+  accused: L.layerGroup().addTo(map),
+  healers: L.layerGroup().addTo(map),
+  texts: L.layerGroup().addTo(map)
+};
+
+let yearMin = 1300, yearMax = 1800;
+
+function showInfo(title, body) {
+  document.getElementById('info-empty').style.display = 'none';
+  const t = document.getElementById('info-title');
+  const b = document.getElementById('info-body');
+  t.textContent = title;
+  b.innerHTML = body;
+  t.style.display = 'block';
+  b.style.display = 'block';
+}
+
+function makeCircle(lat, lng, color, radius, popup, infoTitle, infoBody) {
+  const m = L.circleMarker([lat, lng], {
+    radius, color: 'rgba(0,0,0,0.3)', weight: 1,
+    fillColor: color, fillOpacity: 0.75
+  });
+  m.bindPopup(popup);
+  m.on('click', () => showInfo(infoTitle, infoBody));
+  return m;
+}
+
+function regionMatch(r) {
+  const f = document.getElementById('regionFilter').value;
+  if (!f) return true;
+  return (r || '').toLowerCase().includes(f.toLowerCase());
+}
+
+// Build location lookup
+const locMap = {};
+(window.LOCATIONS || []).forEach(l => { locMap[l.id] = l; });
+
+function render() {
+  Object.values(layers).forEach(l => l.clearLayers());
+  const showT = document.getElementById('showTrials').checked;
+  const showA = document.getElementById('showAccused').checked;
+  const showH = document.getElementById('showHealers').checked;
+  const showTx = document.getElementById('showTexts').checked;
+  let count = 0;
+
+  // Trials
+  if (showT) {
+    (window.TRIALS || []).forEach(t => {
+      if (t.year_start < yearMin || t.year_start > yearMax) return;
+      const loc = locMap[t.location_id];
+      if (!loc || !loc.lat) return;
+      if (!regionMatch(loc.region)) return;
+      const execs = t.executed_count || 10;
+      const radius = Math.max(7, Math.min(28, Math.sqrt(execs) * 3));
+      const popup = `<strong style="color:#cc4444;">${t.name}</strong><br>
+        <span style="color:#888;">${t.year_start}${t.year_end && t.year_end !== t.year_start ? '–' + t.year_end : ''}</span><br>
+        <b>${t.executed_count || '?'}</b> executed · <b>${t.alleged_accused_count || '?'}</b> accused`;
+      const infoBody = `<b>${t.year_start}${t.year_end && t.year_end !== t.year_start ? '–' + t.year_end : ''}</b> · ${loc.region || ''}<br><br>${t.summary || ''}`;
+      makeCircle(loc.lat, loc.lng, '#cc2222', radius, popup, t.name, infoBody).addTo(layers.trials);
+      count++;
+    });
+  }
+
+  // Accused
+  if (showA) {
+    (window.ACCUSED || []).forEach(a => {
+      if (a.year_accused && (a.year_accused < yearMin || a.year_accused > yearMax)) return;
+      const loc = locMap[a.location_id];
+      if (!loc || !loc.lat) return;
+      if (!regionMatch(loc.region)) return;
+      const jitter = () => (Math.random() - 0.5) * 0.25;
+      const popup = `<strong style="color:#FF8C55;">${a.name}</strong><br>
+        <span style="color:#888;">${a.year_accused || '?'} · ${a.status || ''}</span><br>
+        ${a.social_status || ''}`;
+      const infoBody = `${a.year_accused || '?'} · ${a.social_status || ''} · ${a.status || ''}<br><br>${(a.biography || '').substring(0, 250)}${a.biography && a.biography.length > 250 ? '...' : ''}`;
+      makeCircle(loc.lat + jitter(), loc.lng + jitter(), '#FF8C55', 5, popup, a.name, infoBody).addTo(layers.accused);
+      count++;
+    });
+  }
+
+  // Healers
+  if (showH) {
+    (window.HEALERS || []).forEach(h => {
+      if (h.year_active && (h.year_active < yearMin || h.year_active > yearMax)) return;
+      const loc = locMap[h.location_id];
+      if (!loc || !loc.lat) return;
+      if (!regionMatch(loc.region)) return;
+      const popup = `<strong style="color:#5599DD;">${h.name}</strong><br>
+        <span style="color:#888;">${h.year_active || '?'} · ${h.tradition || ''}</span>`;
+      const infoBody = `${h.year_active || '?'} · ${h.social_status || ''}<br><br>${(h.biography || '').substring(0, 250)}`;
+      makeCircle(loc.lat + 0.1, loc.lng + 0.1, '#5599DD', 7, popup, h.name, infoBody).addTo(layers.healers);
+      count++;
+    });
+  }
+
+  // Texts (by publication location approximation)
+  if (showTx) {
+    const textLocMap = {
+      'English': { lat: 51.51, lng: -0.12, region: 'England' },
+      'Latin': { lat: 48.5, lng: 9, region: 'Germany' },
+      'French': { lat: 48.86, lng: 2.35, region: 'France' },
+      'German': { lat: 50.9, lng: 10, region: 'Germany' },
+      'Scottish': { lat: 55.95, lng: -3.19, region: 'Scotland' },
+    };
+    (window.TEXTS || []).filter(t => t.year_published >= yearMin && t.year_published <= yearMax).forEach(t => {
+      const loc = textLocMap[t.language] || { lat: 48 + Math.random() * 8, lng: 5 + Math.random() * 10, region: 'Europe' };
+      if (!regionMatch(loc.region)) return;
+      const jitter = () => (Math.random() - 0.5) * 2;
+      const popup = `<strong style="color:#AA55CC;font-style:italic;">${t.title}</strong><br>
+        <span style="color:#888;">${t.author} · ${t.year_published}</span>`;
+      const infoBody = `<em>${t.author}</em>, ${t.year_published}<br>${t.language} · ${t.type || ''}<br><br>${(t.significance || '').substring(0, 250)}`;
+      makeCircle(loc.lat + jitter(), loc.lng + jitter(), '#AA55CC', 6, popup, t.title, infoBody).addTo(layers.texts);
+      count++;
+    });
+  }
+
+  document.getElementById('markerCount').textContent = count + ' markers visible';
+}
+
+// Controls
+document.getElementById('yearMin').addEventListener('input', e => {
+  yearMin = +e.target.value;
+  document.getElementById('minLabel').textContent = yearMin;
+  render();
+});
+document.getElementById('yearMax').addEventListener('input', e => {
+  yearMax = +e.target.value;
+  document.getElementById('maxLabel').textContent = yearMax;
+  render();
+});
+['showTrials','showAccused','showHealers','showTexts','regionFilter'].forEach(id => {
+  document.getElementById(id).addEventListener('change', render);
+});
+
+render();
+</script>
+</body>
+</html>

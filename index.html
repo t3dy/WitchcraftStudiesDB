@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>WitchcraftStudiesDB — Historical Witchcraft Studies Knowledge Portal</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+body { margin:0; background:#0d0d0d; color:#e8e0d0; font-family:Georgia,serif; }
+.hero { text-align:center; padding:6rem 2rem 4rem; border-bottom:1px solid #3a3a3a; background: radial-gradient(ellipse at center top, #1a0505 0%, #0d0d0d 70%); }
+.hero h1 { font-family:'Palatino Linotype',Palatino,serif; font-size:4rem; color:#C9A84C; margin:0; letter-spacing:0.05em; }
+.hero .sigil { font-size:5rem; margin-bottom:1rem; filter: drop-shadow(0 0 20px #8B0000); }
+.hero p { color:#b8b0a0; font-size:1.1rem; max-width:640px; margin:1rem auto; line-height:1.7; }
+.hero .subtitle { color:#C9A84C; font-style:italic; font-size:1rem; margin:0.5rem auto; }
+.stats { display:flex; justify-content:center; gap:0; background:#1a1a1a; border-bottom:1px solid #3a3a3a; flex-wrap:wrap; }
+.stat { text-align:center; padding:1.5rem 2.5rem; border-right:1px solid #2a2a2a; }
+.stat:last-child { border-right:none; }
+.stat .num { font-size:2.5rem; color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; line-height:1; }
+.stat .label { color:#b8b0a0; font-size:0.8rem; text-transform:uppercase; letter-spacing:0.1em; margin-top:0.25rem; }
+.grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:1.5rem; padding:3rem 2rem; max-width:1200px; margin:0 auto; }
+.card { background:#1f1f1f; border:1px solid #3a3a3a; border-radius:4px; padding:1.5rem; text-decoration:none; color:inherit; display:block; transition:border-color 0.2s,background 0.2s; }
+.card:hover { border-color:#C9A84C; background:#252525; text-decoration:none; }
+.card .icon { font-size:2rem; margin-bottom:0.75rem; }
+.card h3 { color:#C9A84C; margin:0 0 0.5rem; font-family:'Palatino Linotype',Palatino,serif; font-size:1.2rem; }
+.card p { color:#b8b0a0; font-size:0.9rem; line-height:1.6; margin:0; }
+.framework { padding:3rem 2rem; background:#111; border-top:1px solid #3a3a3a; }
+.framework h2 { text-align:center; color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; margin-bottom:2rem; font-size:1.8rem; }
+.scholars { display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:1.5rem; max-width:960px; margin:0 auto; }
+.scholar-card { background:#1f1f1f; border:1px solid #3a3a3a; padding:1.5rem; border-radius:4px; text-align:center; border-top:3px solid #8B0000; }
+.scholar-card h4 { color:#C9A84C; margin:0 0 0.5rem; font-family:'Palatino Linotype',Palatino,serif; font-size:1.1rem; }
+.scholar-card .tradition { color:#8B0000; font-size:0.8rem; text-transform:uppercase; letter-spacing:0.1em; margin-bottom:0.75rem; }
+.scholar-card p { color:#b8b0a0; font-size:0.85rem; line-height:1.6; margin:0; }
+.principles { padding:2rem; max-width:800px; margin:0 auto; }
+.principles h2 { text-align:center; color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; margin-bottom:1.5rem; font-size:1.5rem; }
+.principle { background:#1a1a1a; border-left:3px solid #8B0000; padding:0.75rem 1rem; margin:0.5rem 0; border-radius:0 3px 3px 0; }
+.principle strong { color:#C9A84C; }
+.principle span { color:#b8b0a0; font-size:0.9rem; }
+footer { text-align:center; padding:2rem; color:#555; font-size:0.82rem; border-top:1px solid #222; background:#111; }
+footer a { color:#8B0000; text-decoration:none; }
+</style>
+</head>
+<body>
+<nav style="background:#1a1a1a;border-bottom:2px solid #8B0000;padding:0.75rem 2rem;display:flex;align-items:center;gap:2rem;flex-wrap:wrap;position:sticky;top:0;z-index:1000;">
+  <a href="index.html" style="color:#C9A84C;font-size:1.2rem;font-weight:bold;text-decoration:none;font-family:'Palatino Linotype',Palatino,serif;">⚸ WitchcraftStudiesDB</a>
+  <a href="map.html" style="color:#e8e0d0;text-decoration:none;">Map</a>
+  <a href="timeline.html" style="color:#e8e0d0;text-decoration:none;">Timeline</a>
+  <a href="trials.html" style="color:#e8e0d0;text-decoration:none;">Trials</a>
+  <a href="concepts.html" style="color:#e8e0d0;text-decoration:none;">Concepts</a>
+  <a href="scholars.html" style="color:#e8e0d0;text-decoration:none;">Scholars</a>
+  <a href="accused.html" style="color:#e8e0d0;text-decoration:none;">People</a>
+  <a href="about.html" style="color:#e8e0d0;text-decoration:none;">About</a>
+</nav>
+
+<div class="hero">
+  <div class="sigil">⚸</div>
+  <h1>WitchcraftStudiesDB</h1>
+  <p class="subtitle">Historical Witchcraft Studies Knowledge Portal</p>
+  <p>A digital humanities database covering European witch trials, demonological theory, and folk practice from antiquity through 1800. Built on the historiographical frameworks of Clark, Hutton, and Ginzburg.</p>
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="num" id="trialCount">—</div><div class="label">Trial Events</div></div>
+  <div class="stat"><div class="num" id="accusedCount">—</div><div class="label">Individuals</div></div>
+  <div class="stat"><div class="num" id="conceptCount">—</div><div class="label">Concepts</div></div>
+  <div class="stat"><div class="num" id="timelineCount">—</div><div class="label">Timeline Events</div></div>
+  <div class="stat"><div class="num" id="locationCount">—</div><div class="label">Locations</div></div>
+  <div class="stat"><div class="num" id="textCount">—</div><div class="label">Primary Texts</div></div>
+</div>
+
+<div class="grid">
+  <a href="map.html" class="card">
+    <div class="icon">🗺</div>
+    <h3>Geographic Map</h3>
+    <p>All trials and figures plotted on an interactive European map with date filtering, regional filters, and popup information panels.</p>
+  </a>
+  <a href="timeline.html" class="card">
+    <div class="icon">⏳</div>
+    <h3>Timeline</h3>
+    <p>Events from Roman magic laws to modern scholarship, chronologically organized with type and significance filters.</p>
+  </a>
+  <a href="trials.html" class="card">
+    <div class="icon">⚖</div>
+    <h3>Trial Database</h3>
+    <p>Searchable database of major witch trials with execution counts, dates, regional context, and historiographical analysis.</p>
+  </a>
+  <a href="concepts.html" class="card">
+    <div class="icon">📖</div>
+    <h3>Concept Dictionary</h3>
+    <p>Demonological and analytical concepts with Clark/Hutton/Ginzburg perspectives and the actor/analyst distinction preserved.</p>
+  </a>
+  <a href="scholars.html" class="card">
+    <div class="icon">🎓</div>
+    <h3>Scholars &amp; Texts</h3>
+    <p>Historian biographies and primary source descriptions spanning Nider (1435) to Hutton (2017), with methodological analysis.</p>
+  </a>
+  <a href="accused.html" class="card">
+    <div class="icon">👤</div>
+    <h3>People</h3>
+    <p>Individual accused persons, healer-practitioners, and key figures with biographical detail, trial context, and torture records.</p>
+  </a>
+</div>
+
+<div class="framework">
+  <h2>Three Historiographical Traditions</h2>
+  <div class="scholars">
+    <div class="scholar-card">
+      <h4>Stuart Clark</h4>
+      <div class="tradition">Intellectual History</div>
+      <p>Demonology as coherent theological system. Witch prosecution understood through the rationality of learned theory, not irrational panic. <em>Thinking with Demons</em> (1997) remains the definitive statement.</p>
+    </div>
+    <div class="scholar-card">
+      <h4>Ronald Hutton</h4>
+      <div class="tradition">Social History</div>
+      <p>Cunning folk as legitimate practitioners. Demographic and community analysis of how accusations emerged from social tensions and economic conflict between neighbors.</p>
+    </div>
+    <div class="scholar-card">
+      <h4>Carlo Ginzburg</h4>
+      <div class="tradition">Microhistory</div>
+      <p>Interrogation analysis revealing how torture shaped confessions. Voice recovery for accused persons through close reading — his benandanti discovery transformed the field.</p>
+    </div>
+  </div>
+</div>
+
+<div class="principles">
+  <h2>Eight Historiographical Principles</h2>
+  <div class="principle"><strong>1. Provenance on every claim.</strong> <span>Every substantive claim carries source_method + confidence rating.</span></div>
+  <div class="principle"><strong>2. Rationality within framework.</strong> <span>Witch prosecution was rational within its theological premises (Clark).</span></div>
+  <div class="principle"><strong>3. Actor/Analyst distinction.</strong> <span>Practitioners' own language versus modern analytical categories kept separate.</span></div>
+  <div class="principle"><strong>4. Regional variation as primary.</strong> <span>No single "European witch hunt" — each region had distinct patterns.</span></div>
+  <div class="principle"><strong>5. Microhistorical attention to individuals.</strong> <span>Named persons, not just statistics.</span></div>
+  <div class="principle"><strong>6. Material grounding.</strong> <span>What people actually did, not just what they were accused of.</span></div>
+  <div class="principle"><strong>7. Intellectual history seriously.</strong> <span>Demonological texts treated as serious theological documents.</span></div>
+  <div class="principle"><strong>8. Ambiguity preserved.</strong> <span>Historiographical disagreement stated explicitly in every entry.</span></div>
+</div>
+
+<footer>
+  WitchcraftStudiesDB · Digital Humanities Project · Built on frameworks of Clark, Hutton, and Ginzburg<br>
+  <a href="about.html">About this project</a> · Data: 320+ scholarly entries across 8 entity types
+</footer>
+
+<script src="js/data_bundle.js"></script>
+<script>
+document.getElementById('trialCount').textContent = (window.TRIALS||[]).length + '+';
+document.getElementById('accusedCount').textContent = ((window.ACCUSED||[]).length + (window.HEALERS||[]).length) + '+';
+document.getElementById('conceptCount').textContent = (window.CONCEPTS||[]).length + '+';
+document.getElementById('timelineCount').textContent = (window.TIMELINE_EVENTS||[]).length + '+';
+document.getElementById('locationCount').textContent = (window.LOCATIONS||[]).length + '+';
+document.getElementById('textCount').textContent = (window.TEXTS||[]).length + '+';
+</script>
+</body>
+</html>
