@@ -1,6 +1,6 @@
 # WitchcraftStudiesDB - Project Status Report
 
-**Date**: May 23, 2026  
+**Date**: May 28, 2026  
 **Version**: 1.0 Phase 1 Complete, Phase 2 In Progress  
 **Project Scope**: Historical witchcraft studies knowledge portal with relational database + academic corpus
 
@@ -9,12 +9,12 @@
 ## Executive Summary
 
 WitchcraftStudiesDB is a comprehensive digital humanities project combining:
-1. **Relational Database** (40+ entries in each of 8 categories)
+1. **Relational Database** (334+ entries across 8 entity types - ALL TARGETS MET)
 2. **Static HTML Website** (7 pages serving 3 constituencies)
 3. **Academic Corpus** (30+ scholarly sources converted to Markdown)
 4. **Validation & Integration Tools** (Python scripts for quality assurance)
 
-**Status**: Core database complete. Website prototype functional. Academic corpus ingestion pipeline operational. First PDF (Clark's *Thinking with Demons*) successfully converted.
+**Status**: Core database **COMPLETE** (all targets reached). Website prototype functional. Academic corpus ingestion pipeline operational. First PDF (Clark's *Thinking with Demons*) successfully converted.
 
 ---
 
@@ -232,14 +232,15 @@ C:\Dev\WitchcraftStudiesDB/
 
 | Entity Type | Target | Completed | % Complete |
 |-------------|--------|-----------|-----------|
-| TRIAL_EVENT | 40+ | 40 | 100% |
-| ACCUSED_PERSON | 40+ | 40 | 100% |
-| DEMONOLOGICAL_CONCEPT | 25-30 | 30 | 100% |
-| TEXT | 40+ | 40+ | 100% |
-| DEMONOLOGICAL_SCHOLAR | 30+ | 30+ | 100% |
-| LOCATION | 40+ | 40+ | 100% |
-| HEALER_PRACTITIONER | 30+ | 30+ | 100% |
-| **TOTAL** | **300+** | **320+** | **100%** |
+| TRIAL_EVENT | 40+ | 40 | 100% ✅ |
+| ACCUSED_PERSON | 40+ | 61 | 152% ✅ |
+| DEMONOLOGICAL_CONCEPT | 25-30 | 63 | 210% ✅ |
+| TEXT | 40+ | 40 | 100% ✅ |
+| DEMONOLOGICAL_SCHOLAR | 30+ | 30 | 100% ✅ |
+| LOCATION | 40+ | 50 | 125% ✅ |
+| HEALER_PRACTITIONER | 30+ | 30 | 100% ✅ |
+| TIMELINE_EVENT | - | 20 | Bonus |
+| **TOTAL** | **300+** | **334** | **111%** ✅ |
 
 ### Geographic Coverage
 
@@ -471,15 +472,16 @@ python scripts/validate_entities.py --report csv > entities_report.csv
 
 ## Appendix: File Counts
 
-### Data Files Generated
-- 40 trial_event/*.json
-- 40 accused_person/*.json
-- 30 demonological_concept/*.json
-- 40+ text/*.json
-- 30+ demonological_scholar/*.json
-- 40+ location/*.json
-- 30+ healer_practitioner/*.json
-- **Total: 280+ JSON files**
+### Data Files Generated (COMPLETE)
+- 40 trial_event/*.json ✅
+- 61 accused_person/*.json ✅
+- 63 demonological_concept/*.json ✅
+- 40 text/*.json ✅
+- 30 demonological_scholar/*.json ✅
+- 50 location/*.json ✅
+- 30 healer_practitioner/*.json ✅
+- 20 timeline_event/*.json (bonus)
+- **Total: 334 JSON files** ✅
 
 ### Documentation Files
 - 10 files in documents/
