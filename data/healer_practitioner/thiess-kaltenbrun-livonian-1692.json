@@ -1,0 +1,49 @@
+{
+  "id": "thiess-kaltenbrun-livonian-1692",
+  "name": "Thiess of Kaltenbrun",
+  "status": "Survived; Released",
+  "trial_id": null,
+  "location_id": "hungary-royal",
+  "year_active": 1692,
+  "social_status": "Aged peasant, approximately 80 years old at trial",
+  "gender": "Male",
+  "tradition": "Beneficial werewolf",
+  "self_identification": "Werewolf, hound of God, fighter against witches for the harvests",
+  "claimed_abilities": [
+    "Transformation into werewolf form during seasonal spirit battles",
+    "Descent into hell to fight witches for stolen grain",
+    "Recovery of seeds taken by witches to protect harvests",
+    "Protective function for community crops and livestock",
+    "Identification of local witches"
+  ],
+  "biography": "Thiess of Kaltenbrun was an elderly Livonian (present-day Latvia) peasant, approximately eighty years old when he was tried in 1692. His case is one of the most remarkable in the history of early modern witchcraft because he insisted — with aged stubbornness — that he was indeed a werewolf, but that werewolves like himself were not agents of the devil but fighters against evil on behalf of their communities.\n\nThiess described himself and his fellows as 'hounds of God' who descended three times a year into hell to do battle against witches and warlocks, fighting to recover the seeds, livestock, and grain that witches had stolen and that, if not recovered, would bring famine to Livonia. He claimed a broken nose, sustained in one of these spirit battles. He was emphatically not ashamed of being a werewolf — his entire self-presentation was as a community hero whose unusual nature served rather than threatened his neighbors.\n\nThe judges were baffled. They could not fit Thiess into the standard diabolic witch framework because he refused to accept that his werewolf activities were sinful or diabolic. He was ultimately whipped rather than executed — a comparatively mild penalty suggesting that without a confession of diabolic compact, the full weight of witch-trial procedure could not be applied. His survival, his refusal to adopt the diabolic framework, and his insistence on his own protective role make him one of the most memorable figures in the entire early modern witchcraft record.",
+  "practice_description": "Thiess claimed to descend into hell three times annually (at specific seasonal points) in werewolf form, along with other Livonian werewolves, to fight witches who had stolen grain and other agricultural wealth. If the werewolves won, the harvests would be restored; if they lost, famine followed. This is a precise functional parallel to the Italian benandanti's fennel-stalk battles, the German Nachtschar of Stoeckhlin, and other European spirit-battle traditions — but expressed through the distinctive Livonian werewolf idiom.",
+  "relationship_to_prosecution": "Tried by Livonian courts in 1692. Unlike most witch-trial defendants, Thiess maintained his alternative framework throughout questioning — asserting that he was a werewolf and proud of it, but denying any diabolic connection. He was whipped and released rather than executed, as prosecutors could not extract a diabolic confession that would justify capital punishment under the witch-trial framework.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "werewolf (vilkatis in Latvian)",
+      "hound of God",
+      "fighter against witches in hell",
+      "defender of the harvests",
+      "seasonal descent into hell"
+    ],
+    "inquisitor_categories": [
+      "diabolical transformation",
+      "pact with the devil",
+      "witch's familiar",
+      "heretical belief"
+    ]
+  },
+  "hutton_analysis": "Hutton treats Thiess as a particularly striking example of the persistence of protective practitioner traditions across a very wide geographic area — even in Livonia in 1692, late enough that the context suggests continuity of folk belief rather than influence from demonological literature. His refusal to accept the diabolic framework illustrates, for Hutton, how deeply the 'cunning folk' self-identification as community defenders could be embedded.",
+  "ginzburg_analysis": "Thiess is one of Ginzburg's most important comparative cases in Ecstasies: the Livonian werewolf who fights witches in hell for the harvests is, for Ginzburg, proof that the spirit-battle tradition he identified in the Italian benandanti was a genuinely pan-European phenomenon with a common deep structure — the community defender who travels to another world in animal or spirit form to fight for agricultural fertility.",
+  "historiographical_significance": "Thiess of Kaltenbrun is one of the most discussed figures in the historiography of early modern witchcraft and shamanism. His case is central to Ginzburg's argument in Ecstasies that a coherent Eurasian shamanic tradition underlies early modern European witch beliefs. The fact that he was tried in 1692 — simultaneously with the Salem trials — illustrates the persistence of these traditions and their encounters with witch-trial procedures across the entire period of the European witch craze.",
+  "source_method": "Published trial records from the Livonian archive; Bruce Lincoln's scholarly analysis; Ginzburg's Ecstasies (1989, English trans. 1991); Hutton's The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

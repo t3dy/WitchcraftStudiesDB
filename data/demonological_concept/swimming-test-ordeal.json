@@ -1,0 +1,21 @@
+{
+  "id": "swimming-test-ordeal",
+  "name": "Swimming Test (Ordeal of Cold Water)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "England, Netherlands, Germany",
+  "scholarly_definition": "The swimming test (or 'swimming of witches,' judicium aquae frigidae) was a folk diagnostic ordeal in which the suspected witch was bound and immersed in water: if they floated, they were considered guilty (having rejected the baptismal water that rejected them); if they sank, they were considered innocent. The test had ancient roots in trial by ordeal but was abandoned by the medieval church after the Fourth Lateran Council (1215) prohibited clerical participation in ordeals. Nevertheless, it persisted as a popular folk practice used outside formal judicial contexts and was occasionally adopted by local authorities despite its dubious legal standing. King James VI/I discussed it in Daemonologie (1597) but English and continental courts generally rejected it as legally invalid.",
+  "clark_intellectual_analysis": "Clark situates the swimming test within the complex relationship between learned and popular approaches to witch detection. The test's theological rationale — that baptismal water would reject those who had renounced their baptism — was coherent within the logic of the sacramental system, reflecting how popular practice could develop theologically reasoned justifications. However, learned demonologists and jurists generally rejected it as unreliable and extra-judicial.",
+  "hutton_social_analysis": "Hutton notes that the swimming test was used at community level as a detection mechanism independent of formal prosecution, sometimes preceding or substituting for legal process. Its use reflects communities' desire for accessible diagnostic tools that did not require engaging the formal legal system. The test's persistence despite official disapproval demonstrates the gap between elite legal standards and popular justice in witchcraft cases.",
+  "ginzburg_interrogation_analysis": "Ginzburg would note that the swimming test, like other extra-judicial diagnostic practices, reflects the community's own engagement with witchcraft belief and accusation outside the judicial framework. The test was a community-level rather than state-level practice, and its outcomes shaped community perception of suspected persons regardless of formal judicial proceedings. This community-level evidence-making is part of the broader folk magical epistemology Ginzburg traces.",
+  "regional_variations": "The swimming test was most commonly documented in England, where it was used by village communities and occasionally by local authorities despite its lack of formal legal standing. Dutch records show some use. German records are sparse. Scottish judicial authorities generally rejected it. The test was known in New England but rarely used there. Its distribution correlates with areas where formal judicial procedures were not fully effective in satisfying community demands for witch identification.",
+  "scholarly_disagreement": "Whether the swimming test was ever formally authorized in any jurisdiction or was always extra-judicial is debated. Some scholars have found evidence of quasi-official use; others maintain it was always a folk practice tolerated rather than legally recognized. The test's logic — that water rejects the witch — is sometimes attributed to continental theological sources and sometimes to older ordeal traditions.",
+  "trial_examples": [],
+  "related_concepts": ["witch-mark-malefic", "protective-magic-counter", "bloodless-scratch-reversal", "confession-legal-weight", "inquisitorial-procedure"],
+  "source_method": "James VI Daemonologie; English pamphlet literature; Hopkins witch-finding records; folk practice documentation",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

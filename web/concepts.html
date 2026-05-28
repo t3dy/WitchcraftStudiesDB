@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Concept Dictionary — WitchcraftStudiesDB</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+body { margin:0; background:#0d0d0d; color:#e8e0d0; font-family:Georgia,serif; }
+.page-header { background:#111; border-bottom:1px solid #3a3a3a; padding:1.5rem 2rem 1rem; }
+.page-header h1 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; font-size:2rem; margin:0 0 0.25rem; }
+.page-header p { color:#888; font-size:0.9rem; margin:0; }
+.controls { background:#1a1a1a; border-bottom:1px solid #3a3a3a; padding:0.75rem 2rem; display:flex; gap:0.75rem; flex-wrap:wrap; align-items:center; }
+.controls input, .controls select { background:#111; color:#e8e0d0; border:1px solid #3a3a3a; padding:0.4rem 0.65rem; border-radius:3px; font-family:Georgia,serif; font-size:0.85rem; }
+.controls input[type=text] { flex:1; min-width:220px; }
+.az-bar { padding:0.6rem 2rem; background:#111; border-bottom:1px solid #1a1a1a; display:flex; gap:0.25rem; flex-wrap:wrap; }
+.az-bar a { color:#5a3030; text-decoration:none; font-size:0.85rem; padding:0.15rem 0.35rem; border-radius:2px; border:1px solid #2a1a1a; transition:color 0.15s,border-color 0.15s; }
+.az-bar a:hover { color:#C9A84C; border-color:#C9A84C; }
+#count { padding:0.4rem 2rem; color:#555; font-size:0.82rem; background:#0d0d0d; border-bottom:1px solid #1a1a1a; }
+#grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(340px,1fr)); gap:1rem; padding:1.5rem 2rem 3rem; max-width:1400px; margin:0 auto; }
+.concept-card { background:#1f1f1f; border:1px solid #2a2a2a; border-radius:4px; padding:1.25rem; }
+.concept-card h3 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; font-size:1rem; margin:0 0 0.4rem; line-height:1.3; }
+.cat-badge { display:inline-block; padding:0.1rem 0.5rem; border-radius:3px; font-size:0.68rem; margin-bottom:0.5rem; font-weight:bold; letter-spacing:0.03em; }
+.ACTOR_TERM { background:#4a0000; color:#ffaaaa; border:1px solid #8B0000; }
+.ANALYST_TERM { background:#00304a; color:#aaccff; border:1px solid #006688; }
+.HYBRID { background:#304a00; color:#aaffaa; border:1px solid #558800; }
+.def { color:#b8b0a0; font-size:0.83rem; line-height:1.6; }
+.meta-info { color:#555; font-size:0.72rem; margin-top:0.4rem; }
+.perspectives { display:none; margin-top:0.75rem; border-top:1px solid #2a2a2a; padding-top:0.75rem; }
+.perspectives.open { display:block; }
+.perspective { margin:0.6rem 0; padding:0.5rem 0.75rem; background:#161616; border-radius:3px; border-left:2px solid #3a3a3a; }
+.perspective.clark { border-left-color:#8B0000; }
+.perspective.hutton { border-left-color:#005a5a; }
+.perspective.ginzburg { border-left-color:#4a005a; }
+.perspective.disagree { border-left-color:#5a5a00; }
+.perspective strong { color:#C9A84C; font-size:0.75rem; display:block; margin-bottom:0.2rem; text-transform:uppercase; letter-spacing:0.04em; }
+.perspective p { color:#b8b0a0; font-size:0.8rem; line-height:1.5; margin:0; }
+.toggle { color:#8B0000; font-size:0.75rem; cursor:pointer; margin-top:0.5rem; display:inline-block; border:none; background:none; font-family:Georgia,serif; padding:0; }
+.toggle:hover { color:#C9A84C; }
+.letter-anchor { display:block; height:0; }
+</style>
+</head>
+<body>
+<nav style="background:#1a1a1a;border-bottom:2px solid #8B0000;padding:0.75rem 2rem;display:flex;align-items:center;gap:2rem;flex-wrap:wrap;position:sticky;top:0;z-index:100;">
+  <a href="index.html" style="color:#C9A84C;font-size:1.1rem;font-weight:bold;text-decoration:none;font-family:'Palatino Linotype',Palatino,serif;">⚸ WitchcraftStudiesDB</a>
+  <a href="map.html" style="color:#e8e0d0;text-decoration:none;">Map</a>
+  <a href="timeline.html" style="color:#e8e0d0;text-decoration:none;">Timeline</a>
+  <a href="trials.html" style="color:#e8e0d0;text-decoration:none;">Trials</a>
+  <a href="concepts.html" style="color:#C9A84C;text-decoration:none;border-bottom:1px solid #C9A84C;">Concepts</a>
+  <a href="scholars.html" style="color:#e8e0d0;text-decoration:none;">Scholars</a>
+  <a href="accused.html" style="color:#e8e0d0;text-decoration:none;">People</a>
+  <a href="about.html" style="color:#e8e0d0;text-decoration:none;">About</a>
+</nav>
+<div class="page-header">
+  <h1>📖 Concept Dictionary</h1>
+  <p>Demonological and analytical concepts. ACTOR TERM = historical practitioners' own language. ANALYST TERM = modern scholarly categories. Click any card to expand scholarly perspectives.</p>
+</div>
+<div class="controls">
+  <input type="text" id="search" placeholder="Search concepts...">
+  <select id="catFilter">
+    <option value="">All Categories</option>
+    <option value="ACTOR_TERM">ACTOR TERM — practitioners' language</option>
+    <option value="ANALYST_TERM">ANALYST TERM — modern categories</option>
+    <option value="HYBRID">HYBRID</option>
+  </select>
+</div>
+<div class="az-bar" id="azbar"></div>
+<div id="count"></div>
+<div id="grid"></div>
+
+<script src="js/data_bundle.js"></script>
+<script>
+// Build A-Z navigation
+const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+const azbar = document.getElementById('azbar');
+letters.forEach(l => {
+  const a = document.createElement('a');
+  a.href = '#letter-' + l;
+  a.textContent = l;
+  azbar.appendChild(a);
+});
+
+const grid = document.getElementById('grid');
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const cat = document.getElementById('catFilter').value;
+
+  const concepts = (window.CONCEPTS || []).filter(c => {
+    if (q) {
+      const text = (c.name + ' ' + (c.scholarly_definition || '') + ' ' + (c.time_period || '')).toLowerCase();
+      if (!text.includes(q)) return false;
+    }
+    if (cat && c.category_type !== cat) return false;
+    return true;
+  }).sort((a, b) => a.name.localeCompare(b.name));
+
+  document.getElementById('count').textContent = concepts.length + ' concepts';
+  grid.innerHTML = '';
+
+  let lastLetter = null;
+  concepts.forEach(c => {
+    const firstLetter = c.name.charAt(0).toUpperCase();
+    if (firstLetter !== lastLetter) {
+      const anchor = document.createElement('a');
+      anchor.id = 'letter-' + firstLetter;
+      anchor.className = 'letter-anchor';
+      grid.appendChild(anchor);
+      lastLetter = firstLetter;
+    }
+
+    const card = document.createElement('div');
+    card.className = 'concept-card';
+
+    const catClass = c.category_type || 'HYBRID';
+    const defText = (c.scholarly_definition || '').substring(0, 220);
+    const defTruncated = c.scholarly_definition && c.scholarly_definition.length > 220;
+
+    const hasPerspectives = c.clark_intellectual_analysis || c.hutton_social_analysis || c.ginzburg_interrogation_analysis || c.scholarly_disagreement;
+
+    card.innerHTML = `
+      <h3>${c.name}</h3>
+      <span class="cat-badge ${catClass}">${catClass.replace(/_/g,' ')}</span>
+      ${c.time_period ? `<span style="display:inline-block;color:#555;font-size:0.72rem;margin-left:0.5rem;">${c.time_period}</span>` : ''}
+      <div class="def">${defText}${defTruncated ? '…' : ''}</div>
+      ${c.primary_locale ? `<div class="meta-info">Primary locale: ${c.primary_locale}</div>` : ''}
+      ${hasPerspectives ? '<button class="toggle">+ Scholarly perspectives</button>' : ''}
+      <div class="perspectives">
+        ${c.clark_intellectual_analysis ? `<div class="perspective clark"><strong>Stuart Clark — Intellectual History</strong><p>${c.clark_intellectual_analysis}</p></div>` : ''}
+        ${c.hutton_social_analysis ? `<div class="perspective hutton"><strong>Ronald Hutton — Social History</strong><p>${c.hutton_social_analysis}</p></div>` : ''}
+        ${c.ginzburg_interrogation_analysis ? `<div class="perspective ginzburg"><strong>Carlo Ginzburg — Microhistory</strong><p>${c.ginzburg_interrogation_analysis}</p></div>` : ''}
+        ${c.scholarly_disagreement ? `<div class="perspective disagree"><strong>Scholarly Disagreement</strong><p>${c.scholarly_disagreement}</p></div>` : ''}
+      </div>`;
+
+    if (hasPerspectives) {
+      const btn = card.querySelector('.toggle');
+      btn.addEventListener('click', (ev) => {
+        ev.stopPropagation();
+        const p = card.querySelector('.perspectives');
+        p.classList.toggle('open');
+        btn.textContent = p.classList.contains('open') ? '− Hide perspectives' : '+ Scholarly perspectives';
+      });
+    }
+
+    grid.appendChild(card);
+  });
+
+  if (concepts.length === 0) {
+    grid.innerHTML = '<p style="color:#555;text-align:center;padding:3rem;font-style:italic;grid-column:1/-1;">No concepts match current filters.</p>';
+  }
+}
+
+['search', 'catFilter'].forEach(id => {
+  document.getElementById(id).addEventListener('input', render);
+});
+render();
+</script>
+</body>
+</html>

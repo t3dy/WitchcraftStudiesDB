@@ -1,0 +1,50 @@
+{
+  "id": "george-burroughs-salem-1692",
+  "name": "George Burroughs",
+  "status": "Executed",
+  "trial_id": "salem-1692",
+  "location_id": "salem-massachusetts",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": null,
+  "social_status": "Former minister of Salem Village; then minister at Wells, Maine",
+  "gender": "Male",
+  "biography": "George Burroughs had served as minister of Salem Village before Samuel Parris and had left under difficult circumstances involving unpaid salary. When the 1692 crisis began, the afflicted girls named him as the 'king' or chief of the witches — an extraordinary accusation that elevated the entire conspiracy to a new level of seriousness, since a minister leading a witch coven implied the deepest possible corruption of the social order. Burroughs had to be brought from Maine, where he was then serving, to stand trial.\n\nBurroughs's case produced one of the most dramatic moments of the Salem crisis. On the scaffold before his execution, he recited the Lord's Prayer — perfectly, without stumbling. This was supposedly impossible for a witch (a belief with some popular currency at the time) and many in the watching crowd were visibly moved. Cotton Mather, who was present on horseback, reportedly addressed the crowd and argued that the devil could appear as an angel of light, and that Burroughs's prayer was itself evidence of diabolical cunning. The hanging proceeded. His perfect Lord's Prayer and subsequent execution despite it has made him one of the most remembered Salem victims.",
+  "arrest_narrative": "Burroughs was named by multiple accusers as the leader of the witch conspiracy. He was arrested in Maine and brought to Salem for trial. The evidence against him included spectral testimony from the afflicted girls and claims about his extraordinary physical strength (said to be supernatural). He was tried, convicted on spectral evidence, and sentenced to death.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {
+        "session": 1,
+        "method": "Trial before Court of Oyer and Terminer",
+        "outcome": "Denial maintained throughout; impressive self-defense"
+      }
+    ],
+    "initial_response": "Complete denial; argued against the proceedings",
+    "final_confession_summary": "No confession; recited Lord's Prayer perfectly on the scaffold, causing visible agitation in crowd"
+  },
+  "accusations_against_them": [
+    "Being king and chief of the Salem witch conspiracy",
+    "Tormenting afflicted girls through spectral means",
+    "Bewitching soldiers in earlier Maine conflicts (Mary Norton's interpretation)",
+    "Supernatural physical strength (as evidence of demonic aid)",
+    "Murdering his two previous wives by witchcraft"
+  ],
+  "execution_details": {
+    "date": "1692-08-19",
+    "method": "Hanging",
+    "location": "Gallows Hill, Salem"
+  },
+  "historiographical_significance": "Burroughs's case is significant for several reasons: his role as alleged 'king of the witches' shows how the Salem crisis constructed an elaborate hierarchical conspiracy; his perfect Lord's Prayer on the scaffold and Cotton Mather's response to the crowd illustrate how the demonological framework could absorb apparently contradictory evidence; and Mary Beth Norton's analysis in In the Devil's Snare links his accusation to anxieties about the ongoing wars with Native Americans in Maine, where Salem Village families had traumatic connections.",
+  "source_method": "Salem witchcraft trial records; Cotton Mather, Wonders of the Invisible World (1692); Rosenthal, Records of the Salem Witch-Hunt (2009)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-the-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

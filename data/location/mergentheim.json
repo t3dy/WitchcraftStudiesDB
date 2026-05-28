@@ -1,0 +1,60 @@
+{
+  "id": "mergentheim",
+  "name": "Bad Mergentheim (Baden-Württemberg, Germany)",
+  "type": "Town",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Baden-Württemberg, Germany",
+  "coordinates": {
+    "latitude": 49.494,
+    "longitude": 9.774
+  },
+
+  "administrative_context": "Bad Mergentheim (then Mergentheim) was the headquarters of the Teutonic Order's Deutschmeister—the Grand Master of the German branch of the Teutonic Order. As a religious-military order's administrative center, it had its own jurisdictional apparatus distinct from standard ecclesiastical or secular territories. The 1628-1629 trials at Mergentheim occurred within this Order's territorial jurisdiction.",
+
+  "witchcraft_trials_significance": "The Mergentheim witch trials of 1628-1629 were part of the broader wave of south German prosecution that peaked in those years alongside the Bamberg, Würzburg, and Ellwangen panics. The trials occurred within the Teutonic Order's territorial jurisdiction, making them an unusual instance of military-religious order prosecution. The case demonstrates the geographic spread of the 1626-1631 south German persecution wave beyond the major episcopal territories.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Teutonic Order administration",
+      "role": "Territorial authority over the Deutschmeister's headquarters",
+      "contribution_to_trials": "Exercised jurisdiction over witch prosecutions within Order territory"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1628": "Witch prosecutions begin in Mergentheim during the south German panic wave",
+    "1629": "Continued cases; prosecution subsides as the broader regional panic gradually declines"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Mergentheim and the surrounding Teutonic Order territories in the Tauber valley",
+    "social_reach": "Local community members within the Order's territory",
+    "gender_distribution": "Predominantly female among accused, consistent with regional pattern",
+    "mortality_impact": "Multiple executions in the 1628-1629 period; precise total uncertain from available records"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "The Mergentheim case illustrates the geographic diffusion of the 1626-1631 German persecution wave beyond the major episcopal centers into smaller territories with diverse institutional structures.",
+    "hutton_perspective": "Hutton situates Mergentheim within the pattern of regional witch panic spread, noting how prosecution in one major territory created pressure in adjacent areas through judicial communication, fleeing suspects crossing borders, and general fear.",
+    "ginzburg_perspective": "As a peripheral case in the broader south German persecution wave, Mergentheim illustrates the geographic extent to which the interrogation-shaped confession template was transmitted across territorial boundaries."
+  },
+
+  "legacy_and_historiographical_importance": "Mergentheim appears in the broader surveys of south German witch persecution as part of the 1626-1631 wave. It is less extensively studied as an individual case than the major episcopal centers.",
+
+  "primary_sources": "Teutonic Order administrative records; analyzed in broader south German witch hunt surveys",
+
+  "source_method": "Published scholarship (Behringer, Levack), Teutonic Order archival sources",
+  "review_status": "DRAFT",
+  "confidence": "LOW",
+
+  "scholarly_disagreement": "The precise scale and character of the Mergentheim prosecution is less well documented in the accessible scholarship than the major episcopal cases; confidence in specific details is accordingly lower.",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

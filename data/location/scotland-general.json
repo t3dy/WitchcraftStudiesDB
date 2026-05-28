@@ -1,0 +1,76 @@
+{
+  "id": "scotland-general",
+  "name": "Kingdom of Scotland",
+  "type": "Kingdom",
+  "region": "Scotland",
+  "modern_location": "Scotland",
+  "coordinates": {
+    "latitude": 56.490,
+    "longitude": -4.202
+  },
+
+  "administrative_context": "The Kingdom of Scotland was an independent state until the Act of Union (1707) with England. Scottish witch prosecution operated under the 1563 Witchcraft Act, with the Privy Council issuing commissions for local trials and the Court of Justiciary serving as the central criminal court. Scotland maintained its own distinctive legal system (Scots law) and ecclesiastical structure (the Kirk, Calvinist Presbyterian). The commission system enabled widespread prosecution while theoretically maintaining central oversight.",
+
+  "witchcraft_trials_significance": "Scotland had the highest per-capita rate of witch prosecution and execution in Europe: approximately 3,837 accused (from the Survey of Scottish Witchcraft database) and approximately 1,500-2,000 executed over the period 1563-1736. This rate was approximately five times that of England for a much smaller population. Scotland's intensity has been attributed to the commission system, Calvinist theology's intense providentialism, the personal engagement of James VI, and the role of the Kirk's disciplinary apparatus. Major panic waves occurred in 1591, 1597, 1628-1631, 1649-1650, and 1661-1662.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "James VI / James I",
+      "role": "King of Scotland (1567-1625); personal investigator of North Berwick; author of Daemonologie",
+      "contribution_to_trials": "Personal investment in witch prosecution; Daemonologie (1597) codified his beliefs; his reign coincided with several major panic waves"
+    },
+    {
+      "name": "Scottish Privy Council",
+      "role": "Central authority issuing prosecution commissions",
+      "contribution_to_trials": "Issued commissions enabling local prosecution; periodic liberality with commissions coincided with major panics"
+    },
+    {
+      "name": "Scottish Kirk",
+      "role": "Presbyterian church; disciplinary apparatus",
+      "contribution_to_trials": "Kirk sessions investigated suspected witches; kirk elders provided community surveillance infrastructure; Calvinist theology sustained prosecutorial framework"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1563": "Scottish Witchcraft Act passed",
+    "1590_1591": "North Berwick panic; James VI's personal involvement",
+    "1597": "Major Scotland-wide panic; James VI's Daemonologie published",
+    "1628_1631": "Prosecution wave coinciding with south German panics",
+    "1649_1650": "Major panic coinciding with political upheaval following Charles I's execution",
+    "1661_1662": "Final major Scottish panic; hundreds executed",
+    "1727": "Last Scottish execution (Janet Horne, Dornoch)",
+    "1736": "Scottish and English Witchcraft Acts repealed"
+  },
+
+  "affected_population": {
+    "geographic_extent": "All regions of Scotland; particularly intensive in the central belt, Lothians, Fife, and Aberdeenshire",
+    "social_reach": "All social strata affected; women predominantly but with significant male accused (approximately 15% of total)",
+    "gender_distribution": "Approximately 84% female accused—higher than European average but lower than some English counties",
+    "mortality_impact": "Approximately 1,500-2,000 executed; approximately 3,837 accused in the Survey of Scottish Witchcraft database (which captures documented cases, not all prosecutions)"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Scottish prosecution within the distinctively intense Calvinist providentialism of the Scottish Kirk, noting that Presbyterian church discipline created a pervasive surveillance infrastructure that could identify and report suspected witches at the parish level, feeding the commission-based prosecution system.",
+    "hutton_perspective": "Hutton analyzes the structural explanation for Scotland's extraordinary execution rate: the commission system, which allowed local lairds and bailies to conduct trials without the moderating influence of central appellate courts that existed in England and France, combined with Calvinist institutional intensity and James VI's personal engagement.",
+    "ginzburg_perspective": "Christina Larner's foundational Enemies of God (1981) analyzed Scottish witch prosecution through a feminist-sociological lens; her work, combined with Ginzburg's attention to confession analysis, shapes the understanding of how Scottish interrogation extracted standardized sabbath narratives."
+  },
+
+  "legacy_and_historiographical_importance": "Scotland is one of the most intensively studied national cases in witch trial historiography. Christina Larner's Enemies of God (1981) is the foundational modern study. Julian Goodare's Survey of Scottish Witchcraft (University of Edinburgh) created the most comprehensive national witch trial database anywhere. The Survey documents 3,837 accused persons with individual records. A memorial at Edinburgh Castle (opened 2022) commemorates the victims.",
+
+  "primary_sources": "Scottish Privy Council registers; Court of Justiciary records; kirk session records; local sheriff court records; Survey of Scottish Witchcraft database (University of Edinburgh)",
+
+  "source_method": "Published scholarship (Larner, Goodare, Levack, Clark), Survey of Scottish Witchcraft database",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

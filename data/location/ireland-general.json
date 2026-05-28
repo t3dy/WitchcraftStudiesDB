@@ -1,0 +1,39 @@
+{
+  "id": "ireland-general",
+  "name": "Ireland (Lordship/Kingdom of Ireland)",
+  "type": "Kingdom",
+  "region": "Ireland / British Isles",
+  "modern_location": "Republic of Ireland and Northern Ireland",
+  "coordinates": {
+    "latitude": 53.35,
+    "longitude": -7.69
+  },
+  "lat": 53.35,
+  "lng": -7.69,
+
+  "administrative_context": "Ireland was under English colonial administration as the Lordship of Ireland (from 1177) and later the Kingdom of Ireland (from 1542). Witch prosecution in Ireland was therefore governed by English common law and ecclesiastical structures, though the frequency of trials was far lower than in England, Scotland, or Continental Europe.",
+
+  "witchcraft_trials_significance": "Ireland experienced remarkably few formal witch trials compared to its neighbors. The most famous case is the 1324 Kyteler case in Kilkenny — one of the earliest English-language witchcraft prosecutions. Subsequent trials were rare; scholars attribute this to the resilience of Gaelic folk belief systems and the lower penetration of Continental demonological theory.",
+
+  "trial_events": [
+    "kilkenny-1324-kyteler"
+  ],
+
+  "scholarly_analysis": {
+    "hutton_perspective": "Hutton notes Ireland as a negative case: the very low rate of prosecution illuminates what factors were necessary for intense persecution. The persistence of Gaelic traditional culture and the relative weakness of Protestant reform reduced the conditions for witch-hunting.",
+    "clark_perspective": "Clark's intellectual history framework explains Irish scarcity through the absence of robust demonological institutional structures — neither a strong inquisition nor a well-developed system of witch-trial courts.",
+    "ginzburg_perspective": "Ginzburg's interest in folk belief systems would find Ireland significant as a region where pre-Christian survivals were particularly robust, making it comparatively resistant to demonological reinterpretation."
+  },
+
+  "source_method": "Published scholarship (Hutton, Levack)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

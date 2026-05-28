@@ -1,0 +1,48 @@
+{
+  "id": "dorcas-good-salem-1692",
+  "name": "Dorcas Good",
+  "status": "Survived; Released",
+  "trial_id": "salem-1692",
+  "location_id": "salem-massachusetts",
+  "year_accused": 1692,
+  "year_executed": null,
+  "age_at_trial": 5,
+  "social_status": "Child; daughter of Sarah Good and William Good",
+  "gender": "Female",
+  "biography": "Dorcas Good was approximately four or five years old when she was accused of witchcraft in March 1692, making her the youngest known accused person in the Salem crisis. She was the daughter of Sarah Good, who was herself among the first three accused and who would be executed in July 1692. Dorcas's nursing infant sibling reportedly died in prison. The accusation of a small child — who was said to have bitten the afflicted girls with her familiar's shape — is one of the most extreme illustrations of how the Salem crisis had departed from any rational judicial standard.\n\nDorcas was chained in prison, an appalling condition for a small child. Her father William Good later testified that she had suffered permanent psychological damage from the imprisonment — that she was never mentally well afterward. She was eventually released when the crisis collapsed and the prisoners were freed, but she survived as a permanently damaged person, a child whose mind had been broken by months in chains in colonial prison.",
+  "arrest_narrative": "Dorcas was accused by the afflicted girls who claimed she had bitten them in spectral form. She was examined by the magistrates and apparently confirmed some of the accusations in the confused way a very young child might when questioned by authority figures about things she barely understood. She was imprisoned in chains — standard practice for the accused regardless of age — and remained there through the crisis.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {
+        "session": 1,
+        "method": "Examination by magistrates; age 4-5",
+        "outcome": "Child apparently made confused statements that examiners interpreted as admission"
+      }
+    ],
+    "initial_response": "Confused child responses to examination",
+    "final_confession_summary": "No formal confession; child's responses to examination interpreted as confirmation of spectral attacks"
+  },
+  "accusations_against_them": [
+    "Biting afflicted girls in spectral form",
+    "Possessing a snake familiar (her 'little snake')",
+    "General spectral torment of accusers"
+  ],
+  "execution_details": {
+    "date": null,
+    "method": null,
+    "location": null
+  },
+  "historiographical_significance": "Dorcas Good's imprisonment at age four or five, chained in prison where she suffered permanent psychological damage, represents one of the most extreme consequences of the Salem crisis. Her case is cited by historians as evidence of how completely the prosecutorial machinery had abandoned normal human judgment by spring 1692. Her father's later testimony about her permanent damage is one of the most moving documents of the aftermath. Her case illustrates that the crisis's victims were not limited to those executed — many survivors, particularly the youngest, bore lasting damage.",
+  "source_method": "Salem witchcraft trial records; William Good's petition about his daughter's condition; Rosenthal, Records of the Salem Witch-Hunt (2009)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-the-devils-snare-2002",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

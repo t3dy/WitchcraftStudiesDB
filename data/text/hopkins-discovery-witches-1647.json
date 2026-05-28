@@ -1,0 +1,33 @@
+{
+  "id": "hopkins-discovery-witches-1647",
+  "title": "The Discovery of Witches",
+  "author": "Matthew Hopkins",
+  "author_id": null,
+  "year_published": 1647,
+  "language": "English",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "R. Royston, London, 1647",
+  "modern_edition": "Reprinted in various anthologies; available online",
+  "significance": "Self-justifying pamphlet by England's self-appointed 'Witch-Finder General' describing his testing methods; important as evidence for the most intensive English witch prosecution episode and as a document of Hopkins's self-presentation.",
+  "summary": "Hopkins, who operated as a private witch-finder in East Anglia from 1644-1647 and was responsible for more English witch executions than in the previous 100 years combined (approximately 300 accused, 100+ executed), published this short pamphlet in question-and-answer format to justify his methods against growing criticism. He defends watching (sleep deprivation), pricking (searching for insensitive devil's marks), swimming (water ordeal), and walking until confessing as legitimate discovery methods. Contemporaries including John Gaule were already questioning his legitimacy when he published. Hopkins died in 1647, probably of tuberculosis, not (as legend holds) by being subjected to his own tests.",
+  "clark_analysis": "Clark contextualizes Hopkins within the Civil War disruption of normal legal oversight: the breakdown of assize court supervision during the Interregnum created the institutional vacuum that allowed a private witch-finder to operate. The Daemonologie framework and Perkins's theology provided the intellectual justification Hopkins used.",
+  "hutton_analysis": "Hutton emphasizes the Hopkins episode as an English anomaly: the scale and methods departed significantly from normal English prosecution patterns and reflected Civil War social crisis rather than a model. Hopkins's methods were effectively self-defeating: the Sleep deprivation and walking that produced confessions were recognizable enough as coercive to generate contemporary criticism.",
+  "ginzburg_analysis": "Ginzburg notes the Hopkins episode as evidence that mass witch-hunting required specific institutional and social conditions: the Civil War breakdown of oversight created conditions for a short-lived but intense panic that normal judicial culture would have restrained.",
+  "key_arguments": [
+    "Witch-finders serve a necessary public function by identifying witches magistrates cannot find",
+    "The methods used (watching, pricking, swimming) are legitimate tests, not torture",
+    "Suspects who confess and name accomplices confirm the reality of organized witch networks",
+    "Familiar spirits visible to witches are real demonic entities",
+    "Critics of witch-finding are themselves serving the devil's purposes"
+  ],
+  "influence_on_prosecutions": "Hopkins's direct influence was confined to East Anglia 1644-1647. His methods were sufficiently controversial that they generated legislative debate and were not replicated on a large scale after his death. The episode's significance lies less in long-term influence than in documenting what English witch-hunting looked like at its most intensive.",
+  "related_texts": ["perkins-discourse-witchcraft-1608", "james-vi-daemonologie-1597", "bernard-guide-grand-jury-1627"],
+  "related_trials": [],
+  "scholarly_disagreement": "The total number of Hopkins's victims is debated; estimates range from 100 to 300 executed, with the higher number possibly inflated. Whether Hopkins was a deliberate fraud or a genuine believer is disputed. The legend of his own death by witch-testing is almost certainly false but persists.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["thomas-religion-decline-magic-1971", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

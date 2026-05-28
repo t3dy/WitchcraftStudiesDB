@@ -1,0 +1,60 @@
+{
+  "id": "ipswich-suffolk",
+  "name": "Ipswich (Suffolk, England)",
+  "type": "Town",
+  "region": "Eastern England",
+  "modern_location": "Suffolk, England",
+  "coordinates": {
+    "latitude": 52.059,
+    "longitude": 1.155
+  },
+
+  "administrative_context": "Ipswich was the county town and principal port of Suffolk, subject to the Suffolk Assizes. As Hopkins's primary base of operations during his 1645-1647 campaign, Ipswich served as an administrative center for his witchfinding activities across the region.",
+
+  "witchcraft_trials_significance": "Ipswich was Matthew Hopkins's home town and operational base during his 1645-1647 East Anglian witch hunt. Multiple Ipswich-area cases were investigated under Hopkins's methods. The town represents a key node in the Hopkins network: his examination house at Manningtree (nearby Essex) was where the initial 1645 accusations were processed, and Ipswich and its assize court handled many of the resulting prosecutions.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Matthew Hopkins",
+      "role": "Witchfinder General; based in Manningtree/Ipswich area",
+      "contribution_to_trials": "Operational center for Hopkins's East Anglian campaign; Ipswich area cases among those investigated"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1645": "Hopkins begins his campaign in Manningtree; cases sent to Ipswich area assizes",
+    "1646": "Continued prosecution across the Hopkins network",
+    "1647": "Hopkins's career ends; Ipswich area prosecution subsides"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Ipswich and surrounding Suffolk communities within Hopkins's operational range",
+    "social_reach": "Elderly women primarily; Hopkins's systematic approach reached communities across the region",
+    "gender_distribution": "Predominantly female, consistent with Hopkins's targeting pattern",
+    "mortality_impact": "Multiple executions from Ipswich-area cases during the Hopkins period; part of the broader East Anglian total"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Ipswich as Hopkins's operational center illustrates how the witch-finder model operated within the existing English legal structure: Hopkins worked through the existing magistracy and assize system rather than bypassing it, locating his activities within the established common law framework.",
+    "hutton_perspective": "Hutton notes that Hopkins's success required the cooperation of local magistrates, JPs, and community leaders: the Ipswich-area gentry's willingness to commission Hopkins and accept his findings reflects the genuine community belief and anxiety that made his activities viable.",
+    "ginzburg_perspective": "The Hopkins familiar spirit testimonies from the Ipswich-area cases provide valuable evidence of popular familiar belief: the specific named familiars, their interactions with accused women, and the terms of service described show both genuine folk belief elements and the impact of Hopkins's leading interrogation."
+  },
+
+  "legacy_and_historiographical_importance": "Ipswich appears in Malcolm Gaskill's Witchfinders (2005) as part of the Hopkins operational geography. The Hopkins papers at the British Library include Ipswich-area material.",
+
+  "primary_sources": "Hopkins's operational records (partial); Suffolk Assize records; analyzed in Gaskill, Witchfinders (2005)",
+
+  "source_method": "Published scholarship (Gaskill, Sharpe, Levack), Suffolk court records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

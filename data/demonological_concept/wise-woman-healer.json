@@ -1,0 +1,73 @@
+{
+  "id": "wise-woman-healer",
+  "name": "Wise Woman / Healer (Female Folk Medical Practitioner)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+
+  "scholarly_definition": "The wise woman designated a female practitioner offering services combining herbal medicine, midwifery, diagnosis of illness (including bewitchment), charm healing, and counter-magic. As the female counterpart to the cunning man, the wise woman was a recognized community figure whose skills overlapped with those of licensed physicians in practice while differing in gender, licensing, and social status. The same woman who healed a sick child, assisted at births, and prescribed herbal remedies could be suspected of causing illness through maleficium when her treatments failed or her patients died. The overlap between healer and witch suspect was not inherent but was actuated by accusation, reputational damage, or community conflict.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Medieval folk healer traditions combining herb knowledge with ritual practice",
+      "Midwifery as female-specific professional domain with direct infant-death association",
+      "Church penitentials documenting female healing practitioners and their practices"
+    ],
+    "early_modern_codification": [
+      "Malleus Maleficarum's specific attention to midwives as witch suspects",
+      "Trial records documenting healer-to-witch career transitions under accusation",
+      "Hutton's reconstruction of wise woman service provision"
+    ],
+    "formalization_sources": [
+      "Church court records of consultation with wise women",
+      "Medical licensing records documenting unlicensed female practice",
+      "Prosecution records from cases beginning with healer reputation"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark situates the wise woman's ambiguous status in the theological framework that made all effective magical healing potentially demonic. A wise woman who reliably cured illness — beyond what natural herbal medicine alone could explain — implied supernatural agency, and if that agency was not divine (not licensed by church through prayer and sacrament) it was demonic. The theological framework thus created potential prosecution risk for any woman whose healing was perceived as supernaturally effective, regardless of her intent or self-understanding.",
+
+  "hutton_social_analysis": "Hutton's analysis of wise women emphasizes their legitimate community role and the social conditions that converted healer reputation into witch suspicion. The transition typically required some combination of: repeated treatment failures, community conflict with the healer, death of a patient who had also quarrelled with the healer, or accusation by a rival. In the absence of these triggers, wise women operated with community support. The social contingency of the healer-to-witch transition is one of Hutton's most important insights for understanding who was prosecuted and why.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg notes that wise women's genuine knowledge — of herbs, of bodies, of illness patterns — was often real and effective within its own terms. Some wise women had developed genuine expertise in herbal medicine, midwifery technique, and symptom diagnosis that served their communities effectively. The prosecutorial reframing of this expertise as demonic supplemented knowledge did not mean the expertise was absent; it meant real practitioners' real skills were being reinterpreted through prosecution categories.",
+
+  "actor_perspective": {
+    "practitioner_language": "Wise women understood their practice through frameworks of inherited knowledge, acquired skill, divine gift, or spirit assistance. Many incorporated Christian prayer formulas alongside herbal treatments, understanding themselves as working within sanctioned practice even when using techniques officially classified as magical. The self-description was typically one of service and effectiveness, not supernatural power.",
+    "misalignment": "The misalignment between the wise woman's self-understanding (knowledgeable healer serving community) and the prosecution category (witch whose healing was demonic) was activated by accusation. The same practices that constituted healing in the absence of accusation constituted evidence of malefic knowledge once accusation was made."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Protestant and Catholic theology alike insisted that genuinely effective healing required either natural means (herbs, diet, rest) or divine intervention (prayer, sacrament, saintly intercession). Effective magic that was neither natural nor divinely sanctioned required demonic agency. The wise woman who healed through charms was therefore either a fraud (ineffective) or a witch (demonically effective).",
+    "canonical_law": "Female medical practice was unlicensed except for midwifery (which had its own licensing in some jurisdictions). Unlicensed medical practice was regulated through church courts and guild regulations rather than witchcraft prosecution; the shift to witch prosecution required additional triggers beyond mere practice."
+  },
+
+  "regional_variations": "The wise woman tradition was pan-European, though documentation density varies by region and institutional framework. English records are rich through church court and assize documentation. German records show similar patterns. Italian inquisitorial records document female healers extensively. Scandinavian kloke koner (wise women) were particularly well-known figures. The universality of the type suggests deep cultural roots in gender-divided knowledge domains where women's medical and reproductive expertise was institutionally unrecognized but socially essential.",
+
+  "scholarly_disagreement": "Historians debate whether wise women were disproportionately prosecuted relative to cunning men, with some arguing that gender was the primary driver of prosecution risk and others (Hutton) arguing that regional patterns were more varied and that male practitioners were also substantially represented among the accused in many areas. The intersectionality of gender, age, marital status, and economic marginality in determining prosecution risk is a subject of ongoing research.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "cunning-folk-services",
+    "healing-magic-white",
+    "midwife-suspect-figure",
+    "cunning-folk-vs-witch",
+    "gender-female-susceptibility",
+    "old-woman-witch-stereotype"
+  ],
+
+  "source_method": "Church court records; assize records; medical licensing records; Hutton's reconstruction; prosecution documentation",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The wise woman represents the gendered dimension of folk magical practice most directly — a female knowledge domain (herbal medicine, midwifery, healing) whose ambiguous status (outside official licensing, genuinely effective, involving bodily access) created prosecution vulnerability under specific social conditions. The wise woman's double exposure — as potential healer and potential witch suspect — is the most compact illustration of how gender, knowledge, and social position intersected in early modern witchcraft prosecution.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nocturnal-flight-reality",
+  "name": "Nocturnal Flight: Real or Imaginary?",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The question of whether witches physically flew to the sabbath or experienced the journey only in imagination or demonic illusion was a core doctrinal dispute in early modern demonology. The Canon Episcopi had declared that night-riding beliefs were demonic illusions experienced by foolish women; late medieval and early modern demonologists reversed this, asserting that physical flight was real and the Canon's subjects were genuine witches. The reality of flight had significant legal implications: physical presence at the sabbath was evidence of collective crime, whereas illusory experience was individually contained. Demonologists including Institoris, Bodin, and Rémy argued strongly for physical reality.",
+  "clark_intellectual_analysis": "Clark traces the dispute over nocturnal flight as a site of genuine intellectual controversy within demonological literature: the arguments for and against physical reality drew on different readings of patristic authority, different applications of scholastic epistemology, and different assessments of confessional evidence. Those who asserted physical reality had to overcome the Canon Episcopi's authority; those who maintained the illusion position had to explain why so many women independently described the same experiences. Both sides conducted the debate with philosophical seriousness.",
+  "hutton_social_analysis": "Hutton notes that the flight question had direct consequences for prosecution scope: if flight was real, every person named in sabbath confessions was a co-conspirator who could be arrested; if illusory, the confessor's testimony implicated only herself. The reality position thus enabled the denunciation cascades characteristic of mass prosecutions. Local judges who accepted the physical reality of flight were more likely to pursue named accomplices aggressively.",
+  "ginzburg_interrogation_analysis": "Ginzburg shows that folk practitioners like the benandanti described out-of-body spirit journeys in terms that were neither the physical flight of later demonology nor the simple demonic illusion of the Canon Episcopi, but a third category — voluntary spirit travel — that was a genuine folk belief. Inquisitorial pressure to fit this into one of two learned categories progressively distorted the testimony, eventually producing confessions of physical sabbath attendance indistinguishable from standard demonological expectations.",
+  "regional_variations": "Continental demonology, especially German and French, strongly asserted physical reality of flight from the late fifteenth century onward. Italian inquisitorial practice was more cautious. English and Scottish theology was divided, with some asserting reality and others (Reginald Scot) denying it. New England Puritan tradition accepted flight as real but also acknowledged that the devil could simulate appearances of innocent persons.",
+  "scholarly_disagreement": "Scholars debate whether the shift from the Canon Episcopi's illusion position to the later physical reality position was driven by theological argument, practical prosecutorial need, or genuine change in popular belief. Ginzburg argues it represented an overlay of learned concepts on genuinely different folk traditions; others see it as primarily a learned theological development disconnected from popular belief.",
+  "trial_examples": [],
+  "related_concepts": ["canon-episcopi-doctrine", "illusion-spectral-evidence", "witches-sabbath-collective", "witches-ointment-flying", "demonic-agency-theological"],
+  "source_method": "Canon Episcopi; demonological treatises; Ginzburg's Night Battles; Clark's intellectual history",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

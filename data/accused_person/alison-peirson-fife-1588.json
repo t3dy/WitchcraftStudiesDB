@@ -1,0 +1,45 @@
+{
+  "id": "alison-peirson-fife-1588",
+  "name": "Alison Peirson",
+  "status": "Executed",
+  "trial_id": "fife-1588-peirson",
+  "location_id": "scotland-general",
+  "year_accused": 1588,
+  "year_executed": 1588,
+  "age_at_trial": null,
+  "social_status": "Healer and cunning woman, Boarhills, Fife",
+  "gender": "Female",
+  "biography": "Alison Peirson of Boarhills in Fife was a healer who claimed her knowledge came from instruction by fairy beings, and whose reputation was sufficient to attract the attention of Patrick Adamson, the Archbishop of St Andrews, one of the most powerful ecclesiastical figures in Scotland. She was said to have treated Adamson for illness using her fairy-derived skills. This connection to a prominent churchman lent her case unusual visibility and may have complicated efforts by any powerful protector to shield her from prosecution.\n\nLike Bessie Dunlop before her and other Scottish cunning women of the period, Peirson situated her healing knowledge within a framework of fairy contacts rather than demonic pact. She described receiving instruction from the fairy folk and being able to move between the human and fairy worlds to obtain cures. This framework, common in Scottish popular belief, was by 1588 increasingly likely to be interpreted by ecclesiastical and secular authorities as evidence of diabolism rather than tolerated as harmless folk practice.\n\nPeirson's case falls in the period immediately before the great North Berwick panic of 1590, and represents the pattern of individual cunning-woman prosecutions that characterized Scottish witch-hunting before the mass panics. Her treatment of Archbishop Adamson raises the intriguing question of whether powerful clients provided any protection, or whether such connections ultimately increased vulnerability by associating healers with theologically problematic claims.",
+  "arrest_narrative": "Peirson was accused in 1588 and brought to trial in Fife on charges of witchcraft arising from her healing practice and her claimed fairy contacts. The specific circumstances of her arrest are not fully documented, but her treatment of Archbishop Patrick Adamson and her reputation as a healer using fairy-derived knowledge formed the core of the prosecution.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "unspecified — torture standard in Scottish procedure"
+    ],
+    "initial_response": "Unknown",
+    "final_confession_summary": "Confessed to receiving healing knowledge from the fairy court; described visiting fairy gatherings and obtaining remedies from fairy beings; treatment of Archbishop Adamson through fairy-derived arts; commerce with spirits understood as demonic by prosecutors"
+  },
+  "accusations_against_them": [
+    "Witchcraft and sorcery",
+    "Commerce with fairy spirits",
+    "Healing through supernatural means",
+    "Treating Archbishop Adamson through illicit arts",
+    "Attendance at fairy gatherings"
+  ],
+  "execution_details": {
+    "date": "1588-05-28",
+    "method": "Burning at stake",
+    "location": "Edinburgh"
+  },
+  "historiographical_significance": "Peirson's case is significant as an example of Scottish cunning-woman prosecution in the period before the great panics, and her claimed treatment of Archbishop Adamson illustrates the complex social web in which healers operated. Hutton analyzes her case in relation to the tradition of fairy-instruction among Scottish cunning folk, noting the structural similarity with Bessie Dunlop's case a decade earlier. Her burning in May 1588 represents one of the clearer-documented pre-panic Scottish executions.",
+  "source_method": "Scottish privy council records and Justiciary Court records; published in Pitcairn's Criminal Trials in Scotland (1833); discussed in Hutton's The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

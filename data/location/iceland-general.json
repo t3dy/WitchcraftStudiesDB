@@ -1,0 +1,64 @@
+{
+  "id": "iceland-general",
+  "name": "Iceland (Danish realm)",
+  "type": "Region",
+  "region": "North Atlantic / Scandinavia",
+  "modern_location": "Iceland",
+  "coordinates": {
+    "latitude": 65.0,
+    "longitude": -18.0
+  },
+
+  "administrative_context": "Iceland was a dependency of the Danish Crown, governed by a royal governor and subject to Danish law. Witch prosecution in Iceland occurred under both secular and ecclesiastical jurisdiction, with the bishop's court and secular county courts both involved. Iceland's geographic isolation, sparse population (approximately 50,000), and Lutheran Protestant culture shaped its distinctive prosecution pattern.",
+
+  "witchcraft_trials_significance": "Icelandic witch prosecution between 1625 and 1685 is one of the most anomalous in Europe: approximately 90% of the accused were male—by far the highest proportion in any European jurisdiction. While women were accused in mainland Scandinavia at rates of 70-90%, Icelandic prosecution focused almost entirely on men, primarily practitioners of galdur (runic magic) and seiðr (shamanic practice). This inversion of the standard European gender pattern is a major subject of scholarly analysis. Approximately 120 people were prosecuted and 22 executed.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Magnús Björnsson",
+      "role": "Pastor and witch trial prosecutor",
+      "contribution_to_trials": "Major figure in the 1655 Kirkjuból case, one of the more extensively documented Icelandic prosecutions"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1625": "First significant Icelandic witch prosecution",
+    "1640s_1650s": "More intensive prosecution period",
+    "1655": "Kirkjuból case; significant documented prosecution",
+    "1670s": "Continued cases",
+    "1685": "Last Icelandic execution for witchcraft"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Iceland broadly; cases documented across multiple counties",
+    "social_reach": "Predominantly male farmers, laborers, and practitioners of runic/magical arts",
+    "gender_distribution": "Approximately 90% male—uniquely anomalous in European context; only about 10% of accused were women",
+    "mortality_impact": "Approximately 22 executed from approximately 120 prosecuted; the remainder received lesser punishments"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Icelandic prosecution within Protestant demonology but notes the gender anomaly requires explanation beyond the standard intellectual-history framework: Icelandic Lutheran theology was broadly consistent with mainland Scandinavian demonology, yet produced utterly different gender patterns.",
+    "hutton_perspective": "Hutton analyzes the Icelandic male prosecution majority as reflecting the specific Icelandic magical tradition: galdur (runic magic) was a specifically masculine practice in Icelandic folk tradition, so that those who publicly practiced magic were predominantly men, and prosecution followed existing social identification of magical practitioners.",
+    "ginzburg_perspective": "The Icelandic galdur and seiðr traditions represent well-documented male magical practices with possible connections to Old Norse shamanistic traditions. The prosecution of these practitioners as witches illustrates the collision between indigenous magical traditions and European Protestant prosecution frameworks."
+  },
+
+  "legacy_and_historiographical_importance": "Icelandic witch prosecution has been studied by Kirsten Hastrup and most extensively by Terry Gunnell and Jacqueline Simpson in their analyses of Icelandic folk belief. The anomalous gender pattern makes Iceland a crucial comparative case in the historiography of witch prosecution gender patterns.",
+
+  "primary_sources": "Icelandic county court records; analyzed in Hastrup and Gunnell's scholarship; overview in Levack",
+
+  "source_method": "Published scholarship (Hastrup, Levack, Ankarloo), Icelandic court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "scholarly_disagreement": "The explanation for the near-total male prosecution majority in Iceland is debated: whether it reflects pre-existing Icelandic magical gender roles, Lutheran theological emphases, demographic factors, or other causes remains an open question.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

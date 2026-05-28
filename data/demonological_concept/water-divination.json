@@ -1,0 +1,21 @@
+{
+  "id": "water-divination",
+  "name": "Water Divination (Dowsing)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "Water divination, or dowsing, refers to the folk practice of locating underground water, minerals, or lost objects through the use of a forked stick, rod, or similar implement believed to respond supernaturally to hidden sources. Practitioners held the rod and walked terrain until movement indicated a find. The practice was widespread across Europe and colonial America and employed by both common folk and occasionally learned practitioners who integrated it into natural magic frameworks. Unlike many magical practices, dowsing straddled legitimate and suspect categories, sometimes tolerated and sometimes prosecuted depending on regional context.",
+  "clark_intellectual_analysis": "Clark situates water divination within the broad spectrum of occult practices that occupied the boundary between natural magic and diabolism in learned demonological discourse. Theologians debated whether the rod's motion derived from natural sympathy, demonic intervention, or mere fraud; this tripartite structure of explanation was characteristic of early modern learned debate. The practice illustrates how mundane folk techniques became entangled in theoretical systems that were coherent within scholastic premises.",
+  "hutton_social_analysis": "Hutton places dowsing within the repertoire of cunning folk services, noting that practitioners who offered water-finding or treasure-finding were filling genuine community needs in an era without reliable geological knowledge. Dowsers occupied an ambiguous social niche — useful, sometimes respected, but potentially vulnerable to accusation if their services failed or if they were perceived as drawing on diabolical rather than natural means. Regional variation was significant, with mining districts showing particularly high rates of dowsing practice.",
+  "ginzburg_interrogation_analysis": "Ginzburg's framework highlights how dowsers, when interrogated by ecclesiastical or secular authorities, often struggled to explain the source of their power in ways that satisfied theological categories. Interrogation pressure could transform a practical claim of natural sensitivity into an admission of supernatural compact, demonstrating how the judicial process itself shaped confessional content. The gap between what practitioners believed about themselves and what confessions recorded reflects the broader dynamic Ginzburg identifies throughout European folk magic.",
+  "regional_variations": "German mining regions (Erzgebirge, Harz) show especially rich dowsing traditions connected to ore-finding; English practice focused more on water and lost objects; French practice was integrated into rural cunning-folk services. Basque and Iberian records are sparse. The practice appears in colonial American contexts transferred from English folk tradition.",
+  "scholarly_disagreement": "Scholars disagree on the extent to which dowsing was prosecuted versus merely tolerated. Some argue that dowsers rarely faced formal prosecution because their services were economically valued; others note regional exceptions where dowsers were targeted as treasure-finding sorcerers. The relationship between dowsing and the broader learned tradition of natural magic has also been debated.",
+  "trial_examples": [],
+  "related_concepts": ["treasure-finding-divination", "cunning-folk-services", "natural-magic-learned", "healing-magic-white"],
+  "source_method": "Folk practice records; inquisitorial questionnaires; learned natural magic treatises; ethnographic studies of surviving traditions",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

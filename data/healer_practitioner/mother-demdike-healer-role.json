@@ -1,0 +1,48 @@
+{
+  "id": "mother-demdike-healer-role",
+  "name": "Elizabeth Southerns (Old Demdike)",
+  "status": "Died in Prison",
+  "trial_id": "pendle-1612-trials",
+  "location_id": "pendle-lancashire",
+  "year_active": 1600,
+  "social_status": "Aged pauper woman; local cunning woman and healer",
+  "gender": "Female",
+  "tradition": "Cunning woman/healer",
+  "self_identification": "Wise woman and healer",
+  "claimed_abilities": [
+    "Healing of sick people and livestock",
+    "Charming against illness and maleficium",
+    "Counter-magic against bewitchment",
+    "Command of familiar spirit",
+    "Cursing of enemies (as accused)"
+  ],
+  "biography": "Elizabeth Southerns, known as 'Old Demdike,' was an aged, nearly blind woman who lived in Pendle Forest, Lancashire, and who had established a decades-long reputation as a local healer and charmer before the 1612 prosecutions that would kill her family and neighbors. She is one of Ronald Hutton's key examples of the transition from community healer to accused witch — the trajectory by which a practitioner whose services were valued for decades could, under changed circumstances, be prosecuted as a dangerous diabolic agent.\n\nDemdike had operated as a cunning woman in the Pendle area for many years, providing the standard services: healing of sick people and livestock, charming against ill fortune, counter-magic against suspected bewitchment. Her local reputation was established enough that when magistrate Roger Nowell began investigating suspected witchcraft in 1612, she was among the first named. She died in Lancaster Castle before trial, aged approximately eighty, having lived long enough to see her daughter, granddaughter, and neighbors face the gallows.\n\nThe Pendle case, extensively documented in Thomas Potts's Wonderfull Discoverie of Witches (1613), is one of the best-documented English witch trials. Demdike's role in the record is complex: she confessed readily, naming herself and others as witches. Whether this represented genuine belief in her own diabolism, strategic attempt to control the narrative, or confession extracted under the pressure of aged imprisonment is debated.",
+  "practice_description": "Before her prosecution, Elizabeth Southerns provided cunning-woman services to the Pendle Forest community: healing of sick humans and animals, charming, counter-magic against suspected bewitchment, and advice on fortune and misfortune. Her long tenure and established reputation suggest she had successfully integrated herself into local community life as a valued practitioner. It was this same social embeddedness — the network of relationships, debts, and conflicts accumulated over decades — that provided both her client base and her eventual accusers.",
+  "relationship_to_prosecution": "Arrested in 1612 by magistrate Roger Nowell investigating reports of witchcraft in Pendle Forest. Demdike confessed and provided testimony implicating herself and others; this confession, made by an elderly blind woman in custody, is a complex document whose reliability is disputed. She died in Lancaster Castle before the August 1612 assizes at which her family members were tried and executed.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "cunning woman / wise woman",
+      "charming (protective and healing ritual)",
+      "familiar spirit",
+      "healing by touch and word"
+    ],
+    "inquisitor_categories": [
+      "witch",
+      "diabolical compact",
+      "familiar spirit (demonic)",
+      "murder by witchcraft"
+    ]
+  },
+  "hutton_analysis": "Hutton uses Demdike's case to illustrate the transition from valued community healer to prosecuted witch — a transition he argues was not about any change in the practitioner's actual activities but about changed external circumstances, accumulated community conflicts, and the arrival of a prosecutorial apparatus that reframed decades of established healing practice as evidence of diabolic compact.",
+  "ginzburg_analysis": "Ginzburg's microhistorical approach would focus on the particular social dynamics of the Pendle community — the specific relationships, rivalries, and conflicts that shaped who was accused and on what grounds — rather than treating Demdike as an instance of a general pattern. The detail preserved in Potts's account makes this kind of microhistorical analysis possible.",
+  "historiographical_significance": "Old Demdike is central to the historiography of English witch trials as one of the best-documented examples of the healer-to-accused-witch trajectory. The Pendle case more broadly is one of the most extensively studied English trials, important for understanding both the mechanics of English witch prosecution and the social dynamics of accusation in marginal rural communities.",
+  "source_method": "Thomas Potts's Wonderfull Discoverie of Witches (1613); Robert Poole's edited volume The Lancashire Witches (2002); Hutton's The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

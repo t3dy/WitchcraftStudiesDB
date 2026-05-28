@@ -1,0 +1,47 @@
+{
+  "id": "anna-la-rossa-friuli-benandante",
+  "name": "Anna la Rossa",
+  "status": "Unknown",
+  "trial_id": null,
+  "location_id": "friuli",
+  "year_active": 1580,
+  "social_status": "Peasant woman",
+  "gender": "Female",
+  "tradition": "Benandante",
+  "self_identification": "One who goes with the benandanti",
+  "claimed_abilities": [
+    "Spirit travel during Ember Days",
+    "Participation in nocturnal battles against witches",
+    "Knowledge of malefic agents in the community",
+    "Protective function for community fertility"
+  ],
+  "biography": "Anna la Rossa ('Anna the Red-Haired') is one of the female benandanti documented in Carlo Ginzburg's study of the Friulian inquisitorial records. Her presence in the corpus is significant because the benandante tradition was predominantly male in its documented form: most named practitioners who came before the Venetian Inquisition were men, and the primary role of combat against witches during Ember Days was typically gendered male. Female participation, when it occurred, complicates the picture.\n\nAnna's case suggests that women could claim membership in the benandante community and participate in the spirit journeys, though the specific roles assigned to female benandanti in these nocturnal encounters may have differed from those of their male counterparts. Her record survives in the inquisitorial archive of the Friuli, forming part of the larger corpus Ginzburg excavated when researching The Night Battles.\n\nThe 'la Rossa' epithet — a common Italian practice of appending a descriptive nickname — suggests she was identified within her community primarily by physical appearance, indicating she was a real, locally-known figure rather than a generic or composite character in inquisitorial records.",
+  "practice_description": "Anna claimed participation in the benandante spirit journeys during the Ember Days, the four seasonal periods when benandanti believed their souls left their bodies to engage witches in ritual combat. Her specific role in these nocturnal encounters is less fully documented than those of male benandanti in the record, but she identified herself as part of the protective benandante community rather than as a witch.",
+  "relationship_to_prosecution": "Investigated by the Venetian Inquisition as part of the broader inquiry into benandante activity in the Friuli. Her gender made her case complex for inquisitors: the benandante framework was predominantly male, while the witch-trial apparatus more commonly prosecuted women, creating interpretive tension in how her testimony was categorized.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "benandante (member of the protective company)",
+      "andare in spirito (going in spirit)",
+      "combating witches (streghe)",
+      "Ember Day journeys"
+    ],
+    "inquisitor_categories": [
+      "strega (witch)",
+      "diabolical assembly",
+      "heretical practice",
+      "superstitious belief"
+    ]
+  },
+  "hutton_analysis": "Hutton notes the predominantly male character of the documented benandante tradition and treats female participants as evidence that the boundaries between protective practitioner traditions and other folk-belief systems were fluid, with women participating in traditions theoretically dominated by men in ways that complicates any simple gendering of folk magic.",
+  "ginzburg_analysis": "Ginzburg documents female benandanti like Anna la Rossa to show that the tradition, while male-dominant in its combat role, was not exclusively so, and uses her case to explore the varied forms folk belief could take within a single regional tradition — evidence against any reductive uniformity in his reconstruction of the underlying shamanic stratum.",
+  "historiographical_significance": "Female benandanti like Anna la Rossa are important for gender historians of witchcraft because they represent women claiming a protective, socially valued magical role in a tradition usually coded male. Her case complicates the narrative that women's magical practice was primarily associated with maleficium and prosecution, suggesting more complex gendered landscapes in the actual distribution of folk magical roles.",
+  "source_method": "Published trial records from the Venetian Inquisition archive; Ginzburg's The Night Battles (1966, English trans. 1983)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

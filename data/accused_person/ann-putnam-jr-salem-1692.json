@@ -1,0 +1,39 @@
+{
+  "id": "ann-putnam-jr-salem-1692",
+  "name": "Ann Putnam Jr.",
+  "status": "Survived; Released",
+  "trial_id": "salem-1692",
+  "location_id": "salem-massachusetts",
+  "year_accused": 1692,
+  "year_executed": null,
+  "age_at_trial": 12,
+  "social_status": "Daughter of Thomas and Ann Putnam Sr.; prominent Salem Village family",
+  "gender": "Female",
+  "biography": "Ann Putnam Jr. was twelve years old in 1692 and was one of the most prolific and effective of the Salem accusers rather than an accused. She was the daughter of Thomas Putnam and Ann Putnam Sr., members of one of Salem Village's most prominent and litigious families, and her accusations were instrumental in the conviction of dozens of people. She named more accused witches than almost any other afflicted person, including the remarkable accusation of George Burroughs as king of the witches.\n\nIn 1706, fourteen years after the crisis, Ann Putnam Jr. made a public confession and apology in Salem Village church — the only one of the principal accusers to do so publicly. Read aloud by the minister at her request (she was too overwhelmed to speak it herself), the statement said that she had been a sad instrument for accusing several persons of a grievous crime of witchcraft, though she would not own that she had done it out of any anger, malice, or ill will, but by a great delusion of Satan. This public apology, which she sought and made, sets her apart from the other accusers and has generated extensive scholarly discussion about her understanding of what she had done.",
+  "arrest_narrative": "Not accused — she was an accuser. However, her long-term fate as the only accuser to publicly apologize makes her a significant figure in Salem history. She remained in Salem Village, caring for younger siblings after her parents died, and died in 1716 still in the village where she had caused so much destruction.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [],
+    "initial_response": "Not an accused person — was a primary accuser",
+    "final_confession_summary": "1706 public church apology: acknowledged she had been a sad instrument for accusing several persons under Satanic delusion; asked forgiveness of the survivors and families of the executed"
+  },
+  "accusations_against_them": [],
+  "execution_details": {
+    "date": null,
+    "method": null,
+    "location": null
+  },
+  "historiographical_significance": "Ann Putnam Jr.'s 1706 public apology is the only such acknowledgment from any Salem accuser and is one of the most significant documents of the Salem aftermath. Historians debate what it reveals: genuine remorse and understanding? Social pressure to confess errors after the crisis's disgrace? The apology's language — emphasizing Satanic delusion rather than personal guilt — may be significant. Boyer and Nissenbaum's analysis of the Putnam family's role in the crisis emphasizes the structural position of her family in Salem Village's economic and social conflicts.",
+  "source_method": "Ann Putnam's 1706 church apology (preserved in church records); Boyer and Nissenbaum, Salem Possessed (1974); Rosenthal, Records of the Salem Witch-Hunt (2009)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-the-devils-snare-2002",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "scholarly_disagreement": "Historians disagree about the degree to which Ann Putnam Jr. and other child accusers were conscious agents, victims of mass hysteria, responding to family pressure, or genuinely experiencing something — whether psychological, sociological, or otherwise. The apology's sincerity and completeness have also been debated.",
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

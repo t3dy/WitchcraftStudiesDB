@@ -3,28 +3,37 @@
   "name": "Elizabeth Francis",
   "status": "Executed",
   "trial_id": "chelmsford-1566",
-  "location_id": "chelmsford",
+  "location_id": "chelmsford-essex",
   "year_accused": 1566,
   "year_executed": 1579,
   "age_at_trial": null,
   "social_status": "Rural woman, Hatfield Peverel, Essex",
   "gender": "Female",
   "biography": "Elizabeth Francis was one of the first accused in the Essex witch trials that began in 1566, and her case has the unusual feature of spanning three separate trials over more than a decade. At her first trial in 1566, she confessed to possessing a familiar spirit — a white spotted cat named Sathan — which she claimed had been given to her by her grandmother, Mother Eve. This early confession linked familiar spirit inheritance across generations, a pattern scholars have found significant for understanding how magical practice (or its reputation) could be transmitted within families.\n\nFrancis survived the 1566 trial with a lesser sentence and appeared again before the courts in 1572 and finally in 1579, when she was executed. Her long judicial history — three encounters with the assize courts over thirteen years — makes her one of the more individually documented English accused witches of the period. Her 1566 confession, describing how she gave the cat to Agnes Waterhouse, created a narrative link between the two women that shaped the entire first Chelmsford prosecution.",
-
   "arrest_narrative": "Francis first came before the Chelmsford assize in 1566, accused of witchcraft and confessing to possession of the familiar Sathan. She escaped execution at this trial but was sentenced to lesser punishment. She appeared again before courts in 1572 for further witchcraft offenses and received a lesser punishment again. In 1579, she was finally convicted and executed under the terms of the witchcraft statute.",
-
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "torture_sessions": [
-      {"session": 1, "method": "Examination before assize court, 1566", "outcome": "Confession to familiar possession and multiple maleficium; escaped with lesser sentence"},
-      {"session": 2, "method": "Examination, 1572", "outcome": "Further confession; lesser penalty"},
-      {"session": 3, "method": "Examination, 1579", "outcome": "Conviction and execution"}
+      {
+        "session": 1,
+        "method": "Examination before assize court, 1566",
+        "outcome": "Confession to familiar possession and multiple maleficium; escaped with lesser sentence"
+      },
+      {
+        "session": 2,
+        "method": "Examination, 1572",
+        "outcome": "Further confession; lesser penalty"
+      },
+      {
+        "session": 3,
+        "method": "Examination, 1579",
+        "outcome": "Conviction and execution"
+      }
     ],
     "initial_response": "Confession at first encounter in 1566",
     "final_confession_summary": "At 1566 trial: confessed to receiving familiar cat Sathan from grandmother; using it for multiple maleficium including killing livestock, attempting to cause a man to marry her, and procuring abortions; that she gave Sathan to Agnes Waterhouse"
   },
-
   "accusations_against_them": [
     "Possessing familiar spirit (cat named Sathan, inherited from grandmother Mother Eve)",
     "Using familiar to kill livestock",
@@ -33,15 +42,12 @@
     "Transferring familiar to Agnes Waterhouse",
     "Repeated witchcraft offenses over thirteen years"
   ],
-
   "execution_details": {
     "date": "1579-01-01",
     "method": "Hanging",
     "location": "Chelmsford, Essex"
   },
-
   "historiographical_significance": "Francis is significant for her long judicial history spanning three separate trials and for the 1566 confession's detail about inheriting the familiar from her grandmother — a pattern suggesting how magical reputation could be transmitted within families and how the familiar-spirit concept was understood as a practical inheritance. Keith Thomas used her case to illustrate the social dynamics of Essex witch prosecution. The extended timeframe of her prosecution also shows how an initial accusation could create a lasting judicial vulnerability.",
-
   "source_method": "The Examination and Confession of certaine Wytches at Chensforde (1566); Essex assize records; A Detection of damnable driftes (1579)",
   "review_status": "DRAFT",
   "confidence": "HIGH",

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Scholars &amp; Texts — WitchcraftStudiesDB</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+body { margin:0; background:#0d0d0d; color:#e8e0d0; font-family:Georgia,serif; }
+.page-header { background:#111; border-bottom:1px solid #3a3a3a; padding:1.5rem 2rem 1rem; }
+.page-header h1 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; font-size:2rem; margin:0 0 0.25rem; }
+.page-header p { color:#888; font-size:0.9rem; margin:0; }
+.tab-bar { background:#1a1a1a; border-bottom:1px solid #3a3a3a; padding:0 2rem; display:flex; gap:0; }
+.tab { padding:0.75rem 1.5rem; color:#888; cursor:pointer; border-bottom:2px solid transparent; font-size:0.88rem; transition:color 0.15s; user-select:none; }
+.tab:hover { color:#e8e0d0; }
+.tab.active { color:#C9A84C; border-bottom-color:#C9A84C; }
+.controls { background:#111; border-bottom:1px solid #222; padding:0.65rem 2rem; display:flex; gap:0.75rem; flex-wrap:wrap; align-items:center; }
+.controls input, .controls select { background:#0d0d0d; color:#e8e0d0; border:1px solid #3a3a3a; padding:0.4rem 0.65rem; border-radius:3px; font-family:Georgia,serif; font-size:0.85rem; }
+.controls input[type=text] { flex:1; min-width:200px; }
+#count { padding:0.4rem 2rem; color:#555; font-size:0.82rem; border-bottom:1px solid #1a1a1a; }
+#content { padding:1.5rem 2rem 3rem; max-width:1200px; margin:0 auto; }
+
+/* Scholar cards */
+.scholar-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:1rem; }
+.scholar-card { background:#1f1f1f; border:1px solid #2a2a2a; border-radius:4px; padding:1.25rem; cursor:pointer; transition:border-color 0.15s; }
+.scholar-card:hover { border-color:#C9A84C; }
+.avatar { width:44px; height:44px; border-radius:50%; background:#3a0000; display:flex; align-items:center; justify-content:center; font-size:1rem; color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; font-weight:bold; margin-bottom:0.75rem; border:2px solid #8B0000; flex-shrink:0; }
+.scholar-card-head { display:flex; align-items:flex-start; gap:0.75rem; }
+.scholar-card-info { flex:1; }
+.scholar-card h3 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; margin:0 0 0.15rem; font-size:1rem; }
+.scholar-dates { color:#555; font-size:0.72rem; }
+.discipline-badge { display:inline-block; color:#8B0000; font-size:0.72rem; text-transform:uppercase; letter-spacing:0.05em; margin:0.3rem 0 0.5rem; }
+.scholar-card p { color:#b8b0a0; font-size:0.82rem; line-height:1.5; margin:0 0 0.5rem; }
+.scholar-works { display:none; margin-top:0.75rem; border-top:1px solid #2a2a2a; padding-top:0.75rem; }
+.scholar-works.open { display:block; }
+.work-item { font-size:0.78rem; color:#888; margin:0.2rem 0; }
+.work-item em { color:#b8b0a0; }
+
+/* Text cards */
+.text-list { display:flex; flex-direction:column; gap:0.75rem; }
+.text-card { background:#1f1f1f; border:1px solid #2a2a2a; border-left:3px solid #8B0000; border-radius:0 4px 4px 0; padding:1.1rem 1.25rem; cursor:pointer; transition:border-left-color 0.15s,background 0.15s; }
+.text-card:hover { border-left-color:#C9A84C; background:#242424; }
+.text-card h3 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; margin:0 0 0.2rem; font-size:0.95rem; font-style:italic; }
+.text-meta { display:flex; gap:0.5rem; align-items:center; flex-wrap:wrap; margin-bottom:0.4rem; }
+.text-author { color:#e8e0d0; font-size:0.82rem; }
+.text-year { color:#888; font-size:0.78rem; }
+.type-badge { display:inline-block; padding:0.1rem 0.4rem; border-radius:3px; font-size:0.67rem; color:#fff; white-space:nowrap; }
+.PRIMARY_SOURCE { background:#4a0000; }
+.SECONDARY_SCHOLARSHIP { background:#1a2a4a; }
+.DEMONOLOGICAL_TREATISE { background:#3a0048; }
+.SKEPTICAL_TREATISE { background:#004a2a; }
+.TRIAL_RECORD { background:#3a2000; }
+.lang-badge { display:inline-block; background:#1a1a1a; border:1px solid #3a3a3a; border-radius:3px; padding:0.1rem 0.35rem; font-size:0.68rem; color:#888; }
+.text-body { display:none; font-size:0.82rem; color:#b8b0a0; line-height:1.5; margin-top:0.5rem; border-top:1px solid #2a2a2a; padding-top:0.5rem; }
+.text-body.open { display:block; }
+</style>
+</head>
+<body>
+<nav style="background:#1a1a1a;border-bottom:2px solid #8B0000;padding:0.75rem 2rem;display:flex;align-items:center;gap:2rem;flex-wrap:wrap;position:sticky;top:0;z-index:100;">
+  <a href="index.html" style="color:#C9A84C;font-size:1.1rem;font-weight:bold;text-decoration:none;font-family:'Palatino Linotype',Palatino,serif;">⚸ WitchcraftStudiesDB</a>
+  <a href="map.html" style="color:#e8e0d0;text-decoration:none;">Map</a>
+  <a href="timeline.html" style="color:#e8e0d0;text-decoration:none;">Timeline</a>
+  <a href="trials.html" style="color:#e8e0d0;text-decoration:none;">Trials</a>
+  <a href="concepts.html" style="color:#e8e0d0;text-decoration:none;">Concepts</a>
+  <a href="scholars.html" style="color:#C9A84C;text-decoration:none;border-bottom:1px solid #C9A84C;">Scholars</a>
+  <a href="accused.html" style="color:#e8e0d0;text-decoration:none;">People</a>
+  <a href="about.html" style="color:#e8e0d0;text-decoration:none;">About</a>
+</nav>
+<div class="page-header">
+  <h1>🎓 Scholars &amp; Texts</h1>
+  <p>Contemporary historians of witchcraft and primary demonological sources. Click cards to expand details and major works.</p>
+</div>
+<div class="tab-bar">
+  <div class="tab active" id="tabScholars" onclick="showTab('scholars')">Scholars (Historians)</div>
+  <div class="tab" id="tabTexts" onclick="showTab('texts')">Primary Texts &amp; Treatises</div>
+</div>
+<div class="controls">
+  <input type="text" id="search" placeholder="Search...">
+  <select id="disciplineFilter">
+    <option value="">All Disciplines</option>
+    <option value="SOCIAL HISTORY">Social History</option>
+    <option value="INTELLECTUAL HISTORY">Intellectual History</option>
+    <option value="GENDER HISTORY">Gender History</option>
+    <option value="MICROHISTORY">Microhistory</option>
+    <option value="LEGAL HISTORY">Legal History</option>
+    <option value="ANTHROPOLOGY">Anthropology</option>
+    <option value="Scandinavian History">Scandinavian History</option>
+  </select>
+</div>
+<div id="count"></div>
+<div id="content"></div>
+
+<script src="js/data_bundle.js"></script>
+<script>
+let currentTab = 'scholars';
+
+function showTab(tab) {
+  currentTab = tab;
+  document.getElementById('tabScholars').className = 'tab' + (tab === 'scholars' ? ' active' : '');
+  document.getElementById('tabTexts').className = 'tab' + (tab === 'texts' ? ' active' : '');
+  render();
+}
+
+function initials(name) {
+  return name.split(' ').map(w => w[0]).filter(c => c && c.match(/[A-Z]/i)).slice(0, 2).join('').toUpperCase();
+}
+
+function getTypeClass(type) {
+  if (!type) return '';
+  const clean = type.replace(/[\s-]/g, '_').replace(/[^A-Z_]/g, '');
+  const known = ['PRIMARY_SOURCE','SECONDARY_SCHOLARSHIP','DEMONOLOGICAL_TREATISE','SKEPTICAL_TREATISE','TRIAL_RECORD'];
+  return known.find(k => clean.includes(k.split('_')[0])) || 'SECONDARY_SCHOLARSHIP';
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const discipline = document.getElementById('disciplineFilter').value;
+  const content = document.getElementById('content');
+
+  if (currentTab === 'scholars') {
+    const scholars = (window.SCHOLARS || []).filter(s => {
+      if (q && !(s.name + ' ' + (s.specialization || '') + ' ' + (s.core_argument || '')).toLowerCase().includes(q)) return false;
+      if (discipline && !((s.historiographical_position || '') + (s.academic_discipline || '')).toLowerCase().includes(discipline.toLowerCase())) return false;
+      return true;
+    }).sort((a, b) => a.name.localeCompare(b.name));
+
+    document.getElementById('count').textContent = scholars.length + ' scholars';
+
+    content.innerHTML = `<div class="scholar-grid">${scholars.map(s => {
+      const lifespan = s.birth_year ? (s.birth_year + (s.death_year ? '–' + s.death_year : '–')) : '';
+      const pos = s.historiographical_position || s.academic_discipline || '';
+      const works = (s.major_works || []).map(w => `<div class="work-item"><em>${w.title}</em>${w.year ? ' (' + w.year + ')' : ''}</div>`).join('');
+      return `<div class="scholar-card" onclick="this.querySelector('.scholar-works').classList.toggle('open')">
+        <div class="scholar-card-head">
+          <div class="avatar">${initials(s.name)}</div>
+          <div class="scholar-card-info">
+            <h3>${s.name}</h3>
+            ${lifespan ? `<div class="scholar-dates">${lifespan}</div>` : ''}
+            ${pos ? `<div class="discipline-badge">${pos}</div>` : ''}
+          </div>
+        </div>
+        ${s.primary_institution ? `<div style="color:#555;font-size:0.75rem;margin-bottom:0.4rem;">${s.primary_institution}</div>` : ''}
+        <p>${s.core_argument || ''}</p>
+        ${works ? `<div class="scholar-works"><div style="color:#888;font-size:0.72rem;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.3rem;">Major Works</div>${works}</div>` : ''}
+      </div>`;
+    }).join('')}</div>`;
+
+  } else {
+    const texts = (window.TEXTS || []).filter(t => {
+      if (q && !(t.title + ' ' + (t.author || '') + ' ' + (t.significance || '')).toLowerCase().includes(q)) return false;
+      return true;
+    }).sort((a, b) => a.year_published - b.year_published);
+
+    document.getElementById('count').textContent = texts.length + ' texts';
+
+    content.innerHTML = `<div class="text-list">${texts.map(t => {
+      const typeClass = getTypeClass(t.type);
+      const typeLabel = (t.type || '').replace(/_/g, ' ');
+      return `<div class="text-card" onclick="this.querySelector('.text-body').classList.toggle('open')">
+        <h3>${t.title}</h3>
+        <div class="text-meta">
+          <span class="text-author">${t.author || ''}</span>
+          <span class="text-year">${t.year_published || ''}</span>
+          ${t.language ? `<span class="lang-badge">${t.language}</span>` : ''}
+          ${t.type ? `<span class="type-badge ${typeClass}">${typeLabel}</span>` : ''}
+        </div>
+        <div class="text-body">
+          <p>${t.significance || ''}</p>
+          ${t.summary ? `<p style="margin-top:0.5rem;">${t.summary}</p>` : ''}
+        </div>
+      </div>`;
+    }).join('')}</div>`;
+  }
+}
+
+['search', 'disciplineFilter'].forEach(id => {
+  document.getElementById(id).addEventListener('input', render);
+});
+render();
+</script>
+</body>
+</html>

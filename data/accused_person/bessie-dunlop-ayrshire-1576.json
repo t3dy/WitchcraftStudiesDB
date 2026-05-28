@@ -1,0 +1,46 @@
+{
+  "id": "bessie-dunlop-ayrshire-1576",
+  "name": "Bessie Dunlop",
+  "status": "Executed",
+  "trial_id": "ayrshire-1576-dunlop",
+  "location_id": "scotland-general",
+  "year_accused": 1576,
+  "year_executed": 1576,
+  "age_at_trial": null,
+  "social_status": "Healer and cunning woman, Dalry, Ayrshire",
+  "gender": "Female",
+  "biography": "Bessie Dunlop of Lyne in Ayrshire was a healer and cunning woman who claimed her knowledge of remedies and ability to find lost or stolen goods came not from the Devil but from Thomas Reid, a man killed at the Battle of Flodden in 1513, and from the Queen of Elfhame and her company. She had an established local reputation as a successful healer whom people came to consult from considerable distances, and her practice included herbal remedies, locating lost property, and identifying thieves. She does not appear to have sought out clients through any aggressive self-promotion but rather to have built a quiet local reputation over many years.\n\nDunlop's confessions describe Thomas Reid appearing to her first around the time of her serious illness following childbirth, teaching her about healing herbs and granting her supernatural assistance. She insisted repeatedly that she had refused the Queen of Elfhame's invitation to join the fairy company, identifying herself instead as a good Christian woman who received guidance from the fairies without having abandoned her faith or made a demonic pact. This distinction — crucial to her own self-understanding — was evidently not one the court was willing to recognize.\n\nRonald Hutton has analyzed Dunlop extensively as a paradigm case of the cunning woman whose folk-belief framework of fairy contacts and spirit instruction was wholly reinterpreted by prosecutors within the emerging demonological framework of satanic pact. Her case illustrates the collision between two worldviews: the vernacular tradition of beneficial spirits and fairy helpers, and the learned tradition that identified all such contacts as demonic deception.",
+  "arrest_narrative": "Dunlop was brought before the justiciary court in Edinburgh in 1576, accused of witchcraft and sorcery based on her reputation as a healer and the unusual claims about the source of her knowledge. The prosecution focused on her claimed contacts with Thomas Reid and the fairy court, which under contemporary demonological interpretation constituted commerce with demons regardless of her own categorization of these relationships.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "unspecified — torture standard in Scottish procedure"
+    ],
+    "initial_response": "Maintained that her knowledge came from Thomas Reid and the Queen of Elfhame, not from the Devil",
+    "final_confession_summary": "Confessed to receiving healing knowledge from Thomas Reid (ghost of man killed at Flodden 1513) and the Queen of Elfhame; refused to renounce these contacts even under pressure; ultimately convicted on basis that such contacts constituted witchcraft regardless of her characterization of them"
+  },
+  "accusations_against_them": [
+    "Practicing witchcraft and sorcery",
+    "Commerce with spirits (Thomas Reid, Queen of Elfhame)",
+    "Healing through supernatural means",
+    "Identifying thieves through demonic assistance",
+    "Finding lost property through illicit arts"
+  ],
+  "execution_details": {
+    "date": "1576-11-08",
+    "method": "Burning at stake",
+    "location": "Edinburgh"
+  },
+  "historiographical_significance": "Hutton treats Dunlop as a key case study in The Witch (2017) for understanding cunning folk and their place in early modern Scottish communities. Her explicit claim that knowledge came from fairy contacts rather than a demonic pact, and her refusal to abandon this self-description even during trial, makes her case particularly important for understanding how vernacular folk belief systems were forcibly reinterpreted through demonological categories. Her case predates the major Scottish witch panics and represents a more localized prosecution of an individual practitioner.",
+  "source_method": "Published in Pitcairn's Criminal Trials in Scotland (1833); analyzed in Hutton's The Witch (2017) and Lizanne Henderson's Witchcraft and Folk Belief in Early Modern Scotland",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

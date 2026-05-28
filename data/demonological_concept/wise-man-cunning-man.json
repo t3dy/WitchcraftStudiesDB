@@ -1,0 +1,21 @@
+{
+  "id": "wise-man-cunning-man",
+  "name": "Wise Man / Cunning Man: Male Folk Healer and Diviner",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "England, Europe-Wide",
+  "scholarly_definition": "The 'wise man' or 'cunning man' was the male counterpart of the wise woman or cunning woman in English folk magic tradition — a practitioner offering healing, divination, counter-magic, and the identification of witches or thieves to community members. While female practitioners predominated (roughly 75-80% of accused witches were women), male cunning folk were significant practitioners constituting 20-25% of those recorded in some English regional studies. They occupied a recognized and often respected social role, typically serving their local communities and sometimes broader networks of clients who traveled to consult them. The term 'cunning' in this context derived from the Old English 'cunnan' (to know), meaning a person of knowledge.",
+  "clark_intellectual_analysis": "Clark notes that male learned demonologists and male popular practitioners occupied different positions within the broader landscape of magical practice: learned natural magicians (Agrippa, Dee) stood at one pole; village cunning men at another; and the overlap between them varied by context. The male cunning man's claim to knowledge — whether astrological, herbal, or divinatory — could potentially intersect with learned natural magic traditions in ways that female practitioners' did not, giving some cunning men a degree of learned legitimation.",
+  "hutton_social_analysis": "Hutton emphasizes the cunning man's community role in Hutton's social history, documenting the range of services provided — unwitching, healing, finding stolen goods, identifying thieves — and the community's practical dependence on these services. He notes that male cunning folk were less frequently prosecuted than female ones, which he connects to gender dynamics of accusation rather than to any difference in their practices. The cunning man's social function was valued even by those who disapproved theologically.",
+  "ginzburg_interrogation_analysis": "Ginzburg's analysis of the benandanti, who were predominantly male, provides a parallel to the cunning man tradition. The benandanti's self-understanding as beneficial spirit-fighters with protective community functions resembles the English cunning man's role, and Ginzburg argues both reflect a broader European substrate of shamanic practitioner tradition. Male practitioners in both contexts claimed beneficial identities that interrogators progressively eroded.",
+  "regional_variations": "The English cunning man tradition is particularly well documented through assize and church court records. German-speaking territories had Klugschmied and other male specialist practitioners. Scandinavian traditions included male galdr practitioners. Italian Renaissance magical tradition included male natural magicians (magi). French regions had devins (diviners) including both men and women. The gendering of folk magic practice varied significantly by region.",
+  "scholarly_disagreement": "Whether male cunning folk were prosecuted at rates significantly below female practitioners in England is debated: Sharpe's data shows male prosecution was more common than often assumed. The relationship between learned natural magic and village cunning-man practice — and whether they shared a common tradition or were quite distinct — is also a matter of scholarly discussion.",
+  "trial_examples": [],
+  "related_concepts": ["cunning-folk-vs-witch", "wise-woman-healer", "village-sorcerer-archetype", "cunning-folk-services", "natural-magic-learned"],
+  "source_method": "English assize and church court records; Hutton The Witch; Davies Popular Magic; Sharpe Instruments of Darkness; Macfarlane Witchcraft in Tudor and Stuart England",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "elizabeth-sawyer-edmonton-1621",
+  "name": "Elizabeth Sawyer",
+  "status": "Executed",
+  "trial_id": "edmonton-1621-sawyer",
+  "location_id": "essex-county",
+  "year_accused": 1621,
+  "year_executed": 1621,
+  "age_at_trial": null,
+  "social_status": "Poor elderly woman, Edmonton, Middlesex; socially marginalized",
+  "gender": "Female",
+  "biography": "Elizabeth Sawyer, known as the Witch of Edmonton, was an elderly, poor, and socially marginalized woman from Edmonton in Middlesex whose trial and execution in April 1621 became one of the most documented English witch cases of the early seventeenth century. She had a reputation in her community as a quarrelsome, antisocial figure who cursed her neighbors, and this reputation meant that when her neighbors suspected maleficium, she was the obvious candidate for accusation. She was physically described as bent and deformed, with a visible mark on her body identified by searchers as the devil's mark.\n\nSawyer confessed to a compact with a familiar spirit who appeared to her in the form of a black dog named Tom. The familiar demanded that she allow it to suck her blood, and in return it would perform maleficium against her neighbors and enemies. Her confession describes the relationship with Tom in vivid detail — his appearance, his demands, her provision of blood through a mark on her arm. This familiar-spirit tradition was distinctively English, and Sawyer's case is one of the best-documented examples of it.\n\nHer case attracted immediate literary attention. Within the same year, the playwrights William Rowley, Thomas Dekker, and John Ford produced The Witch of Edmonton (1621), a stage drama based on her story that shows unusual sympathy for Sawyer as a social victim driven to the devil by communal cruelty. The pamphlet The Wonderfull Discoverie of Elizabeth Sawyer a Witch by Henry Goodcole, who visited her in prison, provides the primary source for her confessions and social circumstances.",
+  "arrest_narrative": "Sawyer was arrested following accusations from her Edmonton neighbors that she had practiced maleficium against them. The physical examination revealing a mark on her body identified as the devil's mark was used as material confirmation of guilt. She was tried at the Old Bailey assizes in April 1621.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Denial followed by confession",
+    "final_confession_summary": "Confessed to compact with familiar spirit in form of black dog named Tom; allowing Tom to suck blood from mark on arm; Tom performing maleficium against neighbors at her direction including causing illness and the death of a child and a neighbor; denied attending sabbath — her confessions are characteristic English familiar-spirit form rather than continental sabbath tradition"
+  },
+  "accusations_against_them": [
+    "Compact with familiar spirit (black dog named Tom)",
+    "Allowing familiar to suck blood from body",
+    "Maleficium causing illness of neighbors",
+    "Causing death through witchcraft",
+    "Bewitching livestock"
+  ],
+  "execution_details": {
+    "date": "1621-04-19",
+    "method": "Hanging",
+    "location": "Tyburn, London"
+  },
+  "historiographical_significance": "Sawyer's case is one of the paradigm examples of the English familiar-spirit tradition, which differed substantially from continental sabbath-based witch belief and reflected distinctively English popular religious and magical culture. Her social profile — poor, marginal, physically unusual, quarrelsome — typifies the profile of many English accused identified by historians including Keith Thomas and Alan Macfarlane as characteristic victims of village-level accusation dynamics. The near-contemporary play The Witch of Edmonton is also studied for what it reveals about contemporary sympathy for social victims of accusation.",
+  "source_method": "Henry Goodcole, The Wonderfull Discoverie of Elizabeth Sawyer a Witch (1621); Old Bailey records; analyzed in Macfarlane's Witchcraft in Tudor and Stuart England (1970) and Levack",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

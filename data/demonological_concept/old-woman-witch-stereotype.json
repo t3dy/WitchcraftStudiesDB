@@ -1,0 +1,21 @@
+{
+  "id": "old-woman-witch-stereotype",
+  "name": "Old Woman Witch Stereotype: Hag and Post-Menopausal Vulnerability",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The stereotypical witch of early modern popular and learned imagination was an old, poor, ugly, post-menopausal woman — a hag. This stereotype had both popular roots (the dangerous crone, the evil stepmother) and learned theological justifications (post-menopausal women's excess of cold, dry humors making them susceptible to diabolical influence, or alternatively their frustrated carnal desires making them vulnerable to demonic seduction). The actual accused in witch trials partially matched this stereotype: older women were indeed over-represented among the accused, and widowed or unmarried women were more vulnerable than those in established households. However, the stereotype was also often wrong in specific cases, and mass panics could target much younger persons including children.",
+  "clark_intellectual_analysis": "Clark situates the hag stereotype within the broader intellectual framework of gender theory and humoral medicine that early modern learned discourse employed to explain female susceptibility. The argument that post-menopausal women were dangerous because they retained corrupted blood that would otherwise be expelled — and that this corruption made them more susceptible to or more dangerous agents of demonic power — was a coherent if repellent application of Galenic medicine to demonological theory.",
+  "hutton_social_analysis": "Hutton provides nuanced analysis of the stereotype's partial fit with reality: older women were genuinely more vulnerable to accusation in many contexts, because they were more likely to be widowed, economically dependent on community charity, and socially isolated. However, Hutton emphasizes that the hag stereotype was a cultural construction that could lead accusers to see witchcraft where none existed, and that mass panics regularly violated the demographic profile by targeting wealthy, respectable, and young persons.",
+  "ginzburg_interrogation_analysis": "Ginzburg notes that the folk practitioners he studies — benandanti, mazzeri, trickster figures — do not fit the hag stereotype: they include men and women of various ages with specific functional roles in their communities. The stereotype is primarily a product of learned prosecution categories applied to folk practice, rather than an accurate description of what folk practitioners looked like or what they believed about themselves.",
+  "regional_variations": "The hag stereotype was prevalent across most of Europe but with variations: in Scandinavia, the stereotype of the malevolent old woman was combined with shamanic elements; in Germany and France, it was integrated with sabbath imagery; in England, the hag was often associated with familiar spirits and a specific domestic-malevolent role. Mass panics in territories like Bamberg violated the stereotype by targeting social elites.",
+  "scholarly_disagreement": "Feminist historians debate whether the hag stereotype reflects genuine fears of powerful older women (who had survived childbearing and outlived husbands) or simply the targeting of socially marginal persons for whom the community felt little protective obligation. Roper's psychoanalytic approach locates the hag in unconscious fears of maternal power.",
+  "trial_examples": ["chelmsford-1566-trials", "pendle-1612-trials"],
+  "related_concepts": ["gender-female-susceptibility", "outsider-suspect-figure", "reputation-accumulation", "wise-woman-healer", "midwife-suspect-figure"],
+  "source_method": "Learned demonological treatises; trial records with demographic analysis; Hutton The Witch; Roper Witch Craze; humoral medical literature",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

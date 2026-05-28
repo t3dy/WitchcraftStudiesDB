@@ -1,0 +1,21 @@
+{
+  "id": "sabbath-blakulla-swedish",
+  "name": "Blåkulla: Swedish Sabbath Tradition",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1669-1676)",
+  "primary_locale": "Sweden (Dalarna, Uppland, Stockholm)",
+  "scholarly_definition": "Blåkulla (literally 'blue hill') was the Swedish mythological location identified as the gathering place of witches in Swedish folk tradition — the local equivalent of the continental sabbath mountain (Brocken, Bald Mountain). The Blåkulla panic of 1669-1671 involved widespread accusations of children being transported by witches to this location during the night, where they saw sabbath activities including feasting, dancing, and diabolical worship. Children's testimony drove the panic, with hundreds of children claiming to have been taken to Blåkulla by named adult women. A royal commission was appointed to investigate, ultimately executing 85 adults and 15 children and sentencing 56 children to flogging.",
+  "clark_intellectual_analysis": "Clark situates Blåkulla within the European demonological tradition of the sabbath mountain as collective witch gathering place, noting how Swedish folk tradition localized a pan-European learned concept in a specific vernacular landscape. The Swedish material illustrates how learned demonological concepts transmitted through the church and through earlier trial literature could combine with indigenous folk traditions to produce regionally specific panic forms.",
+  "hutton_social_analysis": "Hutton provides detailed analysis of the Blåkulla panic as a distinctively Swedish phenomenon combining children's night-flight testimony with intense royal commission investigation. He notes the particular role of child accusers in Swedish trials — more prominent than in most European prosecution contexts — and connects this to specific features of Swedish social organization and child socialization. The panic's rapid spread and equally rapid containment once the commission shifted its focus to the child accusers illustrates the institutional determinants of prosecution patterns.",
+  "ginzburg_interrogation_analysis": "Ginzburg is particularly interested in the Swedish material because the children's claims of being taken to Blåkulla in spirit — leaving their bodies sleeping while their spirits flew — resemble the ecstatic tradition he traces in the benandanti and other European practitioners. The Blåkulla testimony preserves traces of genuine folk belief about night-spirit travel that was then assimilated into the learned sabbath framework by investigating authorities.",
+  "regional_variations": "Blåkulla was specifically Swedish; comparable local sabbath locations existed in other traditions (German Brocken, Basque Aquelarre). The children's testimony form of the Blåkulla panic distinguished it from most adult-driven prosecution contexts in Europe. The panic spread from Dalarna northward and to the Stockholm area in 1675-1676, where Malin Matsdotter was burned as part of the Stockholm extension of the crisis.",
+  "scholarly_disagreement": "Whether the Blåkulla panic was driven primarily by children's genuinely believed folk accounts, by children's manipulation of adults and authorities, or by adult interrogational pressure shaping children's testimony is debated. The role of specific instigating individuals and communities in initiating the accusations has been examined by Ankarloo and others.",
+  "trial_examples": ["mora-sweden-1669-trials"],
+  "related_concepts": ["witches-sabbath-collective", "nocturnal-flight-reality", "child-stealing-infanticide", "sabbath-brocken-german", "denunciation-chain"],
+  "source_method": "Ankarloo Witchcraft and Magic in Europe vol. 4; Swedish royal commission records; Mora trial records; Hutton analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

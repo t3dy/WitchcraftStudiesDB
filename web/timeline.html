@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Timeline — WitchcraftStudiesDB</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+body { margin:0; background:#0d0d0d; color:#e8e0d0; font-family:Georgia,serif; }
+.controls { background:#1a1a1a; border-bottom:1px solid #3a3a3a; padding:0.9rem 2rem; display:flex; gap:0.75rem; flex-wrap:wrap; align-items:center; }
+.controls input, .controls select { background:#111; color:#e8e0d0; border:1px solid #3a3a3a; padding:0.4rem 0.65rem; border-radius:3px; font-family:Georgia,serif; font-size:0.85rem; }
+.controls input[type=text] { flex:1; min-width:200px; }
+.controls label { color:#b8b0a0; font-size:0.82rem; display:flex; align-items:center; gap:0.3rem; white-space:nowrap; cursor:pointer; }
+#timeline-container { max-width:960px; margin:0 auto; padding:1.5rem 2rem 3rem; }
+.century-header { color:#8B0000; font-family:'Palatino Linotype',Palatino,serif; font-size:1.4rem; border-bottom:1px solid #2a2a2a; margin:2.5rem 0 1rem; padding-bottom:0.3rem; }
+.event-card { background:#1f1f1f; border:1px solid #2a2a2a; border-left:3px solid #3a2a2a; border-radius:0 3px 3px 0; padding:0.75rem 1rem; margin:0.4rem 0; cursor:pointer; transition:border-color 0.15s,background 0.15s; }
+.event-card:hover { border-color:#C9A84C; background:#252525; }
+.event-card.HIGH { border-left-color:#8B0000; }
+.event-card.MEDIUM { border-left-color:#5a5a00; }
+.event-card.LOW { border-left-color:#2a2a2a; }
+.event-header { display:flex; align-items:baseline; gap:0.75rem; flex-wrap:wrap; }
+.event-year { color:#C9A84C; font-weight:bold; min-width:60px; font-size:0.9rem; flex-shrink:0; }
+.event-title { color:#e8e0d0; font-size:0.9rem; flex:1; }
+.event-type { font-size:0.68rem; padding:0.1rem 0.4rem; border-radius:3px; color:#fff; flex-shrink:0; white-space:nowrap; }
+.type-TRIAL { background:#5a0000; }
+.type-EXECUTION { background:#8B0000; }
+.type-TEXT_PUBLICATION { background:#00405a; }
+.type-LEGISLATION { background:#405a00; }
+.type-THEOLOGICAL { background:#3a005a; }
+.type-REFORM { background:#005a3a; }
+.type-SCHOLARLY { background:#1a3a5a; }
+.type-SOCIAL { background:#3a3a3a; }
+.type-INQUISITION { background:#5a2800; }
+.type-OTHER { background:#2a2a2a; }
+.event-detail { display:none; margin-top:0.75rem; padding-top:0.75rem; border-top:1px solid #2a2a2a; }
+.event-detail.open { display:block; }
+.event-detail p { color:#b8b0a0; font-size:0.85rem; line-height:1.6; margin:0; }
+.event-detail .hist-note { color:#777; font-size:0.8rem; font-style:italic; margin-top:0.5rem; border-top:1px solid #222; padding-top:0.4rem; }
+.event-detail .region-tag { color:#555; font-size:0.78rem; margin-top:0.4rem; }
+#count { padding:0.4rem 2rem; color:#555; font-size:0.82rem; background:#111; border-bottom:1px solid #1a1a1a; }
+.significance-indicator { display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:0.3rem; flex-shrink:0; }
+</style>
+</head>
+<body>
+<nav style="background:#1a1a1a;border-bottom:2px solid #8B0000;padding:0.75rem 2rem;display:flex;align-items:center;gap:2rem;flex-wrap:wrap;position:sticky;top:0;z-index:100;">
+  <a href="index.html" style="color:#C9A84C;font-size:1.1rem;font-weight:bold;text-decoration:none;font-family:'Palatino Linotype',Palatino,serif;">⚸ WitchcraftStudiesDB</a>
+  <a href="map.html" style="color:#e8e0d0;text-decoration:none;">Map</a>
+  <a href="timeline.html" style="color:#C9A84C;text-decoration:none;border-bottom:1px solid #C9A84C;">Timeline</a>
+  <a href="trials.html" style="color:#e8e0d0;text-decoration:none;">Trials</a>
+  <a href="concepts.html" style="color:#e8e0d0;text-decoration:none;">Concepts</a>
+  <a href="scholars.html" style="color:#e8e0d0;text-decoration:none;">Scholars</a>
+  <a href="accused.html" style="color:#e8e0d0;text-decoration:none;">People</a>
+  <a href="about.html" style="color:#e8e0d0;text-decoration:none;">About</a>
+</nav>
+<div class="controls">
+  <input type="text" id="search" placeholder="Search timeline events...">
+  <select id="typeFilter">
+    <option value="">All Types</option>
+    <option value="TRIAL">Trial</option>
+    <option value="EXECUTION">Execution</option>
+    <option value="TEXT_PUBLICATION">Text Publication</option>
+    <option value="LEGISLATION">Legislation</option>
+    <option value="THEOLOGICAL">Theological</option>
+    <option value="REFORM">Reform</option>
+    <option value="SCHOLARLY">Scholarly</option>
+    <option value="SOCIAL">Social</option>
+    <option value="INQUISITION">Inquisition</option>
+  </select>
+  <select id="sigFilter">
+    <option value="">All Significance</option>
+    <option value="HIGH">HIGH</option>
+    <option value="MEDIUM">MEDIUM</option>
+    <option value="LOW">LOW</option>
+  </select>
+  <select id="regionFilter">
+    <option value="">All Regions</option>
+    <option>Germany</option>
+    <option>England</option>
+    <option>Scotland</option>
+    <option>France</option>
+    <option>Italy</option>
+    <option>Switzerland</option>
+    <option>Spain</option>
+    <option>Scandinavia</option>
+    <option>Americas</option>
+    <option>Europe-Wide</option>
+  </select>
+  <label><input type="checkbox" id="highOnly" style="accent-color:#8B0000;"> HIGH significance only</label>
+</div>
+<div id="count"></div>
+<div id="timeline-container"></div>
+
+<script src="js/data_bundle.js"></script>
+<script>
+const container = document.getElementById('timeline-container');
+const sigColors = { HIGH: '#8B0000', MEDIUM: '#7a7000', LOW: '#3a3a3a' };
+
+function getTypeClass(t) {
+  if (!t) return 'type-OTHER';
+  const clean = t.replace(/[^A-Z_]/g,'');
+  const known = ['TRIAL','EXECUTION','TEXT_PUBLICATION','LEGISLATION','THEOLOGICAL','REFORM','SCHOLARLY','SOCIAL','INQUISITION'];
+  return 'type-' + (known.includes(clean) ? clean : 'OTHER');
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const type = document.getElementById('typeFilter').value;
+  const sig = document.getElementById('sigFilter').value;
+  const region = document.getElementById('regionFilter').value;
+  const ho = document.getElementById('highOnly').checked;
+
+  const events = (window.TIMELINE_EVENTS || []).filter(e => {
+    if (q && !e.title.toLowerCase().includes(q) && !(e.description||'').toLowerCase().includes(q)) return false;
+    if (type && e.event_type !== type) return false;
+    if (sig && e.significance !== sig) return false;
+    if (region && !(e.region||'').toLowerCase().includes(region.toLowerCase())) return false;
+    if (ho && e.significance !== 'HIGH') return false;
+    return true;
+  }).sort((a, b) => a.year - b.year);
+
+  document.getElementById('count').textContent = events.length + ' events shown';
+
+  if (events.length === 0) {
+    container.innerHTML = '<p style="color:#555;text-align:center;padding:3rem;font-style:italic;">No events match current filters.</p>';
+    return;
+  }
+
+  let lastCentury = null;
+  container.innerHTML = '';
+
+  events.forEach(e => {
+    const century = e.year < 0
+      ? Math.ceil(e.year / 100) * 100
+      : Math.floor(e.year / 100) * 100;
+
+    if (century !== lastCentury) {
+      const h = document.createElement('div');
+      h.className = 'century-header';
+      if (e.year < 0) {
+        h.textContent = Math.abs(century) + 's BCE';
+      } else if (century === 0) {
+        h.textContent = '1–99 CE';
+      } else {
+        h.textContent = century + 's CE';
+      }
+      container.appendChild(h);
+      lastCentury = century;
+    }
+
+    const yearDisplay = e.year < 0
+      ? Math.abs(e.year) + ' BCE'
+      : (e.year + (e.year_end && e.year_end !== e.year ? '–' + e.year_end : ''));
+
+    const card = document.createElement('div');
+    card.className = 'event-card ' + (e.significance || 'LOW');
+
+    const typeLabel = (e.event_type || '').replace(/_/g, ' ');
+    card.innerHTML = `<div class="event-header">
+      <span class="significance-indicator" style="background:${sigColors[e.significance]||'#3a3a3a'};margin-top:3px;"></span>
+      <span class="event-year">${yearDisplay}</span>
+      <span class="event-title">${e.title}</span>
+      ${e.event_type ? `<span class="event-type ${getTypeClass(e.event_type)}">${typeLabel}</span>` : ''}
+    </div>
+    <div class="event-detail">
+      <p>${e.description || ''}</p>
+      ${e.historiographical_note ? `<p class="hist-note">${e.historiographical_note}</p>` : ''}
+      ${e.region ? `<p class="region-tag">Region: ${e.region}</p>` : ''}
+    </div>`;
+
+    card.addEventListener('click', () => {
+      card.querySelector('.event-detail').classList.toggle('open');
+    });
+    container.appendChild(card);
+  });
+}
+
+['search', 'typeFilter', 'sigFilter', 'regionFilter', 'highOnly'].forEach(id => {
+  const el = document.getElementById(id);
+  el.addEventListener(el.type === 'checkbox' ? 'change' : 'input', render);
+});
+render();
+</script>
+</body>
+</html>

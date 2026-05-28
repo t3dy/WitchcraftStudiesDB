@@ -1,0 +1,42 @@
+{
+  "id": "joan-flower-belvoir-1619",
+  "name": "Joan Flower",
+  "status": "Died in Prison",
+  "trial_id": "belvoir-1619-flower",
+  "location_id": "suffolk-county",
+  "year_accused": 1619,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Poor woman, employed at Belvoir Castle; mother of two daughters",
+  "gender": "Female",
+  "biography": "Joan Flower was an elderly woman from near Belvoir Castle in Lincolnshire who had been employed at the castle by Francis Manners, sixth Earl of Rutland, along with her daughters Margaret and Philippa. After her daughter Margaret was dismissed from service — apparently for pilfering or some misconduct — Joan Flower and her daughters were accused of having bewitched the Earl's family in revenge. Two of the Earl's sons died, and their deaths were attributed to the maleficium of the Flowers.\n\nJoan Flower was arrested along with her daughters Margaret and Philippa. According to the pamphlet account of the case, she declared her innocence by calling on God to show her guilt by making a piece of bread choke her if she were guilty — whereupon she swallowed the bread and choked to death. This remarkable death in custody before trial was interpreted by contemporaries as divine confirmation of guilt. Her daughters were subsequently tried, convicted, and hanged.\n\nThe Belvoir case is significant for the combination of a high-profile aristocratic family as victims (lending the prosecution enormous credibility and resources), the employment relationship as the origin of the dispute, and the unusual manner of Joan Flower's death. The case was sufficiently notable to generate a pamphlet — The Wonderful Discovery of the Witchcrafts of Margaret and Philip Flower (1619) — and a monument to the Earl's dead sons was erected in Bottesford church with an inscription noting they died by wicked practice and sorcery.",
+  "arrest_narrative": "Joan Flower was arrested following the deaths of the Earl of Rutland's sons and accusations that she and her daughters had caused these deaths through witchcraft in revenge for Margaret Flower's dismissal from service. She died in custody at Lincoln before her trial could take place.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Maintained innocence; challenged her accusers to prove guilt",
+    "final_confession_summary": "Died in custody — reportedly choked on a piece of bread after challenging God to demonstrate her guilt; no formal confession recorded"
+  },
+  "accusations_against_them": [
+    "Bewitching the Earl of Rutland's family in revenge for daughter's dismissal",
+    "Causing the deaths of the Earl's sons through maleficium",
+    "Witchcraft using gloves belonging to the Earl's eldest son",
+    "Compact with familiar spirits"
+  ],
+  "execution_details": {
+    "date": null,
+    "method": "Died in Lincoln prison before trial (reportedly choked on bread)",
+    "location": "Lincoln prison"
+  },
+  "historiographical_significance": "The Belvoir case illustrates multiple significant dimensions of English witch prosecution: the role of employment disputes as triggers for accusation, the vulnerability of servants who had worked in aristocratic households, and the way high-status victims lent prosecution enormous credibility. Joan Flower's death in custody — interpreted as divine judgment — represents the intersection of providential thinking and judicial procedure common in early modern England. The case generated a pamphlet that is one of the more detailed English witch trial accounts.",
+  "source_method": "The Wonderful Discovery of the Witchcrafts of Margaret and Philip Flower (1619 pamphlet); Lincolnshire assize records; discussed in Levack and Macfarlane's Witchcraft in Tudor and Stuart England (1970)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

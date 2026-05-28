@@ -1,0 +1,21 @@
+{
+  "id": "divine-permission-doctrine",
+  "name": "Divine Permission Doctrine",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The divine permission doctrine held that God actively permitted the devil to afflict humanity as a scourge, test, or instrument of providential justice. This theodicy — the theological explanation of why God allows evil — was essential to making witchcraft intelligible within Christian theology. Without divine permission, demonic activity would imply either that God was powerless to prevent it (incompatible with omnipotence) or that the devil was independent of divine authority (dualism, a heresy). The doctrine resolved this by making Satan an unwitting instrument of divine providence, permitted to harm sinful humanity as punishment or as a test of faith.",
+  "clark_intellectual_analysis": "Clark identifies divine permission as structurally central to the entire edifice of early modern demonological thinking: it is the premise that makes witch persecution theologically rational. If God permits the devil to act, then resisting the devil's agents — witches — is also divinely sanctioned, and indeed required. The doctrine transformed witch-hunting from mere legal prosecution into an act of godly duty, explaining the religious fervor that accompanied major persecution campaigns. Clark shows how this providential logic was coherent within its premises.",
+  "hutton_social_analysis": "Hutton notes that the divine permission doctrine had practical implications for how prosecution campaigns were justified and sustained: local authorities could frame witch-hunting as doing God's work against sinful neighbors who had invited demonic activity. The doctrine also provided a framework for understanding why good people suffered from witchcraft — as divine trial — rather than as evidence that the accusation might be false. This functional value helps explain the doctrine's persistence.",
+  "ginzburg_interrogation_analysis": "Ginzburg points to divine permission as part of the theological framework that interrogators brought to investigations, shaping how they understood both the accused witch and the bewitched victim. Questions about why specific individuals were afflicted often received answers framed in providential terms: the victim deserved testing, or God permitted this as warning. This framework made skepticism about individual accusations difficult because it could always be assimilated to providential purpose.",
+  "regional_variations": "Protestant providential thinking (especially Calvinist/Puritan) intensified the divine permission framework by emphasizing God's absolute sovereignty over all events, making demonic activity an even more direct expression of divine will. Catholic scholastic tradition maintained more careful distinctions between divine permission and divine causation. Lutheran demonology occupied an intermediate position.",
+  "scholarly_disagreement": "Some scholars argue the divine permission doctrine was primarily a rhetorical resource rather than a sincere theological conviction, used instrumentally to justify prosecution rather than believed literally. Others, following Clark, insist it was genuinely believed and formed a coherent part of the intellectual worldview. The extent to which providential thinking contributed to prosecution intensity versus other social and legal factors is also debated.",
+  "trial_examples": [],
+  "related_concepts": ["demonic-agency-theological", "diabolism-learned-tradition", "puritan-providential-thinking", "protestant-witchcraft-theology", "rationality-within-framework"],
+  "source_method": "Theological treatises; Protestant and Catholic devotional literature; demonological manuals; Clark's intellectual history",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

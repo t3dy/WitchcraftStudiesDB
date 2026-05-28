@@ -1,0 +1,42 @@
+{
+  "id": "alice-samuel-huntingdon-1593",
+  "name": "Alice Samuel",
+  "status": "Executed",
+  "trial_id": "warboys-1593-trials",
+  "location_id": "suffolk-county",
+  "year_accused": 1593,
+  "year_executed": 1593,
+  "age_at_trial": null,
+  "social_status": "Village woman, Warboys, Huntingdonshire",
+  "gender": "Female",
+  "biography": "Alice Samuel was a woman from the village of Warboys in Huntingdonshire whose prosecution, along with that of her husband John and daughter Agnes, became one of the most celebrated and legally significant English witch cases of the Elizabethan period. The case began in 1589 when the five daughters of Robert Throckmorton, a local gentleman, began suffering from fits and unusual symptoms that their family attributed to bewitchment. Alice Samuel, an elderly neighbor, was identified as the cause when one of the afflicted girls had a fit in her presence.\n\nThe case ran for nearly four years, during which the Throckmorton family hosted Alice Samuel in their home — in what can only be described as a prolonged and extraordinary social experiment — hoping that her presence would either cure the children or confirm her guilt. Lady Cromwell, a prominent visitor and relative of Oliver Cromwell's grandfather, pulled hair from Alice Samuel's head for use in counter-magic and subsequently fell ill and died, adding a high-status victim to the prosecution. Samuel eventually confessed, a confession she later recanted.\n\nThe case culminated in the execution of Alice, her husband John, and their daughter Agnes at Huntingdon on April 7, 1593. The three-generation family execution is unusual in English witch prosecution. The case subsequently generated the famous pamphlet The Most Strange and Admirable Discovery of the Three Witches of Warboys (1593) and led to the endowment of an annual sermon against witchcraft at Queens' College, Cambridge, funded from the estate of the executed Samuels.",
+  "arrest_narrative": "Alice Samuel was initially brought informally into the Throckmorton household as a suspected source of the children's affliction. She was formally arrested after years of community pressure, multiple confessions and retractions, the death of Lady Cromwell attributed to her witchcraft, and the identification of her husband and daughter as co-conspirators.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Denial over many years; finally confessed",
+    "final_confession_summary": "Eventually confessed to bewitching the Throckmorton children; causing the death of Lady Cromwell; compact with familiar spirits; later recanted the confession before execution, maintaining innocence at death"
+  },
+  "accusations_against_them": [
+    "Bewitching the five Throckmorton children causing fits",
+    "Causing the death of Lady Cromwell through witchcraft",
+    "Compact with familiar spirits",
+    "Maleficium against the Throckmorton household"
+  ],
+  "execution_details": {
+    "date": "1593-04-07",
+    "method": "Hanging",
+    "location": "Huntingdon"
+  },
+  "historiographical_significance": "The Warboys case is one of the most legally consequential English witch prosecutions, generating pamphlet literature, an endowed Cambridge sermon, and contributing to the 1604 Witchcraft Act debates. The three-generation family execution of Alice, John, and Agnes Samuel is exceptional in English prosecution history. The case is analyzed by historians for its illustration of how elite family anxiety could drive sustained prosecution, and how confession could be extracted through social pressure rather than formal torture.",
+  "source_method": "The Most Strange and Admirable Discovery of the Three Witches of Warboys (1593 pamphlet); Huntingdonshire assize records; analyzed in Macfarlane's Witchcraft in Tudor and Stuart England (1970) and Levack",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

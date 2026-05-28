@@ -1,0 +1,21 @@
+{
+  "id": "denunciation-chain",
+  "name": "Denunciation Chain: Cascading Accusation Mechanism",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Germany, Europe-Wide",
+  "scholarly_definition": "The denunciation chain was the central mechanism driving mass witch prosecutions: under torture or threat of torture, an accused witch was required to name accomplices observed at the sabbath, who were then arrested, tortured, and required to name further accomplices. This cascade mechanism had geometric expansion potential — each arrested person named several others, who each named several others — which explains how localized witchcraft investigations in Bamberg, Würzburg, Trier, and other territories could expand to encompass hundreds of victims. The mechanism was legally embedded in inquisitorial procedure, which required the accused to provide names of co-conspirators as a condition of satisfying the court.",
+  "clark_intellectual_analysis": "Clark situates the denunciation chain within the legal and theological framework that made it seem rational: if witches genuinely gathered collectively at sabbaths, then confessors' accounts of their companions were legitimate evidence. The theological premise of the collective sabbath made the cascade mechanism not only acceptable but legally required. Understanding why judges pursued denunciation chains requires attending to the intellectual framework within which the procedure seemed necessary.",
+  "hutton_social_analysis": "Hutton describes the denunciation chain as the primary mechanism by which small witchcraft prosecutions became large panics. He notes that the mechanism was self-reinforcing and self-expanding, requiring only judicial willingness to pursue named persons aggressively. Once initiated in a territory, the chain could only be stopped by judicial authority deciding that further prosecution was counterproductive — which is what eventually happened in most mass persecution territories, though typically only after enormous human cost.",
+  "ginzburg_interrogation_analysis": "Ginzburg is centrally concerned with how interrogation shaped what confessors said, including whom they named. He demonstrates that the persons named in denunciations often reflected social networks of the accused rather than actual sabbath companions: accusers named family members, neighbors, and people with whom they had had disputes. This social logic of denunciation contaminated the evidence base for further prosecutions.",
+  "regional_variations": "The denunciation chain was most catastrophically operative in German territories with inquisitorial procedure: Bamberg (1626-1631), Würzburg (1626-1631), Trier (1581-1593), and the 1629 persecutions in southwestern Germany all show clear denunciation cascade patterns. French trials in Lorraine and elsewhere show more contained patterns. English common-law procedure was more resistant to cascade dynamics, though Hopkins's 1645 campaign showed some cascade features.",
+  "scholarly_disagreement": "Whether denunciation chains reflected genuine community social networks or were primarily artifacts of interrogational pressure is debated. Some scholars (Midelfort) traced the social composition of denunciation networks and found patterns suggesting community social geography; others emphasize the role of torture in making accused persons name anyone they could think of to end interrogation.",
+  "trial_examples": ["bamberg-1626-mass-prosecution", "wurzburg-1626-mass-prosecution"],
+  "related_concepts": ["torture-confession-extraction", "inquisitorial-procedure", "confession-legal-weight", "witches-sabbath-collective", "cumulative-concept-witch"],
+  "source_method": "Mass prosecution trial records (Bamberg, Würzburg); Midelfort Witch Hunting in Southwestern Germany; Levack The Witch-Hunt in Early Modern Europe; Hutton analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>People — WitchcraftStudiesDB</title>
+<link rel="stylesheet" href="css/style.css">
+<style>
+body { margin:0; background:#0d0d0d; color:#e8e0d0; font-family:Georgia,serif; }
+.page-header { background:#111; border-bottom:1px solid #3a3a3a; padding:1.5rem 2rem 1rem; }
+.page-header h1 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; font-size:2rem; margin:0 0 0.25rem; }
+.page-header p { color:#888; font-size:0.9rem; margin:0; }
+.controls { background:#1a1a1a; border-bottom:1px solid #3a3a3a; padding:0.75rem 2rem; display:flex; gap:0.75rem; flex-wrap:wrap; align-items:center; }
+.controls input, .controls select { background:#111; color:#e8e0d0; border:1px solid #3a3a3a; padding:0.4rem 0.65rem; border-radius:3px; font-family:Georgia,serif; font-size:0.85rem; }
+.controls input[type=text] { flex:1; min-width:220px; }
+#count { padding:0.4rem 2rem; color:#555; font-size:0.82rem; border-bottom:1px solid #1a1a1a; }
+#grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:1rem; padding:1.5rem 2rem 3rem; max-width:1400px; margin:0 auto; }
+
+.person-card { background:#1f1f1f; border:1px solid #2a2a2a; border-radius:4px; padding:1.1rem 1.25rem; cursor:pointer; transition:border-color 0.15s,background 0.15s; }
+.person-card:hover { border-color:#C9A84C; background:#242424; }
+
+/* Status colors via border-top */
+.person-card.status-Executed { border-top:3px solid #8B0000; }
+.person-card.status-Survived { border-top:3px solid #006600; }
+.person-card.status-Fled { border-top:3px solid #885500; }
+.person-card.status-Released { border-top:3px solid #005588; }
+.person-card.status-Unknown { border-top:3px solid #3a3a3a; }
+
+.status-badge { display:inline-block; padding:0.15rem 0.5rem; border-radius:3px; font-size:0.7rem; font-weight:bold; margin-bottom:0.5rem; letter-spacing:0.03em; }
+.badge-Executed { background:#3a0000; color:#ff8888; border:1px solid #8B0000; }
+.badge-Survived { background:#003300; color:#88ff88; border:1px solid #006600; }
+.badge-Fled { background:#332200; color:#ffcc66; border:1px solid #885500; }
+.badge-Released { background:#002233; color:#66aaff; border:1px solid #005588; }
+.badge-Unknown { background:#222; color:#888; border:1px solid #3a3a3a; }
+
+.person-card h3 { color:#C9A84C; font-family:'Palatino Linotype',Palatino,serif; margin:0 0 0.25rem; font-size:1rem; }
+.person-meta { color:#888; font-size:0.78rem; margin-bottom:0.3rem; line-height:1.4; }
+.person-tags { display:flex; gap:0.4rem; flex-wrap:wrap; margin:0.4rem 0; }
+.tag { background:#1a1a1a; border:1px solid #3a3a3a; border-radius:3px; padding:0.1rem 0.4rem; font-size:0.7rem; color:#888; }
+.tag.folk { background:#001a2a; border-color:#003355; color:#5588aa; }
+.person-detail { display:none; margin-top:0.75rem; border-top:1px solid #2a2a2a; padding-top:0.75rem; }
+.person-detail.open { display:block; }
+.person-detail p { color:#b8b0a0; font-size:0.82rem; line-height:1.6; margin:0 0 0.5rem; }
+.person-detail .hist-note { color:#666; font-size:0.78rem; font-style:italic; border-top:1px solid #222; padding-top:0.4rem; margin-top:0.4rem; }
+.torture-indicator { display:inline-block; background:#3a0000; border:1px solid #5a0000; border-radius:3px; padding:0.1rem 0.4rem; font-size:0.7rem; color:#ff8888; margin-top:0.3rem; }
+.type-indicator { display:inline-block; background:#001a2a; border:1px solid #003355; border-radius:3px; padding:0.1rem 0.4rem; font-size:0.7rem; color:#5588aa; margin-left:0.3rem; }
+</style>
+</head>
+<body>
+<nav style="background:#1a1a1a;border-bottom:2px solid #8B0000;padding:0.75rem 2rem;display:flex;align-items:center;gap:2rem;flex-wrap:wrap;position:sticky;top:0;z-index:100;">
+  <a href="index.html" style="color:#C9A84C;font-size:1.1rem;font-weight:bold;text-decoration:none;font-family:'Palatino Linotype',Palatino,serif;">⚸ WitchcraftStudiesDB</a>
+  <a href="map.html" style="color:#e8e0d0;text-decoration:none;">Map</a>
+  <a href="timeline.html" style="color:#e8e0d0;text-decoration:none;">Timeline</a>
+  <a href="trials.html" style="color:#e8e0d0;text-decoration:none;">Trials</a>
+  <a href="concepts.html" style="color:#e8e0d0;text-decoration:none;">Concepts</a>
+  <a href="scholars.html" style="color:#e8e0d0;text-decoration:none;">Scholars</a>
+  <a href="accused.html" style="color:#C9A84C;text-decoration:none;border-bottom:1px solid #C9A84C;">People</a>
+  <a href="about.html" style="color:#e8e0d0;text-decoration:none;">About</a>
+</nav>
+<div class="page-header">
+  <h1>👤 People</h1>
+  <p>Accused persons and folk practitioners — named individuals recovered from trial records. Click any card for biographical details. Card border color indicates outcome.</p>
+</div>
+<div class="controls">
+  <input type="text" id="search" placeholder="Search by name, social status, biography...">
+  <select id="statusFilter">
+    <option value="">All Outcomes</option>
+    <option value="Executed">Executed</option>
+    <option value="Survived">Survived</option>
+    <option value="Fled">Fled</option>
+    <option value="Released">Released</option>
+  </select>
+  <select id="genderFilter">
+    <option value="">All Genders</option>
+    <option value="Female">Female</option>
+    <option value="Male">Male</option>
+  </select>
+  <select id="typeFilter">
+    <option value="">All Types</option>
+    <option value="accused">Accused Persons</option>
+    <option value="healer">Folk Practitioners</option>
+  </select>
+  <select id="regionFilter">
+    <option value="">All Regions</option>
+    <option value="Scotland">Scotland</option>
+    <option value="England">England</option>
+    <option value="Germany">Germany</option>
+    <option value="France">France</option>
+    <option value="Italy">Italy</option>
+    <option value="Scandinavia">Scandinavia</option>
+    <option value="Americas">Americas</option>
+  </select>
+</div>
+<div id="count"></div>
+<div id="grid"></div>
+
+<script src="js/data_bundle.js"></script>
+<script>
+const grid = document.getElementById('grid');
+const locMap = {};
+(window.LOCATIONS || []).forEach(l => { locMap[l.id] = l; });
+const trialMap = {};
+(window.TRIALS || []).forEach(t => { trialMap[t.id] = t; });
+
+function statusClass(s) {
+  if (!s) return 'Unknown';
+  if (s.toLowerCase().includes('execut')) return 'Executed';
+  if (s.toLowerCase().includes('surviv')) return 'Survived';
+  if (s.toLowerCase().includes('fled')) return 'Fled';
+  if (s.toLowerCase().includes('releas') || s.toLowerCase().includes('acquit')) return 'Released';
+  return 'Unknown';
+}
+
+function badgeClass(sc) {
+  return 'badge-' + sc;
+}
+
+function render() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const statusF = document.getElementById('statusFilter').value;
+  const genderF = document.getElementById('genderFilter').value;
+  const typeF = document.getElementById('typeFilter').value;
+  const regionF = document.getElementById('regionFilter').value;
+
+  const accused = (window.ACCUSED || []).map(a => ({ ...a, _type: 'accused' }));
+  const healers = (window.HEALERS || []).map(h => ({ ...h, _type: 'healer' }));
+  const all = [...accused, ...healers];
+
+  const people = all.filter(p => {
+    if (typeF && p._type !== typeF) return false;
+    if (q) {
+      const text = (p.name + ' ' + (p.social_status || '') + ' ' + (p.biography || '') + ' ' + (p.tradition || '')).toLowerCase();
+      if (!text.includes(q)) return false;
+    }
+    if (statusF) {
+      const sc = statusClass(p.status || '');
+      if (sc !== statusF) return false;
+    }
+    if (genderF && p.gender !== genderF) return false;
+    if (regionF) {
+      const loc = locMap[p.location_id];
+      if (!loc || !loc.region.toLowerCase().includes(regionF.toLowerCase())) return false;
+    }
+    return true;
+  }).sort((a, b) => {
+    const ya = a.year_accused || a.year_active || 9999;
+    const yb = b.year_accused || b.year_active || 9999;
+    return ya - yb;
+  });
+
+  document.getElementById('count').textContent = people.length + ' people';
+  grid.innerHTML = '';
+
+  people.forEach(p => {
+    const sc = statusClass(p.status || '');
+    const loc = locMap[p.location_id];
+    const trial = trialMap[p.trial_id];
+    const year = p.year_accused || p.year_active || '';
+    const region = loc ? loc.region : '';
+
+    const card = document.createElement('div');
+    card.className = `person-card status-${sc}`;
+
+    const hasTorture = p.torture_applied === true;
+    const isFolk = p._type === 'healer';
+
+    card.innerHTML = `
+      <span class="status-badge ${badgeClass(sc)}">${sc}</span>
+      ${isFolk ? '<span class="type-indicator">Folk Practitioner</span>' : ''}
+      ${hasTorture ? '<span class="torture-indicator">Torture recorded</span>' : ''}
+      <h3>${p.name}</h3>
+      <div class="person-meta">
+        ${year ? year + ' · ' : ''}${p.gender || ''}${p.social_status ? ' · ' + p.social_status : ''}
+      </div>
+      ${region || trial ? `<div class="person-meta" style="margin-top:0.1rem;">${region ? region : ''}${trial ? (region ? ' · ' : '') + trial.name : ''}</div>` : ''}
+      ${p.confession_status ? `<div style="color:#666;font-size:0.72rem;margin-top:0.2rem;">${p.confession_status}</div>` : ''}
+      <div class="person-detail">
+        <p>${p.biography || p.practice_description || ''}</p>
+        ${p.historiographical_significance ? `<p class="hist-note">${p.historiographical_significance}</p>` : ''}
+      </div>`;
+
+    card.addEventListener('click', () => {
+      card.querySelector('.person-detail').classList.toggle('open');
+    });
+    grid.appendChild(card);
+  });
+
+  if (people.length === 0) {
+    grid.innerHTML = '<p style="color:#555;text-align:center;padding:3rem;font-style:italic;grid-column:1/-1;">No people match current filters.</p>';
+  }
+}
+
+['search', 'statusFilter', 'genderFilter', 'typeFilter', 'regionFilter'].forEach(id => {
+  document.getElementById(id).addEventListener('input', render);
+});
+render();
+</script>
+</body>
+</html>

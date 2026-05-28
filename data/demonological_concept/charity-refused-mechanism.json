@@ -1,0 +1,21 @@
+{
+  "id": "charity-refused-mechanism",
+  "name": "Charity Refused: Guilt-Projection Mechanism",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "England",
+  "scholarly_definition": "The charity-refused model, developed by Alan Macfarlane and Keith Thomas in their landmark studies of English witchcraft, proposes that many witchcraft accusations arose from a psychological mechanism of guilt projection. A neighbor or community member would refuse to give charity to a poor, elderly woman who came begging; the woman would leave muttering or cursing; when the refusing party subsequently experienced misfortune (illness, livestock death), guilt over the refusal would be projected onto the beggar as a witch whose curse had caused the harm. The mechanism was particularly acute in an era when traditional communal charity obligations were breaking down under early capitalism, leaving givers in a psychological bind between new individualistic ethics and old communal obligations.",
+  "clark_intellectual_analysis": "Clark treats the charity-refused model as a social-historical account of accusation dynamics that does not address the intellectual content of witch belief. The model explains why specific individuals were accused but not why accusers believed in the reality of maleficium in the first place — the theological and philosophical framework that made the guilt-projection mechanism operative. Clark sees Macfarlane and Thomas's work as important for understanding accusation sociology but incomplete as an explanation of witch belief.",
+  "hutton_social_analysis": "Hutton gives more weight to the charity-refused mechanism, seeing it as one of several social dynamics that generated accusation in English contexts. He notes that the model fits the English pattern particularly well: English witchcraft prosecutions focused heavily on maleficium (harm to neighbors and their property), which corresponds to the guilt-projection scenario better than the sabbath-focused continental pattern. The model's fit with English evidence is better than with continental European data.",
+  "ginzburg_interrogation_analysis": "Ginzburg's focus on interrogational dynamics and folk belief traditions engages less directly with the charity-refused model, which is primarily a social-psychological account. However, Ginzburg's attention to what practitioners and accused persons actually believed about themselves complicates the model: if the accused beggar woman also believed in the efficacy of her curses, the mechanism is not purely a matter of accuser guilt-projection but involves a shared magical belief structure.",
+  "regional_variations": "The charity-refused mechanism has been most persuasively documented for English witchcraft. Briggs's study of Lorraine found different patterns of accusation rooted in neighbor disputes rather than charity relations. German and Scottish prosecution patterns were driven more by legal procedure and judicial initiative than by the bottom-up community dynamics the model describes. The model's applicability outside England is limited.",
+  "scholarly_disagreement": "Macfarlane and Thomas's model has been extensively debated: critics argue it underplays the accused women's own belief in their magical powers; that it assumes a sharp break between pre-capitalist community and early modern individualism that is historically questionable; and that the psychological mechanism of guilt-projection is speculative and untestable. Supporters note its consistency with the documentary record of English cases.",
+  "trial_examples": ["chelmsford-1566-trials", "st-osyth-1582-trials"],
+  "related_concepts": ["scapegoat-social-function", "community-disruption-model", "outsider-suspect-figure", "reputation-accumulation", "maleficium-concept"],
+  "source_method": "Macfarlane Witchcraft in Tudor and Stuart England (1970); Thomas Religion and the Decline of Magic (1971); Essex assize records; local community studies",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

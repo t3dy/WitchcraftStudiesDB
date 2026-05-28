@@ -1,0 +1,21 @@
+{
+  "id": "demonic-agency-theological",
+  "name": "Demonic Agency: Thomistic Framework",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "Demonic agency as a theological concept refers to the systematic Scholastic account of what demons can and cannot do in the physical and spiritual world. Drawing primarily on Aquinas's Summa Theologica and Augustinian angelology, early modern theologians developed precise categories: demons as fallen angels retained angelic powers over the natural world but could not perform true miracles (reserved for God alone); they could manipulate natural causes, create illusions, move bodies, cause disease, and influence the will but not compel it. This framework — distinguishing natural, preternatural, and supernatural causation — was essential for adjudicating what witchcraft could accomplish and how it operated.",
+  "clark_intellectual_analysis": "Clark devotes extensive analysis to demonic agency as the philosophical core of demonological reasoning. The Thomistic account gave demonologists a precise vocabulary for arguing about witch powers: demons could produce real effects through natural manipulation (preternatural), not miraculous powers. This framework was intellectually sophisticated and internally consistent, allowing learned authors to make fine distinctions between what witches could and could not do — distinctions that seemed absurd to later rationalists but were logical within scholastic premises.",
+  "hutton_social_analysis": "Hutton notes that the refined theological account of demonic agency had limited penetration into popular belief, where witches were simply understood as having anomalous harmful power without theoretical explanation. The theological framework mattered for learned prosecutions and for demonological manuals but did not determine local accusation patterns, which followed community grievance logics. When theological categories were applied to popular cases, they often distorted the evidence.",
+  "ginzburg_interrogation_analysis": "Ginzburg highlights how the theological account of demonic agency structured interrogators' questions: if demons could not truly transform humans into animals but could create illusions of transformation, interrogators pressed on whether sabbath experiences were real or illusory, guiding confessions toward theologically acceptable formulations. The Thomistic framework thus shaped what accused persons said they experienced, not just what theologians claimed they believed.",
+  "regional_variations": "German demonologists generally accepted fuller demonic powers, partly explaining the intensity of German prosecutions. Spanish inquisitors were more skeptical about whether demons could actually produce physical effects claimed in sabbath confessions. Italian scholarly tradition, close to scholastic philosophy, maintained Thomistic precision about the limits of demonic agency. English Protestant demonologists sometimes collapsed the preternatural/supernatural distinction.",
+  "scholarly_disagreement": "Scholars debate whether the Thomistic framework constrained or enabled persecution. Clark argues it was enabling — by providing a coherent framework for believing in witch powers. Scot and other skeptics argued it was self-defeating — if demons worked through natural causes, there was nothing distinctively diabolic about apparent bewitchments. The relationship between theological sophistication and prosecution intensity was not linear.",
+  "trial_examples": [],
+  "related_concepts": ["diabolism-learned-tradition", "preternatural-supernatural", "divine-permission-doctrine", "illusion-spectral-evidence", "demonic-sex-incubus-succubus"],
+  "source_method": "Scholastic philosophy; theological treatises; demonological manuals; Aquinas Summa Theologica; Clark's intellectual analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

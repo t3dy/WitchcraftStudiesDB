@@ -1,0 +1,39 @@
+{
+  "id": "jeanne-des-anges-loudun",
+  "name": "Jeanne des Anges",
+  "status": "Survived; Released",
+  "trial_id": "loudun-1634-possession",
+  "location_id": "loudun",
+  "year_accused": 1634,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Mother Superior, Ursuline convent of Loudun; religious leader",
+  "gender": "Female",
+  "biography": "Jeanne des Anges, born Jeanne de Belciel, was the Mother Superior of the Ursuline convent of Loudun whose reported possession by multiple demons beginning in 1632 became the central spectacle of the Loudun affair and the primary vehicle for the prosecution of Urbain Grandier. She claimed possession by seven demons whose names — Asmodeus, Zabulon, Isacaaron, and others — she could report, and her exorcisms were public theatrical events attended by thousands of spectators including learned observers, physicians, skeptics, and the devout.\n\nJeanne's role in the Loudun case was active and complex. She provided testimony naming Grandier as her bewitcher, directed the accusations, and participated in the elaborate theater of possession and exorcism that made Loudun a major public event. After Grandier's execution in 1634, her possession reportedly continued, then gradually resolved through exorcism. She became celebrated as a woman miraculously delivered from demonic possession — a saint-like figure of suffering and ultimate triumph rather than a criminal.\n\nAfter her exorcism was complete, Jeanne des Anges toured France as a celebrity, showing the names of angels and saints that had appeared on her hand as marks of her healing. She was received by Louis XIII, visited Richelieu, and became one of the most famous women in France for several years. Her published autobiography, written later in life, provides one of the most detailed first-person accounts of possessed consciousness from the period. She lived until 1665.\n\nHer autobiography reveals a complex inner life and religious psychology, describing her possession as a genuine spiritual experience that she eventually understood as providentially permitted by God. Historians debate whether her symptoms reflect genuine dissociative disorder, deliberate performance, spiritual crisis, or some combination impossible to disentangle.",
+  "arrest_narrative": "Jeanne des Anges was not arrested but rather was the principal accuser and possessed subject in the Loudun case. Her testimony and performances of possession drove the prosecution of Grandier. She was subsequently celebrated as a victim miraculously delivered.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Presented as victim of demonic possession through Grandier's witchcraft",
+    "final_confession_summary": "Not applicable as accused — as possessed subject, she provided testimony against Grandier through possession performances and direct accusation; her own autobiography provides retrospective account of her inner experience"
+  },
+  "accusations_against_them": [
+    "Not accused — role as possessed accuser of Grandier; named him as her bewitcher through possession testimony"
+  ],
+  "execution_details": {
+    "date": null,
+    "method": null,
+    "location": null
+  },
+  "historiographical_significance": "Jeanne des Anges is central to the historiography of the Loudun case and to broader questions about possession, gender, and religious experience in early modern France. Michel de Certeau's The Possession at Loudun analyzed her case as exemplifying the intersection of institutional power, female religious experience, and the construction of sanctity through suffering. Her autobiography is one of the rare first-person accounts of possession experience. Levack's work situates her within the broader pattern of convent possession cases in Counter-Reformation Europe.",
+  "source_method": "Jeanne des Anges, Autobiography (written c. 1644, published 1886); contemporary exorcism records; analyzed in de Certeau's The Possession at Loudun (1970) and Levack's Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

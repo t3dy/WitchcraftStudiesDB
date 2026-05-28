@@ -1,0 +1,49 @@
+{
+  "id": "bessie-dunlop-cunning-folk",
+  "name": "Bessie Dunlop",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "edinburgh",
+  "year_active": 1576,
+  "social_status": "Peasant woman, healer and wise woman",
+  "gender": "Female",
+  "tradition": "Cunning Folk with fairy contacts",
+  "self_identification": "Healer instructed by Thomas Reid and the Queen of Elfhame",
+  "claimed_abilities": [
+    "Healing of sick people and livestock",
+    "Identification of stolen goods",
+    "Prognostication of life and death",
+    "Knowledge of herbs and remedies received from fairy sources",
+    "Communication with the fairy court (Court of Elfhame)"
+  ],
+  "biography": "Bessie Dunlop of Ayrshire was tried and executed in 1576 as one of the earliest well-documented Scottish cunning women whose case survived in the court record. Her trial testimony reveals a healer who had built a successful local practice supplying remedies, identifying stolen property, and advising on matters of health and fortune — all standard services of the cunning folk tradition documented extensively by Ronald Hutton.\n\nWhat made Dunlop's case distinctive was the framework within which she explained her knowledge: she claimed her healing abilities came from Thomas Reid, a man who had died at the Battle of Flodden in 1513, over sixty years before her trial. She described Reid as appearing to her regularly and instructing her in remedies and prognostication. Reid, she said, was now part of the Court of Elfhame — the fairy queen's retinue — and the Queen of Elfhame herself had requested Dunlop's company. This fairy-contact framework for explaining healing knowledge was deeply rooted in Scottish folk belief and appears in multiple documented cases of the same period.\n\nDunlop refused throughout her trial to renounce her fairy contacts or to accept that her powers derived from the devil. This refusal — which suggests genuine conviction in her own explanatory framework rather than mere cunning — proved fatal. She was convicted and burned in 1576, a victim not merely of witch-hunting but of the fundamental incompatibility between her folk-belief framework and the diabolist categories of her prosecutors.",
+  "practice_description": "Bessie Dunlop provided healing services to her local Ayrshire community: treating sick people and animals, providing herbal remedies, identifying the causes of illness (natural or malefic), locating lost or stolen property, and advising on uncertain outcomes. She explained her knowledge as derived from the instructions of Thomas Reid and from her relationship with the fairy court — a framework that located her power in the supernatural world of folk belief rather than in any diabolic compact.",
+  "relationship_to_prosecution": "Tried before the Ayrshire courts in 1576 on charges of witchcraft. Her refusal to accept that her fairy contacts were demonic or that her knowledge derived from a pact with the devil made her case theologically intractable to her prosecutors. The court accepted the diabolic interpretation of her activities and she was executed.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "instructed by Thomas Reid (dead man/fairy retinue member)",
+      "the good neighbors (fairies)",
+      "Queen of Elfhame",
+      "healing given by the fairy court",
+      "cunning woman"
+    ],
+    "inquisitor_categories": [
+      "witch (strega equivalent)",
+      "diabolical compact",
+      "renunciation of baptism",
+      "familiar spirit (demonic)"
+    ]
+  },
+  "hutton_analysis": "Hutton presents Bessie Dunlop as a paradigmatic Scottish cunning woman whose trial record illustrates the folk-belief framework within which Scottish healing practitioners understood their own activities. He emphasizes that her fairy-contact explanatory system was neither eccentric nor idiosyncratic but represented a coherent cultural tradition — the 'fairy faith' — that shaped how many Scots made sense of healing knowledge, death, and the supernatural.",
+  "ginzburg_analysis": "Ginzburg situates the Scottish fairy-contact tradition within his broader comparative project: the claim to receive knowledge from the dead or from supernatural beings inhabiting a parallel world is, for Ginzburg, a variant of the wider Eurasian shamanic-contact pattern he traces across the benandanti, the Livonian werewolf Thiess, and other traditions — suggesting a shared deep structure beneath the regional variation.",
+  "historiographical_significance": "Bessie Dunlop's trial is one of the foundational cases for the historiography of Scottish cunning folk and the 'fairy faith' tradition. Her documented refusal to accept demonological reframing of her beliefs is particularly valuable for historians trying to recover practitioners' own voices through the distorting medium of trial records. Hutton uses her extensively to argue that the fairy tradition was a genuine explanatory system, not merely a cover for diabolic activity.",
+  "source_method": "Published Scottish trial records (Pitcairn's Criminal Trials of Scotland, 1833); Hutton's The Witch (2017); Emma Wilby's Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

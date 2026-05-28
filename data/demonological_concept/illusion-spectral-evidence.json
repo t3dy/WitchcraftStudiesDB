@@ -1,0 +1,21 @@
+{
+  "id": "illusion-spectral-evidence",
+  "name": "Illusion and Spectral Evidence",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The question of whether sabbath experiences were real physical events or demonic illusions was one of the most contentious in early modern demonological debate. The Canon Episcopi (c. 900 CE) had declared night-flying beliefs to be diabolically induced illusions experienced by sleeping women — a position that later demonologists had to overcome to assert the physical reality of the sabbath. Spectral evidence, specifically, refers to the legal use of dream-visions and apparitions of accused persons as testimony of their guilt — a practice that generated intense controversy at Salem and was debated in English and continental legal contexts throughout the early modern period.",
+  "clark_intellectual_analysis": "Clark shows that the illusion/reality debate occupied a central position in learned demonological discourse: whether diabolic experiences were physically real or diabolically induced illusions had profound implications for how prosecution should proceed. Authors including Institoris and Bodin argued for physical reality; others including some Thomists maintained the illusion position. Clark demonstrates that this debate was conducted with genuine philosophical rigor, drawing on Aristotelian epistemology and scholastic faculty psychology.",
+  "hutton_social_analysis": "Hutton emphasizes that the illusion question had direct practical consequences for the scope of witch prosecution: if sabbath experiences were real, then large numbers of people were physically present at diabolic gatherings; if illusory, then individual cases of bewitchment required separate proof. The reality position enabled larger-scale prosecution by treating confessions of sabbath attendance as evidence of collective crime. The social dynamics of accusation were shaped by which theoretical position local judges adopted.",
+  "ginzburg_interrogation_analysis": "Ginzburg's work on the benandanti is centrally concerned with this distinction: benandanti described leaving their bodies in spirit during nocturnal combat, a claim that fitted neither the demonic illusion category nor the physical sabbath model comfortably. Inquisitors' attempts to fit benandanti testimony into one category or the other shaped the evolution of confessions over successive interrogations, eventually transforming the benandanti from spirit-fighters into participants in the diabolic sabbath.",
+  "regional_variations": "The reality of spectral evidence was most contested in English and New England contexts, where common law required careful attention to admissible evidence. In Salem (1692), the spectral evidence debate was central to the outcome: when ministers including Increase Mather argued that the devil could appear in an innocent person's shape, the basis for conviction collapsed. Continental procedure generally treated confession — which might include spectral claims — as the primary evidence regardless of its ontological status.",
+  "scholarly_disagreement": "The historiography of spectral evidence at Salem is extensive and contested: scholars debate whether the judges genuinely believed in spectral evidence, whether they used it instrumentally, and exactly when and why they retreated from it. The broader question of how the illusion/reality debate influenced prosecution patterns more generally remains unresolved.",
+  "trial_examples": ["salem-1692-trials", "friuli-benandanti-1575-inquisition"],
+  "related_concepts": ["canon-episcopi-doctrine", "demonic-agency-theological", "preternatural-supernatural", "nocturnal-flight-reality", "spectral-evidence-legal"],
+  "source_method": "Canon Episcopi; demonological treatises; Salem court records; Ginzburg's benandanti analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,64 @@
+{
+  "id": "st-osyth-1582-trials",
+  "name": "St Osyth Witch Trials",
+  "location_id": "st-osyth-essex",
+  "year_start": 1582,
+  "year_end": 1582,
+  "alleged_accused_count": 14,
+  "executed_count": 2,
+  "regional_context": "St Osyth, Essex, Kingdom of England; examined before magistrate Brian Darcy; one of the most extensively documented individual English witch trials",
+
+  "summary": "The St Osyth trials of 1582 were examined before local magistrate Brian Darcy, who conducted exceptionally detailed interrogations producing one of the most extensive surviving English witch-trial records. Ursula Kemp, a local cunning woman who had been paid for healing services, was the central accused; she confessed to causing four deaths through maleficium and to possessing four familiar spirits (two cats, a toad, and a lamb). Her confession also implicated several neighbors. Two women were ultimately executed. The elaborate interrogation records, which Darcy himself published as a pamphlet, provide unusually detailed documentation of how accusation networks spread through a small Essex community.",
+
+  "historiographical_significance": "Brian Darcy's meticulous examination records make St Osyth 1582 one of the richest documentary sources for understanding English witch prosecution at the community level. Alan Macfarlane's analysis identifies the St Osyth case as exemplifying the neighborly-tension model: Kemp's confession reveals a web of small-scale conflict over healing payment, charity disputes, and interpersonal slights stretching back years. The familiar spirit confessions also illuminate how English cunning folk understood their own magical capacities: Kemp apparently had a genuine belief system about her spirits that the interrogation process transformed into a demonic-pact confession. The St Osyth pamphlet influenced subsequent English prosecution by establishing detailed familiar-spirit testimony as the expected confessional form.",
+
+  "demonological_framework": [
+    "familiar-spirit-animal",
+    "maleficium-harmful-magic",
+    "demonic-pact-early-modern"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Brian Darcy, JP (local magistrate)",
+    "prosecuting_officials": "Brian Darcy (examining magistrate); Essex assize judges for final trial",
+    "procedure": "Extensive pre-trial examination by Darcy; leading questions; promise of leniency (later not honored); familiar spirit testimony recorded in elaborate detail; two executions",
+    "torture_methods": [],
+    "trial_phases": [
+      {
+        "phase": "Darcy's examination (early 1582)",
+        "context": "Kemp brought before Darcy; extended interrogation producing elaborate confession; neighbors named; further arrests"
+      },
+      {
+        "phase": "Assize trial (spring 1582)",
+        "context": "Kemp and others tried; two executed; others acquitted or reprieved; Darcy publishes examination as pamphlet"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Darcy's use of promises of leniency to extract confessions from Kemp and others raises questions about the reliability of the testimony. Historians debate whether Kemp's elaborate familiar-spirit descriptions reflect genuine folk belief, confessional accommodation to interrogation expectations, or some combination. The question of whether Darcy was primarily responding to community accusation or actively generating prosecution through his examination technique is also debated.",
+
+  "accused_persons": [
+    "ursula-kemp-st-osyth-1582"
+  ],
+
+  "related_trials": [
+    "chelmsford-1566-trials",
+    "chelmsford-1579-trials",
+    "chelmsford-1589-trials"
+  ],
+
+  "source_method": "Brian Darcy's examination record (*A True and Just Recorde*, 1582); Macfarlane, *Witchcraft in Tudor and Stuart England* (1970); Ewen's statistical compilation",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "historiographical_notes": "Ursula Kemp's case is particularly important for Hutton's analysis of cunning folk, because Kemp was apparently a practicing healer who charged fees for her services — precisely the type of legitimate magical practitioner Hutton argues was the typical target of accusation when community relations broke down. The transition from healing cunning woman to convicted witch in Kemp's case illustrates how the same person could occupy both social roles simultaneously (healer and suspected maleficent practitioner), and how prosecution collapsed the distinction by reinterpreting healing magic as demonic service. Darcy's detailed records make this transition unusually visible: we can trace the points at which Kemp's neighbors shifted from clients to accusers.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

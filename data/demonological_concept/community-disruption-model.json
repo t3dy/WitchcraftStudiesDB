@@ -1,0 +1,21 @@
+{
+  "id": "community-disruption-model",
+  "name": "Community Disruption Model: Briggs and the Feared Neighbor",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "France (Lorraine), Europe-Wide",
+  "scholarly_definition": "Robin Briggs's community-disruption model, developed through intensive study of Lorraine witch trials, proposes that witch accusation typically arose from specific interpersonal conflicts between neighbors over a period of years or decades. The accused witch was characteristically not a random scapegoat but a person who had developed a reputation for quarrelsomeness, hostility, and social aggression; a feared neighbor whose disputes with the community had accumulated to the point where formal accusation became thinkable. Briggs emphasizes that accused witches were typically known troublemakers who had threatened or cursed others, making the accusation continuous with a documented history of social conflict rather than a sudden projection.",
+  "clark_intellectual_analysis": "Clark engages with Briggs's model as an important corrective to both the scapegoat model and the charity-refused mechanism, but notes that community-level social analysis still does not fully account for why those involved believed in the magical causation of harm. Briggs's documentation of the witch's social history is valuable for understanding accusation dynamics, but the intellectual framework that made accusations of maleficium credible requires separate explanation.",
+  "hutton_social_analysis": "Hutton draws extensively on Briggs's community model and considers it the most persuasive social-historical account of how individual witch accusations developed. The picture of the gradually established feared neighbor — a person whose quarrels, threats, and curses accumulated over time into a defined reputation — fits the documentary evidence from multiple regions better than models emphasizing either social marginality or random scapegoating. Hutton integrates this with attention to the cunning folk who might identify suspected witches.",
+  "ginzburg_interrogation_analysis": "Ginzburg's attention to individual lives and the recovery of voices from the historical record is sympathetic to Briggs's microhistorical approach. However, Ginzburg emphasizes that the interrogational transformation of accused persons' self-understanding can disconnect trial records from the actual social history of accusation: even if a person was genuinely a feared neighbor, what they confessed under interrogation reflected judicial expectations more than community reality.",
+  "regional_variations": "Briggs's model was developed primarily on Lorraine evidence; he also tested it more broadly across European regional materials. It fits English patterns (MacFarlane's Essex data) reasonably well. German mass prosecution contexts are less well described by the model, as those trials were more driven by judicial initiative and denunciation chains than by long-accumulated community hostility. Scottish trials show mixed patterns.",
+  "scholarly_disagreement": "Briggs's model has been criticized for potentially normalizing the accusation — suggesting that accused witches brought prosecution on themselves through their behavior. Feminist historians argue this risks victim-blaming. Others note that Briggs's Lorraine evidence is unusually rich and may not generalize. The role of professional witch-finders (Hopkins in England, prickers in Scotland) in disrupting the community-organic accusation dynamic has also been raised.",
+  "trial_examples": ["lorraine-1580-sustained"],
+  "related_concepts": ["scapegoat-social-function", "charity-refused-mechanism", "reputation-accumulation", "outsider-suspect-figure", "maleficium-concept"],
+  "source_method": "Briggs Witches and Neighbors (1996); Lorraine trial records; comparative regional studies",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

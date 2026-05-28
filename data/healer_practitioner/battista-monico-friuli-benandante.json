@@ -1,0 +1,49 @@
+{
+  "id": "battista-monico-friuli-benandante",
+  "name": "Battista Monico",
+  "status": "Unknown",
+  "trial_id": null,
+  "location_id": "friuli",
+  "year_active": 1585,
+  "social_status": "Peasant farmer",
+  "gender": "Male",
+  "tradition": "Benandante",
+  "self_identification": "Defender of the harvests",
+  "claimed_abilities": [
+    "Spirit left body during Ember Days (Quatuor Anni Tempora)",
+    "Fought witches with fennel stalks in spirit battles",
+    "Protected village harvests and livestock from maleficium",
+    "Identified local witches after nocturnal combat"
+  ],
+  "biography": "Battista Monico was a Friulian benandante investigated by the Venetian Inquisition during the 1580s. Like other male benandanti, he claimed to be born with a caul (born en caul), which marked him from birth as one destined to travel in spirit during the Ember Days — the four seasonal fasting periods of the Catholic calendar — to do battle against witches and defend his community's crops and cattle.\n\nMonico's testimony, recorded by inquisitors in the Friuli region of northeastern Italy, conforms closely to the core benandante pattern documented by Carlo Ginzburg: the claim that during these spirit journeys the soul temporarily left the body (which lay motionless at home), the benandanti fought in organized bands against witches using fennel stalks as weapons, and the outcome of this invisible battle determined whether the harvest would prosper or fail. His case belongs to the cluster of investigations triggered by the Venetian Inquisition's growing awareness of the benandante phenomenon in the 1570s–1590s.\n\nThe inquisitors who questioned Monico struggled to fit his testimony into existing theological categories of witchcraft and diabolic compact. His claims were neither straightforwardly orthodox nor clearly diabolic — a tension that characterized the benandante phenomenon generally and that Ginzburg analyzes as evidence of a genuinely distinct folk-belief stratum predating the witch-trial apparatus.",
+  "practice_description": "Monico claimed that four times a year, during the Ember Days, his spirit would leave his sleeping body and join a company of benandanti armed with fennel stalks. They would travel to a designated field or crossroads to do battle against a corresponding company of witches and warlocks armed with sorghum stalks. If the benandanti won, the harvest would be good; if they lost, famine or pestilence would follow. He identified himself as a community defender, not an agent of harm, and distinguished his activities sharply from the malefic acts attributed to witches.",
+  "relationship_to_prosecution": "Investigated by the Venetian Inquisition in the 1580s as part of the Inquisition's systematic effort to understand and categorize the benandante phenomenon first encountered in the 1570s. Inquisitors attempted to reframe his self-described protective role within diabolic witch-trial frameworks, applying pressure to elicit confession of a pact with the devil — a reframing Ginzburg documents as the gradual transformation of benandante identity across successive inquisitorial generations.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "benandante (literally 'good-goer' or 'well-farer')",
+      "andare in spirito ('to go in spirit')",
+      "defender of the harvests",
+      "fighter with fennel stalks",
+      "born with the caul (nato con la camicia)"
+    ],
+    "inquisitor_categories": [
+      "strega/stregone (witch)",
+      "diabolical pact",
+      "sabbath attendance",
+      "heretical assembly",
+      "superstitious belief"
+    ]
+  },
+  "hutton_analysis": "Hutton situates the benandanti within his broader argument that cunning folk and protective practitioners existed across pre-modern Europe as a distinct category separate from the diabolic witch constructed by elite demonology. He sees the Friulian benandanti as a particularly well-documented survival of shamanic-type spirit-journey traditions adapted into a Christian protective framework.",
+  "ginzburg_analysis": "Ginzburg's foundational analysis treats the benandanti as evidence of an archaic shamanistic stratum beneath the surface of early modern Italian folk belief, connected through a hypothetical deep structure to Eurasian trance traditions. He uses cases like Monico's to document how the Inquisition's repeated questioning gradually eroded the benandanti's self-conception as defenders and replaced it with the diabolic sabbath template.",
+  "historiographical_significance": "Male Friulian benandanti like Battista Monico are central to Ginzburg's argument in The Night Battles (1966) that early modern witch trials suppressed a pre-existing stratum of protective folk magic. The documented transformation of benandante testimony across multiple inquisitorial sessions — from community defender to diabolic witch — is one of the clearest case studies of how the witch-trial apparatus shaped and distorted the beliefs it claimed merely to record.",
+  "source_method": "Published trial records from the Venetian Inquisition archive; Ginzburg's The Night Battles (1966, English trans. 1983); Hutton's The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

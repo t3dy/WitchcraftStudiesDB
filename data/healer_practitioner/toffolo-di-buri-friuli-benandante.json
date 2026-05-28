@@ -1,0 +1,47 @@
+{
+  "id": "toffolo-di-buri-friuli-benandante",
+  "name": "Toffolo di Buri",
+  "status": "Unknown",
+  "trial_id": null,
+  "location_id": "friuli",
+  "year_active": 1583,
+  "social_status": "Peasant farmer",
+  "gender": "Male",
+  "tradition": "Benandante",
+  "self_identification": "Benandante, fighter against witches",
+  "claimed_abilities": [
+    "Spirit travel during Ember Days",
+    "Combat against witches with fennel stalk",
+    "Identification of witches within the community",
+    "Protection of crops and livestock"
+  ],
+  "biography": "Toffolo di Buri was a male benandante from the Friuli region documented through the investigations of the Venetian Inquisition. His name — 'di Buri' indicating his family name or village of origin — places him within the network of identifiable Friulian individuals whose testimonies form the documentary base of Ginzburg's The Night Battles.\n\nAs a male benandante, Toffolo claimed to participate in the seasonal spirit battles that he and his fellows understood as essential to community welfare. His case represents one of many in the Venetian Inquisition's accumulating archive of benandante testimonies — an archive that initially baffled inquisitors who encountered practitioners who insisted they were fighting witches rather than consorting with them.\n\nThe name 'di Buri' may indicate a specific village of origin within the Friuli, which would place his activities within a geographically specific community whose crops and livestock he believed himself to be defending. The localism of benandante practice — each benandante's protective role oriented toward their specific village and its annual agricultural cycle — is a feature Ginzburg emphasizes as evidence of the tradition's deep embedding in particular communities.",
+  "practice_description": "Toffolo claimed to receive a compulsory calling as a benandante, marked by birth with the caul, which bound him to participate in the spirit journeys of the Ember Days. During these periods he would fall into a trance-like state, his spirit leaving his body to join the company of benandanti who fought against the company of witches, determining through combat whether the coming season's crops would succeed or fail.",
+  "relationship_to_prosecution": "Investigated by the Venetian Inquisition as part of its systematic inquiry into the benandante phenomenon in Friuli during the 1580s. Like other male benandanti of this period, he was questioned by inquisitors who were attempting to determine whether benandante beliefs constituted heresy and how they related to the diabolic witch practices described in elite demonological literature.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "benandante",
+      "going in spirit (andare in spirito)",
+      "fennel stalk weapon (finocchio)",
+      "fighting for the crops (per il grano)"
+    ],
+    "inquisitor_categories": [
+      "witch assembly (sinagoga)",
+      "diabolical pact",
+      "heretical belief",
+      "superstition"
+    ]
+  },
+  "hutton_analysis": "Hutton treats Toffolo di Buri as representative of the male protective practitioner tradition in the Friuli — practitioners whose self-identification as community defenders placed them in a fundamentally different category from the diabolic witches of elite demonological imagination, a distinction Hutton argues is essential to understanding the actual landscape of pre-modern magical practice.",
+  "ginzburg_analysis": "Ginzburg uses cases like Toffolo's to build his argument that the benandanti represent a coherent regional tradition of shamanic-type practice, with the specific details of individual testimonies — fennel stalks, Ember Days, caul birth — pointing toward a shared cultural substrate that cannot be explained as mere inquisitorial construction.",
+  "historiographical_significance": "Toffolo di Buri is part of the larger corpus of named Friulian benandanti whose accumulated testimonies provided Ginzburg with the empirical base for his influential revisionist account of early modern witch beliefs. The existence of multiple named, locatable individuals within this tradition was crucial to Ginzburg's argument that the benandante phenomenon was a real folk practice, not an inquisitorial invention.",
+  "source_method": "Published trial records from the Venetian Inquisition archive; Ginzburg's The Night Battles (1966, English trans. 1983)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

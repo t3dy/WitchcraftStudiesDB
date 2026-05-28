@@ -1,0 +1,43 @@
+{
+  "id": "janet-horne-dornoch-1727",
+  "name": "Janet Horne",
+  "status": "Executed",
+  "trial_id": "dornoch-1727-horne",
+  "location_id": "scotland-general",
+  "year_accused": 1727,
+  "year_executed": 1727,
+  "age_at_trial": null,
+  "social_status": "Elderly woman, Dornoch, Sutherland",
+  "gender": "Female",
+  "biography": "Janet Horne of Dornoch in Sutherland is recorded as the last person executed for witchcraft in Scotland, put to death in June 1727. She was an elderly woman whose mental faculties were apparently failing at the time of her trial, which adds a particular pathos to her case. She was accused alongside her daughter, and the prosecution's central claim was that Horne had transformed her daughter into a horse and ridden her to a diabolical meeting, after which the Devil had shod the daughter as if she were a horse. Her daughter's hands and feet, which were described as deformed, were presented as evidence of this supernatural horseshoeing.\n\nThe trial of Janet Horne took place more than three decades after the last major Scottish witch executions and a generation after the great Continental prosecutions had essentially ceased. By 1727, the educated classes in Edinburgh and London largely no longer believed in the literal reality of witchcraft, and Scottish law was moving toward abolition of witch prosecution (which came in 1736). Horne's trial and execution thus represents an extraordinary legal and social anachronism — the last gasp of a prosecutorial tradition that most contemporaries outside Sutherland would have considered obsolete.\n\nHer daughter escaped execution. Janet Horne was reportedly so confused at her execution that she warmed herself at the fire prepared to burn her, apparently not understanding what was happening. This detail, whether accurate or legendary, has become part of the story's cultural legacy.",
+  "arrest_narrative": "Horne was arrested in Dornoch in 1727 following accusations by neighbors that she had practiced witchcraft, with the specific charge that she had transformed her daughter into a horse. The local sheriff, David Ross of Littledean, conducted the prosecution despite the increasingly anachronistic nature of such proceedings. The daughter's physical deformities were cited as material evidence.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Apparently confused and unable to understand the proceedings clearly",
+    "final_confession_summary": "No coherent confession recorded; Horne appears to have been mentally incapacitated and unable to follow the trial proceedings"
+  },
+  "accusations_against_them": [
+    "Transforming daughter into horse through witchcraft",
+    "Riding daughter to diabolical meeting",
+    "Causing daughter's physical deformities through diabolic horseshoeing",
+    "Making compact with the Devil"
+  ],
+  "execution_details": {
+    "date": "1727-06",
+    "method": "Burning at stake",
+    "location": "Dornoch, Sutherland"
+  },
+  "historiographical_significance": "Horne's case marks the chronological end of Scottish witch execution and is significant precisely for its anachronistic character — a prosecution taking place long after the intellectual consensus had shifted against witch belief. Historians use her case to examine the persistence of local prosecutorial cultures in peripheral regions after central authorities had abandoned witch prosecution, and to understand the lag between elite skepticism and grassroots witch-belief. Her 1727 execution occurred just nine years before the Scottish Witchcraft Act of 1735 formally ended legal prosecution.",
+  "source_method": "Contemporary account by Captain Edmund Burt (Letters from a Gentleman in the North of Scotland); Scottish court records; discussed in Levack's Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

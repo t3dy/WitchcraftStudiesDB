@@ -1,0 +1,59 @@
+{
+  "id": "hartford-connecticut",
+  "name": "Hartford (Connecticut Colony)",
+  "type": "Town",
+  "region": "New England / British Colonial America",
+  "modern_location": "Connecticut, USA",
+  "coordinates": {
+    "latitude": 41.764,
+    "longitude": -72.682
+  },
+
+  "administrative_context": "Hartford was the capital of Connecticut Colony, a Puritan-founded colony governed by its general court under the Fundamental Orders of Connecticut. Witch prosecution in Connecticut fell under the colony's General Court jurisdiction and was conducted by magistrates appointed by the court.",
+
+  "witchcraft_trials_significance": "Hartford experienced witch trials in 1662-1663 that predated the 1692 Salem crisis and represent significant examples of New England colonial witch prosecution. The 1662 case involved the accusation and execution of Mary Barnes and Nathaniel Greensmith and his wife Rebecca Greensmith. The Hartford cases demonstrate the presence of witch prosecution anxiety in New England colonial communities well before Salem, and their patterns of neighborhood accusation and confession show parallels to the later Salem events.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Connecticut General Court",
+      "role": "Colonial court authority",
+      "contribution_to_trials": "Heard the Hartford witch cases; convicted and sentenced accused"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1647": "Earlier Connecticut witch prosecution (Alse Young, first documented execution in the English colonies)",
+    "1662_1663": "Major Hartford witch crisis; multiple accused; 3 executed including Rebecca Greensmith and Nathaniel Greensmith"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Hartford and surrounding Connecticut colony communities",
+    "social_reach": "Middling rural colonists; the accused were typical of New England community members, not social marginals",
+    "gender_distribution": "Mixed; both men and women among accused in the Hartford cases",
+    "mortality_impact": "3 executions in the 1662-1663 crisis; Connecticut's total witch executions approximately 11 over the 17th century"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the Hartford trials within the Puritan providentialist framework that interpreted diabolism as a real threat to the godly New England community, noting the continuity between the theological assumptions of Hartford 1662 and Salem 1692.",
+    "hutton_perspective": "Hutton situates Hartford within the pattern of community-based accusation in New England: neighborhood tensions, prior reputation, and misfortune attribution drove prosecution in a manner structurally similar to the English Essex model.",
+    "ginzburg_perspective": "Rebecca Greensmith's confession, which described a compact with the devil and meetings with other witches, followed the standard confessional template in a New England Puritan context."
+  },
+
+  "legacy_and_historiographical_importance": "Hartford's witch trials are analyzed by John Demos in Entertaining Satan (1982), the major scholarly study of New England witch prosecution outside Salem, and by Richard Godbeer in The Devil's Dominion (1992).",
+
+  "primary_sources": "Connecticut General Court records; analyzed in Demos, Entertaining Satan (1982); Godbeer, The Devil's Dominion (1992)",
+
+  "source_method": "Published scholarship (Demos, Godbeer, Levack), Connecticut court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

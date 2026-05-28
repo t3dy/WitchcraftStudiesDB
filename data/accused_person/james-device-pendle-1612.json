@@ -3,26 +3,27 @@
   "name": "James Device",
   "status": "Executed",
   "trial_id": "pendle-1612",
-  "location_id": "pendle",
+  "location_id": "pendle-lancashire",
   "year_accused": 1612,
   "year_executed": 1612,
   "age_at_trial": null,
   "social_status": "Son of Elizabeth Device; rural poor, Forest of Pendle",
   "gender": "Male",
   "biography": "James Device was the son of Elizabeth Device and the grandson of Old Demdike (Elizabeth Southerns), placing him at the center of the network of family relationships that structured the Pendle prosecutions. He was a young man of the laboring poor in the Forest of Pendle who would become both accuser and accused in the 1612 trials — one of the more extraordinary personal positions in the case's history. He confessed to his own involvement in witchcraft and simultaneously gave testimony that helped condemn his own mother and other family members.\n\nJames Device's role as a witness against his mother Elizabeth Device is one of the most striking elements of the Pendle trials, raising questions that scholars continue to debate about the psychological conditions under which such testimony was given, whether coercion played a role, and what understanding James himself may have had of the legal consequences of what he was saying.",
-
   "arrest_narrative": "James Device was arrested in the spring 1612 sweep following Justice Roger Nowell's examinations at Read Hall. He gave extensive examinations in which he confessed to witchcraft and named family members and neighbors. At trial he gave testimony against his mother, a detail preserved in Potts's account and widely noted by contemporaries and later historians.",
-
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "torture_sessions": [
-      {"session": 1, "method": "Examination before Justice Nowell", "outcome": "Extensive voluntary-appearing confession and testimony against family"}
+      {
+        "session": 1,
+        "method": "Examination before Justice Nowell",
+        "outcome": "Extensive voluntary-appearing confession and testimony against family"
+      }
     ],
     "initial_response": "Relatively quick confession compared to others",
     "final_confession_summary": "Confessed to possessing familiar spirit named Dandy, killing several persons by witchcraft, stealing a sheep, and participated in the Good Friday meeting at Malkin Tower; testified against his mother Elizabeth Device at her trial"
   },
-
   "accusations_against_them": [
     "Possession of familiar spirit (Dandy)",
     "Murder of Anne Towneley by witchcraft",
@@ -30,15 +31,12 @@
     "Theft of sheep (to feed gathering at Malkin Tower)",
     "Participation in Good Friday conspiracy meeting"
   ],
-
   "execution_details": {
     "date": "1612-08-20",
     "method": "Hanging",
     "location": "Lancaster"
   },
-
   "historiographical_significance": "James Device's testimony against his own mother represents one of the most psychologically complex episodes in English witch-trial history. Scholars debate whether he understood he was condemning her to death, whether he was under direct coercion to testify, or whether his confessions reflected genuine belief in his family's witchcraft. His case is important for understanding how family accusation dynamics functioned in English trials and for questioning what 'voluntary' confession meant in early modern judicial contexts.",
-
   "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assizes records",
   "review_status": "DRAFT",
   "confidence": "HIGH",

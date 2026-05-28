@@ -1,0 +1,46 @@
+{
+  "id": "andro-man-aberdeen-1597",
+  "name": "Andro Man",
+  "status": "Executed",
+  "trial_id": "aberdeen-1597-trials",
+  "location_id": "aberdeen-scotland",
+  "year_accused": 1597,
+  "year_executed": 1597,
+  "age_at_trial": null,
+  "social_status": "Unspecified; Aberdeen burgess community",
+  "gender": "Male",
+  "biography": "Andro Man of Aberdeen was tried in the major Aberdeen witch panic of 1597, one of the most significant Scottish witch prosecutions of the late sixteenth century. His confessions are remarkable for describing a thirty-two year relationship with the Queen of Elfhame, during which she had borne him children. He claimed sexual relations with the fairy queen as a consistent feature of this long relationship, describing her as both lover and teacher. His accounts place him firmly within the Scottish tradition of fairy-contact that scholars have identified as a distinctive regional form of spirit-belief largely separate from continental demonological frameworks.\n\nMan's confessions describe the Queen of Elfhame as a physical being with whom he had ongoing carnal relations, a characterization that sits uneasily with standard demonological accounts of satanic pacts and sabbaths. His testimony shows the fairy queen appearing in specific named local places and operating according to her own calendar and customs. The Elfhame queen in Man's account is neither clearly demonic nor clearly equivalent to the Devil's consort of learned demonology, but rather belongs to an older cosmological framework in which fairy royalty governed a parallel world accessible to certain humans.\n\nThe Aberdeen trials of 1597 swept up multiple individuals and resulted in a substantial number of executions. Man's case sits alongside that of Janet Breadheid and others as evidence of how the fairy-contact tradition common in Scottish popular belief was prosecuted within the demonological framework during periods of panic.",
+  "arrest_narrative": "Man was caught up in the broad Aberdeen witch panic of 1597, which followed the national witch-hunting campaign encouraged by James VI after the North Berwick prosecutions. The Aberdeen authorities pursued multiple suspects simultaneously, and Man's reputation for unusual relationships with supernatural beings apparently drew prosecutorial attention.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "unspecified — torture standard in Scottish procedure"
+    ],
+    "initial_response": "Unknown",
+    "final_confession_summary": "Confessed to a thirty-two year relationship with the Queen of Elfhame, including sexual relations and children born from this union; described regular meetings in specific local places; claimed the fairy queen taught him knowledge and skills; described fairy company as distinct from demonic sabbath though prosecutors interpreted it within demonological framework"
+  },
+  "accusations_against_them": [
+    "Carnal relations with the Queen of Elfhame",
+    "Thirty-two year demonic compact (as interpreted by court)",
+    "Commerce with fairy spirits",
+    "Attendance at supernatural gatherings",
+    "Practicing arts derived from fairy instruction"
+  ],
+  "execution_details": {
+    "date": "1597",
+    "method": "Burning at stake",
+    "location": "Aberdeen"
+  },
+  "historiographical_significance": "Andro Man's case is central to scholarly debates about the relationship between Scottish fairy belief and witch prosecution. His description of a sexual relationship with the Queen of Elfhame parallels structures found across Celtic fairy tradition and has been analyzed by Ginzburg as evidence of shamanistic traditions surviving in vernacular form. Hutton's work on fairy belief emphasizes Man's case as showing how a distinct Scottish folk cosmology was forced into the demonological interpretive framework of witch trial procedure.",
+  "source_method": "Aberdeen Council Register and Justiciary Records; published in Stuart MacDonald's The Witches of Fife (2002); analyzed in Ginzburg's Ecstasies and Hutton's The Witch",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

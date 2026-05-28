@@ -1,0 +1,61 @@
+{
+  "id": "nordlingen",
+  "name": "Nördlingen (Bavaria, Germany)",
+  "type": "City",
+  "region": "Central Europe / Holy Roman Empire",
+  "modern_location": "Bavaria, Germany",
+  "coordinates": {
+    "latitude": 48.853,
+    "longitude": 10.490
+  },
+
+  "administrative_context": "Nördlingen was a Free Imperial City of the Holy Roman Empire in Swabia, governed by its city council with independent criminal jurisdiction. Its status as a Free Imperial City meant prosecution was conducted by civic authorities rather than an ecclesiastical or secular prince, providing comparative evidence against the ecclesiastical-state model of south German prosecution.",
+
+  "witchcraft_trials_significance": "The Nördlingen witch trials of the 1590s are notable for the documented case of Maria Holl, a tavern-keeper's wife who survived 62 torture sessions without confessing. Maria Holl's endurance under extreme torture was exceptional—the interrogation procedure continued far beyond normal practice—and she was ultimately released when her refusal to confess under torture led the court to suspend prosecution. Her case is one of the most powerful individual documents of resistance to witch trial procedure in German history.",
+
+  "trial_events": [
+    "nordlingen-1590-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Nördlingen city council",
+      "role": "Municipal court authority",
+      "contribution_to_trials": "Conducted the Nördlingen prosecutions; the Maria Holl case proceeded with extraordinary persistence of torture before ultimately failing to produce confession"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1590s": "Nördlingen witch prosecutions; Maria Holl case among those documented",
+    "1590_1593": "Maria Holl's extended ordeal: 62 documented torture sessions without confession; ultimate release"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Nördlingen and immediately surrounding area",
+    "social_reach": "Maria Holl was a tavern-keeper's wife of middling status; the broader Nördlingen cases involved multiple social positions",
+    "gender_distribution": "Predominantly female among accused",
+    "mortality_impact": "Multiple executions in the broader Nördlingen prosecutions; Maria Holl herself survived and was released; precise execution total uncertain"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "The Maria Holl case is directly relevant to Clark's analysis of torture's role in witch trial procedure: it demonstrates both the normal expectation that torture would produce confession and the exceptional circumstances under which the system could fail to produce the expected outcome.",
+    "hutton_perspective": "Hutton cites the Maria Holl case as evidence that individual resistance was possible within the witch trial system, though exceptional—her survival required extraordinary physical endurance and the specific institutional context of a Free Imperial City council less committed to prosecution than ecclesiastical authorities.",
+    "ginzburg_perspective": "Maria Holl's non-confession is a negative data point for Ginzburg's analysis of confession content: her silence removes the confessional narrative from the evidentiary record, illustrating that the testimony we possess from witch trials is shaped by the subset who confessed rather than all accused."
+  },
+
+  "legacy_and_historiographical_importance": "Maria Holl's case is analyzed by Lyndal Roper in Witch Craze and is widely cited as one of the most extraordinary individual stories of resistance in the witch trial record.",
+
+  "primary_sources": "Nördlingen city council records; analyzed in Roper, Witch Craze and the standard surveys",
+
+  "source_method": "Published scholarship (Roper, Behringer, Levack), Nördlingen city archives",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

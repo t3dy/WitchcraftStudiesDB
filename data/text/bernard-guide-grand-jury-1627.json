@@ -1,0 +1,33 @@
+{
+  "id": "bernard-guide-grand-jury-1627",
+  "title": "A Guide to Grand-Jury Men with Respect to Witches",
+  "author": "Richard Bernard",
+  "author_id": null,
+  "year_published": 1627,
+  "language": "English",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Felix Kingston, London, 1627",
+  "modern_edition": "Available in early modern reprints; no modern critical edition",
+  "significance": "Moderate Puritan guide for jurors considering witchcraft cases; noteworthy for its caution about evidence and its attempt to restrict prosecution to well-evidenced cases, representing the English tradition of judicial restraint.",
+  "summary": "Bernard, a moderate Puritan minister, wrote this guide to instruct grand jurors on how to evaluate witchcraft evidence carefully and avoid convicting the innocent. While accepting the reality of witchcraft in principle, Bernard argues that many allegations are false or insufficiently proven and that grand juries should insist on strong evidence before committing cases to trial. He distinguishes between different types of evidence (direct testimony, circumstantial, confessions) and urges caution about each. The text represents the English middle ground between enthusiastic prosecution (Hopkins) and full skepticism (Scot): accepting the theological framework while insisting on legal caution.",
+  "clark_analysis": "Clark contextualizes Bernard within the English legal culture that consistently required higher standards of evidence than Continental systems; the Guide to Grand-Jury Men represents the translation of this legal culture into practical guidance, maintaining theological acceptance of witchcraft while insisting on judicial rigor.",
+  "hutton_analysis": "Hutton values Bernard as evidence for the English judicial tradition of restraint that kept English execution rates substantially lower than Scottish or German rates. The guide reflects a practical wisdom about false accusation that operated as a structural check on prosecution escalation.",
+  "ginzburg_analysis": "Ginzburg is less focused on Bernard specifically; the text is primarily a legal procedural document rather than a source for popular belief.",
+  "key_arguments": [
+    "Witchcraft is real but many accusations are false and must be tested carefully",
+    "Grand juries have a responsibility to prevent unjust prosecutions, not merely to indict",
+    "Confession is valuable evidence but must be tested for consistency and corroboration",
+    "Circumstantial evidence (neighborhood reputation, misfortune attribution) is insufficient alone",
+    "The judge and jury must balance the gravity of the crime against the gravity of executing innocents"
+  ],
+  "influence_on_prosecutions": "Bernard's guide contributed to the English tradition of evidentiary caution in witchcraft cases that kept English execution rates below Continental and Scottish levels. It was cited by later writers on English witch trial procedure as an authoritative moderate position.",
+  "related_texts": ["perkins-discourse-witchcraft-1608", "gifford-discourse-1587", "hutchinson-historical-essay-1718"],
+  "related_trials": [],
+  "scholarly_disagreement": "Whether Bernard's caution reflected a principled skepticism about witch prosecution or merely procedural concern about wrongful conviction is debated. His influence relative to other moderate voices in English witch prosecution is difficult to assess.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["thomas-religion-decline-magic-1971", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "john-samuel-huntingdon-1593",
+  "name": "John Samuel",
+  "status": "Executed",
+  "trial_id": "warboys-1593-trials",
+  "location_id": "suffolk-county",
+  "year_accused": 1593,
+  "year_executed": 1593,
+  "age_at_trial": null,
+  "social_status": "Village man, Warboys, Huntingdonshire; husband of Alice Samuel",
+  "gender": "Male",
+  "biography": "John Samuel was the husband of Alice Samuel and father of Agnes Samuel, both executed alongside him in the Warboys witch case of 1593 — one of the few three-generation family executions in English witch prosecution history. John Samuel had been less central to the accusations than his wife, who was the primary focus of the Throckmorton family's suspicion across four years of the case. However, once the prosecution machinery was fully engaged, he was drawn in as a co-conspirator in the alleged diabolical conspiracy.\n\nThe inclusion of John Samuel in the prosecution follows a pattern common in English witch cases where family members of primary accused were identified as participants in the same diabolic compact. The logic of the prosecution required that the maleficium against the Throckmorton children and the death of Lady Cromwell be explained as a family operation. John Samuel's confession, likely extracted through the same sustained social pressure that produced his wife's confession, named him as a participant in the bewitchment.\n\nHis execution on April 7, 1593, alongside his wife and daughter, ended the four-year Warboys case. The estate of the executed Samuels — an unusual legal aftermath — was used by Robert Throckmorton to endow an annual sermon at Queens' College, Cambridge, against the dangers of witchcraft, a lecture that continued to be delivered for many years. This financial aftermath illustrates how witch prosecution could serve material as well as social interests.",
+  "arrest_narrative": "John Samuel was arrested as an accused co-conspirator in the Warboys case after the primary prosecution of his wife Alice developed to implicate the whole household. He was charged as a participant in the diabolical compact alleged to have caused the Throckmorton children's affliction.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Unknown — less documented than Alice Samuel's",
+    "final_confession_summary": "Confessed as participant in family conspiracy of witchcraft against the Throckmortons; specific confession content less fully documented than his wife's"
+  },
+  "accusations_against_them": [
+    "Participation in family witchcraft conspiracy",
+    "Bewitching the Throckmorton children",
+    "Demonic compact",
+    "Maleficium as part of household conspiracy with wife and daughter"
+  ],
+  "execution_details": {
+    "date": "1593-04-07",
+    "method": "Hanging",
+    "location": "Huntingdon"
+  },
+  "historiographical_significance": "John Samuel's case illustrates the expansion of witch accusation to male family members of primary female accused, and contributes to the Warboys case's status as the paradigm example of sustained family prosecution in English witch trial history. The use of the Samuel estate to endow a Cambridge anti-witchcraft sermon represents the financial dimension of witch prosecution rarely examined in historical accounts.",
+  "source_method": "The Most Strange and Admirable Discovery of the Three Witches of Warboys (1593 pamphlet); Huntingdonshire assize records; analyzed in Macfarlane's Witchcraft in Tudor and Stuart England (1970) and Levack",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

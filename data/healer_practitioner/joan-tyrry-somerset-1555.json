@@ -1,0 +1,45 @@
+{
+  "id": "joan-tyrry-somerset-1555",
+  "name": "Joan Tyrry",
+  "status": "Survived; Released",
+  "trial_id": null,
+  "location_id": "essex-county",
+  "year_active": 1555,
+  "social_status": "Peasant woman, local healer",
+  "gender": "Female",
+  "tradition": "Cunning woman with fairy contacts",
+  "self_identification": "Healer instructed by the fairies",
+  "claimed_abilities": [
+    "Healing of sick people through fairy instruction",
+    "Knowledge of remedies learned from the fairies",
+    "Identification of fairy-caused illness",
+    "Counter-magic against maleficium"
+  ],
+  "biography": "Joan Tyrry of Somerset was examined by church authorities in 1555 and is one of Ronald Hutton's key examples of the English fairy-taught healer tradition. Her examination, which predates the English Witchcraft Act of 1563 by nearly a decade, provides an unusually early documented account of the fairy-contact explanatory framework used by English cunning women.\n\nTyrry claimed that her healing knowledge came from instruction by 'the fairies' — a statement she made without apparent guile or hesitation, suggesting it represented her genuine understanding of the source of her abilities. Unlike the later, more heavily prosecuted cases of the Scottish fairy-contact tradition, Tyrry's 1555 examination occurred in a pre-statute context in which church courts rather than criminal courts handled most witchcraft-related inquiries, and the outcome was comparatively mild.\n\nHer survival — she was released without execution — contrasts sharply with later Scottish cases like Bessie Dunlop (1576) and Alison Peirson (1588), suggesting that the English ecclesiastical context was initially more accommodating of folk-belief frameworks, or that the absence of a Witchcraft Act made violent prosecution less available as an option. By 1563, when the English Witchcraft Act established capital punishment for certain forms of witchcraft, the context had changed dramatically.",
+  "practice_description": "Joan Tyrry provided healing services to her Somerset community using knowledge she attributed to fairy instruction. Her practice likely included herbal remedies, diagnosis of supernaturally-caused illness, and counter-magic — the standard repertoire of English cunning women. She explained her abilities through the fairy-contact framework common to English folk belief, claiming the fairies had taught her what she knew.",
+  "relationship_to_prosecution": "Examined by church authorities (bishop's court) in 1555 on inquiry into her practices. The ecclesiastical context meant that execution was not the primary sanction available; she was released, likely after some form of admonishment or penance. Her case predates the criminalization of witchcraft under the 1563 Witchcraft Act.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "the fairies (as instructors)",
+      "fairy-derived knowledge",
+      "healing given by the fairy folk"
+    ],
+    "inquisitor_categories": [
+      "superstition",
+      "unlawful practices",
+      "commerce with spirits"
+    ]
+  },
+  "hutton_analysis": "Hutton presents Joan Tyrry as a key case for the English fairy-healer tradition, using her 1555 testimony to establish that the fairy-contact explanatory framework was well-established in England before the Witchcraft Act and before the more intensively documented Scottish cases. He argues that Tyrry represents a coherent tradition of practitioners who genuinely understood their abilities as fairy-derived rather than diabolic.",
+  "ginzburg_analysis": "Ginzburg's comparative framework situates English fairy-healers like Tyrry within the broader Eurasian pattern of practitioners who claim supernatural knowledge from otherworldly beings — the English fairy court functioning as a regional variant of the spirit-contact tradition whose deep structure Ginzburg traces across multiple cultures.",
+  "historiographical_significance": "Joan Tyrry's 1555 examination is one of the earliest documented English cases of the fairy-contact tradition in a healing context, predating the 1563 Witchcraft Act and the more heavily prosecuted Scottish cases. Hutton uses her extensively to establish the pre-existence and English character of the fairy-healer tradition, arguing against interpretations that treat it as a purely Scottish or Irish phenomenon.",
+  "source_method": "Published ecclesiastical court records; Somerset court records; Hutton's The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

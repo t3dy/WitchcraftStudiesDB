@@ -1,0 +1,48 @@
+{
+  "id": "john-dee-london-1590s",
+  "name": "John Dee",
+  "status": "Active (historical record)",
+  "trial_id": null,
+  "location_id": "paris",
+  "year_active": 1590,
+  "social_status": "Mathematician, astrologer, imperial advisor; Fellow of Trinity College Cambridge",
+  "gender": "Male",
+  "tradition": "Learned magician/angel communicator",
+  "self_identification": "Natural philosopher and mathematician; servant of God seeking divine knowledge through angel communication",
+  "claimed_abilities": [
+    "Angel communication through the scryer Edward Kelley",
+    "Decipherment of an angelic language (Enochian)",
+    "Astrological calculation and prognostication",
+    "Navigation and geography (practical natural philosophy)",
+    "Alchemy and hermetic philosophy"
+  ],
+  "biography": "John Dee (1527-1608/09) is one of the most extraordinary figures in early modern intellectual history — a mathematician, astrologer, cartographer, and hermetic philosopher who served as an advisor to Queen Elizabeth I and the Holy Roman Emperor Rudolf II while simultaneously pursuing an extended project of angel communication he believed would reveal the secrets of creation. His career illuminates the complex boundary between learned natural magic, empirical science, and what contemporaries might identify as magical practice.\n\nDee's most controversial activities centered on his collaboration with the scryer Edward Kelley, which lasted from 1582 to approximately 1589. Kelley claimed to see and hear angelic beings in a crystal ball (the 'shewstone') while Dee recorded the communications, resulting in hundreds of pages of 'spiritual diaries' and the compilation of an angelic language Dee called Enochian. Dee understood this project as entirely pious: he was seeking direct divine knowledge, not trafficking with demons, and he distinguished his practices sharply from what he considered illegitimate magic.\n\nDee's position in the history of witchcraft studies is complex: he was never prosecuted for witchcraft, his social position and royal favor providing substantial protection. But his angel communications occupied the same imaginative and cultural space as the diabolic pacts attributed to witches — a relationship with supernatural beings conducted through a specialist intermediary, producing knowledge unavailable through ordinary means.",
+  "practice_description": "Dee's primary 'magical' practice was the extended series of 'spiritual exercises' he conducted with Kelley — séance-like sessions in which Kelley served as a visual/auditory medium while Dee recorded the communications of angelic beings. Alongside this, Dee maintained an extensive practice in astrological calculation, advice to navigators (he contributed significantly to Elizabethan exploration), and alchemical philosophy. He also possessed a large library of occult and hermetic texts and a collection of magical instruments including the shewstone.",
+  "relationship_to_prosecution": "Dee was never tried for witchcraft, though he was accused of conjuring by popular rumor and his house at Mortlake was ransacked by a mob in 1583. His social position — royal favor, extensive continental connections, scholarly reputation — insulated him from the prosecution that would have threatened a lower-status practitioner engaging in similar activities. He represents the upper end of the social spectrum within which magical practice was permitted to operate.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "angel communication (as pious philosophical inquiry)",
+      "natural philosophy",
+      "mathematics and geometry",
+      "Enochian (the angelic language)",
+      "spiritual exercises"
+    ],
+    "inquisitor_categories": [
+      "conjuring (as accused by popular rumor)",
+      "commerce with spirits",
+      "necromancy (in critics' view)"
+    ]
+  },
+  "hutton_analysis": "Hutton situates Dee at the learned magic end of the magical practitioner spectrum, noting that what distinguished Dee from the cunning man at the other end was less the nature of his activities than his social position, education, and ability to frame his practices in philosophically respectable language. The boundary between legitimate natural philosophy and forbidden magic was, for Hutton, more socially than substantively defined.",
+  "ginzburg_analysis": "Dee's angel communications represent, within Ginzburg's framework, a learned variant of the spirit-contact pattern he traces across multiple traditions — the practitioner who gains access to divine or supernatural knowledge through a specialized relationship with beings from another realm. The 'scryer' role of Kelley parallels the spirit-contact intermediary function Ginzburg identifies in more popular traditions.",
+  "historiographical_significance": "John Dee is one of the most studied figures in the history of early modern magic and science, important for understanding the relationship between natural philosophy, learned magic, and the broader cultural landscape within which witch trials occurred. Deborah Harkness's John Dee's Conversations with Angels (1999) and Glyn Parry's The Arch Conjuror of England (2011) are major recent scholarly works on his career.",
+  "source_method": "John Dee's spiritual diaries and private diary (British Library MS Cotton Appendix XLVI); Deborah Harkness's John Dee's Conversations with Angels (1999); Peter French's John Dee: The World of an Elizabethan Magus (1972)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

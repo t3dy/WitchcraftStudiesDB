@@ -1,0 +1,48 @@
+{
+  "id": "gostanza-da-libbiano-italy-1594",
+  "name": "Gostanza da Libbiano",
+  "status": "Unknown",
+  "trial_id": null,
+  "location_id": "venice-republic",
+  "year_active": 1594,
+  "social_status": "Local healer and practitioner, San Miniato",
+  "gender": "Female",
+  "tradition": "Italian folk practitioner",
+  "self_identification": "Participant in 'the game' (la festa)",
+  "claimed_abilities": [
+    "Night journeys to nocturnal assemblies (la festa, 'the game')",
+    "Healing of the sick",
+    "Counter-magic and removal of maleficium",
+    "Knowledge of remedies received during nocturnal gatherings",
+    "Identification of witches and their malefic actions"
+  ],
+  "biography": "Gostanza da Libbiano was a Tuscan healer from San Miniato near Florence who was tried in 1594 and whose confession described an Italian folk practice Ginzburg identifies as a variant of the night-journey tradition he traces through the benandanti and back to the Lady Oriente cases of fourteenth-century Milan.\n\nGostanza confessed — under circumstances whose coercive character is difficult now to assess — to participating in what she called 'the game' (la festa or il giuoco): nocturnal gatherings at which a company of participants assembled under the leadership of supernatural figures. Her descriptions incorporate both the night-journey motif and elements that more closely resemble the sabbath construct of late sixteenth-century demonology, making her testimony a complex mixture of folk-belief elements and inquisitorially-shaped narrative.\n\nHer case exemplifies the problem Ginzburg identifies across the body of Italian inquisitorial records: by 1594, the diabolic sabbath construct was well-established enough that it inevitably inflected the testimony of even practitioners who had genuine folk-belief frameworks, making it difficult to separate the practitioner's own understanding from the inquisitorial overlay. Gostanza's confession represents a later-period Italian case in which the folk and diabolic elements are more thoroughly intertwined than in the earlier Milan cases.",
+  "practice_description": "Gostanza provided healing and counter-magical services to her San Miniato community, explaining her knowledge in terms of participation in nocturnal assemblies she called 'the game' (la festa). Her practice combined herbal remedies with ritual counter-magic; her nocturnal assembly tradition represented an Italian regional variant of the night-journey motif — a local parallel to the benandante spirit battles of the Friuli, differently named and described but serving a similar function within the Italian folk-belief landscape.",
+  "relationship_to_prosecution": "Tried by Tuscan inquisitorial or civil authorities in 1594. Her case occurs late enough in the development of witch-trial practice that the diabolic sabbath framework was well-established, and her testimony shows greater assimilation to that framework than the earlier fourteenth-century Lady Oriente cases.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "la festa (the game/celebration)",
+      "il giuoco (the game)",
+      "the nocturnal gathering",
+      "healing knowledge from the assembly"
+    ],
+    "inquisitor_categories": [
+      "witches' sabbath",
+      "diabolical assembly",
+      "pact with the devil",
+      "witch"
+    ]
+  },
+  "hutton_analysis": "Hutton reads Gostanza's testimony as evidence for the geographical breadth of the Italian folk-practitioner tradition and its multiple regional variants. The Tuscan 'game' parallels the Friulian benandante battles as functional equivalents — regional adaptations of a broadly distributed Italian tradition of nocturnal protective assembly.",
+  "ginzburg_analysis": "Ginzburg documents Gostanza as an Italian parallel to the benandanti, using her testimony to argue that the night-journey tradition was distributed across multiple Italian regions and not confined to the Friuli. The 'game' (la festa) represents the Tuscan idiom for the same underlying cultural practice Ginzburg finds expressed as fennel-stalk battles in the Friuli and as Nachtschar riding in Germany.",
+  "historiographical_significance": "Gostanza da Libbiano's case extends the documented range of the Italian folk-practitioner night-journey tradition beyond the Friulian benandanti into Tuscany, supporting Ginzburg's argument for the broader Italian distribution of these practices. Her testimony also illustrates the methodological problem of reading later inquisitorial records where folk belief and diabolic template are more thoroughly intermingled.",
+  "source_method": "Published Tuscan inquisitorial records; Oscar Di Simplicio's scholarship on Tuscan witch trials; Ginzburg's Ecstasies (1989, English trans. 1991)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

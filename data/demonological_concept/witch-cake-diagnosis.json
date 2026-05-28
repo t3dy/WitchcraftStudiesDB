@@ -1,0 +1,21 @@
+{
+  "id": "witch-cake-diagnosis",
+  "name": "Witch Cake: Diagnostic Counter-Magic",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1600-1700)",
+  "primary_locale": "New England",
+  "scholarly_definition": "The witch cake was a diagnostic folk remedy used in New England to identify a witch responsible for affliction. The cake was made from rye meal mixed with the afflicted person's urine, baked, and then fed to a dog; the theory was that the dog's reaction would identify the responsible witch, whose spirit was connected by sympathetic link to the victim's bodily materials. The practice is historically documented at Salem: in February 1692, Mary Sibley, aunt of one of the afflicted accusers, instructed the household slaves Tituba and John Indian to bake such a cake and feed it to the Parris family dog. This act, when discovered by Minister Samuel Parris, was denounced as counter-magic that opened the community to further diabolical activity.",
+  "clark_intellectual_analysis": "Clark would situate the witch cake within the broader tradition of sympathetic counter-magic, whose theoretical premises — that a material connection between victim and witch could be exploited diagnostically or therapeutically — reflected a coherent folk understanding of how magical harm worked. Parris's denunciation of the witch cake as itself diabolical reflects the Protestant theological position that all magical practice, including counter-magic, was illegitimate traffic with the devil.",
+  "hutton_social_analysis": "Hutton notes that the witch cake incident at Salem illustrates how folk counter-magic and official Puritan theology were in tension in New England communities. Communities maintained folk diagnostic and protective practices that their ministers condemned; when crisis arrived, these folk practices were deployed but also created additional conflicts — in this case, Parris's denunciation of Mary Sibley contributed to the community tensions that fed the developing panic.",
+  "ginzburg_interrogation_analysis": "The witch cake's role in the Salem events illustrates how folk magical practice provided a material starting point for the acceleration of accusation dynamics. Tituba's participation in the cake-baking subsequently became part of her examination, and her subsequent confession — the first at Salem — drew on both genuine folk belief and interrogational pressure to produce the narrative that launched the prosecution cascade.",
+  "regional_variations": "The witch cake as specifically described is a New England practice, though derived from English counter-magic traditions. It shares the underlying sympathetic logic with English witch bottles and other urine-based counter-magic but takes a distinctively different form adapted to the colonial context. There is no documented parallel practice in continental European witch trial records.",
+  "scholarly_disagreement": "Whether the witch cake baking at Salem was a decisive trigger for the subsequent trials or merely one of many contributing factors has been debated by historians of Salem. Boyer and Nissenbaum, Rosenthal, and others have assigned it different causal weights. Tituba's own role — whether she was a practitioner of folk magic who brought Caribbean traditions to the Parris household, or primarily a victim of judicial pressure — is also contested.",
+  "trial_examples": ["salem-1692-trials"],
+  "related_concepts": ["protective-magic-counter", "witch-bottle-counter-magic", "cunning-folk-services", "maleficium-concept", "puritan-providential-thinking"],
+  "source_method": "Salem court records; Parris's sermon records; Boyer and Nissenbaum Salem Possessed; Rosenthal Salem Story",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

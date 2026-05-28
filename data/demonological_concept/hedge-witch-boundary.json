@@ -1,0 +1,21 @@
+{
+  "id": "hedge-witch-boundary",
+  "name": "Hedge Witch: Practitioners at Social and Perceptual Boundaries",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "British Isles, Northern Europe",
+  "scholarly_definition": "The 'hedge witch' concept (derived from Old English 'haegtesse,' woman of the hedgerow) refers to practitioners of folk magic who occupied social and spatial margins — the boundaries between settled community and wild landscape, between respectable society and social fringe. The hedge as symbol marked the boundary between domesticated and wild space, and practitioners associated with it were understood to traffic with the liminal and dangerous powers found at such boundaries. While 'hedge witch' as a precise historical category is partially reconstructed from linguistic and folkloric evidence rather than clear historical documentation, it captures a recognized pattern of practitioners associated with boundary-crossing, outdoor ritual, and the harnessing of natural forces.",
+  "clark_intellectual_analysis": "Clark notes that boundary and liminality were recurrent structural features of witch stereotyping across European cultures, reflecting a deeper cultural logic connecting witches to the reversal and transgression of normal categories. The hedge as spatial marker of boundary is one manifestation of this broader pattern of inversion and transgression that Clark identifies as central to the intellectual construction of the witch.",
+  "hutton_social_analysis": "Hutton traces the linguistic history of terms like 'haegtesse' and their relationship to later witch terminology, noting how the association between dangerous women and hedgerow/liminal spaces was embedded in vernacular language from an early period. He is cautious about over-interpreting the term 'hedge witch' as a precise historical practice while acknowledging the genuine liminal social position of many folk practitioners. The boundary position — literally living at the village edge, metaphorically occupying the margin between healing and harm — was real for many accused persons.",
+  "ginzburg_interrogation_analysis": "Ginzburg's research on the benandanti illuminates the liminal practitioner who crossed boundaries between the human and spirit worlds in their protective activities. The spatial liminality of the hedge witch corresponds structurally to the temporal liminality of the benandanti's night journeys — both involve crossing the threshold between ordinary human experience and dangerous supernatural terrain. This structural parallel suggests a common folk logic of boundary-crossing as the source of magical power.",
+  "regional_variations": "The hedge witch concept has clearest linguistic grounding in Germanic and Old English traditions. Related concepts appear in Celtic traditions (sidhe-boundary crossers, bean feasa). Scandinavian tradition has comparable figures at the margins of village life. The concept is less clearly defined in southern European traditions, where different spatial metaphors organized magical practice.",
+  "scholarly_disagreement": "The 'hedge witch' as a precise historical category is partly a modern reconstruction, and scholars disagree on how much analytical weight should be given to the linguistic and folkloric evidence. The term is used more in modern neo-pagan contexts than in historical scholarship, which preferentially uses 'cunning folk' for similar practitioners. The historical validity of the specific 'hedge' association versus its being a later romantic construction is debated.",
+  "trial_examples": [],
+  "related_concepts": ["wise-woman-healer", "village-sorcerer-archetype", "cunning-folk-vs-witch", "fairy-faith-supernatural", "outsider-suspect-figure"],
+  "source_method": "Old English linguistic sources; folklore collections; Hutton analysis; comparative folk magic studies",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

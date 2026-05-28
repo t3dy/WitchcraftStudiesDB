@@ -1,0 +1,48 @@
+{
+  "id": "sibillia-de-enzino-milan-1384",
+  "name": "Sibillia de Enzino",
+  "status": "Unknown",
+  "trial_id": null,
+  "location_id": "venice-republic",
+  "year_active": 1384,
+  "social_status": "Urban woman, Milan",
+  "gender": "Female",
+  "tradition": "Follower of Lady Oriente",
+  "self_identification": "Member of the nocturnal company of Lady Oriente/Abundia",
+  "claimed_abilities": [
+    "Nocturnal travel with Lady Oriente on Thursday nights",
+    "Entry into houses to feast with the goddess's company",
+    "Witness to the goddess's resurrection of feasted animals",
+    "Knowledge received from Lady Oriente during nocturnal gatherings"
+  ],
+  "biography": "Sibillia de Enzino was tried before the Milan Inquisition in 1384 and provides Ginzburg with what he identifies as the earliest documented Italian case of the night-journey tradition he traces through the benandanti and back to a hypothetical pre-Christian stratum. Her case predates the major witch-hunt period by nearly a century and predates the Malleus Maleficarum by over a century, making it invaluable for tracing the origins of the night-journey tradition independent of the diabolic witch construct.\n\nSibillia claimed to travel on Thursday nights with a company of people led by 'Lady Oriente' — a figure who combines characteristics of the Roman goddess Abundia (goddess of plenty) with the Germanic goddess figures associated with nocturnal processions (Holda, Perchta, Diana). The company would enter houses, feast on the food within, and Lady Oriente would then restore the consumed animals to life. Participants gained knowledge and, implicitly, access to the goddess's beneficence.\n\nThe Milanese Inquisition of 1384 encountered this tradition before the full apparatus of sabbath demonology was in place — before Nider's Formicarius, before the Malleus, before the elaborated diabolic witch framework of the late fifteenth century. The inquisitors' response was consequently somewhat uncertain, caught between older categories of popular superstition and the emerging apparatus of diabolic witchcraft.",
+  "practice_description": "Sibillia participated in what she described as the nocturnal company of Lady Oriente — Thursday night assemblies in which the goddess led a group of followers through houses, feasting on food within, with the goddess subsequently restoring the consumed animals through a ritual reassembly of their bones. This 'night journey' tradition combines elements of the wild hunt, nocturnal goddess processions, and a specifically Italian form of the pan-European night-journey motif that Ginzburg analyzes as reflecting archaic stratum of folk belief.",
+  "relationship_to_prosecution": "Tried by the Milan Inquisition in 1384. At this early date, the full apparatus of diabolic witch prosecution was not yet established, and the inquisitors lacked the fixed template they would later apply to such testimonies. The outcome of her specific case — whether she was punished, and if so how severely — is less clearly documented than the content of her testimony.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "Lady Oriente (the goddess figure)",
+      "Abundia/Madonna Oriente",
+      "the nocturnal company",
+      "Thursday night journeys",
+      "the goddess's resurrection of animals"
+    ],
+    "inquisitor_categories": [
+      "Diana-worship (heretical)",
+      "devil disguised as goddess",
+      "diabolical superstition",
+      "illusion (per Canon Episcopi)"
+    ]
+  },
+  "hutton_analysis": "Hutton situates Sibillia's testimony within the broader tradition of goddess-procession beliefs that appears across medieval Europe — the nocturnal female leader of a company (Diana, Holda, Perchta, Oriente, Abundia) who grants prosperity to her followers. He reads these traditions as evidence of persistent pre-Christian or at least non-Christian folk beliefs that were gradually assimilated into the diabolic witch construct.",
+  "ginzburg_analysis": "Ginzburg treats Sibillia's 1384 testimony as foundational evidence for his argument in Ecstasies: the Lady Oriente tradition is the earliest documented Italian variant of the night-journey tradition, and its pre-demonological character — appearing before the sabbath construct was fully elaborated — suggests it represents a genuine folk-belief stratum rather than an inquisitorial projection.",
+  "historiographical_significance": "Sibillia de Enzino's 1384 Milan case is the earliest documented Italian night-journey case in Ginzburg's corpus and therefore one of the most important pieces of evidence for his argument about pre-existing folk belief substrates beneath the witch-trial phenomenon. Her testimony allows historians to see the night-journey tradition before it was fully assimilated into the diabolic witch construct.",
+  "source_method": "Published Milanese Inquisition records; Ginzburg's Ecstasies (1989, English trans. 1991); Luisa Muraro's scholarship on Lady Oriente",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

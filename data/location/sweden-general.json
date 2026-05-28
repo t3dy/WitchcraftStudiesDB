@@ -1,0 +1,68 @@
+{
+  "id": "sweden-general",
+  "name": "Kingdom of Sweden",
+  "type": "Kingdom",
+  "region": "Scandinavia",
+  "modern_location": "Sweden",
+  "coordinates": {
+    "latitude": 59.334,
+    "longitude": 18.069
+  },
+
+  "administrative_context": "The Kingdom of Sweden in the 17th century was a major Baltic power and a Lutheran Protestant state. Witch prosecution operated under secular royal courts, with the supreme court (Svea hovrätt) exercising appellate review. Swedish prosecution was shaped by the distinctive Blåkulla tradition—the belief in witches' sabbath at a mythical mountain—and experienced several major panics, the most intense being the 1669-1671 wave.",
+
+  "witchcraft_trials_significance": "Sweden experienced several distinct witch panics between the 1590s and the 1720s, centered on the Blåkulla tradition in which witches were believed to transport children by night to a sabbath. The 1669-1671 panic was the most devastating, with approximately 300 executions across Sweden (mostly in Dalarna and surrounding provinces). Earlier panics occurred in the 1590s, and there were additional outbreaks in the 1670s-1690s. The total Swedish execution toll is estimated at approximately 400-500 over the full period.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Royal Commission of 1669",
+      "role": "Crown-appointed commission for the Dalarna/Mora cases",
+      "contribution_to_trials": "Presided over the mass execution of 1670; accepted mass child testimony as valid"
+    },
+    {
+      "name": "Svea hovrätt (Supreme Court)",
+      "role": "Appellate court",
+      "contribution_to_trials": "Reviewed capital convictions; in later cases became increasingly sceptical; eventually ended Swedish prosecution through appellate restraint"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1590s": "Early Swedish witch prosecutions",
+    "1669_1671": "Major Blåkulla panic; approximately 300 executed including 85 in Dalarna (Mora area)",
+    "1670s_1680s": "Further panics in multiple provinces",
+    "1720s": "Last significant Swedish executions",
+    "1779": "Swedish witchcraft law formally repealed"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Kingdom of Sweden; multiple provinces affected in different panic waves; Dalarna and surrounding central Sweden most intensively affected in 1669-1671",
+    "social_reach": "Rural peasant communities; women and children disproportionately affected as accusers, accused adults predominantly women",
+    "gender_distribution": "Predominantly female among executed adults; children of mixed gender among both accusers and some accused",
+    "mortality_impact": "Approximately 400-500 executed across all Swedish witch prosecution; 300 in the 1669-1671 wave alone"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Swedish Blåkulla theology within Lutheran demonology, noting how the providentialist framework and the specific Blåkulla narrative—a distinctly Swedish cultural elaboration—shows how national and regional cultural traditions shaped the specific form of witch belief while maintaining the core demonological template.",
+    "hutton_perspective": "Hutton analyzes the Swedish Blåkulla tradition as a specific cultural formation within Nordic folk belief, examining how the nocturnal journey narrative, child transportation accounts, and specific Blåkulla topography reflect both genuine popular traditions and official prosecution shaping.",
+    "ginzburg_perspective": "Ginzburg's ecstatic tradition argument is directly applicable to Sweden: the Blåkulla tradition, with its emphasis on nocturnal journeys and communal assembly, may preserve shamanistic elements related to Old Norse seiðr and other Nordic ecstatic practices, reshaped through Lutheran prosecution."
+  },
+
+  "legacy_and_historiographical_importance": "Swedish witch prosecution has been extensively studied by Bengt Ankarloo, whose monographs are the standard works. The Blåkulla tradition has attracted special attention from historians of Nordic folk belief and from those interested in Ginzburg's shamanism thesis.",
+
+  "primary_sources": "Swedish provincial court records; Svea hovrätt records; royal commission records; analyzed in Ankarloo, Trolldomsprocesserna i Sverige (1971)",
+
+  "source_method": "Published scholarship (Ankarloo, Levack, Ginzburg), Swedish court archives",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

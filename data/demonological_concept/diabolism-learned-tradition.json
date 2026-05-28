@@ -1,0 +1,21 @@
+{
+  "id": "diabolism-learned-tradition",
+  "name": "Diabolism as Learned Theological Tradition",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "Diabolism as a learned tradition refers to the sophisticated intellectual discourse developed by theologians, jurists, and demonologists concerning the devil's nature, powers, and operations in the world. Stuart Clark's Thinking with Demons established this as the central subject of early modern demonology: not irrational superstition but a coherent system of thought with internal logic derived from scholastic theology, Neoplatonic philosophy, and providential history. The tradition encompassed questions of demonic agency, the limits of Satan's power, the mechanics of the pact, the reality of the sabbath, and the theological meaning of God permitting demonic activity. It was a product of university-educated clerics and judges, not popular belief.",
+  "clark_intellectual_analysis": "For Clark, diabolism as learned tradition is the central subject of his major work: demonology was a branch of theology and natural philosophy that intellectuals took seriously on its own terms. Clark's key insight is that witch belief was rational within its premises — the premises of Christian theology, scholastic philosophy, and Aristotelian natural philosophy. Understanding diabolism requires reading demonological texts as serious intellectual productions rather than symptoms of superstition or persecution anxiety.",
+  "hutton_social_analysis": "Hutton treats learned diabolism as one tradition among several that shaped early modern witch prosecution, emphasizing that it sat uneasily with popular belief and that the spread of demonological concepts required active transmission through preaching, trial procedure, and pamphlet literature. Learned diabolism influenced but did not determine local prosecutions, which were often driven by community grievances that the learned framework then absorbed and organized.",
+  "ginzburg_interrogation_analysis": "Ginzburg sees learned diabolism as the interrogational overlay that transformed local folk practices into the stereotyped sabbath confession. Inquisitors and judges brought the learned diabolic framework to investigations of benandanti, healers, and cunning folk whose actual practices and beliefs bore little resemblance to the learned stereotype. The learned tradition's power lay in its institutional authority over the confessional process.",
+  "regional_variations": "German-speaking territories produced the densest concentration of learned demonological literature: Institoris and Sprenger (Malleus), Binsfeld, Rémy, and others. French demonology was sophisticated (Bodin, de Lancre) and closely linked to legal practice. Italian learned discourse (Nider, Mazzolini) was early and influential. English demonology (Scot, Perkins, James VI) was more skeptical and contested. Spanish and Portuguese inquisitions maintained a learned skepticism about sabbath claims.",
+  "scholarly_disagreement": "The degree to which learned demonology drove persecution versus reflected and organized pre-existing anxieties remains debated. Clark's emphasis on the intellectual coherence of learned diabolism has been criticized for potentially underplaying the human suffering caused by the tradition's institutional application. Some social historians argue that local community dynamics were more causally significant than learned discourse.",
+  "trial_examples": [],
+  "related_concepts": ["demonic-agency-theological", "divine-permission-doctrine", "preternatural-supernatural", "malleus-doctrine-system", "rationality-within-framework"],
+  "source_method": "Theological treatises; demonological manuals; legal compilations; Clark's intellectual history method",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

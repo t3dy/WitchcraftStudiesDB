@@ -1,0 +1,21 @@
+{
+  "id": "changeling-belief",
+  "name": "Changeling Belief: Fairy Substitution of Children",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "British Isles, Scandinavia, Germany",
+  "scholarly_definition": "Changeling belief held that fairies, elves, or other supernatural beings could steal human infants and substitute supernatural doubles — changelings — who were typically characterized by unusual behavior, failure to thrive, crying, and eventually wasting away. The belief provided a folk explanation for infant developmental disorders, sudden infant death, and apparent personality changes in children. Parents who believed their child had been replaced might attempt to expose the changeling through ritual means, occasionally with fatal consequences for the child. The belief was widely documented across northern and western European cultures and persisted into the early modern period.",
+  "clark_intellectual_analysis": "Clark situates changeling belief within the broader spectrum of supernatural beliefs that early modern demonology had to assimilate or contest. Some demonologists attributed alleged fairy activity to demonic operations — fairies were demons in disguise — while others treated fairy beliefs as popular superstition. The changeling motif was difficult to integrate into demonological theory but illustrates how folk beliefs about supernatural child-theft could intersect with witch accusations through the child-stealing-infanticide complex.",
+  "hutton_social_analysis": "Hutton analyzes changeling belief as a significant component of the fairy faith tradition, documenting its prevalence and persistence in British and Scandinavian folk belief. He connects it to broader beliefs about the fairy realm's interest in human children and the vulnerabilities of the newborn and unbaptized period. The belief functioned to explain developmental anomaly and infant mortality within a supernatural framework, providing families with explanatory resources for devastating losses.",
+  "ginzburg_interrogation_analysis": "Ginzburg notes connections between changeling beliefs and the broader complex of nocturnal supernatural encounters he traces across European folk traditions. The stealing of children by supernatural beings is cognate with other themes in the folk belief substrate he identifies — including the benandanti's concern for human fertility and the protection of grain from supernatural theft. These connections suggest a common folk cosmological concern with protecting the human world's reproductive capacity.",
+  "regional_variations": "Changeling belief was particularly rich in Irish, Scottish, Scandinavian, and German contexts. Irish and Scottish fairy belief integrated changeling narratives with broader sidhe/fairy tradition. Scandinavian huldrefolk and nisse traditions included child-theft themes. German Wechselbalg (changeling) beliefs were documented in folklore and occasionally appeared in witch trial testimony. English cases are documented but less prominent.",
+  "scholarly_disagreement": "Whether changeling beliefs were primarily explanatory fictions (explaining developmental disorders without literal belief in actual fairy substitution) or were genuinely held supernatural beliefs with behavioral consequences is debated. Cases of children harmed during changeling-exposure rituals suggest some genuine behavioral belief, but the extent to which narrative and practice mapped onto each other is unclear.",
+  "trial_examples": [],
+  "related_concepts": ["fairy-faith-supernatural", "child-stealing-infanticide", "night-riding-strix", "protective-magic-counter"],
+  "source_method": "Folklore collections; church records documenting changeling-related harm; Hutton analysis; ethnographic studies of surviving traditions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

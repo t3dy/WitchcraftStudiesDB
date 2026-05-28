@@ -1,0 +1,44 @@
+{
+  "id": "marie-dindarte-labourd-1609",
+  "name": "Marie Dindarte",
+  "status": "Executed",
+  "trial_id": "labourd-1609-trials",
+  "location_id": "labourd",
+  "year_accused": 1609,
+  "year_executed": 1609,
+  "age_at_trial": null,
+  "social_status": "Basque woman, Labourd region, French Basque Country",
+  "gender": "Female",
+  "biography": "Marie Dindarte was among the individuals tried and executed during the Labourd witch prosecutions of 1609-1610, which were overseen by the Bordeaux magistrate Pierre de Lancre acting under commission from King Henri IV. De Lancre's prosecution of the Labourd Basque country was one of the most dramatic witch hunts in French history, resulting in approximately eighty executions and producing de Lancre's influential demonological treatise Tableau de l'inconstance des mauvais anges et démons (1612), which gave elaborate descriptions of Basque sabbaths and diabolical practices.\n\nDe Lancre came to Labourd with a specific theory that the region's cultural distinctiveness — its Basque language incomprehensible to him, its fishing economy requiring long absences at sea by men, its prominent role for women in community life during those absences — made it peculiarly susceptible to diabolism. He described the Labourd Basque country as essentially a witches' colony, and his prosecutions proceeded with that assumption firmly in place. The accused in the Labourd trials were drawn from across Basque society including clergy, and the prosecutions created enormous community disruption.\n\nDindarte's specific story is recorded in de Lancre's accounts, which, while tendentious and shaped by his demonological framework, provide detailed if unreliable descriptions of individual accused. Like other Labourd accused, she was caught up in an investigation that began with specific denunciations and expanded through the familiar mechanism of torture-induced naming of accomplices.",
+  "arrest_narrative": "Dindarte was arrested during de Lancre's mass prosecution of the Labourd Basque country in 1609. She was named in the records maintained by de Lancre and was tried before his commission.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "unspecified — torture standard in French procedure"
+    ],
+    "initial_response": "Unknown",
+    "final_confession_summary": "Confessed to sabbath attendance and diabolical practices consistent with de Lancre's accounts of Labourd witchcraft; specific details as recorded by de Lancre in Tableau de l'inconstance"
+  },
+  "accusations_against_them": [
+    "Attendance at Basque sabbath",
+    "Demonic compact",
+    "Maleficium against community and livestock",
+    "Participation in diabolical rites specific to Basque tradition as described by de Lancre"
+  ],
+  "execution_details": {
+    "date": "1609-1610",
+    "method": "Burning at stake",
+    "location": "Labourd, French Basque Country"
+  },
+  "historiographical_significance": "The Labourd prosecutions as a whole are significant for de Lancre's detailed demonological treatise that resulted from them, which provides one of the most extensive early seventeenth-century descriptions of sabbath imagery and regional witch belief. Individual cases like Dindarte's are studied as examples of how cultural difference was weaponized in witch prosecution, with de Lancre's inability to understand Basque language and culture feeding his conviction that the region was diabolically corrupted.",
+  "source_method": "Pierre de Lancre, Tableau de l'inconstance des mauvais anges et démons (1612); analyzed in Levack's Witch-Hunt in Early Modern Europe and Jonathan Pearl's The Crime of Crimes (1999)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

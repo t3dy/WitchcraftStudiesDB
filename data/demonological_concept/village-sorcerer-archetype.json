@@ -1,0 +1,21 @@
+{
+  "id": "village-sorcerer-archetype",
+  "name": "Village Sorcerer Archetype: Ambiguous Community Expert",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The village sorcerer archetype describes the community specialist in magical knowledge who occupied an ambiguous moral and social position — respected for their expertise, feared for their capacity to harm, and simultaneously useful and dangerous to those around them. Unlike the simple distinction between healer and witch, the village sorcerer was understood to possess powers that could be directed either beneficially or maleficently, giving them leverage over community members who both desired their services and feared their displeasure. This figure appears across European cultures under various names — cunning man, Klugschmied, devin, strega — and represents a distinct social role recognized across cultural boundaries.",
+  "clark_intellectual_analysis": "Clark situates the village sorcerer within the broader landscape of magical practitioners who occupied ambiguous positions in the early modern learned/popular interface. Learned demonologists recognized this ambiguity but resolved it by declaring all such practitioners equally diabolical regardless of their services' apparent beneficence. The theological category of the diabolical pact was capacious enough to include beneficent practitioners, eliminating moral ambiguity at the cost of analytical nuance.",
+  "hutton_social_analysis": "Hutton gives the village sorcerer concept considerable analytical weight, arguing that the ambiguous practitioner was a stable social role in early modern European communities. The sorcerer's dual capacity — to help and to harm — gave them social power that communities negotiated through a mix of patronage, respect, and wariness. Hutton argues this social role is distinct from and more analytically accurate than the simple healer/witch binary imposed by both prosecuting authorities and some modern scholars.",
+  "ginzburg_interrogation_analysis": "Ginzburg's benandanti research reveals a version of the ambiguous practitioner who claimed a purely beneficial identity — spirit-fighter, fertility defender — but whose claims were structurally ambiguous to interrogators who could not accept the self-categorization. The gradual transformation of benandanti confessions toward admission of witchcraft illustrates how judicial procedure could resolve the community's tolerance of ambiguity by forcing practitioners into one of the available legal categories.",
+  "regional_variations": "The village sorcerer archetype appears across European regional traditions with culturally specific characteristics: English cunning folk (specifically localized, service-oriented), German Klugschmied (often associated with metalworking and protective magic), Italian strega (complex mix of healing and feared malefic power), Basque curandera/sorginak traditions, and Scandinavian völva/seiðr practitioners who combined beneficial and dangerous elements.",
+  "scholarly_disagreement": "Whether the village sorcerer is best understood as a single cross-cultural archetype or as several distinct regional roles that share surface similarities is debated. Hutton argues for genuine cross-cultural structural parallels; others insist that regional specificity makes generalization misleading. The relationship between the sorcerer archetype and the historical witch prosecution pattern — whether sorcerers were more or less vulnerable than other folk magic practitioners — is also unresolved.",
+  "trial_examples": [],
+  "related_concepts": ["cunning-folk-vs-witch", "wise-man-cunning-man", "wise-woman-healer", "reputation-accumulation", "outsider-suspect-figure"],
+  "source_method": "Hutton The Witch; Ginzburg Night Battles; comparative European folk magic studies; regional prosecution records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

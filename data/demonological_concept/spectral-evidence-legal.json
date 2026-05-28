@@ -1,0 +1,21 @@
+{
+  "id": "spectral-evidence-legal",
+  "name": "Spectral Evidence as Legal Proof",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1600-1700)",
+  "primary_locale": "New England, England",
+  "scholarly_definition": "Spectral evidence referred to the use of dream visions, trances, and apparitions of accused persons as testimony of their guilt in witchcraft proceedings. If an afflicted person claimed to see the spectre (spirit) of a specific individual tormenting them, that vision was treated as evidence that the real person was responsible. The legal admissibility of spectral evidence was debated throughout the early modern period but came to a head at Salem in 1692, where the court initially accepted it but faced immediate challenge from ministers including Increase Mather, who argued that the devil could appear in the shape of an innocent person, making spectral identification unreliable.",
+  "clark_intellectual_analysis": "Clark situates the spectral evidence debate within the broader question of demonic illusion and preternatural power: the question of whether the devil could appear in an innocent person's shape was a theological question with legal implications. Those who accepted spectral evidence as proof assumed that the devil required the actual person's permission to use their shape; those who rejected it argued that the devil's preternatural powers allowed simulation of any appearance. The debate was conducted with genuine theological rigor at Salem and in the surrounding correspondence.",
+  "hutton_social_analysis": "Hutton notes that the spectral evidence question was practically significant because it determined the scope of prosecution: if spectral evidence was valid, every person whom an afflicted person saw in a vision could be arrested. When the Massachusetts ministers issued their Humble Advice recommending caution about spectral evidence in June 1692, they were effectively undermining the legal basis of ongoing prosecutions. The social dynamics of the Salem panic were critically shaped by this theological-legal dispute.",
+  "ginzburg_interrogation_analysis": "Ginzburg's analysis of the relationship between interrogational pressure and confessional content applies to Salem, where the afflicted accusers functioned analogously to interrogators on the continent: their visions shaped what was taken as evidence, and the pressure to name further witches had effects similar to torture-induced denunciation. The Salem records document how social networks of the afflicted accusers shaped the geography of accusation.",
+  "regional_variations": "Spectral evidence was most extensively debated in New England, where the common-law tradition of careful evidence standards collided with the theological framework of Providence. In England, courts had generally been more resistant to purely visionary testimony. Continental inquisitorial courts relied on confession as primary proof rather than accusers' visionary testimony, making the specific spectral evidence question less acute, though the broader issue of demonic illusion was the same.",
+  "scholarly_disagreement": "Historians debate whether Salem's judges sincerely believed in spectral evidence or used it instrumentally. Some argue that the subsequent retraction of spectral evidence was driven by the prosecution's own social overreach (targeting the minister George Burroughs and elite persons) rather than genuine theological revision. The role of Increase and Cotton Mather in promoting and then distancing from spectral evidence has been extensively analyzed.",
+  "trial_examples": ["salem-1692-trials"],
+  "related_concepts": ["illusion-spectral-evidence", "puritan-providential-thinking", "confession-legal-weight", "torture-confession-extraction", "demonic-agency-theological"],
+  "source_method": "Salem court records; Increase Mather Cases of Conscience (1693); Cotton Mather Wonders of the Invisible World (1693); Boyer and Nissenbaum Salem Possessed",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

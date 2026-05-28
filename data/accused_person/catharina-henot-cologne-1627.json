@@ -1,0 +1,45 @@
+{
+  "id": "catharina-henot-cologne-1627",
+  "name": "Catharina Henot",
+  "status": "Executed",
+  "trial_id": "cologne-1627-persecution",
+  "location_id": "cologne-archbishopric",
+  "year_accused": 1627,
+  "year_executed": 1627,
+  "age_at_trial": null,
+  "social_status": "Postmistress of Cologne; high civic status",
+  "gender": "Female",
+  "biography": "Catharina Henot was the Postmistress of Cologne, one of the most prestigious civic offices held by a woman in early modern Germany, when she was arrested and executed for witchcraft in May 1627. Her family was prominent in Cologne's civic life; her brother Hartger was a painter and her family had connections to the city's professional elite. Her position as Postmistress placed her in a position of considerable trust and visibility, making her case particularly striking as evidence of how far the witch panic of the 1620s had penetrated the social fabric of Rhine-Meuse Germany.\n\nHenot's prosecution took place during one of the most intense periods of witch-hunting in German history, when the Cologne archdiocese and surrounding territories saw scores of executions. Her case attracted unusual attention partly because of her social prominence — the execution of a woman of her standing served as a warning that no social position offered protection. Contemporary commentary noted that her case alarmed many observers about the scope of the persecution, though this alarm did not slow the prosecutions.\n\nIn 2012, the city of Cologne formally rehabilitated Catharina Henot, acknowledging her as an innocent victim of persecution. This modern rehabilitation reflects both the scholarly consensus about the injustice of the prosecutions and the ongoing cultural work of processing the history of witch-hunting in Germany. Her case has become part of the political memory of Cologne.",
+  "arrest_narrative": "Henot was arrested in 1627 during the Cologne witch persecution. The specific charges against her arose within the climate of accusation sweeping the Rhineland. Her high social position did not protect her; if anything, the accusation of such a prominent figure may have served the prosecution's interests in demonstrating the wide scope of the alleged diabolic conspiracy.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "strappado",
+      "unspecified additional methods standard in German procedure"
+    ],
+    "initial_response": "Unknown",
+    "final_confession_summary": "Confessed to witchcraft under torture; specific confession contents not fully preserved in accessible scholarly sources"
+  },
+  "accusations_against_them": [
+    "Witchcraft and diabolism",
+    "Attendance at sabbath",
+    "Demonic compact",
+    "Maleficium against community members"
+  ],
+  "execution_details": {
+    "date": "1627-05",
+    "method": "Burning at stake",
+    "location": "Cologne"
+  },
+  "historiographical_significance": "Henot's case is significant for demonstrating how witch prosecution in 1620s Rhineland penetrated the highest levels of civic society, targeting women of real institutional power and social standing. Her modern rehabilitation in 2012 makes her one of the few witch trial victims formally exonerated by a contemporary German city. Scholars use her case alongside the Bamberg prosecutions to illustrate the social cascade dynamics of mass persecution.",
+  "source_method": "Cologne municipal records; discussed in Levack's Witch-Hunt in Early Modern Europe; formal rehabilitation documentation (City of Cologne, 2012); analyzed in Rita Voltmer's research on Rhine-Meuse witch-hunting",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

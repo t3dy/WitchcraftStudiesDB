@@ -1,0 +1,48 @@
+{
+  "id": "dorothea-flock-wurzburg-1629",
+  "name": "Dorothea Flock",
+  "status": "Executed",
+  "trial_id": "wurzburg-1626-mass-prosecution",
+  "location_id": "wurzburg",
+  "year_accused": 1629,
+  "year_executed": 1629,
+  "age_at_trial": null,
+  "social_status": "Wife of court official, Würzburg",
+  "gender": "Female",
+  "biography": "Dorothea Flock was the wife of a court official in Würzburg who was tried and executed during the latter phase of the Würzburg mass persecution in 1629. As the wife of a court official — a man employed in the administration of the Prince-Bishop's court — her social position was somewhat elevated above that of ordinary townspeople, and her prosecution illustrates how the Würzburg panic penetrated even the administrative households directly connected to the prosecuting authority.\n\nBy 1629 the Würzburg persecution had been running for several years and had already consumed hundreds of people across a wide social spectrum. The expansion of accusation into the households of court officials demonstrates the self-consuming character of mass persecution at its most extreme: the prosecution apparatus was implicating the very social networks of those who administered it. This dynamic would eventually contribute to the persistence of voices calling for restraint, as families of officials recognized their own vulnerability.\n\nFlock's case, like those of many Würzburg accused, is documented in the execution lists that survive from the persecution. These lists, which record names and social positions of the executed, provide the primary evidence for the social breadth of the Würzburg persecution and have been analyzed extensively by historians examining the sociology of mass witch-hunting.",
+
+  "arrest_narrative": "Flock was arrested in 1629 during the continuing Würzburg persecution, named by other accused under torture as a participant in sabbaths. Her connection to a court official household did not protect her from the accusation machinery.",
+
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": ["strappado", "additional methods standard in Würzburg procedure"],
+    "initial_response": "Unknown",
+    "final_confession_summary": "Confessed to witchcraft charges consistent with the Würzburg prosecution pattern; specific confession content not fully documented in accessible scholarly sources"
+  },
+
+  "accusations_against_them": [
+    "Witchcraft and diabolism",
+    "Attendance at sabbath",
+    "Demonic compact",
+    "Maleficium against community"
+  ],
+
+  "execution_details": {
+    "date": "1629",
+    "method": "Burning at stake",
+    "location": "Würzburg"
+  },
+
+  "historiographical_significance": "Flock's prosecution as a court official's wife is illustrative of how the Würzburg persecution reached into the administrative household networks directly connected to the prosecution authority, demonstrating the cascade dynamics of accusation that made mass persecution self-undermining in the long run as it began to consume social networks close to the authorities themselves.",
+
+  "source_method": "Würzburg execution lists; discussed in Behringer's Witchcraft Persecutions in Bavaria (1997) and Levack's Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

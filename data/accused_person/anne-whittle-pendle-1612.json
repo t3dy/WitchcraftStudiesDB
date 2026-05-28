@@ -3,27 +3,32 @@
   "name": "Anne Whittle (Old Chattox)",
   "status": "Executed",
   "trial_id": "pendle-1612",
-  "location_id": "pendle",
+  "location_id": "pendle-lancashire",
   "year_accused": 1612,
   "year_executed": 1612,
   "age_at_trial": null,
   "social_status": "Elderly widow; rural poor, Forest of Pendle",
   "gender": "Female",
   "biography": "Anne Whittle, universally known as Old Chattox, was an elderly woman who headed the second of the two rival families at the center of the Pendle prosecutions. She and Old Demdike (Elizabeth Southerns) represented competing local reputations for cunning craft and magical ability, and the hostility between the two families provided a social framework within which accusations flowed. Thomas Potts's account describes Chattox as a dangerous old fire, with a bleared eye, and emphasizes her fierce manner and apparent unrepentance.\n\nChattox had a history of entanglements with accusations of maleficium in the Pendle area predating the 1612 trials. She was accused specifically of killing Robert Nutter, and the Nutter family's grievances against her contributed to the strength of the prosecution case. Her reputation as a healer and a curser — typical of the cunning woman's dual role as both benefit and threat to neighbors — had made her a figure of both reliance and fear in the local community.",
-
   "arrest_narrative": "Chattox was arrested following the March 1612 examinations before Justice Nowell, which also ensnared Demdike and other members of both family networks. She had already voluntarily submitted a confession to John Nowell of Roughlee earlier in 1612, apparently in an attempt to protect her daughter Anne Redferne. This pre-arrest confession was used against her at trial.",
-
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "torture_sessions": [
-      {"session": 1, "method": "Voluntary examination before John Nowell (pre-arrest)", "outcome": "Confession to witchcraft and naming accomplices"},
-      {"session": 2, "method": "Examination before Justice Roger Nowell", "outcome": "Confirmation of earlier confession"}
+      {
+        "session": 1,
+        "method": "Voluntary examination before John Nowell (pre-arrest)",
+        "outcome": "Confession to witchcraft and naming accomplices"
+      },
+      {
+        "session": 2,
+        "method": "Examination before Justice Roger Nowell",
+        "outcome": "Confirmation of earlier confession"
+      }
     ],
     "initial_response": "Relatively willing to confess — possibly calculating she could protect her daughter",
     "final_confession_summary": "Confessed to making pact with devil, possessing familiar spirit, killing Robert Nutter and three other persons by maleficium, and making clay images to harm enemies"
   },
-
   "accusations_against_them": [
     "Murder of Robert Nutter by witchcraft",
     "Murder of John Moore by witchcraft",
@@ -32,15 +37,12 @@
     "Demonic pact",
     "Possession of familiar spirit"
   ],
-
   "execution_details": {
     "date": "1612-08-20",
     "method": "Hanging",
     "location": "Lancaster"
   },
-
   "historiographical_significance": "Chattox's relationship with Demdike — rival cunning women serving the same community — illustrates the social dynamics underlying many witch accusations. Scholars such as Briggs have noted that accusations often crystallized around existing neighborhood conflicts, and the Demdike-Chattox rivalry shows how two competing claims to magical authority in the same community could amplify persecution when judicial attention arrived. Her pre-arrest voluntary confession raises questions about strategic calculation under severe pressure.",
-
   "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assizes records",
   "review_status": "DRAFT",
   "confidence": "HIGH",

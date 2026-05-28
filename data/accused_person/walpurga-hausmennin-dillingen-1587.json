@@ -1,0 +1,47 @@
+{
+  "id": "walpurga-hausmennin-dillingen-1587",
+  "name": "Walpurga Hausmennin",
+  "status": "Executed",
+  "trial_id": "dillingen-1587-hausmennin",
+  "location_id": "eichstatt",
+  "year_accused": 1587,
+  "year_executed": 1587,
+  "age_at_trial": null,
+  "social_status": "Licensed midwife, Dillingen an der Donau, Bavaria",
+  "gender": "Female",
+  "biography": "Walpurga Hausmennin was a licensed midwife in Dillingen an der Donau in Bavaria whose trial and execution in 1587 produced one of the most detailed and horrifying conviction records of the entire German witch persecution. She had practiced as a midwife for years, delivering the children of the community, before being accused of using her position to murder infants and dedicate them to the Devil. Her confession, extracted under torture, described decades of infant murder, weather magic, intercourse with a succession of demonic lovers, and attendance at sabbaths.\n\nThe accusations against Hausmennin follow a specific pattern that attached particular suspicion to midwives: they had access to newborn infants before baptism, they operated in the intimate domestic space of childbirth, and their role in managing complications of labor meant that infant deaths were part of their professional context. This structural position of vulnerability meant that when suspicion fell on a midwife, accusations of infant murder through witchcraft were the natural vehicle. Her confession attributed to her the murder of dozens of infants.\n\nThe execution of Walpurga Hausmennin was extraordinarily brutal even by the standards of the period. The sentence mandated that her flesh be torn with red-hot pincers in five places as she was conveyed through the streets, that her right hand (with which she had signed the diabolical pact) be cut off, that her body be burned, and that her ashes be thrown in the river. The detailed execution sentence has survived and been reproduced by historians as evidence of the performative cruelty of early modern judicial punishment.",
+  "arrest_narrative": "Hausmennin was arrested in 1587 in Dillingen following accusations of witchcraft arising from her midwifery practice. The specific trigger for her arrest is not fully established, but accusations of infant murder through magical means were common charges against midwives in early modern Bavaria.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "strappado",
+      "hot pincers"
+    ],
+    "initial_response": "Unknown — records begin with confession phase",
+    "final_confession_summary": "Confessed to: making demonic pact as young woman; sexual intercourse with the Devil and succession of demonic lovers; murder of dozens of infants in her midwifery capacity, offering their flesh to the Devil; causing storms and weather damage; attendance at sabbaths; maleficium against livestock and people over many years"
+  },
+  "accusations_against_them": [
+    "Murder of infants in midwifery capacity through witchcraft",
+    "Offering infant flesh to the Devil",
+    "Demonic pact and sexual relations with the Devil",
+    "Weather magic causing crop damage",
+    "Attendance at sabbath",
+    "Maleficium against livestock and community members"
+  ],
+  "execution_details": {
+    "date": "1587-09-20",
+    "method": "Flesh torn with hot pincers, right hand cut off, burned at stake",
+    "location": "Dillingen an der Donau, Bavaria"
+  },
+  "historiographical_significance": "Hausmennin's case is one of the most-cited examples of the targeting of midwives in early modern witch prosecution and illustrates the structural logic by which occupational roles gave shape to specific witch-accusation patterns. Her extraordinarily brutal execution sentence has been analyzed by historians including Lyndal Roper as evidence of how the witch's body became the site of ritual punishment designed to purify the community of diabolical pollution. Her confession's detailed description of infant murder represents the most extreme form of the maleficium accusation.",
+  "source_method": "Original trial records; execution sentence published in Wolfgang Behringer's Witchcraft Persecutions in Bavaria (1997); analyzed in Roper's Witch Craze (2004) and Levack",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

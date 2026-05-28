@@ -1,0 +1,21 @@
+{
+  "id": "preternatural-supernatural",
+  "name": "Preternatural vs. Supernatural: Scholastic Distinction",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The scholastic distinction between preternatural and supernatural was fundamental to early modern demonological reasoning. The supernatural referred strictly to that which exceeded all natural capacity — miracles performed by God alone. The preternatural (praeter naturam, 'beyond nature') referred to effects that exceeded ordinary human or natural capacity but fell within the powers of angelic or demonic beings acting on natural causes with superior knowledge and speed. Demonic operations were preternatural, not supernatural: demons could not perform true miracles but could accomplish apparently miraculous effects by manipulating nature in ways hidden from human understanding.",
+  "clark_intellectual_analysis": "Clark devotes substantial analysis to this distinction as the conceptual scaffolding of demonological argument. The preternatural category allowed demonologists to affirm real demonic effects without compromising divine uniqueness or implying Manichean dualism. It also created a productive zone of inquiry: determining whether a given effect was natural (explicable by ordinary causes), preternatural (requiring demonic intervention), or supernatural (requiring divine agency). This tripartite framework structured learned debate about witch powers throughout the early modern period.",
+  "hutton_social_analysis": "Hutton notes that while the preternatural/supernatural distinction was precise in learned theology, it had little traction in popular understanding, where demonic and divine miraculous effects were not sharply differentiated. The distinction mattered for ecclesiastical courts and theological debate but did not shape how most accusers or witnesses understood the events they reported. This gap between elite conceptual precision and popular understanding is characteristic of the interface between learned and folk tradition.",
+  "ginzburg_interrogation_analysis": "Ginzburg highlights how the preternatural/supernatural distinction shaped interrogators' questions about sabbath events: were they real, illusory, or diabolically induced? The scholastic framework required interrogators to press accused persons on the ontological status of their experiences — a question that most accused persons found bewildering, as their folk framework did not map onto scholastic categories. The pressure to answer in theologically acceptable terms shaped confessions in characteristic ways.",
+  "regional_variations": "German demonological tradition (especially Institoris) placed heavy emphasis on preternatural powers to argue for the reality of witch deeds. Italian scholastic tradition maintained careful distinctions. Protestant territories sometimes collapsed the distinction in practice while retaining it in theory. Spanish inquisitors used the distinction to argue that many apparent witch effects were natural delusions.",
+  "scholarly_disagreement": "Whether the preternatural/supernatural distinction functioned as a constraint on belief in witch powers (since demons could not do truly miraculous things) or as an expansion (since preternatural powers were extensive) is debated. Clark argues it was primarily enabling; Scot and other skeptics argued that careful application of the distinction undermined most witch claims.",
+  "trial_examples": [],
+  "related_concepts": ["demonic-agency-theological", "diabolism-learned-tradition", "divine-permission-doctrine", "illusion-spectral-evidence", "natural-magic-learned"],
+  "source_method": "Scholastic philosophy; Aquinas Summa Theologica; demonological treatises; Clark's intellectual history",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

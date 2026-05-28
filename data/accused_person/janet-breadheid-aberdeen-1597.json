@@ -1,0 +1,45 @@
+{
+  "id": "janet-breadheid-aberdeen-1597",
+  "name": "Janet Breadheid",
+  "status": "Executed",
+  "trial_id": "aberdeen-1597-trials",
+  "location_id": "aberdeen-scotland",
+  "year_accused": 1597,
+  "year_executed": 1597,
+  "age_at_trial": null,
+  "social_status": "Aberdeen community member",
+  "gender": "Female",
+  "biography": "Janet Breadheid was among the many individuals tried and executed during the Aberdeen witch panic of 1597, one of the most substantial Scottish witch prosecutions of the late sixteenth century. The Aberdeen trials resulted from a combination of local tensions and the national atmosphere created by James VI's active pursuit of witch prosecution following the North Berwick cases. At least twenty-four individuals were tried in Aberdeen during 1597, and a significant number were executed.\n\nThe details of Breadheid's specific accusations and confessions are less fully documented than those of her more famous co-accused Andro Man, who drew attention for his claims about the Queen of Elfhame. She was caught up in the same panic structure that swept Aberdeen in 1597, in which accusations spread through a community creating an expanding circle of suspects. The Aberdeen panic was driven partly by a general commission James VI had issued for witch-hunting in 1597, which gave local authorities the impetus to pursue cases they might otherwise have left alone.\n\nBreidheid's case illustrates the typical dynamics of the Scottish parish-level prosecution: individuals known to their community for unusual behavior or who had existing reputations for quarrelsomeness or strange practices became targets when prosecutorial pressure created both opportunity and incentive for accusation. The 1597 Aberdeen panic has been studied by historians as one of the clearest examples of how royal pressure filtered down to produce local mass prosecutions.",
+  "arrest_narrative": "Breadheid was arrested during the broader Aberdeen witch panic of 1597. The specific circumstances of her accusation are not fully documented in surviving records, but she was tried before the local justiciary during the same period that produced multiple other Aberdeen executions.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "unspecified — torture standard in Scottish procedure"
+    ],
+    "initial_response": "Unknown",
+    "final_confession_summary": "Specific confession content not fully documented in surviving records; convicted of witchcraft charges consistent with Aberdeen panic prosecutions of 1597"
+  },
+  "accusations_against_them": [
+    "Witchcraft and sorcery",
+    "Commerce with the Devil or spirits",
+    "Maleficium against neighbors",
+    "Attendance at diabolical gatherings"
+  ],
+  "execution_details": {
+    "date": "1597",
+    "method": "Burning at stake",
+    "location": "Aberdeen"
+  },
+  "historiographical_significance": "Breadheid represents the majority of Aberdeen 1597 accused whose individual cases are less fully documented than high-profile cases like Andro Man's, but whose collective presence is essential to understanding the scale and dynamics of the panic. Historians of Scottish witch-hunting use the Aberdeen trials as a whole to analyze how mass prosecutions functioned at the local level in response to royal pressure.",
+  "source_method": "Aberdeen Council Register and Justiciary Records; discussed in Stuart MacDonald's The Witches of Fife (2002) and Goodare's Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

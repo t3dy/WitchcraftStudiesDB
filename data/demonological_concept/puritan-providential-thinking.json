@@ -1,0 +1,21 @@
+{
+  "id": "puritan-providential-thinking",
+  "name": "Puritan Providential Thinking and Witchcraft",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1600-1700)",
+  "primary_locale": "New England, England",
+  "scholarly_definition": "Puritan providential thinking interpreted all events — natural disasters, disease, military defeat, witchcraft — as manifestations of divine will and vehicles of divine communication to the gathered community. Within this framework, witchcraft was not merely a crime but a sign: God permitted Satan to afflict the community as punishment for corporate sin, as a test of faith, or as a warning to reform. This providential reading made witchcraft prosecutions an act of communal self-purification and gave individual accusers the sense that they were serving divine purposes. The framework was articulated by ministers including Increase Mather (Illustrious Providences, 1684) and Cotton Mather (Wonders of the Invisible World, 1693).",
+  "clark_intellectual_analysis": "Clark situates Puritan providential thinking as a particularly intense variant of the broader Protestant providential theology he analyzes, noting how it integrated every natural event into a divinely meaningful narrative. The providential framework transformed witchcraft from an unusual crime into a legible communication from God, raising the stakes of prosecution dramatically. This explains why Puritan communities could sustain prosecution intensity that might otherwise seem disproportionate — each case was understood as a cosmic battle.",
+  "hutton_social_analysis": "Hutton analyzes providential thinking as a communal ideology that shaped social relations in New England Puritan settlements, where the covenant community was understood as collectively accountable before God. This created social pressure to identify and expel sources of divine displeasure. The tight community structure of Puritan towns, combined with providential theology, created a prosecutorial environment in which accusation dynamics could escalate rapidly, as Salem demonstrated.",
+  "ginzburg_interrogation_analysis": "Ginzburg's framework is less directly applicable to New England Puritanism, which lacked the folk magic substrata Ginzburg traces in European contexts. However, his analysis of how interrogational pressure shapes confession applies to Salem: ministers and magistrates pressing afflicted accusers and defendants for evidence of the devil's compact elicited confessions that confirmed the providential framework the interrogators brought to the proceedings.",
+  "regional_variations": "Puritan providential witchcraft theology was characteristic of New England; English Puritan tradition was similar but operated in different legal contexts (common law, church courts). Scottish Presbyterian tradition shared some providential elements but with different ecclesiology. Dutch and German Reformed traditions had providential frameworks but less intense prosecutorial expression in the later seventeenth century.",
+  "scholarly_disagreement": "Historians debate whether Puritan theology was a primary cause of the Salem trials or a facilitating context. Boyer and Nissenbaum's Salem Possessed emphasizes community social tensions over theological factors; Godbeer emphasizes the tension between official Puritan theology and popular magic beliefs that coexisted in New England; others emphasize the role of specific ministers (Cotton Mather) in driving the prosecution.",
+  "trial_examples": ["salem-1692-trials", "hartford-connecticut-1662", "andover-1692-trials"],
+  "related_concepts": ["protestant-witchcraft-theology", "divine-permission-doctrine", "covenant-theology-pact", "spectral-evidence-legal", "scapegoat-social-function"],
+  "source_method": "Puritan sermon literature; Cotton Mather's Wonders of the Invisible World; Increase Mather's Illustrious Providences; Boyer and Nissenbaum Salem Possessed",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

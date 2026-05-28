@@ -1,0 +1,47 @@
+{
+  "id": "maria-panzona-friuli-benandante",
+  "name": "Maria Panzona",
+  "status": "Unknown",
+  "trial_id": null,
+  "location_id": "friuli",
+  "year_active": 1582,
+  "social_status": "Peasant woman",
+  "gender": "Female",
+  "tradition": "Benandante",
+  "self_identification": "One who goes with the company",
+  "claimed_abilities": [
+    "Spirit travel during the Ember Days",
+    "Participation in the nocturnal company of benandanti",
+    "Knowledge of malevolent witches in the community",
+    "Protective role in harvest and livestock defense"
+  ],
+  "biography": "Maria Panzona is another female benandante documented within the corpus of Venetian Inquisition records from the Friuli that Carlo Ginzburg systematically analyzed. The epithet 'Panzona' — suggesting a heavyset or plump woman — follows the common practice of identifying folk practitioners by nickname, indicating she was a known local figure whose inquisitorial examination preserved a record of her beliefs.\n\nHer case contributes to the small but significant body of evidence for female participation in the benandante tradition, a tradition that Ginzburg's initial analysis emphasized as predominantly male in its documented combat role. Female benandanti like Maria represent an aspect of the tradition that resists easy categorization: they claimed membership in a protective community, yet the witch-trial apparatus typically cast women in the role of malefic witch rather than community defender.\n\nThe documentation of multiple named female benandanti — including Maria alongside Anna la Rossa and Bartolomea Ghizzini — allows historians to recognize female participation as a documented feature of the tradition rather than an anomaly, even if the specific contours of female benandante experience may have differed from those of male practitioners.",
+  "practice_description": "Maria claimed to travel with the benandante company during the four annual Ember Day periods, when she believed her spirit left her sleeping body to join the nocturnal assemblies of good-goers who protected their community against witches. Her participation, like that of other benandanti, was understood as an involuntary calling — being born with the caul marked one as a benandante — rather than a freely chosen practice.",
+  "relationship_to_prosecution": "Examined by the Venetian Inquisition in the course of its broader Friulian investigations. Her gender complicated inquisitorial categorization, as the benandante role she claimed was protective and communally sanctioned while the inquisitors' witch-trial templates more readily accommodated women as malefic figures.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "benandante",
+      "going with the company",
+      "Ember Day spirit journeys",
+      "defender of the faith and harvests"
+    ],
+    "inquisitor_categories": [
+      "witch (strega)",
+      "diabolical compact",
+      "sabbath",
+      "heretical assembly"
+    ]
+  },
+  "hutton_analysis": "Hutton situates female benandanti like Maria Panzona within his broader argument that pre-modern communities supported a variety of magical practitioners serving protective and healing functions, with gender roles being more complex in practice than either the demonological literature or modern stereotypes suggest.",
+  "ginzburg_analysis": "Ginzburg notes female benandanti as evidence that the shamanic-type tradition he reconstructs beneath the benandante phenomenon was not exclusively male, paralleling other Eurasian traditions in which women also participated in spirit-journey practices, though often in different capacities than men.",
+  "historiographical_significance": "Maria Panzona's documentation as a female benandante is part of the evidence base historians use to argue against reductive models of early modern magical practice that equate women with witchcraft (maleficium) and men with learned magic, demonstrating that actual folk-belief communities were more diverse and complex in their gendering of protective magical roles.",
+  "source_method": "Published trial records from the Venetian Inquisition archive; Ginzburg's The Night Battles (1966, English trans. 1983)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

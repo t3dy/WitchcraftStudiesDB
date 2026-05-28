@@ -1,0 +1,21 @@
+{
+  "id": "covenant-theology-pact",
+  "name": "Covenant Theology and the Diabolic Pact",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1520-1700)",
+  "primary_locale": "Calvinist Europe, New England",
+  "scholarly_definition": "Covenant theology was the Reformed Protestant theological framework that organized God's relationship with humanity through binding covenants: the covenant of works (Adam), the covenant of grace (Christ), and the church covenant (gathered community). Within this framework, the diabolic pact was conceptualized as an anti-covenant — a binding compact that inverted the covenantal structure of legitimate religious life. The witch who made a pact with Satan was breaking the covenant of grace and entering into an opposing covenant with the adversary, making the crime simultaneously one of personal apostasy and communal betrayal. This framework was especially influential in Calvinist Scotland and New England Puritanism.",
+  "clark_intellectual_analysis": "Clark analyzes covenant theology as one of several theological frameworks that gave the pact concept its specific intellectual form in different confessional traditions. The Calvinist emphasis on covenant — God's absolute sovereignty expressed through binding agreements — made the diabolic pact a precise theological inversion rather than simply a crime of loyalty. This intellectual precision gave Calvinist demonology a distinctive character: the witch was not merely a criminal but a covenant-breaker, which carried profound theological weight.",
+  "hutton_social_analysis": "Hutton observes that covenant theology created a social dimension to witch prosecution in Calvinist communities: because the church covenant was communal, a witch's diabolic counter-covenant threatened the entire gathered community's relationship with God. This made witch-hunting a matter of corporate spiritual survival rather than individual criminal prosecution. The pressure to identify and expel covenant-breakers was accordingly intense in communities where covenant theology was sincerely held.",
+  "ginzburg_interrogation_analysis": "Ginzburg's framework applies less directly to covenant theology, which was primarily a learned theological development rather than a popular tradition. However, he notes that in territories where covenant theology was influential, the interrogational expectations brought by ministers and magistrates were shaped by covenant categories, affecting how they interpreted testimony and what confessions they found convincing.",
+  "regional_variations": "Covenant theology's influence on demonology was most pronounced in Calvinist Scotland (where church session courts used covenantal language in witch trials) and New England Puritanism (where the Salem afflictions were understood as attacks on the covenant community). Dutch Calvinism shared the theology but showed less prosecutorial intensity in the later seventeenth century. German Reformed territories were varied.",
+  "scholarly_disagreement": "Scholars disagree on how directly covenant theology translated into prosecutorial practice versus serving as post-hoc theological rationalization. Boyer and Nissenbaum argue Salem prosecution was more about community social tensions than theological frameworks; others (Godbeer, Hall) take the theological context more seriously as a causal factor. The relationship between Calvinist covenant theology and prosecution rates generally has not been systematically established.",
+  "trial_examples": ["north-berwick-1590-trials", "salem-1692-trials"],
+  "related_concepts": ["demonic-pact-early-modern", "apostasy-renunciation", "protestant-witchcraft-theology", "puritan-providential-thinking", "heresy-witchcraft-link"],
+  "source_method": "Reformed theological treatises; Scottish church session records; New England Puritan documents; Clark's intellectual history",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

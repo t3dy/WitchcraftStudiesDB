@@ -1,0 +1,47 @@
+{
+  "id": "anna-jefferies-cornwall-1645",
+  "name": "Anne Jefferies",
+  "status": "Survived; Released",
+  "trial_id": null,
+  "location_id": "essex-county",
+  "year_active": 1645,
+  "social_status": "Servant girl, St Teath, Cornwall",
+  "gender": "Female",
+  "tradition": "Fairy healer",
+  "self_identification": "One healed and gifted by the fairies",
+  "claimed_abilities": [
+    "Healing of sick people without medicines",
+    "Healing by touch or laying on of hands",
+    "Clairvoyance and foreknowledge",
+    "Ability to cure conditions considered incurable",
+    "Receiving healing knowledge from the fairy folk"
+  ],
+  "biography": "Anne Jefferies of St Teath in Cornwall is one of the most striking examples Ronald Hutton discusses of the English fairy-healing tradition persisting into the mid-seventeenth century. Her case was documented by Moses Pitt, who wrote an account of her based on his own childhood memories and subsequent inquiries, providing a detailed if retrospective record of a remarkable local healer.\n\nJefferies claimed that she had been abducted by a company of small men (fairies) when she was about nineteen years old, in 1645. She fell into a convulsive fit during this experience, and when she recovered she possessed healing abilities she had not had before — the ability to cure the sick without medicines, through touch and prayer. She subsequently provided healing services to a wide range of people in the Cornish and beyond, including cases that were widely regarded as miraculous cures.\n\nDistinctive about Jefferies's case is that she was not prosecuted — she was imprisoned briefly for political reasons during the Civil War period but not tried for witchcraft. This contrasts sharply with the fate of Scottish fairy-contact practitioners like Bessie Dunlop and Alison Peirson, illustrating the significant regional and chronological variation in English prosecution of folk practitioners.",
+  "practice_description": "After her claimed fairy abduction and return, Anne Jefferies provided healing services to her Cornish community that she described as given to her by the fairies. She healed without medicines, reportedly through touch and prayer, and claimed to receive guidance about treatments from fairy sources. She reportedly healed numerous cases and refused to accept payment for her services. Her practice continued for some years and attracted attention from well beyond her immediate locality.",
+  "relationship_to_prosecution": "Jefferies was imprisoned for a period during the Civil War but not tried for witchcraft. Her case is notable for what it was not: a prosecution. Hutton uses this absence of prosecution as evidence that the English fairy-healing tradition could, in some contexts and periods, continue without triggering witch-trial apparatus — particularly in regions where Calvinist prosecutorial culture was less dominant than in Scotland.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "the fairies (as source of healing gift)",
+      "abduction by fairy people",
+      "healing given by the fairy folk",
+      "gift of healing (received supernaturally)"
+    ],
+    "inquisitor_categories": [
+      "commerce with spirits",
+      "witch",
+      "unlawful practices"
+    ]
+  },
+  "hutton_analysis": "Hutton presents Anne Jefferies as one of his key examples of the English fairy-healing tradition persisting well into the mid-seventeenth century and, crucially, surviving without prosecution. Her case shows that the relationship between fairy-contact practitioners and the witch-trial apparatus was not uniformly fatal, and that regional and chronological variation significantly shaped which practitioners were prosecuted and which were tolerated.",
+  "ginzburg_analysis": "Within Ginzburg's comparative framework, Jefferies's claimed abduction by fairies and subsequent acquisition of healing ability is a variant of the initiatory abduction pattern he traces across shamanic traditions — the practitioner who gains healing power through an involuntary encounter with supernatural beings and returns transformed.",
+  "historiographical_significance": "Anne Jefferies is important for the history of English folk healing because she represents the fairy-contact tradition persisting into the 1640s — simultaneously with the Hopkins witch-finding campaign in East Anglia — and surviving without prosecution. Her detailed documentation by Moses Pitt makes her one of the better-evidenced English fairy-healer cases of the seventeenth century.",
+  "source_method": "Moses Pitt's account (1696); Hutton's The Witch (2017); Emma Wilby's Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

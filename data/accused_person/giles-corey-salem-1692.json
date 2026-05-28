@@ -1,0 +1,50 @@
+{
+  "id": "giles-corey-salem-1692",
+  "name": "Giles Corey",
+  "status": "Executed",
+  "trial_id": "salem-1692",
+  "location_id": "salem-massachusetts",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 80,
+  "social_status": "Prosperous farmer, Salem Village",
+  "gender": "Male",
+  "biography": "Giles Corey was approximately eighty years old when he was accused and killed in the Salem witch crisis. He was a prosperous farmer who had an earlier troubled history — he had been tried for beating a farm worker to death in 1676, though he had escaped conviction. His wife Martha Corey was also accused, making them one of the few husband-wife pairs caught in the Salem prosecutions.\n\nCorey made a legal decision that was extraordinary and tragic: he refused to enter a plea at all — neither guilty nor not guilty. This refusal invoked a medieval English legal practice called peine forte et dure, or pressing, in which a defendant who would not plead was subjected to increasing weights of stone until they either pleaded or died. Corey's decision to stand mute and be pressed to death was apparently calculated to preserve his estate for his heirs, since a convicted witch's property would be forfeit while a man who died without pleading technically avoided legal conviction. He was pressed to death over two days on September 19, 1692 — the only such execution in American colonial history.",
+  "arrest_narrative": "Corey was accused in April 1692, partly through connections to his wife Martha's accusation. He initially participated in the examinations, even testifying briefly against his wife — a detail he apparently deeply regretted. When his own trial came, he refused to enter a plea, understanding the legal consequence. Witnesses reported that throughout the pressing he refused to plead and his only recorded words in response to the demand that he enter a plea were 'More weight.'",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "peine forte et dure (pressing with stones over two days)"
+    ],
+    "torture_sessions": [
+      {
+        "session": 1,
+        "method": "Standing mute; crushing with stones applied",
+        "outcome": "Refused to plead; died under pressing September 19, 1692"
+      }
+    ],
+    "initial_response": "Refusal to enter any plea",
+    "final_confession_summary": "No confession; refused to speak any plea; died under pressing; said only 'More weight' according to tradition"
+  },
+  "accusations_against_them": [
+    "Tormenting afflicted persons through spectral means",
+    "General maleficium",
+    "Conspiracy with other accused witches"
+  ],
+  "execution_details": {
+    "date": "1692-09-19",
+    "method": "Pressing (peine forte et dure) — stones laid on chest over two days",
+    "location": "Field near Salem Town jail"
+  },
+  "historiographical_significance": "Giles Corey is the only person in American colonial history known to have been pressed to death as a judicial punishment, making his case unique in American legal and religious history. His decision to stand mute — probably to preserve his estate for his heirs, since a pressed man died intestate while a convicted witch's property was forfeit — represents a calculated legal strategy under extraordinary circumstances. The tradition of his saying 'More weight' has become one of the iconic moments of the Salem crisis, symbolizing defiant resistance to the proceedings.",
+  "source_method": "Salem witchcraft trial records; Rosenthal, Records of the Salem Witch-Hunt (2009); contemporary accounts",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-the-devils-snare-2002",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

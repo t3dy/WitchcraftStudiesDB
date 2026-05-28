@@ -1,0 +1,33 @@
+{
+  "id": "boguet-examen-sorciers-1602",
+  "title": "Discours exécrable des sorciers",
+  "author": "Henri Boguet",
+  "author_id": null,
+  "year_published": 1602,
+  "language": "French",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Pillehotte, Lyon, 1602",
+  "modern_edition": "Boguet, Henri, An Examen of Witches, trans. E.A. Ashwin, ed. Montague Summers, John Rodker, 1929",
+  "significance": "Account by the senior judge of Burgundy who prosecuted approximately 600 persons; provides detailed evidence standards and legal procedures applied to witchcraft cases; important for understanding French prosecution practice.",
+  "summary": "Boguet served as grand judge of the territory of Saint-Claude in the Franche-Comté and presided over extensive witch prosecutions from the 1590s onward. His Discours draws on his judicial experience to provide a systematic account of witch practices and prosecution procedure in seventy chapters. Part I addresses the reality of witchcraft and the devil's pact. Part II covers diabolical practices: sabbath, metamorphosis, harm to neighbors. Part III provides legal guidance including evidence standards, use of torture, and sentencing. The text is practical and detailed, reflecting hands-on judicial experience rather than scholastic synthesis.",
+  "clark_analysis": "Clark uses Boguet alongside Remy and de Lancre as evidence for how judicial practice fed into and reinforced demonological theory: the cycle of prosecution experience and systematic writing created an increasingly elaborated and practically-grounded demonological consensus.",
+  "hutton_analysis": "Hutton notes Boguet's evidence for the social dynamics of Franche-Comté prosecutions: the accused were predominantly poor women, the accusations often arose from community conflict, and the judicial machinery was locally driven rather than externally imposed.",
+  "ginzburg_analysis": "Ginzburg examines Boguet's cases for evidence of folk beliefs that predate or diverge from the demonological template: the Franche-Comté material includes elements potentially connected to Alpine night-journey traditions that the inquisitorial framework reframed as diabolical.",
+  "key_arguments": [
+    "Witches form real organized sects in league with the devil",
+    "Physical metamorphosis (wolves, cats) is possible through diabolical agency",
+    "Children can be recruited as witches by their parents and should be prosecuted",
+    "Judicial torture is justified and should be applied in stages",
+    "The judge's duty to God and society requires vigorous prosecution"
+  ],
+  "influence_on_prosecutions": "Boguet's text was widely cited in French legal contexts as a practical authority for prosecution procedure. His legal appendix (Instruction pour un juge) was separately reprinted and provided guidance that influenced prosecution practice in Burgundy and beyond.",
+  "related_texts": ["bodin-demonomanie-1580", "remy-demonolatry-1595", "de-lancre-tableau-inconstance-1612"],
+  "related_trials": [],
+  "scholarly_disagreement": "The number of 600 prosecutions Boguet claimed has been analyzed by regional scholars; archival evidence supports high prosecution rates in his jurisdiction but the precise figure is debated. The Summers translation is considered unreliable. Monter's comparative study of the French-Swiss borderlands provides important context for Boguet's Franche-Comté prosecutions.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["monter-william-b1936", "briggs-witches-neighbors-1996"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

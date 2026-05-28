@@ -1,0 +1,61 @@
+{
+  "id": "bury-st-edmunds-1662-trials",
+  "name": "Bury St Edmunds Witch Trials 1662",
+  "location_id": "bury-st-edmunds",
+  "year_start": 1662,
+  "year_end": 1662,
+  "alleged_accused_count": 2,
+  "executed_count": 2,
+  "regional_context": "Bury St Edmunds, Suffolk, Kingdom of England; Restoration period; tried before Sir Matthew Hale, one of England's most eminent common lawyers; case later cited as precedent at Salem",
+
+  "summary": "The 1662 Bury St Edmunds trial of Rose Cullender and Amy Denny represents one of the most consequential English witch trials in terms of legal precedent. Both women were convicted and hanged before Sir Matthew Hale, Lord Chief Baron of the Exchequer, after being accused of bewitching several children in the Lowestoft area. Hale's handling of the case — particularly his direction to the jury that there could be no doubt witches existed (citing Biblical authority and Acts of Parliament) — made the trial a legal precedent that was explicitly cited at the Salem trials of 1692. The trial was later published in detail and served as a standard reference for witch prosecution procedure in England and the American colonies.",
+
+  "historiographical_significance": "The 1662 Bury St Edmunds trial's trans-Atlantic legal legacy makes it exceptionally significant. Cotton Mather and others at Salem explicitly cited Hale's conduct of the 1662 trial as authority for their procedures, creating a documented legal transmission between English and American witch prosecution. The case also illustrates the role of medical testimony in witch trials: physician Sir Thomas Browne testified that the children's afflictions were consistent with witchcraft, illustrating how natural philosophy and medical authority could support prosecution rather than undermining it — a finding important for Clark's analysis of the relationship between learned discourse and witch-hunting.",
+
+  "demonological_framework": [
+    "maleficium-harmful-magic",
+    "familiar-spirit-animal",
+    "demonic-pact-early-modern"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Suffolk county magistrates; victims' families",
+    "prosecuting_officials": "Sir Matthew Hale (Lord Chief Baron, presiding judge); Suffolk county prosecution",
+    "procedure": "Common law jury trial; expert testimony from Thomas Browne (physician); children's fits demonstrated in court; standard English witchcraft procedure",
+    "torture_methods": [],
+    "trial_phases": [
+      {
+        "phase": "Accusation and local investigation",
+        "context": "Multiple children in Lowestoft area develop fits; Rose Cullender and Amy Denny accused; local investigation"
+      },
+      {
+        "phase": "Trial at Bury St Edmunds Assizes (March 17, 1662)",
+        "context": "Trial before Hale; children demonstrate fits in court; Thomas Browne testifies; both convicted and hanged March 17, 1662"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The trial has attracted historiographical attention primarily for its Salem connection. Some historians argue Hale's conduct of the trial was professionally responsible by seventeenth-century standards; others, including Francis Hutchinson writing in 1718, criticized the trial as a miscarriage of justice even from a period perspective. The role of Thomas Browne's medical testimony is particularly debated: did natural philosophical authority support or undermine the prosecution framework at this date?",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "bury-st-edmunds-1645-trials",
+    "salem-1692-trials"
+  ],
+
+  "source_method": "*A Tryal of Witches at the Assizes Held at Bury St Edmonds* (1682, published posthumously); Levack's analysis of English witch trials; Geis and Bunn, *A Trial of Witches* (1997)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "historiographical_notes": "The 1662 Bury St Edmunds trial's publication in 1682 and its citation at Salem in 1692 illustrates how witch-trial precedent circulated across the early modern Atlantic world. The printed trial record functioned as a legal manual, providing both procedural authority (how to run a witchcraft trial) and substantive authority (that witchcraft was real and prosecutable). This trans-Atlantic dimension of English witch-hunting is underexplored relative to the intensive study of both English and American cases in isolation: the 1662 trial is a documented node in a legal information network that connected English common law to colonial American prosecution.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

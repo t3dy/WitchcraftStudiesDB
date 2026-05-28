@@ -1,0 +1,48 @@
+{
+  "id": "maria-holl-nordlingen-1593",
+  "name": "Maria Holl",
+  "status": "Survived; Released",
+  "trial_id": "nordlingen-1590-trials",
+  "location_id": "nordlingen",
+  "year_accused": 1593,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Wife of innkeeper, Nördlingen",
+  "gender": "Female",
+  "biography": "Maria Holl, the wife of an innkeeper in the Imperial Free City of Nördlingen in Swabia, stands as one of the most remarkable individuals in the history of the European witch trials: a woman who survived sixty-two applications of torture without confessing, and was ultimately released. Her case represents an almost unique exception to the dynamic whereby torture inevitably produced the confession prosecutors sought, and her survival throws into stark relief the mechanism by which other accused did confess — not because their confessions were true, but because the pain was unbearable.\n\nHoll was accused during the Nördlingen witch panic, which ran intermittently from 1590 through the 1590s. She was brought before the town council and subjected to repeated torture sessions. Each time she refused to confess. The extraordinary number of torture applications — sixty-two — reflects the persistence of the prosecutors and the unusual determination of a woman who would not be broken. After sixty-two sessions, the Nördlingen town council, apparently doubting the guilt of a woman who could endure such treatment without confessing, released her.\n\nHoll's case is an extraordinary exception to the general pattern but also reveals the rule: the overwhelming majority of accused who faced even a fraction of her torture sessions confessed, not because they were guilty but because confession ended the unbearable pain. Her case shows that the torture system was not designed to ascertain truth but to produce confession, and that when an individual's psychological resistance was sufficient to withstand torture, the system had no mechanism to proceed — it could only release her or increase the torture further.",
+
+  "arrest_narrative": "Holl was arrested during the Nördlingen witch panic of the 1590s following accusation by other accused. She was brought before the town council and subjected to prolonged judicial examination including repeated torture sessions.",
+
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": ["strappado (repeated)", "unspecified additional methods — 62 total applications"],
+    "initial_response": "Denial, maintained throughout all torture",
+    "final_confession_summary": "Never confessed. After sixty-two applications of torture without confession, the Nördlingen town council released her, apparently unable to sustain the prosecution against someone who had resisted all attempts to extract confession."
+  },
+
+  "accusations_against_them": [
+    "Witchcraft and diabolism",
+    "Attendance at sabbath",
+    "Demonic compact",
+    "Maleficium against community members"
+  ],
+
+  "execution_details": {
+    "date": null,
+    "method": null,
+    "location": null
+  },
+
+  "historiographical_significance": "Holl's case is the paradigm exception that illuminates the rule of the witch trial confession system. Historians including Midelfort (Witch Hunting in Southwestern Germany) and Levack use her case to demonstrate that confession was the product of torture rather than truth, and that the entire edifice of sabbath descriptions, accomplice naming, and diabolical pact rested on coerced testimony. Her survival also raises questions about what distinguished her from accused who confessed: psychological resilience, physical constitution, or some combination of factors historians cannot determine from the documentary record.",
+
+  "source_method": "Nördlingen council records and trial protocols; analyzed in H.C. Erik Midelfort's Witch Hunting in Southwestern Germany 1562-1684 (1972); discussed in Levack",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

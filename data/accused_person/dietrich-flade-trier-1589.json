@@ -1,0 +1,48 @@
+{
+  "id": "dietrich-flade-trier-1589",
+  "name": "Dietrich Flade",
+  "status": "Executed",
+  "trial_id": "trier-1581-mass-persecution",
+  "location_id": "trier",
+  "year_accused": 1589,
+  "year_executed": 1589,
+  "age_at_trial": null,
+  "social_status": "Judge and law professor, University of Trier; Rector of University; leading civic and legal official",
+  "gender": "Male",
+  "biography": "Dietrich Flade was one of the most prominent figures in Trier — a judge, law professor, former Rector of the University of Trier, and a leading civic official — when he was accused of witchcraft in 1589 and executed on September 18 of that year. His case represents one of the most dramatic examples of how the Trier mass persecution of 1581-1593, one of the largest and most sustained German witch panics, ultimately consumed some of those who had sat in judgment over the accused.\n\nFlade had presided over witch trials in Trier and had been involved in the prosecution machinery. However, he had shown relative leniency toward accused individuals at a time when the Elector-Archbishop Johann von Schönenberg and the Suffragan Bishop Peter Binsfeld — author of the influential demonological treatise Tractatus de Confessionibus Maleficorum (1589) — were pressing for vigorous prosecution. This leniency, apparently motivated by legal scruples about the quality of evidence, made Flade a target. When accused persons under torture named him as a participant in sabbaths, the accusation was treated as credible.\n\nFlade was arrested, subjected to torture, and confessed. He was degraded from his academic and legal positions and executed by strangling and burning. His case sent a powerful message to all observers: if the University Rector and former judge could be swept into the prosecution, then any show of doubt or leniency marked one as suspect. The lesson was not lost on Flade's colleagues, which helped sustain the persecution's momentum by silencing potential critics within the legal establishment.",
+
+  "arrest_narrative": "Flade was accused in 1589 by individuals under torture during the Trier mass persecution who named him as a participant in witches' sabbaths. His prior show of leniency as a judge in witch cases was held against him as possible evidence of sympathy with the accused. He was arrested despite his senior legal position and subjected to the same prosecution machinery over which he had previously presided.",
+
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": ["strappado", "additional methods standard in Trier procedure"],
+    "initial_response": "Denial of charges",
+    "final_confession_summary": "Confessed under torture to attendance at sabbaths, demonic pact, and other standard charges of the Trier prosecution; confession likely extracted through the same torture procedures he had previously overseen as a judge"
+  },
+
+  "accusations_against_them": [
+    "Attendance at witches' sabbaths",
+    "Demonic compact",
+    "Maleficium against the community",
+    "Leniency toward accused witches (used as evidence of sympathy with diabolism)"
+  ],
+
+  "execution_details": {
+    "date": "1589-09-18",
+    "method": "Strangling then burning",
+    "location": "Trier"
+  },
+
+  "historiographical_significance": "Flade's case is paradigmatic for understanding how witch prosecution silenced internal critics and expanded through cascade dynamics. Historians including Levack and Midelfort cite his execution as showing that leniency or skepticism during a prosecution could itself become grounds for accusation, creating a self-reinforcing system that eliminated moderating voices. His position as a former judge who had presided over witch trials makes his own prosecution a uniquely ironic illustration of how the accusation system operated.",
+
+  "source_method": "Trier witch trial records; discussed in Midelfort's Witch Hunting in Southwestern Germany (1972); analyzed in Levack's Witch-Hunt in Early Modern Europe and Clark's Thinking with Demons",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

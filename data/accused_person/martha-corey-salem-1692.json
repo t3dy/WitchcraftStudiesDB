@@ -1,0 +1,48 @@
+{
+  "id": "martha-corey-salem-1692",
+  "name": "Martha Corey",
+  "status": "Executed",
+  "trial_id": "salem-1692",
+  "location_id": "salem-massachusetts",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": null,
+  "social_status": "Wife of Giles Corey; church member, Salem Village",
+  "gender": "Female",
+  "biography": "Martha Corey had initially expressed skepticism about the witchcraft accusations sweeping Salem Village in early 1692, questioning whether the afflicted girls were really experiencing supernatural torment. This skepticism, voiced before she herself was accused, made her accusation particularly striking — it suggested that expressing doubt about the proceedings was itself dangerous. She was a full church member, which gave her some social respectability, and her husband Giles Corey was also accused, making theirs one of the few Salem cases involving an accused husband and wife.\n\nMartha Corey maintained her innocence throughout her trial and imprisonment. She was executed on September 22, 1692, in the last mass execution of the Salem trials, just three days after her husband Giles Corey had been pressed to death for refusing to enter a plea. Her case illustrates how skepticism about the proceedings could be reinterpreted as evidence of guilty knowledge.",
+  "arrest_narrative": "Corey was accused in mid-March 1692, shortly after she had been visited by members of the community investigating the afflictions and had made clear her doubts about the accusations. Her prior questioning of the accusers' reliability was recalled and used against her. Her examination before the magistrates was dramatic — the afflicted girls mimicked her movements and claimed her specter was tormenting them in the courtroom.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {
+        "session": 1,
+        "method": "Public examination before magistrates and crowd",
+        "outcome": "Denial maintained; dramatic courtroom performance by afflicted accusers"
+      }
+    ],
+    "initial_response": "Denial and expressions of piety: 'I am an innocent person. I never had to do with witchcraft since I was born.'",
+    "final_confession_summary": "No confession; maintained innocence; husband Giles pressed to death three days before her execution"
+  },
+  "accusations_against_them": [
+    "Tormenting afflicted girls through spectral means",
+    "Prior skepticism about the accusations (reinterpreted as guilty knowledge)",
+    "General maleficium through spectral agency"
+  ],
+  "execution_details": {
+    "date": "1692-09-22",
+    "method": "Hanging",
+    "location": "Gallows Hill, Salem"
+  },
+  "historiographical_significance": "Martha Corey's case illustrates how the Salem crisis created a self-reinforcing dynamic in which even skepticism about the proceedings could become grounds for accusation. Her initial questioning of the afflicted girls' reliability and her subsequent accusation suggest that the system's logic required anyone who doubted it to be either ignorant or complicit. Her execution alongside seven others on September 22 represented the largest single day of Salem executions and came as opposition to the proceedings was already growing.",
+  "source_method": "Salem witchcraft trial records; Rosenthal, Records of the Salem Witch-Hunt (2009); Boyer and Nissenbaum, Salem Possessed (1974)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-the-devils-snare-2002",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

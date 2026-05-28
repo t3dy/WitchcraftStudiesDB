@@ -1,0 +1,21 @@
+{
+  "id": "scapegoat-social-function",
+  "name": "Scapegoat: Social Function of Witch Accusation",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The scapegoat model in witchcraft studies, drawing on functionalist sociology and René Girard's scapegoat theory, proposes that witch accusations served a social function by identifying a sacrificial victim on whom community tensions, anxieties, and frustrations could be displaced and resolved. The model was influential in early social-scientific approaches to witch trials and continues to be used as an explanatory framework, though it has been criticized for its functionalism and for reducing complex social dynamics to a single explanatory mechanism. It suggests that communities under stress — economic hardship, crop failure, epidemic — were more likely to generate witch accusations as a means of social-tension release.",
+  "clark_intellectual_analysis": "Clark is generally critical of functionalist models including the scapegoat thesis, arguing they explain witch belief's social effects without engaging with its intellectual content. For Clark, understanding why people believed in witchcraft requires taking seriously the theological and philosophical framework within which accusations made sense — not reducing belief to social function. The scapegoat model, in Clark's view, produces circular explanations (communities accused scapegoats because they needed scapegoats) without illuminating the specific content of witch belief.",
+  "hutton_social_analysis": "Hutton incorporates elements of the scapegoat model while avoiding its reductive tendencies. He notes that accused persons were often already socially marginal — old, poor, quarrelsome — and that accusations did tend to cluster during periods of community stress. However, he emphasizes that the pattern was not mechanical: not every stressed community generated witch accusations, and the specific targets of accusation reflected particular community histories rather than generic scapegoating logic.",
+  "ginzburg_interrogation_analysis": "Ginzburg is skeptical of the scapegoat model as applied to the accused witches he studies, noting that the benandanti and similar practitioners were not obviously marginal scapegoats but rather community specialists with recognized functions. The model's emphasis on social marginality misses cases where accused persons were integrated members of their communities whose accusation reflected specific tensions rather than generic stigmatization.",
+  "regional_variations": "The scapegoat dynamic may have operated differently in different regional contexts: in areas with well-established cunning-folk traditions, practitioners were valuable community members who became vulnerable only when their services failed; in areas without such traditions, socially marginal persons were more straightforwardly targeted. The model fits some English cases (isolated poor women) better than some Scottish or continental cases.",
+  "scholarly_disagreement": "The scapegoat model has been criticized by social historians including Briggs, who argues that witch accusation in Lorraine reflected specific interpersonal histories rather than generic scapegoating; and by cultural historians including Clark, who objects to its functionalist logic. The model remains influential in psychological and anthropological approaches to witch trials despite these criticisms.",
+  "trial_examples": [],
+  "related_concepts": ["charity-refused-mechanism", "community-disruption-model", "outsider-suspect-figure", "social-strain-model", "functionalism-witchcraft"],
+  "source_method": "Functionalist sociology; Evans-Pritchard Azande; Girard's scapegoat theory; MacFarlane Witchcraft in Tudor and Stuart England; Briggs Witches and Neighbors",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

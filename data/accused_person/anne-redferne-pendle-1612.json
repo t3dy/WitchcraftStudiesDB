@@ -3,41 +3,39 @@
   "name": "Anne Redferne",
   "status": "Executed",
   "trial_id": "pendle-1612",
-  "location_id": "pendle",
+  "location_id": "pendle-lancashire",
   "year_accused": 1612,
   "year_executed": 1612,
   "age_at_trial": null,
   "social_status": "Daughter of Anne Whittle (Old Chattox); rural poor, Forest of Pendle",
   "gender": "Female",
   "biography": "Anne Redferne was the daughter of Old Chattox (Anne Whittle) and was caught in the Pendle prosecutions partly through her mother's confessions. Her case has a distinctive procedural history: she was tried twice, being acquitted at the first trial for insufficient evidence before being convicted and condemned at a second trial. The acquittal followed by re-prosecution illustrates the determination of authorities to secure convictions once the Pendle prosecutions were in motion.\n\nRedferne's primary accusation connected her to the Nutter family's deaths — specifically the making of clay images to kill members of that family. Her mother's pre-arrest confession had implicated her, and the Nutter family actively pursued the case against both of them. The double trial, acquittal, and re-prosecution sequence is one of the unusual procedural features of the 1612 cases.",
-
   "arrest_narrative": "Anne Redferne was arrested in the spring 1612 round-up along with her mother and other Pendle accused. At her first trial she was acquitted — the jury found insufficient evidence — but this verdict did not lead to her release. She was retried on different charges and at the second trial was convicted. The double trial was contemporary observers found notable for its demonstration of prosecutorial persistence.",
-
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "torture_sessions": [
-      {"session": 1, "method": "Examination before Justice Nowell", "outcome": "Limited confession; initial trial acquittal"}
+      {
+        "session": 1,
+        "method": "Examination before Justice Nowell",
+        "outcome": "Limited confession; initial trial acquittal"
+      }
     ],
     "initial_response": "Denials; insufficient confession for first conviction",
     "final_confession_summary": "Convicted on second trial for making clay images to kill Christopher Nutter and Robert Nutter; her mother's confession provided key evidence against her"
   },
-
   "accusations_against_them": [
     "Making clay images (maleficium) to kill Christopher Nutter",
     "Making clay images to kill Robert Nutter",
     "Conspiracy with mother Old Chattox in witchcraft",
     "General maleficium against the Nutter family"
   ],
-
   "execution_details": {
     "date": "1612-08-20",
     "method": "Hanging",
     "location": "Lancaster"
   },
-
   "historiographical_significance": "Redferne's double trial — acquitted and then retried and condemned — is one of the most procedurally unusual features of the Pendle cases and illustrates how normal due-process protections could be overridden in the context of panic prosecutions. Her case raises questions about what 'insufficient evidence' meant in the first trial and how the same basic facts could produce different verdicts, suggesting the role of jury pressure, political climate, and judicial direction in shaping outcomes.",
-
   "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assizes records",
   "review_status": "DRAFT",
   "confidence": "HIGH",

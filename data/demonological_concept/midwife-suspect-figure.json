@@ -1,0 +1,21 @@
+{
+  "id": "midwife-suspect-figure",
+  "name": "Midwife as Witch Suspect",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Germany, Europe-Wide",
+  "scholarly_definition": "The Malleus Maleficarum and several other demonological texts identified midwives as particularly dangerous practitioners of witchcraft, arguing that their access to newborns created opportunities for infant sacrifice, unbaptized baby consumption at sabbath feasts, and the dedication of newborns to the devil. This theoretical suspicion had some correlate in prosecution practice: midwives appear in witch trials, particularly in German mass prosecutions, and accusations sometimes focused on their professional access to infants. However, historians have found that midwives were not statistically over-represented among the accused in most regional studies, suggesting the stereotype was more influential in demonological theory than in prosecution practice.",
+  "clark_intellectual_analysis": "Clark notes that the midwife-as-witch figure in demonological literature reflects the broader inversion logic of the sabbath: the person responsible for bringing life safely into the community is recast as its most dangerous internal enemy. This inversion logic — healer as harmer, birth-attendant as infant-killer — is characteristic of how demonologists constructed the witch as the perfect inversion of community service roles.",
+  "hutton_social_analysis": "Hutton provides a more measured assessment of the midwife's actual vulnerability, noting that while the theoretical suspicion was strong, prosecution of midwives specifically was not as common as the Malleus suggested it should be. Midwives had strong community advocacy networks (women who had benefited from their services) that provided some protection. The vulnerability was real but context-dependent; in panic scenarios (Bamberg), midwives did face elevated risk.",
+  "ginzburg_interrogation_analysis": "Ginzburg notes that the midwife-as-witch stereotype represents a transformation of ambiguous community specialist into diabolic operative, parallel to the transformation of other folk practitioners. The midwife's liminal position — present at birth, managing the dangerous threshold between life and death — made her a natural focus of theological anxieties about the boundary between sacred and profane.",
+  "regional_variations": "German prosecution records from Bamberg and Würzburg include midwives among the accused in the 1626-1631 mass prosecutions, lending some empirical support to the stereotype in those specific contexts. English records show some midwife prosecution but less than the theoretical framework would predict. Scottish records are sparse on midwife-specific cases. French records are mixed.",
+  "scholarly_disagreement": "The statistical over-representation of midwives in witch trials is contested: Roper's analysis suggests midwife accusation was significant; other regional studies show rates not above baseline female prosecution rates. The question of whether midwives' community standing actually protected them or whether this protection failed in panic situations has been debated.",
+  "trial_examples": ["bamberg-1626-mass-prosecution"],
+  "related_concepts": ["gender-female-susceptibility", "wise-woman-healer", "child-stealing-infanticide", "sabbath-infanticide-feast", "old-woman-witch-stereotype"],
+  "source_method": "Malleus Maleficarum; Bamberg trial records; Roper Witch Craze; Hutton The Witch; comparative regional prosecution statistics",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

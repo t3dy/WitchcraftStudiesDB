@@ -1,0 +1,72 @@
+{
+  "id": "werewolf-lycanthropy",
+  "name": "Werewolf / Lycanthropy (Human-Wolf Transformation)",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Central Europe",
+
+  "scholarly_definition": "Lycanthropy designated transformation between human and wolf form, either actual physical metamorphosis or demonic illusion of such. In early modern Europe, werewolf cases could be prosecuted as a form of witchcraft in some German and Baltic jurisdictions, though legal treatment varied considerably. The most remarkable werewolf case in the scholarship is Thiess of Kaltenbrun (Latvia, 1692), who claimed to be a beneficial werewolf — one who fought witches and the devil in animal form to protect crops and community — directly paralleling the benandanti of Friuli. Werewolf prosecutions were less numerous than witch prosecutions but occupied significant space in demonological literature as a test case for the nature of demonic transformation.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Classical lycanthropy tradition (Ovid's Metamorphoses, Pliny)",
+      "Medieval hagiographic narratives of werewolves (Gerald of Wales on Irish werewolves)",
+      "Germanic folk traditions of shapeshifting warriors (berserkers, ulfhéðnar)"
+    ],
+    "early_modern_codification": [
+      "French werewolf trials of 1520–1630 (Gilles Garnier, Jean Grenier)",
+      "Thiess of Kaltenbrun (Latvia, 1692) — beneficial werewolf case",
+      "Demonological literature debating nature of lycanthropy (Bodin, Weyer, Beaumont)"
+    ],
+    "formalization_sources": [
+      "French and German secular court records",
+      "Latvian ecclesiastical court records",
+      "Demonological treatises on metamorphosis"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark treats werewolf cases as part of the broader theological problem of metamorphosis: whether demons could truly alter physical substance or only produce illusions. The werewolf debate was more sharply contested than standard shapeshifting discussions because wolf attacks on livestock and persons constituted verifiable harm requiring explanation. Demonologists' answer — demonic illusion of transformation or demonic animation of wolf form while human body slept — attempted to reconcile Augustinian impossibility of real transformation with real physical harm.",
+
+  "hutton_social_analysis": "Hutton situates werewolf beliefs within a pattern of human-animal identity traditions widespread in European folk culture, where certain individuals were understood to possess wolf spirits, travel as wolves, or fight in animal form. The social function of the beneficial werewolf (Thiess) parallels the benandanti: claiming supernatural animal identity justified by community service. The harmful werewolf accusations (Garnier, Grenier) followed patterns closer to maleficium prosecution, with real attacks on persons and animals requiring supernatural explanation.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's analysis of Thiess of Kaltenbrun is pivotal for his argument about pan-Eurasian spirit-combat traditions. Thiess claimed to be one of God's hounds who fought the devil and witches as a wolf to protect crops — a claim structurally identical to the benandanti's despite geographic and temporal distance. Ginzburg uses this parallel as evidence for the shamanic substrate hypothesis: these traditions were not invented independently but reflected genuine folk traditions with deep Eurasian roots.",
+
+  "actor_perspective": {
+    "practitioner_language": "Thiess explicitly claimed beneficial werewolf identity — he was a hound of God, not a servant of the devil, and his transformations served the community. French werewolves (Garnier, Grenier) claimed demonic gift of wolf-form for hunting humans and livestock, a very different framing. The contrast between beneficial and malefic werewolf claims reflects the same dichotomy between protective spirit practitioner and harmful witch found across multiple traditions.",
+    "misalignment": "For beneficial werewolves like Thiess, the court's insistence that his wolf transformation must be demonic (rather than divinely permitted) represented the same conceptual imposition as the benandanti inquisitors' transformation of defenders into witches. For malefic werewolves, the accused more readily accepted demonic framing since the harm they confessed was undeniable."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "The theological position on werewolves maintained either that transformation was demonic illusion (the dominant view) or that the soul traveled in wolf form while the body lay sleeping (a minority position). Genuine physical transformation of human into wolf was generally denied as beyond demonic power. Yet physical harm attributed to werewolves required real wolfish agency somewhere, generating the need for complex theoretical solutions.",
+    "canonical_law": "Werewolf cases were prosecuted under different legal frameworks depending on jurisdiction: as witchcraft in some areas, as regular murder (animal attacks on persons) in others, and as diabolism in Baltic ecclesiastical cases. The legal category was less settled than for standard witch prosecution."
+  },
+
+  "regional_variations": "French werewolf prosecutions (1520–1630) were the most numerous and typically involved harm to children and livestock. German cases showed similar patterns. Baltic cases (including Thiess) were distinctive in featuring beneficial werewolf claims. Scandinavian folk traditions of shape-shifting warriors (berserkers) formed a separate cultural context. The geographic distribution of werewolf prosecution overlapped significantly with zones of intensive witch prosecution.",
+
+  "scholarly_disagreement": "Whether Thiess represents a genuinely preserved archaic folk tradition (Ginzburg's argument) or a strategic defense by an accused person familiar with demonological discourse is debated. His testimony is so unusual — claiming to be on God's side against witches — that it either reflects genuine folk belief or remarkable strategic deployment of alternative theological categories. Scholars also debate whether French werewolf cases reflect genuine belief in werewolf transformation or psychological disturbance, with the documentary evidence being insufficient to resolve the question.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "shapeshifting-metamorphosis",
+    "benandanti-fertility-defenders",
+    "kresnik-south-slavic",
+    "witches-sabbath-collective",
+    "demonic-agency-theological"
+  ],
+
+  "source_method": "French and German court records; Latvian ecclesiastical records; Ginzburg's analysis; demonological treatises on lycanthropy",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "The werewolf cases, particularly Thiess of Kaltenbrun, have become central to Ginzburg's shamanic hypothesis and the broader debate about the origins of witch beliefs. The Thiess case's structural parallel with the Friulian benandanti — spatially and temporally distant from Friuli but sharing core features of beneficial spirit-combat — is either compelling evidence for a shared underlying tradition or a remarkable coincidence. Its place in the historiography reflects the ongoing tension between diffusionist explanations (shared shamanic origins) and independent development explanations for cross-cultural witchcraft analogues.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

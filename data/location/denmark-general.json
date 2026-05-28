@@ -1,0 +1,63 @@
+{
+  "id": "denmark-general",
+  "name": "Kingdom of Denmark",
+  "type": "Kingdom",
+  "region": "Scandinavia",
+  "modern_location": "Denmark",
+  "coordinates": {
+    "latitude": 56.263,
+    "longitude": 9.502
+  },
+
+  "administrative_context": "The Kingdom of Denmark in the early modern period included Denmark proper (Jutland, the Danish islands) as well as Norway, Iceland, the Faroe Islands, and Holstein. Witch prosecution operated under royal law and secular courts, with the 1617 Witchcraft Act of Christian IV providing the primary legal framework. High court review (herredag) was available for capital cases.",
+
+  "witchcraft_trials_significance": "Denmark experienced sustained witch prosecution from the 1580s to approximately the 1650s, with approximately 1,000 executions across the whole kingdom (Denmark proper and Norway combined). The Danish prosecutions were particularly intensive in the late 16th and early 17th century under the reign of Christian IV (1588-1648), whose personal interest in witchcraft was influenced by his cousin James VI of Scotland and the North Berwick affair. Denmark's prosecution was among the most intensive in Protestant Scandinavia.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Christian IV",
+      "role": "King of Denmark and Norway (1588-1648)",
+      "contribution_to_trials": "Passed the 1617 Witchcraft Act providing systematic legal framework; his reign coincided with the peak of Danish prosecution"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1580s": "Sustained Danish prosecution begins; intensified by connection to the North Berwick affair",
+    "1617": "Christian IV's Witchcraft Act systematizes prosecution",
+    "1620s_1630s": "Most intensive Danish prosecution period",
+    "1641": "Maren Spliid executed at Ribe",
+    "1650s": "Prosecution begins to decline",
+    "1686": "Last major Danish prosecution; execution rates drop sharply thereafter"
+  },
+
+  "affected_population": {
+    "geographic_extent": "All of Denmark proper (Jutland and islands); Norway and Iceland addressed separately",
+    "social_reach": "Predominantly rural communities; western Jutland particularly heavily affected",
+    "gender_distribution": "Predominantly female (approximately 70-80%) in Danish proper cases, consistent with Protestant Scandinavian pattern",
+    "mortality_impact": "Approximately 1,000 executions across Denmark and Norway combined for the full period; Denmark proper accounts for roughly 500-600"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Danish Lutheran prosecution within the broader Reformed Protestant demonological tradition, noting that Danish theologians were engaged with the same Continental demonological literature as their German and Scottish counterparts, producing a broadly coherent intellectual framework for prosecution.",
+    "hutton_perspective": "Hutton notes the connection between Christian IV's English and Scottish contacts—particularly through his familiarity with the North Berwick affair and James VI—and the intensification of Danish prosecution, illustrating how royal interest could shape national prosecution policy.",
+    "ginzburg_perspective": "Danish prosecution in regions near the Norwegian and Sámi borderlands shows occasional intersections with shamanic traditions similar to those Ginzburg analyzes elsewhere, though Danish cases proper are less marked by the ecstatic substrate than Finnish or Norwegian Sámi cases."
+  },
+
+  "legacy_and_historiographical_importance": "Danish witch prosecution has been studied by Jens Christian V. Johansen and in the broader Scandinavian scholarship of Ankarloo, Henningsen, and Monter. The connection between the North Berwick affair and Danish prosecution is analyzed in Julian Goodare's work on James VI.",
+
+  "primary_sources": "Danish royal court records; herredag records; local court records; analyzed in Johansen and Ankarloo et al.",
+
+  "source_method": "Published scholarship (Johansen, Levack, Ankarloo), Danish court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

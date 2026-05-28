@@ -1,0 +1,74 @@
+{
+  "id": "cunning-folk-services",
+  "name": "Cunning Folk Services (Wise Men and Women as Magical Practitioners)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "England",
+
+  "scholarly_definition": "Cunning folk (also wise men, wise women, wizards, white witches, village sorcerers) were practitioners who offered a range of socially recognized magical services to their communities: healing illness (including magically caused illness), counter-magic against suspected witchcraft, divination for lost goods and identifying thieves, love magic, weather prediction, and protective charms. Ronald Hutton's research established that these practitioners were legitimate, respected community figures in early modern England, not marginal outcasts, and that virtually every English community had access to at least one such practitioner. The distinction between cunning folk and prosecuted witches was a social and reputational judgment, not a technical difference in practice.",
+
+  "intellectual_genealogy": {
+    "medieval_precedents": [
+      "Medieval village healers combining herbal medicine with ritual and prayer",
+      "Church-licensed exorcism providing template for legitimate magical service",
+      "Folk practitioner traditions documented across European communities from antiquity"
+    ],
+    "early_modern_codification": [
+      "Reginald Scot's documentation of cunning folk service categories (*Discoverie*, 1584)",
+      "Church court records documenting consultation with cunning folk",
+      "Keith Thomas, *Religion and the Decline of Magic* (1971) — foundational reconstruction",
+      "Ronald Hutton, *The Witch* (2017) — systematic analysis of cunning folk community role"
+    ],
+    "formalization_sources": [
+      "English assize and church court records",
+      "Cunning folk account books and testimonials",
+      "Prosecution records when cunning folk crossed from service to complaint"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark notes that cunning folk represented a persistent challenge to clerical monopoly on legitimate supernatural intervention. The Protestant Reformation's abolition of exorcism, saint veneration, blessed objects, and other Catholic supernatural services left a vacuum of legitimate protection that cunning folk partly filled. Protestant demonologists like William Perkins argued that consulting cunning folk was as sinful as witchcraft, since all effective magical service required demonic power — but this argument found limited popular acceptance because community need for magical services was real and persistent.",
+
+  "hutton_social_analysis": "Hutton's research on cunning folk constitutes one of his most significant contributions to witchcraft studies. He demonstrates through systematic analysis of English records that cunning folk were integrated community figures — consulted by all social classes, trusted with sensitive family problems, paid for professional services, and generally protected from prosecution as long as their practices remained beneficial. The same community that accused witches relied on cunning folk for counter-magic and diagnosis, revealing that the witch/healer boundary was a social judgment about intent and outcome rather than a categorical distinction of practice type.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg situates English cunning folk within the broader European tradition of practitioners who maintained dual relationships with the supernatural — accessing spirit knowledge and power for community benefit. The cunning folk's claim to spirit helpers (familiars, angelic contacts, inherited gifts) parallels the benandanti's relationship to the spirit world, suggesting a shared tradition of community-serving spirit practitioners across European regions. Ginzburg's interest in recovering practitioners' genuine self-understanding aligns with Hutton's careful reconstruction of cunning folk practice.",
+
+  "actor_perspective": {
+    "practitioner_language": "Cunning folk understood themselves through frameworks of gift (born with a caul, seventh son), inheritance (skill passed from mother to daughter), learning (apprenticeship or self-taught from books), or spirit assistance (familiar, angel, or deceased wise person). They did not typically claim diabolic power and actively distinguished themselves from witches, often presenting themselves as the witches' adversaries through their counter-magic services.",
+    "misalignment": "The fundamental misalignment was between self-understanding as community servant (providing needed services, fighting against witchcraft) and theological interpretation as implicit diabolic agent (effective magic required demonic power, regardless of practitioner's intent). Most cunning folk never confronted this misalignment since they were not prosecuted; those who were found the gap between their self-understanding and the prosecution charge unbridgeable."
+  },
+
+  "analyst_perspective": {
+    "theological_framework": "Protestant demonology (Perkins, Gifford) consistently argued that cunning folk were more dangerous than malefic witches because their apparent beneficence drew clients into implicit diabolic relationships without their awareness. The 'good witch' concept was rejected by strict Protestant theology; all effective magic required demonic supplementation regardless of intent.",
+    "canonical_law": "English Witchcraft Acts (1542, 1563, 1604) included cunning folk practices (divination, treasure-finding, spirit consultation) as prosecutable offences, though prosecution rates were lower than for malefic witchcraft. Church courts handled many cunning folk cases as superstition rather than witchcraft."
+  },
+
+  "regional_variations": "England had the most systematically documented cunning folk tradition, but parallel practitioners existed across Europe: German Zauberdoktoren and Segensprecher; French devins and sorciers; Italian streghe (in some contexts); Scandinavian kloke koner. The universality of these practitioners across European communities supports Hutton's argument that they met genuine social needs that no institutional alternative adequately addressed.",
+
+  "scholarly_disagreement": "The central debate is whether cunning folk were primarily protected from prosecution (Hutton) or were at continuous risk of accusation (MacFarlane). Hutton's systematic survey of English records supports the protection argument; other regional studies show more variable patterns. The question of whether cunning folk and witches formed genuinely distinct social categories or overlapping populations whose boundary was determined by accusation and reputation remains unresolved across European regions.",
+
+  "trial_examples": [],
+
+  "related_concepts": [
+    "healing-magic-white",
+    "wise-woman-healer",
+    "cunning-folk-vs-witch",
+    "treasure-finding-divination",
+    "familiar-spirit-english",
+    "protective-magic-counter"
+  ],
+
+  "source_method": "English assize and church court records; Scot's Discoverie; Keith Thomas's reconstruction; Hutton's systematic analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+
+  "historiographical_notes": "Cunning folk are Hutton's signature contribution to witchcraft studies — his insistence on their legitimacy, social integration, and community importance challenges earlier accounts that saw them as proto-witches or as merely less successfully prosecuted than their counterparts. The cunning folk material demonstrates that early modern magical practice was not marginal or deviant but central to community life, meeting genuine needs for healing, protection, information, and social cohesion that official institutions could not adequately address. Understanding cunning folk as community servants rather than community deviants is fundamental to a historically accurate account of early modern popular culture.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

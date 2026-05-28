@@ -1,0 +1,21 @@
+{
+  "id": "protestant-witchcraft-theology",
+  "name": "Protestant Witchcraft Theology",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1520-1700)",
+  "primary_locale": "England, Germany, Scotland, Netherlands",
+  "scholarly_definition": "Protestant witchcraft theology encompassed a range of Reformed approaches to demonology that differed from Catholic scholastic tradition in significant ways while maintaining core beliefs in the devil's reality and the guilt of witches. Key Protestant contributions included William Perkins's Discourse of the Damned Art of Witchcraft (1608), which stripped away Catholic elements and emphasized the internal covenant with the devil; Reginald Scot's Discoverie of Witchcraft (1584), which applied Protestant rationalism skeptically against witch belief; and James VI of Scotland's Daemonologie (1597), which defended full demonological belief. The Puritan tradition in England and New England developed a providential witchcraft theology emphasizing divine testing and community discipline.",
+  "clark_intellectual_analysis": "Clark shows that Protestantism did not simply reduce witch belief — it reconfigured it. Protestant demonologists retained the pact, the devil's reality, and the prosecution of witches while eliminating specifically Catholic elements (exorcism, relics, blessed objects as counter-magic). The resulting Protestant demonology was in some ways intellectually sharper, stripped of what Protestants saw as superstitious accretions, and thus potentially more rather than less dangerous to accused persons. Clark's analysis challenges simple narratives linking Protestantism to rationalism or skepticism.",
+  "hutton_social_analysis": "Hutton notes that Protestant areas prosecuted witches at rates comparable to Catholic areas, and that the Reformation did not produce a significant decline in prosecution until the late seventeenth century. The removal of Catholic counter-magic — exorcism, blessed objects, pilgrimages — left Protestant communities without traditional defenses against witchcraft, potentially increasing anxiety and accusation. The social dynamics of Protestant prosecution were shaped by this removal of Catholic apotropaic resources.",
+  "ginzburg_interrogation_analysis": "Ginzburg observes that Protestant interrogators brought similar demonological expectations to investigations as Catholic ones, and that the sabbath stereotype appeared in Protestant territories as fully as in Catholic ones. The differences in interrogational practice — Calvinist session courts in Scotland, church courts in England — shaped somewhat different confession patterns without eliminating the core demonological framework.",
+  "regional_variations": "English Protestant theology was marked by significant internal debate (Scot's skepticism vs. James VI's credulity); Scottish Presbyterian tradition was harsh in prosecutorial practice; Dutch Calvinist tradition was relatively skeptical; German Lutheran tradition was variable. New England Puritanism developed a distinctive providential framework that shaped the Salem prosecutions specifically.",
+  "scholarly_disagreement": "Whether Protestantism increased or decreased witch prosecution rates compared to Catholicism has been extensively debated. Comparative studies show no consistent confessional advantage; both Protestant and Catholic territories had intense prosecution periods and skeptical ones. The relationship between Protestant theology and the Salem trials specifically continues to generate scholarly controversy.",
+  "trial_examples": ["north-berwick-1590-trials", "salem-1692-trials", "bury-st-edmunds-1645-trials"],
+  "related_concepts": ["puritan-providential-thinking", "covenant-theology-pact", "counter-reformation-demonology", "diabolism-learned-tradition", "malleus-doctrine-system"],
+  "source_method": "Protestant demonological treatises (Perkins, Scot, James VI); church court records; Clark's intellectual history; comparative confessional history",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

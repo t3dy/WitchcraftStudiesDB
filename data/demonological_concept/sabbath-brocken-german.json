@@ -1,0 +1,21 @@
+{
+  "id": "sabbath-brocken-german",
+  "name": "Brocken Mountain: German Walpurgis Night Sabbath",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Germany (Harz region)",
+  "scholarly_definition": "The Brocken (Blocksberg), the highest peak in the Harz mountains of central Germany, was identified in German folk tradition and later in learned literature as the primary location of the witches' sabbath. Walpurgis Night (April 30, the eve of the feast of St. Walpurga), was the traditional night of the great witch gathering, when witches supposedly flew to the Brocken to feast, dance with demons, and worship the devil. The tradition combined older folk beliefs about seasonal spirit assemblies with learned demonological sabbath doctrine. The Brocken sabbath entered German literary and artistic tradition most famously through Goethe's Faust (1808), cementing its place in popular imagination.",
+  "clark_intellectual_analysis": "Clark notes that the localization of the sabbath at specific landscape features — mountains, isolated hills, crossroads — reflects how learned demonological concepts were indigenized through particular cultural and geographical frameworks. The Brocken's role in German witch belief illustrates how the European-wide sabbath concept took culturally specific forms that simultaneously reflected learned tradition and local folk geography.",
+  "hutton_social_analysis": "Hutton examines how seasonal timing of the Brocken sabbath — Walpurgis Night as a traditional dangerous boundary time — connected demonological ideas to older pre-Christian seasonal festivals marking the transition from winter to summer. He is cautious about claiming direct continuity between pre-Christian seasonal assembly traditions and the early modern sabbath concept, but notes the cultural resonance that made the Brocken a plausible sabbath location within German folk geography.",
+  "ginzburg_interrogation_analysis": "Ginzburg would see the Brocken tradition as a localized manifestation of the broader pattern of seasonal spirit assemblies and night journeys he traces across European cultures. The Walpurgis Night timing — a liminal seasonal moment when the boundary between worlds was thin — parallels the temporal liminality of other spirit-journey traditions. The mountain location parallels the Blåkulla hill and other sacred geography of spirit assembly.",
+  "regional_variations": "The Brocken was specifically German (Harz/central Germany). Other regional sabbath locations included: the Blocksberg (variant name for Brocken), the Venusberg (another German tradition), the Blåkulla (Sweden), the Aquelarre/Zugarramurdi (Basque), the Bald Mountain (eastern European traditions), and various local hills in French and Italian contexts. Each localization reflected the interaction of learned sabbath doctrine with regional folk geography.",
+  "scholarly_disagreement": "Whether the Brocken tradition represents genuine folk belief continuous from pre-Christian seasonal assemblies or is primarily a literary and demonological construction projected onto folk practice has been debated. The tradition's rich literary elaboration (culminating in Goethe) makes it difficult to distinguish historical folk belief from artistic and learned elaboration.",
+  "trial_examples": [],
+  "related_concepts": ["witches-sabbath-collective", "sabbath-blakulla-swedish", "sabbath-aquelarre-basque", "nocturnal-flight-reality", "witch-flying-broom"],
+  "source_method": "German demonological literature; folklore collections; Hutton The Witch; Goethe Faust (literary tradition)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

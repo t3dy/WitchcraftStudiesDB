@@ -1,0 +1,49 @@
+{
+  "id": "chonrad-stoeckhlin-oberstdorf-1587",
+  "name": "Chonrad Stoeckhlin",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "ellwangen",
+  "year_active": 1587,
+  "social_status": "Herdsman",
+  "gender": "Male",
+  "tradition": "Phantom host rider",
+  "self_identification": "Rider with the Nachtschar (Phantom Host), protector of the community",
+  "claimed_abilities": [
+    "Spirit travel with the Nachtschar (phantom host) during Ember Days",
+    "Knowledge of future events received during spirit journeys",
+    "Healing and protective magic for his community",
+    "Ability to identify witches who threatened the community",
+    "Prognostication of weather and agricultural outcomes"
+  ],
+  "biography": "Chonrad Stoeckhlin was a herdsman from Oberstdorf in the Allgäu region of southern Germany who was tried and executed in 1587. His case is one of Carlo Ginzburg's key German examples in Ecstasies (1989), where Ginzburg uses it to extend his argument from the Italian benandanti to a broader European shamanic tradition.\n\nStoeckhlin claimed to travel during the Ember Days with the Nachtschar — the 'Phantom Host' or 'Night Troop,' a Germanic parallel to the Italian benandante company and the wider European tradition of nocturnal processions associated with the dead and with supernatural protective figures. His spirit journeys, he said, took him to encounters with the dead and with spiritual beings from whom he received information used to help his community. He functioned as a community seer and protector, a role with evident parallels to the Italian benandanti.\n\nHis 1587 trial illustrates the same transformation process Ginzburg documents in the Friulian cases: interrogation gradually reshaped Stoeckhlin's testimony from protective spirit-journeyer into diabolic witch, forcing his folk-belief framework into the template of sabbath attendance and diabolical compact. He was executed after his confession incorporated these inquisitorially-generated elements.",
+  "practice_description": "Stoeckhlin provided protective and prognosticatory services to his Oberstdorf community based on his claimed spirit journeys with the Nachtschar during the Ember Days. His journeys gave him knowledge of threats to the community, information about the dead, and ability to identify malefic practitioners. He understood himself as a community defender rather than a harmful practitioner, in the same functional category as the Friulian benandanti operating simultaneously in northeastern Italy.",
+  "relationship_to_prosecution": "Tried by Bavarian authorities in 1587. As with the benandanti, inquisitorial questioning gradually transformed his self-description as a protective spirit-journeyer into a confession incorporating diabolic elements — attendance at sabbath, compact with the devil — that his own framework had not included. He was executed in 1587 after this transformation of his testimony.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "Nachtschar (Phantom Host, Night Troop)",
+      "riding with the phantom host",
+      "Ember Day spirit journeys",
+      "community seer and protector",
+      "knowledge received from the journeys"
+    ],
+    "inquisitor_categories": [
+      "witches' sabbath",
+      "diabolical compact",
+      "witch",
+      "Teufelspakt (devil's pact)"
+    ]
+  },
+  "hutton_analysis": "Hutton reads Stoeckhlin's case within his argument that protective spirit-journey traditions existed across a much wider area of Europe than the Friuli alone, and that the Germanic Nachtschar tradition represents the same functional category as the Italian benandante — community defenders whose practices were destroyed and distorted by the witch-trial apparatus.",
+  "ginzburg_analysis": "Ginzburg treats Stoeckhlin as a key German parallel to the benandanti, using his case in Ecstasies to argue that the spirit-journey tradition was widespread across early modern Europe and beyond, representing a coherent shamanic stratum that the witch-trial apparatus systematically misread as diabolic witchcraft. Stoeckhlin's Nachtschar is for Ginzburg a regional variant of the same deep cultural pattern.",
+  "historiographical_significance": "Stoeckhlin's case is one of the central pieces of evidence for Ginzburg's pan-European argument about shamanic spirit-journey traditions underlying early modern witch beliefs. His German location allows Ginzburg to extend the argument beyond the Italian benandante corpus to show that similar traditions — and similar inquisitorial transformations of those traditions — existed in the German-speaking world.",
+  "source_method": "Published trial records; Wolfgang Behringer's scholarship on Stoeckhlin; Ginzburg's Ecstasies (1989, English trans. 1991)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

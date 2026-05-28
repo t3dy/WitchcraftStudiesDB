@@ -1,0 +1,46 @@
+{
+  "id": "richard-napier-cunning-clergy-1610",
+  "name": "Richard Napier",
+  "status": "Active (historical record)",
+  "trial_id": null,
+  "location_id": "essex-county",
+  "year_active": 1610,
+  "social_status": "Church of England minister, rector of Great Linford, Buckinghamshire",
+  "gender": "Male",
+  "tradition": "Clerical cunning practitioner",
+  "self_identification": "Anglican minister and physician",
+  "claimed_abilities": [
+    "Healing of the mentally and physically ill",
+    "Diagnosis of bewitchment",
+    "Exorcism of demonic possession",
+    "Astrological diagnosis",
+    "Provision of written charms and prayers for patients"
+  ],
+  "biography": "Richard Napier (1559-1634) was rector of Great Linford in Buckinghamshire and one of the most extensively documented practitioners of what might be called 'clerical cunning' in early modern England. A Church of England minister who also practiced medicine and healing, Napier kept detailed case notes on hundreds — possibly thousands — of patients seen over several decades, providing historians with an extraordinary window into the relationship between mental illness, bewitchment beliefs, and healing practice in Jacobean and Caroline England.\n\nNapier's practice occupied an unusual position: simultaneously orthodox (he was a licensed minister and physician) and heterodox (he practiced astrological medicine, diagnosed bewitchment, and engaged in forms of ritual healing that overlapped with what critics would call cunning-folk practice). His willingness to take bewitchment diagnoses seriously and provide ritual treatments — prayers, written charms, consultations about the suspected witch — placed him in the same functional role as lay cunning practitioners even while his clerical status gave him institutional protection.\n\nHis case notes survive in the Bodleian Library and have been extensively analyzed by Michael MacDonald in Mystical Bedlam (1981), which uses Napier's records to reconstruct the experience of mental illness and its relationship to supernatural explanation in early modern England. These records are one of the richest surviving primary sources for the history of folk belief, healing practice, and bewitchment diagnosis.",
+  "practice_description": "Napier combined astrological diagnosis with consultation about supernatural causation of illness. Patients who believed themselves bewitched received detailed attention: Napier recorded the suspected witch, the circumstances of the bewitchment, and the treatment prescribed. His treatments included written prayers and charms, referral to other practitioners, and spiritual counsel. His case notes document hundreds of cases in which bewitchment was the patient's stated cause of their illness, providing unparalleled insight into the practical reality of bewitchment belief at the community level.",
+  "relationship_to_prosecution": "Napier himself was not prosecuted — his clerical status and institutional position protected him from accusations that might have destroyed a lay practitioner. He occasionally testified in witch cases and was consulted about suspected witchcraft, placing him on the institutional side of the prosecution apparatus while simultaneously practicing in ways that overlapped with the cunning folk he might have been called to testify against.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "bewitchment (as diagnosis)",
+      "the witch (as causative agent)",
+      "prayer and spiritual remedy",
+      "astrological medicine",
+      "physic and spiritual counsel"
+    ],
+    "inquisitor_categories": [
+      "N/A — Napier was a licensed practitioner, not a defendant"
+    ]
+  },
+  "hutton_analysis": "Hutton uses Napier to illustrate the blurred boundary between licensed medical practice and cunning-folk activity in early modern England — a boundary defined more by social status and institutional affiliation than by the actual content of practice. Napier's case demonstrates that bewitchment diagnosis and ritual healing were not confined to the marginal practitioners typically studied as 'cunning folk.'",
+  "ginzburg_analysis": "Ginzburg's framework would situate Napier within the broad category of practitioners who mediated between their communities and the supernatural world, regardless of institutional affiliations. His detailed documentation of bewitchment cases provides microhistorical evidence of the precise content of folk belief about supernatural causation at the community level.",
+  "historiographical_significance": "Richard Napier is one of the most important figures in the history of early modern English healing because his surviving case records are an unparalleled source. Michael MacDonald's Mystical Bedlam (1981), based on Napier's casebooks, is a landmark in the social history of madness, healing, and witchcraft belief in England. Napier's practice illustrates the integration of supernatural explanation into what was simultaneously orthodox medicine.",
+  "source_method": "Richard Napier's casebooks (Bodleian Library MS Ashmole); Michael MacDonald's Mystical Bedlam (1981); Keith Thomas's Religion and the Decline of Magic (1971)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "reputation-accumulation",
+  "name": "Reputation Accumulation: Gradual Building of Witch Identity",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "Reputation accumulation describes the social process by which a person gradually became identified as a witch within their community over years or decades before formal accusation. The process typically began with individual conflicts — quarrels over property, refusals of charity, threatened curses — each of which contributed to a community perception of the person as dangerous and maleficent. When subsequent misfortunes occurred, this accumulated reputation provided an interpretive framework: the person's history of threatening behavior retrospectively confirmed their culpability. Trial records often reveal reputations built over twenty or thirty years before formal prosecution, suggesting that accusation was rarely a sudden revelation but typically the culmination of a long social process.",
+  "clark_intellectual_analysis": "Clark situates reputation accumulation within his broader analysis of how witch belief was embedded in community social relations and how it made sense within the intellectual framework of early modern culture. The accumulation process demonstrates how the theological and philosophical framework for believing in witchcraft was not abstract but was integrated into the texture of daily community life, operative in the interpretation of ordinary misfortunes.",
+  "hutton_social_analysis": "Hutton treats reputation accumulation as one of the central mechanisms of witch accusation in his social history. His analysis shows how specific community dynamics — patterns of dispute, charity refusal, threatening behavior — created reputational vulnerability over time. He emphasizes that this process was community-specific: the same behavior might create a dangerous reputation in one social context while being interpreted differently in another.",
+  "ginzburg_interrogation_analysis": "Ginzburg notes that benandanti and other folk practitioners built reputations of a different kind — as beneficial specialists — before their prosecutions. The contrast between their community reputations and the reputations constructed by judicial procedure is instructive: interrogation created a different narrative of their lives than the community possessed, demonstrating how judicial process could override community knowledge.",
+  "regional_variations": "Reputation accumulation as a prosecution precursor is documented most thoroughly in English and Lorraine studies (Macfarlane, Thomas, Briggs). German mass prosecution contexts show a different pattern where judicial initiative and denunciation chains overwhelmed the slow accumulation process. Scottish evidence is mixed. The reputation accumulation model fits endemic-level prosecution better than mass panic contexts.",
+  "scholarly_disagreement": "Whether reputation accumulation was universal or mainly characteristic of English and French endemic patterns is debated. The relationship between community-level reputation and formal legal accusation — specifically, whether formal prosecution usually required pre-existing reputation or could create it — has been examined by Sharpe and others with mixed conclusions.",
+  "trial_examples": ["lorraine-1580-sustained", "chelmsford-1566-trials"],
+  "related_concepts": ["community-disruption-model", "charity-refused-mechanism", "outsider-suspect-figure", "fama-reputation-evidence", "denunciation-chain"],
+  "source_method": "Briggs Witches and Neighbors; Macfarlane Witchcraft in Tudor and Stuart England; trial record longitudinal analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

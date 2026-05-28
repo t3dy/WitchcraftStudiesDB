@@ -1,0 +1,21 @@
+{
+  "id": "apostasy-renunciation",
+  "name": "Apostasy and Renunciation of Baptism",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "Apostasy refers to the formal renunciation of Christian faith, and in witchcraft theology it denoted the witch's deliberate abandonment of the baptismal covenant in favor of allegiance to Satan. Demonologists considered this the essential theological crime of the witch — worse than heresy in some formulations because it was an active, willful rejection rather than doctrinal error. The renunciation was believed to occur at the sabbath initiation, where the novice witch denied Christ, trampled the cross, and pledged body and soul to the devil. Scholastic theologians derived this framework from anti-heresy law and applied it systematically to witchcraft accusations from the fifteenth century onward.",
+  "clark_intellectual_analysis": "Clark shows that apostasy was the theological core that made witchcraft a sin of the gravest magnitude within the intellectual framework of early modern demonology. The renunciation of baptism inverted the entire structure of Christian sacramental life, making the witch not merely a criminal but an anti-Christian. This inversion logic — the sabbath as anti-church, the pact as anti-baptism — was central to the coherent theological system Clark analyzes in learned demonological texts.",
+  "hutton_social_analysis": "Hutton notes that the theological concept of apostasy had limited resonance with most accused witches, who typically self-identified as Christians and showed no evidence of having renounced their faith. The concept was imposed by interrogating authorities trained in theology, not derived from the beliefs or practices of the accused themselves. This disconnect between elite theological category and popular belief is a recurring theme in the social history of witch trials.",
+  "ginzburg_interrogation_analysis": "Ginzburg demonstrates that confessions of apostasy were almost invariably products of interrogation rather than spontaneous disclosure. Accused persons rarely volunteered that they had renounced baptism; rather, interrogators using theological checklists derived from demonological manuals systematically asked leading questions that shaped responses. The presence of apostasy in confessions thus reflects the theology of the questioner more than the beliefs of the accused.",
+  "regional_variations": "Apostasy appears as a formal charge most consistently in territories under inquisitorial procedure — southern France, Italy, Spain — where theological precision was legally required. In Scottish trials, it appears in formal indictments but confessions are more varied. In English common-law trials, the theological framing of apostasy was rarely central to prosecution, which focused on maleficium and physical harm instead.",
+  "scholarly_disagreement": "Debate exists on whether apostasy was always a demonological imposition or whether some practitioners actually held heterodox beliefs about the devil as an alternative deity. Scholars including Ginzburg and Cohn have debated whether any pre-Christian substrate of devil-worship underlay the theological charge, though the consensus holds that confessed apostasy reflects interrogational pressure rather than actual practice.",
+  "trial_examples": [],
+  "related_concepts": ["demonic-pact-early-modern", "witches-sabbath-collective", "heresy-witchcraft-link", "covenant-theology-pact"],
+  "source_method": "Theological treatises; inquisitorial manuals (Malleus Maleficarum, Directorium Inquisitorum); trial records; canon law",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

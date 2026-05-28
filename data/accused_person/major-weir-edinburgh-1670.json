@@ -1,0 +1,51 @@
+{
+  "id": "major-weir-edinburgh-1670",
+  "name": "Major Thomas Weir",
+  "status": "Executed",
+  "trial_id": "edinburgh-1670-weir",
+  "location_id": "edinburgh",
+  "year_accused": 1670,
+  "year_executed": 1670,
+  "age_at_trial": null,
+  "social_status": "Military officer and prominent Covenanting layman, Edinburgh",
+  "gender": "Male",
+  "biography": "Major Thomas Weir was one of Edinburgh's most respected citizens, a pious Covenanting officer who commanded the City Guard and was known for his intense religiosity and public prayer. He was approximately seventy years old when, in 1670, he summoned Edinburgh's ministers and confessed voluntarily to decades of witchcraft, sorcery, and incest with his sister Jean. His voluntary confession, delivered without apparent coercion, shocked a community that had regarded him as a pillar of godliness. The staff he habitually carried, known as 'the Major's staff,' became central to the witchcraft charges — he confessed it had been given to him by the Devil and possessed supernatural power.\n\nWeir's case represents one of the most extraordinary voluntary confessions in witchcraft history. Unlike most accused who maintained innocence or confessed only under torture, Weir seemed to seek out confession and punishment, apparently driven by religious guilt about crimes both sexual and supernatural. Edinburgh's ministers initially refused to believe his confession, so respected was he, and sent physicians to examine him for signs of mental illness. He refused to pray at his execution, reportedly saying that he had lived as a beast and would die as one, and rejected the ministrations of clergy.\n\nHis sister Jean, tried alongside him, confessed to witchcraft and also implicated their mother in fairy commerce, adding the characteristic Scottish fairy-belief dimension to what was otherwise an unusual case of aristocratic voluntary confession. Jean was hanged; Thomas was strangled and burned on April 11, 1670. Their house in the West Bow of Edinburgh became one of the city's most famous haunted sites, with his magical staff reportedly continuing to appear there after his death.",
+
+  "arrest_narrative": "Weir himself initiated the proceedings by confessing voluntarily to Edinburgh's ministers in early 1670. The ministers were initially so skeptical that they dismissed his confession as the ravings of a disturbed old man and declined to proceed. When Weir persisted and added further details, and when his sister Jean corroborated elements of his story, authorities eventually arrested both siblings and proceeded to trial.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Voluntary and detailed confession, persisted in despite disbelief from ministers",
+    "final_confession_summary": "Confessed to decades of witchcraft including receiving a magical staff from the Devil; incest with his sister Jean; transportation to Musselburgh by supernatural coach; communion with the Devil; various maleficia. Maintained his confession without recantation through trial and execution."
+  },
+
+  "accusations_against_them": [
+    "Witchcraft and sorcery",
+    "Receiving magical staff from the Devil",
+    "Incest with sister Jean Weir",
+    "Demonic compact",
+    "Transportation by supernatural means",
+    "Commerce with the Devil"
+  ],
+
+  "execution_details": {
+    "date": "1670-04-11",
+    "method": "Strangling then burning",
+    "location": "Edinburgh, between Leith and Edinburgh"
+  },
+
+  "historiographical_significance": "Weir's case poses fundamental questions about the psychology of voluntary confession in witch trials. His high social status, piety, and apparent mental competence make the 'coerced confession' model entirely inapplicable, and historians have analyzed his case variously as religious pathology, genuine guilt over incest requiring supernatural framing, or evidence that witch belief was genuinely internalized even by educated elite men. His case is a rare instance where the psychological reality of witch-belief can be examined in isolation from institutional coercion.",
+
+  "source_method": "Published in contemporary pamphlets including Satan's Invisible World Discovered (George Sinclair, 1685); Edinburgh criminal records; discussed in Levack and Clark",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "goodare-scottish-witch-hunt-2002"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

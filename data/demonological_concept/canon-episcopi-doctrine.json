@@ -1,0 +1,21 @@
+{
+  "id": "canon-episcopi-doctrine",
+  "name": "Canon Episcopi",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Medieval / Early Modern (900-1550)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The Canon Episcopi was an early medieval church canon (c. 900 CE), first appearing in Regino of Prüm's Ecclesiastical Disciplines and later incorporated into Gratian's Decretum, which declared that beliefs in night-flying women following Diana and Herodias were diabolically induced illusions — the women experienced these journeys only in imagination while their bodies slept. The Canon was significant because it placed traditional night-riding beliefs in the category of superstition rather than reality, and instructed bishops to preach against those who believed in such nocturnal journeys. For centuries it represented the official church position that witchcraft flight was impossible.",
+  "clark_intellectual_analysis": "Clark analyzes the Canon Episcopi as a foundational obstacle that later demonologists had to overcome: its authority, embedded in Gratian's Decretum (the basis of canon law), meant that asserting the physical reality of the sabbath required either reinterpreting the Canon or finding arguments to limit its scope. Institoris and other fifteenth-century demonologists accomplished this by arguing the Canon applied to a different class of women than the sabbath witches they were prosecuting, or by distinguishing between demonic illusion and demonic transportation of actual bodies.",
+  "hutton_social_analysis": "Hutton notes that the Canon Episcopi actually reflects the church's long-standing skepticism about night-flying beliefs — a skepticism that predated the demonological turn. The Canon's dismissal of such beliefs as superstition suggests that, at least in some clerical circles, the later learned assertion of flight's reality represented not the rationalization of pre-existing belief but an active transformation of the church's intellectual position. This complicates narratives of continuity between medieval and early modern witch belief.",
+  "ginzburg_interrogation_analysis": "Ginzburg treats the Canon Episcopi as evidence that night-riding beliefs were genuine folk traditions — real enough that the ninth-century church felt compelled to condemn them. The women described in the Canon — riding with Diana, traveling supernaturally at night, transforming — resemble the benandanti's spirit journeys and other folk practices Ginzburg traces across European cultures, suggesting a substrate of shamanic or ecstatic tradition underlying both the Canon's subjects and later sabbath descriptions.",
+  "regional_variations": "The Canon's authority was invoked differently across Europe: Spanish inquisitors used it to argue against the reality of sabbath experiences and maintain skepticism; German and French demonologists worked hard to circumvent it. Its influence was strongest in territories where canon law training shaped judicial procedure. In England, its authority was less directly operative in common-law courts.",
+  "scholarly_disagreement": "Scholars disagree on what the Canon Episcopi actually describes: Ginzburg sees it as evidence of genuine shamanic night-riding practices; Cohn and others argue it describes literary motifs without correspondence to actual practice; mainstream historians see it as a clerical text addressing popular superstitions of uncertain content. The relationship between the Canon's night-riding women and the later sabbath witch stereotype is a major interpretive crux.",
+  "trial_examples": [],
+  "related_concepts": ["nocturnal-flight-reality", "illusion-spectral-evidence", "night-riding-strix", "witches-sabbath-collective", "heresy-witchcraft-link"],
+  "source_method": "Regino of Prüm Ecclesiastical Disciplines; Gratian's Decretum; demonological treatises engaging Canon Episcopi; Ginzburg's analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

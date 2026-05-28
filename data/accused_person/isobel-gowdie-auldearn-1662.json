@@ -1,0 +1,46 @@
+{
+  "id": "isobel-gowdie-auldearn-1662",
+  "name": "Isobel Gowdie",
+  "status": "Executed",
+  "trial_id": "auldearn-1662-gowdie",
+  "location_id": "scotland-general",
+  "year_accused": 1662,
+  "year_executed": 1662,
+  "age_at_trial": null,
+  "social_status": "Peasant woman, wife of farmer John Gilbert",
+  "gender": "Female",
+  "biography": "Isobel Gowdie was a peasant woman from the parish of Auldearn in Nairn, Scotland, whose four voluntary confessions made between April and May 1662 constitute the most elaborate and detailed witch confession in Scottish history. Married to a farmer, John Gilbert, she came forward without apparent coercion and delivered testimony of extraordinary richness and specificity, describing shape-shifting into animals (a hare, a cat, a crow), the shooting of elf-arrows to harm people, and elaborate sabbath meetings with the Devil. Her confessions covered a thirteen-year relationship with the Devil and participation in a coven of thirteen members operating across the local landscape.\n\nGowdie's confessions occupy a unique place in the history of witchcraft belief because they appear to have been largely voluntary and show no sign of the scaffold recantations common in torture-induced confessions. She described meetings with fairies, incursions into the hill of the Fairies at Doonie Hill, and a rich interior life of supernatural engagement that blended demonological framework with older Scottish folk traditions. The narrative coherence and elaborateness of her confessions has fascinated historians ever since.\n\nWhether Gowdie was executed is not definitively established — no execution record survives — but given the period and the nature of her confessions, scholars generally assume she was put to death. Her confessions remain a foundational text for understanding Scottish witchcraft belief and the relationship between learned demonology and vernacular folk tradition.",
+  "arrest_narrative": "Gowdie came forward voluntarily to confess, which sets her case apart from virtually all other Scottish witch trials. On April 13, 1662, she appeared before the minister of Auldearn and the local laird and began delivering the first of four detailed confessions. There is no record of prior accusation, arrest warrant, or torture preceding her initial testimony. The reasons for this voluntary confession — whether psychological compulsion, religious guilt, community pressure, or some other factor — remain entirely unclear and constitute one of the most debated mysteries in Scottish witchcraft historiography.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Voluntary confession without apparent coercion",
+    "final_confession_summary": "Four detailed voluntary confessions April-May 1662 covering: pact with the Devil made in Auldearn church, shape-shifting into hare, cat, and crow, shooting elf-arrows at people on behalf of the Devil, sabbath meetings with a coven of thirteen, fairy encounters at Doonie Hill, maleficium against local people including the Laird of Park, and a thirteen-year relationship with the Devil who appeared to her regularly"
+  },
+  "accusations_against_them": [
+    "Making demonic pact in Auldearn church",
+    "Shape-shifting into hare, cat, and crow",
+    "Shooting elf-arrows to cause illness and death",
+    "Attending sabbath meetings with coven of thirteen",
+    "Maleficium against neighbors and livestock",
+    "Visiting fairy hill at Doonie Hill",
+    "Blasting crops through magical means"
+  ],
+  "execution_details": {
+    "date": null,
+    "method": "Presumed strangling then burning (no record survives)",
+    "location": "Auldearn or Nairn (presumed)"
+  },
+  "historiographical_significance": "Carlo Ginzburg analyzed Gowdie's confessions extensively in Ecstasies (1991), arguing that her accounts of night journeys, shape-shifting, and fairy encounters preserve traces of pre-Christian shamanistic traditions that existed independently of demonological frameworks imposed by inquisitors. Her case is central to debates about whether witch confessions reflect genuine folk beliefs or interrogation-induced fantasy, and about the relationship between fairy lore and witch mythology in Scottish tradition. Emma Wilby's Cunning Folk and Familiar Spirits (2005) treats Gowdie as evidence of a genuine visionary shamanic tradition.",
+  "source_method": "Original Scottish witch trial records (National Records of Scotland); published in Pitcairn's Criminal Trials in Scotland (1833); analyzed in Ginzburg's Ecstasies and Wilby's Cunning Folk",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

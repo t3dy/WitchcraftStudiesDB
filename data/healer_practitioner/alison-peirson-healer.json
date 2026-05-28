@@ -1,0 +1,49 @@
+{
+  "id": "alison-peirson-healer",
+  "name": "Alison Peirson",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "edinburgh",
+  "year_active": 1588,
+  "social_status": "Peasant woman, healer",
+  "gender": "Female",
+  "tradition": "Fairy healer",
+  "self_identification": "Healer instructed by the fairy folk and her cousin William Simpson",
+  "claimed_abilities": [
+    "Healing of sickness through fairy-derived knowledge",
+    "Treatment of high-status patients including clergy",
+    "Knowledge of herbs and remedies from fairy instruction",
+    "Communication with fairy court and dead kinsmen",
+    "Diagnosis of fairy-caused illness"
+  ],
+  "biography": "Alison Peirson of Boarhills in Fife was tried and burned on May 28, 1588, in one of the most striking of the pre-North-Berwick Scottish witch cases. Her case is notable for several reasons: the high social status of her clients (including Patrick Adamson, Archbishop of St Andrews), the detailed testimony she gave about the fairy world, and the specific claim that her healing knowledge came from her dead cousin William Simpson, who now resided with the fairy folk.\n\nPeirson's description of receiving medical instruction from a dead kinsman who had become part of the fairy court is a variant of the pattern Bessie Dunlop described with Thomas Reid — the Scottish fairy tradition frequently involved the dead as intermediaries between the living and the fairy court, which in folk belief functioned partly as a realm of the dead. This suggests a coherent cultural system linking death, fairy, and healing knowledge rather than idiosyncratic personal invention.\n\nHer treatment of Archbishop Adamson — a high churchman who privately availed himself of her services — illustrates the market for cunning-folk healing that operated at all social levels in Scotland, even as official prosecutions intensified. Adamson's willingness to be treated by Peirson coexisted with an official religious position that should have condemned her practices, a tension typical of the complex relationship between elite disapproval and popular practice in this period.",
+  "practice_description": "Alison Peirson practiced healing using knowledge she claimed to receive from the fairy folk and from her dead cousin William Simpson, who guided her from within the fairy court. She treated patients who came to her from the surrounding Fife countryside and beyond, including at least one high churchman. Her methods combined herbal remedies with the diagnostic framework of fairy-caused illness — she could identify whether sickness resulted from fairy interference and prescribe accordingly.",
+  "relationship_to_prosecution": "Tried and burned at St Andrews on May 28, 1588, on charges of witchcraft and commerce with the fairy world. Her high-status client the Archbishop of St Andrews was not prosecuted, illustrating the selective enforcement typical of Scottish witch prosecution. Her own refusal to accept diabolic reframing of her fairy contacts — or her inability to provide such a reframing convincingly — contributed to her conviction.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "fairy folk (the good neighbors)",
+      "the court of Elfhame",
+      "cousin William Simpson (dead kinsman in fairy court)",
+      "fairy-derived healing knowledge",
+      "the green mantle (fairy world marker)"
+    ],
+    "inquisitor_categories": [
+      "diabolical compact",
+      "commerce with demons",
+      "witch",
+      "renunciation of Christian faith"
+    ]
+  },
+  "hutton_analysis": "Hutton presents Alison Peirson's case as one of the clearest examples of the Scottish fairy-healer type: a practitioner who operated within a coherent folk-belief system that located healing knowledge in the fairy world and among the dead, served clients at multiple social levels, and was ultimately destroyed by the witch-trial apparatus despite — or because of — her genuine integration into community life.",
+  "ginzburg_analysis": "For Ginzburg, Peirson's claim to receive knowledge from a dead kinsman within the fairy world connects to the widespread European pattern of shamanic practitioners who gain power through contact with the realm of the dead. The Scottish fairy court, functioning partly as an otherworld of the dead, is a regional variant of the broader pattern Ginzburg traces from Siberia to Celtic Europe.",
+  "historiographical_significance": "Alison Peirson's case is significant for the detailed testimony it preserves about Scottish fairy-belief and the cunning-healer tradition. The involvement of Archbishop Adamson as her client illustrates the gap between elite public condemnation and private use of cunning-folk services — a gap essential to understanding how these practitioners survived and why prosecution was selective.",
+  "source_method": "Published Scottish trial records; Pitcairn's Criminal Trials of Scotland (1833); Hutton's The Witch (2017); Emma Wilby's Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

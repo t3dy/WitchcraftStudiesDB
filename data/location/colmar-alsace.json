@@ -1,0 +1,61 @@
+{
+  "id": "colmar-alsace",
+  "name": "Colmar (Alsace)",
+  "type": "City",
+  "region": "Central Europe / Holy Roman Empire (Alsace)",
+  "modern_location": "Alsace, France (Haut-Rhin département)",
+  "coordinates": {
+    "latitude": 48.081,
+    "longitude": 7.359
+  },
+
+  "administrative_context": "Colmar was a Free Imperial City of the Holy Roman Empire in the province of Alsace. As a Free Imperial City under Imperial subjection, it had its own judicial authority. The region was a mixture of Catholic and Protestant territories under Imperial sovereignty. The 1571-1597 persecution in Colmar and surrounding Alsatian territories occurred within this complex jurisdictional landscape.",
+
+  "witchcraft_trials_significance": "Colmar and the Alsatian region experienced sustained witch prosecution from approximately 1571 to 1597, making it one of the longer-running regional persecutions in the Empire. The Colmar cases are significant for occurring in a mixed Catholic-Protestant environment and for the detailed records maintained by the city. The Colmar court records have been analyzed as evidence for the social dynamics of prosecution in an Imperial city context, differing from the ecclesiastical state models of Bamberg and Würzburg.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Colmar city council and courts",
+      "role": "Municipal judicial authority",
+      "contribution_to_trials": "Conducted witch prosecutions under Imperial city jurisdiction over an extended period"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1571": "Witch prosecution begins in Colmar",
+    "1570s_1580s": "Sustained prosecution in the city and surrounding region",
+    "1590s": "Continued cases",
+    "1597": "Later documented Alsatian prosecutions"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Colmar and the surrounding Alsatian hinterland",
+    "social_reach": "Urban and rural communities within the region",
+    "gender_distribution": "Predominantly female among accused",
+    "mortality_impact": "Multiple executions across the extended prosecution period; precise totals from Colmar archives"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "The Alsatian prosecutions illustrate the operation of witch prosecution in the complex borderland between France and the Empire, where Lutheran, Calvinist, and Catholic jurisdictions existed in close proximity and where the learned demonological tradition circulated across confessional boundaries.",
+    "hutton_perspective": "Hutton situates Alsace within the broader pattern of Rhine-region prosecution, noting how the geographic clustering of persecutions in the Rhine valley—from Colmar through Trier to the Rhineland territories—reflects regional judicial networks and communication rather than independent local developments.",
+    "ginzburg_perspective": "Alsatian trial records, in their confessional narratives, reflect both the learned sabbath template and regional folk belief traditions specific to the Rhine-Alsace cultural zone."
+  },
+
+  "legacy_and_historiographical_importance": "Colmar's witch trials are analyzed in the standard surveys of German witch prosecution and in studies of Alsatian history. The region's political transformation (cession to France under the 1648 Treaty of Westphalia) provides a context for comparing prosecution under Imperial and French jurisdictions.",
+
+  "primary_sources": "Colmar city council records; Alsace regional archives; analyzed in standard German witch hunt surveys",
+
+  "source_method": "Published scholarship (Behringer, Levack), Colmar municipal archives",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

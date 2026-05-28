@@ -1,0 +1,21 @@
+{
+  "id": "heresy-witchcraft-link",
+  "name": "Heresy-Witchcraft Link",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The heresy-witchcraft link refers to the analytical concept describing how witchcraft was legally and theologically absorbed into the category of heresy through inquisitorial expansion in the fourteenth and fifteenth centuries. Prior to this development, maleficium (harmful sorcery) was prosecuted primarily as a secular crime; the inquisitorial campaign against Cathar and Waldensian heresy provided legal procedures, theological frameworks, and institutional infrastructure that were subsequently applied to witchcraft prosecution. Papal bulls including John XXII's Super illius specula (1326) and Innocent VIII's Summis desiderantes affectibus (1484) formalized the link. This assimilation meant that witchcraft accusations carried the full theological weight of apostasy and heresy, justifying inquisitorial procedures including torture.",
+  "clark_intellectual_analysis": "Clark frames the heresy-witchcraft link as an intellectual transformation as much as a legal one: once demonologists established that witchcraft necessarily involved a pact with the devil, it became definitionally heretical — a deliberate rejection of God in favor of Satan. This theological logic was coherent within scholastic premises and followed necessarily from Augustinian and Thomistic frameworks about demonic agency. The link was not merely opportunistic juridical expansion but the product of sustained theological reasoning.",
+  "hutton_social_analysis": "Hutton emphasizes that the assimilation of witchcraft to heresy transformed prosecution patterns dramatically, enabling the use of inquisitorial procedure with its systematic torture and denunciation-chain dynamics. Before the heresy link was established, witchcraft prosecutions were relatively rare and often ended in acquittal; after, they could expand into mass prosecutions. The institutional machinery of heresy prosecution, applied to witchcraft, was a precondition for the large-scale hunts.",
+  "ginzburg_interrogation_analysis": "Ginzburg situates the heresy-witchcraft link as a key moment in the transformation of local folk magic beliefs into the learned sabbath stereotype. Inquisitors trained in anti-heresy procedure brought specific theological expectations about collective devil-worship to investigations of local cunning folk and healers, and their leading questions gradually imposed the heresy framework onto very different folk traditions. This is a central thesis of Ginzburg's work on the benandanti.",
+  "regional_variations": "The heresy link was strongest in territories under papal inquisitorial jurisdiction: southern France, northern Italy, the Alpine regions. In England, witchcraft remained primarily a secular crime with limited heresy framing even after the Reformation; the 1542, 1563, and 1604 Witchcraft Acts prosecuted maleficium, not apostasy. Scotland showed more theological framing in indictments due to Presbyterian influence. Spanish and Portuguese inquisitions paradoxically showed more skepticism about witchcraft despite the heresy framework.",
+  "scholarly_disagreement": "Scholars debate the causal weight of the heresy-witchcraft link relative to other factors driving prosecution. Kieckhefer argues that maleficium prosecution was the primary driver and the heresy link was secondary; others hold the inquisitorial procedure was the crucial institutional enabler. Cohn's Europe's Inner Demons argued for conscious clerical fabrication of the sabbath stereotype, which most scholars now reject in favor of gradual accretion.",
+  "trial_examples": ["arras-1459-waldensian"],
+  "related_concepts": ["apostasy-renunciation", "inquisitorial-procedure", "demonic-pact-early-modern", "crimen-exceptum-doctrine", "malleus-doctrine-system"],
+  "source_method": "Papal bulls; inquisitorial manuals; canon law; secondary scholarship on inquisition history",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

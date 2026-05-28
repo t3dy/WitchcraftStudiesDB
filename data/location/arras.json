@@ -1,0 +1,67 @@
+{
+  "id": "arras",
+  "name": "Arras (Artois)",
+  "type": "City",
+  "region": "Northern France / Low Countries borderland",
+  "modern_location": "Pas-de-Calais, France",
+  "coordinates": {
+    "latitude": 50.292,
+    "longitude": 2.778
+  },
+
+  "administrative_context": "Arras was the capital of Artois, at the time subject to the Duchy of Burgundy (under Philip the Good). As a major urban center in the Burgundian Low Countries, it had both secular ducal courts and ecclesiastical inquisitorial authority. The 1459-1461 prosecution occurred under both secular and inquisitorial jurisdiction.",
+
+  "witchcraft_trials_significance": "The Vauderie d'Arras of 1459-1461 is one of the earliest documented large-scale sabbath-based witch prosecutions, predating the Malleus Maleficarum (1487) by nearly three decades. The name 'Vauderie' (from Vaudois, associating the accused with the Waldensian heresy) reflects the heresy-prosecution model that shaped the early witch trial template. The Arras prosecution targeted persons of middling and even elevated social status including jongleurs, prostitutes, and eventually wealthy citizens. Philip the Good's court became alarmed as accusations reached powerful figures, and the prosecution was eventually halted. A posthumous rehabilitation of the victims occurred in 1491.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Jacques du Bois",
+      "role": "Inquisitor",
+      "contribution_to_trials": "Initiated the Vauderie prosecutions; extracted confessions to sabbath attendance and diabolical pact"
+    },
+    {
+      "name": "Philip the Good",
+      "role": "Duke of Burgundy",
+      "contribution_to_trials": "Initially permitted prosecution; became alarmed as accusations spread to prominent persons; allowed it to wind down"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1459": "Vauderie d'Arras begins; initial arrests of suspected Vaudois/witches",
+    "1460": "Prosecutions expand; sabbath confessions extracted; some prominent figures accused",
+    "1461": "Prosecution halted as accusations threaten powerful interests",
+    "1491": "Posthumous rehabilitation of the Arras victims by the Paris Parlement"
+  },
+
+  "affected_population": {
+    "geographic_extent": "City of Arras and surrounding Artois",
+    "social_reach": "Unusually broad social range for an early case: jongleurs, prostitutes, painters, and wealthy citizens all accused",
+    "gender_distribution": "Mixed; the Arras case accused both men and women at unusually equal rates for an early prosecution",
+    "mortality_impact": "Several burned; total uncertain; the 1491 rehabilitation acknowledged unjust convictions"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the Vauderie d'Arras within the formation of the witch trial template: the 'Vauderie' terminology directly connects it to the heresy-prosecution model, and the sabbath confessions from Arras belong to the early crystallization of the composite witch concept that would later be codified in the Malleus.",
+    "hutton_perspective": "Hutton analyzes Arras within the pattern of early witch prosecutions driven by ecclesiastical and secular authority rather than popular accusation: the Vauderie was an official initiative that drew on anti-Waldensian heresy prosecution models and expanded into witch prosecution as a new conceptual category was formed.",
+    "ginzburg_perspective": "Ginzburg situates early prosecutions like the Vauderie d'Arras within the broader transformation of European prosecution in the 15th century, when the older models of individual maleficium and heresy sect were fused into the new composite witch concept whose origin he traces to the Alpine region."
+  },
+
+  "legacy_and_historiographical_importance": "The Vauderie d'Arras has been analyzed by Franck Mercier in La Vauderie d'Arras (2006) and is treated in the standard surveys as an important early case. The 1491 rehabilitation is one of the earliest formal acknowledgments of unjust witch trial convictions.",
+
+  "primary_sources": "Arras ecclesiastical and ducal court records; analyzed in Mercier, La Vauderie d'Arras (2006); Levack and Kieckhefer in broader surveys",
+
+  "source_method": "Published scholarship (Mercier, Kieckhefer, Levack), court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "calef-more-wonders-1700",
+  "title": "More Wonders of the Invisible World",
+  "author": "Robert Calef",
+  "author_id": null,
+  "year_published": 1700,
+  "language": "English",
+  "type": "SKEPTICAL_TREATISE",
+  "publisher_original": "Nath. Hillar and Joseph Collyer, London, 1700",
+  "modern_edition": "Included in Lincoln, Charles H., ed., Narratives of the Witchcraft Cases 1648-1706 (1914); reprinted separately",
+  "significance": "Devastating contemporary attack on Cotton Mather and the Salem prosecutions; the title directly challenges Mather's defense; Mather's supporters burned it; helped end the Salem era and discredit ministerial involvement in witch prosecution.",
+  "summary": "Calef, a Boston merchant, composed More Wonders as a direct rebuttal of Cotton Mather's defense of Salem and a critique of ministerial complicity in the prosecutions. He includes correspondence with Mather, account of the Salem trials, and sustained attack on the theological arguments used to justify conviction. The title deliberately echoes Mather's Wonders of the Invisible World in a polemical reversal. Cotton Mather's supporters, reportedly including his father Increase Mather, arranged for copies to be burned in Harvard Yard. The work circulated despite suppression and contributed significantly to discrediting both Salem and ministerial influence on judicial proceedings.",
+  "clark_analysis": "Clark contextualizes Calef's polemic within the late-seventeenth-century collapse of the intellectual consensus supporting witch prosecution; More Wonders is less an argument than a symptom of the collapse — Calef could write as he did because the cultural ground had shifted sufficiently that ministerial authority was no longer insulated from lay critique.",
+  "hutton_analysis": "Hutton values Calef's account as a near-contemporary source for Salem dynamics; while polemically motivated, Calef's specific claims about the trials and Mather's behavior provide evidence that supplements the trial records.",
+  "ginzburg_analysis": "Ginzburg notes the Salem episode as unusually well-documented — the trial records combined with contemporary accounts like Calef's provide a richer evidentiary base for reconstruction than most European cases. This documentation reveals the cascade mechanism operating with particular clarity.",
+  "key_arguments": [
+    "The Salem prosecution was a judicial travesty that executed innocent people",
+    "Cotton Mather and other ministers bore significant responsibility for the prosecutions",
+    "Spectral evidence was inherently unreliable and should never have been admitted",
+    "Ministerial authority over judicial proceedings is dangerous and should be checked",
+    "The Salem executions will be a historical scandal as long as they are remembered"
+  ],
+  "influence_on_prosecutions": "Calef's work contributed to the complete discrediting of Salem in American memory and to the end of formal witch prosecution in the American colonies. It played a role in marginalizing Cotton Mather politically and intellectually.",
+  "related_texts": ["mather-wonders-invisible-world-1693", "hale-modest-inquiry-1702", "hutchinson-historical-essay-1718"],
+  "related_trials": ["salem-1692-mass-prosecution"],
+  "scholarly_disagreement": "The accuracy of Calef's specific charges against Mather is disputed by scholars sympathetic to Mather; some argue Calef misrepresented Mather's actual role in the prosecution. The degree to which Calef's polemic was motivated by personal hostility versus principled opposition to the prosecutions is debated.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

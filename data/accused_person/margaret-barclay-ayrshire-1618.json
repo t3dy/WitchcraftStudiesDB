@@ -1,0 +1,47 @@
+{
+  "id": "margaret-barclay-ayrshire-1618",
+  "name": "Margaret Barclay",
+  "status": "Executed",
+  "trial_id": "ayrshire-1618-barclay",
+  "location_id": "scotland-general",
+  "year_accused": 1618,
+  "year_executed": 1618,
+  "age_at_trial": null,
+  "social_status": "Burgess wife, Irvine, Ayrshire",
+  "gender": "Female",
+  "biography": "Margaret Barclay was the wife of Archibald Dein, a burgess of Irvine in Ayrshire, who became embroiled in witch prosecution through a personal dispute with her brother-in-law John Dein and his wife. The origins of her case lay in a quarrel with these relatives, after which she allegedly made a wax image of a ship and caused it to sink — with John Dein and the Provost of Irvine aboard — through sympathetic magic. Her case illustrates how personal disputes and community quarrels could provide the spark for witchcraft accusations that then took on a prosecutorial momentum of their own.\n\nThe evidence against Barclay included testimony about the clay or wax figure she had made, which witnesses claimed to have seen, and later confessions extracted under torture that described her meetings with a spirit or devil in the form of a black dog. She had accomplices in the alleged murder-by-magic, including John Reid, a pedlar who had helped make the image. The supposed evidence of the ship's wreck — an actual vessel did sink — provided the material grounding for charges that might otherwise have been harder to prosecute.\n\nHer case shows the classic trajectory of Scottish witch prosecution: a community dispute generates an accusation, the accusation triggers investigation and torture, torture produces a confession that names accomplices, and the expanding circle of accused draws in further individuals. John Reid, named as an accomplice, strangled himself in prison before trial, which contemporaries took as evidence of guilt. Margaret Barclay was strangled and burned in 1618.",
+  "arrest_narrative": "Barclay was arrested following accusations that she had practiced maleficium against a ship carrying her brother-in-law John Dein and the Provost of Irvine. The ship did in fact sink, providing apparent material evidence for the charges. She was brought before local commissioners and subjected to torture.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "iron bars placed on legs (crushing)",
+      "unspecified additional torture"
+    ],
+    "initial_response": "Denial",
+    "final_confession_summary": "Confessed under torture to making a clay image of a ship and persons aboard with intent to sink it; meeting with a spirit in the form of a black dog who helped work the magic; naming John Reid as accomplice; described ritual actions to cause the ship's wreck"
+  },
+  "accusations_against_them": [
+    "Making clay image of ship to sink it through sympathetic magic",
+    "Causing death of persons aboard sunken ship",
+    "Demonic compact with spirit in form of black dog",
+    "Maleficium resulting in deaths",
+    "Conspiracy with John Reid in witchcraft"
+  ],
+  "execution_details": {
+    "date": "1618",
+    "method": "Strangling then burning",
+    "location": "Irvine, Ayrshire"
+  },
+  "historiographical_significance": "Barclay's case is well-documented in Scottish records and has been used by historians including Julian Goodare to analyze the relationship between personal disputes and witch prosecution, and the role of physical evidence (the actual ship wreck) in making witchcraft charges credible. Her case also illustrates the chain-reaction dynamics of Scottish witch prosecution, where one accused inevitably named others, and where the death of an accused before trial (John Reid's suicide) was interpreted as confirmation of guilt.",
+  "source_method": "Published in Pitcairn's Criminal Trials in Scotland (1833); analyzed in Goodare's Scottish Witch-Hunt in Context (2002); discussed in Levack",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "goodare-scottish-witch-hunt-2002"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

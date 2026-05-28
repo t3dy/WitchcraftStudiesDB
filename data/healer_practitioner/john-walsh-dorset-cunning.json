@@ -1,0 +1,47 @@
+{
+  "id": "john-walsh-dorset-cunning",
+  "name": "John Walsh",
+  "status": "Survived; Released",
+  "trial_id": null,
+  "location_id": "essex-county",
+  "year_active": 1566,
+  "social_status": "Working man, local cunning practitioner",
+  "gender": "Male",
+  "tradition": "Cunning Man",
+  "self_identification": "One who can tell if a man be bewitched",
+  "claimed_abilities": [
+    "Identification of bewitched persons and their afflictions",
+    "Diagnosis of maleficium",
+    "Location of lost and stolen goods",
+    "Use of a familiar spirit (described as a spirit in the shape of a man) to gather information",
+    "Knowledge of healing remedies"
+  ],
+  "biography": "John Walsh of Dorset was examined by the Bishop of Exeter in 1566, and the record of his examination — printed the same year as The Examination of John Walsh — provides one of the fullest early accounts of English cunning-man practice. Walsh is a key figure in Keith Thomas's Religion and the Decline of Magic (1971), which uses his case to illustrate the range of services provided by cunning practitioners in Tudor England.\n\nWalsh claimed to have received his cunning from his former master, a man named James Donnington, who had died and from whom Walsh had inherited knowledge, a book, and ultimately his familiar spirit. This inheritance of magical knowledge and equipment from a deceased practitioner is a pattern Thomas documents across multiple cases — the suggestion that cunning practice could be transmitted through quasi-professional succession.\n\nWalsh used a familiar spirit — which he described in terms that overlapped with both the fairy tradition and the diabolic familiar of later witch-trial discourse — to gather information about bewitchment, lost goods, and other matters. He distinguished his own activities carefully from those of witches, insisting that he identified and countered bewitchment rather than causing it. This self-identification as a counter-agent, rather than a perpetrator, of maleficium is characteristic of cunning folk across England.",
+  "practice_description": "John Walsh offered a range of services typical of English cunning men: identifying whether a person was bewitched and by whom, locating lost or stolen goods, providing remedies for those suffering from supernatural affliction. He used a familiar spirit as an information-gathering tool and distinguished this sharply from the diabolic familiars he understood witches to possess. His examination provides detailed accounts of methods including the use of the familiar at crossroads at specific times and his consultation of a book of magical knowledge.",
+  "relationship_to_prosecution": "Examined by the Bishop of Exeter in 1566 in what appears to have been an inquiry into his practices rather than a full criminal prosecution. The examination record was printed shortly after as a pamphlet — suggesting public interest in the case and in the practices it described — but Walsh was not executed, surviving the encounter with ecclesiastical authority.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "cunning man",
+      "telling if a man be bewitched",
+      "familiar spirit (as information-gatherer)",
+      "counter against witchcraft"
+    ],
+    "inquisitor_categories": [
+      "commerce with evil spirits",
+      "familiar spirit (demonic)",
+      "witch practices"
+    ]
+  },
+  "hutton_analysis": "Hutton situates Walsh within the broader English cunning-folk tradition, emphasizing his clear self-identification as a counter-agent against witchcraft rather than a witch himself. Walsh's case illustrates how cunning practitioners understood their role as serving community needs for supernatural protection and information-gathering — a role that was socially valued even as it became legally vulnerable.",
+  "ginzburg_analysis": "Ginzburg's framework would read Walsh's familiar spirit — described as a spirit in human form encountered at crossroads — as a variant of the spirit-contact pattern he traces across European traditions, with the English familiar representing a regional adaptation of the shamanic-contact motif rather than a purely diabolic construct.",
+  "historiographical_significance": "John Walsh is one of Keith Thomas's key case studies in Religion and the Decline of Magic, providing the clearest early Elizabethan account of male cunning-man practice in England. The printed record of his examination is a major primary source for the history of English folk magic, and Walsh's case establishes the range of services, methods, and self-understanding characteristic of the cunning-man tradition.",
+  "source_method": "The Examination of John Walsh (1566, printed pamphlet); Keith Thomas's Religion and the Decline of Magic (1971); Hutton's The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

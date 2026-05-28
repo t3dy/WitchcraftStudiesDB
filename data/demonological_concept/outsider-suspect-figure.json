@@ -1,0 +1,21 @@
+{
+  "id": "outsider-suspect-figure",
+  "name": "Outsider as Suspect: Social Marginality and Risk",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "Social marginality — poverty, widowhood, social isolation, ethnic difference, religious minority status, recent immigration — has been identified as a significant risk factor for witchcraft accusation. Persons without strong community advocacy networks were more vulnerable to sustained accusation because fewer people would speak in their defense, and they were less able to mobilize social resources to resist prosecution. However, historians have consistently noted that marginality was neither necessary nor sufficient for accusation: well-integrated community members could be accused, particularly during panic phases when denunciation chains spread to elite and respectable persons. The outsider thesis is thus a partial rather than complete explanatory model.",
+  "clark_intellectual_analysis": "Clark approaches marginality as a social-historical factor that operates alongside but separately from the intellectual framework of witch belief. He does not deny that marginal persons were more vulnerable, but insists that understanding why witchcraft accusations were credible requires attending to the theological and philosophical framework that made any accusation thinkable, regardless of the social position of the accused.",
+  "hutton_social_analysis": "Hutton integrates marginality into his social analysis as one among several risk factors: widowed women, the poor, the cantankerous, those with reputations for troublemaking, those who practiced healing magic — each of these characteristics added vulnerability. However, he emphasizes that the relationship between marginality and prosecution was mediated by specific community dynamics and that panic phases disrupted the predictive value of marginality as a risk factor.",
+  "ginzburg_interrogation_analysis": "Ginzburg's benandanti were not obviously marginal persons — they were community specialists with recognized roles. Their prosecution illustrates that marginality was not a prerequisite for accusation; what mattered was the presence of unusual practices or beliefs that could be made to fit the demonological template under interrogation. This complicates simple marginality models.",
+  "regional_variations": "The role of marginality varied significantly: in England, the charity-refused mechanism connected accusation specifically to poor, dependent women; in Germany, mass panics spread far beyond the marginal to target mayors, aristocrats, and judges; in Scotland, political targets were sometimes accused; in France (Lorraine), Briggs found that many accused were relatively well-integrated community members rather than outsiders.",
+  "scholarly_disagreement": "The relationship between marginality and accusation is one of the most debated questions in the historiography. Macfarlane and Thomas emphasized marginality; Briggs qualified it significantly; Behringer and others note that panic phases refuted simple marginality models. Whether marginality was a cause or merely a correlate of accusation vulnerability remains contested.",
+  "trial_examples": [],
+  "related_concepts": ["scapegoat-social-function", "charity-refused-mechanism", "community-disruption-model", "reputation-accumulation", "old-woman-witch-stereotype"],
+  "source_method": "Macfarlane Witchcraft in Tudor and Stuart England; Briggs Witches and Neighbors; Hutton The Witch; regional prosecution statistics and demographic analysis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

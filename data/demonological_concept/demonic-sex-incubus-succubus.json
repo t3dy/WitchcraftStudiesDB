@@ -1,0 +1,21 @@
+{
+  "id": "demonic-sex-incubus-succubus",
+  "name": "Demonic Sexual Intercourse: Incubus and Succubus",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Europe-Wide",
+  "scholarly_definition": "The incubus (demon lying upon a woman) and succubus (demon lying beneath a man) were theological constructs describing demons who engaged in sexual intercourse with humans. Early modern demonologists considered this a central component of the diabolic pact: witches surrendered their bodies as well as their souls, and sexual intercourse with the devil sealed the compact. Theologians debated the mechanics extensively — since demons lacked physical bodies, they were thought to assume bodily forms, or alternatively to collect semen from men (as succubus) and deposit it in women (as incubus). The coldness of demonic semen was frequently remarked in confessions and taken as corroborating evidence.",
+  "clark_intellectual_analysis": "Clark analyzes demonic sex as an intellectually serious theological problem: how could an incorporeal being engage in physical intercourse? The answers generated elaborate theories of assumed bodies, collected semen, and preternatural generation. The concept functioned within demonological discourse to emphasize the total degradation of the witch — surrendering not merely loyalty but physical intimacy to Satan — and to mark the inversion of proper sexual and spiritual order that the sabbath represented.",
+  "hutton_social_analysis": "Hutton notes that confessions of sexual intercourse with the devil appear frequently in trial records but vary markedly by region in their specifics. Some scholars have connected these confessions to genuine hypnagogic or dream experiences; others see them as products of leading interrogation. The frequency with which accused women (and sometimes men) described demonic sexual encounters suggests either widespread genuine belief in such experiences or systematic interrogational pressure, or both in different proportions by region.",
+  "ginzburg_interrogation_analysis": "Ginzburg points to the demonic sex motif as a classic example of how inquisitorial questioning imposed learned demonological categories onto folk experience. Accused persons rarely volunteered descriptions of sexual intercourse with the devil without prompting; when they did, the descriptions often had culturally specific details inconsistent with the learned framework (e.g., the devil as a familiar neighbor rather than a terrifying supernatural being). Interrogation pressure smoothed these details into the expected pattern.",
+  "regional_variations": "French and German trial records contain particularly rich descriptions of demonic sex; Scottish confessions (notably the North Berwick trials) include explicit descriptions of intercourse with the devil. English trial records contain fewer such descriptions, consistent with the different legal procedure that did not systematically press for sabbath confessions. Italian benandanti confessions show distinctive patterns that Ginzburg analyzes as incompletely transformed folk material.",
+  "scholarly_disagreement": "Debate exists on whether the demonic sex motif reflects genuine popular belief in spirit possession and supernatural sexual encounters, or whether it is primarily an elite theological imposition. Roper's psychoanalytic approach to witch confessions suggests that some accused women were confessing to psychologically real experiences of sexual contact with demonic figures in their unconscious lives.",
+  "trial_examples": ["north-berwick-1590-trials"],
+  "related_concepts": ["demonic-pact-early-modern", "witches-sabbath-collective", "demonic-agency-theological", "gender-female-susceptibility", "malleus-doctrine-system"],
+  "source_method": "Theological treatises; trial records; demonological manuals (Malleus Maleficarum); Roper's gender history",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

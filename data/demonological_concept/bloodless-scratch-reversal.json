@@ -1,0 +1,21 @@
+{
+  "id": "bloodless-scratch-reversal",
+  "name": "Bloodless Scratch: English Folk Counter-Magic Reversal",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "England",
+  "scholarly_definition": "The practice of scratching a suspected witch — drawing blood from her face or arms — was a widespread English folk counter-magic technique believed to reverse the witch's power over her victim. The theory held that the witch's harmful magical influence was transmitted through her bodily constitution and could be broken by drawing blood from her, disrupting the magical sympathy between her and the afflicted person. The term 'bloodless scratch' in this context refers to accusations that a suspect had physically marked or scratched the victim as part of the bewitchment, or alternatively to the counter-practice of scratching the witch. English pamphlet literature and court records document both forms.",
+  "clark_intellectual_analysis": "Clark notes that scratching reflects the same underlying theory of sympathetic material connection that operated in witch bottle construction and other counter-magic: physical intervention in the material person of the witch could disrupt the magical connection to the victim. This logic was coherent within the folk cosmological framework, even as it sat uneasily with learned theological accounts of how witchcraft worked.",
+  "hutton_social_analysis": "Hutton documents scratching as a community-level counter-magic practice that was used by individuals and sometimes recommended by cunning folk. The practice was dangerous for suspected witches, since it exposed them to physical violence from accusers who believed scratching would test or reverse bewitchment. Cases of violence against suspected witches under this rationale appear in English legal records. The practice illustrates how folk belief could translate into direct community action against suspected persons outside formal legal channels.",
+  "ginzburg_interrogation_analysis": "Ginzburg would situate scratching within the folk magical belief that bodily contact and bodily materials could create or break harmful connections between persons. The practice reflects a material theory of magical causation that was embedded in folk practice across European cultures, even if its specific forms varied by region.",
+  "regional_variations": "Scratching as counter-magic was specifically English. Related practices of bleeding a witch to break her power appear in German contexts but are documented less systematically. Scottish records mention some similar practices. The specific 'bloodless scratch' motif — where the apparent absence of blood when a witch was scratched was taken as evidence of her magical nature — appears in some English accounts as a diagnostic rather than therapeutic technique.",
+  "scholarly_disagreement": "Whether the scratching practice was primarily therapeutic (believed to break bewitchment) or diagnostic (believed to identify witches by their abnormal response to scratching) is ambiguous in the sources, and the two functions may have coexisted. The extent to which scratching-related violence against suspected witches was prosecuted and how courts treated it has not been systematically studied.",
+  "trial_examples": [],
+  "related_concepts": ["protective-magic-counter", "witch-bottle-counter-magic", "maleficium-concept", "cunning-folk-services", "witch-mark-malefic"],
+  "source_method": "English pamphlet literature; assize and quarter sessions records; Thomas Religion and the Decline of Magic; Hutton The Witch",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

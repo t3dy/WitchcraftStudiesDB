@@ -1,0 +1,45 @@
+{
+  "id": "menichino-della-nota-friuli-1618",
+  "name": "Menichino della Nota",
+  "status": "Executed",
+  "trial_id": "friuli-benandanti-1580-second",
+  "location_id": "friuli",
+  "year_accused": 1618,
+  "year_executed": 1618,
+  "age_at_trial": null,
+  "social_status": "Peasant farmer, Cividale del Friuli, Friuli region",
+  "gender": "Male",
+  "biography": "Menichino della Nota was a peasant from Cividale del Friuli who identified himself as a benandante — one of those born with a caul (amniotic membrane) who claimed to leave their bodies in spirit form during the Ember Days to battle witches for the fertility of the crops. He was investigated by the Venetian Inquisition in 1618, decades after the earliest benandante cases, and his interrogation records form part of the corpus that Carlo Ginzburg analyzed in Night Battles (1966) and Ecstasies (1991).\n\nMenichino's confessions describe elaborate nocturnal battles in which the benandanti, armed with fennel stalks, fought against witches armed with sorghum stalks. The outcome of these battles determined whether the harvest would be good or poor that year. His account includes striking details about the spiritual journey — leaving his body behind while his spirit traveled, returning before dawn, and the exhaustion that followed. He insisted that the benandanti fought on behalf of the community for the common good, a claim that positioned him as a beneficial figure rather than a harmful one.\n\nGinzburg's analysis of Menichino and other benandanti cases argues that beneath the surface of these confessions lies evidence of a pre-Christian shamanistic complex in which specially marked individuals served as spiritual protectors of their communities through ecstatic battle. Over the course of multiple inquisitorial interrogations spanning decades, Ginzburg traced the gradual transformation of benandante self-identification toward the standard demonological framework of witch sabbath, as inquisitors' questions and expectations slowly reshaped the suspects' understanding of their own experiences.",
+  "arrest_narrative": "Menichino was brought before the Venetian Inquisition in 1618 following denunciation for claiming benandante identity and describing nocturnal spirit battles. The Inquisition had been investigating benandante claims since the 1570s and was by this period better prepared to interpret such claims within its framework of diabolical heresy.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "unspecified — Inquisition procedure"
+    ],
+    "initial_response": "Claimed benandante identity — fought witches for the crops on behalf of the community",
+    "final_confession_summary": "Described elaborate nocturnal battles with fennel stalks against witches armed with sorghum; benandante assembly at specific times (Ember Days); spiritual journey leaving body behind; gradually, under repeated questioning, elements of standard sabbath framework appeared in his testimony"
+  },
+  "accusations_against_them": [
+    "Heresy (claiming supernatural night journeys)",
+    "Attendance at suspected diabolical gatherings",
+    "Practicing illicit arts connected to benandante identity",
+    "Commerce with spirits"
+  ],
+  "execution_details": {
+    "date": "1618",
+    "method": "Execution method not definitively established in sources",
+    "location": "Cividale del Friuli or Udine"
+  },
+  "historiographical_significance": "Menichino is one of Ginzburg's key subjects in his argument about the transformation of folk identity under inquisitorial pressure. His case is central to Ginzburg's thesis in Night Battles and Ecstasies that benandante belief represents a survival of archaic shamanism in early modern form, and that the Inquisition's questioning gradually converted this self-understanding into the standard witch-sabbath framework. His case is widely cited in discussions of how interrogation shapes rather than merely records confession.",
+  "source_method": "Venetian Inquisition records (Archivio della Curia Arcivescovile di Udine); published and analyzed in Carlo Ginzburg's I Benandanti (Night Battles, 1966) and Ecstasies (1991)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-1987"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

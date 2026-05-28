@@ -1,0 +1,64 @@
+{
+  "id": "bury-st-edmunds-1645-trials",
+  "name": "Bury St Edmunds Witch Trials 1645",
+  "location_id": "bury-st-edmunds",
+  "year_start": 1645,
+  "year_end": 1645,
+  "alleged_accused_count": 40,
+  "executed_count": 18,
+  "regional_context": "Bury St Edmunds, Suffolk, Kingdom of England; height of Matthew Hopkins's witch-finding campaign; Civil War context with Parliamentary authority in East Anglia",
+
+  "summary": "The 1645 Bury St Edmunds assize was among the most deadly single proceedings in Matthew Hopkins's East Anglian witch-hunting campaign, resulting in approximately 18 executions from a single assize session. Hopkins and his associate John Stearne had been operating across Essex and Suffolk for months, using swimming tests and sleep deprivation to produce confessions. The Reverend John Lowes, an elderly minister from Brandeston, was among the most prominent victims — forced to confess after being kept awake for nights on end, he was executed despite efforts by parishioners to intervene. Hopkins's systematic methods produced confessions through sleep deprivation rather than the Continental strappado, but the effect — broken resistance and compliant testimony — was functionally equivalent.",
+
+  "historiographical_significance": "Matthew Hopkins's campaign of 1645-1647 is the most lethal episode in English witch-hunting history, executing more people than the previous century of English prosecution combined. Malcolm Gaskill's biography of Hopkins (*Witchfinders*, 2005) analyzes the campaign in the context of Civil War religious and social crisis: the collapse of ecclesiastical authority, the spiritual anxiety of Calvinist East Anglia, and the power vacuum created by civil conflict all contributed to enabling Hopkins's unprecedented scope. The 1645 Bury St Edmunds assize illustrates how assize courts could become mechanisms of mass execution when provided with large numbers of pre-broken accused whose confessions already matched the prosecutorial framework.",
+
+  "demonological_framework": [
+    "familiar-spirit-animal",
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Matthew Hopkins (self-styled Witchfinder General); Parliamentary county committees in Suffolk",
+    "prosecuting_officials": "Matthew Hopkins and John Stearne (witch-finders); assize judges at Bury St Edmunds",
+    "procedure": "Sleep deprivation ('waking'); swimming test (ordeal by water); watching for familiars; confessions used as primary evidence; jury trial at assizes",
+    "torture_methods": ["sleep deprivation (waking watch)", "swimming test", "forced walking to prevent sleep"],
+    "trial_phases": [
+      {
+        "phase": "Hopkins's investigation and pre-trial torture (spring-summer 1645)",
+        "context": "Hopkins and Stearne conduct investigations across Suffolk; suspects subjected to sleep deprivation; confessions obtained"
+      },
+      {
+        "phase": "Bury St Edmunds assize (August 1645)",
+        "context": "Mass trial; approximately 18 convicted and executed including Reverend Lowes; most confessions obtained before trial through Hopkins's methods"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The relationship between Civil War conditions and Hopkins's campaign is debated. Gaskill sees a direct causal connection between political and religious upheaval and the receptiveness to witch-hunting; others argue Hopkins was primarily an opportunist exploiting existing tensions rather than a product of the Civil War specifically. The legality of Hopkins's methods (sleep deprivation, swimming) was contested even at the time, and Hopkins felt compelled to publish a defense (*The Discovery of Witches*, 1647) before his death.",
+
+  "accused_persons": [
+    "john-lowes-suffolk-1645",
+    "elizabeth-clark-chelmsford-1645"
+  ],
+
+  "related_trials": [
+    "suffolk-1645-hopkins-general",
+    "bury-st-edmunds-1662-trials"
+  ],
+
+  "source_method": "Matthew Hopkins, *The Discovery of Witches* (1647); John Stearne, *A Confirmation and Discovery of Witchcraft* (1648); Malcolm Gaskill, *Witchfinders* (2005); Ewen's statistical compilations",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "historiographical_notes": "The Hopkins campaign represents the nearest English approximation to Continental mass persecution: a brief period of intense prosecution producing a death toll that dwarfed all previous English witch-hunting. But the structural differences remain significant — no torture in the Continental sense, no sabbath conspiracy narrative as the primary organizing framework, familiar spirits rather than demonic pacts as the central evidentiary category, and common law jury trial rather than inquisitorial procedure at the final stage. Hopkins's campaign thus demonstrates that the volume of English witch-hunting could approach Continental levels under exceptional conditions without importing the Continental demonological framework — the distinctive English prosecution model was capable of mass killing on its own terms.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

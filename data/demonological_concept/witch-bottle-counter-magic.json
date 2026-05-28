@@ -1,0 +1,21 @@
+{
+  "id": "witch-bottle-counter-magic",
+  "name": "Witch Bottle: English Counter-Magic Artifact",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1550-1750)",
+  "primary_locale": "England",
+  "scholarly_definition": "The witch bottle was a distinctly English folk artifact used as counter-magic against suspected witchcraft. Typically a sealed stoneware bottle filled with the supposed victim's urine, nail clippings, hair, bent pins, and sometimes a felt heart pierced with pins or thorns, the bottle was buried under the hearth, beneath the threshold, or in the wall of a house. The theory was that the witch's spirit would be drawn into the bottle by the sympathetic link of the victim's bodily materials and there be trapped, reversed, or caused to suffer, compelling the witch to lift the affliction. Witch bottles have been recovered archaeologically in significant numbers from English building contexts, providing material evidence of the practice.",
+  "clark_intellectual_analysis": "Clark notes that witch bottles represent the logical extension of sympathetic magic principles — the idea that materials with a connection to a person (urine, nail clippings) could be used to affect them — into a specifically counter-witch context. The practice operates within the same cosmological framework as learned natural magic's theory of sympathy and antipathy, demonstrating how popular folk practice and learned natural magic shared underlying assumptions about the nature of material connections.",
+  "hutton_social_analysis": "Hutton discusses witch bottles as material evidence for the lived practice of counter-magic in English communities. The archaeological recovery of intact witch bottles provides direct evidence of the practice independent of textual record, making them important primary sources for social history. The bottles' distribution — concentrated in the sixteenth and seventeenth centuries but with examples into the eighteenth — traces the chronology of the practice. Their association with thresholds and hearths reflects the spatial logic of household protection.",
+  "ginzburg_interrogation_analysis": "Ginzburg would situate witch bottles within the material dimension of folk magical practice that existed alongside and somewhat independently of the learned demonological tradition. The bottle's operation — trapping and reversing the witch's harmful spirit through sympathetic material connection — reflects a folk theory of spiritual causation and counter-causation that had its own internal logic distinct from scholastic demonology.",
+  "regional_variations": "Witch bottles are specifically an English phenomenon, with the great majority of archaeological finds from England. Related practices existed elsewhere: similar vessels appear in Dutch and German contexts but not with the characteristic English combination of urine, pins, and bent heart. The practice was unknown in New England, which transferred English folk practices but apparently not this one. Scottish counter-magic used different forms.",
+  "scholarly_disagreement": "Whether witch bottles were primarily used by cunning folk on behalf of clients or by individuals and households independently is unclear from the evidence. The relationship between cunning-folk prescription and household practice in the manufacture of witch bottles has been examined by Davies and others but remains unresolved. The chronological distribution — peak in the seventeenth century — may reflect the height of witch prosecution anxiety rather than a change in underlying belief.",
+  "trial_examples": [],
+  "related_concepts": ["protective-magic-counter", "cunning-folk-services", "maleficium-concept", "bloodless-scratch-reversal", "healing-magic-white"],
+  "source_method": "Archaeological finds; English cunning-folk pamphlet literature; Davies Popular Magic; Merrifield The Archaeology of Ritual and Magic",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

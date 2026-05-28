@@ -1,0 +1,45 @@
+{
+  "id": "petronilla-de-meath-1324",
+  "name": "Petronilla de Meath",
+  "status": "Executed",
+  "trial_id": "kilkenny-1324-kyteler",
+  "location_id": "ireland-general",
+  "year_accused": 1324,
+  "year_executed": 1324,
+  "age_at_trial": null,
+  "social_status": "Maidservant to Dame Alice Kyteler",
+  "gender": "Female",
+  "biography": "Petronilla de Meath was the maidservant of Dame Alice Kyteler, a wealthy Anglo-Norman noblewoman of Kilkenny, when Bishop Richard de Ledrede of Ossory launched his prosecution of Kyteler's household in 1324 on charges of heresy and sorcery. This case, orchestrated by de Ledrede, represents the earliest fully documented witch trial in Ireland and one of the earliest in the British Isles to incorporate the continental demonological framework of diabolical conspiracy. Petronilla's role in the case was shaped entirely by her subordinate position: she served as the person upon whom the full weight of prosecution fell when her mistress escaped.\n\nDame Alice Kyteler was accused of poisoning her successive husbands, of keeping a demonic incubus as a familiar named Robin Artisson, of heretical practices, and of leading a sect of sorcerers. As a wealthy and well-connected noblewoman, Kyteler had powerful supporters and was able to flee to England, apparently permanently, escaping justice entirely. The Bishop's prosecution could not reach her, and so the punishment that should have fallen on the principal accused was transferred almost entirely onto Petronilla, who had no resources or connections to aid her escape.\n\nPetronilla was flogged six times through the streets of Kilkenny — an extraordinarily brutal public punishment — before being burned on November 3, 1324. She was burned for the heresy attributed to her mistress's household, becoming the first person burned for heresy-witchcraft in Ireland. Her execution shows starkly how the vulnerability of servants meant they bore the consequences of their employers' legal troubles in ways the employers themselves could avoid.",
+  "arrest_narrative": "Petronilla was arrested as part of the Bishop de Ledrede's prosecution of the Kyteler household. When Dame Alice Kyteler fled to England to escape the charges, Petronilla remained and bore the full force of the prosecution. She was flogged six times through the streets under the Bishop's direction before being burned.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "flogging (six public applications through streets of Kilkenny)"
+    ],
+    "initial_response": "Unknown",
+    "final_confession_summary": "Confessed under severe flogging to the crimes attributed to the Kyteler household: heretical sorcery, demonic compact, maleficium including poisoning of Dame Alice's husbands, and rituals involving the demon Robin Artisson"
+  },
+  "accusations_against_them": [
+    "Heretical sorcery and witchcraft",
+    "Membership in sect of sorcerers under Dame Alice Kyteler",
+    "Poisoning of Alice Kyteler's husbands through maleficium",
+    "Demonic compact with Robin Artisson",
+    "Performing diabolical rites"
+  ],
+  "execution_details": {
+    "date": "1324-11-03",
+    "method": "Burning at stake",
+    "location": "Kilkenny, Ireland"
+  },
+  "historiographical_significance": "Petronilla de Meath holds the grim distinction of being the first person burned for heresy-witchcraft in Ireland, and her case illustrates fundamental inequalities in early witch prosecution: the wealthy escaped while servants bore the punishment. Her case also represents an early instance of the continental demonological framework being applied in a British Isles context, brought by Bishop de Ledrede who had been educated in France and brought European heresiology to Ireland. Historians cite her as a founding case for the Irish and British witch trial traditions.",
+  "source_method": "Contemporary chronicle of John de Clyn (Annals of Ireland); de Ledrede's register; analyzed in Seymour's Irish Witchcraft and Demonology (1913) and Levack's Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

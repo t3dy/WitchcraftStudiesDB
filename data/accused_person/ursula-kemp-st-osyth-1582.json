@@ -3,26 +3,27 @@
   "name": "Ursula Kemp",
   "status": "Executed",
   "trial_id": "st-osyth-1582",
-  "location_id": "st-osyth",
+  "location_id": "st-osyth-essex",
   "year_accused": 1582,
   "year_executed": 1582,
   "age_at_trial": null,
   "social_status": "Midwife and healer, St Osyth, Essex",
   "gender": "Female",
   "biography": "Ursula Kemp was a midwife and healer in St Osyth, Essex, who provided services to local women in childbirth and illness. Her dual role as community healer and alleged source of maleficium was typical of the ambiguous social position occupied by cunning women: the same knowledge and reputation that made her useful could, under adverse circumstances, be interpreted as dangerous. She came to judicial attention through a complex web of neighborhood disputes and was prosecuted as part of the 1582 St Osyth witchcraft cases, one of the largest clusters of English witch prosecutions of the Elizabethan period.\n\nKemp's confession was elaborate and detailed, describing four familiar spirits with specific names and forms: two cats (Titty and Jack), a lamb (Tiffin), and a black toad (Piggin). Her confession also implicated numerous neighbors and became the central documentary source for the St Osyth prosecutions. Most dramatically, her own illegitimate son Thomas Rabbet testified against her — a detail contemporaries found particularly striking as evidence of the breakdown of natural bonds by witchcraft.",
-
   "arrest_narrative": "Kemp came to attention through an accusation by Grace Thurlow, a woman she had previously helped in childbirth but with whom she had subsequent disputes. She was examined by Brian Darcy, a local justice, whose examination technique — including promises of leniency in exchange for confession and cooperation — produced a detailed confession and extensive naming of other accused. Darcy's approach has been analyzed by scholars as a systematic interrogation method that manufactured the appearance of a witch conspiracy.",
-
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "torture_sessions": [
-      {"session": 1, "method": "Examination by Brian Darcy with offers of leniency", "outcome": "Elaborate confession describing four familiars and maleficium against numerous neighbors"}
+      {
+        "session": 1,
+        "method": "Examination by Brian Darcy with offers of leniency",
+        "outcome": "Elaborate confession describing four familiars and maleficium against numerous neighbors"
+      }
     ],
     "initial_response": "Initially partial denials; confessions followed under Darcy's pressure and leniency promises",
     "final_confession_summary": "Confessed to possessing four familiars (cats Titty and Jack, lamb Tiffin, toad Piggin) received from mother; used them to kill children and adults who had offended her; named many neighbors as fellow witches"
   },
-
   "accusations_against_them": [
     "Possessing four familiar spirits",
     "Killing Edna Thurlow's child by witchcraft",
@@ -31,15 +32,12 @@
     "Killing Thomas Rabbet's wife",
     "Naming numerous neighbors as accomplices in witchcraft"
   ],
-
   "execution_details": {
     "date": "1582-01-01",
     "method": "Hanging",
     "location": "Chelmsford, Essex"
   },
-
   "historiographical_significance": "Ursula Kemp's case is central to understanding the Essex witch prosecutions and the role of elaborate familiar-spirit testimony in English witch trials. Her son's testimony against her illustrates the social disruption that witch accusations could cause within families. Brian Darcy's interrogation method — offering leniency in exchange for confession and naming — has been analyzed as a systematic means of manufacturing witch conspiracies, and his examination of Kemp is a key document for understanding English interrogation practice without formal torture.",
-
   "source_method": "A true and just Recorde of the Information, Examination and Confession of all the Witches taken at S. Oses in the county of Essex (1582), Brian Darcy's pamphlet",
   "review_status": "DRAFT",
   "confidence": "HIGH",

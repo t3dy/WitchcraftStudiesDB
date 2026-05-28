@@ -1,0 +1,21 @@
+{
+  "id": "confession-legal-weight",
+  "name": "Confession as Queen of Proofs",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Continental Europe",
+  "scholarly_definition": "In Roman-canon procedure — the inquisitorial legal system used across continental Europe — confession was considered the 'queen of proofs' (regina probationum), the highest and most conclusive form of evidence. Two eyewitnesses or a confession were required for conviction; since conspiracy crimes like witchcraft rarely produced witnesses, confession was effectively the only path to conviction in most cases. This made the extraction of confession a judicial necessity, explaining and legally justifying the use of torture as a confession-production mechanism. The circular logic was recognized by some contemporaries: torture produced confession, which proved guilt, which justified the torture used to obtain it.",
+  "clark_intellectual_analysis": "Clark situates the confession-as-queen-of-proofs doctrine within the legal culture of Roman-canon procedure, noting how it created structural pressure toward torture and confession extraction that was institutionally embedded rather than individually chosen. The judge who sought confession was following legally correct procedure; the system, not individual cruelty, drove the dynamics. Understanding this requires attending to the legal intellectual framework rather than personalizing the violence.",
+  "hutton_social_analysis": "Hutton emphasizes the practical consequences of the confession requirement for prosecution patterns: in jurisdictions using Roman-canon procedure, the pressure to confess drove torture use and enabled denunciation chains. The English common law's different evidentiary standards — which allowed conviction on circumstantial evidence without requiring confession — produced a very different prosecution pattern with less torture, less denunciation, but still significant conviction rates in some periods.",
+  "ginzburg_interrogation_analysis": "Ginzburg's fundamental argument about torture and confession rests on this legal doctrine: because confession was legally required and legally authorized to be extracted by torture, what confessions contain reflects the interrogational process as much as or more than genuine belief. The 'queen of proofs' was thus often a tortured queen — a product of judicial violence rather than authentic disclosure.",
+  "regional_variations": "Roman-canon procedure with confession as queen of proofs was operative across continental Europe. English common law did not share this standard, which is a primary explanation for different English prosecution patterns. Scottish law was closer to continental standards. New England courts followed common law but were under pressure to treat confession as especially significant given theological frameworks (those who confessed at Salem generally survived; those who maintained innocence were executed).",
+  "scholarly_disagreement": "Whether the confession doctrine was the primary driver of prosecution intensity or merely one factor among several is debated. Levack argues it was structurally central; others argue local judicial culture, elite sponsorship of prosecution, and community dynamics mattered more than the formal legal standard in explaining intensity variation.",
+  "trial_examples": ["bamberg-1626-mass-prosecution", "wurzburg-1626-mass-prosecution"],
+  "related_concepts": ["torture-confession-extraction", "inquisitorial-procedure", "crimen-exceptum-doctrine", "denunciation-chain", "tortured-testimony-validity"],
+  "source_method": "Roman-canon legal procedure texts; Levack The Witch-Hunt in Early Modern Europe; Ginzburg Night Battles; mass prosecution records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "urbain-grandier-loudun-1634",
+  "name": "Urbain Grandier",
+  "status": "Executed",
+  "trial_id": "loudun-1634-possession",
+  "location_id": "loudun",
+  "year_accused": 1634,
+  "year_executed": 1634,
+  "age_at_trial": null,
+  "social_status": "Parish priest, Saint-Pierre-du-Marché, Loudun; secular cleric",
+  "gender": "Male",
+  "biography": "Urbain Grandier was the parish priest of Saint-Pierre-du-Marché in the town of Loudun in the Vienne department of France, a secular cleric known for his intellectual ambition, fine preaching, and a personal life that included affairs with several women and a reportedly secret marriage to one of his parishioners' daughters. His combination of talent and scandal had made him enemies among both clergy and laity in Loudun. Beginning in 1632, the Ursuline convent of Loudun reported symptoms of diabolical possession, and the possessed nuns eventually named Grandier as the witch who had bewitched them.\n\nThe Loudun case became politically entangled in ways that proved fatal for Grandier. He had made an enemy of Cardinal Richelieu's associate Father Joseph, had reportedly written a satirical pamphlet against Richelieu, and his enemies in Loudun's religious establishment were well-connected. The exorcisms conducted on the nuns — public performances of great spectacle attended by thousands of observers — provided both entertainment and political opportunity. Grandier was arrested in 1633, tried by a commission appointed by the King's Council, tortured (though he refused to confess), and burned on August 18, 1634.\n\nHis execution was remarkable for the absence of confession. Unlike virtually all other major witch executions of the period, Grandier went to his death maintaining his innocence. The public burning drew a massive crowd, and contemporaries noted his extraordinary composure and continued refusal to admit guilt. He was reportedly offered his life if he would name accomplices — a deal he refused. The case generated immediate controversy and was recognized by some contemporaries as a judicial murder driven by political motives.",
+  "arrest_narrative": "Grandier was arrested in December 1633 following a year of growing accusation from the Ursuline convent. The specific trigger was the escalation of possessed nuns' testimony naming him directly as their bewitcher. A royal commission was appointed under Father Jean-Martin de Laubardemont, known to be hostile to Grandier, to investigate. The commission's composition ensured a predetermined outcome.",
+  "interrogation_and_confession": {
+    "torture_applied": true,
+    "torture_methods": [
+      "brodequins (leg crushing)",
+      "strappado (disputed — some sources say he was not formally tortured)"
+    ],
+    "initial_response": "Categorical denial maintained throughout all examination and torture",
+    "final_confession_summary": "Never confessed. Maintained complete innocence through trial, torture, and execution. Refused offer of life in exchange for naming accomplices. Went to his death praying and maintaining innocence."
+  },
+  "accusations_against_them": [
+    "Bewitching the Ursuline nuns of Loudun",
+    "Causing diabolical possession through magical means",
+    "Demonic compact",
+    "Maleficium against the convent",
+    "Sodomy and sexual immorality (secondary charges to establish character)"
+  ],
+  "execution_details": {
+    "date": "1634-08-18",
+    "method": "Burning at stake (alive; rope used to strangle him was cut by wind or accident according to some accounts)",
+    "location": "Loudun, Place Sainte-Croix"
+  },
+  "historiographical_significance": "Grandier's case is central to the study of the intersection of French court politics, church politics, and witch prosecution. Historians including Robert Mandrou (Magistrats et sorciers en France) have analyzed how his personal enemies used the possession case as a vehicle for judicial murder. His refusal to confess makes him an exceptional figure in witch trial history and raises fundamental questions about what confession actually evidenced. Michel de Certeau's The Possession at Loudun (1970) provides the most influential cultural analysis of the case.",
+  "source_method": "Trial documents, contemporary pamphlets, exorcism records; published in Legué's Documents pour servir à l'histoire médicale des possédées de Loudun (1874); analyzed in de Certeau's The Possession at Loudun (1970) and Levack",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

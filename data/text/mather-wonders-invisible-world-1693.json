@@ -1,0 +1,33 @@
+{
+  "id": "mather-wonders-invisible-world-1693",
+  "title": "Wonders of the Invisible World",
+  "author": "Cotton Mather",
+  "author_id": null,
+  "year_published": 1693,
+  "language": "English",
+  "type": "DEMONOLOGICAL_TREATISE",
+  "publisher_original": "Benjamin Harris, Boston, 1693",
+  "modern_edition": "Mather, Cotton, Wonders of the Invisible World (reprint Reiner, 1972); included in Lincoln, Charles H., ed., Narratives of the Witchcraft Cases 1648-1706 (1914)",
+  "significance": "Defense of the Salem prosecutions by Boston's leading Puritan minister; published while trials were already losing public legitimacy; represents the peak and near-simultaneous collapse of Puritan witch prosecution theology.",
+  "summary": "Published at the urging of Governor William Phips and endorsed by the Court of Oyer and Terminer, Mather's Wonders provides accounts of five Salem trials and a theological framework defending the use of spectral evidence (testimony about apparitions seen only by accusers). Mather draws on Perkins, Glanvill, and continental demonological tradition to argue that the devil was launching an assault on Massachusetts. The text was published as public confidence in the Salem prosecutions was beginning to erode; by the time it appeared, the court had been dissolved. Mather's defense of proceedings later found unjust made him a target of Robert Calef's counterattack.",
+  "clark_analysis": "Clark contextualizes Mather within the Reformed Protestant intellectual tradition: his engagement with spectral evidence questions, his theological framework for understanding the devil's assault on Puritan New England, and his use of Continental demonological sources show he was operating within a coherent learned tradition, not as an isolated fanatic.",
+  "hutton_analysis": "Hutton sees Mather as representing a Puritan demonological culture that was already anachronistic by 1693 standards in England, where skepticism had made significant inroads. Salem represents a delayed echo of earlier English Puritan witch prosecution culture.",
+  "ginzburg_analysis": "Ginzburg notes that Salem's accusation pattern — primarily young women accusing servant and marginal women, then expanding to prominent citizens — follows the cascade model described for European panics, suggesting similar social-psychological mechanisms operate across different cultural contexts.",
+  "key_arguments": [
+    "The devil is conducting an extraordinary assault on New England as the culmination of a cosmic struggle",
+    "Spectral evidence (apparitions seen only by accusers) is legitimate judicial evidence with proper scrutiny",
+    "The Salem accused were genuine witches in league with the devil",
+    "Puritan New England's special covenant with God makes it a special target of satanic attack",
+    "The court procedures were appropriate given the gravity of the crisis"
+  ],
+  "influence_on_prosecutions": "The Wonders was unable to save the Salem prosecutions from the tide of public opinion that turned against them in 1693. Mather's defense was subsequently used by Robert Calef as evidence of ministerial complicity in judicial murder. The text became a cautionary example in later debates about witchcraft prosecution.",
+  "related_texts": ["perkins-discourse-witchcraft-1608", "calef-more-wonders-1700", "hale-modest-inquiry-1702", "glanvill-sadducismus-triumphatus-1681"],
+  "related_trials": ["salem-1692-mass-prosecution"],
+  "scholarly_disagreement": "Mather's precise role in the Salem prosecutions — whether he was a prime mover, a reluctant supporter, or a dissenting moderator — has been extensively debated. Some historians argue he was more skeptical about spectral evidence than the Wonders suggests; others see him as a central enabler. The relationship between his theology and the specific Salem accusations requires careful analysis of the sequence of events.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

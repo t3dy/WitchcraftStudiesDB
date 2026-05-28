@@ -1,0 +1,50 @@
+{
+  "id": "andro-man-fairy-tradition",
+  "name": "Andro Man",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "aberdeen-scotland",
+  "year_active": 1597,
+  "social_status": "Working man, local practitioner",
+  "gender": "Male",
+  "tradition": "Fairy tradition",
+  "self_identification": "One who has known the Queen of Elfhame for thirty-two years",
+  "claimed_abilities": [
+    "Knowledge of healing received from Queen of Elfhame",
+    "Prognostication and foreknowledge",
+    "Identification of witches and their malefic activities",
+    "Ability to cure those bewitched",
+    "Knowledge of events past and future through fairy contact"
+  ],
+  "biography": "Andro Man of Aberdeen was tried and executed in 1597 during the Aberdeen witch trials — one of the most intensive Scottish witch-hunting episodes of the 1590s, which followed in the wake of the North Berwick prosecutions and James VI's heightened attention to witchcraft. His trial record preserves one of the most elaborate documented accounts of the Scottish fairy-contact tradition.\n\nMan claimed to have maintained a thirty-two year relationship with the Queen of Elfhame, beginning when he was young. This relationship was intimate: he claimed she had borne him children, a detail that places Andro's testimony within a tradition of fairy-human sexual contact documented across Scottish and British folk belief. Through this long-standing relationship with the fairy queen, Man had gained the healing and prognosticatory knowledge he provided to his community.\n\nMan refused to reframe this thirty-two year relationship as a diabolic compact, maintaining his own interpretive framework even under prosecution. Like Bessie Dunlop, he understood his abilities as fairy-given rather than devil-derived, and the fairy queen's court rather than a sabbath was his point of supernatural reference. This refusal to accept the diabolic interpretation did not save him from execution.",
+  "practice_description": "Andro Man provided healing services and prognostication to his Aberdeen community, explaining his abilities through a long-standing intimate relationship with the Queen of Elfhame and her court. He claimed that through this relationship he had acquired detailed knowledge of healing, could identify witches and their malefic activities, and could foresee future events. The sexual and familial intimacy he described with the fairy queen — including children they had together — represents a particularly developed form of the fairy-contact narrative.",
+  "relationship_to_prosecution": "Tried at Aberdeen in 1597 as part of the broader Aberdeen witch trials of that year, in which approximately twenty-four people were executed. His fairy-contact explanations were interpreted by prosecutors through the diabolic witch framework, with the Queen of Elfhame recast as a demonic entity and their relationship as a diabolic compact.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "Queen of Elfhame",
+      "the fairy court",
+      "long acquaintance with the Queen (32 years)",
+      "children born of the Queen",
+      "knowledge given by the fairies"
+    ],
+    "inquisitor_categories": [
+      "diabolical compact",
+      "familiar spirit (demonic)",
+      "renunciation of baptism",
+      "witch's sabbath",
+      "sexual congress with the devil"
+    ]
+  },
+  "hutton_analysis": "Hutton presents Andro Man as an especially rich example of the Scottish male practitioner operating within the fairy-contact tradition. The thirty-two year relationship and the claimed children with the Queen of Elfhame show the fairy tradition as a fully developed explanatory system rather than a vague gesture toward the supernatural — evidence for Hutton that the 'fairy faith' was a coherent and stable cultural framework that many Scots used to make sense of healing knowledge and magical ability.",
+  "ginzburg_analysis": "Ginzburg reads Andro Man's long-standing relationship with the Queen of Elfhame as a variant of the wider shamanic pattern he identifies across European traditions — the practitioner who gains supernatural knowledge through sustained contact with beings inhabiting another world. The sexual and familial character of Man's fairy relationship parallels patterns Ginzburg finds in other trance traditions across Eurasia.",
+  "historiographical_significance": "Andro Man's trial record is one of the fullest surviving accounts of the Scottish male fairy-contact tradition, providing detailed testimony that allows historians to reconstruct folk belief in considerable depth. His case is important for gender historians because male fairy-contact practitioners like Man challenge assumptions that the cunning-folk and fairy traditions were primarily female domains.",
+  "source_method": "Published Scottish trial records (Spalding Club publications); Stuart Macdonald's scholarship on Aberdeen trials; Hutton's The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

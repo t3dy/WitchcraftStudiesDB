@@ -1,0 +1,40 @@
+{
+  "id": "anna-schwegelin-kempen-1775",
+  "name": "Anna Schwegelin",
+  "status": "Executed",
+  "trial_id": "kempen-1775-schwegelin",
+  "location_id": "ellwangen",
+  "year_accused": 1775,
+  "year_executed": 1775,
+  "age_at_trial": null,
+  "social_status": "Servant woman, Kempten, Swabia; possibly mentally ill",
+  "gender": "Female",
+  "biography": "Anna Schwegelin was executed by beheading in the Abbey of Kempten in Swabia on April 11, 1775, making her widely cited as the last person executed for witchcraft in Germany and among the last in Europe. By 1775, witch prosecution had been formally abolished in most German territories, and Enlightenment skepticism had thoroughly permeated the educated classes and most courts. Her execution was an extraordinary anachronism, conducted in a small ecclesiastical principality (the Prince-Abbey of Kempten) whose authorities retained older legal traditions after most surrounding territories had abandoned them.\n\nSchwegelin had a history of mental instability and religious obsession, and contemporary accounts suggest she may have suffered from conditions now recognizable as psychosis or severe depression. She had been dismissed from service and had wandered through the region before her arrest. She apparently made statements that her examiners interpreted as a confession to witchcraft, though whether she understood the implications of what she was saying is doubtful. The Enlightenment context made her trial shocking to many contemporaries — the execution prompted considerable comment among educated Germans who regarded it as a barbaric embarrassment.\n\nThe Prince-Abbot of Kempten who oversaw her execution was subsequently subject to criticism. Schwegelin's case became almost immediately a historical reference point for the end of witch persecution, and her fate was discussed in the context of Enlightenment debates about judicial reform, the reliability of confession, and the proper role of religion in criminal procedure.",
+  "arrest_narrative": "Schwegelin was arrested in the jurisdiction of the Prince-Abbey of Kempten in 1775 following statements interpreted as confessions to witchcraft. The specific circumstances of her arrest are not fully documented, but she was held for examination and eventually condemned by the Abbey's court.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Statements apparently interpreted as admission of witchcraft; mental state questionable",
+    "final_confession_summary": "Appears to have made statements that prosecutors interpreted as confession to commerce with the Devil; whether she understood these as legal confessions or was speaking from religious delusion is disputed by historians"
+  },
+  "accusations_against_them": [
+    "Witchcraft and commerce with the Devil",
+    "Diabolical compact"
+  ],
+  "execution_details": {
+    "date": "1775-04-11",
+    "method": "Beheading",
+    "location": "Kempten, Swabia"
+  },
+  "historiographical_significance": "Schwegelin's execution is a historiographical marker of the absolute end of German witch prosecution, and her case has been used to analyze the persistence of prosecutorial traditions in peripheral ecclesiastical jurisdictions long after central and secular authorities had abandoned them. The anachronistic character of her execution prompted contemporary Enlightenment comment and has since been used by historians to illustrate the uneven chronology of witch-hunting's decline. Her possibly mentally ill state raises questions about the relationship between psychiatric disorder and witch accusation throughout the persecution's history.",
+  "source_method": "Contemporary accounts and later German legal history; discussed in Behringer's Witchcraft Persecutions in Bavaria (1997) and Levack's Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

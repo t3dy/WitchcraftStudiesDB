@@ -1,0 +1,33 @@
+{
+  "id": "gifford-discourse-1587",
+  "title": "A Discourse of the Subtill Practises of Devilles by Witches and Sorcerers",
+  "author": "George Gifford",
+  "author_id": null,
+  "year_published": 1587,
+  "language": "English",
+  "type": "SKEPTICAL_TREATISE",
+  "publisher_original": "Toby Cooke, London, 1587",
+  "modern_edition": "Gifford, George, A Discourse of the Subtill Practises of Devilles (1587) and A Dialogue Concerning Witches (1593), ed. Beatrice White, Shakespeare Association Facsimiles, 1931",
+  "significance": "English Protestant skeptical text arguing that ordinary people misidentify natural events as witchcraft; cunning folk are more dangerous than witches because they spread false belief; represents a distinctive Protestant populist critique of witch prosecution.",
+  "summary": "Gifford, a Puritan minister in Essex, published two texts on witchcraft (1587 and 1593) arguing that common people err in attributing natural misfortunes to witchcraft. His skeptical position differs from Scot's: Gifford accepts the devil's real activity but argues that the devil works primarily through false belief rather than through witches' actual power. Cunning folk are therefore more spiritually dangerous than malefic witches because they reinforce the false belief that natural illness and accident result from witchcraft, leading people to seek magical remedies instead of trusting God. Prosecution of malefic witches may be legitimate but is less important than attacking the false beliefs that sustain witchcraft culture.",
+  "clark_analysis": "Clark finds Gifford's position a sophisticated example of how Reformed theology could generate skepticism about witch prosecution: his argument that the devil works through false belief rather than physical agents is theologically consistent and represents a genuine alternative to pro-prosecution demonology.",
+  "hutton_analysis": "Hutton values Gifford's texts as evidence for popular English witch belief at the community level: his accounts of how Essex villagers attributed misfortune to witchcraft and sought cunning folk's help provide important social-historical documentation.",
+  "ginzburg_analysis": "Gifford's Essex-based observations provide Ginzburg with evidence for the vitality of popular English magical culture; despite his critical stance, Gifford's detailed descriptions of what people actually believed and did constitute important primary source material.",
+  "key_arguments": [
+    "The devil works primarily through false belief, not through physically empowering witches",
+    "Cunning folk who 'unwitched' victims spread the false belief that witchcraft causes natural events",
+    "Common people should trust God's providence rather than seeking magical remedies",
+    "Misfortune has natural causes; attributing it to witchcraft is a spiritual error",
+    "Legal prosecution of witches may be appropriate but does not address the root spiritual problem"
+  ],
+  "influence_on_prosecutions": "Gifford's argument for addressing popular magical belief rather than prosecuting individual witches had limited direct effect on prosecution rates but contributed to a tradition of Protestant skepticism about the priority of witch trials. His detailed observations of popular belief have proved more valuable to historians than to prosecutors.",
+  "related_texts": ["scot-discoverie-witchcraft-1584", "bernard-guide-grand-jury-1627", "perkins-discourse-witchcraft-1608"],
+  "related_trials": [],
+  "scholarly_disagreement": "The relationship between Gifford's position and mainstream Puritan demonology is debated; some scholars see him as a moderate Calvinist, others as a proto-rationalist. Whether his skepticism about prosecution was principled or merely a practical judgment about priorities is unclear.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["thomas-religion-decline-magic-1971", "macfarlane-witchcraft-tudor-stuart-1970"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

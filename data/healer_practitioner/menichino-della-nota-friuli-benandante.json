@@ -1,0 +1,49 @@
+{
+  "id": "menichino-della-nota-friuli-benandante",
+  "name": "Menichino della Nota",
+  "status": "Unknown",
+  "trial_id": null,
+  "location_id": "friuli",
+  "year_active": 1618,
+  "social_status": "Peasant",
+  "gender": "Male",
+  "tradition": "Benandante",
+  "self_identification": "One who goes to fight witches for the faith and for the crops",
+  "claimed_abilities": [
+    "Spirit travel during Ember Days",
+    "Combat against witches in spirit form",
+    "Knowledge of which community members were witches",
+    "Protective power over harvests and livestock"
+  ],
+  "biography": "Menichino della Nota was a Friulian benandante interrogated by the Venetian Inquisition in 1618, making him one of the later-documented cases in Ginzburg's corpus and one of the most analytically significant. His interrogation represents a pivotal moment in the history of the benandante phenomenon: by 1618, inquisitors were far better versed in what they expected to hear from witch suspects, and their questioning was correspondingly more aggressive in steering testimony toward diabolic frameworks.\n\nGinzburg treats Menichino's case as a key demonstration of the transformation process he identifies as central to understanding early modern witch trials. Where earlier benandanti — interrogated in the 1570s and 1580s — maintained their identity as defenders against witches even under sustained questioning, Menichino's testimony shows the erosion of that self-conception under the accumulating pressure of inquisitorial expectations. His confession gradually incorporated elements of the diabolic sabbath that were absent from his initial testimony.\n\nMenichino's case is thus less about what he originally believed or practiced than about what the inquisitorial encounter produced — a confession shaped by the interaction between folk belief and elite theological category. This makes him central to Ginzburg's broader argument about how witch trial records must be read: not as direct evidence of popular belief but as documents of a dialogic encounter between two incompatible interpretive systems.",
+  "practice_description": "Menichino initially described his activities in the classic benandante idiom: nocturnal spirit journeys during the Ember Days, combat against witches using fennel stalks, communal identity as a defender of harvests. Under sustained inquisitorial questioning across multiple sessions, his testimony progressively incorporated elements alien to the original benandante framework — attendance at sabbaths, interaction with the devil — until his final confession bore substantial resemblance to the diabolic witch confessions the inquisitors expected.",
+  "relationship_to_prosecution": "Interrogated by the Venetian Inquisition in 1618 as part of the Friuli Inquisition's ongoing investigation of benandanti. His case represents a later stage of the inquisitorial encounter with benandante belief, by which time inquisitors had accumulated decades of experience with this tradition and were more systematic in transforming benandante testimony into diabolic confession.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "benandante",
+      "fighting for the faith (per la fede)",
+      "going in spirit (andare in spirito)",
+      "fennel stalk (finocchio) as weapon",
+      "defender of the harvests"
+    ],
+    "inquisitor_categories": [
+      "diabolical sabbath (sabbath)",
+      "pact with the devil",
+      "witch (strega/stregone)",
+      "heresy",
+      "synagogue of Satan"
+    ]
+  },
+  "hutton_analysis": "Hutton reads Menichino's case within his argument that the witch trial apparatus systematically destroyed the protective practitioner tradition by forcing practitioners into the role of diabolic witch — a transformation that served the ideological needs of prosecution rather than representing any genuine change in popular belief or practice.",
+  "ginzburg_analysis": "Ginzburg places Menichino at the center of his argument about the transformation of benandante identity: his 1618 interrogation shows how decades of inquisitorial pressure gradually reshaped folk practitioners' self-understanding until their testimony conformed to the diabolic template, demonstrating that witch-trial confessions are products of the interrogation process, not windows onto actual practice.",
+  "historiographical_significance": "Menichino della Nota is one of Ginzburg's key case studies for the transformation of benandante testimony into diabolic confession — a process he documents across the corpus of Friulian inquisitorial records to argue that the witch-trial apparatus actively created the confessions it claimed to uncover. His case is central to methodological debates about how historians should read witch trial records.",
+  "source_method": "Published trial records from the Venetian Inquisition archive (Archivio di Stato, Venice); Ginzburg's The Night Battles (1966, English trans. 1983)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

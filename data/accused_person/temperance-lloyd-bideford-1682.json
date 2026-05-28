@@ -1,0 +1,48 @@
+{
+  "id": "temperance-lloyd-bideford-1682",
+  "name": "Temperance Lloyd",
+  "status": "Executed",
+  "trial_id": "bideford-1682-trials",
+  "location_id": "bideford-devon",
+  "year_accused": 1682,
+  "year_executed": 1682,
+  "age_at_trial": null,
+  "social_status": "Elderly poor woman, Bideford, Devon",
+  "gender": "Female",
+  "biography": "Temperance Lloyd was an elderly, poor woman of Bideford in Devon whose execution on August 25, 1682, alongside Mary Trembles and Susanna Edwards, constitutes what are generally regarded as the last witch executions in England. She had a prior reputation in Bideford for witchcraft, having been previously accused and acquitted in 1671. Her re-accusation in 1682, when a local woman fell ill and attributed her condition to Lloyd's maleficium, led to her final prosecution.\n\nLloyd's case exemplifies the profile of the English accused identified by historians Alan Macfarlane and Keith Thomas: elderly, poor, socially marginalized, with a pre-existing community reputation for witchcraft that had survived one previous acquittal. She confessed to compact with the Devil and to causing the illness of her accuser. The three Bideford women were tried at the Exeter assizes and convicted, the last such conviction to result in execution in England.\n\nThe Bideford executions in 1682 attracted attention at the time as marking a cultural boundary: educated opinion was shifting decisively against belief in the reality of witchcraft, and the executions prompted criticism from some quarters. The publication of accounts of the Bideford case by the Reverend Francis Glanvill, defending the reality of witchcraft against growing skepticism, indicates that the executions were perceived as occurring in a context of genuine intellectual controversy about whether witchcraft was real.",
+
+  "arrest_narrative": "Lloyd was arrested in 1682 following accusations from a Bideford woman who fell ill and attributed her condition to Lloyd's maleficium. Given her prior conviction record and established community reputation for witchcraft, the accusation was treated seriously. She was committed to Exeter gaol.",
+
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "initial_response": "Denial then confession",
+    "final_confession_summary": "Confessed to compact with the Devil; to causing illness in her accuser through maleficium; to familiar spirit relationships; confession secured through sustained examination rather than formal torture"
+  },
+
+  "accusations_against_them": [
+    "Maleficium causing illness",
+    "Compact with the Devil",
+    "Familiar spirit relations",
+    "Witchcraft against neighbors"
+  ],
+
+  "execution_details": {
+    "date": "1682-08-25",
+    "method": "Hanging",
+    "location": "Heavitree, Exeter, Devon"
+  },
+
+  "historiographical_significance": "Lloyd's execution as one of the last three English executions for witchcraft makes her case a marker of the end of English prosecution. Her prior acquittal in 1671 followed by execution in 1682 illustrates both the persistence of community witch beliefs and the growing variability in official responses to them. Historians use the Bideford trio to analyze the transition period in English witch prosecution between belief and skepticism.",
+
+  "source_method": "A True and Impartial Relation of the Informations against Three Witches (1682); Exeter assize records; analyzed in Guskin's 'The Context of Witchcraft' and Levack's Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

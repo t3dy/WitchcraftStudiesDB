@@ -1,0 +1,68 @@
+{
+  "id": "pendle-1633-trials",
+  "name": "Pendle Witch Trials 1633",
+  "location_id": "pendle-lancashire",
+  "year_start": 1633,
+  "year_end": 1634,
+  "alleged_accused_count": 20,
+  "executed_count": 0,
+  "regional_context": "Pendle, Lancashire, Kingdom of England; Charles I's reign; London investigation into local accusations reveals fabrication; rare case of successful exposure of false accusation",
+
+  "summary": "The 1633 Pendle trials began when Edmund Robinson, a ten-year-old boy, claimed to have been forced to witness a witches' sabbath on Hoarstones Hill and proceeded to identify local women he alleged were witches. His accusations led to seventeen convictions at the Lancaster Assizes, but before the condemned could be executed, they were taken to London for examination by Charles I's Privy Council and by royal physicians. Investigation revealed that Robinson had fabricated his accusations — he confessed to his deception in London, and his father Edmund Robinson Sr. was found to have been coaching the boy and profiting from fees charged to examine accused witches. All condemned persons were reprieved, and while some remained in prison, none were ultimately executed.",
+
+  "historiographical_significance": "The 1633 Pendle case is one of the most important instances of the royal and judicial establishment successfully exposing false accusation before execution. The case demonstrates that a critical epistemological framework capable of detecting fabrication existed within English judicial culture — it required royal intervention to activate, but once activated it functioned effectively. Sharpe and others use the 1633 case to argue that English witch prosecution was never simply a machine for killing: it contained internal skeptical mechanisms that could and did halt prosecutions when the evidence was found wanting. The comparison with 1612 — same region, similar accusations, radically different outcome — illustrates how institutional and personal factors could produce very different outcomes from comparable starting points.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "initiating_authority": "Edmund Robinson (boy accuser); Lancashire magistrates",
+    "prosecuting_officials": "Lancaster Assizes initially; then royal Privy Council investigation",
+    "procedure": "Standard assize trial initially; royal physicians and Privy Council examination of accused in London; Robinson examined; fraud exposed",
+    "torture_methods": [],
+    "trial_phases": [
+      {
+        "phase": "Robinson's accusations and Lancaster trial (1633)",
+        "context": "Edmund Robinson accuses multiple women; 17 convicted at Lancaster; execution pending"
+      },
+      {
+        "phase": "London examination (1633-1634)",
+        "context": "Condemned taken to London; examined by royal physicians including Harvey; Robinson interrogated; confesses fabrication"
+      },
+      {
+        "phase": "Reprieves and partial release (1634)",
+        "context": "All condemned reprieved; some released; Edmund Robinson Sr. prosecuted for fraud; accused women's acquittals incomplete"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "The exact motivation behind Robinson's fabrications remains debated: was he primarily motivated by the fees his father collected, by desire for attention and status, or by genuine (if mistaken) fears? The case also raises questions about why the initial Lancaster assize convicted on what proved to be fabricated evidence — were the judges incompetent, did the social pressure to convict override judicial caution, or did the evidence initially appear credible?",
+
+  "accused_persons": [
+    "robinson-boy-accuser-lancashire-1633",
+    "margaret-johnson-lancashire-1633"
+  ],
+
+  "related_trials": [
+    "pendle-1612-trials",
+    "abingdon-1604-gunter"
+  ],
+
+  "source_method": "Privy Council records; Lancashire assize records; James Crossley's nineteenth-century compilation of Lancashire witch material; Sharpe, *Instruments of Darkness* (1996)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "historiographical_notes": "The 1633 Pendle trials provide the English counterpart to the Gunter case of 1604 (also a fraud exposed by royal investigation) and to Salem's post-execution recantations. Together these cases demonstrate that seventeenth-century English legal culture possessed the critical tools to identify fabricated accusations — the question was whether those tools were deployed. Royal intervention was crucial in both Pendle 1633 and the Gunter case, suggesting that the normal assize court system was more susceptible to conviction on dubious evidence than the Privy Council and royal physicians. This institutional differentiation — where higher authorities were more skeptical than local ones — is a key feature of the English witch-prosecution system that helped prevent the escalation to mass persecution characteristic of Germany.",
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

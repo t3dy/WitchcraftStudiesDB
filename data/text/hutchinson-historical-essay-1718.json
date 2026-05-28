@@ -1,0 +1,33 @@
+{
+  "id": "hutchinson-historical-essay-1718",
+  "title": "An Historical Essay Concerning Witchcraft",
+  "author": "Francis Hutchinson",
+  "author_id": null,
+  "year_published": 1718,
+  "language": "English",
+  "type": "SKEPTICAL_TREATISE",
+  "publisher_original": "R. Knaplock, London, 1718",
+  "modern_edition": "Available in facsimile reprint; no modern critical edition",
+  "significance": "Post-prosecution retrospective debunking of famous witch cases that helped close the English prosecution era; case-by-case empirical critique of witch trial evidence; historically important as the first systematic historical analysis of witch trials as judicial error.",
+  "summary": "Hutchinson, a Church of England clergyman (later Bishop of Down and Connor), wrote his Historical Essay as a retrospective case-by-case critique of famous English witch trials, arguing that in each case the evidence was inadequate and the convictions unjust. He reviews the Bury St Edmunds case (1664, where Sir Matthew Hale presided), the Salem trials, and other prominent cases, demonstrating through historical analysis that the evidence for witchcraft was never sufficient. The text is historically significant as a pioneer of critical historical analysis of witch trials and contributed to the legal changes that ended English prosecution.",
+  "clark_analysis": "Clark contextualizes Hutchinson within the late-seventeenth-century shift in educated English opinion about the reality of witchcraft, driven by the new natural philosophy and changing attitudes toward testimony. Hutchinson's case-by-case approach reflects the empiricist methodology of the period applied to historical analysis.",
+  "hutton_analysis": "Hutton values the Historical Essay as a pivotal text in the English transition away from witch prosecution; Hutchinson's empirical approach set a precedent for historical criticism of judicial error that influenced subsequent treatments.",
+  "ginzburg_analysis": "Ginzburg is less engaged with Hutchinson specifically; the text is primarily a legal-historical critique rather than a source for popular belief.",
+  "key_arguments": [
+    "The evidence in famous witch trials was insufficient to justify conviction by any reasonable standard",
+    "Confessions were produced by fear, suggestion, and torture rather than freely given",
+    "Children's testimony is unreliable; the accusers in most famous cases were young girls",
+    "The learned demonological tradition has been consistently wrong about the evidence for witchcraft",
+    "Historical examination of the cases demonstrates the executions were judicial murders"
+  ],
+  "influence_on_prosecutions": "The Historical Essay contributed to the intellectual climate that produced the Witchcraft Act of 1736, which abolished the felony of witchcraft in England (though preserving offenses related to pretending to practice witchcraft). It is cited as a formative text in the English end to prosecution.",
+  "related_texts": ["scot-discoverie-witchcraft-1584", "calef-more-wonders-1700", "hale-modest-inquiry-1702", "bekker-betoverde-weereld-1691"],
+  "related_trials": [],
+  "scholarly_disagreement": "The degree to which Hutchinson's work directly influenced the 1736 legislation versus reflecting a broader cultural shift already underway is debated. Whether his skepticism was principled or primarily practical (concern about false conviction) is an interpretive question.",
+  "source_method": "Published text; scholarly critical editions",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["thomas-religion-decline-magic-1971", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

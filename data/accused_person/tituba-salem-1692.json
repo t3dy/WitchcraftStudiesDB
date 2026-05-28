@@ -3,26 +3,29 @@
   "name": "Tituba",
   "status": "Survived; Released",
   "trial_id": "salem-1692",
-  "location_id": "salem-village",
+  "location_id": "salem-massachusetts",
   "year_accused": 1692,
   "year_executed": null,
   "age_at_trial": null,
   "social_status": "Enslaved person in household of Reverend Samuel Parris",
   "gender": "Female",
   "biography": "Tituba was an enslaved person in the household of Reverend Samuel Parris, minister of Salem Village. Her precise origins have been debated by historians: long described as West African, more recent scholarship argues she was likely South American Indigenous (from Barbados) or possibly of African-Caribbean mixed heritage. Her ambiguous, non-European identity was significant in the social imagination of Puritan Salem, where she occupied one of the most vulnerable positions possible — enslaved, foreign-born, theologically suspect.\n\nTituba's role in the Salem crisis is paradoxical: she was among the first three accused but she survived, while those who maintained innocence often died. She confessed elaborately and at length, describing encounters with the devil, a red cat, a black dog, a yellow bird, and other familiar spirits. Her vivid, narrative-rich confession named Sarah Good and Sarah Osborne as her accomplices and essentially launched the prosecutorial machinery. Whether her confession reflected genuine belief, folk traditions she brought from her homeland, coercion by Parris, or calculated survival strategy is one of the central interpretive questions in Salem scholarship.",
-
   "arrest_narrative": "Tituba was arrested on February 29, 1692 along with Sarah Good and Sarah Osborne, following accusations from Betty Parris and Abigail Williams, who lived in Tituba's own household. Samuel Parris appears to have beaten her before she was brought to examination, and her decision to confess elaborately may have reflected this coercion as much as calculated survival. Her confession was extraordinarily detailed and provided the narrative framework for what the Salem accusers claimed to experience.",
-
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["beating by Reverend Samuel Parris before examination"],
+    "torture_methods": [
+      "beating by Reverend Samuel Parris before examination"
+    ],
     "torture_sessions": [
-      {"session": 1, "method": "Examination before magistrates; allegedly beaten by Parris beforehand", "outcome": "Elaborate confession naming accomplices and describing devil encounters"}
+      {
+        "session": 1,
+        "method": "Examination before magistrates; allegedly beaten by Parris beforehand",
+        "outcome": "Elaborate confession naming accomplices and describing devil encounters"
+      }
     ],
     "initial_response": "Initial denial followed by confession",
     "final_confession_summary": "Confessed to encounters with the devil who appeared as a man from Boston; described a red cat, black dog, and yellow bird as familiars; described the devil's book with names in it; named Sarah Good and Sarah Osborne as witches she had seen with the devil; described riding sticks through the air to witch meetings"
   },
-
   "accusations_against_them": [
     "Tormenting afflicted girls through spectral means",
     "Demonic pact",
@@ -30,15 +33,12 @@
     "Possessing animal familiars",
     "Signing the devil's book"
   ],
-
   "execution_details": {
     "date": null,
     "method": null,
     "location": null
   },
-
   "historiographical_significance": "Tituba's case is among the most historiographically complex of the Salem accused. Her survival through confession contrasts sharply with the deaths of those who maintained innocence, raising questions about the incentive structure of the crisis. Scholars debate the sources of her confession — whether it drew on Caribbean religious traditions, was shaped by Parris's beating, or was strategically constructed. Her racial and enslaved status has been central to modern scholarly interpretations emphasizing race, power, and social structure in Salem. She is one of the few Salem accused who was eventually released rather than executed.",
-
   "source_method": "Salem witchcraft trial records; Elaine Breslaw, Tituba, Reluctant Witch of Salem (1996); Rosenthal, Records of the Salem Witch-Hunt (2009)",
   "review_status": "DRAFT",
   "confidence": "HIGH",

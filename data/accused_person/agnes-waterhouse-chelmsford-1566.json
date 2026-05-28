@@ -3,26 +3,27 @@
   "name": "Agnes Waterhouse",
   "status": "Executed",
   "trial_id": "chelmsford-1566",
-  "location_id": "chelmsford",
+  "location_id": "chelmsford-essex",
   "year_accused": 1566,
   "year_executed": 1566,
   "age_at_trial": null,
   "social_status": "Widow; rural woman",
   "gender": "Female",
   "biography": "Agnes Waterhouse was the first woman to be executed for witchcraft in England, hanged at Chelmsford on July 29, 1566. She was a widow in the area of Hatfield Peverel in Essex, a county that would become particularly associated with English witch prosecution throughout the late sixteenth century. Her case emerged from the same complex of accusations that involved Elizabeth Francis, with whom she was alleged to have shared a familiar spirit.\n\nWaterhouse's case established several features that would recur throughout English witch prosecutions: the central role of a familiar spirit (a white cat named Sathan), the accusation of harm to neighbors' livestock and persons, and the role of local neighborhood conflict in precipitating formal accusation. Her confession included the transformation of the cat familiar into a toad, and her execution came just months after the passage of the 1563 Elizabethan witchcraft statute that made witchcraft a capital felony.",
-
   "arrest_narrative": "Waterhouse was accused after Elizabeth Francis, who had previously confessed to possessing the familiar Sathan, claimed to have given the cat to Waterhouse. Waterhouse was brought before the assize court at Chelmsford in 1566 and confessed to using the cat familiar to harm neighbors and their property. A child named Agnes Brown also testified against her, claiming the familiar had appeared to her in Waterhouse's service.",
-
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "torture_sessions": [
-      {"session": 1, "method": "Examination before assize judges", "outcome": "Confession to familiar possession and maleficium"}
+      {
+        "session": 1,
+        "method": "Examination before assize judges",
+        "outcome": "Confession to familiar possession and maleficium"
+      }
     ],
     "initial_response": "Confession obtained without recorded torture",
     "final_confession_summary": "Confessed to receiving familiar cat Sathan from Elizabeth Francis; using it to kill a neighbor's cattle and geese; causing illness in a neighbor; that the cat transformed into a toad; and that she had renounced God and given blood to the familiar"
   },
-
   "accusations_against_them": [
     "Possessing familiar spirit (cat named Sathan, received from Elizabeth Francis)",
     "Killing neighbor's cattle by witchcraft",
@@ -31,15 +32,12 @@
     "Renouncing God and making demonic pact",
     "Giving blood to familiar spirit"
   ],
-
   "execution_details": {
     "date": "1566-07-29",
     "method": "Hanging",
     "location": "Chelmsford, Essex"
   },
-
   "historiographical_significance": "Agnes Waterhouse holds the distinction of being the first woman executed for witchcraft in England, marking a significant threshold in the implementation of the 1563 witchcraft statute. Her case established the familiar spirit as a central feature of English witch prosecution — a distinctively English element with limited Continental parallels. Keith Thomas and subsequent scholars have analyzed how the familiar-spirit concept bridged popular magical belief and demonological prosecution framework.",
-
   "source_method": "The Examination and Confession of certaine Wytches at Chensforde (1566), printed pamphlet; Essex assize records",
   "review_status": "DRAFT",
   "confidence": "HIGH",

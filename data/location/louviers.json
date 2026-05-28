@@ -1,0 +1,65 @@
+{
+  "id": "louviers",
+  "name": "Louviers (Normandy, France)",
+  "type": "Town",
+  "region": "Normandy, France",
+  "modern_location": "Eure département, Normandy, France",
+  "coordinates": {
+    "latitude": 49.217,
+    "longitude": 1.168
+  },
+
+  "administrative_context": "Louviers was a town in Normandy subject to the Parlement de Rouen and the provincial ecclesiastical courts. As in other French convent possession cases, the 1647 Louviers case was handled by a combination of ecclesiastical exorcists and secular court proceedings.",
+
+  "witchcraft_trials_significance": "The Louviers convent possession case of 1647 was one of the last major French possession episodes, occurring at a Franciscan convent. The nuns claimed to be possessed by demons introduced by their former confessor Mathurin Picard (who had died in 1642) and his successor Thomas Boullé. Boullé was burned at Rouen in 1647. The Louviers case followed the pattern established at Aix-en-Provence (1611) and Loudun (1634) and represents the end of the French convent possession tradition. The Parlement de Rouen and the Parlement de Paris were both involved in review proceedings.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Thomas Boullé",
+      "role": "Accused — confessor; burned at Rouen 1647",
+      "contribution_to_trials": "Accused of introducing witchcraft and possession into the convent; convicted and executed"
+    },
+    {
+      "name": "Mathurin Picard",
+      "role": "Accused (posthumously) — former confessor",
+      "contribution_to_trials": "His body was exhumed and burned posthumously; the case against him drove the prosecution of Boullé"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1642": "Mathurin Picard dies; possession manifestations begin at the convent",
+    "1643_1646": "Exorcisms conducted; extensive testimony about diabolical possession and sabbath attendance extracted from nuns",
+    "1647": "Boullé tried and burned at Rouen; Picard's body exhumed and burned"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Louviers convent and surrounding Norman community",
+    "social_reach": "Confined primarily to convent environment; the two accused priests; drew regional ecclesiastical and legal attention",
+    "gender_distribution": "Female possessed (Ursuline nuns); male accused and executed",
+    "mortality_impact": "Boullé executed; Picard posthumously burned; the case was narrow in its victim count"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates Louviers as the last of the French convent possession cases, noting how the genre of demonic possession served in Counter-Reformation and post-Tridentine Catholic culture as both a demonstration of supernatural reality and a disciplinary mechanism for convents.",
+    "hutton_perspective": "Hutton situates the Louviers case within the pattern of convent possession that had run from Aix through Loudun to Louviers: the institutional conditions of enclosed female religious life, combined with the role of the confessor as authority figure, generated the conditions for accusations following the established template.",
+    "ginzburg_perspective": "The Louviers testimony, particularly the nuns' accounts of sabbath attendance, followed the standardized confessional template established through earlier French cases, illustrating the transmission of narrative templates through possession literature and exorcism practice."
+  },
+
+  "legacy_and_historiographical_importance": "Louviers is treated within the broader literature on French possession cases and Counter-Reformation Catholicism. The case contributed to growing scepticism in educated French circles, partly influencing the Parlement de Paris's increasingly restrictive oversight of such cases.",
+
+  "primary_sources": "Ecclesiastical court records; Norman Parlement records; contemporary pamphlet literature; analyzed in Mandrou and the broader studies of French possession",
+
+  "source_method": "Published scholarship (Mandrou, Levack), court records, pamphlet literature",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-1987",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

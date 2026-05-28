@@ -1,0 +1,21 @@
+{
+  "id": "sabbath-aquelarre-basque",
+  "name": "Aquelarre: Basque Sabbath Tradition",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (1609-1614)",
+  "primary_locale": "Basque Country (Labourd, Navarre)",
+  "scholarly_definition": "Aquelarre (from Basque 'akelarre,' 'goat meadow') was the Basque term for the witches' sabbath, referring to the specific location where the nocturnal gathering supposedly occurred. The most detailed descriptions of the Basque aquelarre come from Pierre de Lancre's Tableau de l'inconstance des mauvais anges et démons (1612), based on his investigation of Labourd witchcraft in 1609. De Lancre described elaborate sabbath scenes allegedly occurring at Zugarramurdi and other Basque locations, featuring the devil enthroned as a goat, dancing, feasting, and sexual congress. The aquelarre descriptions are among the most elaborate in European demonological literature and were partly shaped by de Lancre's contempt for Basque folk culture.",
+  "clark_intellectual_analysis": "Clark notes that de Lancre's Tableau represents one of the most extreme examples of learned demonological projection onto folk culture: his descriptions are shaped by both theological expectations and cultural prejudice against the Basque people, whose language, customs, and society he found deeply alien. The aquelarre material illustrates how cultural difference could intensify demonological interpretation, with unfamiliar practices being read as confirmation of diabolical nature.",
+  "hutton_social_analysis": "Hutton provides careful analysis of the Labourd prosecutions, noting how de Lancre's investigation was an externally imposed judicial crisis in a territory with distinctive social organization (male maritime economy leaving many women at home, Basque cultural distinctiveness). The crisis was brought from outside; local practices of folk magic and religious boundary-crossing that would have been unremarkable elsewhere were read through a demonological lens amplified by cultural distance.",
+  "ginzburg_interrogation_analysis": "Ginzburg situates the aquelarre material within his broader argument about how interrogational pressure imposed learned demonological frameworks on folk belief. The Basque accused had folk beliefs and practices of their own; what de Lancre's investigation extracted was their transformation under intense interrogational pressure into confirmation of the European sabbath stereotype, with locally specific details (the goat-meadow location, specific local customs) providing surface local color to a fundamentally imposed framework.",
+  "regional_variations": "The aquelarre was specifically Basque. The Spanish Inquisition's subsequent investigation by Alonso de Salazar y Frías (1609-1614) found no evidence supporting de Lancre's descriptions, adopting a skeptical position that sharply distinguished from the French persecution across the border. This contrast — intense French prosecution, skeptical Spanish investigation — reflects jurisdictional and institutional differences rather than differences in the actual practices of the Basque population.",
+  "scholarly_disagreement": "De Lancre's reliability as a source is deeply contested: Henningsen's Salazar study argues that his descriptions were largely fantasy projected onto an innocent population; others allow that they contain some genuine folk material buried under demonological elaboration. The degree to which genuine Basque folk beliefs contributed to the aquelarre descriptions versus their being purely de Lancre's demonological projection is a central interpretive question.",
+  "trial_examples": ["labourd-1609-trials", "zugarramurdi-1609-trials"],
+  "related_concepts": ["witches-sabbath-collective", "sabbath-brocken-german", "sabbath-blakulla-swedish", "diabolism-learned-tradition", "cultural-translation"],
+  "source_method": "De Lancre Tableau de l'inconstance (1612); Henningsen The Witches' Advocate; Spanish Inquisition records; Basque folklore studies",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

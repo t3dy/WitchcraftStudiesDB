@@ -1,0 +1,49 @@
+{
+  "id": "simon-forman-london-1610",
+  "name": "Simon Forman",
+  "status": "Active (historical record)",
+  "trial_id": null,
+  "location_id": "paris",
+  "year_active": 1600,
+  "social_status": "Astrologer, physician, and magical practitioner; consulted by aristocracy and gentry",
+  "gender": "Male",
+  "tradition": "Astrologer/physician/cunning man",
+  "self_identification": "Physician, astrologer, and practitioner of natural philosophy",
+  "claimed_abilities": [
+    "Astrological diagnosis of illness",
+    "Identification of bewitchment and its causes",
+    "Love magic and relationship advice",
+    "Medical treatment using astrological timing",
+    "Ritual magic (conjuration, spirit communication)",
+    "Prognostication of life events"
+  ],
+  "biography": "Simon Forman (1552-1611) was one of the most extensively documented magical practitioners of Elizabethan and Jacobean England. Born to a modest Wiltshire family, he educated himself in medicine and astrology and established a practice in London that attracted clients from across the social spectrum — from tradespeople and servants to courtiers and aristocrats. His casebooks survive in large numbers in the Bodleian Library, providing a uniquely detailed record of what clients actually wanted from a magical practitioner and what a sophisticated practitioner actually did.\n\nForman occupies an interesting position between the categories of 'cunning man' (lay folk magical practitioner) and 'physician' (licensed medical practitioner). He was periodically in conflict with the College of Physicians, which attempted to suppress unlicensed medical practice, but he continued to practice regardless. His clients came to him for a wide range of services: diagnosis of illness (including bewitchment), advice on financial matters and relationships, love magic, prognostication, and ritual conjuration.\n\nHis casebooks — which record the names, problems, and treatments of thousands of consultations — are one of the richest surviving sources for the social history of magical practice in early modern England. They document not only what Forman did but what his clients believed, what they feared, and what they hoped magic could accomplish. His life was dramatized posthumously in the Overbury case of 1615-1616, when clients of his successors were accused of using his magical techniques in a poisoning plot.",
+  "practice_description": "Forman's practice combined astrological medicine with forms of ritual magic that overlapped with cunning-folk practice at its most sophisticated end. He cast horoscopes to diagnose illness and prescribe treatment, identified whether illness was naturally or supernaturally caused, provided advice on relationships and financial affairs, engaged in ritual conjuration, and recorded all of this in detailed casebooks. His practice was oriented toward London's urban clientele but drew from across England.",
+  "relationship_to_prosecution": "Forman was periodically in conflict with the College of Physicians over unlicensed medical practice but was not prosecuted for witchcraft. His death in 1611 preceded the Overbury poisoning case in which his name and methods appeared, but he was not implicated during his lifetime. His social position — serving aristocratic clients and presenting himself as a natural philosopher rather than a folk practitioner — provided substantial protection.",
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "astrology (as diagnostic and prognosticatory tool)",
+      "natural philosophy",
+      "physic (medicine)",
+      "conjuration (ritual magic)",
+      "cunning (skill/knowledge)"
+    ],
+    "inquisitor_categories": [
+      "unlicensed physician",
+      "conjurer",
+      "practitioner of forbidden arts"
+    ]
+  },
+  "hutton_analysis": "Hutton uses Forman to illustrate the upper end of the English cunning-folk spectrum — the sophisticated urban practitioner who served aristocratic clients and presented himself in the language of natural philosophy rather than folk tradition, while providing services functionally identical to those of the rural cunning woman. This spectrum of practitioners, from village healer to court astrologer, is central to Hutton's account of the social reality of magical practice.",
+  "ginzburg_analysis": "Forman's extensive practice and detailed documentation make him valuable as microhistorical evidence for the content of magical beliefs and practices across multiple social levels in Elizabethan and Jacobean London — exactly the kind of detailed social and cultural information Ginzburg prizes in building his account of early modern belief from the ground up.",
+  "historiographical_significance": "Simon Forman's surviving casebooks are one of the most important primary sources for the history of magical practice in Elizabethan England. They have been analyzed extensively by A.L. Rowse and more recently by Lauren Kassell in Medicine and Magic in Elizabethan London (2005), making Forman one of the best-documented individual magical practitioners in early modern British history.",
+  "source_method": "Simon Forman's casebooks (Bodleian Library MS Ashmole); Lauren Kassell's Medicine and Magic in Elizabethan London (2005); Keith Thomas's Religion and the Decline of Magic (1971)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "strega-italian",
+  "name": "Strega: Italian Witch Concept",
+  "category_type": "HYBRID",
+  "time_period": "Early Modern (1400-1750)",
+  "primary_locale": "Italy (especially central and southern)",
+  "scholarly_definition": "Strega (plural streghe) was the Italian term for witch, derived from the classical Latin 'strix' (screech owl, night-flying creature that attacked infants). The Italian witch concept combined classical imagery of the strix — nocturnal, predatory, infanticide — with early modern demonological doctrine about the sabbath and diabolical pact. Streghe were associated with night-flying, transformation, infant-killing, and the evil eye, reflecting a mix of classical literary tradition, popular folk belief, and learned demonological overlay. The Italian inquisitions, particularly the Venetian and Roman inquisitions, developed distinctive approaches to streghe that were often more cautious and skeptical than northern European prosecution patterns.",
+  "clark_intellectual_analysis": "Clark notes the rich Italian demonological tradition that fed European-wide synthesis: Giovanni Nider's Formicarius (c.1437) and subsequent Italian demonologists were among the first to elaborate the sabbath stereotype. The Italian tradition shows how classical learning (strix mythology) was combined with Christian theological categories to produce a distinctively humanist demonology that was both learned and culturally specific.",
+  "hutton_social_analysis": "Hutton examines the Italian strega tradition as illustrating significant regional variation in witch concept: the emphasis on nocturnal transformation, the classical strix inheritance, and the Italian inquisitions' relative skepticism about sabbath claims all distinguished Italian prosecution patterns from northern European ones. The benandanti of Friuli (strikingly documented by Ginzburg) occupied a specific regional position within this broader Italian context.",
+  "ginzburg_interrogation_analysis": "Ginzburg's benandanti research is centrally located within the Italian strega/strix tradition. The Friulian Inquisition that investigated the benandanti brought specific assumptions about streghe to its investigations; the benandanti's self-identification as fighters against streghe rather than as streghe themselves created a conceptual challenge that the Inquisition eventually resolved by assimilating the benandanti to the strega category. This transformation is Ginzburg's central analytical contribution.",
+  "regional_variations": "Central and southern Italian traditions emphasized the strix/strega's nocturnal child-predation aspects. Northern Italian (Friulian) tradition produced the distinctive benandanti material. Sicilian tradition had distinctive magical beliefs including the donni di fora (ladies from outside). Venetian and Roman inquisitions showed relative skepticism. Tuscan tradition produced notable Renaissance magical beliefs (incantesimi, fatture). The Italian material is remarkably diverse and regionally specific.",
+  "scholarly_disagreement": "The relationship between classical strix mythology and medieval/early modern strega belief is debated: some scholars see direct continuity (the classical predatory night-witch surviving into the early modern period); others see a discontinuity in which classical imagery was applied to quite different folk beliefs in the medieval period. Ginzburg's argument that Italian folk belief preserves traces of shamanic traditions distinct from both classical and Christian frameworks has been both influential and contested.",
+  "trial_examples": ["friuli-benandanti-1575-inquisition", "friuli-benandanti-1580-second"],
+  "related_concepts": ["night-riding-strix", "benandanti-fertility-defenders", "shapeshifting-metamorphosis", "cunning-folk-vs-witch", "inquisitorial-procedure"],
+  "source_method": "Ginzburg Night Battles; Italian inquisition records; classical Latin literature (strix); Renaissance Italian demonological texts; Ankarloo/Clark Magic and Witchcraft in Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "hutton-the-witch-2017", "levack-witch-hunt-early-modern-1987"],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}

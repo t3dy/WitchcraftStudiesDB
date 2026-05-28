@@ -1,0 +1,48 @@
+{
+  "id": "rebecca-nurse-salem-1692",
+  "name": "Rebecca Nurse",
+  "status": "Executed",
+  "trial_id": "salem-1692",
+  "location_id": "salem-massachusetts",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 71,
+  "social_status": "Respected church member; wife of Francis Nurse, prosperous farmer",
+  "gender": "Female",
+  "biography": "Rebecca Nurse was seventy-one years old at the time of her accusation, a respected and pious member of the Salem community who had been a full communicant of the church for many years. Her husband Francis Nurse was a prosperous farmer, and the family occupied a position of relative social respectability. Her accusation was one of the most shocking moments of the Salem crisis, demonstrating that the prosecutorial machinery was prepared to reach beyond the socially marginal and the previously suspect.\n\nNurse's case produced one of the few moments of apparent hesitation in the Salem proceedings: the jury initially acquitted her, finding the evidence insufficient. Chief Justice Stoughton's response was to send the jury back with pointed questions about a statement Nurse had made during trial, and the jury reversed its verdict. Her execution shocked many observers who had hoped that respectability and piety might protect the innocent, and it contributed to the growing opposition to the trials that eventually brought the crisis to an end.",
+  "arrest_narrative": "Nurse was accused in late March 1692, named by Ann Putnam Sr. among others. Her arrest was extraordinary given her age, her church membership, and her general standing in the community. Thirty-nine neighbors signed a petition vouching for her character — an unusual and significant demonstration of community support. The jury's initial acquittal, and the judge's response in sending them back, made her case a turning point in the Salem narrative.",
+  "interrogation_and_confession": {
+    "torture_applied": false,
+    "torture_methods": [],
+    "torture_sessions": [
+      {
+        "session": 1,
+        "method": "Examination before magistrates; difficult to hear questions (deaf)",
+        "outcome": "Her apparent silence to a question was misinterpreted as admission"
+      }
+    ],
+    "initial_response": "Complete denial: 'I can say before my Eternal Father I am innocent and God will clear my innocency'",
+    "final_confession_summary": "No confession; maintained innocence to gallows; jury initially acquitted her before reversal under judicial pressure"
+  },
+  "accusations_against_them": [
+    "Tormenting afflicted girls through spectral means",
+    "Sending specter to harm multiple accusers",
+    "General maleficium through spectral agency"
+  ],
+  "execution_details": {
+    "date": "1692-07-19",
+    "method": "Hanging",
+    "location": "Gallows Hill, Salem"
+  },
+  "historiographical_significance": "Rebecca Nurse's case is one of the most significant individual episodes in the Salem crisis because her initial jury acquittal, and the judge's overriding of that verdict, demonstrates the degree to which the legal proceedings departed from normal judicial standards. Her case is often cited as a marker of how far the crisis had gone and as one of the factors that contributed to growing elite skepticism about the proceedings. The thirty-nine neighbors who signed her petition of innocence represent one of the most documented instances of community resistance to the accusations.",
+  "source_method": "Salem witchcraft trial records; petition of thirty-nine neighbors (preserved in court records); Rosenthal, Records of the Salem Witch-Hunt (2009)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-the-devils-snare-2002",
+    "levack-witch-hunt-early-modern-europe-2006"
+  ],
+  "created_date": "2026-05-27",
+  "last_modified": "2026-05-27"
+}
