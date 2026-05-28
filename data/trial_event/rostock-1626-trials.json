@@ -1,0 +1,27 @@
+{
+  "id": "rostock-1626-trials",
+  "name": "Rostock Witchcraft Trials",
+  "location_id": "rostock",
+  "year_start": 1626,
+  "year_end": 1629,
+  "alleged_accused_count": 100,
+  "executed_count": 60,
+  "regional_context": "German Baltic Region",
+  "summary": "Witchcraft persecutions in Rostock during war and economic crisis.",
+  "historiographical_significance": "Regional German persecution pattern.",
+  "demonological_framework": [
+    "witches-sabbath-collective"
+  ],
+  "key_details": {
+    "procedure": "Secular court proceedings"
+  },
+  "scholarly_disagreement": "Causes debated among historians.",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "source_method": "Historical records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

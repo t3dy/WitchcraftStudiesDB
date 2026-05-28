@@ -1,0 +1,40 @@
+{
+  "id": "cologne-1587-persecution",
+  "name": "Cologne Witchcraft Persecutions",
+  "location_id": "cologne",
+  "year_start": 1587,
+  "year_end": 1595,
+  "alleged_accused_count": 200,
+  "executed_count": 100,
+  "regional_context": "Holy Roman Empire",
+  "summary": "Large-scale persecutions in Cologne region under Prince-Bishop Ernst of Bavaria. Prosecution focused on nobility and clergy, creating political instability.",
+  "historiographical_significance": "Important case for understanding European witch-hunting patterns and regional variation.",
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-conspiracy"
+  ],
+  "key_details": {
+    "procedure": "Ecclesiastical and/or secular court proceedings",
+    "trial_phases": [
+      {
+        "phase": "Initial accusations",
+        "context": "Prosecution begins with initial allegations"
+      },
+      {
+        "phase": "Peak prosecutions",
+        "context": "Maximal prosecutorial activity"
+      }
+    ]
+  },
+  "scholarly_disagreement": "Debate over political vs. demonological motivations for prosecution.",
+  "source_method": "Published trial records; scholarly analysis",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ginzburg-night-battles-1983"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "stephens-walter-b1951",
+  "name": "Walter Stephens",
+  "birth_year": 1951,
+  "academic_discipline": "Medieval and Early Modern Literature",
+  "primary_institution": "Johns Hopkins University",
+  "specialization": "Demonology, witchcraft belief, learned skepticism",
+  "major_works": [],
+  "historiographical_position": "INTELLECTUAL_HISTORY",
+  "core_argument": "Witchcraft belief was intellectually coherent system.",
+  "methodological_approach": {
+    "primary_materials": "Demonological texts",
+    "analysis_target": "Intellectual history",
+    "evidence_type": "Textual analysis",
+    "explanatory_level": "Intellectual"
+  },
+  "key_contributions": [
+    {
+      "concept": "Demonological belief",
+      "claim": "Was serious intellectual system",
+      "implication": "Belief was rational within its framework"
+    }
+  ],
+  "geographical_focus": [
+    "Europe"
+  ],
+  "influence_on_field": "MAJOR",
+  "notable_debates": [
+    "Nature of witchcraft belief"
+  ],
+  "legacy_status": "Influential scholar",
+  "source_method": "Historical records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

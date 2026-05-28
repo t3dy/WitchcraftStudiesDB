@@ -1,0 +1,41 @@
+{
+  "id": "salem-1692-trials",
+  "name": "Salem Witch Trials",
+  "location_id": "salem",
+  "year_start": 1692,
+  "year_end": 1693,
+  "alleged_accused_count": 150,
+  "executed_count": 20,
+  "regional_context": "Holy Roman Empire",
+  "summary": "The Salem trials (1692-1693) began with accusations against three women by afflicted girls. Escalating panic produced the largest concentration of executions in British North America. Spectral evidence and fits drove prosecution in New England context.",
+  "historiographical_significance": "Important case for understanding European witch-hunting patterns and regional variation.",
+  "demonological_framework": [
+    "spectral-evidence-legal",
+    "demonic-malice-individual",
+    "puritan-providential-thinking"
+  ],
+  "key_details": {
+    "procedure": "Ecclesiastical and/or secular court proceedings",
+    "trial_phases": [
+      {
+        "phase": "Initial accusations",
+        "context": "Prosecution begins with initial allegations"
+      },
+      {
+        "phase": "Peak prosecutions",
+        "context": "Maximal prosecutorial activity"
+      }
+    ]
+  },
+  "scholarly_disagreement": "Historians debate ergot poisoning, psychological contagion, and social tensions as causative factors.",
+  "source_method": "Published trial records; scholarly analysis",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ginzburg-night-battles-1983"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

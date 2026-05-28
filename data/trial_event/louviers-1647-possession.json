@@ -1,69 +1,32 @@
 {
   "id": "louviers-1647-possession",
-  "name": "Louviers Convent Possession",
+  "name": "Louviers Possession and Trials",
   "location_id": "louviers",
-  "year_start": 1642,
+  "year_start": 1643,
   "year_end": 1647,
   "alleged_accused_count": 3,
-  "executed_count": 1,
-  "regional_context": "Louviers, Normandy, Kingdom of France; Parlement de Normandie jurisdiction; convent Augustinian community with disputed spiritual direction",
-
-  "summary": "The Louviers possession case (1642-1647) involved nuns of the Augustinian convent at Louviers who reportedly suffered from demonic possession, attributed to the spiritual direction of their confessors Father Mathurin Picard and Father Thomas Boulle. Picard had died before prosecution began; his corpse was nonetheless exhumed, tried, and burned — a macabre procedure reflecting the doctrine that maleficium could persist through posthumous agency. Boulle, still living, was convicted and burned in 1647. The case attracted widespread attention partly because exorcisms were conducted publicly in Évreux before large audiences, transforming the possession into a public spectacle. The Louviers case represents the last major French convent possession prosecution.",
-
-  "historiographical_significance": "Louviers completes a series of seventeenth-century French convent possession cases (Aix 1611, Loudun 1634, Louviers 1647) that historians have analyzed as a distinctive typology of prosecution. The pattern — enclosed nuns, accused male confessor, Capuchin or other exorcists, public possession symptoms, eventual execution — recurred with sufficient consistency to suggest structural causes: the institutional dynamics of female religious communities created recurring conditions for this type of accusation. The posthumous trial and burning of Picard's exhumed corpse attracted particular scholarly attention as an extreme expression of demonological logic: the body's complicity in maleficium required ritual destruction even after death.",
-
+  "executed_count": 2,
+  "regional_context": "Normandy, Kingdom of France",
+  "summary": "Possession case involving Benedictine nuns in Louviers resulted in trial and execution of two clergy. Case demonstrates tension between possession narratives and witchcraft prosecution.",
+  "historiographical_significance": "Important case for understanding the overlap between possession and witchcraft in French prosecution.",
   "demonological_framework": [
-    "demonic-possession",
-    "demonic-pact-early-modern",
-    "maleficium-harmful-magic",
-    "witches-sabbath-collective"
+    "demonic-possession-female",
+    "priestly-authority-exorcism",
+    "learned-skepticism"
   ],
-
   "key_details": {
-    "initiating_authority": "Local ecclesiastical authorities; Parlement de Normandie",
-    "prosecuting_officials": "Parlement de Normandie; exorcists conducting public sessions in Évreux",
-    "procedure": "Exorcisms conducted publicly; posthumous trial of Father Picard; normal criminal proceedings against Boulle; torture applied",
-    "torture_methods": ["question ordinaire", "question extraordinaire"],
-    "trial_phases": [
-      {
-        "phase": "Initial possession and investigation (1642-1644)",
-        "context": "Nuns develop possession symptoms; Picard dies; investigation begins; confessors accused"
-      },
-      {
-        "phase": "Public exorcisms at Évreux (1643-1645)",
-        "context": "Large public exorcism sessions; testimony against both Picard (posthumous) and Boulle extracted through possessed nuns"
-      },
-      {
-        "phase": "Exhumation and trial of Picard (1647)",
-        "context": "Picard's corpse exhumed and tried; convicted posthumously; burned with Boulle"
-      },
-      {
-        "phase": "Execution of Boulle (August 1647)",
-        "context": "Thomas Boulle burned August 21, 1647; end of prosecution"
-      }
-    ]
+    "accused": [
+      "urbain-grandier-loudun-1634"
+    ],
+    "procedure": "Ecclesiastical investigation with spectral evidence"
   },
-
-  "scholarly_disagreement": "The Louviers case generated contemporary controversy, with some clerics and jurists questioning both the validity of possession testimony and the procedure of posthumous trial. Historians debate the extent to which the case was driven by genuine religious belief among the prosecutors versus political-ecclesiastical conflict. The convent's internal governance disputes and the complex dynamics of spiritual direction at Louviers have led some historians to emphasize institutional conflicts as the proximate cause of the accusations.",
-
-  "accused_persons": [],
-
-  "related_trials": [
-    "loudun-1634-possession",
-    "aix-en-provence-1611-possession"
-  ],
-
-  "source_method": "Parlement de Normandie records; contemporary pamphlet literature; Mandrou's *Magistrats et sorciers en France* (1968); modern French legal historians",
+  "scholarly_disagreement": "Historians debate whether possession was genuine, fraudulent, or psychosomatic.",
+  "source_method": "Published trial records",
   "review_status": "DRAFT",
-  "confidence": "HIGH",
-
+  "confidence": "MEDIUM",
   "scholarly_sources": [
-    "clark-thinking-with-demons-2001",
-    "levack-witch-hunt-early-modern-1987"
+    "clark-thinking-with-demons-2001"
   ],
-
-  "historiographical_notes": "Louviers marks an important moment in the historiography of French witch prosecution: it was among the last major cases before the French parlements definitively moved toward systematic skepticism and acquittal in witchcraft cases. After 1660, French parlement courts increasingly refused to convict on possession-testimony alone, and the local possession-trial phenomenon effectively ended in France within a generation of Louviers. This trajectory — from Aix (1611) through Loudun (1634) to Louviers (1647) — illustrates the gradual but ultimately decisive shift in French judicial epistemology about supernatural evidence, a shift that Mandrou analyzed as a defining moment in the transition to Enlightenment rationalism.",
-
-  "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
 }

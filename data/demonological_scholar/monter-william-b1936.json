@@ -2,68 +2,37 @@
   "id": "monter-william-b1936",
   "name": "William Monter",
   "birth_year": 1936,
-  "death_year": null,
-  "birth_place": "United States",
-  "academic_discipline": "Early Modern History",
+  "academic_discipline": "European History",
   "primary_institution": "Northwestern University",
-  "specialization": "Comparative French and Swiss witchcraft; regional variation in prosecution rates; legal and religious factors",
-  "major_works": [
-    {
-      "title": "Witchcraft in France and Switzerland: The Borderlands During the Reformation",
-      "year": 1976,
-      "publisher": "Cornell University Press",
-      "significance": "Key comparative study of two adjacent regions with markedly different prosecution rates, isolating legal and religious variables",
-      "database_entry": null
-    },
-    {
-      "title": "Ritual, Myth and Magic in Early Modern Europe",
-      "year": 1983,
-      "publisher": "The Harvester Press",
-      "significance": "Broader contextual study extending witchcraft analysis within popular religion and magic",
-      "database_entry": null
-    }
-  ],
-  "historiographical_position": "SOCIAL HISTORY",
-  "core_argument": "Comparing adjacent regions with similar populations but different prosecution rates (France vs. Swiss cantons; Catholic vs. Reformed areas) allows isolation of the specific variables — legal procedure, religious culture, jurisdictional fragmentation — that drove or suppressed witch-hunting. Regional variation is the primary empirical fact requiring explanation.",
+  "specialization": "Geneva witchcraft trials, Alpine region persecution, Reformed church demonology",
+  "major_works": [],
+  "historiographical_position": "SOCIAL_HISTORY",
+  "core_argument": "Witchcraft prosecution varied by political-religious context; Reformed Geneva differs from Catholic regions.",
   "methodological_approach": {
-    "primary_materials": "Trial records from Franche-Comté, Geneva, the Vaud, and neighboring French and Swiss territories",
-    "analysis_target": "Prosecution rates by jurisdiction; legal procedures employed; confessional context of prosecutions",
-    "evidence_type": "Comparative regional analysis; quantitative prosecution data; legal-institutional comparative analysis",
-    "explanatory_level": "Institutional-comparative: legal and religious institutions as primary variables explaining regional variation"
+    "primary_materials": "Geneva trial records",
+    "analysis_target": "Regional witchcraft patterns",
+    "evidence_type": "Archival documents",
+    "explanatory_level": "Comparative regional analysis"
   },
   "key_contributions": [
     {
-      "concept": "Borderlands comparative method",
-      "claim": "By comparing adjacent regions with different prosecutorial outcomes, historians can identify which institutional variables (legal procedure, confessional culture, jurisdictional structure) drove prosecution",
-      "implication": "Comparative regional methodology is the most powerful tool for isolating causal factors"
-    },
-    {
-      "concept": "Reformed and Catholic differential",
-      "claim": "Both Catholic and Reformed Protestant areas prosecuted witches, but different institutional structures and theological emphases produced different prosecution patterns",
-      "implication": "Simple Catholicism/Protestantism contrast does not explain prosecutorial variation; institutional specifics matter"
-    },
-    {
-      "concept": "Jurisdictional fragmentation",
-      "claim": "Areas with multiple overlapping and competing jurisdictions (Imperial Germany, Swiss cantons) tended toward more intense prosecution as each court sought to demonstrate authority",
-      "implication": "Political fragmentation was a structural enabler of prosecution cascades"
+      "concept": "Regional variation",
+      "claim": "Geneva witchcraft patterns differ from other regions",
+      "implication": "Context shapes prosecution practices"
     }
   ],
-  "scholarly_relationships": {
-    "alignment_with": ["midelfort-erik-b1942", "levack-brian-b1943"],
-    "creative_tension_with": ["muchembled-robert-b1944"]
-  },
-  "reception_and_critique": {
-    "major_influences": "Comparative legal history; Reformation historiography; regional social history",
-    "criticisms": [
-      "Borderlands focus may not represent broader European patterns",
-      "Comparative method requires comparable archival survival, which is uneven",
-      "Legal-institutional emphasis may underweight cultural and ideological factors"
-    ]
-  },
-  "historiographical_significance": "Monter's comparative borderlands study provided one of the clearest demonstrations of how institutional variables shaped prosecution outcomes. His methodological approach — hold cultural and demographic variables constant and compare legal institutions — influenced subsequent regional comparative work. His analysis of the French-Swiss borderlands remains a model of the regional monograph genre.",
-  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "geographical_focus": [
+    "Geneva",
+    "Alps"
+  ],
+  "influence_on_field": "MAJOR",
+  "notable_debates": [
+    "Role of religious ideology in persecution"
+  ],
+  "legacy_status": "Influential regional historian",
+  "source_method": "Biographical research",
   "review_status": "DRAFT",
   "confidence": "HIGH",
-  "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
 }

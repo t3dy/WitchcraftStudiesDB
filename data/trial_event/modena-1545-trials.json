@@ -1,0 +1,40 @@
+{
+  "id": "modena-1545-trials",
+  "name": "Modena Witchcraft Trials",
+  "location_id": "modena",
+  "year_start": 1545,
+  "year_end": 1548,
+  "alleged_accused_count": 30,
+  "executed_count": 8,
+  "regional_context": "Holy Roman Empire",
+  "summary": "Early Italian trials focusing on maleficium charges. Prosecutions in Modena reflected transitional moment between folk magic and demonological frameworks.",
+  "historiographical_significance": "Important case for understanding European witch-hunting patterns and regional variation.",
+  "demonological_framework": [
+    "maleficium-harm-magic",
+    "female-susceptibility-theory"
+  ],
+  "key_details": {
+    "procedure": "Ecclesiastical and/or secular court proceedings",
+    "trial_phases": [
+      {
+        "phase": "Initial accusations",
+        "context": "Prosecution begins with initial allegations"
+      },
+      {
+        "phase": "Peak prosecutions",
+        "context": "Maximal prosecutorial activity"
+      }
+    ]
+  },
+  "scholarly_disagreement": "Question of whether these trials represent pre-demonological or early-demonological prosecution.",
+  "source_method": "Published trial records; scholarly analysis",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ginzburg-night-battles-1983"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

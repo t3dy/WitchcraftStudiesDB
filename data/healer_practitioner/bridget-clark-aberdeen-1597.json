@@ -1,12 +1,12 @@
 {
-  "id": "gostanza-da-libbiano-italy-1594",
-  "name": "Gostanza da Libbiano",
+  "id": "bridget-clark-aberdeen-1597",
+  "name": "Bridget Clark",
   "location_ids": [
-    "italy"
+    "aberdeen"
   ],
   "period_active_start": "1580",
-  "period_active_end": "1600",
-  "practitioner_type": "BENANDANTE",
+  "period_active_end": "1610",
+  "practitioner_type": "WISE_WOMAN",
   "services": [
     "healing",
     "divination"
@@ -15,7 +15,7 @@
   "community_role": "Healer and counselor",
   "supernatural_claims": "Claimed healing knowledge",
   "persecution_status": "NONE",
-  "summary": "Historical benandante practitioner from Italy.",
+  "summary": "Historical wise_woman practitioner from Aberdeen.",
   "regional_context": "Early Modern Europe",
   "associated_trials": [],
   "scholarly_sources": [

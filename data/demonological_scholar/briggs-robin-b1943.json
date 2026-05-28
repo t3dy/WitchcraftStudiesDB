@@ -1,0 +1,39 @@
+{
+  "id": "briggs-robin-b1943",
+  "name": "Robin Briggs",
+  "birth_year": 1943,
+  "death_year": null,
+  "birth_place": "Europe",
+  "academic_discipline": "Social History",
+  "primary_institution": "University",
+  "specialization": "Community-based witchcraft studies, microhistory, social networks in witch-hunting",
+  "major_works": [],
+  "historiographical_position": "VARIES",
+  "core_argument": "Significant contributor to witchcraft studies historiography.",
+  "methodological_approach": {
+    "primary_materials": "Historical records and documents",
+    "analysis_target": "Witchcraft history and persecution patterns",
+    "evidence_type": "Documentary and archival evidence",
+    "explanatory_level": "Various explanatory frameworks"
+  },
+  "key_contributions": [
+    {
+      "concept": "Witchcraft historiography",
+      "claim": "Significant scholarly contribution to understanding historical witch-hunting",
+      "implication": "Important figure in witchcraft studies field"
+    }
+  ],
+  "geographical_focus": [
+    "Europe"
+  ],
+  "influence_on_field": "MAJOR",
+  "notable_debates": [
+    "Causation and interpretation of witchcraft prosecutions"
+  ],
+  "legacy_status": "Influential scholar in witchcraft studies",
+  "source_method": "Biographical research; scholarly literature",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

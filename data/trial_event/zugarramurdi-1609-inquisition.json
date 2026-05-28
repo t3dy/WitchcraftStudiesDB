@@ -1,0 +1,40 @@
+{
+  "id": "zugarramurdi-1609-inquisition",
+  "name": "Zugarramurdi Aquelarres Trial",
+  "location_id": "zugarramurdi",
+  "year_start": 1609,
+  "year_end": 1610,
+  "alleged_accused_count": 80,
+  "executed_count": 11,
+  "regional_context": "Holy Roman Empire",
+  "summary": "The Zugarramurdi trial in Basque country focused on allegations of participation in aquelarres (sabbath-like gatherings). The Inquisition prosecuted primarily on testimony rather than torture, reflecting Spanish procedural differences.",
+  "historiographical_significance": "Important case for understanding European witch-hunting patterns and regional variation.",
+  "demonological_framework": [
+    "sabbath-aquelarre-basque",
+    "demonic-agency-theological"
+  ],
+  "key_details": {
+    "procedure": "Ecclesiastical and/or secular court proceedings",
+    "trial_phases": [
+      {
+        "phase": "Initial accusations",
+        "context": "Prosecution begins with initial allegations"
+      },
+      {
+        "phase": "Peak prosecutions",
+        "context": "Maximal prosecutorial activity"
+      }
+    ]
+  },
+  "scholarly_disagreement": "Evidence suggests actual pre-Christian fertility rituals misinterpreted through demonological lens.",
+  "source_method": "Published trial records; scholarly analysis",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ginzburg-night-battles-1983"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

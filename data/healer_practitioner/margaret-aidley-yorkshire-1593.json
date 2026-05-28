@@ -1,12 +1,12 @@
 {
-  "id": "gostanza-da-libbiano-italy-1594",
-  "name": "Gostanza da Libbiano",
+  "id": "margaret-aidley-yorkshire-1593",
+  "name": "Margaret Aidley",
   "location_ids": [
-    "italy"
+    "yorkshire"
   ],
-  "period_active_start": "1580",
+  "period_active_start": "1570",
   "period_active_end": "1600",
-  "practitioner_type": "BENANDANTE",
+  "practitioner_type": "CUNNING_FOLK",
   "services": [
     "healing",
     "divination"
@@ -15,7 +15,7 @@
   "community_role": "Healer and counselor",
   "supernatural_claims": "Claimed healing knowledge",
   "persecution_status": "NONE",
-  "summary": "Historical benandante practitioner from Italy.",
+  "summary": "Historical cunning_folk practitioner from Yorkshire.",
   "regional_context": "Early Modern Europe",
   "associated_trials": [],
   "scholarly_sources": [

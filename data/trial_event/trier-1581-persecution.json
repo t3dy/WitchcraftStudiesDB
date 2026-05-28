@@ -1,0 +1,41 @@
+{
+  "id": "trier-1581-persecution",
+  "name": "Trier Witchcraft Persecutions",
+  "location_id": "trier",
+  "year_start": 1581,
+  "year_end": 1593,
+  "alleged_accused_count": 400,
+  "executed_count": 365,
+  "regional_context": "Holy Roman Empire",
+  "summary": "The Trier persecutions (1581-1593) represent one of the earliest large-scale witch hunts. Under Prince-Bishop Peter Binsfeld, systematic prosecutions targeted primarily women. Confessions extracted through torture implicated clergy, nobility, and neighbors in a widening circle of suspicion.",
+  "historiographical_significance": "Important case for understanding European witch-hunting patterns and regional variation.",
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "maleficium-weather-magic"
+  ],
+  "key_details": {
+    "procedure": "Ecclesiastical and/or secular court proceedings",
+    "trial_phases": [
+      {
+        "phase": "Initial accusations",
+        "context": "Prosecution begins with initial allegations"
+      },
+      {
+        "phase": "Peak prosecutions",
+        "context": "Maximal prosecutorial activity"
+      }
+    ]
+  },
+  "scholarly_disagreement": "Clark emphasizes the demonological system driving Trier; Ginzburg analyzes torture-shaped confessions; Hutton focuses on social panic mechanisms.",
+  "source_method": "Published trial records; scholarly analysis",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ginzburg-night-battles-1983"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

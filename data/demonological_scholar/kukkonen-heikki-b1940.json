@@ -1,0 +1,38 @@
+{
+  "id": "kukkonen-heikki-b1940",
+  "name": "Heikki Kukkonen",
+  "birth_year": 1940,
+  "academic_discipline": "Finnish History",
+  "primary_institution": "University of Helsinki",
+  "specialization": "Scandinavian witchcraft, Finnish witch trials, regional studies",
+  "major_works": [],
+  "historiographical_position": "SOCIAL_HISTORY",
+  "core_argument": "Finnish witchcraft prosecution reflects distinctive Nordic patterns and legal traditions.",
+  "methodological_approach": {
+    "primary_materials": "Finnish legal records",
+    "analysis_target": "Nordic witchcraft patterns",
+    "evidence_type": "Archival documents",
+    "explanatory_level": "Regional comparative"
+  },
+  "key_contributions": [
+    {
+      "concept": "Nordic witchcraft",
+      "claim": "Scandinavian witchcraft differs from Central European patterns",
+      "implication": "Regional variation is fundamental to understanding European persecution"
+    }
+  ],
+  "geographical_focus": [
+    "Finland",
+    "Scandinavia"
+  ],
+  "influence_on_field": "MODERATE",
+  "notable_debates": [
+    "Relationship between social change and witchcraft persecution"
+  ],
+  "legacy_status": "Important regional specialist",
+  "source_method": "Biographical research",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

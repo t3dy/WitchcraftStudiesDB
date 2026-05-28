@@ -1,0 +1,40 @@
+{
+  "id": "torstensson-war-1676-trials",
+  "name": "Torstensson War Witchcraft Trials",
+  "location_id": "sweden-general",
+  "year_start": 1676,
+  "year_end": 1677,
+  "alleged_accused_count": 70,
+  "executed_count": 60,
+  "regional_context": "Holy Roman Empire",
+  "summary": "Swedish witch panic during military conflict. Children's accusations drove prosecutions of primarily female suspects.",
+  "historiographical_significance": "Important case for understanding European witch-hunting patterns and regional variation.",
+  "demonological_framework": [
+    "witchcraft-military-threat",
+    "children-as-accusers"
+  ],
+  "key_details": {
+    "procedure": "Ecclesiastical and/or secular court proceedings",
+    "trial_phases": [
+      {
+        "phase": "Initial accusations",
+        "context": "Prosecution begins with initial allegations"
+      },
+      {
+        "phase": "Peak prosecutions",
+        "context": "Maximal prosecutorial activity"
+      }
+    ]
+  },
+  "scholarly_disagreement": "Scholarly debate over relationship between military crisis and witch-hunting escalation.",
+  "source_method": "Published trial records; scholarly analysis",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ginzburg-night-battles-1983"
+  ],
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
+}

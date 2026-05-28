@@ -1,22 +1,22 @@
 {
-  "id": "gostanza-da-libbiano-italy-1594",
-  "name": "Gostanza da Libbiano",
+  "id": "agnes-wilson-aberdeen-1600",
+  "name": "Agnes Wilson",
   "location_ids": [
-    "italy"
+    "scotland"
   ],
-  "period_active_start": "1580",
-  "period_active_end": "1600",
-  "practitioner_type": "BENANDANTE",
+  "period_active_start": 1600,
+  "period_active_end": 1630,
+  "practitioner_type": "HEALER_CUNNING",
   "services": [
     "healing",
     "divination"
   ],
   "reputation": "POSITIVE",
   "community_role": "Healer and counselor",
-  "supernatural_claims": "Claimed healing knowledge",
+  "supernatural_claims": "Healing knowledge",
   "persecution_status": "NONE",
-  "summary": "Historical benandante practitioner from Italy.",
-  "regional_context": "Early Modern Europe",
+  "summary": "Historical healer Agnes Wilson",
+  "regional_context": "British Isles",
   "associated_trials": [],
   "scholarly_sources": [
     "hutton-witch-history-fear-2012"

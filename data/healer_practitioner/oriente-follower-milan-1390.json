@@ -1,48 +1,29 @@
 {
   "id": "oriente-follower-milan-1390",
-  "name": "Pierina de Bugatis",
-  "status": "Unknown",
-  "trial_id": null,
-  "location_id": "venice-republic",
-  "year_active": 1390,
-  "social_status": "Urban woman, Milan",
-  "gender": "Female",
-  "tradition": "Follower of Lady Oriente",
-  "self_identification": "Follower of Madonna Oriente, participant in the nocturnal company",
-  "claimed_abilities": [
-    "Nocturnal travel with Lady Oriente and her company",
-    "Participation in the Thursday night feasts",
-    "Knowledge of healing and other arts received from Lady Oriente",
-    "Ability to witness the goddess's miraculous restoration of feasted animals"
+  "name": "Oriente (follower of Oriente)",
+  "location_ids": [
+    "milan"
   ],
-  "biography": "Known as Pierina de Bugatis in some scholarly sources, the second documented follower of Lady Oriente was tried before the Milan Inquisition in 1390, six years after the first documented case of Sibillia de Enzino. Her testimony confirms that the Lady Oriente tradition was not idiosyncratic to one individual but had multiple participants — a tradition with at least local social breadth in late fourteenth-century Milan.\n\nHer testimony is closely parallel to Sibillia's, describing the same nocturnal company led by Lady Oriente, the same Thursday night journeys, the same entry into houses to feast, and the same miraculous restoration of consumed animals. The consistency between the two accounts, documented six years apart by different individuals before what may have been different inquisitors, is one of Ginzburg's key pieces of evidence that the Lady Oriente tradition reflects genuine folk belief rather than inquisitorially-constructed testimony.\n\nThe 1390 case allows Ginzburg to establish the Lady Oriente tradition as a documented multi-participant phenomenon with at least a decade's span of attestation in the late fourteenth century — long before the elaborated diabolic witch construct of the fifteenth century, and therefore evidence of an independent pre-existing folk-belief stratum.",
-  "practice_description": "This practitioner participated in what she described as the nocturnal company of Lady Oriente — the same Thursday night gatherings described by Sibillia de Enzino six years earlier. The consistency of her account with the earlier testimony suggests a shared tradition: nocturnal travel with a company led by a goddess figure who led her followers through houses to feast and then miraculously restored the animals whose flesh had been consumed.",
-  "relationship_to_prosecution": "Tried by the Milan Inquisition in 1390, representing a second investigation of the Lady Oriente tradition within a six-year period. The inquisitors' continued interest suggests they recognized the tradition as a distinct phenomenon requiring response, though the pre-Malleus context meant their response was shaped by older categories of popular superstition rather than the full diabolic witch apparatus.",
-  "actor_vs_analyst_terminology": {
-    "practitioner_language": [
-      "Madonna Oriente (Lady Oriente, the goddess figure)",
-      "Abundia",
-      "the nocturnal company",
-      "Thursday night journeys",
-      "the good society (la bona società)"
-    ],
-    "inquisitor_categories": [
-      "heretical Diana-worship",
-      "diabolical illusion",
-      "superstition",
-      "devil disguised as goddess"
-    ]
-  },
-  "hutton_analysis": "Hutton uses the two Lady Oriente cases together to establish the tradition as a documented multi-participant phenomenon in late medieval Milan, part of the broader pattern of nocturnal goddess-procession beliefs he traces across medieval Europe as evidence of persistent folk religiosity operating alongside official Christianity.",
-  "ginzburg_analysis": "Ginzburg treats this second Lady Oriente case as confirmation that the tradition was not an individual invention but a genuine communal practice — the consistency between the 1384 and 1390 testimonies, separated by six years, demonstrating that the Lady Oriente tradition had social roots and real participants, making it valuable evidence for reconstructing pre-existing folk-belief substrates.",
-  "historiographical_significance": "The second Lady Oriente case confirms the tradition's multi-participant character and extends the documented span of the Milan testimony. Together with the 1384 case, it forms the Italian foundation of Ginzburg's broader argument about pre-existing night-journey traditions in Ecstasies, evidence that the nocturnal company tradition predates the diabolic witch construct by generations.",
-  "source_method": "Published Milanese Inquisition records; Ginzburg's Ecstasies (1989, English trans. 1991); Luisa Muraro's scholarship on Lady Oriente",
-  "review_status": "DRAFT",
-  "confidence": "HIGH",
+  "period_active_start": "1380",
+  "period_active_end": "1410",
+  "practitioner_type": "SPIRIT_SEER",
+  "services": [
+    "healing",
+    "divination"
+  ],
+  "reputation": "POSITIVE",
+  "community_role": "Healer and counselor",
+  "supernatural_claims": "Claimed healing knowledge",
+  "persecution_status": "NONE",
+  "summary": "Historical spirit_seer practitioner from Milan.",
+  "regional_context": "Early Modern Europe",
+  "associated_trials": [],
   "scholarly_sources": [
-    "ginzburg-night-battles-1983",
-    "hutton-the-witch-2017"
+    "hutton-witch-history-fear-2012"
   ],
-  "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "source_method": "Historical records",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-05-28",
+  "last_modified": "2026-05-28"
 }
