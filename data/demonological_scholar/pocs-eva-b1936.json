@@ -1,0 +1,114 @@
+{
+  "id": "pocs-eva-b1936",
+  "name": "Éva Pócs",
+  "birth_year": 1936,
+  "birth_place": "Hungary (approximate)",
+  "academic_discipline": "Ethnography and Cultural History",
+  "primary_institution": "University of Pécs, Hungary",
+  "specialization": "East Central European witchcraft, Hungarian witch trials, shamanism and fairy beliefs, folk religion, mediation between living and dead",
+
+  "major_works": [
+    {
+      "title": "Between the Living and the Dead: A Perspective on Witches and Seers in the Early Modern Age",
+      "year": 1999,
+      "publisher": "Central European University Press",
+      "significance": "Major synthetic argument that witch beliefs in East Central Europe preserved archaic structures of mediation between living and dead; argues that mediators (seers, cunning folk, shamans) were reinterpreted as witches under demonological pressure; connects Ginzburg's shamanism thesis to Hungarian and Balkan evidence"
+    },
+    {
+      "title": "Fairies and Witches at the Boundary of South-Eastern and Central Europe",
+      "year": 1989,
+      "publisher": "FFC Communications (Helsinki)",
+      "significance": "Detailed comparative study of fairy and witch beliefs in the boundary zone between South-Eastern and Central Europe; documents the overlapping and contested categories of fairy-associated beneficent seers and maleficent witches"
+    },
+    {
+      "title": "Witchcraft Mythologies and Persecutions (editor, multi-volume)",
+      "year": "2008–ongoing",
+      "publisher": "Central European University Press",
+      "significance": "Major edited series bringing together East European scholarship on witchcraft mythology and prosecution; provides comparative data for the region largely inaccessible to Western scholars; essential resource for scholars of East Central European witchcraft"
+    },
+    {
+      "title": "Magyar néphit Közép-Európa határán [Hungarian Folk Belief at the Boundary of Central Europe]",
+      "year": 1986,
+      "publisher": "Akadémiai Kiadó",
+      "significance": "Comprehensive ethnographic survey of Hungarian folk belief; foundation for subsequent comparative work on East Central European magic and witchcraft"
+    }
+  ],
+
+  "historiographical_position": "ANTHROPOLOGICAL_HISTORY",
+  "core_argument": "Pócs's central argument is that East Central European witch beliefs — particularly the witch trial evidence from Hungary, the Balkans, and neighboring regions — preserved archaic belief structures centered on the mediation between the worlds of the living and the dead. In pre-modern East Central European societies, certain individuals were believed to possess the ability to cross the boundary between living and dead: they could see and communicate with the spirits of the deceased, travel to the land of the dead in dreams or trances, and return with knowledge or healing power. These mediators — known by various regional terms: táltosok in Hungary, benandanti in Italy, kresniki in Slovenia, calusari in Romania — were ambivalent figures: potentially beneficial (they could counter witchcraft, retrieve lost souls, heal illness, or predict the future) but also potentially dangerous (their power to cross boundaries could be turned toward harm). Pócs argues that this mediator tradition was systematically reinterpreted under demonological pressure as demonic witchcraft: the seer who communicated with the dead became the witch who commanded demons; the healer who fought witchcraft in dream-trance became the witch who flew to the sabbath; the ambivalent boundary-crosser was forced into the unambiguous category of devil-worshipper. This reinterpretation was not uniform or instantaneous but occurred through generations of judicial and ecclesiastical pressure that gradually pushed local mediator traditions into the demonological framework. Pócs's work is thus the most comprehensive extension of Carlo Ginzburg's shamanism argument. Ginzburg had documented the benandanti of Friuli as an instance of shamanic tradition reinterpreted as witchcraft and had argued in Ecstasies (1989) that similar traditions underlay the witch trial evidence more broadly. Pócs provides the Hungarian and East Central European comparanda that Ginzburg's argument requires: she documents that the region between Western and Eastern Europe preserved shamanic traditions (particularly the táltosok, shamanistic practitioners who fought demonic forces in ecstatic battle) that paralleled the benandanti and that were similarly reinterpreted under Christianized demonological pressure. Her ethnographic training — she approaches historical evidence as an ethnographer would approach field data — allows her to identify structural parallels between historically documented practices and anthropologically recorded traditions in ways that professional historians, working primarily with textual sources, might miss. The multi-volume Witchcraft Mythologies and Persecutions series that Pócs edits and largely drives has been instrumental in making East Central European scholarship accessible to Western researchers, who had previously worked primarily from Western and Central European sources and may have underestimated the regional variation and theoretical richness of East European witchcraft studies.",
+
+  "methodological_approach": {
+    "primary_materials": "Hungarian witch trial records (primarily 18th century, with earlier evidence); Balkan and East Central European ethnographic surveys; comparative folkloric literature; 19th–20th century folk belief documentation used as evidence for earlier practices",
+    "analysis_target": "The structural patterns of mediator-beliefs in East Central Europe; the process of demonological reinterpretation; comparative parallels with shamanic traditions",
+    "evidence_type": "Ethnographic analysis of folk belief systems; comparative structural analysis across regions and periods; historical trial records read against ethnographic background",
+    "explanatory_level": "Structural analysis of belief systems; identification of pre-Christian substrates; process of demonological reinterpretation"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Mediator tradition as witch belief substrate",
+      "claim": "The core of East Central European witch belief was a tradition of human mediators between the living and the dead. These mediators — ambivalent, powerful, liminal — were the real human beings reinterpreted as witches under demonological pressure. The witch emerged from the mediator, not from popular fear of maleficium alone.",
+      "implication": "Understanding East Central European witch trials requires recovering the mediator tradition that preceded and fed into demonological reinterpretation; accused witches were often genuine practitioners within the local cultural system, not simply scapegoats."
+    },
+    {
+      "concept": "Hungarian táltos as shamanic figure",
+      "claim": "The Hungarian táltos — a specially-born individual with shamanic powers, who fought supernatural battles in ecstatic trance to protect the community — preserves a genuine shamanic tradition parallel to Ginzburg's benandanti. The reinterpretation of táltos power as diabolical under Christianization produced distinctive patterns in Hungarian witch trial confessions.",
+      "implication": "Ginzburg's shamanism thesis, documented primarily from Italian evidence, finds direct corroboration in the Hungarian material; the thesis is not an inference from a single regional case but a pattern across multiple distinct traditions."
+    },
+    {
+      "concept": "Comparative East Central European framework",
+      "claim": "The region between Western and Eastern Europe — Hungary, the Balkans, Slovenia, Romania, and neighboring areas — constitutes a distinctive zone for witchcraft history, preserving belief structures archaic relative to the fully Christianized West. Comparison within this zone reveals structural patterns invisible when each nation is studied in isolation.",
+      "implication": "Western European-centered witchcraft historiography misses the comparative dimension that East Central European scholarship provides; Pócs's work opens the comparative field that Ginzburg's thesis requires."
+    },
+    {
+      "concept": "Fairy and witch beliefs as overlapping systems",
+      "claim": "Fairy belief and witch belief in South-Eastern and Central Europe were not separate categories but overlapping systems organized around a shared concern with dangerous supernatural contact and the management of spiritual power. The beings described in fairy lore and the beings described in witch beliefs shared structural features and were sometimes identified with each other.",
+      "implication": "Witch belief cannot be studied in isolation from the broader supernatural ecology of the culture; understanding what people feared in witches requires understanding the full range of supernatural beings they recognized."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Carlo Ginzburg (shamanism thesis; mediator tradition; reading confessions against the grain for genuine folk content)",
+      "Emma Wilby (British parallel for shamanic familiar-spirit traditions)",
+      "Gustav Henningsen (comparative approach to Southern and East European witchcraft)"
+    ],
+    "creative_tension_with": [
+      "Richard Kieckhefer (Kieckhefer's constructionist account of the sabbath contrasts with Pócs's evidence for genuine popular traditions underlying it)",
+      "Norman Cohn (Cohn argued the sabbath was entirely a learned construction; Pócs provides counter-evidence)",
+      "Western European-focused historians who generalize from French, German, or English patterns"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Between the Living and the Dead is the essential text for East Central European witchcraft and provides the most comprehensive empirical support for Ginzburg's shamanism thesis. The Witchcraft Mythologies and Persecutions series has been transformative in making Hungarian and East European scholarship accessible to Western researchers.",
+    "criticisms": [
+      "The use of 19th–20th century ethnographic evidence as a window onto early modern belief structures is methodologically contested; folk beliefs may have changed substantially in the intervening centuries",
+      "Some historians question whether structural parallels between East Central European traditions and Siberian shamanism constitute evidence of historical connection or merely typological similarity",
+      "Ronald Hutton expressed measured skepticism about the shamanism thesis even as applied to British evidence; by extension, the East European case, while more compelling, faces similar methodological challenges",
+      "The accessibility barrier (much of Pócs's foundational work was originally in Hungarian) meant that her scholarship was slower to influence Western debates than its quality warranted"
+    ]
+  },
+
+  "geographical_focus": ["Hungary", "East Central Europe", "the Balkans", "broadly comparative"],
+  "chronological_focus": "Early modern period (16th–18th century witch trials) with comparative attention to medieval and modern ethnographic evidence",
+
+  "influence_on_field": "MAJOR",
+
+  "notable_debates": [
+    "Shamanism thesis: does East Central European evidence confirm Ginzburg's argument, or do regional specific differences complicate comparison?",
+    "Continuity of folk belief: can 19th–20th century ethnographic evidence reliably illuminate early modern belief?",
+    "Mediator vs. witch: how did the transition from respected mediator to prosecuted witch occur in specific social and legal contexts?"
+  ],
+
+  "legacy_status": "Definitive authority on Hungarian and East Central European witchcraft; instrumental in internationalizing the field by making East European scholarship accessible; co-organizer of major international witchcraft research projects centered at Budapest and Vienna.",
+
+  "scholarly_disagreement": "The central methodological debate around Pócs's work concerns the evidentiary status of the shamanism thesis. Critics, including Kieckhefer from the constructionist direction and Hutton from cautious empiricism, question whether the structural parallels Pócs identifies between East Central European mediator traditions and shamanism in other cultures establish historical genealogy or merely typological similarity. The question is whether the belief patterns Pócs documents are survivals of ancient shamanic practice or convergent developments that arose independently in multiple cultures under similar social conditions. Pócs argues for historical continuity based on the specificity and persistence of documented traditions; critics argue the parallels are too generic to bear this interpretive weight. A separate debate concerns the use of later ethnographic evidence to reconstruct early modern belief: even if 19th-century Hungarian folk belief documented shamanic-type traditions, this does not automatically establish that similar traditions existed in the 16th or 17th centuries in the same form. The temporal gap may conceal substantial transformation.",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

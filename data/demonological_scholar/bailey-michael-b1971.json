@@ -1,0 +1,114 @@
+{
+  "id": "bailey-michael-b1971",
+  "name": "Michael D. Bailey",
+  "birth_year": 1971,
+  "birth_place": "United States",
+  "academic_discipline": "Medieval and Early Modern History",
+  "primary_institution": "Iowa State University (Professor of History)",
+  "specialization": "Late medieval magic, superstition and its construction, history of magic broadly, medieval-to-early-modern transition in witchcraft",
+
+  "major_works": [
+    {
+      "title": "Magic and Superstition in Europe: A Concise History from Antiquity to the Present",
+      "year": 2006,
+      "publisher": "Rowman and Littlefield",
+      "significance": "Standard introductory text covering European magic and superstition from antiquity to the present; widely used in university courses; presents the main scholarly debates accessibly"
+    },
+    {
+      "title": "Fearful Spirits, Reasoned Follies: The Boundaries of Superstition in Late Medieval Europe",
+      "year": 2013,
+      "publisher": "Cornell University Press",
+      "significance": "Major scholarly monograph arguing that the category of 'superstition' was constructed and policed by medieval clergy as a tool for defining legitimate religion; documents how clerical anxieties about popular practice generated the conceptual framework that enabled witch prosecution"
+    },
+    {
+      "title": "Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages",
+      "year": 2003,
+      "publisher": "Pennsylvania State University Press",
+      "significance": "Study of the reforming friar Johannes Nider and his role in constructing the early witchcraft stereotype; links the emergence of the cumulative concept to the conciliarist reform movement of the early 15th century"
+    },
+    {
+      "title": "Magic: The Basics",
+      "year": 2018,
+      "publisher": "Routledge",
+      "significance": "Accessible introduction to the history and anthropology of magic; demonstrates command of the full comparative literature; useful pedagogical resource"
+    }
+  ],
+
+  "historiographical_position": "INTELLECTUAL_HISTORY",
+  "core_argument": "Bailey's central argument is that the construction of the category of 'superstition' by medieval clergy was a critical precondition for the witch trials. Medieval clerics — theologians, canonists, inquisitors — invested enormous intellectual energy in defining what counted as legitimate religious practice and what counted as superstition: excessive, erroneous, or dangerous engagement with supernatural forces. The superstition category was inherently normative and political: it defined the boundaries of acceptable practice, identified deviations from orthodoxy, and created the conceptual framework within which accused practitioners could be judged and condemned. Bailey argues that this clerical project of defining and policing superstition had its own internal logic and institutional history that does not reduce either to social tensions (Thomas) or to popular practice reinterpreted through demonological lenses (Ginzburg). The learned clerics who elaborated the superstition category were engaged in an intellectual project with genuine theological stakes: they were defining the relationship between orthodox Christianity and the supernatural, determining what kinds of spiritual contact were licit and what kinds were diabolical, and constructing a framework within which practices that had previously been tolerated could be reread as dangerous. This clerical construction of the superstition concept was a prerequisite for the witch prosecutions: without the theological framework that made 'superstition' a category of serious religious danger, the accumulation of folk practices, popular beliefs, and maleficium accusations into a coherent prosecution ideology would have been impossible. Bailey's work on Johannes Nider — the early 15th-century reforming Dominican friar whose Formicarius (c. 1437) is one of the earliest systematic witch treatises — documents how this conceptual construction occurred in a specific reforming context. Nider wrote about witches in the context of the conciliarist reform movement at the Council of Basel, where clerical reformers were confronting what they saw as widespread moral and spiritual decay. The witch stereotype that Nider helped construct was part of a broader reforming agenda aimed at purifying Christian practice by identifying and eliminating spiritual corruption. Bailey thus places the intellectual origins of the witch trials within the internal dynamics of late medieval church reform rather than treating demonology as either popular superstition or purely abstract theology.",
+
+  "methodological_approach": {
+    "primary_materials": "Medieval theological treatises on superstition and magic; penitential literature; inquisitorial handbooks; conciliar documents; early witchcraft treatises (Nider, early Malleus sources)",
+    "analysis_target": "The intellectual construction of the superstition category and its role in enabling witch prosecution; the specific reforming context of early witchcraft thought",
+    "evidence_type": "Textual analysis of theological and canonical literature; contextual reading within church reform movements",
+    "explanatory_level": "Intellectual history of categories; institutional context of clerical reform; conceptual prerequisites for prosecution ideology"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Superstition as a constructed clerical category",
+      "claim": "Medieval clerics actively constructed and policed the category of superstition as a tool for defining legitimate Christianity. This construction was not a neutral description of folk practice but a normative judgment that identified certain practices as spiritually dangerous and potentially diabolical.",
+      "implication": "The conceptual framework that enabled witch prosecution was built over centuries of clerical boundary-drawing; it was not invented in the 15th century but assembled from a long tradition of anxious regulation of popular practice."
+    },
+    {
+      "concept": "Reform movement as context for early witch prosecution",
+      "claim": "The early systematic witch treatises — particularly Nider's Formicarius — were written within the context of conciliarist reform efforts at the Council of Basel (1431–49). The witch stereotype was partly a product of reformers' anxieties about spiritual corruption rather than purely a response to popular accusation.",
+      "implication": "The intellectual origins of witch prosecution are embedded in the internal politics of late medieval church reform, not only in encounters with popular magic or in abstract theological development."
+    },
+    {
+      "concept": "Boundaries of the natural, supernatural, and superstitious",
+      "claim": "Medieval clerics developed sophisticated frameworks for distinguishing natural causation, legitimate supernatural intervention (miracles, saintly intercession), and illegitimate supernatural contact (demonic magic, superstition). The witch prosecution ideology was built on these distinctions.",
+      "implication": "Understanding medieval witchcraft requires understanding medieval cosmology and its internal distinctions — not simply between religion and magic, but between different kinds of supernatural contact with different theological valuations."
+    },
+    {
+      "concept": "Accessibility and pedagogy in witchcraft history",
+      "claim": "The history of magic and witchcraft required accessible synthetic texts that could bring the major scholarly debates to broad audiences; Bailey's introductory texts fulfill this pedagogical function.",
+      "implication": "Magic and Superstition in Europe and Magic: The Basics have become standard teaching texts, influencing how the field is introduced to undergraduates and general readers."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Richard Kieckhefer (medieval intellectual history of magic; cumulative concept analysis)",
+      "Stuart Clark (intellectual history approach; taking learned tradition seriously)",
+      "Scholars of medieval church reform who contextualize demonology within broader ecclesiastical history"
+    ],
+    "creative_tension_with": [
+      "Carlo Ginzburg (Ginzburg's interest in popular survival vs. Bailey's focus on clerical construction)",
+      "Social historians who explain witchcraft through community dynamics rather than intellectual construction",
+      "Historians who treat the superstition category as merely descriptive rather than as a normative construction"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Battling Demons provided the first detailed contextual analysis of Nider's role in early witchcraft thought; Fearful Spirits established the superstition-construction argument in systematic form; the introductory texts have become standard course materials.",
+    "criticisms": [
+      "Some historians questioned whether Bailey's focus on clerical construction of superstition adequately accounts for the experiences and agency of accused individuals",
+      "The relationship between the superstition category and actual prosecution practice has been questioned: did the theological framework really shape how magistrates and accusers understood specific cases?",
+      "Some found the reform-movement context of Nider too historically specific to bear the weight Bailey places on it as an origin point",
+      "As a primarily medieval historian, Bailey's engagement with the later peak period of prosecution (1550–1650) is less detailed than his coverage of the 14th–15th century origins"
+    ]
+  },
+
+  "geographical_focus": ["Western Europe", "broadly European"],
+  "chronological_focus": "1300–1500 (medieval origins); broader survey to present in introductory texts",
+
+  "influence_on_field": "MAJOR",
+
+  "notable_debates": [
+    "The role of church reform in generating the witch prosecution ideology: was demonology a product of reforming anxieties or of encounter with popular practice?",
+    "Superstition as category: was clerical construction of superstition primarily driven by theological logic or by encounter with genuine popular practice?",
+    "The medieval-to-early-modern transition in witchcraft: how continuous was prosecution ideology across the 1500 boundary?"
+  ],
+
+  "legacy_status": "Founding co-editor of the journal Magic, Ritual and Witchcraft (Penn State University Press); standard introductory texts widely adopted; established the superstition-construction argument in witchcraft historiography.",
+
+  "scholarly_disagreement": "The primary debate around Bailey's work concerns the relationship between learned construction and popular practice. Ginzburg and his followers argue that popular traditions (shamanism, fertility cults, ecstatic practices) fed into the witch trial confessions and shaped what inquisitors heard, even if they reinterpreted it demonologically. Bailey's constructionist emphasis reverses this: the clerical framework preceded and shaped the encounter with popular practice. The debate is partly empirical (which came first, the category or the practice?) and partly methodological (can we recover genuine popular content from records produced by and for learned institutions?). Bailey also debates with social historians over the explanatory priority of intellectual categories vs. social dynamics: was the category of superstition a precondition for prosecution (Bailey), or were the social dynamics of accusation the real driver, with intellectual categories providing post-hoc justification (Thomas, Macfarlane)?",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

@@ -1,0 +1,102 @@
+{
+  "id": "wilby-emma-b1968",
+  "name": "Emma Wilby",
+  "birth_year": 1968,
+  "birth_place": "England (approximate)",
+  "academic_discipline": "History and Folk Studies",
+  "primary_institution": "University of Exeter (Honorary Fellow)",
+  "specialization": "Cunning folk, familiar spirits, shamanism and visionary traditions in British witchcraft, Isobel Gowdie, folk magic",
+
+  "major_works": [
+    {
+      "title": "Cunning Folk and Familiar Spirits: Shamanistic Visionary Traditions in Early Modern British Witchcraft and Magic",
+      "year": 2005,
+      "publisher": "Sussex Academic Press",
+      "significance": "Argues that familiar spirit beliefs in British witchcraft records reflect genuine pre-Christian visionary traditions; links British cunning folk to shamanic practices; foundational text for shamanism-in-British-witchcraft thesis"
+    },
+    {
+      "title": "The Visions of Isobel Gowdie: Magic, Witchcraft and Dark Shamanism in Seventeenth-Century Scotland",
+      "year": 2010,
+      "publisher": "Sussex Academic Press",
+      "significance": "Extended microhistorical analysis of the 1662 Auldearn trial confessions; argues Gowdie's elaborate visions reflect authentic shamanic trance traditions rather than torture-induced fabrication; major contribution to Scottish witchcraft studies"
+    }
+  ],
+
+  "historiographical_position": "ANTHROPOLOGICAL_HISTORY",
+  "core_argument": "Wilby's central argument engages directly with the question raised by Carlo Ginzburg in The Night Battles and Ecstasies: did accused witches and cunning folk genuinely hold visionary beliefs that derived from pre-Christian cultural traditions, or were their confessions entirely shaped by torture, judicial leading questions, and demonological frameworks imposed from above? Wilby argues, more boldly than Ginzburg on the British case, that the familiar spirit traditions documented in British witch trial records and cunning folk accounts reflect genuine visionary experiences rooted in archaic shamanistic practices. Her method is to read trial records — particularly the famously detailed confessions of Isobel Gowdie — against a comparative corpus of shamanic traditions from ethnographic and anthropological literature, identifying structural parallels in spirit contact, ecstatic flight, animal transformation, and boundary crossing between living and dead. Wilby does not claim these experiences were literally real in the sense of involving supernatural entities; she argues they were real in the sense that the accused persons were reporting genuine experiences of altered consciousness, visionary encounter, and what we might now understand as culturally-shaped trance states. These experiences were then filtered through judicial and demonological lenses in the trial record, but the underlying experiential content was not fabricated. For cunning folk specifically, Wilby documents the central role of familiar spirits — often described as small fairy-like beings or animal companions — as the source of the practitioner's healing and divinatory power. She traces how these familiar spirits were reinterpreted by demonologists as diabolical imps but preserved genuine ritual relationships between practitioner and spirit helper that paralleled shamanic practices in Siberian and other traditions. This puts Wilby in dialogue with Ginzburg's shamanism thesis while extending it specifically to Britain and grounding it in detailed textual analysis of specific cases rather than broad comparative synthesis.",
+
+  "methodological_approach": {
+    "primary_materials": "Scottish witch trial records (particularly Isobel Gowdie's 1662 confessions), English cunning folk records, comparative anthropological literature on shamanism, fairy belief accounts",
+    "analysis_target": "The experiential content preserved in trial confessions beneath judicial and demonological overlay; structural parallels between British familiar spirit traditions and shamanic practices",
+    "evidence_type": "Close reading of confession texts combined with comparative anthropology; identification of structural parallels across cultures",
+    "explanatory_level": "Cultural and experiential history; anthropological comparison; individual cases read for genuine experiential content"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Familiar spirits as shamanistic intermediaries",
+      "claim": "The familiar spirits documented in British cunning folk records — small beings of fairy-like nature that gave practitioners their powers and guided their healing work — reflect a pre-Christian tradition of spirit intermediary comparable to shamanic spirit helpers in other cultural contexts.",
+      "implication": "British magical practice had deeper cultural roots than the early modern period; cunning folk were not simply drawing on contemporary folk superstition but on traditions of spiritual intermediacy that predated Christian influence."
+    },
+    {
+      "concept": "Isobel Gowdie's confessions as genuine visionary account",
+      "claim": "The 1662 Auldearn confessions of Isobel Gowdie — among the most elaborate and detailed witch trial confessions in Scottish records — preserve genuine visionary and ritual content despite being obtained in a trial context. Gowdie's visions of fairy courts, aerial flight, and animal transformation reflect authentic altered-consciousness experiences, not pure judicial fabrication.",
+      "implication": "Some witch trial confessions, even elaborate and fantastical ones, may contain genuine experiential content that can be recovered through careful comparative analysis. Ginzburg's method of reading confessions against the grain applies to British as well as Italian sources."
+    },
+    {
+      "concept": "Continuity between cunning folk and accused witches",
+      "claim": "The same visionary and familiar-spirit traditions that empowered cunning folk practitioners could, under judicial pressure, be reinterpreted as diabolical; the same beliefs that justified healing practice were reread as evidence of demonic pact.",
+      "implication": "The boundary between witch and cunning folk was culturally and ritually permeable; prosecution transformed rather than invented the accused's practice."
+    },
+    {
+      "concept": "Dark shamanism: the destructive face of visionary practice",
+      "claim": "Not all shamanic visionary practice was benevolent; Wilby's analysis of Gowdie documents a 'dark shamanism' tradition in which practitioners claimed powers of harm as well as healing, consistent with shamanic traditions that include both healing and harmful spiritual work.",
+      "implication": "Some accused witches' claims to power over harm may reflect genuine self-understandings rooted in visionary tradition rather than purely judicial invention."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Carlo Ginzburg (shamanism thesis; reading confessions against the grain for genuine cultural content)",
+      "Éva Pócs (East Central European comparanda for shamanic witch-belief traditions)",
+      "Ronald Hutton (cunning folk as genuine practitioners; emphasis on practitioner perspective)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Wilby's focus on experiential folk content contrasts with Clark's emphasis on elite intellectual tradition)",
+      "Historians who argue all witch trial confessions are entirely torture-shaped fabrications with no genuine content",
+      "Skeptics of the shamanism thesis who argue cross-cultural parallels are too general to establish historical connection"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Wilby's work significantly extended Ginzburg's shamanism argument to the British case and provided the most detailed textual analysis of familiar spirit traditions in British sources. Her Isobel Gowdie study is the most sustained microhistorical analysis of a Scottish witch trial and has become central to Scottish witchcraft historiography.",
+    "criticisms": [
+      "Critics question whether structural parallels between British familiar spirits and shamanic practices in other cultures constitute evidence of historical connection or merely reflect universal patterns of visionary experience",
+      "Some historians argue Wilby is too credulous about genuine experiential content in confessions obtained under judicial pressure, even without formal torture",
+      "The dating and origins of 'pre-Christian' British visionary traditions remain difficult to establish; what Wilby identifies as archaic may be recent",
+      "Ronald Hutton, though broadly sympathetic, expressed reservations about the strength of the shamanism parallel in British evidence specifically"
+    ]
+  },
+
+  "geographical_focus": ["England", "Scotland"],
+  "chronological_focus": "1500–1700 (early modern British witchcraft)",
+
+  "influence_on_field": "MAJOR",
+
+  "notable_debates": [
+    "Shamanism in British witchcraft: does the evidence from British records support Ginzburg's broader thesis or reflect a specifically British pattern?",
+    "The status of elaborate confessions: how much genuine content can be recovered from confession texts obtained under judicial pressure?",
+    "Isobel Gowdie: was she a genuine visionary practitioner, a mentally ill woman, or a judicial construction?"
+  ],
+
+  "legacy_status": "Established the British shamanism argument; Cunning Folk and Familiar Spirits is the standard reference for familiar spirit traditions in British witchcraft.",
+
+  "scholarly_disagreement": "The most significant debate surrounding Wilby concerns the evidentiary basis for the shamanism thesis. Historians skeptical of cross-cultural comparison argue that structural parallels between British familiar spirits and Siberian shamanism do not establish historical or genealogical connection. Ronald Hutton's The Witch (2017) engaged critically with shamanism arguments, arguing that while the comparative parallels are suggestive, the British evidence does not establish the existence of a continuous pre-Christian shamanic tradition of the kind Ginzburg and Wilby posit. The debate ultimately concerns what counts as evidence for ancient survival versus coincident development of similar visionary patterns in different cultural contexts.",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

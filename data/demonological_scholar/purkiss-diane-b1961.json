@@ -2,68 +2,119 @@
   "id": "purkiss-diane-b1961",
   "name": "Diane Purkiss",
   "birth_year": 1961,
-  "death_year": null,
-  "birth_place": "Australia",
+  "birth_place": "England (approximate)",
   "academic_discipline": "Literary and Cultural History",
-  "primary_institution": "University of Oxford",
-  "specialization": "Representations of witchcraft in literature and culture; challenge to feminist victimhood narratives; how women used witch identity",
+  "primary_institution": "Keble College, Oxford (Fellow and Tutor in English Literature)",
+  "specialization": "Feminist analysis of witchcraft, literary representations of witches, gender and witch narratives, early modern literature and culture, fairy tradition",
+
   "major_works": [
     {
       "title": "The Witch in History: Early Modern and Twentieth-Century Representations",
       "year": 1996,
       "publisher": "Routledge",
-      "significance": "Literary-cultural analysis of witch representations; challenged feminist narratives of witchcraft as victim history; examined how witch identity was used by women themselves",
-      "database_entry": null
+      "significance": "Critical analysis of witchcraft representations from both early modern and 20th-century feminist perspectives; contains influential critique of feminist historians who romanticized witches; argues that witch narratives were shaped by women's own anxieties, not merely by male persecution"
+    },
+    {
+      "title": "At the Bottom of the Garden: A Dark History of Fairies, Hobgoblins and other Troublesome Things",
+      "year": 2000,
+      "publisher": "New York University Press",
+      "significance": "Cultural history of fairy belief from early modern period to the present; contextualizes witchcraft belief within broader culture of supernatural encounter"
+    },
+    {
+      "title": "Literature, Gender and Politics during the English Civil War",
+      "year": 2005,
+      "publisher": "Cambridge University Press",
+      "significance": "Extends analysis of gender and political representation into Civil War literature; demonstrates mastery of the full early modern literary field"
+    },
+    {
+      "title": "The English Civil War: A People's History",
+      "year": 2006,
+      "publisher": "HarperCollins",
+      "significance": "Popular accessible synthesis of Civil War history; shows breadth beyond witchcraft specifically"
     },
     {
       "title": "Troublesome Things: A History of Fairies and Fairy Stories",
       "year": 2000,
       "publisher": "Allen Lane",
-      "significance": "Extension of cultural history methodology to fairy beliefs; relevant to overlap between fairy and witch traditions",
-      "database_entry": null
+      "significance": "Companion volume tracing fairy tradition in English literature and culture"
     }
   ],
-  "historiographical_position": "INTELLECTUAL HISTORY",
-  "core_argument": "Feminist narratives that treat accused witches purely as innocent victims of patriarchal persecution suppress the agency and complexity of women who were accused or who used witch identity. Witch representations in culture served multiple purposes, including allowing women to articulate anxieties about domestic life, childbirth, and social marginalization. Stories told about witches were not straightforwardly imposed from above but negotiated in complex ways.",
+
+  "historiographical_position": "FEMINIST_CULTURAL_HISTORY",
+  "core_argument": "Purkiss's most influential intervention in witchcraft historiography is her critique of an earlier feminist tradition that celebrated accused witches as proto-feminist rebels against patriarchal persecution. Historians and writers in the 1970s and 1980s — drawing on a tradition that included Matilda Joslyn Gage and Barbara Ehrenreich — argued that the witch hunt was fundamentally a campaign of male violence against independent women, that accused witches were often midwives or healers systematically targeted by the medical establishment, and that the witch represented a figure of female power suppressed by patriarchy. Purkiss dismantled these claims on two grounds. First, the historical evidence did not support them: accused witches were not disproportionately midwives, the charges against them were not primarily about healing or reproductive knowledge, and the hunt was not primarily organized by male-dominated medicine. Second, and more importantly, the feminist romanticization of witches was itself a form of distortion that served modern political purposes rather than historical understanding. It reconstructed the witch as a figure of female empowerment, ignoring that the historical witch was primarily a figure of female anxiety — a bad mother who murdered children, an envious neighbor who poisoned cattle, a woman whose malice threatened the community. Purkiss argued that the witch stories told in trials often reflected women's own fears about failing as mothers, wives, and neighbors — anxieties about inadequate mothering externalized as the witch who killed children; fears about failed community reciprocity projected onto the malicious neighbor. Women were not only victims of witch-hunting but active participants in its narratives, both as accusers and as women whose internal conflicts shaped the confessions they gave. This does not minimize the violence of prosecution, but it complicates the simple narrative of male persecution of female power. Purkiss's approach is primarily literary and narrative: she reads witch trial depositions as texts shaped by genre conventions and cultural fantasies, not as transparent windows onto social reality. This literary sensibility connects her to cultural history approaches and distinguishes her from social historians who read the same documents for demographic or functional information.",
+
   "methodological_approach": {
-    "primary_materials": "Witch pamphlets, drama, literary texts, trial narratives from England; twentieth-century representations of witchcraft",
-    "analysis_target": "Narrative structures and representational strategies in witch texts; how accused women's voices appear in trial records; modern uses of witch history",
-    "evidence_type": "Literary close reading; narrative analysis; cultural history of representations",
-    "explanatory_level": "Cultural-representational: meaning-making and narrative agency in witch discourse"
+    "primary_materials": "Witch trial depositions and pamphlet literature read as literary texts; early modern representations of witchcraft in drama, poetry, and prose; 20th-century feminist writing about witchcraft",
+    "analysis_target": "The narrative structures, gender anxieties, and cultural fantasies embedded in witchcraft representations both historical and modern",
+    "evidence_type": "Literary analysis of texts; deconstruction of historiographical traditions; feminist theory applied to historical sources",
+    "explanatory_level": "Cultural narrative, gender anxiety, representational analysis"
   },
+
   "key_contributions": [
     {
-      "concept": "Challenge to feminist victimhood narrative",
-      "claim": "Reading accused witches as simple victims of patriarchal persecution erases their complexity and agency; women participated in witchcraft discourse in multiple ways",
-      "implication": "Feminist history of witchcraft needs more nuanced models of agency and complicity"
+      "concept": "Critique of feminist romanticism",
+      "claim": "Feminist historians and writers who celebrated accused witches as rebels against patriarchy misread both the historical evidence and the nature of witch narratives. Accused witches were not primarily midwives, the persecution was not primarily organized by male medicine, and the witch figure in trial depositions expressed female anxieties rather than female power.",
+      "implication": "Feminist analysis of witchcraft must begin from what the historical sources actually say rather than what modern politics requires; the witch was not a feminist heroine but a figure through which multiple anxieties — including women's own — were expressed and managed."
     },
     {
-      "concept": "Witch as domestic fantasy",
-      "claim": "Witch stories articulated anxieties around domestic roles, especially motherhood, food, and household authority; the witch figure expressed what could not be said directly",
-      "implication": "Cultural analysis of witch discourse reveals the psychic pressures of early modern domestic life"
+      "concept": "Witch narratives as sites of gender anxiety",
+      "claim": "Witch trial depositions and confessions were shaped by deep cultural anxieties about gender, particularly about motherhood and bodily control. The witch as child-murderer, milk-stealer, and sexual transgressor encoded fears about women who failed in their expected social roles, fears that women as well as men held.",
+      "implication": "Witch trial evidence cannot be read as a record of real practice or real persecution without also reading it as a record of cultural fantasy; the narrative form of witchcraft accusations was as important as their social context."
     },
     {
-      "concept": "Modern appropriations of witch history",
-      "claim": "Twentieth-century feminist and Wiccan appropriations of witch history create their own mythologies that distort historical understanding",
-      "implication": "The historiography of witchcraft is itself a cultural artifact to be analyzed"
+      "concept": "Women as active participants in witch-hunt narratives",
+      "claim": "Women were not simply victims of male persecution in witchcraft trials; they were accusers, witnesses, and confessors whose own anxieties and conflicts shaped the narratives. Female accusers transferred their own fears onto accused witches; female confessors gave confessions that expressed genuine psychic conflicts.",
+      "implication": "Gender analysis of witchcraft must be more complex than a perpetrator/victim binary; women's active role in generating and sustaining witch-hunt narratives is historically significant."
+    },
+    {
+      "concept": "Literary approach to trial documents",
+      "claim": "Witch trial depositions and confessions were not transparent records of events but texts shaped by genre conventions, judicial expectations, and cultural narratives. Reading them requires literary analysis as much as historical contextualisation.",
+      "implication": "Social historians who read trial documents for social or functional information without attention to narrative structure risk misreading what the documents are doing."
     }
   ],
+
   "scholarly_relationships": {
-    "alignment_with": ["roper-lyndal-b1956", "de-blecourt-willem-b1956"],
-    "creative_tension_with": ["barstow-anne-llewellyn-b1936", "murray-margaret-1863-1963"]
-  },
-  "reception_and_critique": {
-    "major_influences": "Literary theory (new historicism, feminist literary criticism); cultural history; psychoanalytic narrative theory",
-    "criticisms": [
-      "Some historians argue the literary approach loses sight of the material reality of persecution",
-      "The critique of feminist victimhood narrative sometimes reads as dismissive of genuine gendered violence",
-      "Primarily English-language sources limit comparative claims"
+    "alignment_with": [
+      "Lyndal Roper (gender-focused analysis; attention to psychological and bodily dimensions of witchcraft)",
+      "Robin Briggs (skepticism about simple persecution narratives)",
+      "Stuart Clark (taking textual/intellectual content of witchcraft seriously)"
+    ],
+    "creative_tension_with": [
+      "Early feminist historians (Gage, Ehrenreich, Daly) who romanticized accused witches as feminist heroes",
+      "Social historians (Thomas, Macfarlane) who read trial documents for social functions without narrative analysis",
+      "Ronald Hutton (Hutton's practitioner-centered approach differs from Purkiss's narrative analysis)"
     ]
   },
-  "historiographical_significance": "Purkiss introduced literary and cultural theory into witchcraft historiography in a sustained and rigorous way, opening analysis of how witch narratives functioned culturally beyond their evidential content. Her challenge to feminist victimhood narratives stimulated productive debate about agency and representation. Her work on modern representations provided self-reflexive tools for examining how witchcraft history has been used by later cultural movements.",
+
+  "reception_and_critique": {
+    "major_influences": "The Witch in History significantly changed how feminist historians approached witchcraft, redirecting analysis from victim-centered narratives toward analysis of narrative structure and gendered anxiety. It remains required reading for anyone applying feminist frameworks to witchcraft history.",
+    "criticisms": [
+      "Some feminist historians argued Purkiss's critique of feminist romanticism, while valid as criticism, risked delegitimizing feminist analysis of witchcraft altogether — the solution to bad feminist history is not less feminist history",
+      "Critics questioned whether Purkiss's literary approach, while illuminating the narrative structure of trial documents, neglects the social and material realities of persecution",
+      "Some argued that acknowledging women's participation in witch-hunt narratives risks minimizing the genuine misogyny of the institutional witch-hunt",
+      "The scope of the 'feminist romanticism' she critiques has been questioned — how representative was the position she attacked?"
+    ]
+  },
+
+  "geographical_focus": ["England", "broadly European and North American"],
+  "chronological_focus": "1500–1700 (early modern), with attention to 20th-century representations",
+
+  "influence_on_field": "MAJOR",
+
+  "notable_debates": [
+    "Was the witch hunt primarily a campaign against women, or a more complex social phenomenon in which gender was one factor among many?",
+    "The status of feminist history of witchcraft: does Purkiss's critique point toward better feminist analysis or away from feminist analysis?",
+    "Literary vs. social approaches: can trial documents be read simultaneously as narrative texts and social evidence?"
+  ],
+
+  "legacy_status": "The Witch in History is the essential reference point for feminist analysis of witchcraft historiography; Purkiss is among the most cited scholars in the cultural history of witchcraft.",
+
+  "scholarly_disagreement": "Purkiss's critique of feminist romanticism was itself critiqued from two directions. Some feminist scholars argued that she set up an extreme position (the witch-as-feminist-hero) as her target and that serious feminist historiography had already moved beyond it by 1996; others argued that her focus on women's anxieties and participation in witch narratives risked a form of victim-blaming that minimized systematic male violence. Lyndal Roper's psychoanalytic approach to witchcraft shares Purkiss's commitment to gender analysis but reaches different conclusions about the nature of the anxieties involved — for Roper, the fantasies expressed in witch trial confessions had deep bodily and psychosexual dimensions that Purkiss's narrative analysis does not fully account for. Social historians like Thomas and Macfarlane, while not engaging directly with Purkiss's feminist framework, provide an implicit counter-argument: if witchcraft accusations followed the social pattern of charity-refusal between neighbors, gender was a demographic fact about accusation patterns rather than the primary cultural driver.",
+
   "source_method": "Published scholarship and critical historiographical reconstruction",
   "review_status": "DRAFT",
   "confidence": "HIGH",
-  "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
 }

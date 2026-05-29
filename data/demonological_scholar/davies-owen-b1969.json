@@ -2,75 +2,125 @@
   "id": "davies-owen-b1969",
   "name": "Owen Davies",
   "birth_year": 1969,
-  "death_year": null,
-  "birth_place": "United Kingdom",
-  "academic_discipline": "History",
-  "primary_institution": "University of Hertfordshire",
-  "specialization": "Post-Reformation cunning folk; continuity of magical practice after witch trials; popular magic in modern England",
+  "birth_place": "England",
+  "academic_discipline": "Cultural History",
+  "primary_institution": "University of Hertfordshire (Professor of Social History)",
+  "specialization": "Magic, grimoires, ghosts, popular medicine, cunning folk, post-Enlightenment witchcraft belief, history of occultism",
+
   "major_works": [
+    {
+      "title": "Grimoires: A History of Magic Books",
+      "year": 2009,
+      "publisher": "Oxford University Press",
+      "significance": "First comprehensive history of magical books (grimoires) from antiquity to the present; documents the transmission and transformation of written magical knowledge across cultures and centuries; demonstrates continuity of magical textual tradition well beyond the witch-trial period"
+    },
     {
       "title": "Popular Magic: Cunning-folk in English History",
       "year": 2003,
       "publisher": "Hambledon Continuum",
-      "significance": "Comprehensive study of cunning folk in England from Reformation to twentieth century; showed continuity of magical practice service after witch-trial era ended",
-      "database_entry": null
+      "significance": "Comprehensive survey of cunning folk in English history from the medieval period through the 20th century; documents the persistence and professionalization of magical practice long after formal witch trials ended"
     },
     {
-      "title": "Witchcraft, Magic and Culture 1736-1951",
+      "title": "Witchcraft, Magic and Culture 1736–1951",
       "year": 1999,
       "publisher": "Manchester University Press",
-      "significance": "Post-prosecution popular magical beliefs and their legal and cultural management in modern England",
-      "database_entry": null
+      "significance": "Foundational study of witchcraft belief and magical practice after the repeal of the English Witchcraft Act; documents the long 18th–20th century life of popular belief conventionally assumed to have disappeared"
+    },
+    {
+      "title": "The Oxford Illustrated History of Witchcraft and Magic",
+      "year": 2017,
+      "publisher": "Oxford University Press",
+      "significance": "Major edited collection covering witchcraft and magic from antiquity to the present; brings together leading scholars; Davies's editorial framework emphasizes long-term continuity"
     },
     {
       "title": "America Bewitched: The Story of Witchcraft After Salem",
       "year": 2013,
       "publisher": "Oxford University Press",
-      "significance": "Extension of cunning folk analysis to American context; post-Salem popular witchcraft and magic",
-      "database_entry": null
+      "significance": "Documents American witchcraft belief and practice from the colonial period through the 20th century; extends the continuity argument to the North American context"
+    },
+    {
+      "title": "Magic: A Very Short Introduction",
+      "year": 2012,
+      "publisher": "Oxford University Press",
+      "significance": "Concise accessible overview of magic's history and anthropology; demonstrates command of the full disciplinary landscape"
     }
   ],
-  "historiographical_position": "SOCIAL HISTORY",
-  "core_argument": "Magical belief and practice did not end with the witch trials; cunning folk continued to operate in England well into the nineteenth and twentieth centuries, serving community needs for healing, divination, and counter-magic. The end of formal prosecution did not indicate the end of belief; it indicated a change in how the state managed popular magic.",
+
+  "historiographical_position": "CULTURAL_HISTORY",
+  "core_argument": "Davies's most significant contribution to witchcraft studies is the systematic documentation that magical belief and practice did not end with the witch trials. The conventional narrative of witchcraft history treats the period between approximately 1400 and 1750 as the era of witch prosecution and implies that the decline of prosecution reflects the decline of belief. Davies challenged this narrative by demonstrating that cunning folk continued to practice, communities continued to suspect witches, popular magical texts continued to circulate, and individuals continued to seek magical remedies well into the 19th and 20th centuries. His work on cunning folk documents their activities from the medieval period through the twentieth century, demonstrating remarkable occupational persistence and adaptation. His grimoire work shows that magical books — manuals of ceremonial and popular magic — circulated continuously from antiquity through the early modern period, the 18th century Enlightenment, Victorian occult revival, and into modern New Age practice, never losing their appeal despite repeated clerical and secular condemnation. This 'long history of magic' argument has methodological implications: if magic is not a phenomenon of a specific period but a persistent cultural form, then the 'decline of magic' thesis (Keith Thomas) requires revision or at least periodization. Davies argues that what declined in the 17th–18th centuries was elite acceptance of magic and formal judicial prosecution, not popular practice itself. Popular cunning folk continued doing what they had always done; they simply lost the prosecutorial attention that had made them visible in earlier records. This shifts the historian's task from explaining why magic declined to explaining why it persisted, adapted, and ultimately fed into modern occultism, New Age practice, and contemporary paganism.",
+
   "methodological_approach": {
-    "primary_materials": "Newspaper records, court records for petty offenses related to magic, folklore collection records, parish records from post-1736 England",
-    "analysis_target": "Continuity of cunning folk practice after Witchcraft Act 1736; social functions of popular magic; legal and cultural management of magical practitioners",
-    "evidence_type": "Archival survey of post-prosecution period; newspaper and court record analysis; continuity across before/after periodization",
-    "explanatory_level": "Social-functional: magic serving community needs across changing legal and religious contexts"
+    "primary_materials": "Cunning folk prosecution records (post-1736 Witchcraft Act era), popular printed magical texts, newspaper accounts, Victorian folklore surveys, manuscript grimoires, probate inventories listing magical books",
+    "analysis_target": "The persistence, adaptation, and continuity of popular magical practice across the conventional boundary of the early modern period",
+    "evidence_type": "Archival research in court records and local archives; bibliography of magical texts; folklore and ethnographic sources; comparative longue durée",
+    "explanatory_level": "Cultural continuity, popular practice, and long-term transformation of magical traditions"
   },
+
   "key_contributions": [
     {
-      "concept": "Post-prosecution magical continuity",
-      "claim": "Cunning folk and popular magical practitioners continued operating in England in substantial numbers through the nineteenth century and beyond, demonstrating that legal suppression did not end magical practice",
-      "implication": "The witch trial period cannot be sharply periodized from what followed; magical belief and practice show long-term continuity"
+      "concept": "Continuity thesis: magic persists past the witch trials",
+      "claim": "Popular magical belief and practice — cunning folk, charm-making, divination, and fear of witchcraft — continued and in some respects flourished after the formal end of witch prosecution in the 18th century. The 'end of magic' is an elite and institutional narrative, not a popular one.",
+      "implication": "Witchcraft history cannot be bounded by the trial period; understanding early modern magical belief requires understanding its later history and the continuities that link witch-trial-era cunning folk to Victorian occultists and 20th-century practitioners."
     },
     {
-      "concept": "Cunning folk as legitimate professionals",
-      "claim": "Cunning folk operated as recognized community specialists in healing, lost property recovery, and counter-magic; they were not marginal figures but integrated practitioners",
-      "implication": "Extends Hutton's social history of cunning folk into the post-prosecution period"
+      "concept": "Grimoires as a continuous textual tradition",
+      "claim": "Magical books circulated continuously from late antiquity through the 20th century, adapting to print, to new languages, and to new cultural contexts while preserving core ritual structures. Their transmission history reveals how magical knowledge moved across literacy levels, cultures, and centuries.",
+      "implication": "Magic had a learned and textual tradition alongside its oral and popular dimensions; understanding how magical texts circulated helps explain the persistence and transformation of practice."
     },
     {
-      "concept": "State management of magic",
-      "claim": "After 1736, the state managed popular magic through fraud laws and public health regulation rather than demonological prosecution; the form of control changed but not the attempt to control",
-      "implication": "State regulation of magical practice is continuous across the prosecution/post-prosecution divide"
+      "concept": "Cunning folk as professionals",
+      "claim": "Cunning folk operated as recognized practitioners in their communities, offering services for a fee or reciprocal exchange. They were not marginal or stigmatized figures but occupational specialists who continued to attract clients through the 19th and early 20th centuries.",
+      "implication": "The boundary between cunning folk and other kinds of medical, legal, and spiritual practitioners was one of social recognition and cultural legitimacy, not of the reality or unreality of their practices."
+    },
+    {
+      "concept": "Post-trial witchcraft accusation and community justice",
+      "claim": "Even after formal prosecution ended, communities continued to accuse, ostracize, and sometimes physically attack suspected witches through informal means. 'Swimming' (ducking) and other forms of community violence against suspected witches continued into the 19th century in England.",
+      "implication": "The end of formal prosecution did not end popular belief or communal enforcement; it redirected it into informal channels that left different archival traces."
     }
   ],
+
   "scholarly_relationships": {
-    "alignment_with": ["hutton-ronald-b1953", "thomas-keith-b1933"],
-    "creative_tension_with": ["muchembled-robert-b1944"]
-  },
-  "reception_and_critique": {
-    "major_influences": "Keith Thomas, Ronald Hutton, English social history; folklore studies",
-    "criticisms": [
-      "English focus limits applicability to Continental patterns",
-      "The cunning folk tradition may be too specific to English religious culture to generalize",
-      "Some argue Davies underweights the changes in magical culture that did occur after the prosecution period"
+    "alignment_with": [
+      "Ronald Hutton (cunning folk as genuine practitioners; social history of popular practice)",
+      "Emma Wilby (practitioners' traditions as genuine cultural forms)",
+      "Keith Thomas (social function of magic; extended by Davies to post-trial period)"
+    ],
+    "creative_tension_with": [
+      "Keith Thomas (Davies extends and challenges Thomas's 'decline of magic' thesis by documenting persistence)",
+      "Stuart Clark (Davies's popular cultural history contrasts with Clark's elite intellectual history)",
+      "Historians who treat early modern and modern magic as categorically separate"
     ]
   },
-  "historiographical_significance": "Davies established the study of post-prosecution popular magic as a legitimate historical field, demonstrating that 1736 (end of English prosecutions) was not a cultural discontinuity but a legal one. His comprehensive survey of cunning folk extends Ronald Hutton's social history methodology into the modern period and provides essential evidence for long-term continuity of magical culture in England.",
+
+  "reception_and_critique": {
+    "major_influences": "Davies established the sub-field of post-trial magic history and demonstrated that the continuity between early modern and modern magical practice could be documented rather than merely asserted. Grimoires was particularly influential in bridging early modern scholarship and modern occult studies.",
+    "criticisms": [
+      "Some historians question whether 19th-century cunning folk were really continuous with early modern practitioners or represented a distinct, separately generated tradition",
+      "The grimoire argument has been challenged on questions of actual readership and use — did people read these books, or did possession signal status?",
+      "Focus on continuity has been seen by some as underweighting the genuine transformations in magical belief between the early modern period and the 19th century",
+      "The relationship between popular magic continuity and elite/learned magic tradition remains undertheorized in Davies's account"
+    ]
+  },
+
+  "geographical_focus": ["England", "North America", "broadly European"],
+  "chronological_focus": "Medieval through 20th century; particular emphasis on 1700–1900",
+
+  "influence_on_field": "MAJOR",
+
+  "notable_debates": [
+    "Continuity vs. decline: is the 'decline of magic' a reality or an elite-institutional narrative that obscures popular persistence?",
+    "Boundaries of 'witchcraft history': should the field extend into the post-trial era or restrict itself to the prosecution period?",
+    "Grimoire transmission: how was magical textual knowledge actually used and transmitted across different social strata?"
+  ],
+
+  "legacy_status": "Established post-trial magic as a recognized sub-field; leading authority on grimoires; widely cited in both academic and popular works on the history of magic.",
+
+  "scholarly_disagreement": "Keith Thomas's 'decline of magic' thesis is the primary counterpoint to Davies's continuity argument: Thomas argued that magical belief genuinely declined in the later 17th century as practical alternatives (insurance, medicine, institutional religion) replaced its social functions. Davies does not dispute that elite acceptance declined but argues that popular practice continued, meaning that 'decline' is period-specific and class-specific. The debate partly concerns what should count as evidence: Davies finds continuity in popular records Thomas did not systematically examine; Thomas finds decline in elite and institutional sources that are better preserved. Some scholars argue these positions are not truly incompatible — elite decline and popular persistence can coexist — while others see them as reflecting genuinely different claims about whether the social function of magic persisted.",
+
   "source_method": "Published scholarship and critical historiographical reconstruction",
   "review_status": "DRAFT",
   "confidence": "HIGH",
-  "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
 }

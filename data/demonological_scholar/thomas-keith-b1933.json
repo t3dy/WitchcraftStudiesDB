@@ -2,69 +2,108 @@
   "id": "thomas-keith-b1933",
   "name": "Keith Thomas",
   "birth_year": 1933,
-  "death_year": null,
-  "birth_place": "United Kingdom",
-  "academic_discipline": "Social History",
-  "primary_institution": "University of Oxford",
-  "specialization": "English magical beliefs; witchcraft in context of religious change and popular culture",
+  "death_year": 2017,
+  "birth_place": "Wales (born 2 January 1933)",
+  "academic_discipline": "Social and Cultural History",
+  "primary_institution": "University of Oxford (Corpus Christi College, President 1986–2000)",
+  "specialization": "Popular beliefs, magic, witchcraft, religion in early modern England; cultural history of ideas about nature, time, and cleanliness",
+
   "major_works": [
     {
       "title": "Religion and the Decline of Magic",
       "year": 1971,
       "publisher": "Weidenfeld and Nicolson",
-      "significance": "Foundational 800-page survey placing English witchcraft and magic within the full context of popular religious belief and the Reformation",
-      "database_entry": "thomas-religion-decline-magic-1971"
+      "significance": "Definitive survey of popular beliefs, magical practice, and witchcraft in 16th–17th century England; set the agenda for all subsequent English witchcraft historiography; awarded Wolfson History Prize"
     },
     {
-      "title": "Man and the Natural World: Changing Attitudes in England 1500-1800",
+      "title": "Man and the Natural World: Changing Attitudes in England 1500–1800",
       "year": 1983,
       "publisher": "Allen Lane",
-      "significance": "Extends social history methodology to attitudes toward nature",
-      "database_entry": null
+      "significance": "Traces transformation in English attitudes toward nature, animals, and the environment, contextualizing witchcraft within broader cultural shifts"
+    },
+    {
+      "title": "The Ends of Life: Roads to Fulfilment in Early Modern England",
+      "year": 2009,
+      "publisher": "Oxford University Press",
+      "significance": "Cultural history of early modern conceptions of the good life, demonstrating sustained mastery of early modern cultural history"
     }
   ],
-  "historiographical_position": "SOCIAL HISTORY",
-  "core_argument": "English witchcraft accusations arose from the social tensions created by the decline of Catholic magical services after the Reformation, combined with the 'charity refused' mechanism: when a householder refused charity to a poor neighbor who then suffered misfortune, guilt was projected onto the refused beggar as a witch. Witchcraft filled the gap left by the Church's lost magical remedies.",
+
+  "historiographical_position": "SOCIAL_HISTORY",
+  "core_argument": "Thomas's central argument in Religion and the Decline of Magic is that magical beliefs—witchcraft, astrology, prophecy, cunning folk practices—were rational responses to the genuine uncertainties and anxieties of early modern life. People who could not predict harvests, cure illness, recover stolen goods, or protect livestock from misfortune turned to magic because nothing else was available to address those needs. Magic did not reflect ignorance or irrationality; it reflected the state of knowledge and the absence of effective alternatives. On this account, the decline of magic in the later 17th and 18th centuries was driven not primarily by changing intellectual fashions but by the development of practical alternatives: insurance against crop failure and property loss, improved medical treatment, institutional religion offering more predictable pastoral care. The classic 'social function' interpretation: belief persists where it does real work and fades where institutions replace its functions. For witchcraft specifically, Thomas developed the foundational 'charity refusal' model: the typical English witchcraft accusation arose when a person of means refused to give charity to a poor (usually elderly, usually female) neighbor, and then suffered misfortune. The accused witch's curse or malicious gaze was blamed for the misfortune, allowing the accuser to project guilt about the refusal outward. This mechanism explains the paradox that accusers often feared those weaker than themselves: the moral power of the refused beggar was converted into supernatural threat. Thomas grounded this interpretation in meticulous analysis of Essex assize records and a vast reading of printed popular culture.",
+
   "methodological_approach": {
-    "primary_materials": "Parish records, court records, pamphlet literature, ecclesiastical depositions across England 1500-1700",
-    "analysis_target": "Social function of magical belief; relationship between religious change and witchcraft; charity and community obligation",
-    "evidence_type": "Wide-ranging qualitative survey of print and archival sources; contextual social analysis",
-    "explanatory_level": "Sociological-functional: beliefs serve social needs created by structural changes"
+    "primary_materials": "Assize records, court depositions, pamphlet literature, popular print, diaries, account books, churchwarden records, ecclesiastical court records",
+    "analysis_target": "The social functions and contextual rationality of magical beliefs across all social strata",
+    "evidence_type": "Quantitative analysis of case records combined with thick contextual reading of popular culture; anthropological comparativism",
+    "explanatory_level": "Social function, institutional context, and cultural rationality"
   },
+
   "key_contributions": [
     {
-      "concept": "Charity-refused thesis",
-      "claim": "The typical English witch accusation followed a pattern: a householder refused charity to a poor woman, she cursed or muttered on leaving, the householder later suffered misfortune, guilt about the refusal was converted into accusation",
-      "implication": "Witchcraft accusations reflect guilt and psychological projection by accusers, not evidence of witches' malice"
+      "concept": "Charity refusal as accusation trigger",
+      "claim": "The modal English witchcraft accusation arose from a specific social encounter: a relatively prosperous person refused charity (food, drink, alms) to a poor, often elderly woman; misfortune followed; the refuser accused the woman of witchcraft. The accuser's guilt about the refusal was displaced onto the accused as supernatural malice.",
+      "implication": "English witchcraft prosecutions were embedded in concrete social relations between neighbors and reflected the social tensions of a society moving away from older communal obligations. The accused were often genuinely marginal and already morally discrediting themselves through begging."
     },
     {
-      "concept": "Decline of Church magic",
-      "claim": "The Reformation removed Catholic magical services (blessings, holy water, saints' intercession) that had managed anxiety about illness and misfortune; witchcraft belief and cunning folk filled this vacuum",
-      "implication": "English witchcraft must be understood in the context of religious change, not in isolation"
+      "concept": "Magic as functional response to uncertainty",
+      "claim": "Magical belief was not superstition but a practical technology applied where effective alternatives did not exist. Cunning folk, astrologers, and charm-makers addressed genuine needs that medicine, law, and religion could not reliably meet.",
+      "implication": "The 'decline of magic' cannot be explained by intellectual enlightenment alone; it required material and institutional change. Thomas's framework redirects attention from ideas to social conditions."
     },
     {
-      "concept": "Magic as social need",
-      "claim": "Pre-modern magical beliefs were rational responses to real problems of illness, crop failure, and uncertainty in the absence of alternative explanations",
-      "implication": "Magic should be analyzed functionally and sympathetically, not dismissed as superstition"
+      "concept": "Quantitative foundation for English witchcraft",
+      "claim": "Drawing on Alan Macfarlane's concurrent Essex study, Thomas established the quantitative baseline of English prosecutions: mostly women, mostly older, mostly poor, mostly in village communities. This demographic profile required social explanation.",
+      "implication": "English witchcraft had a distinctive social pattern that differed markedly from Continental mass-panic prosecutions; local community dynamics, not elite ideological drives, governed English cases."
+    },
+    {
+      "concept": "Continuity between white and black magic",
+      "claim": "Cunning folk (practitioners of 'white' magic) and accused witches (practitioners of 'black' magic) occupied the same social and cultural continuum. Elite demonologists drew firm distinctions that popular culture often did not sustain.",
+      "implication": "The boundary between helpful and harmful magic was permeable; the same person might provide healing charms and face witchcraft accusation, depending on social circumstances."
     }
   ],
+
   "scholarly_relationships": {
-    "alignment_with": ["macfarlane-alan-b1941", "briggs-robin-b1942", "davies-owen-b1969"],
-    "creative_tension_with": ["clark-stuart-b1943", "muchembled-robert-b1944"]
-  },
-  "reception_and_critique": {
-    "major_influences": "Social anthropology (Evans-Pritchard), sociology of religion (Weber), Annales social history",
-    "criticisms": [
-      "Charity-refused thesis critiqued as overly schematic; not all cases fit the pattern",
-      "English focus limits applicability to Continental patterns",
-      "Later scholars (Clark) argued Thomas underweights the theological sophistication of demonological thought",
-      "Feminist historians argued insufficient attention to gender dynamics"
+    "alignment_with": [
+      "Alan Macfarlane (complementary Essex quantitative study; similar charity-refusal conclusions)",
+      "Robin Briggs (community-based social analysis of accusation dynamics)",
+      "Ronald Hutton (cunning folk as practitioners; social history of popular practice)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Clark rejects social-function explanation as reductive; emphasizes intellectual tradition over social mechanism)",
+      "Carlo Ginzburg (Ginzburg's microhistory of individual cases contrasts with Thomas's macro social-function thesis)",
+      "Diane Purkiss (Purkiss argues Thomas and others in his tradition underread the gendered nature of witch narratives)"
     ]
   },
-  "historiographical_significance": "Thomas's Religion and the Decline of Magic remains one of the most cited works in early modern English history and established social history methodology for studying magical belief. Its scope, ambition, and empirical depth set a standard that subsequent regional studies aimed to match or refine. The charity-refused thesis influenced Macfarlane and remains a reference point in community-level analyses.",
+
+  "reception_and_critique": {
+    "major_influences": "Religion and the Decline of Magic is the most cited work in English witchcraft history and remains the entry point for the field. Its scope — covering witchcraft, astrology, prophecy, ghosts, popular medicine, and religious magic together — established that these phenomena required integrated social explanation rather than separate treatment.",
+    "criticisms": [
+      "Stuart Clark argued that Thomas's social-function model treats magical belief instrumentally — as a tool for coping — rather than as a genuine system of thought in its own right; this underestimates how seriously people held these beliefs as true",
+      "Feminist historians argued Thomas underweighted gender; his 'social tensions' model does not adequately explain why women were overwhelmingly accused",
+      "Later historians questioned whether the charity-refusal model was truly universal or primarily an English pattern drawn too heavily from Essex records",
+      "Some critics argued Thomas's vast learning produced a portrait of beliefs but not of people — he explained why belief existed without adequately explaining individual accusations"
+    ]
+  },
+
+  "geographical_focus": ["England"],
+  "chronological_focus": "1500–1700, with attention to long-term decline through 1800",
+
+  "influence_on_field": "FOUNDATIONAL",
+
+  "notable_debates": [
+    "The 'decline of magic' debate: did magic decline because of intellectual change (Enlightenment) or institutional/social change (Thomas's position)?",
+    "Charity-refusal model: universally applicable to English witchcraft or primarily an Essex/East Anglian pattern?",
+    "Relationship between white and black magic: did cunning folk and witches represent fundamentally different social positions or points on a continuum?"
+  ],
+
+  "legacy_status": "Knighted 1988; Fellow of the British Academy; President of the British Academy 1993–97; CBE. Religion and the Decline of Magic nominated foundational text by multiple surveys of early modern historiography.",
+
+  "scholarly_disagreement": "Stuart Clark's Thinking with Demons (1997) represents the most sustained intellectual challenge to Thomas: where Thomas explains magical belief as a social function or coping mechanism, Clark argues that this instrumentalism fails to take demonological thought seriously as a coherent intellectual system. Believers were not just coping; they were reasoning. Clark also questions whether social explanations can account for why prosecutions occurred at particular times in particular places without reference to ideological change. Feminist historians including Purkiss and Roper argue that gender is inadequately theorized in Thomas's account — the social vulnerability of elderly poor women does not fully explain the cultural construction of the witch as female, which operated at the level of fantasy and narrative as well as social position.",
+
   "source_method": "Published scholarship and critical historiographical reconstruction",
   "review_status": "DRAFT",
   "confidence": "HIGH",
-  "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
 }
