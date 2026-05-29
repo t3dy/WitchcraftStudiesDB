@@ -1,0 +1,89 @@
+{
+  "id": "agnes-sampson-north-berwick-1591",
+  "name": "Agnes Sampson",
+  "status": "Executed",
+  "trial_id": "north-berwick-1590-trials",
+  "location_id": "north-berwick",
+  "year_accused": 1590,
+  "year_executed": 1591,
+  "age_at_trial": null,
+  "social_status": "Respected healer and midwife; 'wise woman'; described as 'the eldest witch' in trial records; Goodwife of Keith, parish of Nether Keith, Haddington",
+  "gender": "Female",
+
+  "biography": "Agnes Sampson was a midwife and respected healer from the parish of Nether Keith, East Lothian, Scotland, known locally as the 'Goodwife of Keith.' She had a reputation as a skilled practitioner of folk healing and midwifery and, unlike many witch trial victims who came from the social margins, occupied a respected community position before her accusation. Her naming by Geillis Duncan in the North Berwick cascade, and her subsequent role as a confessor who implicated further individuals, made her one of the central figures in the trial. She was described as 'elderly' in contemporary accounts. Her examination before King James VI himself—an unusual feature of the North Berwick trials—reflects the king's personal engagement with demonological theory and produced a famous anecdote in the contemporary pamphlet literature.",
+
+  "arrest_narrative": "Sampson was named in Duncan's confession as a fellow participant in North Berwick gatherings. She was examined before King James VI at Holyrood—an encounter documented in the *Newes from Scotland* pamphlet. James initially doubted the accusers had actually met, whereupon Sampson is reported to have drawn him aside and whispered the secret words he had privately spoken to his bride Anne on their wedding night in Denmark, shocking him into belief. The historical accuracy of this episode is disputed, but it represents the trial's cultural impact and the way royal engagement shaped Scottish demonology. After her examination, she was subjected to torture.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1590",
+      "method": "Examination before King James VI at Holyrood; later subjected to 'the Bridle' (iron instrument forced into mouth) and sleep deprivation",
+      "initial_response": "Denial of charges",
+      "duration": "Multiple sessions over weeks"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1590-1591",
+        "method": "Sleep deprivation ('waking'); 'the Bridle' (iron instrument forced into mouth); physical examination for Devil's mark",
+        "outcome": "Confession to witchcraft, sabbath attendance, conspiracy against the king"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Confessed to entering a demonic pact. Specific terms documented in Scottish Privy Council records.",
+    "sabbath_activities": "Described gatherings at North Berwick church including the devil's address to assembled witches, distribution of wax images to be used against the king, consumption of human body parts. Contemporary accounts preserve these descriptions in some detail.",
+    "maleficium_claimed": "Conspiracy to murder King James VI through weather magic and wax images; causing storms during the royal voyage to Denmark; causing illness and death to individuals.",
+    "accomplices_named": [
+      "John Fian",
+      "Euphemia MacCalzean",
+      "Barbara Napier",
+      "Richard Graham",
+      "Approximately 40 additional named individuals"
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "The 'Bridle' torture and sleep deprivation documented in Sampson's case represent the Scottish interrogation repertoire distinct from continental strappado methods. Sleep deprivation creates severe cognitive impairment that makes individuals suggestible and incapable of sustained resistance—particularly effective against elderly individuals. The confession content, including the whispered wedding-night message, may reflect actual local knowledge Sampson possessed as a healer and midwife with extensive community connections, or may represent a later embellishment of the pamphlet account.",
+    "plausibility": "The conspiracy against James VI is almost certainly fabricated; no independent evidence supports a coordinated witchcraft plot against the king. However, Sampson's healing activities and possible participation in folk ritual gatherings may have some foundation. She occupied exactly the position Hutton describes of the 'wise woman' whose legitimate practices were reinterpreted demonologically.",
+    "social_vulnerability": "Sampson's case demonstrates an important historiographical point: respected social position did not confer immunity from accusation, particularly in trials with royal involvement. Her status as a known healer actually increased her vulnerability by associating her with supernatural knowledge in the minds of both inquisitors and neighbors."
+  },
+
+  "execution_details": {
+    "date": "1591-01",
+    "method": "Strangled at the stake, then body burned (standard Scottish execution for witchcraft)",
+    "location": "Castlehill, Edinburgh",
+    "witnesses": "Edinburgh authorities, assembled public; proceedings documented for the court",
+    "final_statement": "Not recorded in surviving sources."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and demonic pact",
+    "Attendance at North Berwick sabbaths",
+    "Conspiracy to kill King James VI through weather magic",
+    "Causing storms during royal voyage to Denmark",
+    "Maleficium against individuals",
+    "Healing practices reinterpreted as demonic knowledge"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "Her community standing likely generated some sympathy; specific formal defenders not documented.",
+    "defense_arguments": "Initial denial of charges maintained before king."
+  },
+
+  "historiographical_significance": "Agnes Sampson is one of the most significant figures in Scottish witch trial history and has received substantial scholarly attention. Her case illustrates the intersection of folk healing practice, royal paranoia, and demonological theory that characterized the North Berwick trials. Christina Larner's analysis (*Enemies of God*, 1981) emphasizes Sampson as an example of the 'wise woman' practitioner whose social role was fundamentally ambiguous in the early modern context—simultaneously a valued community resource and a suspect wielder of hidden knowledge. The North Berwick trials had direct consequence for transatlantic witchcraft belief: James VI's *Daemonologie* (1597) and his accession as James I of England brought Scottish demonological thinking into English culture and eventually across the Atlantic.",
+
+  "source_method": "*Newes from Scotland* (1591) contemporary pamphlet; Scottish Privy Council records; published transcripts in Normand & Roberts, *Witchcraft in Early Modern Scotland* (2000); analyzed in Larner, *Enemies of God* (1981)",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

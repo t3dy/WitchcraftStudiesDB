@@ -1,0 +1,94 @@
+{
+  "id": "johannes-junius-bamberg-1628",
+  "name": "Johannes Junius",
+  "status": "Executed",
+  "trial_id": "bamberg-1626-mass-prosecution",
+  "location_id": "bamberg",
+  "year_accused": 1628,
+  "year_executed": 1628,
+  "age_at_trial": 55,
+  "social_status": "Burgomaster (mayor) of Bamberg; wealthy landowner; civic elite",
+  "gender": "Male",
+
+  "biography": "Johannes Junius served as Burgomaster (mayor) of Bamberg at the time of his arrest on June 28, 1628. As the chief civic official of the city, Junius represented the highest secular rank reached by the Bamberg prosecutions. His arrest demonstrates that by 1628 the witch hunt's cascade mechanism had become so self-reinforcing that no social position—not civic office, wealth, or community standing—offered protection. He is most famous for a letter smuggled from prison to his daughter Veronica, written while under interrogation, which provides one of the most vivid first-person accounts of the torture and confession process in the entire early modern record. The letter is preserved and has been published and analyzed by Brian Levack and other historians as primary evidence of the confession mechanism.",
+
+  "arrest_narrative": "Junius was arrested on June 28, 1628, having been named under torture by other accused persons during the 1626-1628 prosecution wave. Contemporary records document that he initially denied all charges and maintained his innocence through repeated interrogation. The tribunal applied strappado torture to extract a confession, and the interrogation records show the systematic progression from denial to admission characteristic of Bamberg prosecutions.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1628-06-28",
+      "method": "Formal interrogation without immediate torture; sustained pressure",
+      "initial_response": "Complete denial: 'I am no witch, I have no familiar spirit, I have never renounced God. I am innocent.'",
+      "duration": "Multiple sessions over several weeks"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1628-07",
+        "method": "Strappado (hands tied behind back, raised by rope, dropped sharply)",
+        "outcome": "Maintained initial denial during torture"
+      },
+      {
+        "session": 2,
+        "date": "1628-07",
+        "method": "Repeated strappado",
+        "outcome": "Confession to demonic encounter and pact"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Under torture, Junius confessed to an encounter with a demonic figure in human form appearing to him in the Bamberg town fields, who promised wealth and worldly advancement in exchange for renouncing God. His subsequent letter to his daughter makes clear he fabricated these details under duress.",
+    "sabbath_activities": "Confessed to attending sabbath gatherings described to him by the inquisitor. The confession matched standard sabbath descriptions, suggesting the content was interrogator-prompted rather than spontaneously recalled.",
+    "maleficium_claimed": "Confessed to causing the death of his horse and a servant, and other maleficia. His letter documents that he confessed whatever the interrogator suggested in order to end the torture.",
+    "accomplices_named": [
+      "Burgomaster Hoffmaster (previously arrested)",
+      "Rottner (council member)",
+      "Hoffens (citizen)",
+      "Several other named citizens of Bamberg—all fabricated under torture per Junius's own letter"
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Junius's letter to his daughter provides first-person documentation of the confession mechanism: 'Dear child, six have confessed against me at once: the Chancellor, his son, Neudecker, Zaner, Hoffmaisters Ursel, and Hopffens Els—all false, through compulsion, as they have all told me, and begged my forgiveness in God's name before they were executed... And they were forced to say it, just as I myself was forced to say what I never thought to say and which I retracted as soon as they ceased to torture me. But they tortured me again.' This passage is among the most important primary documents in the entire history of the witch trials.",
+    "plausibility": "Zero. Junius's own surviving letter constitutes irrefutable first-person testimony that his confession was extracted through torture and contained entirely fabricated content.",
+    "social_vulnerability": "Paradoxically, Junius's high status made his case more, not less, significant to the prosecution. The cascade mechanism's ability to encompass the burgomaster demonstrated the prosecution's thoroughness and the scope of the alleged conspiracy. His wealth and office offered no protection because the logic of denunciation made him as susceptible as anyone else to being named by a tortured predecessor."
+  },
+
+  "execution_details": {
+    "date": "1628-08-06",
+    "method": "Beheading, followed by burning of the body (procedure for high-status males at Bamberg)",
+    "location": "Bamberg execution ground",
+    "witnesses": "Court officials, civic assembly, townspeople",
+    "final_statement": "Junius's prison letter constitutes his most significant statement; no specific final words at execution are preserved."
+  },
+
+  "accusations_against_her": [
+    "Demonic pact and allegiance",
+    "Attendance at witches' sabbaths",
+    "Maleficium against horse and servant",
+    "Conspiracy to spread witchcraft through Bamberg civic government"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "His daughter Veronica, who preserved the smuggled letter. Some contemporary chroniclers noted the implausibility of charges against the city's own burgomaster.",
+    "defense_arguments": "Junius maintained innocence through early interrogations and stated explicitly in his letter: 'I am as innocent as God himself.' He was unable to make this defense publicly in court. He wrote specifically to warn his daughter and to document the falseness of the procedure."
+  },
+
+  "historiographical_significance": "Johannes Junius is among the most historiographically important accused persons in the entire European witch trial record. His letter to his daughter—written surreptitiously from prison and smuggled out before his execution—provides a primary source document that explicitly confirms what historians argue from structural evidence: that torture-extracted confessions were fabricated, that accusers named innocent people to end their torture, and that the interrogation procedure was designed to produce confessions rather than discover truth. Brian Levack uses the Junius letter as primary evidence in *The Witch-Hunt in Early Modern Europe* and reprinted it in *The Witchcraft Sourcebook*. It is one of the essential documents of the early modern period and is widely taught in university courses on the witch trials.",
+
+  "primary_document": "Letter from Johannes Junius to his daughter Veronica Junius, written c. late July 1628 from Bamberg prison; smuggled out through prison guard; preserved and widely published.",
+
+  "source_method": "Published letter transcript (Junius to daughter, 1628); Bamberg episcopal archives; published in Levack, *The Witchcraft Sourcebook*, 2nd ed. 2015; analyzed in Levack, *The Witch-Hunt in Early Modern Europe*; Behringer 1997",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

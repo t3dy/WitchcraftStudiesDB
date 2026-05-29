@@ -1,0 +1,88 @@
+{
+  "id": "geillis-duncan-north-berwick-1591",
+  "name": "Geillis Duncan",
+  "status": "Executed",
+  "trial_id": "north-berwick-1590-trials",
+  "location_id": "north-berwick",
+  "year_accused": 1590,
+  "year_executed": 1591,
+  "age_at_trial": null,
+  "social_status": "Maidservant to David Seaton, Deputy Bailiff of Tranent, East Lothian",
+  "gender": "Female",
+
+  "biography": "Geillis Duncan was a maidservant employed in the household of David Seaton, Deputy Bailiff of Tranent, East Lothian, Scotland. She appears to have had a local reputation for healing and was known to leave her master's house at night—activities that attracted Seaton's suspicion. When he questioned her about these nocturnal absences, she maintained her innocence. Seaton, not satisfied, subjected her to personal physical examination, searching her body for the 'Devil's mark' that demonological theory held to be evidence of witchcraft. Finding a mark on her throat, he tortured her himself (before any formal legal proceeding) with 'pilliwinks' (thumbscrews) and by 'wrinching her head with a cord.' Under this informal torture, Duncan confessed. She subsequently became the first named participant in the North Berwick witch trials (1590-1591), in which approximately 70 individuals were accused. Duncan is also historically notable as possibly the earliest recorded player of the Jew's harp (mouth harp) in Britain: the contemporary pamphlet *Newes from Scotland* (1591) describes her playing at the gatherings she described.",
+
+  "arrest_narrative": "Duncan's employer David Seaton initiated her interrogation informally in 1590, motivated by her unexplained absences and healing activities. After Seaton's personal torture produced a confession, Duncan was handed to formal authorities. Her confession named numerous individuals including Agnes Sampson, Barbara Napier, Euphemia MacCalzean, and John Fian, initiating a cascade prosecution. The North Berwick trials attracted the personal involvement of King James VI of Scotland, who had recently returned from Denmark after his marriage to Anne of Denmark—a country with its own intense witch trial activity. James subsequently wrote *Daemonologie* (1597) partly as a response to the intellectual problems posed by the trials.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1590",
+      "method": "Informal torture by employer David Seaton: pilliwinks (thumbscrews) and cord wrenching of head",
+      "initial_response": "Maintained innocence",
+      "duration": "Not specified; informal process before legal referral"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1590",
+        "method": "Pilliwinks (thumbscrews) applied by employer Seaton; cord wrenching",
+        "outcome": "Confession; naming of approximately 70 accomplices"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Confessed to demonic allegiance; specific terms not fully detailed in the *Newes from Scotland* pamphlet.",
+    "sabbath_activities": "Described gatherings at North Berwick church including dancing (she played the Jew's harp), meeting with a figure presenting as the devil, and conspiracy to harm King James VI. The *Newes from Scotland* pamphlet documents these descriptions.",
+    "maleficium_claimed": "Conspiracy to harm King James VI through weather magic and wax image; causing storms at sea during the royal voyage from Denmark.",
+    "accomplices_named": [
+      "Agnes Sampson",
+      "John Fian (schoolmaster of Saltpans)",
+      "Barbara Napier",
+      "Euphemia MacCalzean",
+      "Approximately 70 named individuals total"
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Duncan's case demonstrates pre-legal, employer-applied torture as a mechanism for initiating formal prosecution. Seaton's application of pilliwinks before any court proceeding shows how early modern domestic service relationships could expose individuals to private coercion entirely outside legal oversight. The confession produced under his thumbscrews provided the cascade trigger for the entire North Berwick trial. Whether any of the activities she described were real (healings, nocturnal meetings) or entirely fabricated under torture is disputed; the witchcraft accusations almost certainly represent torture-induced elaboration.",
+    "plausibility": "Duncan's activities before arrest—healing, nocturnal movement, possible participation in social gatherings—likely reflect genuine folk practices. The demonological overlay (demonic pact, sabbath attendance, royal assassination plot) almost certainly reflects torture-induced confession.",
+    "social_vulnerability": "As a maidservant, Duncan was entirely dependent on her employer for livelihood and social position. His ability to torture her personally, before any legal process, demonstrates how completely domestic service relationships could expose individuals to private coercion. The absence of legal protection from employer violence was a structural vulnerability unique to servant status in early modern Scotland."
+  },
+
+  "execution_details": {
+    "date": "1591-12-04",
+    "method": "Hanged then burned (standard Scottish procedure)",
+    "location": "Castlehill, Edinburgh",
+    "witnesses": "City officials, Edinburgh public",
+    "final_statement": "Not recorded in surviving sources."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and demonic allegiance",
+    "Attendance at North Berwick sabbath gatherings",
+    "Conspiracy to harm King James VI through weather magic",
+    "Causing storms during royal voyage to Denmark",
+    "Healing activities using supernatural knowledge"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "None documented.",
+    "defense_arguments": "Maintained innocence under initial questioning before employer's torture."
+  },
+
+  "historiographical_significance": "Geillis Duncan is historically important as the initiating figure of the North Berwick trials—Scotland's largest and most royally engaged witch trial, documented in the contemporary pamphlet *Newes from Scotland* (1591). Her case demonstrates the mechanics of employer-initiated accusation and informal pre-legal torture, and the way her cascade confession determined the shape of the entire subsequent prosecution. The North Berwick trials directly influenced King James VI's witchcraft thinking, leading to *Daemonologie* (1597), which in turn shaped English and transatlantic demonology including events at Salem. Christina Larner (*Enemies of God*, 1981), Julian Goodare (*The Scottish Witch-Hunt in Context*, 2002), and Lawrence Normand and Gareth Roberts (*Witchcraft in Early Modern Scotland*, 2000) have analyzed her case.",
+
+  "source_method": "*Newes from Scotland* (1591) contemporary pamphlet; Scottish Privy Council records; published in Normand & Roberts, *Witchcraft in Early Modern Scotland* (2000); analyzed in Larner, *Enemies of God* (1981)",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

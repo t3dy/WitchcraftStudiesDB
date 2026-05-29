@@ -1,0 +1,69 @@
+{
+  "id": "gaspar-tagliacarne-friuli-1575",
+  "name": "Gaspar Tagliacarne",
+  "status": "Abjured",
+  "trial_id": "friuli-benandanti-1575-inquisition",
+  "location_id": "friuli",
+  "year_accused": 1575,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Agricultural laborer; folk healer; possibly itinerant",
+  "gender": "Male",
+
+  "biography": "Gaspar Tagliacarne was one of several Friulian individuals interrogated by the Venetian Inquisition during the 1575-1580 investigation into the benandanti phenomenon. Like other benandanti, he claimed to be a 'good walker'—a practitioner who, on the Ember Days, traveled in spirit to do battle against maleficent witches (malandanti) on behalf of the community's crops and fertility. His case belongs to the same inquisitorial proceedings that produced Carlo Ginzburg's foundational analyses in *The Night Battles* (1966/1983). The primary benandanti documented in Ginzburg's published work are Paolo Gasparutto and Battista Moduco; Tagliacarne appears in the broader inquisitorial proceedings from the same period. Note: inquisitorial records from this period are fragmentary, and the precise relationship between named individuals in surviving documents requires careful source criticism. He is also documented as a folk healer practitioner in the Friuli region.",
+
+  "arrest_narrative": "Tagliacarne came to the attention of the Venetian Inquisition in 1575 during Fra Felice da Montefalco's investigation of magical practices in Friuli. Rather than being accused of maleficent witchcraft by neighbors, the benandanti initially drew inquisitorial attention through their own claims of supernatural activity—they actively identified themselves as crop defenders and spiritual combatants. The inquisitors, equipped with demonological categories that could not accommodate beneficial folk magic, reframed these self-descriptions as evidence of demonic involvement.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1575",
+      "method": "Questioning without immediate physical torture; sustained interpretive pressure",
+      "initial_response": "Claimed to be benandante—defender of community crops against witches",
+      "duration": "Multiple sessions over weeks to months"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "Initially denied any demonic relationship; over successive interrogations, under sustained interpretive pressure from the inquisitor, admitted that his spirit journeys might constitute demonic involvement—a reframing rather than a factual admission.",
+    "sabbath_activities": "Described nocturnal spiritual combats against malandanti occurring on Ember Days. The inquisitor interpreted this as sabbath attendance; the benandante understood it as protective service.",
+    "maleficium_claimed": "None claimed; the benandanti defined themselves as opponents of maleficium.",
+    "accomplices_named": ["Other benandanti known to him; no maleficent witches identified by name in the standard accusatory fashion"]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Unlike Central European cases, the Friuli inquisition applied psychological and interpretive pressure rather than physical torture. Ginzburg's analysis shows how the inquisitor's repeated reframing of benandanti self-descriptions gradually eroded the practitioners' resistance and produced confessions that adopted the inquisitorial frame. This is a case of cognitive coercion rather than physical coercion.",
+    "plausibility": "The benandanti accounts, while involving supernatural claims, are internally consistent folk belief expressions. Ginzburg argues they preserve remnants of pre-Christian agrarian ritual. The inquisitorial reframing as demonic activity was an external interpretive imposition, not a response to evidence of maleficium.",
+    "social_vulnerability": "The benandanti's vulnerability was paradoxical: they had initiated contact with inquisitors by claiming a supernatural identity that inquisitorial categories could only read as demonic. Their self-conception as community protectors was structurally incompatible with the demonological framework."
+  },
+
+  "execution_details": null,
+
+  "accusations_against_her": [
+    "Consorting with spirits on Ember Days",
+    "Attendance at nocturnal gatherings (inquisitorially reframed as sabbath)",
+    "Heretical claims about spiritual combat",
+    "Possession of supernatural healing knowledge"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "The benandanti's own self-presentation as community defenders constituted an implicit defense.",
+    "defense_arguments": "Claimed activities were protective against maleficent witches and crop destruction. The inquisitor's demonological reframing was, from their perspective, a misidentification of beneficial spiritual practice."
+  },
+
+  "historiographical_significance": "Tagliacarne's case belongs to the foundational evidence base for Ginzburg's argument about folk magical traditions predating and surviving the imposition of learned demonology. The benandanti cases collectively demonstrate how folk practitioners with their own self-conception were gradually transformed—through sustained interrogation rather than torture—into witches fitting the inquisitorial frame. This transformation is Ginzburg's central concern in *The Night Battles* and contributes to his larger argument in *Ecstasies* about shamanic traditions underlying European witch belief.",
+
+  "source_method": "Venetian Inquisition archival documents (Friuli/Udine diocese); published and analyzed in Ginzburg 1983 and 1991",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

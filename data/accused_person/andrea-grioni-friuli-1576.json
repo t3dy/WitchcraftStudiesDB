@@ -1,0 +1,66 @@
+{
+  "id": "andrea-grioni-friuli-1576",
+  "name": "Andrea Grioni",
+  "status": "Abjured",
+  "trial_id": "friuli-benandanti-1575-inquisition",
+  "location_id": "friuli",
+  "year_accused": 1576,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Agricultural community member, Friuli",
+  "gender": "Male",
+
+  "biography": "Andrea Grioni was interrogated by the Venetian Inquisition in 1576 as part of the ongoing investigation into benandanti practice in the Friuli region. His case follows immediately upon the 1575 initial interrogations that drew the inquisitor Fra Felice da Montefalco's attention to this network of folk practitioners. Like other benandanti, Grioni would have claimed membership in a community of 'good walkers' who engaged in nocturnal spiritual combat to protect agricultural harvests. Specific biographical details are limited in surviving scholarship; he is primarily documented through his appearance in the inquisitorial proceedings studied by Carlo Ginzburg.",
+
+  "arrest_narrative": "Grioni was questioned in 1576 as the inquisitorial investigation expanded from its 1575 starting point. The benandanti network was locally known, and the inquisitor systematically interviewed members as he built his understanding of the phenomenon. Grioni's interrogation forms part of the documentation base that Ginzburg used to reconstruct the benandanti tradition.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1576",
+      "method": "Inquisitorial questioning; sustained interpretive pressure without physical torture",
+      "initial_response": "Described benandante activities as community-protective spirit journeys",
+      "duration": "Multiple sessions"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "None initially claimed; gradually conceded that the inquisitor's frame might apply to his nocturnal activities.",
+    "sabbath_activities": "Described Ember Day spirit journeys to combat malandanti; inquisitor reframed these as sabbath attendance.",
+    "maleficium_claimed": "None; identified as opponent of maleficium.",
+    "accomplices_named": ["Other benandanti known from same community"]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "No physical torture applied; case demonstrates Ginzburg's point about cognitive reframing under inquisitorial pressure as an alternative coercive mechanism to physical torture.",
+    "plausibility": "The benandanti folk belief system was internally coherent; the inquisitorial reframing as demonic activity was an external imposition driven by demonological categories.",
+    "social_vulnerability": "Agricultural laborers in Venetian-administered Friuli occupied a marginal social position relative to urban and ecclesiastical authority; the inquisition's institutional power was overwhelming relative to folk practitioners' resources."
+  },
+
+  "execution_details": null,
+
+  "accusations_against_her": [
+    "Participation in benandanti spirit combats (inquisitorially reframed as sabbath attendance)",
+    "Heretical magical beliefs",
+    "Alleged demonic contact"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "Self-defense based on benandante identity as community protector.",
+    "defense_arguments": "Activities were protective, not maleficent; aimed at defeating witches, not consorting with them."
+  },
+
+  "historiographical_significance": "Part of the evidential base for Ginzburg's reconstruction of the benandanti tradition. Grioni's 1576 interrogation documents the expansion of inquisitorial investigation in the year following the initial 1575 cases, and contributes to the picture of the benandanti as a recognized community of folk practitioners rather than isolated individuals.",
+
+  "source_method": "Venetian Inquisition archival documents (Friuli/Udine diocese); referenced in Ginzburg 1983",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

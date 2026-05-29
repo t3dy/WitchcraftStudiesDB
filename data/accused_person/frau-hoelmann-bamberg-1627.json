@@ -1,0 +1,79 @@
+{
+  "id": "frau-hoelmann-bamberg-1627",
+  "name": "Frau Hoelmann",
+  "status": "Executed",
+  "trial_id": "bamberg-1626-mass-prosecution",
+  "location_id": "bamberg",
+  "year_accused": 1627,
+  "year_executed": 1627,
+  "age_at_trial": null,
+  "social_status": "Widow (social status: middling; husband's occupation not recorded)",
+  "gender": "Female",
+
+  "biography": "Frau Hoelmann is known only through her appearance in Margaretha Binder's 1626 tortured confession, where she is identified as a widow residing in Bamberg. No independent biographical record survives. Her inclusion among those named by Binder reflects the prosecution's reach into the social circle of the initial accused—widows occupying a structurally vulnerable position as women without male household protection were frequently named in witch trial cascades. The absence of a recorded given name in surviving sources underscores her social marginality; she is identified only by marital relationship to a deceased husband.",
+
+  "arrest_narrative": "Hoelmann was arrested as a direct consequence of appearing in Binder's confession. As a widow, she would have lacked the social resources and familial protection that might have enabled a more prominent citizen to mount resistance. Her arrest represents the extending reach of the 1627 second prosecution wave, when inquisitors moved systematically through the list of names extracted from first-wave confessions.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1627",
+      "method": "Standard interrogation protocol (threat of torture, then application)",
+      "initial_response": "Not preserved in surviving records",
+      "duration": "Unknown"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1627",
+        "method": "Strappado (standard Bamberg method)",
+        "outcome": "Confession to demonic alliance"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Specific confession content not preserved in extant scholarship.",
+    "sabbath_activities": "Not documented in surviving records.",
+    "maleficium_claimed": "Not documented in surviving records.",
+    "accomplices_named": ["Likely produced further names per cascade protocol; specific names not recorded in available sources"]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "As with all Bamberg second-wave accused, Hoelmann's interrogation would have followed the institutional protocol: sustained pressure, torture, confession, extraction of further names. The content of her confession was almost certainly shaped entirely by interrogator expectations.",
+    "plausibility": "Negligible. Named under torture; no independent accusation or evidence.",
+    "social_vulnerability": "Widowhood represented significant social vulnerability in early modern Europe. Without husband or male kin to provide legal representation or social advocacy, widows were structurally exposed to both initial accusation and the inability to mount effective defense. Hutton's demographic analysis of witch trial victims consistently identifies widows as disproportionately represented among the accused."
+  },
+
+  "execution_details": {
+    "date": "1627",
+    "method": "Burning at stake",
+    "location": "Bamberg execution ground",
+    "witnesses": "Court officials and townspeople",
+    "final_statement": "Not recorded."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft conspiracy (named by Binder)",
+    "Sabbath attendance",
+    "Demonic pact"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "None documented.",
+    "defense_arguments": "None documented."
+  },
+
+  "historiographical_significance": "Frau Hoelmann represents the majority of Bamberg's 300+ victims: individuals about whom very little is known beyond the bare fact of their arrest, confession under torture, and execution. The thinness of her documentary record is itself historiographically significant—it reflects both her marginal social position and the way cascade prosecutions processed individuals as entries in a list rather than as subjects requiring individual judicial attention.",
+
+  "source_method": "Named in Binder confession; Bamberg episcopal archives via Behringer 1997",
+  "review_status": "DRAFT",
+  "confidence": "LOW",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

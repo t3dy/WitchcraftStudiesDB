@@ -1,0 +1,80 @@
+{
+  "id": "giles-corey-salem-1692",
+  "name": "Giles Corey",
+  "status": "Pressed to death",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 80,
+  "social_status": "Elderly male farmer; property owner; married (wife Martha also accused and executed); community member of Salem Village",
+  "gender": "Male",
+
+  "biography": "Giles Corey was approximately 80 years old when he was arrested for witchcraft at Salem in April 1692. He was a farmer and property owner in Salem Village; his wife Martha Corey was also accused. Corey initially cooperated with the court and even testified against his wife—a fact that later generated historiographical attention regarding the dynamics of marital relationships under prosecution pressure. He subsequently reversed course, refusing to enter a plea when arraigned. His refusal to plead—the procedure of 'standing mute'—triggered the medieval English legal procedure of peine forte et dure (pressing): heavy stones were piled on his chest to compel a plea. Corey refused to speak except, according to tradition, to demand 'More weight.' He died under the stones on September 19, 1692, becoming the only person pressed to death in American colonial legal history.",
+
+  "arrest_narrative": "Corey was arrested on April 18, 1692, named in the expanding Salem accusation cycle. He had initially attended his wife Martha's examination as a skeptic and had testified against her, noting her behavior as unusual—testimony that may have been used against her. He was himself then accused, possibly through the cascade naming mechanism. The evidence against him was primarily spectral evidence. When arraigned, he refused to enter a plea.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-04-19",
+      "method": "Examination before magistrates; no physical torture at initial stage",
+      "initial_response": "Initial partial cooperation and denial",
+      "duration": "Multiple examination sessions"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1692-09-17 to 1692-09-19",
+        "method": "Peine forte et dure: heavy stones loaded on board across chest to compel entry of plea",
+        "duration": "Approximately two days before death",
+        "outcome": "Refused to speak to enter a plea; died September 19, 1692"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "None confessed; Corey refused to speak.",
+    "sabbath_activities": "None confessed.",
+    "maleficium_claimed": "None confessed.",
+    "accomplices_named": ["None."]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Corey's case represents a unique intersection of English legal procedure and colonial witch prosecution. By standing mute—refusing to enter a plea—he triggered a medieval procedure designed to compel pleas in capital cases. His likely strategic motivation was the preservation of his estate: conviction by jury would result in attainder and possible forfeiture of property, while death without conviction would allow his estate to pass to his heirs. His decision was therefore a rational legal calculation, not merely defiant bravado, and it succeeded—his estate was not forfeited. His case is the clearest example of a Salem defendant using legal procedure as active resistance strategy.",
+    "plausibility": "Corey's legal strategy reveals sophisticated knowledge of English common law inconsistent with a prosecution proceeding on genuine evidence. His prior cooperation as a witness against his own wife shows how accusation dynamics could fracture even close family relationships before individuals understood their own vulnerability.",
+    "social_vulnerability": "Corey's advanced age (approximately 80) made his physical resistance to pressing remarkable. His initial testimony against his wife shows how accusation dynamics could fracture even close family relationships before individuals understood their own vulnerability."
+  },
+
+  "execution_details": {
+    "date": "1692-09-19",
+    "method": "Pressed to death (peine forte et dure)—heavy stones piled on chest over approximately two days",
+    "location": "Open field adjacent to Salem jail",
+    "witnesses": "Sheriff George Corwin; court officials; Robert Calef (who described the scene in *More Wonders of the Invisible World*, 1700)",
+    "final_statement": "Traditional account attributes 'More weight' as response to questioning and 'Damn you, Sheriff, I curse you and Salem.' Calef's eyewitness account notes Corey put out his tongue at one point. Veracity of attributed final statements disputed but widely accepted in the historiography."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and demonic allegiance",
+    "Spectral appearances tormenting afflicted persons"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "His procedural resistance was itself a form of defense; specific formal advocates not documented.",
+    "defense_arguments": "Implicit defense through procedural resistance: refusal to enter a plea denied the court jurisdiction to try and convict him by jury."
+  },
+
+  "historiographical_significance": "Giles Corey occupies a unique position in Salem historiography as the only person pressed to death in American colonial history and as the clearest example of a defendant using legal procedure as resistance strategy. Robert Calef's eyewitness account in *More Wonders of the Invisible World* (1700) provides primary documentation. His estate-preservation strategy has been analyzed as evidence that some accused persons had sophisticated understanding of the legal proceedings and made rational choices within them. The 'More weight' tradition has entered American cultural memory as an emblem of resistance to persecution. Carol Karlsen, Boyer and Nissenbaum, and other Salem historians have analyzed his case as evidence of male participation in trials whose prosecution was primarily directed at women.",
+
+  "source_method": "Robert Calef, *More Wonders of the Invisible World* (1700); Samuel Sewall, *Diary*; The Salem Witchcraft Papers (SWP), University of Virginia; Boyer & Nissenbaum, *Salem Possessed* (1974)",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "bridget-bishop-salem-1692",
+  "name": "Bridget Bishop",
+  "status": "Executed",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 60,
+  "social_status": "Property owner; tavern operator; married woman (multiple prior marriages); estimated age 55-65",
+  "gender": "Female",
+
+  "biography": "Bridget Bishop (née Playfer, also known by married names Oliver and Bishop) was a property owner and tavern keeper in Salem Town and Salem Village, Massachusetts. She had been previously accused of witchcraft in 1679-1680 but was not convicted. In 1692, she was the first person to be formally tried and executed in the Salem witch trials. Bishop was approximately 60 years old at the time of her trial and had a prior community reputation—rooted in disputes with neighbors and her tavern-keeping activities, which Puritan community standards viewed with suspicion—that made her an early target when accusations began circulating. Her examination records are preserved in the *Salem Witchcraft Papers* at the University of Virginia.",
+
+  "arrest_narrative": "Bishop was examined before magistrates John Hathorne and Jonathan Corwin on April 19, 1692. She was accused by several of the afflicted young women—Abigail Williams, Ann Putnam Jr., Mercy Lewis, Mary Walcott, and Elizabeth Hubbard—who displayed spectral evidence behaviors during her examination. Physical evidence claimed against her included poppets (cloth figures with pins) found by workers renovating her cellar walls, presented as instruments of maleficium. She was tried before the Court of Oyer and Terminer on June 2, 1692.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-04-19",
+      "method": "Examination before magistrates Hathorne and Corwin; no physical torture; confrontational accusation procedure with spectral evidence displays by afflicted girls",
+      "initial_response": "Denial: 'I am no witch. I know not what a witch is.' 'I am innocent to a witch. I know not one.'",
+      "duration": "Single examination session; full transcript preserved in Salem Witchcraft Papers"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "None confessed; Bishop maintained her innocence throughout.",
+    "sabbath_activities": "None confessed.",
+    "maleficium_claimed": "None confessed; accusations concerned spectral appearances to afflicted girls and the cellar poppets.",
+    "accomplices_named": ["None; Bishop refused to name accomplices."]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Unlike European continental trials, Salem proceeded without physical torture. Confessions were extracted through social pressure, plea bargaining (confessors were not immediately executed), and spectral evidence procedures. Bishop's case demonstrates the alternative coercive mechanism: those who refused to confess were convicted and executed, while confessors were spared immediate execution. This inverted the European pattern, making confession a survival strategy and refusal to confess a death sentence.",
+    "plausibility": "Bishop had a prior community reputation for contentious behavior, multiple remarriages, and tavern-keeping that Puritan standards viewed with disapproval. The poppets found in her cellar walls were presented as physical evidence; scholars debate whether they were genuine folk magic artifacts, planted evidence, or a post-hoc discovery misattributed. All charges were legally voided by subsequent pardon processes.",
+    "social_vulnerability": "Bishop's 1679-1680 prior accusation marked her with an existing community reputation for witchcraft. Her tavern-keeping, prior disputes with neighbors, and multiple marriages placed her outside Puritan ideals of feminine domestic behavior. Prior accusation combined with social non-conformity made her an early and politically uncomplicated target for the 1692 prosecution."
+  },
+
+  "execution_details": {
+    "date": "1692-06-10",
+    "method": "Hanged at Gallows Hill, Salem",
+    "location": "Gallows Hill, Salem Town, Massachusetts",
+    "witnesses": "Court officials, Salem community; public execution",
+    "final_statement": "Maintained innocence. No specific final statement recorded."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and demonic allegiance",
+    "Spectral appearances bewitching five young women",
+    "Maleficium via poppets found in cellar",
+    "Prior witchcraft reputation (1679-1680 accusation)"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "No documented formal defense advocates; Bishop maintained her own innocence throughout.",
+    "defense_arguments": "Consistent denial of all charges; maintained ignorance of witchcraft; no confession obtained. Examination transcript shows her challenging specific accusations: 'I am innocent to a witch. I know not one.'"
+  },
+
+  "historiographical_significance": "Bridget Bishop is historiographically significant as the first executed person in the Salem trials and as a case study in early American community social dynamics. Boyer and Nissenbaum (*Salem Possessed*, 1974) analyzed Salem in terms of community social stress rather than individual pathology; Bishop's case exemplifies the targeting of socially marginal or non-conforming individuals. Carol Karlsen (*The Devil in the Shape of a Woman*, 1987) emphasized gender and property dynamics; Bishop's tavern-keeping and property ownership placed her in a contested social position for a woman. The *Salem Witchcraft Papers* (digitized by the University of Virginia) preserve the complete documentation of her case.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP) at the University of Virginia; Boyer & Nissenbaum, *Salem Possessed* (1974); Karlsen, *The Devil in the Shape of a Woman* (1987)",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}
