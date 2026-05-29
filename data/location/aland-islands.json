@@ -1,0 +1,56 @@
+{
+  "id": "aland",
+  "name": "Åland Islands (Kastelholm)",
+  "type": "Island Archipelago",
+  "region": "Scandinavia",
+  "modern_location": "Åland Islands, autonomous region of Finland (Baltic Sea)",
+  "coordinates": {
+    "latitude": 60.22,
+    "longitude": 20.01
+  },
+  "administrative_context": "In the 17th century, the Åland Islands were part of the Swedish Empire. Governed by a district judge (häradshövding) appointed by Stockholm, the islands fell under Swedish secular law and the jurisdiction of the Turku (Åbo) district court. Kastelholm Castle, the seat of the district administration, was where the witch trials were conducted. The islands are now an autonomous region of Finland, retaining a Swedish-speaking majority population — a demographic reality stretching unbroken from the Middle Ages through the present.",
+
+  "witchcraft_trials_significance": "Åland was the site of the largest mass witch prosecution in Finnish history (1665–1668), known as the Kastelholm witch trials. These trials were anomalous for Finland, where prosecutions were typically small and individual; the Kastelholm trials introduced Continental-style mass prosecution with sabbath charges. The prosecutions were driven by district judge Nils Psilander, educated in German-influenced demonology at the University of Tartu, and resulted in the execution of six to seven women. The case was dramatized in the 2016 Finnish film Tulen morsian (Devil's Bride).",
+
+  "trial_events": [
+    "kastelholm-1665-aland-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Nils Psilander",
+      "role": "District judge (häradshövding), 1655–1682",
+      "contribution_to_trials": "Initiated and drove the Kastelholm prosecutions; his demonological education at the University of Tartu (Dorpat) shaped his approach to witchcraft cases; he transformed a routine cunning-folk consultation into a mass prosecution"
+    },
+    {
+      "name": "Reverend Bryniel Kjellenius",
+      "role": "Clerical authority",
+      "contribution_to_trials": "Supported the prosecutions; provided ecclesiastical backing for the judicial proceedings"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1665": "Initial cases; Psilander begins investigating witchcraft reports",
+    "1666_early": "Karin Persdotter consulted to identify hay thief in Enkarby; interrogation triggers prosecution",
+    "1666_august": "Karin Persdotter executed; she had named 16 other women",
+    "1666_1667": "Peak executions; most of the seven women executed in this period",
+    "1668": "Trials conclude; Kastelholm prosecutions end"
+  },
+
+  "linguistic_and_cultural_context": "The Åland Islands were exclusively Swedish-speaking in the 17th century. This distinguishes them from mainland Finland, where Finnish and Swedish coexisted. Court records, church records, and all official proceedings were in Swedish. This matters for evaluating the 2016 film Tulen morsian, which anachronistically depicts Finnish speakers in the island community.",
+
+  "scholarly_significance": "The Kastelholm trials illustrate the transmission of Continental demonological procedures to peripheral regions of the Swedish Empire through educated judiciary. They preceded and may have contributed to the Swedish 'Great Noise' panic of 1668–1676. Bengt Ankarloo's work on Scandinavian witchcraft provides the comparative framework for understanding the Åland case.",
+
+  "scholarly_disagreement": "The relative weight of Psilander's ideological initiative versus pre-existing community belief in collective witchcraft is debated. Whether the Blåkulla tradition was imported by Psilander's education or reflected local pre-existing belief adapted to the Swedish sabbath framework has not been definitively resolved.",
+
+  "source_method": "Swedish imperial court records; Turku district court archives; Finnish and Swedish historical scholarship; secondary literature on Scandinavian witch trials",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ankarloo-bengt-b1935"
+  ],
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

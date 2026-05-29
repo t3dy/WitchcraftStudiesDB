@@ -79,13 +79,26 @@ body { margin:0; background:#0d0d0d; color:#e8e0d0; font-family:Georgia,serif; }
   <input type="text" id="search" placeholder="Search...">
   <select id="disciplineFilter">
     <option value="">All Disciplines</option>
-    <option value="SOCIAL HISTORY">Social History</option>
-    <option value="INTELLECTUAL HISTORY">Intellectual History</option>
-    <option value="GENDER HISTORY">Gender History</option>
+    <option value="SOCIAL">Social History</option>
+    <option value="INTELLECTUAL">Intellectual History</option>
+    <option value="GENDER">Gender History</option>
     <option value="MICROHISTORY">Microhistory</option>
-    <option value="LEGAL HISTORY">Legal History</option>
-    <option value="ANTHROPOLOGY">Anthropology</option>
-    <option value="Scandinavian History">Scandinavian History</option>
+    <option value="LEGAL">Legal History</option>
+    <option value="ANTHROPOLOG">Anthropology</option>
+    <option value="Scandinavian">Scandinavian History</option>
+    <option value="CULTURAL">Cultural History</option>
+    <option value="FEMINIST">Feminist History</option>
+    <option value="MEDIEVAL">Medieval History</option>
+  </select>
+  <select id="regionFilter">
+    <option value="">All Regions</option>
+    <option value="England">England / Britain</option>
+    <option value="Germany">Germany / German</option>
+    <option value="France">France</option>
+    <option value="Italy">Italy</option>
+    <option value="Scotland">Scotland</option>
+    <option value="Scandinavia">Scandinavia</option>
+    <option value="Hungary">East / Central Europe</option>
   </select>
 </div>
 <div id="count"></div>
@@ -119,9 +132,14 @@ function render() {
   const content = document.getElementById('content');
 
   if (currentTab === 'scholars') {
+    const regionF = document.getElementById('regionFilter').value;
     const scholars = (window.SCHOLARS || []).filter(s => {
       if (q && !(s.name + ' ' + (s.specialization || '') + ' ' + (s.core_argument || '')).toLowerCase().includes(q)) return false;
       if (discipline && !((s.historiographical_position || '') + (s.academic_discipline || '')).toLowerCase().includes(discipline.toLowerCase())) return false;
+      if (regionF) {
+        const geo = ((s.geographical_focus || []).join(' ') + ' ' + (s.birth_place || '') + ' ' + (s.primary_institution || '')).toLowerCase();
+        if (!geo.includes(regionF.toLowerCase())) return false;
+      }
       return true;
     }).sort((a, b) => a.name.localeCompare(b.name));
 
@@ -174,7 +192,7 @@ function render() {
   }
 }
 
-['search', 'disciplineFilter'].forEach(id => {
+['search', 'disciplineFilter', 'regionFilter'].forEach(id => {
   document.getElementById(id).addEventListener('input', render);
 });
 render();
