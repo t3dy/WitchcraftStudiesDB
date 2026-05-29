@@ -9,8 +9,8 @@
   "age_at_trial": null,
   "social_status": "Wife of Giles Corey; church member, Salem Village",
   "gender": "Female",
-  "biography": "Martha Corey had initially expressed skepticism about the witchcraft accusations sweeping Salem Village in early 1692, questioning whether the afflicted girls were really experiencing supernatural torment. This skepticism, voiced before she herself was accused, made her accusation particularly striking — it suggested that expressing doubt about the proceedings was itself dangerous. She was a full church member, which gave her some social respectability, and her husband Giles Corey was also accused, making theirs one of the few Salem cases involving an accused husband and wife.\n\nMartha Corey maintained her innocence throughout her trial and imprisonment. She was executed on September 22, 1692, in the last mass execution of the Salem trials, just three days after her husband Giles Corey had been pressed to death for refusing to enter a plea. Her case illustrates how skepticism about the proceedings could be reinterpreted as evidence of guilty knowledge.",
-  "arrest_narrative": "Corey was accused in mid-March 1692, shortly after she had been visited by members of the community investigating the afflictions and had made clear her doubts about the accusations. Her prior questioning of the accusers' reliability was recalled and used against her. Her examination before the magistrates was dramatic — the afflicted girls mimicked her movements and claimed her specter was tormenting them in the courtroom.",
+  "biography": "Martha Corey had initially expressed skepticism about the witchcraft accusations sweeping Salem Village in early 1692, questioning whether the afflicted girls were really experiencing supernatural torment. This skepticism, voiced before she herself was accused, made her accusation particularly striking \u2014 it suggested that expressing doubt about the proceedings was itself dangerous. She was a full church member, which gave her some social respectability, and her husband Giles Corey was also accused, making theirs one of the few Salem cases involving an accused husband and wife.\n\nMartha Corey maintained her innocence throughout her trial and imprisonment. She was executed on September 22, 1692, in the last mass execution of the Salem trials, just three days after her husband Giles Corey had been pressed to death for refusing to enter a plea. Her case illustrates how skepticism about the proceedings could be reinterpreted as evidence of guilty knowledge.",
+  "arrest_narrative": "Corey was accused in mid-March 1692, shortly after she had been visited by members of the community investigating the afflictions and had made clear her doubts about the accusations. Her prior questioning of the accusers' reliability was recalled and used against her. Her examination before the magistrates was dramatic \u2014 the afflicted girls mimicked her movements and claimed her specter was tormenting them in the courtroom.",
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
@@ -44,5 +44,6 @@
     "levack-witch-hunt-early-modern-europe-2006"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

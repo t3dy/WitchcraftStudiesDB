@@ -9,21 +9,30 @@
   "age_at_trial": null,
   "social_status": "Maidservant to David Seaton, bailie of Tranent",
   "gender": "Female",
-  "biography": "Geillis Duncan was a young maidservant employed by David Seaton, the deputy bailie of Tranent, East Lothian. She had gained a local reputation for being able to cure illness and relieve those in pain, visiting the sick by night — practices that apparently aroused her employer's suspicion rather than his gratitude. The North Berwick trials effectively began with Seaton's investigation of his own servant, representing an unusual case where the accused's employer personally initiated the torture that produced the first confessions.\n\nDuncan played the lute at the alleged North Berwick sabbath, according to confessions extracted in the trials, and her musical ability became one of the memorable details circulated in the Newes from Scotland pamphlet. She was among the first arrested and her early confessions under torture from Seaton's hand set in motion the chain of accusation that eventually consumed dozens of individuals.",
-
-  "arrest_narrative": "David Seaton himself became suspicious of his maidservant's nocturnal healing activities and questioned her. When she refused to confess, he had her fingers bound together (a form of torture called 'neiving') and searched her body for the devil's mark, which he believed he found on her throat. Under this torture at her employer's hands — before any formal judicial process — Duncan confessed and began naming accomplices. She was then handed over to formal authorities for judicial proceedings.",
-
+  "biography": "Geillis Duncan was a young maidservant employed by David Seaton, the deputy bailie of Tranent, East Lothian. She had gained a local reputation for being able to cure illness and relieve those in pain, visiting the sick by night \u2014 practices that apparently aroused her employer's suspicion rather than his gratitude. The North Berwick trials effectively began with Seaton's investigation of his own servant, representing an unusual case where the accused's employer personally initiated the torture that produced the first confessions.\n\nDuncan played the lute at the alleged North Berwick sabbath, according to confessions extracted in the trials, and her musical ability became one of the memorable details circulated in the Newes from Scotland pamphlet. She was among the first arrested and her early confessions under torture from Seaton's hand set in motion the chain of accusation that eventually consumed dozens of individuals.",
+  "arrest_narrative": "David Seaton himself became suspicious of his maidservant's nocturnal healing activities and questioned her. When she refused to confess, he had her fingers bound together (a form of torture called 'neiving') and searched her body for the devil's mark, which he believed he found on her throat. Under this torture at her employer's hands \u2014 before any formal judicial process \u2014 Duncan confessed and began naming accomplices. She was then handed over to formal authorities for judicial proceedings.",
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["neiving (finger binding)", "pilliwinks", "physical search for devil's mark"],
+    "torture_methods": [
+      "neiving (finger binding)",
+      "pilliwinks",
+      "physical search for devil's mark"
+    ],
     "torture_sessions": [
-      {"session": 1, "method": "Neiving (finger binding) by David Seaton himself", "outcome": "Initial confession to healing by supernatural means"},
-      {"session": 2, "method": "Pilliwinks under judicial authority", "outcome": "Extended confession naming numerous accomplices including Agnes Sampson"}
+      {
+        "session": 1,
+        "method": "Neiving (finger binding) by David Seaton himself",
+        "outcome": "Initial confession to healing by supernatural means"
+      },
+      {
+        "session": 2,
+        "method": "Pilliwinks under judicial authority",
+        "outcome": "Extended confession naming numerous accomplices including Agnes Sampson"
+      }
     ],
     "initial_response": "Denial of witchcraft when first questioned by Seaton",
     "final_confession_summary": "Confessed to healing by supernatural means, attendance at North Berwick Kirk sabbath, dancing and music-making at the devil's gathering, and named Agnes Sampson, John Fian, Euphemia Maclean, and Barbara Napier among others"
   },
-
   "accusations_against_them": [
     "Healing by supernatural means (original suspicion)",
     "Attendance at North Berwick Kirk sabbath",
@@ -31,15 +40,12 @@
     "Demonic pact",
     "Naming and implicating numerous accomplices"
   ],
-
   "execution_details": {
     "date": "1591-01-01",
     "method": "Burning at stake after strangling",
     "location": "Edinburgh"
   },
-
-  "historiographical_significance": "Duncan is historically significant as the first person accused in the North Berwick trials, whose torture-extracted confession under her employer's hands set the entire prosecution in motion. Her case illustrates how the chain of accusation began — not with a formal judicial inquiry but with an employer torturing a servant over suspicious healing practices. Her ability to play the lute was preserved as a detail in the Newes from Scotland pamphlet, suggesting that popular accounts focused on memorable human details rather than theological abstractions.",
-
+  "historiographical_significance": "Duncan is historically significant as the first person accused in the North Berwick trials, whose torture-extracted confession under her employer's hands set the entire prosecution in motion. Her case illustrates how the chain of accusation began \u2014 not with a formal judicial inquiry but with an employer torturing a servant over suspicious healing practices. Her ability to play the lute was preserved as a detail in the Newes from Scotland pamphlet, suggesting that popular accounts focused on memorable human details rather than theological abstractions.",
   "source_method": "Newes from Scotland pamphlet (1591); Scottish privy council records; Pitcairn's Criminal Trials",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -48,5 +54,6 @@
     "goodare-scottish-witch-hunt-2002"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": null
 }

@@ -9,7 +9,7 @@
   "age_at_trial": null,
   "social_status": "Former minister of Salem Village; then minister at Wells, Maine",
   "gender": "Male",
-  "biography": "George Burroughs had served as minister of Salem Village before Samuel Parris and had left under difficult circumstances involving unpaid salary. When the 1692 crisis began, the afflicted girls named him as the 'king' or chief of the witches — an extraordinary accusation that elevated the entire conspiracy to a new level of seriousness, since a minister leading a witch coven implied the deepest possible corruption of the social order. Burroughs had to be brought from Maine, where he was then serving, to stand trial.\n\nBurroughs's case produced one of the most dramatic moments of the Salem crisis. On the scaffold before his execution, he recited the Lord's Prayer — perfectly, without stumbling. This was supposedly impossible for a witch (a belief with some popular currency at the time) and many in the watching crowd were visibly moved. Cotton Mather, who was present on horseback, reportedly addressed the crowd and argued that the devil could appear as an angel of light, and that Burroughs's prayer was itself evidence of diabolical cunning. The hanging proceeded. His perfect Lord's Prayer and subsequent execution despite it has made him one of the most remembered Salem victims.",
+  "biography": "George Burroughs had served as minister of Salem Village before Samuel Parris and had left under difficult circumstances involving unpaid salary. When the 1692 crisis began, the afflicted girls named him as the 'king' or chief of the witches \u2014 an extraordinary accusation that elevated the entire conspiracy to a new level of seriousness, since a minister leading a witch coven implied the deepest possible corruption of the social order. Burroughs had to be brought from Maine, where he was then serving, to stand trial.\n\nBurroughs's case produced one of the most dramatic moments of the Salem crisis. On the scaffold before his execution, he recited the Lord's Prayer \u2014 perfectly, without stumbling. This was supposedly impossible for a witch (a belief with some popular currency at the time) and many in the watching crowd were visibly moved. Cotton Mather, who was present on horseback, reportedly addressed the crowd and argued that the devil could appear as an angel of light, and that Burroughs's prayer was itself evidence of diabolical cunning. The hanging proceeded. His perfect Lord's Prayer and subsequent execution despite it has made him one of the most remembered Salem victims.",
   "arrest_narrative": "Burroughs was named by multiple accusers as the leader of the witch conspiracy. He was arrested in Maine and brought to Salem for trial. The evidence against him included spectral testimony from the afflicted girls and claims about his extraordinary physical strength (said to be supernatural). He was tried, convicted on spectral evidence, and sentenced to death.",
   "interrogation_and_confession": {
     "torture_applied": false,
@@ -46,5 +46,6 @@
     "levack-witch-hunt-early-modern-europe-2006"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

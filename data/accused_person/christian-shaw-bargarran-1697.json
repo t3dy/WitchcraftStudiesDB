@@ -9,16 +9,16 @@
   "age_at_trial": 11,
   "social_status": "Daughter of John Shaw, Laird of Bargarran; landed gentry",
   "gender": "Female",
-  "biography": "Christian Shaw was the eleven-year-old daughter of the Laird of Bargarran in Renfrewshire, Scotland, whose alleged bewitchment in 1696-1697 led to one of the last major Scottish witch prosecutions and resulted in seven executions in June 1697. Shaw began experiencing fits and strange symptoms in August 1696, initially attributed to natural causes, but her subsequent claims that she was being tormented by named individuals triggered an investigation that rapidly expanded under the attention of physicians, ministers, and eventually the Privy Council.\n\nShaw's accusations implicated individuals from a range of social backgrounds, and her performances of affliction — convulsions, vomiting of feathers, pins, and hay, apparent trances — were witnessed by credible and educated observers including physicians who initially found them inexplicable. The case drew national attention and was referred to the Privy Council. A commission tried twenty-four individuals, of whom seven were convicted and hanged and burned on the Gallow Green in Paisley on June 10, 1697.\n\nIn a remarkable biographical turn, Christian Shaw survived to adulthood and around 1720 founded the Bargarran Thread Company in Johnstone, Renfrewshire, using spinning techniques she had observed or developed. The thread company became economically significant and her later life as a successful businesswoman stands in sharp contrast to her childhood role as the center of a lethal witch prosecution. Historians debate whether Shaw's fits were genuine psychosomatic illness, deliberate performance, or some combination, but the debate itself illustrates the impossibility of distinguishing between these categories in early modern contexts.",
+  "biography": "Christian Shaw was the eleven-year-old daughter of the Laird of Bargarran in Renfrewshire, Scotland, whose alleged bewitchment in 1696-1697 led to one of the last major Scottish witch prosecutions and resulted in seven executions in June 1697. Shaw began experiencing fits and strange symptoms in August 1696, initially attributed to natural causes, but her subsequent claims that she was being tormented by named individuals triggered an investigation that rapidly expanded under the attention of physicians, ministers, and eventually the Privy Council.\n\nShaw's accusations implicated individuals from a range of social backgrounds, and her performances of affliction \u2014 convulsions, vomiting of feathers, pins, and hay, apparent trances \u2014 were witnessed by credible and educated observers including physicians who initially found them inexplicable. The case drew national attention and was referred to the Privy Council. A commission tried twenty-four individuals, of whom seven were convicted and hanged and burned on the Gallow Green in Paisley on June 10, 1697.\n\nIn a remarkable biographical turn, Christian Shaw survived to adulthood and around 1720 founded the Bargarran Thread Company in Johnstone, Renfrewshire, using spinning techniques she had observed or developed. The thread company became economically significant and her later life as a successful businesswoman stands in sharp contrast to her childhood role as the center of a lethal witch prosecution. Historians debate whether Shaw's fits were genuine psychosomatic illness, deliberate performance, or some combination, but the debate itself illustrates the impossibility of distinguishing between these categories in early modern contexts.",
   "arrest_narrative": "Christian Shaw was not arrested but rather was the accuser in the Bargarran case. Her symptoms of affliction beginning in August 1696 were formally investigated after she began naming her tormentors. The accused were arrested based primarily on her testimony.",
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "initial_response": "Presented as victim of bewitchment, not as accused",
-    "final_confession_summary": "Not applicable — Shaw was the accuser; her testimony named seven individuals who were subsequently executed, plus additional accused who survived"
+    "final_confession_summary": "Not applicable \u2014 Shaw was the accuser; her testimony named seven individuals who were subsequently executed, plus additional accused who survived"
   },
   "accusations_against_them": [
-    "Not accused — role as accuser: claimed bewitchment by seven neighbors",
+    "Not accused \u2014 role as accuser: claimed bewitchment by seven neighbors",
     "Testimony resulted in seven executions on Gallow Green, Paisley, June 10, 1697"
   ],
   "execution_details": {
@@ -37,5 +37,6 @@
     "goodare-scottish-witch-hunt-2002"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

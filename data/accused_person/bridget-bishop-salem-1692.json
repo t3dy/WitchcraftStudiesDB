@@ -9,8 +9,8 @@
   "age_at_trial": 60,
   "social_status": "Tavern keeper, Salem Town",
   "gender": "Female",
-  "biography": "Bridget Bishop was approximately sixty years old at the time of her accusation and operated a tavern in Salem Town, making her modestly prosperous by the standards of the accused in the Salem crisis. She had previously been accused of witchcraft in 1679, though that earlier accusation had not resulted in prosecution — a history that made her a natural early target once the 1692 crisis began. Her tavern, with its late-night customers and game of shuffleboard, struck her more godly neighbors as a disreputable establishment, and her reputation had long been ambiguous in the community.\n\nBishop was the first person executed in the Salem witch trials, hanged on June 10, 1692. Her trial came before the special Court of Oyer and Terminer that had been established to handle the crisis, and her conviction set the judicial template for the trials that followed. She maintained her innocence throughout.",
-  "arrest_narrative": "Bishop was arrested in April 1692 after being named by several of the afflicted girls and other accusers. The spectral evidence against her — testimony that her specter had appeared to torment the accusers — was the primary evidence at her trial. Physical examination of her body reportedly found a 'witch's mark,' and witnesses testified about strange encounters with her image. She was tried, convicted, and executed before the larger wave of executions in late July and August.",
+  "biography": "Bridget Bishop was approximately sixty years old at the time of her accusation and operated a tavern in Salem Town, making her modestly prosperous by the standards of the accused in the Salem crisis. She had previously been accused of witchcraft in 1679, though that earlier accusation had not resulted in prosecution \u2014 a history that made her a natural early target once the 1692 crisis began. Her tavern, with its late-night customers and game of shuffleboard, struck her more godly neighbors as a disreputable establishment, and her reputation had long been ambiguous in the community.\n\nBishop was the first person executed in the Salem witch trials, hanged on June 10, 1692. Her trial came before the special Court of Oyer and Terminer that had been established to handle the crisis, and her conviction set the judicial template for the trials that followed. She maintained her innocence throughout.",
+  "arrest_narrative": "Bishop was arrested in April 1692 after being named by several of the afflicted girls and other accusers. The spectral evidence against her \u2014 testimony that her specter had appeared to torment the accusers \u2014 was the primary evidence at her trial. Physical examination of her body reportedly found a 'witch's mark,' and witnesses testified about strange encounters with her image. She was tried, convicted, and executed before the larger wave of executions in late July and August.",
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
@@ -35,7 +35,7 @@
     "method": "Hanging",
     "location": "Gallows Hill, Salem"
   },
-  "historiographical_significance": "Bridget Bishop's execution as the first Salem victim is significant because it established the judicial patterns — spectral evidence, the Court of Oyer and Terminer's procedures, the treatment of denial — that governed all subsequent Salem trials. Her prior 1679 accusation illustrates how the crisis drew on pre-existing reputations and community tensions. Historians have analyzed how her marginal respectability (tavern keeper, prior accusation) made her a likely early target when the crisis mechanism needed an initial credible victim.",
+  "historiographical_significance": "Bridget Bishop's execution as the first Salem victim is significant because it established the judicial patterns \u2014 spectral evidence, the Court of Oyer and Terminer's procedures, the treatment of denial \u2014 that governed all subsequent Salem trials. Her prior 1679 accusation illustrates how the crisis drew on pre-existing reputations and community tensions. Historians have analyzed how her marginal respectability (tavern keeper, prior accusation) made her a likely early target when the crisis mechanism needed an initial credible victim.",
   "source_method": "Salem witchcraft trial records; Boyer and Nissenbaum, Salem Possessed (1974); court records published in Rosenthal, Records of the Salem Witch-Hunt (2009)",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -45,5 +45,6 @@
     "levack-witch-hunt-early-modern-europe-2006"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

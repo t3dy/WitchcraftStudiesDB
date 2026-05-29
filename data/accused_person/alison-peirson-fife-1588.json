@@ -14,7 +14,7 @@
   "interrogation_and_confession": {
     "torture_applied": true,
     "torture_methods": [
-      "unspecified — torture standard in Scottish procedure"
+      "unspecified \u2014 torture standard in Scottish procedure"
     ],
     "initial_response": "Unknown",
     "final_confession_summary": "Confessed to receiving healing knowledge from the fairy court; described visiting fairy gatherings and obtaining remedies from fairy beings; treatment of Archbishop Adamson through fairy-derived arts; commerce with spirits understood as demonic by prosecutors"
@@ -41,5 +41,6 @@
     "goodare-scottish-witch-hunt-2002"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

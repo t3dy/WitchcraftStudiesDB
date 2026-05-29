@@ -9,32 +9,30 @@
   "age_at_trial": null,
   "social_status": "Legal official (Chancellor of Bamberg), civic leader",
   "gender": "Male",
-  "biography": "George Haan was a senior legal official of Bamberg — serving as Chancellor or in an equivalent senior administrative legal role — who attempted to use his position to protect individuals he believed were being unjustly accused during the Bamberg mass persecution. His efforts to defend accused individuals and to raise legal objections to the procedures being used marked him as a dangerous critic of the prosecution, and he was subsequently accused of witchcraft himself. He was executed in September 1628.\n\nHaan's case is the paradigmatic example of a dynamic common in mass witch persecution: those who defended the accused, raised procedural objections, or expressed skepticism about the reality of the charges became targets themselves. The logic was internally consistent within the prosecution's framework — if a diabolical conspiracy existed, those who shielded the conspirators must be either deceived or complicit. Defenders thus faced an impossible situation: to defend was to invite accusation, but to remain silent was to allow injustice.\n\nHis wife and daughter were also subsequently accused and executed, making the Haan family one of multiple Bamberg families where entire households were consumed by the prosecution. The pattern of prosecution spreading to family members of defenders and accused alike illustrates how the cascade mechanism worked through social networks as well as through direct torture-induced naming. The Bamberg persecution destroyed multiple civic families entirely.",
-
+  "biography": "George Haan was a senior legal official of Bamberg \u2014 serving as Chancellor or in an equivalent senior administrative legal role \u2014 who attempted to use his position to protect individuals he believed were being unjustly accused during the Bamberg mass persecution. His efforts to defend accused individuals and to raise legal objections to the procedures being used marked him as a dangerous critic of the prosecution, and he was subsequently accused of witchcraft himself. He was executed in September 1628.\n\nHaan's case is the paradigmatic example of a dynamic common in mass witch persecution: those who defended the accused, raised procedural objections, or expressed skepticism about the reality of the charges became targets themselves. The logic was internally consistent within the prosecution's framework \u2014 if a diabolical conspiracy existed, those who shielded the conspirators must be either deceived or complicit. Defenders thus faced an impossible situation: to defend was to invite accusation, but to remain silent was to allow injustice.\n\nHis wife and daughter were also subsequently accused and executed, making the Haan family one of multiple Bamberg families where entire households were consumed by the prosecution. The pattern of prosecution spreading to family members of defenders and accused alike illustrates how the cascade mechanism worked through social networks as well as through direct torture-induced naming. The Bamberg persecution destroyed multiple civic families entirely.",
   "arrest_narrative": "Haan was accused during the Bamberg persecution after attempting to protect accused individuals through his legal authority. His defense of the accused and criticism of prosecution procedures attracted suspicion, and other accused under torture named him as a participant in the diabolic conspiracy. He was arrested and subjected to the same procedures he had tried to reform.",
-
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["strappado", "leg screws", "additional methods standard in Bamberg procedure"],
+    "torture_methods": [
+      "strappado",
+      "leg screws",
+      "additional methods standard in Bamberg procedure"
+    ],
     "initial_response": "Denial; maintained that the prosecution was unjust",
     "final_confession_summary": "Confessed under torture to witchcraft and sabbath attendance; his wife and daughter were subsequently accused and executed; confession fed the continuing persecution despite its origins in his role as a defender of the accused"
   },
-
   "accusations_against_them": [
     "Witchcraft and diabolism",
     "Attendance at sabbath",
     "Demonic compact",
     "Complicity in protecting other witches (original grounds for suspicion)"
   ],
-
   "execution_details": {
     "date": "1628-09",
     "method": "Burning at stake",
     "location": "Bamberg"
   },
-
-  "historiographical_significance": "Haan's case is the clearest German example of how defenders of the accused became accused themselves, a dynamic that fundamentally shaped the trajectory of mass persecutions by eliminating internal critics and creating an escalating logic of accusation. His case alongside Johannes Junius's represents the human cost of the Bamberg persecution reaching into the highest levels of civic administration. Levack and other historians use such cases to explain why mass panics were ultimately self-limiting — they eventually began consuming the social networks of prosecutors and authorities themselves.",
-
+  "historiographical_significance": "Haan's case is the clearest German example of how defenders of the accused became accused themselves, a dynamic that fundamentally shaped the trajectory of mass persecutions by eliminating internal critics and creating an escalating logic of accusation. His case alongside Johannes Junius's represents the human cost of the Bamberg persecution reaching into the highest levels of civic administration. Levack and other historians use such cases to explain why mass panics were ultimately self-limiting \u2014 they eventually began consuming the social networks of prosecutors and authorities themselves.",
   "source_method": "Bamberg witch trial records; discussed in Behringer's Witchcraft Persecutions in Bavaria (1997); analyzed in Levack's Witch-Hunt in Early Modern Europe",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -44,5 +42,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": true
 }

@@ -17,7 +17,7 @@
       "strappado",
       "hot pincers"
     ],
-    "initial_response": "Unknown — records begin with confession phase",
+    "initial_response": "Unknown \u2014 records begin with confession phase",
     "final_confession_summary": "Confessed to: making demonic pact as young woman; sexual intercourse with the Devil and succession of demonic lovers; murder of dozens of infants in her midwifery capacity, offering their flesh to the Devil; causing storms and weather damage; attendance at sabbaths; maleficium against livestock and people over many years"
   },
   "accusations_against_them": [
@@ -43,5 +43,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": true
 }

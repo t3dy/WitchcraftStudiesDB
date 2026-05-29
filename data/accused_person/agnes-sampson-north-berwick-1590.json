@@ -9,21 +9,30 @@
   "age_at_trial": null,
   "social_status": "Healer and midwife, Haddington",
   "gender": "Female",
-  "biography": "Agnes Sampson was a respected healer and midwife from Haddington, East Lothian, who had practiced her trade among local communities for many years before her arrest in 1590. She possessed considerable reputation as a wise woman who could treat illness and assist in childbirth, and her skills would have been valued and relied upon by her neighbors. The North Berwick panic swept up Sampson as its central accused figure, transforming her from a community healer into the alleged principal organizer of a conspiracy against the king.\n\nSampson became the focal point of James VI's personal obsession with the North Berwick case. She was examined by the king himself at Holyrood Palace, where James reportedly was initially skeptical of her guilt. According to contemporary accounts, her position shifted when she whispered to James the words he had spoken privately to his new bride Anne of Denmark on their wedding night — a detail James found impossible to explain except through supernatural means, thus confirming his belief in the reality of the conspiracy against him.",
-
-  "arrest_narrative": "Sampson was arrested as part of the sweeping North Berwick prosecutions of 1590–1591, which James VI pursued with intense personal interest following allegations that witches had conspired to sink the ship carrying him and his bride Anne of Denmark back from Denmark. She was initially examined at Holyrood before the king himself, an unusual direct royal involvement reflecting James's personal stake in the case. Physical examination of her body revealed the 'devil's mark,' which prosecutors used as confirmation of her guilt.",
-
+  "biography": "Agnes Sampson was a respected healer and midwife from Haddington, East Lothian, who had practiced her trade among local communities for many years before her arrest in 1590. She possessed considerable reputation as a wise woman who could treat illness and assist in childbirth, and her skills would have been valued and relied upon by her neighbors. The North Berwick panic swept up Sampson as its central accused figure, transforming her from a community healer into the alleged principal organizer of a conspiracy against the king.\n\nSampson became the focal point of James VI's personal obsession with the North Berwick case. She was examined by the king himself at Holyrood Palace, where James reportedly was initially skeptical of her guilt. According to contemporary accounts, her position shifted when she whispered to James the words he had spoken privately to his new bride Anne of Denmark on their wedding night \u2014 a detail James found impossible to explain except through supernatural means, thus confirming his belief in the reality of the conspiracy against him.",
+  "arrest_narrative": "Sampson was arrested as part of the sweeping North Berwick prosecutions of 1590\u20131591, which James VI pursued with intense personal interest following allegations that witches had conspired to sink the ship carrying him and his bride Anne of Denmark back from Denmark. She was initially examined at Holyrood before the king himself, an unusual direct royal involvement reflecting James's personal stake in the case. Physical examination of her body revealed the 'devil's mark,' which prosecutors used as confirmation of her guilt.",
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["pilliwinks (thumbscrews)", "sleep deprivation", "physical restraint with rope"],
+    "torture_methods": [
+      "pilliwinks (thumbscrews)",
+      "sleep deprivation",
+      "physical restraint with rope"
+    ],
     "torture_sessions": [
-      {"session": 1, "method": "Pilliwinks (thumbscrews)", "outcome": "Initial resistance"},
-      {"session": 2, "method": "Sleep deprivation and physical binding with rope", "outcome": "Full confession to 53 articles"}
+      {
+        "session": 1,
+        "method": "Pilliwinks (thumbscrews)",
+        "outcome": "Initial resistance"
+      },
+      {
+        "session": 2,
+        "method": "Sleep deprivation and physical binding with rope",
+        "outcome": "Full confession to 53 articles"
+      }
     ],
     "initial_response": "Denial of charges before the king at Holyrood",
     "final_confession_summary": "Confessed to 53 articles including organizing meetings of witches at North Berwick Kirk, raising storms to sink James VI's ship, performing wax image magic, dancing with the devil, and conducting rituals with a waxen image of the king"
   },
-
   "accusations_against_them": [
     "Organizing witches' sabbath at North Berwick Kirk",
     "Raising storms by sea to sink James VI's vessel",
@@ -32,15 +41,12 @@
     "Performing maleficium against the royal household",
     "Conspiracy against the king's life"
   ],
-
   "execution_details": {
     "date": "1591-01-28",
     "method": "Burning at stake after strangling",
     "location": "Edinburgh"
   },
-
   "historiographical_significance": "Sampson's case is central to understanding the intersection of royal politics and witch prosecution in Scotland. Her examination by James VI himself and her confession to 53 articles shaped James's subsequent thinking on demonology, contributing to his authorship of Daemonologie (1597). Scholars debate the extent to which her confession reflects genuine folk practices, interrogation-induced fantasy, or deliberate political construction.",
-
   "source_method": "Published trial pamphlet Newes from Scotland (1591); Scottish privy council records; James VI's Daemonologie",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -50,5 +56,6 @@
     "goodare-scottish-witch-hunt-2002"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": true
 }

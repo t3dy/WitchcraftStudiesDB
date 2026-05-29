@@ -9,7 +9,7 @@
   "age_at_trial": null,
   "social_status": "Son of Elizabeth Device; rural poor, Forest of Pendle",
   "gender": "Male",
-  "biography": "James Device was the son of Elizabeth Device and the grandson of Old Demdike (Elizabeth Southerns), placing him at the center of the network of family relationships that structured the Pendle prosecutions. He was a young man of the laboring poor in the Forest of Pendle who would become both accuser and accused in the 1612 trials — one of the more extraordinary personal positions in the case's history. He confessed to his own involvement in witchcraft and simultaneously gave testimony that helped condemn his own mother and other family members.\n\nJames Device's role as a witness against his mother Elizabeth Device is one of the most striking elements of the Pendle trials, raising questions that scholars continue to debate about the psychological conditions under which such testimony was given, whether coercion played a role, and what understanding James himself may have had of the legal consequences of what he was saying.",
+  "biography": "James Device was the son of Elizabeth Device and the grandson of Old Demdike (Elizabeth Southerns), placing him at the center of the network of family relationships that structured the Pendle prosecutions. He was a young man of the laboring poor in the Forest of Pendle who would become both accuser and accused in the 1612 trials \u2014 one of the more extraordinary personal positions in the case's history. He confessed to his own involvement in witchcraft and simultaneously gave testimony that helped condemn his own mother and other family members.\n\nJames Device's role as a witness against his mother Elizabeth Device is one of the most striking elements of the Pendle trials, raising questions that scholars continue to debate about the psychological conditions under which such testimony was given, whether coercion played a role, and what understanding James himself may have had of the legal consequences of what he was saying.",
   "arrest_narrative": "James Device was arrested in the spring 1612 sweep following Justice Roger Nowell's examinations at Read Hall. He gave extensive examinations in which he confessed to witchcraft and named family members and neighbors. At trial he gave testimony against his mother, a detail preserved in Potts's account and widely noted by contemporaries and later historians.",
   "interrogation_and_confession": {
     "torture_applied": false,
@@ -46,5 +46,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

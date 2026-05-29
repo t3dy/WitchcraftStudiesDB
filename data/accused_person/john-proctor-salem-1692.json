@@ -9,7 +9,7 @@
   "age_at_trial": null,
   "social_status": "Farmer and tavern owner, Salem Farms",
   "gender": "Male",
-  "biography": "John Proctor was a farmer and tavern owner who operated Salem Farms and who had been publicly skeptical of the witchcraft accusations from their earliest stages. He had been dismissive of his servant Mary Warren's fits, reportedly threatening to beat the devil out of her, and his critical attitude toward the proceedings made him a target once the prosecutorial machinery was fully operational. His wife Elizabeth was also accused, and she survived the crisis while pregnant — a pregnancy that delayed her execution until after the trials collapsed.\n\nProctor wrote one of the most remarkable documents of the Salem crisis: a letter to Boston ministers protesting the proceedings, describing the torture and coercion used against the accused, and requesting that the trials be moved to Boston or that the judges be changed. His letter, written from prison, is a sustained rational critique of the proceedings and demonstrates that at least some of the accused clearly understood what was happening and why it was unjust. He was hanged August 19, 1692. Arthur Miller used elements of his story in The Crucible (1953), though Miller's play is a dramatic interpretation rather than historical reconstruction.",
+  "biography": "John Proctor was a farmer and tavern owner who operated Salem Farms and who had been publicly skeptical of the witchcraft accusations from their earliest stages. He had been dismissive of his servant Mary Warren's fits, reportedly threatening to beat the devil out of her, and his critical attitude toward the proceedings made him a target once the prosecutorial machinery was fully operational. His wife Elizabeth was also accused, and she survived the crisis while pregnant \u2014 a pregnancy that delayed her execution until after the trials collapsed.\n\nProctor wrote one of the most remarkable documents of the Salem crisis: a letter to Boston ministers protesting the proceedings, describing the torture and coercion used against the accused, and requesting that the trials be moved to Boston or that the judges be changed. His letter, written from prison, is a sustained rational critique of the proceedings and demonstrates that at least some of the accused clearly understood what was happening and why it was unjust. He was hanged August 19, 1692. Arthur Miller used elements of his story in The Crucible (1953), though Miller's play is a dramatic interpretation rather than historical reconstruction.",
   "arrest_narrative": "Proctor was accused in April 1692, partly because of his outspoken skepticism about the proceedings and his treatment of the afflicted girls as malingerers. His wife Elizabeth was accused first, and his defense of her and his general dismissiveness about the crisis made him a target. He was imprisoned with many others, during which time he wrote the letter to Boston ministers describing the torture and coercion.",
   "interrogation_and_confession": {
     "torture_applied": true,
@@ -36,7 +36,7 @@
     "method": "Hanging",
     "location": "Gallows Hill, Salem"
   },
-  "historiographical_significance": "Proctor's letter from prison is one of the most significant documents of the Salem crisis — a rational, articulate protest against the proceedings from a man who understood he was going to die. His early public skepticism and the threat it posed to the accusers is significant for understanding how the crisis targeted critics. Arthur Miller's use of his story in The Crucible, while not historically accurate, made him one of the best-known Salem figures in American cultural memory, though scholars caution against reading Miller's drama as history.",
+  "historiographical_significance": "Proctor's letter from prison is one of the most significant documents of the Salem crisis \u2014 a rational, articulate protest against the proceedings from a man who understood he was going to die. His early public skepticism and the threat it posed to the accusers is significant for understanding how the crisis targeted critics. Arthur Miller's use of his story in The Crucible, while not historically accurate, made him one of the best-known Salem figures in American cultural memory, though scholars caution against reading Miller's drama as history.",
   "source_method": "Salem witchcraft trial records; John Proctor's letter to Boston ministers (1692, preserved); Rosenthal, Records of the Salem Witch-Hunt (2009)",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -46,5 +46,6 @@
     "levack-witch-hunt-early-modern-europe-2006"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

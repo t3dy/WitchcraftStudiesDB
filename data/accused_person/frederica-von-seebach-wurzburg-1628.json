@@ -7,35 +7,32 @@
   "year_accused": 1628,
   "year_executed": 1628,
   "age_at_trial": null,
-  "social_status": "Noblewoman, Würzburg; high social status",
+  "social_status": "Noblewoman, W\u00fcrzburg; high social status",
   "gender": "Female",
-  "biography": "Frederica von Seebach was a noblewoman executed during the Würzburg mass witch persecution of 1626-1631, one of the largest witch prosecutions in German history which resulted in approximately 300 executions. Her case is significant primarily for illustrating the social breadth of the Würzburg persecution: the fact that noble status offered no protection from accusation and execution demonstrates how completely the prosecution machinery had broken free from ordinary social constraints during the panic.\n\nThe Würzburg persecution was driven by Prince-Bishop Philipp Adolf von Ehrenberg, who pursued witch prosecution with extraordinary vigor. The trial records, partially preserved in the famous Würzburg list of executed persons, show accused spanning the full social spectrum from beggars and servants to civic officials, clergymen, and members of the nobility. The execution of individuals of noble status created particular alarm among contemporaries who regarded this social boundary as normally protective.\n\nLike many of the Würzburg accused, von Seebach was caught up in the cascade of accusation that characterized mass persecution: existing accused, tortured until they confessed, named accomplices, who were then arrested, tortured, and named further accomplices. The expansion of the Würzburg prosecution through this mechanism reached into social circles that would normally have been untouchable.",
-
-  "arrest_narrative": "Von Seebach was arrested during the Würzburg mass persecution of 1626-1631, named by other accused under torture. Her noble status provided no protection from the prosecution machinery under Prince-Bishop von Ehrenberg.",
-
+  "biography": "Frederica von Seebach was a noblewoman executed during the W\u00fcrzburg mass witch persecution of 1626-1631, one of the largest witch prosecutions in German history which resulted in approximately 300 executions. Her case is significant primarily for illustrating the social breadth of the W\u00fcrzburg persecution: the fact that noble status offered no protection from accusation and execution demonstrates how completely the prosecution machinery had broken free from ordinary social constraints during the panic.\n\nThe W\u00fcrzburg persecution was driven by Prince-Bishop Philipp Adolf von Ehrenberg, who pursued witch prosecution with extraordinary vigor. The trial records, partially preserved in the famous W\u00fcrzburg list of executed persons, show accused spanning the full social spectrum from beggars and servants to civic officials, clergymen, and members of the nobility. The execution of individuals of noble status created particular alarm among contemporaries who regarded this social boundary as normally protective.\n\nLike many of the W\u00fcrzburg accused, von Seebach was caught up in the cascade of accusation that characterized mass persecution: existing accused, tortured until they confessed, named accomplices, who were then arrested, tortured, and named further accomplices. The expansion of the W\u00fcrzburg prosecution through this mechanism reached into social circles that would normally have been untouchable.",
+  "arrest_narrative": "Von Seebach was arrested during the W\u00fcrzburg mass persecution of 1626-1631, named by other accused under torture. Her noble status provided no protection from the prosecution machinery under Prince-Bishop von Ehrenberg.",
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["strappado", "additional methods standard in Würzburg procedure"],
+    "torture_methods": [
+      "strappado",
+      "additional methods standard in W\u00fcrzburg procedure"
+    ],
     "initial_response": "Unknown",
-    "final_confession_summary": "Confessed to witchcraft charges consistent with the Würzburg prosecution pattern; specific confession content not fully documented in accessible scholarly sources"
+    "final_confession_summary": "Confessed to witchcraft charges consistent with the W\u00fcrzburg prosecution pattern; specific confession content not fully documented in accessible scholarly sources"
   },
-
   "accusations_against_them": [
     "Witchcraft and diabolism",
     "Attendance at sabbath",
     "Demonic compact",
     "Maleficium against community"
   ],
-
   "execution_details": {
     "date": "1628",
     "method": "Burning at stake",
-    "location": "Würzburg"
+    "location": "W\u00fcrzburg"
   },
-
-  "historiographical_significance": "Von Seebach's execution as a noblewoman is used by historians to illustrate the breakdown of normal social protections during mass persecution. The Würzburg records showing execution of nobles alongside servants and children demonstrate that the cascade dynamics of accusation were capable of dissolving social hierarchy entirely. Her case contributes to broader analyses of how mass panics operated differently from the ordinary witch prosecution that targeted marginal individuals.",
-
-  "source_method": "Würzburg execution lists; discussed in Behringer's Witchcraft Persecutions in Bavaria (1997); analyzed in Levack's Witch-Hunt in Early Modern Europe",
+  "historiographical_significance": "Von Seebach's execution as a noblewoman is used by historians to illustrate the breakdown of normal social protections during mass persecution. The W\u00fcrzburg records showing execution of nobles alongside servants and children demonstrate that the cascade dynamics of accusation were capable of dissolving social hierarchy entirely. Her case contributes to broader analyses of how mass panics operated differently from the ordinary witch prosecution that targeted marginal individuals.",
+  "source_method": "W\u00fcrzburg execution lists; discussed in Behringer's Witchcraft Persecutions in Bavaria (1997); analyzed in Levack's Witch-Hunt in Early Modern Europe",
   "review_status": "DRAFT",
   "confidence": "MEDIUM",
   "scholarly_sources": [
@@ -44,5 +41,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": true
 }

@@ -9,35 +9,35 @@
   "age_at_trial": null,
   "social_status": "Daughter of Lord Cliftonhall; high nobility",
   "gender": "Female",
-  "biography": "Euphemia Maclean was the daughter of Lord Cliftonhall, making her one of the highest-ranking individuals accused in the North Berwick trials — and indeed in any Scottish witch trial of the period. Her social status was exceptional: most accused witches were drawn from the lower ranks of society, and the prosecution of a noblewoman signaled the expansive ambitions of the North Berwick proceedings. Her case demonstrates that James VI's pursuit of the alleged conspiracy was prepared to transgress normal social boundaries.\n\nMaclean was accused of consulting Agnes Sampson regarding her own marriage difficulties and of participation in the North Berwick sabbath. Unlike most condemned witches, she was identified as a Catholic, which contributed to the particular severity of her execution — she was burned alive rather than being strangled first, the normal mercy extended to condemned witches. Her prosecution has been linked by some scholars to political rivalries within the Scottish nobility.",
-
+  "biography": "Euphemia Maclean was the daughter of Lord Cliftonhall, making her one of the highest-ranking individuals accused in the North Berwick trials \u2014 and indeed in any Scottish witch trial of the period. Her social status was exceptional: most accused witches were drawn from the lower ranks of society, and the prosecution of a noblewoman signaled the expansive ambitions of the North Berwick proceedings. Her case demonstrates that James VI's pursuit of the alleged conspiracy was prepared to transgress normal social boundaries.\n\nMaclean was accused of consulting Agnes Sampson regarding her own marriage difficulties and of participation in the North Berwick sabbath. Unlike most condemned witches, she was identified as a Catholic, which contributed to the particular severity of her execution \u2014 she was burned alive rather than being strangled first, the normal mercy extended to condemned witches. Her prosecution has been linked by some scholars to political rivalries within the Scottish nobility.",
   "arrest_narrative": "Maclean was implicated through confessions extracted from other accused North Berwick witches, particularly Agnes Sampson, who named her as a participant in the sabbath gatherings. Her high social status made her arrest controversial, and her trial attracted wider attention than those of lower-born accused. She was charged both with participating in the North Berwick conspiracy and with consulting witches for personal purposes.",
-
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["unknown — records incomplete"],
+    "torture_methods": [
+      "unknown \u2014 records incomplete"
+    ],
     "torture_sessions": [
-      {"session": 1, "method": "Methods unrecorded in surviving documents", "outcome": "Confession to sabbath attendance and maleficium"}
+      {
+        "session": 1,
+        "method": "Methods unrecorded in surviving documents",
+        "outcome": "Confession to sabbath attendance and maleficium"
+      }
     ],
     "initial_response": "Denial of charges",
     "final_confession_summary": "Confessed to attendance at North Berwick Kirk sabbath and consultation with witches for personal purposes including matters relating to her marriage"
   },
-
   "accusations_against_them": [
     "Attendance at North Berwick witches' sabbath",
     "Consulting with witches (Agnes Sampson) regarding personal matters",
     "Participation in conspiracy against James VI",
     "Maleficium against named individuals"
   ],
-
   "execution_details": {
     "date": "1591-06-25",
-    "method": "Burning alive (not strangled first — applied because she was identified as Catholic)",
+    "method": "Burning alive (not strangled first \u2014 applied because she was identified as Catholic)",
     "location": "Edinburgh, Castle Hill"
   },
-
   "historiographical_significance": "Maclean's high social status and the exceptional severity of her execution (burning alive rather than the usual strangling-first) make her case important for understanding the social dynamics of the North Berwick prosecutions. Scholars note that the prosecution of noblewomen was unusual and suggests the political dimensions of the case exceeded normal judicial procedure. The Catholic designation and its consequences illustrate how religious identity intersected with witch accusation.",
-
   "source_method": "Scottish privy council records; Pitcairn's Criminal Trials in Scotland (1833); secondary scholarly accounts",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -47,5 +47,6 @@
     "levack-witch-hunt-early-modern-europe-2006"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": null
 }

@@ -37,7 +37,7 @@
     "method": "Hanging",
     "location": "Chelmsford, Essex"
   },
-  "historiographical_significance": "Agnes Waterhouse holds the distinction of being the first woman executed for witchcraft in England, marking a significant threshold in the implementation of the 1563 witchcraft statute. Her case established the familiar spirit as a central feature of English witch prosecution — a distinctively English element with limited Continental parallels. Keith Thomas and subsequent scholars have analyzed how the familiar-spirit concept bridged popular magical belief and demonological prosecution framework.",
+  "historiographical_significance": "Agnes Waterhouse holds the distinction of being the first woman executed for witchcraft in England, marking a significant threshold in the implementation of the 1563 witchcraft statute. Her case established the familiar spirit as a central feature of English witch prosecution \u2014 a distinctively English element with limited Continental parallels. Keith Thomas and subsequent scholars have analyzed how the familiar-spirit concept bridged popular magical belief and demonological prosecution framework.",
   "source_method": "The Examination and Confession of certaine Wytches at Chensforde (1566), printed pamphlet; Essex assize records",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -47,5 +47,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

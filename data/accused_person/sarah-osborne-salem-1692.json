@@ -9,7 +9,7 @@
   "age_at_trial": null,
   "social_status": "Widow; remarried; had been in dispute with Putnam family over land",
   "gender": "Female",
-  "biography": "Sarah Osborne was one of the first three accused in the Salem crisis, arrested on the same warrant as Sarah Good and Tituba on February 29, 1692. She was an elderly, infirm woman who had not attended church for some time due to illness — a failure that contemporaries found suspicious and that contributed to her vulnerability. She had also been involved in a dispute with the Putnam family over her deceased first husband's estate, and the Putnams were among the most active accusers in the crisis.\n\nOsborne died in prison on May 10, 1692, before she could be tried. She had been held in Boston prison since her arrest, and her age and existing infirmity made imprisonment particularly deadly. She never confessed and never faced formal trial. Like Old Demdike at Pendle, her death in prison means she was legally unconvicted, though she had been arrested and examined as a witch.",
+  "biography": "Sarah Osborne was one of the first three accused in the Salem crisis, arrested on the same warrant as Sarah Good and Tituba on February 29, 1692. She was an elderly, infirm woman who had not attended church for some time due to illness \u2014 a failure that contemporaries found suspicious and that contributed to her vulnerability. She had also been involved in a dispute with the Putnam family over her deceased first husband's estate, and the Putnams were among the most active accusers in the crisis.\n\nOsborne died in prison on May 10, 1692, before she could be tried. She had been held in Boston prison since her arrest, and her age and existing infirmity made imprisonment particularly deadly. She never confessed and never faced formal trial. Like Old Demdike at Pendle, her death in prison means she was legally unconvicted, though she had been arrested and examined as a witch.",
   "arrest_narrative": "Osborne was accused by the afflicted girls alongside Sarah Good and Tituba in the very first round of Salem accusations. She was brought to examination at Ingersoll's tavern on March 1, 1692, where she denied the charges. She was imprisoned and died in Boston prison on May 10, 1692, never reaching trial.",
   "interrogation_and_confession": {
     "torture_applied": false,
@@ -34,7 +34,7 @@
     "method": "Died in Boston prison",
     "location": "Boston prison, May 10, 1692"
   },
-  "historiographical_significance": "Sarah Osborne's death in prison before trial illustrates how the Salem crisis could kill people through judicial process itself — through the conditions of imprisonment — without requiring a formal execution. Her connection to the Putnam family's land dispute and her failure to attend church place her in the web of community conflicts that Boyer and Nissenbaum's analysis identifies as underlying the Salem accusations. As one of the original three accused, her case helps establish the social profile of the initial targets.",
+  "historiographical_significance": "Sarah Osborne's death in prison before trial illustrates how the Salem crisis could kill people through judicial process itself \u2014 through the conditions of imprisonment \u2014 without requiring a formal execution. Her connection to the Putnam family's land dispute and her failure to attend church place her in the web of community conflicts that Boyer and Nissenbaum's analysis identifies as underlying the Salem accusations. As one of the original three accused, her case helps establish the social profile of the initial targets.",
   "source_method": "Salem witchcraft trial records; Rosenthal, Records of the Salem Witch-Hunt (2009); Boyer and Nissenbaum, Salem Possessed (1974)",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -43,5 +43,6 @@
     "norton-in-the-devils-snare-2002"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

@@ -11393,7 +11393,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "agnes-samuel-huntingdon-1593",
@@ -11435,7 +11436,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "agnes-waterhouse-chelmsford-1566",
@@ -11486,7 +11488,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "alice-kyteler-kilkenny-1324",
@@ -11530,7 +11533,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "alice-nutter-pendle-1612",
@@ -11578,7 +11582,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "alice-samuel-huntingdon-1593",
@@ -11620,7 +11625,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "alison-peirson-fife-1588",
@@ -11665,7 +11671,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "andro-man-aberdeen-1597",
@@ -11711,7 +11718,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "ann-putnam-jr-salem-1692",
@@ -11750,7 +11758,8 @@ window.ACCUSED = [
     ],
     "scholarly_disagreement": "Historians disagree about the degree to which Ann Putnam Jr. and other child accusers were conscious agents, victims of mass hysteria, responding to family pressure, or genuinely experiencing something — whether psychological, sociological, or otherwise. The apology's sincerity and completeness have also been debated.",
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "anna-schwegelin-kempen-1775",
@@ -11790,7 +11799,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "anne-gunter-abingdon-1604",
@@ -11830,7 +11840,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "anne-redferne-pendle-1612",
@@ -11878,7 +11889,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "anne-whittle-pendle-1612",
@@ -11934,7 +11946,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "barbara-napier-north-berwick-1590",
@@ -11977,7 +11990,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "battista-monico-friuli-benandante",
@@ -12019,7 +12033,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-1987"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "bessie-dunlop-ayrshire-1576",
@@ -12065,7 +12080,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "bridget-bishop-salem-1692",
@@ -12114,7 +12130,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "catharina-henot-cologne-1627",
@@ -12159,7 +12176,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "christian-shaw-bargarran-1697",
@@ -12200,7 +12218,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "claudette-gaillard-lorraine-1587",
@@ -12244,7 +12263,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "dietrich-flade-trier-1589",
@@ -12289,7 +12309,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "dorcas-good-salem-1692",
@@ -12337,7 +12358,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "dorothea-flock-wurzburg-1629",
@@ -12382,7 +12404,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "elizabeth-device-pendle-1612",
@@ -12433,7 +12456,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "elizabeth-francis-chelmsford-1566",
@@ -12494,7 +12518,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "elizabeth-sawyer-edmonton-1621",
@@ -12537,7 +12562,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "elizabeth-southerns-pendle-1612",
@@ -12587,7 +12613,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "euphemia-maclean-north-berwick-1590",
@@ -12638,7 +12665,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": null
   },
   {
     "id": "frederica-von-seebach-wurzburg-1628",
@@ -12683,7 +12711,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "geillis-duncan-north-berwick-1590",
@@ -12741,7 +12770,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": null
   },
   {
     "id": "george-burroughs-salem-1692",
@@ -12791,7 +12821,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "george-haan-bamberg-1628",
@@ -12837,7 +12868,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "giles-corey-salem-1692",
@@ -12887,7 +12919,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "isobel-gowdie-auldearn-1662",
@@ -12933,7 +12966,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "james-device-pendle-1612",
@@ -12983,7 +13017,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "janet-breadheid-aberdeen-1597",
@@ -13028,7 +13063,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-1987"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "janet-horne-dornoch-1727",
@@ -13071,7 +13107,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "jeanne-des-anges-loudun",
@@ -13110,7 +13147,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "joan-flower-belvoir-1619",
@@ -13152,7 +13190,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "joan-prentice-chelmsford-1589",
@@ -13200,7 +13239,8 @@ window.ACCUSED = [
       "macfarlane-witchcraft-in-tudor-and-stuart-england-1970"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "johannes-junius-bamberg-1628",
@@ -13246,7 +13286,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "john-fian-north-berwick-1590",
@@ -13312,7 +13353,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": null
   },
   {
     "id": "john-proctor-salem-1692",
@@ -13362,7 +13404,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "john-samuel-huntingdon-1593",
@@ -13404,7 +13447,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "major-weir-edinburgh-1670",
@@ -13449,7 +13493,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "margaret-barclay-ayrshire-1618",
@@ -13496,7 +13541,8 @@ window.ACCUSED = [
       "goodare-scottish-witch-hunt-2002"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "margaretha-binder-bamberg-1626",
@@ -13579,7 +13625,8 @@ window.ACCUSED = [
       "clark-thinking-with-demons-2001"
     ],
     "created_date": "2026-05-23",
-    "last_modified": "2026-05-23"
+    "last_modified": "2026-05-29",
+    "torture_applied": null
   },
   {
     "id": "maria-de-ximildegui-zugarramurdi-1609",
@@ -13619,7 +13666,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "maria-holl-nordlingen-1593",
@@ -13664,7 +13712,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "marie-dindarte-labourd-1609",
@@ -13708,7 +13757,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "martha-corey-salem-1692",
@@ -13756,7 +13806,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "menichino-della-nota-friuli-1618",
@@ -13801,7 +13852,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-1987"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "petronilla-de-meath-1324",
@@ -13846,7 +13898,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "rebecca-nurse-salem-1692",
@@ -13894,7 +13947,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "sarah-good-salem-1692",
@@ -13948,7 +14002,8 @@ window.ACCUSED = [
       "levack-witch-hunt-early-modern-europe-2006"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "sarah-osborne-salem-1692",
@@ -13995,7 +14050,8 @@ window.ACCUSED = [
       "norton-in-the-devils-snare-2002"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "temperance-lloyd-bideford-1682",
@@ -14037,7 +14093,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "tituba-salem-1692",
@@ -14089,7 +14146,8 @@ window.ACCUSED = [
       "breslaw-tituba-1996"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "urbain-grandier-loudun-1634",
@@ -14135,7 +14193,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   },
   {
     "id": "ursula-kemp-st-osyth-1582",
@@ -14186,7 +14245,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "last_modified": "2026-05-29",
+    "torture_applied": false
   },
   {
     "id": "walpurga-hausmennin-dillingen-1587",
@@ -14233,7 +14293,8 @@ window.ACCUSED = [
       "hutton-the-witch-2017"
     ],
     "created_date": "2026-05-28",
-    "last_modified": "2026-05-28"
+    "last_modified": "2026-05-29",
+    "torture_applied": true
   }
 ];
 
@@ -14750,8 +14811,11 @@ window.HEALERS = [
       "ginzburg-ecstasies-1991",
       "clark-thinking-with-demons-2001"
     ],
+    "source_method": "Venetian Inquisition trial records; Ginzburg's archival research at the Archivio di Stato, Venice",
+    "review_status": "DRAFT",
+    "confidence": "HIGH",
     "created_date": "2026-05-23",
-    "last_modified": "2026-05-23"
+    "last_modified": "2026-05-29"
   },
   {
     "id": "gostanza-da-libbiano-italy-1594",

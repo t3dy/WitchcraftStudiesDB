@@ -9,8 +9,8 @@
   "age_at_trial": null,
   "social_status": "Daughter of Anne Whittle (Old Chattox); rural poor, Forest of Pendle",
   "gender": "Female",
-  "biography": "Anne Redferne was the daughter of Old Chattox (Anne Whittle) and was caught in the Pendle prosecutions partly through her mother's confessions. Her case has a distinctive procedural history: she was tried twice, being acquitted at the first trial for insufficient evidence before being convicted and condemned at a second trial. The acquittal followed by re-prosecution illustrates the determination of authorities to secure convictions once the Pendle prosecutions were in motion.\n\nRedferne's primary accusation connected her to the Nutter family's deaths — specifically the making of clay images to kill members of that family. Her mother's pre-arrest confession had implicated her, and the Nutter family actively pursued the case against both of them. The double trial, acquittal, and re-prosecution sequence is one of the unusual procedural features of the 1612 cases.",
-  "arrest_narrative": "Anne Redferne was arrested in the spring 1612 round-up along with her mother and other Pendle accused. At her first trial she was acquitted — the jury found insufficient evidence — but this verdict did not lead to her release. She was retried on different charges and at the second trial was convicted. The double trial was contemporary observers found notable for its demonstration of prosecutorial persistence.",
+  "biography": "Anne Redferne was the daughter of Old Chattox (Anne Whittle) and was caught in the Pendle prosecutions partly through her mother's confessions. Her case has a distinctive procedural history: she was tried twice, being acquitted at the first trial for insufficient evidence before being convicted and condemned at a second trial. The acquittal followed by re-prosecution illustrates the determination of authorities to secure convictions once the Pendle prosecutions were in motion.\n\nRedferne's primary accusation connected her to the Nutter family's deaths \u2014 specifically the making of clay images to kill members of that family. Her mother's pre-arrest confession had implicated her, and the Nutter family actively pursued the case against both of them. The double trial, acquittal, and re-prosecution sequence is one of the unusual procedural features of the 1612 cases.",
+  "arrest_narrative": "Anne Redferne was arrested in the spring 1612 round-up along with her mother and other Pendle accused. At her first trial she was acquitted \u2014 the jury found insufficient evidence \u2014 but this verdict did not lead to her release. She was retried on different charges and at the second trial was convicted. The double trial was contemporary observers found notable for its demonstration of prosecutorial persistence.",
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
@@ -35,7 +35,7 @@
     "method": "Hanging",
     "location": "Lancaster"
   },
-  "historiographical_significance": "Redferne's double trial — acquitted and then retried and condemned — is one of the most procedurally unusual features of the Pendle cases and illustrates how normal due-process protections could be overridden in the context of panic prosecutions. Her case raises questions about what 'insufficient evidence' meant in the first trial and how the same basic facts could produce different verdicts, suggesting the role of jury pressure, political climate, and judicial direction in shaping outcomes.",
+  "historiographical_significance": "Redferne's double trial \u2014 acquitted and then retried and condemned \u2014 is one of the most procedurally unusual features of the Pendle cases and illustrates how normal due-process protections could be overridden in the context of panic prosecutions. Her case raises questions about what 'insufficient evidence' meant in the first trial and how the same basic facts could produce different verdicts, suggesting the role of jury pressure, political climate, and judicial direction in shaping outcomes.",
   "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assizes records",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -44,5 +44,6 @@
     "levack-witch-hunt-early-modern-europe-2006"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

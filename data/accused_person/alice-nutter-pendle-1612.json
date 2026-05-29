@@ -9,8 +9,8 @@
   "age_at_trial": null,
   "social_status": "Gentlewoman; owner of Roughlee Hall",
   "gender": "Female",
-  "biography": "Alice Nutter was a prosperous gentlewoman who owned Roughlee Hall in the Forest of Pendle, placing her far above the social level of the other accused in the 1612 trials. Her family was of yeoman stock that had risen to gentry status, and she had no obvious connection to the Demdike and Chattox families who formed the core of the prosecution. Why a woman of her standing was caught in a net that captured primarily the rural poor has puzzled historians for four centuries.\n\nNutter's most distinctive feature as an accused is her silence. Unlike most of the other Pendle accused, she made no confession, offered no testimony against others, and maintained her denial throughout. This extraordinary composure has generated extensive historical speculation — some have suggested she may have had something to conceal regarding her religious affiliations (possible crypto-Catholicism), others that she was protecting family members, others that she was simply maintaining her dignity and denying false charges. The mystery of her inclusion in the prosecution remains historically unresolved.",
-  "arrest_narrative": "Nutter was named as a participant in the Good Friday meeting at Malkin Tower by James Device's confession. This was the principal evidence against her — that she had attended the alleged conspiracy meeting. Her social status and distance from the other accused families made her arrest remarkable, and it remains unclear why she was specifically named or whether naming reflected genuine knowledge or confessional pressure to implicate someone of higher standing.",
+  "biography": "Alice Nutter was a prosperous gentlewoman who owned Roughlee Hall in the Forest of Pendle, placing her far above the social level of the other accused in the 1612 trials. Her family was of yeoman stock that had risen to gentry status, and she had no obvious connection to the Demdike and Chattox families who formed the core of the prosecution. Why a woman of her standing was caught in a net that captured primarily the rural poor has puzzled historians for four centuries.\n\nNutter's most distinctive feature as an accused is her silence. Unlike most of the other Pendle accused, she made no confession, offered no testimony against others, and maintained her denial throughout. This extraordinary composure has generated extensive historical speculation \u2014 some have suggested she may have had something to conceal regarding her religious affiliations (possible crypto-Catholicism), others that she was protecting family members, others that she was simply maintaining her dignity and denying false charges. The mystery of her inclusion in the prosecution remains historically unresolved.",
+  "arrest_narrative": "Nutter was named as a participant in the Good Friday meeting at Malkin Tower by James Device's confession. This was the principal evidence against her \u2014 that she had attended the alleged conspiracy meeting. Her social status and distance from the other accused families made her arrest remarkable, and it remains unclear why she was specifically named or whether naming reflected genuine knowledge or confessional pressure to implicate someone of higher standing.",
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
@@ -44,5 +44,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-27",
-  "last_modified": "2026-05-27"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

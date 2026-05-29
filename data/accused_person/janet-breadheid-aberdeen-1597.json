@@ -14,7 +14,7 @@
   "interrogation_and_confession": {
     "torture_applied": true,
     "torture_methods": [
-      "unspecified — torture standard in Scottish procedure"
+      "unspecified \u2014 torture standard in Scottish procedure"
     ],
     "initial_response": "Unknown",
     "final_confession_summary": "Specific confession content not fully documented in surviving records; convicted of witchcraft charges consistent with Aberdeen panic prosecutions of 1597"
@@ -41,5 +41,6 @@
     "levack-witch-hunt-early-modern-1987"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

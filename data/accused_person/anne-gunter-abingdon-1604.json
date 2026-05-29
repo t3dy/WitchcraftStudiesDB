@@ -10,29 +10,23 @@
   "social_status": "Daughter of Brian Gunter, gentleman of North Moreton, Berkshire",
   "gender": "Female",
   "biography": "Anne Gunter was a young woman from North Moreton in Berkshire whose father Brian Gunter, a local gentleman, orchestrated an elaborate performance of diabolical possession and affliction that he used to prosecute three women he had quarreled with over a football game gone fatally wrong. Brian Gunter coached his daughter to simulate fits, vomit pins, and display the signs of bewitchment, then used her performances to accuse Elizabeth Gregory, Agnes and Mary Pepwell of causing her condition through witchcraft.\n\nThe three accused women were tried and acquitted at the Oxford assizes in 1604. Brian Gunter, dissatisfied with this outcome, then brought Anne to the attention of the newly crowned James I, hoping that the king's well-known interest in witchcraft would advance the case. James, however, was sufficiently skeptical to direct that Anne be examined by the royal physicians and by Richard Bancroft, Archbishop of Canterbury. The investigation concluded that her symptoms were fabricated.\n\nAnne was brought before the Star Chamber along with her father. Under examination, she eventually admitted that her father had taught her to simulate the symptoms and had administered substances to make her vomit pins. Brian Gunter was imprisoned in the Tower. Anne herself was treated relatively leniently, apparently regarded as a victim of her father's manipulation. Her case represents one of the rare instances in English legal history where a witchcraft accusation was exposed as fraudulent during the prosecution process, and where the false accuser rather than the accused bore legal consequences.",
-
   "arrest_narrative": "Anne Gunter was not initially treated as accused but rather as the afflicted victim around whom the prosecution was constructed. She came under scrutiny when examination by royal physicians and the Archbishop of Canterbury determined her symptoms were fabricated. She was subsequently examined before the Star Chamber as a participant in her father's conspiracy.",
-
   "interrogation_and_confession": {
     "torture_applied": false,
     "torture_methods": [],
     "initial_response": "Initially maintained performance of affliction",
     "final_confession_summary": "Admitted under examination that her father Brian Gunter had coached her to simulate symptoms of bewitchment and had administered substances to produce the appearance of pin-vomiting; confirmed that the accusations against the three women were fabricated"
   },
-
   "accusations_against_them": [
-    "Not accused of witchcraft — accused of participating in false accusation of witchcraft against Elizabeth Gregory and Agnes and Mary Pepwell",
+    "Not accused of witchcraft \u2014 accused of participating in false accusation of witchcraft against Elizabeth Gregory and Agnes and Mary Pepwell",
     "Conspiracy with father Brian Gunter to produce false evidence of bewitchment"
   ],
-
   "execution_details": {
     "date": null,
     "method": null,
     "location": null
   },
-
   "historiographical_significance": "The Gunter case is one of the most thoroughly documented examples of exposed false accusation in English witch trial history and has been studied extensively by James Sharpe (The Bewitching of Anne Gunter, 1999), who reconstructed the entire episode from Star Chamber records. The case illustrates both the sophisticated staging capacity of false accusers and the occasional capacity of early modern legal and intellectual institutions to expose fraud. James I's role in directing the investigation is significant given his prior reputation as a witch-hunting enthusiast.",
-
   "source_method": "Star Chamber records; analyzed in James Sharpe's The Bewitching of Anne Gunter (1999); discussed in Levack and Macfarlane",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -42,5 +36,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

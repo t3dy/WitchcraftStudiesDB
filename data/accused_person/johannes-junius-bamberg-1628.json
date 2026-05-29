@@ -9,17 +9,17 @@
   "age_at_trial": null,
   "social_status": "Burgomaster of Bamberg; leading civic official",
   "gender": "Male",
-  "biography": "Johannes Junius was the Burgomaster of Bamberg, the highest elected civic official of one of the most important cities in Franconia, when he was arrested and executed during the Bamberg mass prosecutions of 1626-1631 — the largest witch persecution in German history. His arrest in 1628 represented a moment of terrifying escalation: if the Burgomaster himself could be accused and executed, then truly no one was safe. Junius had previously participated in the machinery of witch prosecution as an official of the city; he now found himself its victim.\n\nJunius was subjected to multiple sessions of torture including strappado and leg screws before he confessed. His false confession named other members of the civic community as witches, feeding the ever-expanding circle of accusation. But what makes his case uniquely significant in the historical record is the letter he managed to smuggle from prison to his daughter Veronica. Written in circumstances of extreme danger — discovery would have brought further punishment — the letter is one of the most moving documents of the entire witch persecution.\n\nIn the letter, Junius describes being tortured until he confessed falsely, names the executioner who tortured him, describes each session in detail, and pleads with his daughter to work for his release while acknowledging he probably cannot survive. He writes: 'Innocent I have come into prison, innocent I must die... for whoever comes into the witch prison must become a witch or be tortured until he invents something out of his head.' The letter arrived too late; Junius was executed on August 6, 1628. The letter survived, preserved by his daughter, and was published centuries later, becoming one of the most powerful indictments of witch prosecution ever written.",
-
+  "biography": "Johannes Junius was the Burgomaster of Bamberg, the highest elected civic official of one of the most important cities in Franconia, when he was arrested and executed during the Bamberg mass prosecutions of 1626-1631 \u2014 the largest witch persecution in German history. His arrest in 1628 represented a moment of terrifying escalation: if the Burgomaster himself could be accused and executed, then truly no one was safe. Junius had previously participated in the machinery of witch prosecution as an official of the city; he now found himself its victim.\n\nJunius was subjected to multiple sessions of torture including strappado and leg screws before he confessed. His false confession named other members of the civic community as witches, feeding the ever-expanding circle of accusation. But what makes his case uniquely significant in the historical record is the letter he managed to smuggle from prison to his daughter Veronica. Written in circumstances of extreme danger \u2014 discovery would have brought further punishment \u2014 the letter is one of the most moving documents of the entire witch persecution.\n\nIn the letter, Junius describes being tortured until he confessed falsely, names the executioner who tortured him, describes each session in detail, and pleads with his daughter to work for his release while acknowledging he probably cannot survive. He writes: 'Innocent I have come into prison, innocent I must die... for whoever comes into the witch prison must become a witch or be tortured until he invents something out of his head.' The letter arrived too late; Junius was executed on August 6, 1628. The letter survived, preserved by his daughter, and was published centuries later, becoming one of the most powerful indictments of witch prosecution ever written.",
   "arrest_narrative": "Junius was arrested in 1628 as the Bamberg prosecution expanded to include civic leaders following the execution of his predecessor as Burgomaster. He was brought before the Bamberg witch commission and subjected to examination, then to torture when he initially refused to confess.",
-
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["strappado", "leg screws"],
-    "initial_response": "Categorical denial — 'I am no witch. I have no dealings with the devil. I have never in my life renounced God'",
-    "final_confession_summary": "After multiple torture sessions confessed falsely to: attending sabbath at Haupts Moor, receiving a succubus, renouncing God, participating in diabolical rites, and — most significantly for the prosecution — named multiple members of the Bamberg civic community as witches, feeding the ongoing persecution. Wrote to daughter Veronica describing his torture and false confession."
+    "torture_methods": [
+      "strappado",
+      "leg screws"
+    ],
+    "initial_response": "Categorical denial \u2014 'I am no witch. I have no dealings with the devil. I have never in my life renounced God'",
+    "final_confession_summary": "After multiple torture sessions confessed falsely to: attending sabbath at Haupts Moor, receiving a succubus, renouncing God, participating in diabolical rites, and \u2014 most significantly for the prosecution \u2014 named multiple members of the Bamberg civic community as witches, feeding the ongoing persecution. Wrote to daughter Veronica describing his torture and false confession."
   },
-
   "accusations_against_them": [
     "Attendance at witches' sabbath",
     "Demonic compact and renunciation of God",
@@ -27,15 +27,12 @@
     "Participation in diabolical rites",
     "Naming members of Bamberg civic community as witches under torture"
   ],
-
   "execution_details": {
     "date": "1628-08-06",
     "method": "Burning at stake",
     "location": "Bamberg"
   },
-
   "historiographical_significance": "Junius's letter to his daughter Veronica is widely considered the most poignant document of the entire European witch persecution, offering a first-person account of how torture produced false confessions and an explicit statement that he confessed to things he never did. His case is central to Levack's analysis of the cascade dynamics of mass persecution and to discussions of torture epistemology in witch trials. The letter is reproduced in multiple anthologies of primary sources and has become the paradigm case for understanding the mechanics of false confession under judicial torture.",
-
   "source_method": "The letter of Johannes Junius published in Soldan-Heppe, Geschichte der Hexenprozesse (1880); Bamberg witch trial records; reprinted in translation in Levack's Witch Hunt in Early Modern Europe source collection; analyzed in Behringer, Witches and Witch-Hunts (2004)",
   "review_status": "DRAFT",
   "confidence": "HIGH",
@@ -45,5 +42,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": true
 }

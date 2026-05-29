@@ -14,7 +14,7 @@
   "interrogation_and_confession": {
     "torture_applied": true,
     "torture_methods": [
-      "unspecified — torture standard in Scottish procedure"
+      "unspecified \u2014 torture standard in Scottish procedure"
     ],
     "initial_response": "Unknown",
     "final_confession_summary": "Confessed to a thirty-two year relationship with the Queen of Elfhame, including sexual relations and children born from this union; described regular meetings in specific local places; claimed the fairy queen taught him knowledge and skills; described fairy company as distinct from demonic sabbath though prosecutors interpreted it within demonological framework"
@@ -42,5 +42,6 @@
     "goodare-scottish-witch-hunt-2002"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }

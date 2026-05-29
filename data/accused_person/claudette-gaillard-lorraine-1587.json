@@ -9,33 +9,29 @@
   "age_at_trial": null,
   "social_status": "Village woman, Duchy of Lorraine",
   "gender": "Female",
-  "biography": "Claudette Gaillard was a village woman from the Duchy of Lorraine prosecuted for witchcraft in 1587, representative of the thousands of individuals tried in Lorraine during the sustained persecution that made it one of the most prosecuted regions of Europe between roughly 1580 and 1630. Lorraine, under its Duke Charles III and later the influence of the judge Nicolas Rémy (who published his demonological treatise Daemonolatreiae in 1595), saw intensive witch prosecution driven by well-documented judicial machinery.\n\nRobin Briggs's major study Witches and Neighbors (1996) drew extensively on the Lorraine trial archives to reconstruct the social dynamics of witch accusation in a specific regional context. Briggs found that Lorraine accusations typically arose from community disputes, that accused persons were disproportionately women (though with a significant male minority), and that the social profile of the accused was closely tied to reputation, poverty, and prior quarrels with neighbors. Women like Gaillard, whose case enters the record through the comprehensive Lorraine archives, represent the typical rather than the exceptional accused.\n\nThe Lorraine prosecution machinery was characterized by relatively systematic judicial procedure with proper documentation, making it one of the best-studied regional persecutions in Europe. Briggs's quantitative analysis of the Lorraine records has provided the empirical foundation for many general claims about the demographics and social dynamics of European witch prosecution.",
-
+  "biography": "Claudette Gaillard was a village woman from the Duchy of Lorraine prosecuted for witchcraft in 1587, representative of the thousands of individuals tried in Lorraine during the sustained persecution that made it one of the most prosecuted regions of Europe between roughly 1580 and 1630. Lorraine, under its Duke Charles III and later the influence of the judge Nicolas R\u00e9my (who published his demonological treatise Daemonolatreiae in 1595), saw intensive witch prosecution driven by well-documented judicial machinery.\n\nRobin Briggs's major study Witches and Neighbors (1996) drew extensively on the Lorraine trial archives to reconstruct the social dynamics of witch accusation in a specific regional context. Briggs found that Lorraine accusations typically arose from community disputes, that accused persons were disproportionately women (though with a significant male minority), and that the social profile of the accused was closely tied to reputation, poverty, and prior quarrels with neighbors. Women like Gaillard, whose case enters the record through the comprehensive Lorraine archives, represent the typical rather than the exceptional accused.\n\nThe Lorraine prosecution machinery was characterized by relatively systematic judicial procedure with proper documentation, making it one of the best-studied regional persecutions in Europe. Briggs's quantitative analysis of the Lorraine records has provided the empirical foundation for many general claims about the demographics and social dynamics of European witch prosecution.",
   "arrest_narrative": "Gaillard was arrested in 1587 during the sustained Lorraine persecution, apparently following accusation by neighbors or existing accused persons. The specific circumstances of her arrest are consistent with the pattern Briggs identified in Lorraine: prior quarrels, reputation for unusual behavior, and the expanding circle of accusation.",
-
   "interrogation_and_confession": {
     "torture_applied": true,
-    "torture_methods": ["unspecified — torture standard in Lorraine judicial procedure"],
+    "torture_methods": [
+      "unspecified \u2014 torture standard in Lorraine judicial procedure"
+    ],
     "initial_response": "Unknown",
     "final_confession_summary": "Confessed to witchcraft charges consistent with Lorraine prosecution pattern; specific details from Briggs's database of Lorraine trial records"
   },
-
   "accusations_against_them": [
     "Witchcraft and maleficium against neighbors",
     "Attendance at sabbath",
     "Demonic compact",
     "Causing illness or harm through supernatural means"
   ],
-
   "execution_details": {
     "date": "1587",
     "method": "Strangling then burning (standard in Lorraine)",
     "location": "Duchy of Lorraine"
   },
-
   "historiographical_significance": "Gaillard's case is representative of the typical Lorraine accused whose prosecution is documented in the extensive trial archives analyzed by Robin Briggs. The Lorraine records form the empirical foundation of Briggs's community-level analysis of witch accusation in Witches and Neighbors (1996), which established that witchcraft prosecution in this region was deeply rooted in specific community disputes and interpersonal tensions rather than elite demonological theory alone.",
-
-  "source_method": "Lorraine ducal trial archives (Archives Départementales de Meurthe-et-Moselle); analyzed in Robin Briggs's Witches and Neighbors (1996) and Communities of Belief (1989)",
+  "source_method": "Lorraine ducal trial archives (Archives D\u00e9partementales de Meurthe-et-Moselle); analyzed in Robin Briggs's Witches and Neighbors (1996) and Communities of Belief (1989)",
   "review_status": "DRAFT",
   "confidence": "MEDIUM",
   "scholarly_sources": [
@@ -44,5 +40,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": true
 }

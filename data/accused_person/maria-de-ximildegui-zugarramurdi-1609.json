@@ -9,7 +9,7 @@
   "age_at_trial": null,
   "social_status": "Village woman, Zugarramurdi, Kingdom of Navarre",
   "gender": "Female",
-  "biography": "Maria de Ximildegui was the key first confessor in the Zugarramurdi witch trials of 1609, the prosecution that initiated the major Spanish Inquisition investigation of Basque witchcraft and eventually led to the reforming auto de fe of 1610 and the inquisitor Alonso de Salazar Frías's famous skeptical investigation. She had been living in France and returned to her native Basque village of Zugarramurdi in Spanish Navarre, where she made accusations of witchcraft against several neighbors that set the entire prosecution in motion.\n\nXimildegui's testimony named a number of Zugarramurdi inhabitants as witches who had attended nocturnal sabbaths at a local meadow. This testimony was sufficient to initiate a Spanish Inquisition investigation. The subsequent investigation, conducted initially by inquisitors who were credulous about witch claims, resulted in six executions (of effigies or corpses) and five personal burnings at the Logroño auto de fe of November 7-8, 1610, one of the most spectacular events in the history of Spanish witch prosecution.\n\nHowever, the Zugarramurdi prosecution also generated the most famous skeptical investigation in the history of European witch-hunting. Alonso de Salazar Frías, a Spanish inquisitor assigned to investigate the case in 1610-1612, interviewed nearly two thousand alleged witches and found no material evidence for any sabbath, spell, or maleficium. His report to the Spanish Inquisition, concluding that there had been no witches where there were no believers in witchcraft, is one of the foundational documents of Enlightenment skepticism about witch belief. The Spanish Inquisition largely accepted his conclusions.",
+  "biography": "Maria de Ximildegui was the key first confessor in the Zugarramurdi witch trials of 1609, the prosecution that initiated the major Spanish Inquisition investigation of Basque witchcraft and eventually led to the reforming auto de fe of 1610 and the inquisitor Alonso de Salazar Fr\u00edas's famous skeptical investigation. She had been living in France and returned to her native Basque village of Zugarramurdi in Spanish Navarre, where she made accusations of witchcraft against several neighbors that set the entire prosecution in motion.\n\nXimildegui's testimony named a number of Zugarramurdi inhabitants as witches who had attended nocturnal sabbaths at a local meadow. This testimony was sufficient to initiate a Spanish Inquisition investigation. The subsequent investigation, conducted initially by inquisitors who were credulous about witch claims, resulted in six executions (of effigies or corpses) and five personal burnings at the Logro\u00f1o auto de fe of November 7-8, 1610, one of the most spectacular events in the history of Spanish witch prosecution.\n\nHowever, the Zugarramurdi prosecution also generated the most famous skeptical investigation in the history of European witch-hunting. Alonso de Salazar Fr\u00edas, a Spanish inquisitor assigned to investigate the case in 1610-1612, interviewed nearly two thousand alleged witches and found no material evidence for any sabbath, spell, or maleficium. His report to the Spanish Inquisition, concluding that there had been no witches where there were no believers in witchcraft, is one of the foundational documents of Enlightenment skepticism about witch belief. The Spanish Inquisition largely accepted his conclusions.",
   "arrest_narrative": "Ximildegui was not initially arrested but came forward as an accuser. She subsequently came under suspicion herself as the prosecution expanded. The Spanish Inquisition's formal involvement and its ultimate skeptical re-evaluation of the case meant that Ximildegui, as a confessor who had set the prosecution in motion, occupied an ambiguous position as both witness and participant.",
   "interrogation_and_confession": {
     "torture_applied": false,
@@ -18,7 +18,7 @@
     "final_confession_summary": "Provided initial testimony naming Zugarramurdi neighbors as witches; her account of sabbath attendance at the meadow of Zugarramurdi initiated the prosecution; she survived the subsequent investigation"
   },
   "accusations_against_them": [
-    "Initially accused others — later herself subject to suspicion as an instigator of false accusations",
+    "Initially accused others \u2014 later herself subject to suspicion as an instigator of false accusations",
     "Accusation of neighbors of sabbath attendance and diabolical practices"
   ],
   "execution_details": {
@@ -26,8 +26,8 @@
     "method": null,
     "location": null
   },
-  "historiographical_significance": "Ximildegui's role as first confessor in the Zugarramurdi case makes her the proximate initiator of a prosecution that ultimately generated one of history's most important skeptical investigations. The case she started led directly to Salazar Frías's rigorous re-examination and the Spanish Inquisition's influential skeptical position on witch claims. Historians Gustav Henningsen (The Witches' Advocate, 1980) and Levack have analyzed the entire Zugarramurdi-Salazar episode as a turning point in the history of witch prosecution.",
-  "source_method": "Spanish Inquisition records (Archivo Histórico Nacional, Madrid); analyzed in Gustav Henningsen's The Witches' Advocate (1980) and Levack's Witch-Hunt in Early Modern Europe",
+  "historiographical_significance": "Ximildegui's role as first confessor in the Zugarramurdi case makes her the proximate initiator of a prosecution that ultimately generated one of history's most important skeptical investigations. The case she started led directly to Salazar Fr\u00edas's rigorous re-examination and the Spanish Inquisition's influential skeptical position on witch claims. Historians Gustav Henningsen (The Witches' Advocate, 1980) and Levack have analyzed the entire Zugarramurdi-Salazar episode as a turning point in the history of witch prosecution.",
+  "source_method": "Spanish Inquisition records (Archivo Hist\u00f3rico Nacional, Madrid); analyzed in Gustav Henningsen's The Witches' Advocate (1980) and Levack's Witch-Hunt in Early Modern Europe",
   "review_status": "DRAFT",
   "confidence": "MEDIUM",
   "scholarly_sources": [
@@ -36,5 +36,6 @@
     "hutton-the-witch-2017"
   ],
   "created_date": "2026-05-28",
-  "last_modified": "2026-05-28"
+  "last_modified": "2026-05-29",
+  "torture_applied": false
 }
