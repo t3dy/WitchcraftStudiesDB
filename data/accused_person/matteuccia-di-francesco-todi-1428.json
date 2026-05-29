@@ -9,11 +9,8 @@
   "age_at_trial": null,
   "social_status": "Healer, herbalist, magical practitioner; 'Domina Herbarum' (Lady of Herbs); woman of modest social standing from Ripabianca near Deruta",
   "gender": "Female",
-
-  "biography": "Matteuccia di Francesco, known as the 'Lady of Herbs' (Domina Herbarum), was a healer and magical practitioner from Ripabianca, near Deruta in the Perugia district of Umbria, Italy. She traveled to Todi for her trial in 1428. Her biography reflects the typical profile of the early Italian wise woman: a practitioner of healing, love magic, and protective magic who served clients from across the social spectrum seeking remedies for illness, infertility, domestic conflict, and other concerns. She was among the first documented individuals in Italy—and possibly in Europe—to be burned at the stake specifically for witchcraft as defined in the emerging early fifteenth-century synthesis of demonological theory. Her trial, conducted before the secular court of Todi on March 20, 1428, preceded the Malleus Maleficarum (1486) by nearly sixty years and represents the formative moment when folk magical practice became legally constituted as diabolical witchcraft.",
-
+  "biography": "Matteuccia di Francesco, known as the 'Lady of Herbs' (Domina Herbarum), was a healer and magical practitioner from Ripabianca, near Deruta in the Perugia district of Umbria, central Italy. She traveled to Todi for trial, likely from the Ripabianca area where her practice was established. Her professional activities encompassed the repertoire typical of the Italian wise woman of the period: herbal medicine, love charms, protective magic, diagnostic healing, and the provision of abortifacients — services sought by clients from across the social hierarchy and described in the trial record with unusual specificity.\n\n  Matteuccia was tried before the secular court of Todi (Tribunale dei Malefici) on March 20, 1428 — trial and execution occurring on the same day, a compressed timeline that strongly suggests prior investigation and pre-confession before the formal proceeding. She was burned at the stake at Todi. Her trial preceded the Malleus Maleficarum (1486/87) by nearly sixty years and represents the formative moment in Italian legal practice when folk magical activity became constituted as diabolical witchcraft incorporating the emerging synthesis elements: demonic pact, flying to the sabbath, and infant-murder for flying ointment. Her prosecution took place in the context of Franciscan preaching campaigns against magical practice and heresy, led most prominently in central Italy by Bernardino of Siena (1380-1444), whose sermons had been constructing the category of the diabolical witch from existing materials of folk practice and classical demonological theory. She is among the earliest documented individuals burned specifically for the composite crime of diabolical witchcraft — as distinct from simple heresy, sorcery, or poisoning.",
   "arrest_narrative": "Matteuccia was tried before the Todi municipal tribunal (Tribunale dei Malefici) on March 20, 1428—trial and execution occurring on the same day, suggesting a predetermined verdict or that the formal proceeding concluded an earlier investigation. Her trial took place in the context of the Franciscan preaching campaigns of Bernardino of Siena (1380-1444), who had been conducting sermons against witchcraft and magical practice throughout central Italy. The influence of Bernardino's preaching in creating the theological and social conditions for Matteuccia's prosecution is a significant historiographical question; Franco Mormando and others have analyzed the relationship between mendicant anti-witch preaching and the acceleration of prosecutions.",
-
   "interrogation_and_confession": {
     "first_interrogation": {
       "date": "1428-03-20",
@@ -30,20 +27,19 @@
       }
     ]
   },
-
   "confession_content": {
     "demonic_pact": "Confessed to alliance with a devil named 'Lucibello'; anointed herself with unguent made from children's body parts to enable flying to sabbath.",
     "sabbath_activities": "Confessed to flying to the walnut tree of Benevento (a traditional Italian witches' meeting place) astride a demonic goat; attendance at meetings of witches; demonic feasting.",
     "maleficium_claimed": "Love magic (potions and charms); healing magic; providing abortifacients; causing illness; making men impotent; summoning demons; killing infants for the flying ointment.",
-    "accomplices_named": ["Not specified in surviving scholarship; trial record appears to focus on her own practices rather than naming a network"]
+    "accomplices_named": [
+      "Not specified in surviving scholarship; trial record appears to focus on her own practices rather than naming a network"
+    ]
   },
-
   "historiographical_analysis": {
     "torture_mechanism": "The compressed trial/execution on a single day suggests prior investigation under torture produced the confession before formal proceedings. The specificity of her confession—flying ointment made from infants, demonic goat, walnut tree of Benevento—follows templates appearing in demonological texts of the period, strongly suggesting interrogator-shaped content rather than spontaneous narrative. The walnut tree at Benevento was a standardized Italian topographical anchor for witch-meeting legends.",
     "plausibility": "Matteuccia almost certainly practiced genuine folk healing and magic—her title 'Domina Herbarum' reflects real expertise in herbal medicine and practical magic typical of wise-woman practitioners. The demonological overlay (flying, demonic pact, infant murder) reflects the synthesis of folk practice with learned demonological theory occurring in this period under Franciscan preaching influence. Bernardino of Siena's campaigns were actively constructing the category of the diabolical witch from materials of existing folk magical practice.",
     "social_vulnerability": "Matteuccia's case reflects the particularly dangerous transitional moment of the 1420s-1430s in central Italy. Her position as a known local practitioner with clients seeking magical services made her precisely the kind of figure Bernardino's preaching campaigns targeted. As a woman without documented institutional affiliations or elite patrons, she had no structural resources to resist prosecution."
   },
-
   "execution_details": {
     "date": "1428-03-20",
     "method": "Burned at stake",
@@ -51,7 +47,6 @@
     "witnesses": "Municipal authorities, clergy, townspeople",
     "final_statement": "Not recorded in surviving sources."
   },
-
   "accusations_against_her": [
     "Witchcraft and demonic pact (allegiance with devil 'Lucibello')",
     "Flying to witches' sabbath via demonic ointment",
@@ -62,26 +57,20 @@
     "Causing male impotence",
     "Healing magic (reinterpreted as maleficium)"
   ],
-
   "contemporary_defense": {
     "supporters": "None documented.",
     "defense_arguments": "None documented; compressed trial procedure likely precluded meaningful defense."
   },
-
   "historiographical_significance": "Matteuccia di Francesco holds exceptional historiographical significance as one of the earliest—possibly the earliest—individuals burned at the stake specifically for the composite crime of diabolical witchcraft (as opposed to simple heresy or sorcery). Her 1428 trial predates the Malleus Maleficarum by nearly sixty years and represents the formative moment when Italian judicial practice incorporated flying, demonic pact, and sabbath attendance as elements of witch prosecution. Scholars of Italian witchcraft have analyzed her case as the intersection of folk magical practice, Franciscan anti-witch preaching, and emerging legal demonology. Her trial record is preserved in the Todi Municipal Historical Archives (Tribunale dei Malefici). The trial's specific features—the walnut tree of Benevento, the flying ointment from infants, the named devil Lucibello—recur in subsequent Italian witchcraft literature, suggesting her confession became a template.",
-
   "scholarly_disagreement": "The question of how much of Matteuccia's confession reflects genuine folk practice versus interrogator-imposed demonological templates remains open. The connection to Bernardino of Siena's preaching campaigns is argued rather than directly documented.",
-
   "source_method": "Todi Municipal Historical Archives, Tribunale dei Malefici; referenced in Italian local history scholarship and in broader studies of early modern witchcraft; analyzed in relation to Bernardino of Siena preaching campaigns; referenced in Levack, *The Witch-Hunt in Early Modern Europe*",
   "review_status": "REVIEWED",
   "confidence": "HIGH",
-
   "scholarly_sources": [
     "ankarloo-clark-vol4-witch-trials-2001",
     "clark-thinking-with-demons-2001",
     "hutton-the-witch-2017"
   ],
-
   "created_date": "2026-05-29",
   "last_modified": "2026-05-29"
 }

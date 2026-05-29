@@ -9,11 +9,8 @@
   "age_at_trial": 40,
   "social_status": "Agricultural laborer; itinerant wool carder",
   "gender": "Male",
-
-  "biography": "Battista Moduco, along with Paolo Gasparutto, is one of the two primary benandanti documented in Carlo Ginzburg's *The Night Battles* (1966, English trans. 1983). Moduco described himself as a 'good walker' who was born with a caul—a traditional marker of benandante identity—and who was called each year on the Ember Days to engage in nocturnal spiritual combat against malevolent witches (malandanti) for the protection of Friulian harvests. His testimony is one of the most extensively documented examples of pre-inquisitorial folk magical self-conception in the historical record. He was first interrogated in 1575 alongside Gasparutto, and the case was reopened in 1580.",
-
+  "biography": "Battista Moduco was an itinerant wool carder from the Friuli region of northeastern Italy, subject to Venetian jurisdictional authority, who was first interrogated by the Venetian Inquisition in 1575 alongside Paolo Gasparutto. Along with Gasparutto, he is one of the two primary benandanti documented in Carlo Ginzburg's foundational study *The Night Battles* (published in Italian 1966; English translation 1983). Moduco described himself as a 'good walker' (benandante) — a practitioner born with a caul, which in Friulian folk tradition marked the individual as destined to participate in nocturnal spiritual combat. On the Ember Days, the quarterly agricultural fasts of the Catholic calendar, Moduco described his spirit leaving his body to do battle against the malandanti (evil witches) for the protection of the region's grain harvest and community fertility.\n\n  His testimony is among the most extensively documented examples of pre-inquisitorial folk magical self-conception surviving in the European historical record. When first questioned by Fra Felice da Montefalco in 1575, Moduco gave a detailed and internally consistent account of benandante practice, identifying his role as protective and explicitly opposed to demonic activity — a self-understanding structurally incompatible with the inquisitor's demonological categories. The case was reopened in 1580, and the gradual erosion of Moduco's prior self-conception under sustained questioning pressure across these five years is documentable through the surviving archival record, published in the appendix to Ginzburg's *Night Battles*.",
   "arrest_narrative": "Moduco came to the attention of the Venetian Inquisition in 1575 through his own claims of benandante activity. Unlike defendants who came before inquisitors because of neighbors' accusations, Moduco and Gasparutto were partly self-identified—their local reputation as benandanti had become known enough to attract institutional attention. The inquisitor Fra Felice da Montefalco questioned them over multiple sessions in 1575, then returned to the case in 1580 as his understanding of the phenomenon developed.",
-
   "interrogation_and_confession": {
     "first_interrogation": {
       "date": "1575",
@@ -23,46 +20,40 @@
     },
     "torture_sessions": []
   },
-
   "confession_content": {
     "demonic_pact": "Denied any demonic relationship initially; maintained that the benandanti fought on behalf of God and the community against the Devil's servants. Later interrogation (1580) shows growing inquisitorial pressure to reframe this as demonic allegiance.",
     "sabbath_activities": "Described nocturnal assemblies of benandanti for spiritual combat purposes; consistently distinguished these from sabbaths as described in demonological literature. The inquisitor persistently attempted to map these onto demonological categories.",
     "maleficium_claimed": "Explicitly denied maleficium; identified as opponent of maleficent witches.",
-    "accomplices_named": ["Paolo Gasparutto (fellow benandante)", "Other local benandanti identified by name in trial transcript"]
+    "accomplices_named": [
+      "Paolo Gasparutto (fellow benandante)",
+      "Other local benandanti identified by name in trial transcript"
+    ]
   },
-
   "historiographical_analysis": {
     "torture_mechanism": "Ginzburg's analysis of Moduco's testimony demonstrates that the transformation from benandante self-conception to inquisitorially acceptable confession occurred through sustained interpretive pressure, not physical coercion. Moduco's initial testimony is remarkably detailed and internally consistent, showing a practitioner with a coherent folk belief system who had not yet encountered the inquisitorial frame. By 1580, the gradual erosion of this self-conception under questioning pressure is documentable through the archive.",
     "plausibility": "Moduco's descriptions of benandante activities—spirit journeys, battles, caul-birth markers—reflect genuine folk belief rather than confabulation. Ginzburg argues these represent survivals of an ancient agrarian shamanic tradition. Critics like Briggs accept the folk belief reality while questioning the shamanic continuity thesis.",
     "social_vulnerability": "Itinerant wool carders occupied a structurally marginal position in Venetian-administered Friuli. Their mobility and partial externality to fixed community structures made them both plausible figures for folk magic reputation and relatively exposed to institutional power."
   },
-
   "execution_details": null,
-
   "accusations_against_her": [
     "Heretical magical practice (benandante activity reframed by inquisitor)",
     "Nocturnal gatherings reinterpreted as demonic assembly",
     "Unorthodox beliefs about spiritual combat"
   ],
-
   "contemporary_defense": {
     "supporters": "Moduco's community would likely have viewed him as a beneficial figure; the inquisitorial process isolated him from community support structures.",
     "defense_arguments": "Consistently maintained that benandante activity was in service of God and community protection. Distinguishing argument: the benandanti fought against witches, not with them."
   },
-
-  "historiographical_significance": "Battista Moduco is one of the most extensively documented benandanti in the historical record and is foundational to Ginzburg's historiographical project. His testimony provides primary evidence for: (1) pre-inquisitorial folk magical self-conception; (2) the process by which inquisitorial questioning gradually transformed folk practitioners' self-understanding; (3) Ginzburg's larger argument in *Ecstasies* that European witchcraft confessions preserve elements of an ancient Eurasian shamanic tradition. His case is indispensable for any serious engagement with the historiography of European magic. The trial records are published in the appendix to *The Night Battles*.",
-
+  "historiographical_significance": "Battista Moduco's testimony is foundational to Carlo Ginzburg's historiographical project and indispensable to any serious engagement with the historiography of European magic. In *The Night Battles* (1966/1983), Ginzburg reconstructed the benandanti tradition from the Friuli inquisitorial archive; Moduco's 1575 testimony — with its Ember Day calendar, caul-birth markers, and explicit claim to fight against witches rather than with them — constitutes the core primary evidence for a coherent folk belief system preceding the demonological inquisitorial frame. Ginzburg extended this analysis in *Ecstasies* (1989/1991), arguing that the benandanti tradition preserved elements of a pan-Eurasian shamanic tradition predating the Christian liturgical calendar.\n\n  The shamanic-continuity thesis has attracted sustained critical scrutiny. Robin Briggs (*Witches and Neighbours*, 1996) accepts the folk belief reality — that Moduco and Gasparutto genuinely believed in their nocturnal activities — while questioning whether the evidence supports Ginzburg's claim of deep historical continuity rather than independent convergent cultural development. Hutton (*The Witch*, 2017) similarly accepts the practice while treating the large-scale comparative argument with measured skepticism.\n\n  Clark's intellectual-historical framework, less concerned with folk survivals than with the mechanisms of demonological categorization, reads the Moduco-Gasparutto transcripts as documenting the process by which inquisitorial categories overrode prior self-understanding — the same cognitive coercion mechanism Clark identifies in continental trials more broadly, operating here without the physical torture common elsewhere.",
   "source_method": "Venetian Inquisition archival records (Friuli/Udine diocese); published transcripts in appendix to Ginzburg 1983; extensively analyzed in Ginzburg 1966/1983 and 1989/1991",
   "review_status": "VERIFIED",
   "confidence": "HIGH",
-
   "scholarly_sources": [
     "ginzburg-night-battles-1983",
     "ginzburg-ecstasies-1991",
     "clark-thinking-with-demons-2001",
     "hutton-the-witch-2017"
   ],
-
   "created_date": "2026-05-29",
   "last_modified": "2026-05-29"
 }

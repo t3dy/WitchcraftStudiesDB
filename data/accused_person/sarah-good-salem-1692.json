@@ -9,11 +9,8 @@
   "age_at_trial": 39,
   "social_status": "Homeless; itinerant beggar; married woman; pregnant at arrest; destitute",
   "gender": "Female",
-
-  "biography": "Sarah Good was approximately 39 years old at the time of her arrest in February 1692. Once from a relatively prosperous family (her father John Solart was an innkeeper who left a modest estate), she had descended into poverty following her father's death, an unsuccessful first marriage that left her in debt, and her second marriage to William Good, a laborer. By 1692 the Good family was destitute, moving from household to household and sometimes sleeping outdoors. Sarah Good was known to beg from her neighbors and had a reputation for muttering when refused, which neighbors interpreted as cursing. She was pregnant at the time of her arrest and gave birth to a daughter, Mercy, in jail; the infant died in prison. Her elder daughter Dorcas (approximately 4-5 years old) was also arrested as a witch during the proceedings.",
-
+  "biography": "Sarah Good was approximately 39 years old at the time of her arrest on February 29, 1692 — one of the very first three accused in the Salem crisis, examined on the same day as Sarah Osbourne and Tituba. Her biography traces a downward arc that Boyer and Nissenbaum's community-conflict analysis in *Salem Possessed* (1974) reads as structurally significant: she was born to John Solart, a Wenham innkeeper who left a modest estate, but after his death the estate was disputed, her first marriage to Daniel Poole left her responsible for his debts, and her second marriage to the laborer William Good accelerated her descent into destitution. By 1692, the Good family had no fixed dwelling, moved between the households of neighbors who provided temporary shelter, and sometimes slept outdoors. Sarah was known to beg from her neighbors, and when refused she had a reputation for muttering as she departed — behavior her neighbors retrospectively interpreted as cursing and cited against her at trial.\n\n  She was pregnant when arrested and gave birth to a daughter, Mercy, while imprisoned; the infant died in prison. Her elder daughter Dorcas, approximately four or five years old, was herself arrested as a witch during the proceedings — an accusation directed at a small child that demonstrates how completely the accusation mechanism had detached from any residual evidentiary standard by that stage of the prosecution. William Good's examination testimony, in which he stated he feared his wife might be a witch, provided a devastating inversion of expected spousal defense and has attracted specific scholarly attention as evidence of how accusation dynamics dissolved family solidarity. Good was hanged at Gallows Hill, Salem, on July 19, 1692.",
   "arrest_narrative": "Good was examined on March 1, 1692—the same day as Sarah Osbourne and Tituba—in the very first formal examinations of the Salem crisis. She was named by the afflicted girls (Betty Parris, Abigail Williams, Ann Putnam Jr., and Elizabeth Hubbard) as one of the first three suspected witches. The timing suggests a pre-existing community reputation as a suspicious figure. During her examination before magistrate John Hathorne, she maintained her innocence but accused Sarah Osbourne of being the witch—a deflection that itself contributed to the cascade.",
-
   "interrogation_and_confession": {
     "first_interrogation": {
       "date": "1692-03-01",
@@ -23,20 +20,19 @@
     },
     "torture_sessions": []
   },
-
   "confession_content": {
     "demonic_pact": "None confessed; maintained innocence throughout.",
     "sabbath_activities": "None confessed.",
     "maleficium_claimed": "None confessed.",
-    "accomplices_named": ["Named Sarah Osbourne as the witch, but this appears to be a deflection tactic rather than a genuine accusation."]
+    "accomplices_named": [
+      "Named Sarah Osbourne as the witch, but this appears to be a deflection tactic rather than a genuine accusation."
+    ]
   },
-
   "historiographical_analysis": {
     "torture_mechanism": "Good's case demonstrates how social marginality could function as a confession-substitute: her prior community reputation as a muttering beggar was treated as functional evidence of malevolence even without confession. Unlike higher-status accused persons whose denial required more substantial override, Good's social marginality predisposed authorities to treat accusation as self-evident. The examination transcript shows Hathorne conducting a leading examination clearly premised on guilt.",
     "plausibility": "Good's muttering when leaving households after refused begging likely represents ordinary social expression that community members retrospectively interpreted as cursing. No physical evidence, no confession, and only spectral evidence was presented against her.",
     "social_vulnerability": "Good exemplifies Karlsen's and Boyer/Nissenbaum's analyses of social marginality as a primary risk factor. Poverty, itinerancy, dependence on neighbors, and the associated resentments made her an ideal early target. Her daughter's arrest (4-5 year old Dorcas) demonstrates how prosecution dynamics extended even to young children once the accusation mechanism was in motion."
   },
-
   "execution_details": {
     "date": "1692-07-19",
     "method": "Hanged at Gallows Hill, Salem",
@@ -44,32 +40,25 @@
     "witnesses": "Court officials, assembled public; execution of five women on the same day",
     "final_statement": "Maintained innocence to the end. When the Reverend Nicholas Noyes called on her to confess and stated he knew she was a witch, Good reportedly replied: 'You are a liar. I am no more a witch than you are a wizard, and if you take away my life God will give you blood to drink.' Attribution appears in Cotton Mather's account and later sources; veracity uncertain but widely cited."
   },
-
   "accusations_against_her": [
     "Witchcraft and demonic allegiance",
     "Spectral appearances tormenting afflicted persons",
     "Cursing neighbors through muttering when refused alms"
   ],
-
   "contemporary_defense": {
     "supporters": "Her husband William Good provided testimony—but in a devastating inversion, his testimony was used against her: he stated she was 'an enemy to all good' and that he feared she might be a witch. This marital testimony under examination pressure has attracted specific historiographical attention as an example of how accusation dynamics destroyed family solidarity.",
     "defense_arguments": "Maintained consistent innocence; deflected accusations toward Osbourne; no confession obtainable despite sustained pressure."
   },
-
   "historiographical_significance": "Sarah Good is among the most historiographically significant Salem figures because she exemplifies the social targeting of the marginalized and the family-destroying dynamics of accusation. Her husband's testimony against her, her daughter's arrest, her pregnancy and the infant death in jail, and her attributed final defiance to Noyes have all attracted sustained analytical attention. Carol Karlsen (*The Devil in the Shape of a Woman*, 1987) emphasizes her case as illustrating how gender, poverty, and social non-conformity intersected to create extreme vulnerability. Boyer and Nissenbaum analyze her case in terms of community economic resentment toward the dependent poor. She was among the first three formally accused at Salem, and her case shaped the institutional logic of the subsequent prosecutions.",
-
   "scholarly_disagreement": "Good's attributed final statement to Noyes ('God will give you blood to drink') is often repeated but its primary source is ambiguous; the same phrase appears in Nathaniel Hawthorne's family mythology about a curse on the Noyes line.",
-
   "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia; Boyer & Nissenbaum, *Salem Possessed* (1974); Karlsen, *The Devil in the Shape of a Woman* (1987); Cotton Mather, *Wonders of the Invisible World* (1693)",
   "review_status": "VERIFIED",
   "confidence": "HIGH",
-
   "scholarly_sources": [
     "ankarloo-clark-vol4-witch-trials-2001",
     "clark-thinking-with-demons-2001",
     "hutton-the-witch-2017"
   ],
-
   "created_date": "2026-05-29",
   "last_modified": "2026-05-29"
 }
