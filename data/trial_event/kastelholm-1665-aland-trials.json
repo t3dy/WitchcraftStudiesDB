@@ -1,0 +1,71 @@
+{
+  "id": "kastelholm-1665-aland-trials",
+  "name": "Kastelholm Witch Trials (Åland)",
+  "location_id": "aland",
+  "year_start": 1665,
+  "year_end": 1668,
+  "alleged_accused_count": 20,
+  "executed_count": 7,
+  "regional_context": "Åland Islands, Swedish Empire (now autonomous region of Finland)",
+
+  "summary": "The Kastelholm witch trials (1665–1668) were the largest mass witchcraft prosecution in Finnish history. Conducted at Kastelholm Castle on the Swedish-governed Åland Islands, the trials resulted in the execution of six to seven women accused of attending the witches' sabbath (Blåkulla), making a pact with the devil, and practicing maleficium. The prosecution was initiated by district judge Nils Psilander, educated in Continental demonological theory at the University of Tartu, who transformed a routine cunning-folk consultation into a mass prosecution through the systematic application of sabbath demonology and the legal requirement that accused persons name accomplices.",
+
+  "historiographical_significance": "The Kastelholm trials exemplify the importation of Continental demonological procedures into peripheral regions of the Swedish Empire through educated judiciary. They anticipate the major Swedish 'Great Noise' witch panic of 1668–1676. The case illustrates Stuart Clark's argument about demonological education shaping prosecution and Carlo Ginzburg's analysis of interrogation transforming folk practitioners into sabbath-attendees. The trials were dramatized in the 2016 Finnish film Tulen morsian (Devil's Bride), directed by Saara Cantell.",
+
+  "demonological_framework": [
+    "sabbath-blakulla-swedish",
+    "demonic-pact-early-modern",
+    "denunciation-chain",
+    "cunning-folk-vs-witch"
+  ],
+
+  "key_details": {
+    "chief_judge": "Nils Psilander (häradshövding of Åland, 1655–1682; educated at University of Tartu, Dorpat)",
+    "supporting_official": "Reverend Bryniel Kjellenius",
+    "court": "Turku district court (confirmed sentences)",
+    "procedure": "Secular Swedish court with demonological framework; torture used to extract accomplice names; Blåkulla charge required for capital conviction under Swedish law",
+    "execution_method": "Decapitation by axe, followed by burning of the body — standard Swedish procedure for capital witchcraft conviction",
+    "origin": "Cunning woman Karin Persdotter consulted to identify a hay thief in Enkarby village (Finnström parish); Psilander's interrogation transformed her folk consultation into a witchcraft investigation",
+    "cascade_mechanism": "Karin Persdotter named 16 accomplices under interrogation; each accused was required to name further accomplices; denunciation tree expanded to approximately 20 accused",
+    "principal_accused": [
+      {
+        "name": "Karin Persdotter",
+        "role": "First accused; cunning woman consulted for theft detection; her testimony triggered the prosecution; executed August 1666",
+        "significance": "Paradigm case of Ginzburg's interrogation-transformation thesis: folk practitioner's self-understanding reframed through demonological questioning"
+      },
+      {
+        "name": "Maria Nilsdotter",
+        "role": "Named by Karin Persdotter; confessed to Blåkulla attendance; executed",
+        "significance": "Surviving court protocols document her confession"
+      },
+      {
+        "name": "Lisbet Persdotter",
+        "role": "Named as accomplice; confession extracted under interrogation pressure; documented in surviving records",
+        "significance": "Illustrates the cascade mechanism of denunciation"
+      }
+    ]
+  },
+
+  "linguistic_context": "The Åland Islands were Swedish-speaking; court records, church records, and daily life in 17th-century Åland were conducted entirely in Swedish. This is relevant to evaluating the 2016 film adaptation, which anachronistically includes Finnish-speaking characters.",
+
+  "scholarly_disagreement": "Historians disagree on the relative weight of Psilander's ideological initiative versus community-level social tensions in explaining the prosecution. Clark's emphasis on learned demonology as the driver favors Psilander's education; Hutton's social history approach emphasizes community dynamics and misfortune attribution. The total execution count varies by source (six or seven), reflecting incomplete survival of original records. Whether the Kastelholm trials were primarily an imposition of Continental demonology on a society unfamiliar with sabbath accusations, or whether the community had pre-existing beliefs that the demonological framework simply formalized, remains debated.",
+
+  "connection_to_popular_culture": {
+    "film": "Tulen morsian (Devil's Bride)",
+    "year": 2016,
+    "director": "Saara Cantell",
+    "notes": "Historical drama set in Åland 1666; centers on fictional accuser Anna rather than the historical Karin Persdotter; changes the origin of the prosecution from a cunning-folk consultation to personal jealousy; notable historical inaccuracy in depicting Finnish speakers in a Swedish-speaking community. See the dedicated essay page for analysis."
+  },
+
+  "source_method": "Swedish and Finnish legal archives (court protocols from the Turku district court); church records; secondary scholarly literature on Finnish and Swedish witch trials",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-witch-history-fear-2012",
+    "ginzburg-night-battles-1983",
+    "ankarloo-bengt-b1935"
+  ],
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}
