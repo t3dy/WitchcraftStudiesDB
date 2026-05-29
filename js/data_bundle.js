@@ -7900,6 +7900,110 @@ window.SCHOLARS = [
     "last_modified": "2026-05-27"
   },
   {
+    "id": "bailey-michael-b1971",
+    "name": "Michael D. Bailey",
+    "birth_year": 1971,
+    "birth_place": "United States",
+    "academic_discipline": "Medieval and Early Modern History",
+    "primary_institution": "Iowa State University (Professor of History)",
+    "specialization": "Late medieval magic, superstition and its construction, history of magic broadly, medieval-to-early-modern transition in witchcraft",
+    "major_works": [
+      {
+        "title": "Magic and Superstition in Europe: A Concise History from Antiquity to the Present",
+        "year": 2006,
+        "publisher": "Rowman and Littlefield",
+        "significance": "Standard introductory text covering European magic and superstition from antiquity to the present; widely used in university courses; presents the main scholarly debates accessibly"
+      },
+      {
+        "title": "Fearful Spirits, Reasoned Follies: The Boundaries of Superstition in Late Medieval Europe",
+        "year": 2013,
+        "publisher": "Cornell University Press",
+        "significance": "Major scholarly monograph arguing that the category of 'superstition' was constructed and policed by medieval clergy as a tool for defining legitimate religion; documents how clerical anxieties about popular practice generated the conceptual framework that enabled witch prosecution"
+      },
+      {
+        "title": "Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages",
+        "year": 2003,
+        "publisher": "Pennsylvania State University Press",
+        "significance": "Study of the reforming friar Johannes Nider and his role in constructing the early witchcraft stereotype; links the emergence of the cumulative concept to the conciliarist reform movement of the early 15th century"
+      },
+      {
+        "title": "Magic: The Basics",
+        "year": 2018,
+        "publisher": "Routledge",
+        "significance": "Accessible introduction to the history and anthropology of magic; demonstrates command of the full comparative literature; useful pedagogical resource"
+      }
+    ],
+    "historiographical_position": "INTELLECTUAL_HISTORY",
+    "core_argument": "Bailey's central argument is that the construction of the category of 'superstition' by medieval clergy was a critical precondition for the witch trials. Medieval clerics — theologians, canonists, inquisitors — invested enormous intellectual energy in defining what counted as legitimate religious practice and what counted as superstition: excessive, erroneous, or dangerous engagement with supernatural forces. The superstition category was inherently normative and political: it defined the boundaries of acceptable practice, identified deviations from orthodoxy, and created the conceptual framework within which accused practitioners could be judged and condemned. Bailey argues that this clerical project of defining and policing superstition had its own internal logic and institutional history that does not reduce either to social tensions (Thomas) or to popular practice reinterpreted through demonological lenses (Ginzburg). The learned clerics who elaborated the superstition category were engaged in an intellectual project with genuine theological stakes: they were defining the relationship between orthodox Christianity and the supernatural, determining what kinds of spiritual contact were licit and what kinds were diabolical, and constructing a framework within which practices that had previously been tolerated could be reread as dangerous. This clerical construction of the superstition concept was a prerequisite for the witch prosecutions: without the theological framework that made 'superstition' a category of serious religious danger, the accumulation of folk practices, popular beliefs, and maleficium accusations into a coherent prosecution ideology would have been impossible. Bailey's work on Johannes Nider — the early 15th-century reforming Dominican friar whose Formicarius (c. 1437) is one of the earliest systematic witch treatises — documents how this conceptual construction occurred in a specific reforming context. Nider wrote about witches in the context of the conciliarist reform movement at the Council of Basel, where clerical reformers were confronting what they saw as widespread moral and spiritual decay. The witch stereotype that Nider helped construct was part of a broader reforming agenda aimed at purifying Christian practice by identifying and eliminating spiritual corruption. Bailey thus places the intellectual origins of the witch trials within the internal dynamics of late medieval church reform rather than treating demonology as either popular superstition or purely abstract theology.",
+    "methodological_approach": {
+      "primary_materials": "Medieval theological treatises on superstition and magic; penitential literature; inquisitorial handbooks; conciliar documents; early witchcraft treatises (Nider, early Malleus sources)",
+      "analysis_target": "The intellectual construction of the superstition category and its role in enabling witch prosecution; the specific reforming context of early witchcraft thought",
+      "evidence_type": "Textual analysis of theological and canonical literature; contextual reading within church reform movements",
+      "explanatory_level": "Intellectual history of categories; institutional context of clerical reform; conceptual prerequisites for prosecution ideology"
+    },
+    "key_contributions": [
+      {
+        "concept": "Superstition as a constructed clerical category",
+        "claim": "Medieval clerics actively constructed and policed the category of superstition as a tool for defining legitimate Christianity. This construction was not a neutral description of folk practice but a normative judgment that identified certain practices as spiritually dangerous and potentially diabolical.",
+        "implication": "The conceptual framework that enabled witch prosecution was built over centuries of clerical boundary-drawing; it was not invented in the 15th century but assembled from a long tradition of anxious regulation of popular practice."
+      },
+      {
+        "concept": "Reform movement as context for early witch prosecution",
+        "claim": "The early systematic witch treatises — particularly Nider's Formicarius — were written within the context of conciliarist reform efforts at the Council of Basel (1431–49). The witch stereotype was partly a product of reformers' anxieties about spiritual corruption rather than purely a response to popular accusation.",
+        "implication": "The intellectual origins of witch prosecution are embedded in the internal politics of late medieval church reform, not only in encounters with popular magic or in abstract theological development."
+      },
+      {
+        "concept": "Boundaries of the natural, supernatural, and superstitious",
+        "claim": "Medieval clerics developed sophisticated frameworks for distinguishing natural causation, legitimate supernatural intervention (miracles, saintly intercession), and illegitimate supernatural contact (demonic magic, superstition). The witch prosecution ideology was built on these distinctions.",
+        "implication": "Understanding medieval witchcraft requires understanding medieval cosmology and its internal distinctions — not simply between religion and magic, but between different kinds of supernatural contact with different theological valuations."
+      },
+      {
+        "concept": "Accessibility and pedagogy in witchcraft history",
+        "claim": "The history of magic and witchcraft required accessible synthetic texts that could bring the major scholarly debates to broad audiences; Bailey's introductory texts fulfill this pedagogical function.",
+        "implication": "Magic and Superstition in Europe and Magic: The Basics have become standard teaching texts, influencing how the field is introduced to undergraduates and general readers."
+      }
+    ],
+    "scholarly_relationships": {
+      "alignment_with": [
+        "Richard Kieckhefer (medieval intellectual history of magic; cumulative concept analysis)",
+        "Stuart Clark (intellectual history approach; taking learned tradition seriously)",
+        "Scholars of medieval church reform who contextualize demonology within broader ecclesiastical history"
+      ],
+      "creative_tension_with": [
+        "Carlo Ginzburg (Ginzburg's interest in popular survival vs. Bailey's focus on clerical construction)",
+        "Social historians who explain witchcraft through community dynamics rather than intellectual construction",
+        "Historians who treat the superstition category as merely descriptive rather than as a normative construction"
+      ]
+    },
+    "reception_and_critique": {
+      "major_influences": "Battling Demons provided the first detailed contextual analysis of Nider's role in early witchcraft thought; Fearful Spirits established the superstition-construction argument in systematic form; the introductory texts have become standard course materials.",
+      "criticisms": [
+        "Some historians questioned whether Bailey's focus on clerical construction of superstition adequately accounts for the experiences and agency of accused individuals",
+        "The relationship between the superstition category and actual prosecution practice has been questioned: did the theological framework really shape how magistrates and accusers understood specific cases?",
+        "Some found the reform-movement context of Nider too historically specific to bear the weight Bailey places on it as an origin point",
+        "As a primarily medieval historian, Bailey's engagement with the later peak period of prosecution (1550–1650) is less detailed than his coverage of the 14th–15th century origins"
+      ]
+    },
+    "geographical_focus": [
+      "Western Europe",
+      "broadly European"
+    ],
+    "chronological_focus": "1300–1500 (medieval origins); broader survey to present in introductory texts",
+    "influence_on_field": "MAJOR",
+    "notable_debates": [
+      "The role of church reform in generating the witch prosecution ideology: was demonology a product of reforming anxieties or of encounter with popular practice?",
+      "Superstition as category: was clerical construction of superstition primarily driven by theological logic or by encounter with genuine popular practice?",
+      "The medieval-to-early-modern transition in witchcraft: how continuous was prosecution ideology across the 1500 boundary?"
+    ],
+    "legacy_status": "Founding co-editor of the journal Magic, Ritual and Witchcraft (Penn State University Press); standard introductory texts widely adopted; established the superstition-construction argument in witchcraft historiography.",
+    "scholarly_disagreement": "The primary debate around Bailey's work concerns the relationship between learned construction and popular practice. Ginzburg and his followers argue that popular traditions (shamanism, fertility cults, ecstatic practices) fed into the witch trial confessions and shaped what inquisitors heard, even if they reinterpreted it demonologically. Bailey's constructionist emphasis reverses this: the clerical framework preceded and shaped the encounter with popular practice. The debate is partly empirical (which came first, the category or the practice?) and partly methodological (can we recover genuine popular content from records produced by and for learned institutions?). Bailey also debates with social historians over the explanatory priority of intellectual categories vs. social dynamics: was the category of superstition a precondition for prosecution (Bailey), or were the social dynamics of accusation the real driver, with intellectual categories providing post-hoc justification (Thomas, Macfarlane)?",
+    "source_method": "Published scholarship and critical historiographical reconstruction",
+    "review_status": "DRAFT",
+    "confidence": "HIGH",
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
+  },
+  {
     "id": "barstow-anne-llewellyn-b1936",
     "name": "Anne Llewellyn Barstow",
     "birth_year": 1936,
@@ -8383,82 +8487,118 @@ window.SCHOLARS = [
     "id": "davies-owen-b1969",
     "name": "Owen Davies",
     "birth_year": 1969,
-    "death_year": null,
-    "birth_place": "United Kingdom",
-    "academic_discipline": "History",
-    "primary_institution": "University of Hertfordshire",
-    "specialization": "Post-Reformation cunning folk; continuity of magical practice after witch trials; popular magic in modern England",
+    "birth_place": "England",
+    "academic_discipline": "Cultural History",
+    "primary_institution": "University of Hertfordshire (Professor of Social History)",
+    "specialization": "Magic, grimoires, ghosts, popular medicine, cunning folk, post-Enlightenment witchcraft belief, history of occultism",
     "major_works": [
+      {
+        "title": "Grimoires: A History of Magic Books",
+        "year": 2009,
+        "publisher": "Oxford University Press",
+        "significance": "First comprehensive history of magical books (grimoires) from antiquity to the present; documents the transmission and transformation of written magical knowledge across cultures and centuries; demonstrates continuity of magical textual tradition well beyond the witch-trial period"
+      },
       {
         "title": "Popular Magic: Cunning-folk in English History",
         "year": 2003,
         "publisher": "Hambledon Continuum",
-        "significance": "Comprehensive study of cunning folk in England from Reformation to twentieth century; showed continuity of magical practice service after witch-trial era ended",
-        "database_entry": null
+        "significance": "Comprehensive survey of cunning folk in English history from the medieval period through the 20th century; documents the persistence and professionalization of magical practice long after formal witch trials ended"
       },
       {
-        "title": "Witchcraft, Magic and Culture 1736-1951",
+        "title": "Witchcraft, Magic and Culture 1736–1951",
         "year": 1999,
         "publisher": "Manchester University Press",
-        "significance": "Post-prosecution popular magical beliefs and their legal and cultural management in modern England",
-        "database_entry": null
+        "significance": "Foundational study of witchcraft belief and magical practice after the repeal of the English Witchcraft Act; documents the long 18th–20th century life of popular belief conventionally assumed to have disappeared"
+      },
+      {
+        "title": "The Oxford Illustrated History of Witchcraft and Magic",
+        "year": 2017,
+        "publisher": "Oxford University Press",
+        "significance": "Major edited collection covering witchcraft and magic from antiquity to the present; brings together leading scholars; Davies's editorial framework emphasizes long-term continuity"
       },
       {
         "title": "America Bewitched: The Story of Witchcraft After Salem",
         "year": 2013,
         "publisher": "Oxford University Press",
-        "significance": "Extension of cunning folk analysis to American context; post-Salem popular witchcraft and magic",
-        "database_entry": null
+        "significance": "Documents American witchcraft belief and practice from the colonial period through the 20th century; extends the continuity argument to the North American context"
+      },
+      {
+        "title": "Magic: A Very Short Introduction",
+        "year": 2012,
+        "publisher": "Oxford University Press",
+        "significance": "Concise accessible overview of magic's history and anthropology; demonstrates command of the full disciplinary landscape"
       }
     ],
-    "historiographical_position": "SOCIAL HISTORY",
-    "core_argument": "Magical belief and practice did not end with the witch trials; cunning folk continued to operate in England well into the nineteenth and twentieth centuries, serving community needs for healing, divination, and counter-magic. The end of formal prosecution did not indicate the end of belief; it indicated a change in how the state managed popular magic.",
+    "historiographical_position": "CULTURAL_HISTORY",
+    "core_argument": "Davies's most significant contribution to witchcraft studies is the systematic documentation that magical belief and practice did not end with the witch trials. The conventional narrative of witchcraft history treats the period between approximately 1400 and 1750 as the era of witch prosecution and implies that the decline of prosecution reflects the decline of belief. Davies challenged this narrative by demonstrating that cunning folk continued to practice, communities continued to suspect witches, popular magical texts continued to circulate, and individuals continued to seek magical remedies well into the 19th and 20th centuries. His work on cunning folk documents their activities from the medieval period through the twentieth century, demonstrating remarkable occupational persistence and adaptation. His grimoire work shows that magical books — manuals of ceremonial and popular magic — circulated continuously from antiquity through the early modern period, the 18th century Enlightenment, Victorian occult revival, and into modern New Age practice, never losing their appeal despite repeated clerical and secular condemnation. This 'long history of magic' argument has methodological implications: if magic is not a phenomenon of a specific period but a persistent cultural form, then the 'decline of magic' thesis (Keith Thomas) requires revision or at least periodization. Davies argues that what declined in the 17th–18th centuries was elite acceptance of magic and formal judicial prosecution, not popular practice itself. Popular cunning folk continued doing what they had always done; they simply lost the prosecutorial attention that had made them visible in earlier records. This shifts the historian's task from explaining why magic declined to explaining why it persisted, adapted, and ultimately fed into modern occultism, New Age practice, and contemporary paganism.",
     "methodological_approach": {
-      "primary_materials": "Newspaper records, court records for petty offenses related to magic, folklore collection records, parish records from post-1736 England",
-      "analysis_target": "Continuity of cunning folk practice after Witchcraft Act 1736; social functions of popular magic; legal and cultural management of magical practitioners",
-      "evidence_type": "Archival survey of post-prosecution period; newspaper and court record analysis; continuity across before/after periodization",
-      "explanatory_level": "Social-functional: magic serving community needs across changing legal and religious contexts"
+      "primary_materials": "Cunning folk prosecution records (post-1736 Witchcraft Act era), popular printed magical texts, newspaper accounts, Victorian folklore surveys, manuscript grimoires, probate inventories listing magical books",
+      "analysis_target": "The persistence, adaptation, and continuity of popular magical practice across the conventional boundary of the early modern period",
+      "evidence_type": "Archival research in court records and local archives; bibliography of magical texts; folklore and ethnographic sources; comparative longue durée",
+      "explanatory_level": "Cultural continuity, popular practice, and long-term transformation of magical traditions"
     },
     "key_contributions": [
       {
-        "concept": "Post-prosecution magical continuity",
-        "claim": "Cunning folk and popular magical practitioners continued operating in England in substantial numbers through the nineteenth century and beyond, demonstrating that legal suppression did not end magical practice",
-        "implication": "The witch trial period cannot be sharply periodized from what followed; magical belief and practice show long-term continuity"
+        "concept": "Continuity thesis: magic persists past the witch trials",
+        "claim": "Popular magical belief and practice — cunning folk, charm-making, divination, and fear of witchcraft — continued and in some respects flourished after the formal end of witch prosecution in the 18th century. The 'end of magic' is an elite and institutional narrative, not a popular one.",
+        "implication": "Witchcraft history cannot be bounded by the trial period; understanding early modern magical belief requires understanding its later history and the continuities that link witch-trial-era cunning folk to Victorian occultists and 20th-century practitioners."
       },
       {
-        "concept": "Cunning folk as legitimate professionals",
-        "claim": "Cunning folk operated as recognized community specialists in healing, lost property recovery, and counter-magic; they were not marginal figures but integrated practitioners",
-        "implication": "Extends Hutton's social history of cunning folk into the post-prosecution period"
+        "concept": "Grimoires as a continuous textual tradition",
+        "claim": "Magical books circulated continuously from late antiquity through the 20th century, adapting to print, to new languages, and to new cultural contexts while preserving core ritual structures. Their transmission history reveals how magical knowledge moved across literacy levels, cultures, and centuries.",
+        "implication": "Magic had a learned and textual tradition alongside its oral and popular dimensions; understanding how magical texts circulated helps explain the persistence and transformation of practice."
       },
       {
-        "concept": "State management of magic",
-        "claim": "After 1736, the state managed popular magic through fraud laws and public health regulation rather than demonological prosecution; the form of control changed but not the attempt to control",
-        "implication": "State regulation of magical practice is continuous across the prosecution/post-prosecution divide"
+        "concept": "Cunning folk as professionals",
+        "claim": "Cunning folk operated as recognized practitioners in their communities, offering services for a fee or reciprocal exchange. They were not marginal or stigmatized figures but occupational specialists who continued to attract clients through the 19th and early 20th centuries.",
+        "implication": "The boundary between cunning folk and other kinds of medical, legal, and spiritual practitioners was one of social recognition and cultural legitimacy, not of the reality or unreality of their practices."
+      },
+      {
+        "concept": "Post-trial witchcraft accusation and community justice",
+        "claim": "Even after formal prosecution ended, communities continued to accuse, ostracize, and sometimes physically attack suspected witches through informal means. 'Swimming' (ducking) and other forms of community violence against suspected witches continued into the 19th century in England.",
+        "implication": "The end of formal prosecution did not end popular belief or communal enforcement; it redirected it into informal channels that left different archival traces."
       }
     ],
     "scholarly_relationships": {
       "alignment_with": [
-        "hutton-ronald-b1953",
-        "thomas-keith-b1933"
+        "Ronald Hutton (cunning folk as genuine practitioners; social history of popular practice)",
+        "Emma Wilby (practitioners' traditions as genuine cultural forms)",
+        "Keith Thomas (social function of magic; extended by Davies to post-trial period)"
       ],
       "creative_tension_with": [
-        "muchembled-robert-b1944"
+        "Keith Thomas (Davies extends and challenges Thomas's 'decline of magic' thesis by documenting persistence)",
+        "Stuart Clark (Davies's popular cultural history contrasts with Clark's elite intellectual history)",
+        "Historians who treat early modern and modern magic as categorically separate"
       ]
     },
     "reception_and_critique": {
-      "major_influences": "Keith Thomas, Ronald Hutton, English social history; folklore studies",
+      "major_influences": "Davies established the sub-field of post-trial magic history and demonstrated that the continuity between early modern and modern magical practice could be documented rather than merely asserted. Grimoires was particularly influential in bridging early modern scholarship and modern occult studies.",
       "criticisms": [
-        "English focus limits applicability to Continental patterns",
-        "The cunning folk tradition may be too specific to English religious culture to generalize",
-        "Some argue Davies underweights the changes in magical culture that did occur after the prosecution period"
+        "Some historians question whether 19th-century cunning folk were really continuous with early modern practitioners or represented a distinct, separately generated tradition",
+        "The grimoire argument has been challenged on questions of actual readership and use — did people read these books, or did possession signal status?",
+        "Focus on continuity has been seen by some as underweighting the genuine transformations in magical belief between the early modern period and the 19th century",
+        "The relationship between popular magic continuity and elite/learned magic tradition remains undertheorized in Davies's account"
       ]
     },
-    "historiographical_significance": "Davies established the study of post-prosecution popular magic as a legitimate historical field, demonstrating that 1736 (end of English prosecutions) was not a cultural discontinuity but a legal one. His comprehensive survey of cunning folk extends Ronald Hutton's social history methodology into the modern period and provides essential evidence for long-term continuity of magical culture in England.",
+    "geographical_focus": [
+      "England",
+      "North America",
+      "broadly European"
+    ],
+    "chronological_focus": "Medieval through 20th century; particular emphasis on 1700–1900",
+    "influence_on_field": "MAJOR",
+    "notable_debates": [
+      "Continuity vs. decline: is the 'decline of magic' a reality or an elite-institutional narrative that obscures popular persistence?",
+      "Boundaries of 'witchcraft history': should the field extend into the post-trial era or restrict itself to the prosecution period?",
+      "Grimoire transmission: how was magical textual knowledge actually used and transmitted across different social strata?"
+    ],
+    "legacy_status": "Established post-trial magic as a recognized sub-field; leading authority on grimoires; widely cited in both academic and popular works on the history of magic.",
+    "scholarly_disagreement": "Keith Thomas's 'decline of magic' thesis is the primary counterpoint to Davies's continuity argument: Thomas argued that magical belief genuinely declined in the later 17th century as practical alternatives (insurance, medicine, institutional religion) replaced its social functions. Davies does not dispute that elite acceptance declined but argues that popular practice continued, meaning that 'decline' is period-specific and class-specific. The debate partly concerns what should count as evidence: Davies finds continuity in popular records Thomas did not systematically examine; Thomas finds decline in elite and institutional sources that are better preserved. Some scholars argue these positions are not truly incompatible — elite decline and popular persistence can coexist — while others see them as reflecting genuinely different claims about whether the social function of magic persisted.",
     "source_method": "Published scholarship and critical historiographical reconstruction",
     "review_status": "DRAFT",
     "confidence": "HIGH",
-    "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
   },
   {
     "id": "de-blecourt-willem-b1956",
@@ -8966,6 +9106,116 @@ window.SCHOLARS = [
     "last_modified": "2026-05-23"
   },
   {
+    "id": "kieckhefer-richard-b1946",
+    "name": "Richard Kieckhefer",
+    "birth_year": 1946,
+    "birth_place": "United States (approximate)",
+    "academic_discipline": "Medieval Religious History",
+    "primary_institution": "Northwestern University (Emeritus Professor of History and Religious Studies)",
+    "specialization": "Medieval magic, late medieval witch trials, necromancy, learned magic, church architecture and theology",
+    "major_works": [
+      {
+        "title": "European Witch Trials: Their Foundations in Popular and Learned Culture, 1300–1500",
+        "year": 1976,
+        "publisher": "University of California Press",
+        "significance": "Foundational study of the medieval origins of witch prosecution; distinguishes popular maleficium tradition from learned cumulative witchcraft concept; argues the sabbath was a learned clerical construction overlaid on popular maleficium accusations"
+      },
+      {
+        "title": "Magic in the Middle Ages",
+        "year": 1989,
+        "publisher": "Cambridge University Press",
+        "significance": "Standard textbook on medieval magic; synthesizes learned and popular magical traditions; now in third edition (2014); covers natural magic, demonic magic, necromancy, and popular belief across the medieval period"
+      },
+      {
+        "title": "Forbidden Rites: A Necromancer's Manual of the Fifteenth Century",
+        "year": 1997,
+        "publisher": "Pennsylvania State University Press",
+        "significance": "Edition and analysis of a 15th-century clerical necromancy manual; documents the learned tradition of diabolical magic as a real clerical practice; demonstrates that learned magic was not merely theoretical"
+      },
+      {
+        "title": "Theology in Stone: Church Architecture from Byzantium to Berkeley",
+        "year": 2004,
+        "publisher": "Oxford University Press",
+        "significance": "Theological analysis of church architecture; demonstrates breadth as medieval religious historian beyond magic and witchcraft specifically"
+      },
+      {
+        "title": "Hazards of the Dark Arts: Advice for Medieval Princes on Occult Magic",
+        "year": 2017,
+        "publisher": "Pennsylvania State University Press",
+        "significance": "Edition of medieval advice literature warning princes about magic; documents the social context of elite concerns about learned magical practice"
+      }
+    ],
+    "historiographical_position": "INTELLECTUAL_HISTORY",
+    "core_argument": "Kieckhefer's foundational contribution to witchcraft historiography is his argument that the 'cumulative concept' of witchcraft — the set of beliefs about sabbath, flight, demonic pact, and diabolical conspiracy that characterized fully developed witch prosecution — was a learned clerical construction rather than a reflection of popular belief or practice. In his 1976 study of late medieval witch trials (1300–1500), Kieckhefer argued that two distinct strands ran through late medieval witch prosecution: a popular strand focused on maleficium (harmful magic practiced by individuals using natural means or minor spiritual powers) and a learned strand that added the sabbath, flight, and formal demonic pact. The popular strand was genuinely old and widespread — fear of harmful magic practiced by malicious neighbors was universal in pre-modern Europe. The learned strand was a relatively recent clerical invention, developed primarily in the 15th century by Dominican inquisitors, theologians, and jurists who constructed a new theological category: the witch as devil-worshipper who had formally renounced Christianity, attended diabolical assemblies, and received power to harm in exchange for complete submission to Satan. This cumulative concept merged the older popular fear of maleficium with new theological anxieties about heresy, demonic pact, and apostasy. Kieckhefer's analysis showed that the sabbath — the nocturnal assembly at which witches worshipped the devil, ate children, and engaged in sexual orgies — appeared rarely in early witch trials and became central only in the mid-15th century, coinciding with intensified inquisitorial interest in heresy and demonology. This argument is foundational because it identifies the learned cumulative concept as the necessary precondition for mass witch prosecution: without the sabbath and pact, each accused witch was an individual criminal; with them, each witch implicated dozens of accomplices through denunciation, enabling the escalation from individual prosecution to collective panic. Magic in the Middle Ages, his standard textbook, provides the comprehensive background: natural magic (drawing on occult forces in nature), demonic magic (invoking demons), and popular superstition were distinct categories that medieval writers worked hard to distinguish, though in practice they frequently overlapped. The necromancy manual documents that learned clerical magic was a real practice, not merely a theoretical category — educated priests actually performed rituals to conjure demons, often for practical rather than doctrinally heretical purposes.",
+    "methodological_approach": {
+      "primary_materials": "Late medieval witch trial records (1300–1500); demonological treatises; necromancy manuals; theological and inquisitorial literature; canonical collections",
+      "analysis_target": "The formation and components of the cumulative witchcraft concept; the distinct strands (popular vs. learned) contributing to prosecution",
+      "evidence_type": "Systematic analysis of trial records for the presence or absence of specific elements (sabbath, flight, pact); textual analysis of demonological treatises",
+      "explanatory_level": "Intellectual formation of concepts; distinction between popular and learned contributions to prosecution"
+    },
+    "key_contributions": [
+      {
+        "concept": "Cumulative concept of witchcraft as learned construction",
+        "claim": "The full set of beliefs that enabled mass prosecution — diabolical pact, sabbath attendance, collective apostasy, aerial flight — was constructed by learned clerics (primarily Dominican inquisitors) in the 14th–15th centuries. Popular belief in maleficium was ancient; the cumulative concept was new.",
+        "implication": "Mass witch prosecution was made possible by a specific intellectual-clerical innovation, not by the intensification of long-standing popular belief. Understanding prosecution requires understanding how the cumulative concept was assembled and disseminated."
+      },
+      {
+        "concept": "Popular vs. learned strands in witch trials",
+        "claim": "Early witch trials (pre-1430) focused primarily on maleficium — individual harmful acts attributed to human agency with or without minor demonic assistance. The learned demonological framework (sabbath, pact, conspiracy) was overlaid on these cases by inquisitors who brought their theological categories to bear on local accusations.",
+        "implication": "The trial record must be disaggregated: some elements reflect genuine local accusation (maleficium) while others reflect judicial imposition (sabbath, pact). Kieckhefer's distinction anticipates Ginzburg's reading-against-the-grain method."
+      },
+      {
+        "concept": "Sabbath as 15th-century construction",
+        "claim": "The witches' sabbath — the nocturnal assembly at which witches worshipped the devil collectively — is largely absent from trials before approximately 1430 and becomes prominent thereafter. Its emergence correlates with specific inquisitorial contexts, not with changes in popular practice.",
+        "implication": "The sabbath cannot be taken as evidence of pre-existing popular ritual gatherings; it was a learned invention that real accused persons then incorporated into their confessions under judicial pressure."
+      },
+      {
+        "concept": "Necromancy as genuine clerical practice",
+        "claim": "The learned tradition of demonic magic — summoning demons for practical purposes — was practiced by educated clergymen, not only theorized. The necromancer's manual documents a real tradition of ritual demon-conjuring within a clerical milieu.",
+        "implication": "The boundary between orthodox Christianity and demonic practice was porous at the learned level; anxiety about necromancy reflected real knowledge of its practice, not merely theoretical danger."
+      }
+    ],
+    "scholarly_relationships": {
+      "alignment_with": [
+        "Stuart Clark (intellectual history approach; taking learned demonology seriously as a system of thought)",
+        "Michael Bailey (medieval boundaries of superstition; clerical construction of magical categories)",
+        "Norman Cohn (skepticism about popular origin of sabbath; learned construction thesis)"
+      ],
+      "creative_tension_with": [
+        "Carlo Ginzburg (Ginzburg argues the sabbath derived partly from real popular fertility-cult practices; Kieckhefer argues it was primarily a learned construction)",
+        "Éva Pócs (Pócs finds genuine shamanistic roots of sabbath-like practices in East Central Europe; extends Ginzburg against Kieckhefer's skepticism)",
+        "Historians who treat maleficium and sabbath as part of a unified popular tradition"
+      ]
+    },
+    "reception_and_critique": {
+      "major_influences": "European Witch Trials is the standard reference for the medieval origins of the cumulative witchcraft concept; Magic in the Middle Ages is the most widely used textbook on medieval magic in university teaching. Kieckhefer established the analytical vocabulary (cumulative concept, maleficium, learned/popular distinction) that subsequent scholarship built on.",
+      "criticisms": [
+        "Carlo Ginzburg's The Night Battles (1983, English 1983) challenged the purely constructionist account of the sabbath by documenting cases where popular traditions seemed to generate sabbath-like elements independently of inquisitorial pressure",
+        "Some historians questioned whether the learned/popular distinction was as clean as Kieckhefer proposed — popular belief was already influenced by clerical categories long before the 15th century",
+        "The 1976 book's geographic scope has been challenged: the formative period and geography of the cumulative concept may be more specific than Kieckhefer suggested",
+        "Later research suggested the timeline of sabbath emergence was more complex, with regional variations that complicate Kieckhefer's generalization"
+      ]
+    },
+    "geographical_focus": [
+      "Western Europe",
+      "broadly European"
+    ],
+    "chronological_focus": "1300–1500 (medieval origins); broader medieval period in textbook",
+    "influence_on_field": "FOUNDATIONAL",
+    "notable_debates": [
+      "Origins of the witches' sabbath: learned clerical construction (Kieckhefer, Cohn) or derived partly from genuine popular traditions (Ginzburg, Pócs)?",
+      "Relationship between maleficium and cumulative witchcraft: were they always distinct or did popular belief gradually incorporate learned elements?",
+      "The role of Dominican inquisitors: did they create the cumulative concept or discover and systematize pre-existing beliefs?"
+    ],
+    "legacy_status": "Magic in the Middle Ages is the standard introductory text for medieval magic in university courses; European Witch Trials established the analytical framework for understanding the medieval origins of prosecution; widely cited by all subsequent scholars.",
+    "scholarly_disagreement": "The primary debate over Kieckhefer's work concerns the origins of the witches' sabbath. Kieckhefer, following Norman Cohn, argues that the sabbath was primarily a learned clerical construction with no basis in genuine popular practice. Carlo Ginzburg challenged this by documenting Italian and other cases where popular traditions (the benandanti, the cult of Diana/Herodias) seemed to generate elements paralleling the sabbath independently of inquisitorial pressure — suggesting that inquisitors found genuine popular material that they then demonized rather than simply inventing the sabbath wholesale. The debate remains unresolved and continues in work by Pócs, Wilby, and others who find evidence for popular shamanistic traditions underlying sabbath-like beliefs. Kieckhefer's response is that even where popular traditions existed, the specific structure of the cumulative concept (pact, apostasy, conspiracy) was a learned addition that transformed popular magic-fear into a prosecution ideology capable of generating mass trials.",
+    "source_method": "Published scholarship and critical historiographical reconstruction",
+    "review_status": "DRAFT",
+    "confidence": "HIGH",
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
+  },
+  {
     "id": "klaits-joseph-b1942",
     "name": "Joseph Klaits",
     "birth_year": 1942,
@@ -9267,77 +9517,105 @@ window.SCHOLARS = [
     "id": "macfarlane-alan-b1941",
     "name": "Alan Macfarlane",
     "birth_year": 1941,
-    "death_year": null,
-    "birth_place": "United Kingdom",
-    "academic_discipline": "Social Anthropology",
-    "primary_institution": "University of Cambridge",
-    "specialization": "Quantitative methods in witchcraft history; Essex county study; guilt/charity-refused mechanism",
+    "birth_place": "India",
+    "academic_discipline": "Social Anthropology and History",
+    "primary_institution": "University of Cambridge (King's College)",
+    "specialization": "English witchcraft, Essex assize records, quantitative social history, social anthropology applied to early modern history",
     "major_works": [
       {
-        "title": "Witchcraft in Tudor and Stuart England",
+        "title": "Witchcraft in Tudor and Stuart England: A Regional and Comparative Study",
         "year": 1970,
-        "publisher": "Routledge",
-        "significance": "First major quantitative study of English witchcraft using county records; developed guilt-projection mechanism and pioneered database methods in witchcraft history",
-        "database_entry": "macfarlane-witchcraft-tudor-stuart-1970"
+        "publisher": "Routledge and Kegan Paul",
+        "significance": "First rigorous quantitative study of Essex assize court witchcraft records; established the micro-regional approach and the charity-refusal model; revised second edition 1999 with new introduction"
       },
       {
-        "title": "The Origins of English Individualism",
+        "title": "The Origins of English Individualism: The Family, Property and Social Transition",
         "year": 1978,
         "publisher": "Blackwell",
-        "significance": "Broader social history framework arguing for early English individualism; contextualizes witchcraft within changing community structures",
-        "database_entry": null
+        "significance": "Contextualizes witchcraft within the broader transformation of English social structure; argues English individualism preceded and shaped both witchcraft belief and its decline"
+      },
+      {
+        "title": "The Culture of Capitalism",
+        "year": 1987,
+        "publisher": "Blackwell",
+        "significance": "Extends social-anthropological framework to explain English social change in which witchcraft prosecutions were embedded"
+      },
+      {
+        "title": "The Riddle of the Modern World",
+        "year": 2000,
+        "publisher": "Palgrave",
+        "significance": "Broad comparative social anthropology; contains retrospective assessment of his witchcraft work within comparative framework"
       }
     ],
-    "historiographical_position": "SOCIAL HISTORY",
-    "core_argument": "English witchcraft accusations were generated by the guilt-projection mechanism: as community bonds weakened under early capitalism and individualism, householders who refused charity to poor neighbors and subsequently suffered misfortune projected guilt onto the refused neighbor as a witch. The 'crime' of witchcraft was effectively a crime of accusation, driven by the accuser's psychological need.",
+    "historiographical_position": "SOCIAL_HISTORY",
+    "core_argument": "Macfarlane's 1970 study of Essex assize records was the first systematic quantitative examination of English witchcraft prosecution. His method was explicitly anthropological: he approached the Essex records as a field anthropologist would approach a living society, asking what social functions witchcraft accusations served and what structural conditions produced them. His conclusions closely paralleled Keith Thomas's (both published around the same time, developing their arguments independently): witchcraft accusations arose primarily from disputes between neighbors in the context of charity refusal. A poor woman — overwhelmingly elderly, widowed, and economically marginal — would approach a more prosperous neighbor to beg for food, drink, or small charity. The neighbor refused. When misfortune followed — a child sickened, livestock died, butter failed to churn — the refuser accused the woman of witchcraft. The mechanism was psychologically and socially compelling: the accuser transferred their own guilt about the refusal onto the accused, and the accused person's visible displeasure (a curse muttered under her breath) provided the proximate cause for the accusation. Macfarlane's contribution was to ground this social analysis in meticulous quantitative data. He found that Essex prosecutions were overwhelmingly female (over 90%), concentrated among older women, and clustered in neighborhoods with particular patterns of poverty and social tension. The geographic specificity of his Essex focus allowed him to demonstrate the community-level dynamics that Thomas's broader survey could only assert. Macfarlane also noted that the same social conditions that produced accusations — the breakdown of traditional communal obligations of charity as England moved toward a market economy — help explain the timing and distribution of prosecutions. As England moved from a society based on communal obligation to one based on contractual individualism, the moral weight of the refused beggar became intolerable.",
     "methodological_approach": {
-      "primary_materials": "Essex assize and quarter sessions records, church court records, county-level trial documentation from 1560-1680",
-      "analysis_target": "Social characteristics of accusers and accused; timing and pattern of accusations; community economic relationships",
-      "evidence_type": "Quantitative statistical analysis of trial records; social anthropological comparison with African witchcraft beliefs (Evans-Pritchard)",
-      "explanatory_level": "Community-level: social-structural changes enabling guilt projection"
+      "primary_materials": "Essex assize court records 1560–1680; quarter sessions records; Church of England ecclesiastical court records for Essex",
+      "analysis_target": "Quantitative distribution and social context of witchcraft accusations at the community level",
+      "evidence_type": "Court records systematically analyzed for accused demographics, accuser–accused relationships, and social context of accusations",
+      "explanatory_level": "Community social dynamics, neighbor relations, and the structural tensions of economic transition"
     },
     "key_contributions": [
       {
-        "concept": "Guilt-charity-refusal mechanism",
-        "claim": "Accusers typically were wealthier than accused; they had refused charity and felt guilty; subsequent misfortune was attributed to the beggar's curse",
-        "implication": "Witchcraft accusation was psychologically driven by the accuser, not evidence of the accused's malice"
+        "concept": "First quantitative micro-regional study",
+        "claim": "By systematically analyzing all recoverable Essex witchcraft cases, Macfarlane established the quantitative profile of English prosecution: overwhelmingly female, concentrated among older women, rooted in neighbor disputes. This provided the empirical foundation for the social interpretation of English witchcraft.",
+        "implication": "Witchcraft prosecution in England had a distinctive social signature that demanded social explanation rather than purely intellectual or theological analysis."
       },
       {
-        "concept": "Quantitative methods in witchcraft history",
-        "claim": "Statistical analysis of county-level records can reveal structural patterns invisible in individual case studies",
-        "implication": "Established a methodological template for database-driven witchcraft history (later developed by Goodare's Scottish survey)"
+        "concept": "Charity refusal mechanism (independent development)",
+        "claim": "Developing independently of Keith Thomas (both published in 1970–71), Macfarlane documented the same charity-refusal pattern in Essex records: accusers were typically wealthier neighbors who had refused charity to poorer women and then suffered misfortune.",
+        "implication": "The convergence of Thomas's survey and Macfarlane's micro-regional study on the same mechanism provided powerful confirmation of the social interpretation and established it as the dominant account of English witchcraft."
       },
       {
-        "concept": "Comparison with African witchcraft",
-        "claim": "Evans-Pritchard's analysis of Azande witchcraft provides analytical models applicable to European historical cases",
-        "implication": "Social anthropology and history can productively collaborate on witchcraft analysis"
+        "concept": "Anthropological method applied to historical records",
+        "claim": "Macfarlane treated historical records as an anthropologist would treat ethnographic evidence — asking functional and structural questions about the social role of belief — demonstrating that social anthropology's toolkit could illuminate historical communities.",
+        "implication": "Established the legitimacy and productivity of anthropological approaches in early modern history, influencing a generation of historians to borrow concepts from Evans-Pritchard, Turner, and Douglas."
+      },
+      {
+        "concept": "Transition from communal to individualist social structure",
+        "claim": "Witchcraft accusations peaked during the transition from an older communal-obligation economy to a more individualist market economy. The moral tension inherent in refusing charity — violating communal norms while acting in one's economic interest — generated the guilt that witchcraft accusations resolved.",
+        "implication": "Witchcraft prosecution was a symptom of a specific moment in English social transformation, helping to explain why prosecution peaked in the late 16th and 17th centuries and declined thereafter."
       }
     ],
     "scholarly_relationships": {
       "alignment_with": [
-        "thomas-keith-b1933",
-        "briggs-robin-b1942"
+        "Keith Thomas (parallel independent conclusions; mutual reinforcement on charity-refusal model)",
+        "Robin Briggs (community-level social analysis)",
+        "Ronald Hutton (social history of practitioners and accusation dynamics)"
       ],
       "creative_tension_with": [
-        "clark-stuart-b1943",
-        "barstow-anne-llewellyn-b1936"
+        "Stuart Clark (Macfarlane's social-function explanation contrasts with Clark's intellectual-history approach)",
+        "Carlo Ginzburg (Ginzburg's microhistory of individual agency contrasts with Macfarlane's aggregate social analysis)",
+        "Feminist historians who argue Macfarlane's quantitative framework insufficiently theorizes gender"
       ]
     },
     "reception_and_critique": {
-      "major_influences": "E.E. Evans-Pritchard (social anthropology of witchcraft), Keith Thomas, quantitative social history methods",
+      "major_influences": "Witchcraft in Tudor and Stuart England established the micro-regional quantitative approach that influenced subsequent English witchcraft scholarship. The charity-refusal model, confirmed independently by Thomas, became the standard account of English witchcraft and was adopted by James Sharpe, Robin Briggs (adapting it for Lorraine), and many others.",
       "criticisms": [
-        "Charity-refused thesis critiqued as too schematic; cases do not always fit the pattern",
-        "Essex focus may not generalize beyond England",
-        "Insufficient attention to gender as explanatory factor",
-        "Anthropological comparison with Azande seen as potentially misleading by some historians"
+        "Critics questioned whether the Essex sample was representative of England more broadly — Essex was a particularly litigious and Puritan county, and its prosecution patterns may not generalize",
+        "The charity-refusal model has been challenged as incomplete: it explains the accusation mechanism but not why particular women were targeted or why male suspects also faced prosecution",
+        "Some historians argued Macfarlane's social-function approach risks treating beliefs as mere epiphenomena of social tensions rather than taking their intellectual content seriously",
+        "Later work on Continental witchcraft demonstrated that the charity-refusal model did not translate cleanly to other regional contexts, raising questions about English exceptionalism"
       ]
     },
-    "historiographical_significance": "Macfarlane's Essex study pioneered quantitative methods in witchcraft history and established the guilt-projection mechanism as a major explanatory framework. Working alongside Keith Thomas, he helped define the social history approach to English witchcraft that dominated the field for a generation. His database methodology directly influenced later digital humanities approaches to witchcraft records.",
+    "geographical_focus": [
+      "England",
+      "Essex"
+    ],
+    "chronological_focus": "1560–1680 (Essex records); broader early modern period",
+    "influence_on_field": "MAJOR",
+    "notable_debates": [
+      "Essex exceptionalism: was the county representative of English witchcraft or a particular regional variant?",
+      "Social function vs. intellectual content: does Macfarlane's anthropological approach reduce belief to social utility at the cost of taking it seriously as thought?",
+      "Charity refusal universality: how widely applicable is the model across different regional and national contexts?"
+    ],
+    "legacy_status": "Fellow of the British Academy; elected 1986. Witchcraft in Tudor and Stuart England remains a founding text of English witchcraft historiography and a model of social-anthropological historical method.",
+    "scholarly_disagreement": "Stuart Clark's intellectual-history approach is the most sustained challenge to Macfarlane's social-functional framework: Clark argues that explaining witchcraft belief as a social mechanism does not explain why people genuinely believed in it as a description of reality. The social conditions generating accusations might be the same whether or not witchcraft was real, but demonologists thought it was real and acted on that belief for reasons that were intellectual, not merely social. More recently, feminist historians have argued that neither Macfarlane nor Thomas adequately accounts for the specifically gendered construction of the witch as female — the social-function explanation treats gender as a demographic variable rather than a cultural category requiring analysis in its own right.",
     "source_method": "Published scholarship and critical historiographical reconstruction",
     "review_status": "DRAFT",
     "confidence": "HIGH",
-    "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
   },
   {
     "id": "midelfort-erik-b1942",
@@ -9622,79 +9900,220 @@ window.SCHOLARS = [
     "last_modified": "2026-05-27"
   },
   {
+    "id": "pocs-eva-b1936",
+    "name": "Éva Pócs",
+    "birth_year": 1936,
+    "birth_place": "Hungary (approximate)",
+    "academic_discipline": "Ethnography and Cultural History",
+    "primary_institution": "University of Pécs, Hungary",
+    "specialization": "East Central European witchcraft, Hungarian witch trials, shamanism and fairy beliefs, folk religion, mediation between living and dead",
+    "major_works": [
+      {
+        "title": "Between the Living and the Dead: A Perspective on Witches and Seers in the Early Modern Age",
+        "year": 1999,
+        "publisher": "Central European University Press",
+        "significance": "Major synthetic argument that witch beliefs in East Central Europe preserved archaic structures of mediation between living and dead; argues that mediators (seers, cunning folk, shamans) were reinterpreted as witches under demonological pressure; connects Ginzburg's shamanism thesis to Hungarian and Balkan evidence"
+      },
+      {
+        "title": "Fairies and Witches at the Boundary of South-Eastern and Central Europe",
+        "year": 1989,
+        "publisher": "FFC Communications (Helsinki)",
+        "significance": "Detailed comparative study of fairy and witch beliefs in the boundary zone between South-Eastern and Central Europe; documents the overlapping and contested categories of fairy-associated beneficent seers and maleficent witches"
+      },
+      {
+        "title": "Witchcraft Mythologies and Persecutions (editor, multi-volume)",
+        "year": "2008–ongoing",
+        "publisher": "Central European University Press",
+        "significance": "Major edited series bringing together East European scholarship on witchcraft mythology and prosecution; provides comparative data for the region largely inaccessible to Western scholars; essential resource for scholars of East Central European witchcraft"
+      },
+      {
+        "title": "Magyar néphit Közép-Európa határán [Hungarian Folk Belief at the Boundary of Central Europe]",
+        "year": 1986,
+        "publisher": "Akadémiai Kiadó",
+        "significance": "Comprehensive ethnographic survey of Hungarian folk belief; foundation for subsequent comparative work on East Central European magic and witchcraft"
+      }
+    ],
+    "historiographical_position": "ANTHROPOLOGICAL_HISTORY",
+    "core_argument": "Pócs's central argument is that East Central European witch beliefs — particularly the witch trial evidence from Hungary, the Balkans, and neighboring regions — preserved archaic belief structures centered on the mediation between the worlds of the living and the dead. In pre-modern East Central European societies, certain individuals were believed to possess the ability to cross the boundary between living and dead: they could see and communicate with the spirits of the deceased, travel to the land of the dead in dreams or trances, and return with knowledge or healing power. These mediators — known by various regional terms: táltosok in Hungary, benandanti in Italy, kresniki in Slovenia, calusari in Romania — were ambivalent figures: potentially beneficial (they could counter witchcraft, retrieve lost souls, heal illness, or predict the future) but also potentially dangerous (their power to cross boundaries could be turned toward harm). Pócs argues that this mediator tradition was systematically reinterpreted under demonological pressure as demonic witchcraft: the seer who communicated with the dead became the witch who commanded demons; the healer who fought witchcraft in dream-trance became the witch who flew to the sabbath; the ambivalent boundary-crosser was forced into the unambiguous category of devil-worshipper. This reinterpretation was not uniform or instantaneous but occurred through generations of judicial and ecclesiastical pressure that gradually pushed local mediator traditions into the demonological framework. Pócs's work is thus the most comprehensive extension of Carlo Ginzburg's shamanism argument. Ginzburg had documented the benandanti of Friuli as an instance of shamanic tradition reinterpreted as witchcraft and had argued in Ecstasies (1989) that similar traditions underlay the witch trial evidence more broadly. Pócs provides the Hungarian and East Central European comparanda that Ginzburg's argument requires: she documents that the region between Western and Eastern Europe preserved shamanic traditions (particularly the táltosok, shamanistic practitioners who fought demonic forces in ecstatic battle) that paralleled the benandanti and that were similarly reinterpreted under Christianized demonological pressure. Her ethnographic training — she approaches historical evidence as an ethnographer would approach field data — allows her to identify structural parallels between historically documented practices and anthropologically recorded traditions in ways that professional historians, working primarily with textual sources, might miss. The multi-volume Witchcraft Mythologies and Persecutions series that Pócs edits and largely drives has been instrumental in making East Central European scholarship accessible to Western researchers, who had previously worked primarily from Western and Central European sources and may have underestimated the regional variation and theoretical richness of East European witchcraft studies.",
+    "methodological_approach": {
+      "primary_materials": "Hungarian witch trial records (primarily 18th century, with earlier evidence); Balkan and East Central European ethnographic surveys; comparative folkloric literature; 19th–20th century folk belief documentation used as evidence for earlier practices",
+      "analysis_target": "The structural patterns of mediator-beliefs in East Central Europe; the process of demonological reinterpretation; comparative parallels with shamanic traditions",
+      "evidence_type": "Ethnographic analysis of folk belief systems; comparative structural analysis across regions and periods; historical trial records read against ethnographic background",
+      "explanatory_level": "Structural analysis of belief systems; identification of pre-Christian substrates; process of demonological reinterpretation"
+    },
+    "key_contributions": [
+      {
+        "concept": "Mediator tradition as witch belief substrate",
+        "claim": "The core of East Central European witch belief was a tradition of human mediators between the living and the dead. These mediators — ambivalent, powerful, liminal — were the real human beings reinterpreted as witches under demonological pressure. The witch emerged from the mediator, not from popular fear of maleficium alone.",
+        "implication": "Understanding East Central European witch trials requires recovering the mediator tradition that preceded and fed into demonological reinterpretation; accused witches were often genuine practitioners within the local cultural system, not simply scapegoats."
+      },
+      {
+        "concept": "Hungarian táltos as shamanic figure",
+        "claim": "The Hungarian táltos — a specially-born individual with shamanic powers, who fought supernatural battles in ecstatic trance to protect the community — preserves a genuine shamanic tradition parallel to Ginzburg's benandanti. The reinterpretation of táltos power as diabolical under Christianization produced distinctive patterns in Hungarian witch trial confessions.",
+        "implication": "Ginzburg's shamanism thesis, documented primarily from Italian evidence, finds direct corroboration in the Hungarian material; the thesis is not an inference from a single regional case but a pattern across multiple distinct traditions."
+      },
+      {
+        "concept": "Comparative East Central European framework",
+        "claim": "The region between Western and Eastern Europe — Hungary, the Balkans, Slovenia, Romania, and neighboring areas — constitutes a distinctive zone for witchcraft history, preserving belief structures archaic relative to the fully Christianized West. Comparison within this zone reveals structural patterns invisible when each nation is studied in isolation.",
+        "implication": "Western European-centered witchcraft historiography misses the comparative dimension that East Central European scholarship provides; Pócs's work opens the comparative field that Ginzburg's thesis requires."
+      },
+      {
+        "concept": "Fairy and witch beliefs as overlapping systems",
+        "claim": "Fairy belief and witch belief in South-Eastern and Central Europe were not separate categories but overlapping systems organized around a shared concern with dangerous supernatural contact and the management of spiritual power. The beings described in fairy lore and the beings described in witch beliefs shared structural features and were sometimes identified with each other.",
+        "implication": "Witch belief cannot be studied in isolation from the broader supernatural ecology of the culture; understanding what people feared in witches requires understanding the full range of supernatural beings they recognized."
+      }
+    ],
+    "scholarly_relationships": {
+      "alignment_with": [
+        "Carlo Ginzburg (shamanism thesis; mediator tradition; reading confessions against the grain for genuine folk content)",
+        "Emma Wilby (British parallel for shamanic familiar-spirit traditions)",
+        "Gustav Henningsen (comparative approach to Southern and East European witchcraft)"
+      ],
+      "creative_tension_with": [
+        "Richard Kieckhefer (Kieckhefer's constructionist account of the sabbath contrasts with Pócs's evidence for genuine popular traditions underlying it)",
+        "Norman Cohn (Cohn argued the sabbath was entirely a learned construction; Pócs provides counter-evidence)",
+        "Western European-focused historians who generalize from French, German, or English patterns"
+      ]
+    },
+    "reception_and_critique": {
+      "major_influences": "Between the Living and the Dead is the essential text for East Central European witchcraft and provides the most comprehensive empirical support for Ginzburg's shamanism thesis. The Witchcraft Mythologies and Persecutions series has been transformative in making Hungarian and East European scholarship accessible to Western researchers.",
+      "criticisms": [
+        "The use of 19th–20th century ethnographic evidence as a window onto early modern belief structures is methodologically contested; folk beliefs may have changed substantially in the intervening centuries",
+        "Some historians question whether structural parallels between East Central European traditions and Siberian shamanism constitute evidence of historical connection or merely typological similarity",
+        "Ronald Hutton expressed measured skepticism about the shamanism thesis even as applied to British evidence; by extension, the East European case, while more compelling, faces similar methodological challenges",
+        "The accessibility barrier (much of Pócs's foundational work was originally in Hungarian) meant that her scholarship was slower to influence Western debates than its quality warranted"
+      ]
+    },
+    "geographical_focus": [
+      "Hungary",
+      "East Central Europe",
+      "the Balkans",
+      "broadly comparative"
+    ],
+    "chronological_focus": "Early modern period (16th–18th century witch trials) with comparative attention to medieval and modern ethnographic evidence",
+    "influence_on_field": "MAJOR",
+    "notable_debates": [
+      "Shamanism thesis: does East Central European evidence confirm Ginzburg's argument, or do regional specific differences complicate comparison?",
+      "Continuity of folk belief: can 19th–20th century ethnographic evidence reliably illuminate early modern belief?",
+      "Mediator vs. witch: how did the transition from respected mediator to prosecuted witch occur in specific social and legal contexts?"
+    ],
+    "legacy_status": "Definitive authority on Hungarian and East Central European witchcraft; instrumental in internationalizing the field by making East European scholarship accessible; co-organizer of major international witchcraft research projects centered at Budapest and Vienna.",
+    "scholarly_disagreement": "The central methodological debate around Pócs's work concerns the evidentiary status of the shamanism thesis. Critics, including Kieckhefer from the constructionist direction and Hutton from cautious empiricism, question whether the structural parallels Pócs identifies between East Central European mediator traditions and shamanism in other cultures establish historical genealogy or merely typological similarity. The question is whether the belief patterns Pócs documents are survivals of ancient shamanic practice or convergent developments that arose independently in multiple cultures under similar social conditions. Pócs argues for historical continuity based on the specificity and persistence of documented traditions; critics argue the parallels are too generic to bear this interpretive weight. A separate debate concerns the use of later ethnographic evidence to reconstruct early modern belief: even if 19th-century Hungarian folk belief documented shamanic-type traditions, this does not automatically establish that similar traditions existed in the 16th or 17th centuries in the same form. The temporal gap may conceal substantial transformation.",
+    "source_method": "Published scholarship and critical historiographical reconstruction",
+    "review_status": "DRAFT",
+    "confidence": "HIGH",
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
+  },
+  {
     "id": "purkiss-diane-b1961",
     "name": "Diane Purkiss",
     "birth_year": 1961,
-    "death_year": null,
-    "birth_place": "Australia",
+    "birth_place": "England (approximate)",
     "academic_discipline": "Literary and Cultural History",
-    "primary_institution": "University of Oxford",
-    "specialization": "Representations of witchcraft in literature and culture; challenge to feminist victimhood narratives; how women used witch identity",
+    "primary_institution": "Keble College, Oxford (Fellow and Tutor in English Literature)",
+    "specialization": "Feminist analysis of witchcraft, literary representations of witches, gender and witch narratives, early modern literature and culture, fairy tradition",
     "major_works": [
       {
         "title": "The Witch in History: Early Modern and Twentieth-Century Representations",
         "year": 1996,
         "publisher": "Routledge",
-        "significance": "Literary-cultural analysis of witch representations; challenged feminist narratives of witchcraft as victim history; examined how witch identity was used by women themselves",
-        "database_entry": null
+        "significance": "Critical analysis of witchcraft representations from both early modern and 20th-century feminist perspectives; contains influential critique of feminist historians who romanticized witches; argues that witch narratives were shaped by women's own anxieties, not merely by male persecution"
+      },
+      {
+        "title": "At the Bottom of the Garden: A Dark History of Fairies, Hobgoblins and other Troublesome Things",
+        "year": 2000,
+        "publisher": "New York University Press",
+        "significance": "Cultural history of fairy belief from early modern period to the present; contextualizes witchcraft belief within broader culture of supernatural encounter"
+      },
+      {
+        "title": "Literature, Gender and Politics during the English Civil War",
+        "year": 2005,
+        "publisher": "Cambridge University Press",
+        "significance": "Extends analysis of gender and political representation into Civil War literature; demonstrates mastery of the full early modern literary field"
+      },
+      {
+        "title": "The English Civil War: A People's History",
+        "year": 2006,
+        "publisher": "HarperCollins",
+        "significance": "Popular accessible synthesis of Civil War history; shows breadth beyond witchcraft specifically"
       },
       {
         "title": "Troublesome Things: A History of Fairies and Fairy Stories",
         "year": 2000,
         "publisher": "Allen Lane",
-        "significance": "Extension of cultural history methodology to fairy beliefs; relevant to overlap between fairy and witch traditions",
-        "database_entry": null
+        "significance": "Companion volume tracing fairy tradition in English literature and culture"
       }
     ],
-    "historiographical_position": "INTELLECTUAL HISTORY",
-    "core_argument": "Feminist narratives that treat accused witches purely as innocent victims of patriarchal persecution suppress the agency and complexity of women who were accused or who used witch identity. Witch representations in culture served multiple purposes, including allowing women to articulate anxieties about domestic life, childbirth, and social marginalization. Stories told about witches were not straightforwardly imposed from above but negotiated in complex ways.",
+    "historiographical_position": "FEMINIST_CULTURAL_HISTORY",
+    "core_argument": "Purkiss's most influential intervention in witchcraft historiography is her critique of an earlier feminist tradition that celebrated accused witches as proto-feminist rebels against patriarchal persecution. Historians and writers in the 1970s and 1980s — drawing on a tradition that included Matilda Joslyn Gage and Barbara Ehrenreich — argued that the witch hunt was fundamentally a campaign of male violence against independent women, that accused witches were often midwives or healers systematically targeted by the medical establishment, and that the witch represented a figure of female power suppressed by patriarchy. Purkiss dismantled these claims on two grounds. First, the historical evidence did not support them: accused witches were not disproportionately midwives, the charges against them were not primarily about healing or reproductive knowledge, and the hunt was not primarily organized by male-dominated medicine. Second, and more importantly, the feminist romanticization of witches was itself a form of distortion that served modern political purposes rather than historical understanding. It reconstructed the witch as a figure of female empowerment, ignoring that the historical witch was primarily a figure of female anxiety — a bad mother who murdered children, an envious neighbor who poisoned cattle, a woman whose malice threatened the community. Purkiss argued that the witch stories told in trials often reflected women's own fears about failing as mothers, wives, and neighbors — anxieties about inadequate mothering externalized as the witch who killed children; fears about failed community reciprocity projected onto the malicious neighbor. Women were not only victims of witch-hunting but active participants in its narratives, both as accusers and as women whose internal conflicts shaped the confessions they gave. This does not minimize the violence of prosecution, but it complicates the simple narrative of male persecution of female power. Purkiss's approach is primarily literary and narrative: she reads witch trial depositions as texts shaped by genre conventions and cultural fantasies, not as transparent windows onto social reality. This literary sensibility connects her to cultural history approaches and distinguishes her from social historians who read the same documents for demographic or functional information.",
     "methodological_approach": {
-      "primary_materials": "Witch pamphlets, drama, literary texts, trial narratives from England; twentieth-century representations of witchcraft",
-      "analysis_target": "Narrative structures and representational strategies in witch texts; how accused women's voices appear in trial records; modern uses of witch history",
-      "evidence_type": "Literary close reading; narrative analysis; cultural history of representations",
-      "explanatory_level": "Cultural-representational: meaning-making and narrative agency in witch discourse"
+      "primary_materials": "Witch trial depositions and pamphlet literature read as literary texts; early modern representations of witchcraft in drama, poetry, and prose; 20th-century feminist writing about witchcraft",
+      "analysis_target": "The narrative structures, gender anxieties, and cultural fantasies embedded in witchcraft representations both historical and modern",
+      "evidence_type": "Literary analysis of texts; deconstruction of historiographical traditions; feminist theory applied to historical sources",
+      "explanatory_level": "Cultural narrative, gender anxiety, representational analysis"
     },
     "key_contributions": [
       {
-        "concept": "Challenge to feminist victimhood narrative",
-        "claim": "Reading accused witches as simple victims of patriarchal persecution erases their complexity and agency; women participated in witchcraft discourse in multiple ways",
-        "implication": "Feminist history of witchcraft needs more nuanced models of agency and complicity"
+        "concept": "Critique of feminist romanticism",
+        "claim": "Feminist historians and writers who celebrated accused witches as rebels against patriarchy misread both the historical evidence and the nature of witch narratives. Accused witches were not primarily midwives, the persecution was not primarily organized by male medicine, and the witch figure in trial depositions expressed female anxieties rather than female power.",
+        "implication": "Feminist analysis of witchcraft must begin from what the historical sources actually say rather than what modern politics requires; the witch was not a feminist heroine but a figure through which multiple anxieties — including women's own — were expressed and managed."
       },
       {
-        "concept": "Witch as domestic fantasy",
-        "claim": "Witch stories articulated anxieties around domestic roles, especially motherhood, food, and household authority; the witch figure expressed what could not be said directly",
-        "implication": "Cultural analysis of witch discourse reveals the psychic pressures of early modern domestic life"
+        "concept": "Witch narratives as sites of gender anxiety",
+        "claim": "Witch trial depositions and confessions were shaped by deep cultural anxieties about gender, particularly about motherhood and bodily control. The witch as child-murderer, milk-stealer, and sexual transgressor encoded fears about women who failed in their expected social roles, fears that women as well as men held.",
+        "implication": "Witch trial evidence cannot be read as a record of real practice or real persecution without also reading it as a record of cultural fantasy; the narrative form of witchcraft accusations was as important as their social context."
       },
       {
-        "concept": "Modern appropriations of witch history",
-        "claim": "Twentieth-century feminist and Wiccan appropriations of witch history create their own mythologies that distort historical understanding",
-        "implication": "The historiography of witchcraft is itself a cultural artifact to be analyzed"
+        "concept": "Women as active participants in witch-hunt narratives",
+        "claim": "Women were not simply victims of male persecution in witchcraft trials; they were accusers, witnesses, and confessors whose own anxieties and conflicts shaped the narratives. Female accusers transferred their own fears onto accused witches; female confessors gave confessions that expressed genuine psychic conflicts.",
+        "implication": "Gender analysis of witchcraft must be more complex than a perpetrator/victim binary; women's active role in generating and sustaining witch-hunt narratives is historically significant."
+      },
+      {
+        "concept": "Literary approach to trial documents",
+        "claim": "Witch trial depositions and confessions were not transparent records of events but texts shaped by genre conventions, judicial expectations, and cultural narratives. Reading them requires literary analysis as much as historical contextualisation.",
+        "implication": "Social historians who read trial documents for social or functional information without attention to narrative structure risk misreading what the documents are doing."
       }
     ],
     "scholarly_relationships": {
       "alignment_with": [
-        "roper-lyndal-b1956",
-        "de-blecourt-willem-b1956"
+        "Lyndal Roper (gender-focused analysis; attention to psychological and bodily dimensions of witchcraft)",
+        "Robin Briggs (skepticism about simple persecution narratives)",
+        "Stuart Clark (taking textual/intellectual content of witchcraft seriously)"
       ],
       "creative_tension_with": [
-        "barstow-anne-llewellyn-b1936",
-        "murray-margaret-1863-1963"
+        "Early feminist historians (Gage, Ehrenreich, Daly) who romanticized accused witches as feminist heroes",
+        "Social historians (Thomas, Macfarlane) who read trial documents for social functions without narrative analysis",
+        "Ronald Hutton (Hutton's practitioner-centered approach differs from Purkiss's narrative analysis)"
       ]
     },
     "reception_and_critique": {
-      "major_influences": "Literary theory (new historicism, feminist literary criticism); cultural history; psychoanalytic narrative theory",
+      "major_influences": "The Witch in History significantly changed how feminist historians approached witchcraft, redirecting analysis from victim-centered narratives toward analysis of narrative structure and gendered anxiety. It remains required reading for anyone applying feminist frameworks to witchcraft history.",
       "criticisms": [
-        "Some historians argue the literary approach loses sight of the material reality of persecution",
-        "The critique of feminist victimhood narrative sometimes reads as dismissive of genuine gendered violence",
-        "Primarily English-language sources limit comparative claims"
+        "Some feminist historians argued Purkiss's critique of feminist romanticism, while valid as criticism, risked delegitimizing feminist analysis of witchcraft altogether — the solution to bad feminist history is not less feminist history",
+        "Critics questioned whether Purkiss's literary approach, while illuminating the narrative structure of trial documents, neglects the social and material realities of persecution",
+        "Some argued that acknowledging women's participation in witch-hunt narratives risks minimizing the genuine misogyny of the institutional witch-hunt",
+        "The scope of the 'feminist romanticism' she critiques has been questioned — how representative was the position she attacked?"
       ]
     },
-    "historiographical_significance": "Purkiss introduced literary and cultural theory into witchcraft historiography in a sustained and rigorous way, opening analysis of how witch narratives functioned culturally beyond their evidential content. Her challenge to feminist victimhood narratives stimulated productive debate about agency and representation. Her work on modern representations provided self-reflexive tools for examining how witchcraft history has been used by later cultural movements.",
+    "geographical_focus": [
+      "England",
+      "broadly European and North American"
+    ],
+    "chronological_focus": "1500–1700 (early modern), with attention to 20th-century representations",
+    "influence_on_field": "MAJOR",
+    "notable_debates": [
+      "Was the witch hunt primarily a campaign against women, or a more complex social phenomenon in which gender was one factor among many?",
+      "The status of feminist history of witchcraft: does Purkiss's critique point toward better feminist analysis or away from feminist analysis?",
+      "Literary vs. social approaches: can trial documents be read simultaneously as narrative texts and social evidence?"
+    ],
+    "legacy_status": "The Witch in History is the essential reference point for feminist analysis of witchcraft historiography; Purkiss is among the most cited scholars in the cultural history of witchcraft.",
+    "scholarly_disagreement": "Purkiss's critique of feminist romanticism was itself critiqued from two directions. Some feminist scholars argued that she set up an extreme position (the witch-as-feminist-hero) as her target and that serious feminist historiography had already moved beyond it by 1996; others argued that her focus on women's anxieties and participation in witch narratives risked a form of victim-blaming that minimized systematic male violence. Lyndal Roper's psychoanalytic approach to witchcraft shares Purkiss's commitment to gender analysis but reaches different conclusions about the nature of the anxieties involved — for Roper, the fantasies expressed in witch trial confessions had deep bodily and psychosexual dimensions that Purkiss's narrative analysis does not fully account for. Social historians like Thomas and Macfarlane, while not engaging directly with Purkiss's feminist framework, provide an implicit counter-argument: if witchcraft accusations followed the social pattern of charity-refusal between neighbors, gender was a demographic fact about accusation patterns rather than the primary cultural driver.",
     "source_method": "Published scholarship and critical historiographical reconstruction",
     "review_status": "DRAFT",
     "confidence": "HIGH",
-    "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
   },
   {
     "id": "roper-lyndal-b1956",
@@ -9819,6 +10238,115 @@ window.SCHOLARS = [
     "last_modified": "2026-05-28"
   },
   {
+    "id": "sharpe-james-b1945",
+    "name": "James Sharpe",
+    "birth_year": 1945,
+    "birth_place": "England (approximate)",
+    "academic_discipline": "Early Modern History",
+    "primary_institution": "University of York (Emeritus Professor of History)",
+    "specialization": "English witchcraft, crime history, early modern social history, the Hopkins witch-hunt of 1645–47",
+    "major_works": [
+      {
+        "title": "Instruments of Darkness: Witchcraft in Early Modern England",
+        "year": 1996,
+        "publisher": "Hamish Hamilton (UK) / University of Pennsylvania Press (US)",
+        "significance": "Comprehensive synthesis of English witchcraft history from the medieval period through the 18th century; documents the distinctively English pattern of community-driven prosecution and contrasts it with Continental mass-panic model; essential reading for English witchcraft"
+      },
+      {
+        "title": "Crime in Early Modern England 1550–1750",
+        "year": 1984,
+        "publisher": "Longman",
+        "significance": "Standard social history of crime in early modern England; contextualizes witchcraft within broader patterns of criminal prosecution, community justice, and state formation"
+      },
+      {
+        "title": "Early Modern England: A Social History 1550–1750",
+        "year": 1987,
+        "publisher": "Edward Arnold",
+        "significance": "Textbook synthesis of early modern English social history; situates witchcraft within the full social context of the period"
+      },
+      {
+        "title": "The Bewitching of Anne Gunter: A Horrible and True Story of Football, Witchcraft, Murder and the King's Justice",
+        "year": 1999,
+        "publisher": "Profile Books",
+        "significance": "Microhistorical study of the 1604 Anne Gunter case; demonstrates the complexity of English witch accusation through close analysis of a single case involving fraudulent possession and royal intervention"
+      },
+      {
+        "title": "Dick Turpin: The Myth of the English Highwayman",
+        "year": 2004,
+        "publisher": "Profile Books",
+        "significance": "Popular history demonstrating range beyond witchcraft; but also shows engagement with how legal and criminal categories were culturally constructed"
+      }
+    ],
+    "historiographical_position": "SOCIAL_HISTORY",
+    "core_argument": "Sharpe's central contribution is a comprehensive account of English witchcraft that simultaneously documents the distinctively English pattern of prosecution and explains the exceptional episode that deviated from it. English witchcraft prosecution was, he argues, characteristically different from its Continental counterpart: prosecutions were relatively small-scale, driven primarily by popular community pressure rather than by elite ideological campaigns, involved relatively modest numbers of accused at any one time, and lacked the mass chain-denunciation pattern that produced hundreds of executions in parts of Germany, France, and Switzerland. English magistrates were generally skeptical, common law procedures made mass prosecution difficult (torture was restricted), and the assize court system created a series of institutional filters that prevented most accusations from reaching execution. The typical English witch case involved one or a few individuals accused by their neighbors of specific maleficium — the same charity-refusal pattern documented by Thomas and Macfarlane — prosecuted at the county assizes, and often acquitted or given lesser penalties. Sharpe demonstrates this English pattern not only by analyzing the prosecution statistics but by contextualizing them within English legal culture, popular attitudes toward witchcraft, and the social dynamics of accusation. The major exception to this English pattern was the Hopkins witch-hunt of 1645–47, when Matthew Hopkins and John Stearne, operating as self-styled 'Witch-finders General,' prosecuted somewhere between 200 and 300 people across the Eastern counties, of whom roughly 100 were executed — more than in the entire preceding century of English prosecution. Sharpe analyzes the Hopkins hunt as a product of exceptional circumstances: the collapse of central government authority during the Civil War, the particular religious anxieties of East Anglian Puritanism, and the deliberate exploitation of popular fears by Hopkins and Stearne for professional gain. The Hopkins hunt was not a natural intensification of English witchcraft prosecution but an aberration made possible by the specific conditions of the 1640s, and its rapid collapse once it faced legal scrutiny confirms its exceptional character. Sharpe also documents the slow transformation of English attitudes toward witchcraft in the later 17th century — the emergence of legal skepticism, the debates between believers and skeptics, and the gradual withdrawal of elite support from prosecution — arguing that this was a genuine cultural shift with multiple causes, not merely the triumph of Enlightenment reason.",
+    "methodological_approach": {
+      "primary_materials": "County assize records, quarter session records, pamphlet literature, educated commentary on witchcraft (Scot, James I, Webster, Glanvill), ecclesiastical court records",
+      "analysis_target": "The patterns of English witchcraft prosecution across the full early modern period; comparison with Continental patterns; exceptional episodes (Hopkins hunt)",
+      "evidence_type": "Quantitative analysis of prosecution records combined with qualitative analysis of case histories and elite commentary; social history of law and crime",
+      "explanatory_level": "Social dynamics of accusation, legal structure, popular culture, and exceptional historical circumstances"
+    },
+    "key_contributions": [
+      {
+        "concept": "Distinctively English pattern of prosecution",
+        "claim": "English witchcraft prosecution differed fundamentally from Continental mass prosecution in scale, social dynamics, and institutional context. English cases were typically small-scale, community-driven accusations processed through skeptical common law courts. The Continental pattern of mass chain-denunciation was largely absent from England.",
+        "implication": "English witchcraft history requires its own analytical framework; generalizations from Continental prosecution patterns do not automatically apply."
+      },
+      {
+        "concept": "Popular pressure driving elite prosecution",
+        "claim": "In England, popular community demand for prosecution typically preceded and drove elite judicial action, rather than the reverse. Magistrates were often reluctant participants who processed accusations generated by community dispute rather than active promoters of witch-hunting ideology.",
+        "implication": "English witchcraft prosecutions cannot be explained primarily by elite ideological campaigns; local community dynamics and the social tensions of neighbor relations were the primary drivers."
+      },
+      {
+        "concept": "Hopkins hunt as exceptional aberration",
+        "claim": "The 1645–47 Hopkins witch-hunt, with its approximately 100 executions, was a product of specific exceptional circumstances (Civil War collapse of authority, East Anglian Puritanism, deliberate professional exploitation) and not a normal intensification of English prosecution patterns.",
+        "implication": "The Hopkins hunt should not be generalized into the English pattern; its aberrant character is as historically significant as the hunt itself."
+      },
+      {
+        "concept": "Gradual withdrawal of elite support as explanation for decline",
+        "claim": "English prosecution declined in the later 17th century because educated men — magistrates, clergy, physicians — withdrew their credence from witchcraft accusations rather than because popular belief declined. The legal filter became increasingly hostile to conviction before popular belief changed.",
+        "implication": "The 'decline of magic' in England was primarily an elite and institutional process that preceded popular change; elite skepticism preceded popular skepticism."
+      }
+    ],
+    "scholarly_relationships": {
+      "alignment_with": [
+        "Keith Thomas (social history of English witchcraft; charitable refusal mechanism)",
+        "Alan Macfarlane (community-driven prosecution; quantitative English evidence)",
+        "Robin Briggs (community-based analysis; skepticism of simple persecution narratives)"
+      ],
+      "creative_tension_with": [
+        "Stuart Clark (Clark's intellectual history of Continental demonology is not Sharpe's primary framework for understanding English prosecution)",
+        "Continental-focused historians who generalize from German or French patterns to English experience",
+        "Feminist historians who see gender as the primary explanatory variable"
+      ]
+    },
+    "reception_and_critique": {
+      "major_influences": "Instruments of Darkness is the standard synthesis of English witchcraft history and remains the essential starting point for the field. Sharpe's analysis of the Hopkins hunt established the interpretive framework for that episode that subsequent scholars (including Malcolm Gaskill, who wrote the major modern biography of Hopkins) built on.",
+      "criticisms": [
+        "Some historians argued Sharpe's emphasis on the English pattern as sui generis risked understating connections between English and Continental prosecution, including the influence of James I's demonological interests",
+        "Feminist historians questioned whether Sharpe's social history framework adequately theorizes why women were overwhelmingly accused",
+        "The 'popular pressure driving elite prosecution' model has been challenged as insufficiently accounting for how elite ideological frameworks shaped what accusations were made possible",
+        "Some questioned whether the Hopkins hunt was truly as exceptional as Sharpe suggested or whether it revealed potential for mass prosecution latent in English conditions"
+      ]
+    },
+    "geographical_focus": [
+      "England"
+    ],
+    "chronological_focus": "1550–1750 (early modern England)",
+    "influence_on_field": "MAJOR",
+    "notable_debates": [
+      "English exceptionalism: how different was English witchcraft from Continental patterns, and how should the difference be explained?",
+      "The Hopkins hunt: aberration or revealing what was always latent in English prosecution?",
+      "Elite vs. popular dynamics: who drove English prosecution — community accusers or judicial promoters?"
+    ],
+    "legacy_status": "Emeritus Professor at York; Instruments of Darkness is the standard synthesis of English witchcraft; Sharpe is the leading authority on the Hopkins witch-hunt.",
+    "scholarly_disagreement": "The major challenge to Sharpe's account of English distinctiveness comes from historians who question whether the English pattern was as stable and uniform as he suggests. Research on specific English localities has suggested more regional variation than Instruments of Darkness acknowledges — some areas showed more intensive prosecution patterns that complicate the 'modest and community-driven' generalization. Stuart Clark's intellectual history provides an implicit counterpoint: Sharpe explains the English pattern primarily through social and legal dynamics without engaging deeply with the intellectual history of English demonology, which did have Continental connections through figures like James I, William Perkins, and Joseph Glanvill. Feminist historians including Purkiss and Roper argue that social history frameworks like Sharpe's, while powerful, underweight the specifically gendered dimensions of witch persecution, treating gender as a demographic variable rather than a cultural category.",
+    "source_method": "Published scholarship and critical historiographical reconstruction",
+    "review_status": "DRAFT",
+    "confidence": "HIGH",
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
+  },
+  {
     "id": "stephens-walter-b1951",
     "name": "Walter Stephens",
     "birth_year": 1951,
@@ -9859,78 +10387,191 @@ window.SCHOLARS = [
     "id": "thomas-keith-b1933",
     "name": "Keith Thomas",
     "birth_year": 1933,
-    "death_year": null,
-    "birth_place": "United Kingdom",
-    "academic_discipline": "Social History",
-    "primary_institution": "University of Oxford",
-    "specialization": "English magical beliefs; witchcraft in context of religious change and popular culture",
+    "death_year": 2017,
+    "birth_place": "Wales (born 2 January 1933)",
+    "academic_discipline": "Social and Cultural History",
+    "primary_institution": "University of Oxford (Corpus Christi College, President 1986–2000)",
+    "specialization": "Popular beliefs, magic, witchcraft, religion in early modern England; cultural history of ideas about nature, time, and cleanliness",
     "major_works": [
       {
         "title": "Religion and the Decline of Magic",
         "year": 1971,
         "publisher": "Weidenfeld and Nicolson",
-        "significance": "Foundational 800-page survey placing English witchcraft and magic within the full context of popular religious belief and the Reformation",
-        "database_entry": "thomas-religion-decline-magic-1971"
+        "significance": "Definitive survey of popular beliefs, magical practice, and witchcraft in 16th–17th century England; set the agenda for all subsequent English witchcraft historiography; awarded Wolfson History Prize"
       },
       {
-        "title": "Man and the Natural World: Changing Attitudes in England 1500-1800",
+        "title": "Man and the Natural World: Changing Attitudes in England 1500–1800",
         "year": 1983,
         "publisher": "Allen Lane",
-        "significance": "Extends social history methodology to attitudes toward nature",
-        "database_entry": null
+        "significance": "Traces transformation in English attitudes toward nature, animals, and the environment, contextualizing witchcraft within broader cultural shifts"
+      },
+      {
+        "title": "The Ends of Life: Roads to Fulfilment in Early Modern England",
+        "year": 2009,
+        "publisher": "Oxford University Press",
+        "significance": "Cultural history of early modern conceptions of the good life, demonstrating sustained mastery of early modern cultural history"
       }
     ],
-    "historiographical_position": "SOCIAL HISTORY",
-    "core_argument": "English witchcraft accusations arose from the social tensions created by the decline of Catholic magical services after the Reformation, combined with the 'charity refused' mechanism: when a householder refused charity to a poor neighbor who then suffered misfortune, guilt was projected onto the refused beggar as a witch. Witchcraft filled the gap left by the Church's lost magical remedies.",
+    "historiographical_position": "SOCIAL_HISTORY",
+    "core_argument": "Thomas's central argument in Religion and the Decline of Magic is that magical beliefs—witchcraft, astrology, prophecy, cunning folk practices—were rational responses to the genuine uncertainties and anxieties of early modern life. People who could not predict harvests, cure illness, recover stolen goods, or protect livestock from misfortune turned to magic because nothing else was available to address those needs. Magic did not reflect ignorance or irrationality; it reflected the state of knowledge and the absence of effective alternatives. On this account, the decline of magic in the later 17th and 18th centuries was driven not primarily by changing intellectual fashions but by the development of practical alternatives: insurance against crop failure and property loss, improved medical treatment, institutional religion offering more predictable pastoral care. The classic 'social function' interpretation: belief persists where it does real work and fades where institutions replace its functions. For witchcraft specifically, Thomas developed the foundational 'charity refusal' model: the typical English witchcraft accusation arose when a person of means refused to give charity to a poor (usually elderly, usually female) neighbor, and then suffered misfortune. The accused witch's curse or malicious gaze was blamed for the misfortune, allowing the accuser to project guilt about the refusal outward. This mechanism explains the paradox that accusers often feared those weaker than themselves: the moral power of the refused beggar was converted into supernatural threat. Thomas grounded this interpretation in meticulous analysis of Essex assize records and a vast reading of printed popular culture.",
     "methodological_approach": {
-      "primary_materials": "Parish records, court records, pamphlet literature, ecclesiastical depositions across England 1500-1700",
-      "analysis_target": "Social function of magical belief; relationship between religious change and witchcraft; charity and community obligation",
-      "evidence_type": "Wide-ranging qualitative survey of print and archival sources; contextual social analysis",
-      "explanatory_level": "Sociological-functional: beliefs serve social needs created by structural changes"
+      "primary_materials": "Assize records, court depositions, pamphlet literature, popular print, diaries, account books, churchwarden records, ecclesiastical court records",
+      "analysis_target": "The social functions and contextual rationality of magical beliefs across all social strata",
+      "evidence_type": "Quantitative analysis of case records combined with thick contextual reading of popular culture; anthropological comparativism",
+      "explanatory_level": "Social function, institutional context, and cultural rationality"
     },
     "key_contributions": [
       {
-        "concept": "Charity-refused thesis",
-        "claim": "The typical English witch accusation followed a pattern: a householder refused charity to a poor woman, she cursed or muttered on leaving, the householder later suffered misfortune, guilt about the refusal was converted into accusation",
-        "implication": "Witchcraft accusations reflect guilt and psychological projection by accusers, not evidence of witches' malice"
+        "concept": "Charity refusal as accusation trigger",
+        "claim": "The modal English witchcraft accusation arose from a specific social encounter: a relatively prosperous person refused charity (food, drink, alms) to a poor, often elderly woman; misfortune followed; the refuser accused the woman of witchcraft. The accuser's guilt about the refusal was displaced onto the accused as supernatural malice.",
+        "implication": "English witchcraft prosecutions were embedded in concrete social relations between neighbors and reflected the social tensions of a society moving away from older communal obligations. The accused were often genuinely marginal and already morally discrediting themselves through begging."
       },
       {
-        "concept": "Decline of Church magic",
-        "claim": "The Reformation removed Catholic magical services (blessings, holy water, saints' intercession) that had managed anxiety about illness and misfortune; witchcraft belief and cunning folk filled this vacuum",
-        "implication": "English witchcraft must be understood in the context of religious change, not in isolation"
+        "concept": "Magic as functional response to uncertainty",
+        "claim": "Magical belief was not superstition but a practical technology applied where effective alternatives did not exist. Cunning folk, astrologers, and charm-makers addressed genuine needs that medicine, law, and religion could not reliably meet.",
+        "implication": "The 'decline of magic' cannot be explained by intellectual enlightenment alone; it required material and institutional change. Thomas's framework redirects attention from ideas to social conditions."
       },
       {
-        "concept": "Magic as social need",
-        "claim": "Pre-modern magical beliefs were rational responses to real problems of illness, crop failure, and uncertainty in the absence of alternative explanations",
-        "implication": "Magic should be analyzed functionally and sympathetically, not dismissed as superstition"
+        "concept": "Quantitative foundation for English witchcraft",
+        "claim": "Drawing on Alan Macfarlane's concurrent Essex study, Thomas established the quantitative baseline of English prosecutions: mostly women, mostly older, mostly poor, mostly in village communities. This demographic profile required social explanation.",
+        "implication": "English witchcraft had a distinctive social pattern that differed markedly from Continental mass-panic prosecutions; local community dynamics, not elite ideological drives, governed English cases."
+      },
+      {
+        "concept": "Continuity between white and black magic",
+        "claim": "Cunning folk (practitioners of 'white' magic) and accused witches (practitioners of 'black' magic) occupied the same social and cultural continuum. Elite demonologists drew firm distinctions that popular culture often did not sustain.",
+        "implication": "The boundary between helpful and harmful magic was permeable; the same person might provide healing charms and face witchcraft accusation, depending on social circumstances."
       }
     ],
     "scholarly_relationships": {
       "alignment_with": [
-        "macfarlane-alan-b1941",
-        "briggs-robin-b1942",
-        "davies-owen-b1969"
+        "Alan Macfarlane (complementary Essex quantitative study; similar charity-refusal conclusions)",
+        "Robin Briggs (community-based social analysis of accusation dynamics)",
+        "Ronald Hutton (cunning folk as practitioners; social history of popular practice)"
       ],
       "creative_tension_with": [
-        "clark-stuart-b1943",
-        "muchembled-robert-b1944"
+        "Stuart Clark (Clark rejects social-function explanation as reductive; emphasizes intellectual tradition over social mechanism)",
+        "Carlo Ginzburg (Ginzburg's microhistory of individual cases contrasts with Thomas's macro social-function thesis)",
+        "Diane Purkiss (Purkiss argues Thomas and others in his tradition underread the gendered nature of witch narratives)"
       ]
     },
     "reception_and_critique": {
-      "major_influences": "Social anthropology (Evans-Pritchard), sociology of religion (Weber), Annales social history",
+      "major_influences": "Religion and the Decline of Magic is the most cited work in English witchcraft history and remains the entry point for the field. Its scope — covering witchcraft, astrology, prophecy, ghosts, popular medicine, and religious magic together — established that these phenomena required integrated social explanation rather than separate treatment.",
       "criticisms": [
-        "Charity-refused thesis critiqued as overly schematic; not all cases fit the pattern",
-        "English focus limits applicability to Continental patterns",
-        "Later scholars (Clark) argued Thomas underweights the theological sophistication of demonological thought",
-        "Feminist historians argued insufficient attention to gender dynamics"
+        "Stuart Clark argued that Thomas's social-function model treats magical belief instrumentally — as a tool for coping — rather than as a genuine system of thought in its own right; this underestimates how seriously people held these beliefs as true",
+        "Feminist historians argued Thomas underweighted gender; his 'social tensions' model does not adequately explain why women were overwhelmingly accused",
+        "Later historians questioned whether the charity-refusal model was truly universal or primarily an English pattern drawn too heavily from Essex records",
+        "Some critics argued Thomas's vast learning produced a portrait of beliefs but not of people — he explained why belief existed without adequately explaining individual accusations"
       ]
     },
-    "historiographical_significance": "Thomas's Religion and the Decline of Magic remains one of the most cited works in early modern English history and established social history methodology for studying magical belief. Its scope, ambition, and empirical depth set a standard that subsequent regional studies aimed to match or refine. The charity-refused thesis influenced Macfarlane and remains a reference point in community-level analyses.",
+    "geographical_focus": [
+      "England"
+    ],
+    "chronological_focus": "1500–1700, with attention to long-term decline through 1800",
+    "influence_on_field": "FOUNDATIONAL",
+    "notable_debates": [
+      "The 'decline of magic' debate: did magic decline because of intellectual change (Enlightenment) or institutional/social change (Thomas's position)?",
+      "Charity-refusal model: universally applicable to English witchcraft or primarily an Essex/East Anglian pattern?",
+      "Relationship between white and black magic: did cunning folk and witches represent fundamentally different social positions or points on a continuum?"
+    ],
+    "legacy_status": "Knighted 1988; Fellow of the British Academy; President of the British Academy 1993–97; CBE. Religion and the Decline of Magic nominated foundational text by multiple surveys of early modern historiography.",
+    "scholarly_disagreement": "Stuart Clark's Thinking with Demons (1997) represents the most sustained intellectual challenge to Thomas: where Thomas explains magical belief as a social function or coping mechanism, Clark argues that this instrumentalism fails to take demonological thought seriously as a coherent intellectual system. Believers were not just coping; they were reasoning. Clark also questions whether social explanations can account for why prosecutions occurred at particular times in particular places without reference to ideological change. Feminist historians including Purkiss and Roper argue that gender is inadequately theorized in Thomas's account — the social vulnerability of elderly poor women does not fully explain the cultural construction of the witch as female, which operated at the level of fantasy and narrative as well as social position.",
     "source_method": "Published scholarship and critical historiographical reconstruction",
     "review_status": "DRAFT",
     "confidence": "HIGH",
-    "created_date": "2026-05-27",
-    "last_modified": "2026-05-27"
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
+  },
+  {
+    "id": "wilby-emma-b1968",
+    "name": "Emma Wilby",
+    "birth_year": 1968,
+    "birth_place": "England (approximate)",
+    "academic_discipline": "History and Folk Studies",
+    "primary_institution": "University of Exeter (Honorary Fellow)",
+    "specialization": "Cunning folk, familiar spirits, shamanism and visionary traditions in British witchcraft, Isobel Gowdie, folk magic",
+    "major_works": [
+      {
+        "title": "Cunning Folk and Familiar Spirits: Shamanistic Visionary Traditions in Early Modern British Witchcraft and Magic",
+        "year": 2005,
+        "publisher": "Sussex Academic Press",
+        "significance": "Argues that familiar spirit beliefs in British witchcraft records reflect genuine pre-Christian visionary traditions; links British cunning folk to shamanic practices; foundational text for shamanism-in-British-witchcraft thesis"
+      },
+      {
+        "title": "The Visions of Isobel Gowdie: Magic, Witchcraft and Dark Shamanism in Seventeenth-Century Scotland",
+        "year": 2010,
+        "publisher": "Sussex Academic Press",
+        "significance": "Extended microhistorical analysis of the 1662 Auldearn trial confessions; argues Gowdie's elaborate visions reflect authentic shamanic trance traditions rather than torture-induced fabrication; major contribution to Scottish witchcraft studies"
+      }
+    ],
+    "historiographical_position": "ANTHROPOLOGICAL_HISTORY",
+    "core_argument": "Wilby's central argument engages directly with the question raised by Carlo Ginzburg in The Night Battles and Ecstasies: did accused witches and cunning folk genuinely hold visionary beliefs that derived from pre-Christian cultural traditions, or were their confessions entirely shaped by torture, judicial leading questions, and demonological frameworks imposed from above? Wilby argues, more boldly than Ginzburg on the British case, that the familiar spirit traditions documented in British witch trial records and cunning folk accounts reflect genuine visionary experiences rooted in archaic shamanistic practices. Her method is to read trial records — particularly the famously detailed confessions of Isobel Gowdie — against a comparative corpus of shamanic traditions from ethnographic and anthropological literature, identifying structural parallels in spirit contact, ecstatic flight, animal transformation, and boundary crossing between living and dead. Wilby does not claim these experiences were literally real in the sense of involving supernatural entities; she argues they were real in the sense that the accused persons were reporting genuine experiences of altered consciousness, visionary encounter, and what we might now understand as culturally-shaped trance states. These experiences were then filtered through judicial and demonological lenses in the trial record, but the underlying experiential content was not fabricated. For cunning folk specifically, Wilby documents the central role of familiar spirits — often described as small fairy-like beings or animal companions — as the source of the practitioner's healing and divinatory power. She traces how these familiar spirits were reinterpreted by demonologists as diabolical imps but preserved genuine ritual relationships between practitioner and spirit helper that paralleled shamanic practices in Siberian and other traditions. This puts Wilby in dialogue with Ginzburg's shamanism thesis while extending it specifically to Britain and grounding it in detailed textual analysis of specific cases rather than broad comparative synthesis.",
+    "methodological_approach": {
+      "primary_materials": "Scottish witch trial records (particularly Isobel Gowdie's 1662 confessions), English cunning folk records, comparative anthropological literature on shamanism, fairy belief accounts",
+      "analysis_target": "The experiential content preserved in trial confessions beneath judicial and demonological overlay; structural parallels between British familiar spirit traditions and shamanic practices",
+      "evidence_type": "Close reading of confession texts combined with comparative anthropology; identification of structural parallels across cultures",
+      "explanatory_level": "Cultural and experiential history; anthropological comparison; individual cases read for genuine experiential content"
+    },
+    "key_contributions": [
+      {
+        "concept": "Familiar spirits as shamanistic intermediaries",
+        "claim": "The familiar spirits documented in British cunning folk records — small beings of fairy-like nature that gave practitioners their powers and guided their healing work — reflect a pre-Christian tradition of spirit intermediary comparable to shamanic spirit helpers in other cultural contexts.",
+        "implication": "British magical practice had deeper cultural roots than the early modern period; cunning folk were not simply drawing on contemporary folk superstition but on traditions of spiritual intermediacy that predated Christian influence."
+      },
+      {
+        "concept": "Isobel Gowdie's confessions as genuine visionary account",
+        "claim": "The 1662 Auldearn confessions of Isobel Gowdie — among the most elaborate and detailed witch trial confessions in Scottish records — preserve genuine visionary and ritual content despite being obtained in a trial context. Gowdie's visions of fairy courts, aerial flight, and animal transformation reflect authentic altered-consciousness experiences, not pure judicial fabrication.",
+        "implication": "Some witch trial confessions, even elaborate and fantastical ones, may contain genuine experiential content that can be recovered through careful comparative analysis. Ginzburg's method of reading confessions against the grain applies to British as well as Italian sources."
+      },
+      {
+        "concept": "Continuity between cunning folk and accused witches",
+        "claim": "The same visionary and familiar-spirit traditions that empowered cunning folk practitioners could, under judicial pressure, be reinterpreted as diabolical; the same beliefs that justified healing practice were reread as evidence of demonic pact.",
+        "implication": "The boundary between witch and cunning folk was culturally and ritually permeable; prosecution transformed rather than invented the accused's practice."
+      },
+      {
+        "concept": "Dark shamanism: the destructive face of visionary practice",
+        "claim": "Not all shamanic visionary practice was benevolent; Wilby's analysis of Gowdie documents a 'dark shamanism' tradition in which practitioners claimed powers of harm as well as healing, consistent with shamanic traditions that include both healing and harmful spiritual work.",
+        "implication": "Some accused witches' claims to power over harm may reflect genuine self-understandings rooted in visionary tradition rather than purely judicial invention."
+      }
+    ],
+    "scholarly_relationships": {
+      "alignment_with": [
+        "Carlo Ginzburg (shamanism thesis; reading confessions against the grain for genuine cultural content)",
+        "Éva Pócs (East Central European comparanda for shamanic witch-belief traditions)",
+        "Ronald Hutton (cunning folk as genuine practitioners; emphasis on practitioner perspective)"
+      ],
+      "creative_tension_with": [
+        "Stuart Clark (Wilby's focus on experiential folk content contrasts with Clark's emphasis on elite intellectual tradition)",
+        "Historians who argue all witch trial confessions are entirely torture-shaped fabrications with no genuine content",
+        "Skeptics of the shamanism thesis who argue cross-cultural parallels are too general to establish historical connection"
+      ]
+    },
+    "reception_and_critique": {
+      "major_influences": "Wilby's work significantly extended Ginzburg's shamanism argument to the British case and provided the most detailed textual analysis of familiar spirit traditions in British sources. Her Isobel Gowdie study is the most sustained microhistorical analysis of a Scottish witch trial and has become central to Scottish witchcraft historiography.",
+      "criticisms": [
+        "Critics question whether structural parallels between British familiar spirits and shamanic practices in other cultures constitute evidence of historical connection or merely reflect universal patterns of visionary experience",
+        "Some historians argue Wilby is too credulous about genuine experiential content in confessions obtained under judicial pressure, even without formal torture",
+        "The dating and origins of 'pre-Christian' British visionary traditions remain difficult to establish; what Wilby identifies as archaic may be recent",
+        "Ronald Hutton, though broadly sympathetic, expressed reservations about the strength of the shamanism parallel in British evidence specifically"
+      ]
+    },
+    "geographical_focus": [
+      "England",
+      "Scotland"
+    ],
+    "chronological_focus": "1500–1700 (early modern British witchcraft)",
+    "influence_on_field": "MAJOR",
+    "notable_debates": [
+      "Shamanism in British witchcraft: does the evidence from British records support Ginzburg's broader thesis or reflect a specifically British pattern?",
+      "The status of elaborate confessions: how much genuine content can be recovered from confession texts obtained under judicial pressure?",
+      "Isobel Gowdie: was she a genuine visionary practitioner, a mentally ill woman, or a judicial construction?"
+    ],
+    "legacy_status": "Established the British shamanism argument; Cunning Folk and Familiar Spirits is the standard reference for familiar spirit traditions in British witchcraft.",
+    "scholarly_disagreement": "The most significant debate surrounding Wilby concerns the evidentiary basis for the shamanism thesis. Historians skeptical of cross-cultural comparison argue that structural parallels between British familiar spirits and Siberian shamanism do not establish historical or genealogical connection. Ronald Hutton's The Witch (2017) engaged critically with shamanism arguments, arguing that while the comparative parallels are suggestive, the British evidence does not establish the existence of a continuous pre-Christian shamanic tradition of the kind Ginzburg and Wilby posit. The debate ultimately concerns what counts as evidence for ancient survival versus coincident development of similar visionary patterns in different cultural contexts.",
+    "source_method": "Published scholarship and critical historiographical reconstruction",
+    "review_status": "DRAFT",
+    "confidence": "HIGH",
+    "created_date": "2026-05-29",
+    "last_modified": "2026-05-29"
   }
 ];
 
