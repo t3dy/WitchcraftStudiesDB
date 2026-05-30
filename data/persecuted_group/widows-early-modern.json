@@ -1,0 +1,35 @@
+{
+  "id": "widows-early-modern",
+  "name": "Widows",
+  "category": "demographic",
+  "temporal_scope": "c. 1400–1750",
+  "primary_regions": ["central-europe", "british-isles", "colonial-new-england"],
+
+  "group_profile": "Widows constituted a disproportionately large share of witch trial victims across early modern Europe, a pattern documented in Hutton's demographic analysis and consistent across jurisdictions as diverse as Bamberg, Essex, and colonial Salem. A widow in early modern Europe was a woman without the male household head — husband, father, or adult son — who provided legal representation, social advocacy, and institutional intercession. This absence was categorical, not merely practical: most early modern jurisdictions required male representation for women to appear in court, and without a male advocate, mounting a defense against accusations was structurally more difficult regardless of the merits.\n\n  The category of widow in the historical record encompasses a wide range of circumstances. Some widows retained substantial property and household authority; their relative prosperity made them targets of Karlsen's 'female inheritance' dynamic, in which women who anomalously controlled economic resources were suspected of having acquired that control through illegitimate (demonic) means. Others, like Frau Hoelmann of Bamberg, left almost no biographical trace beyond their appearance in an accuser's tortured confession. The common thread is legal and social vulnerability: without male advocates, arrest more readily became execution.\n\n  Widows were distinct from unmarried women (who might still have fathers or brothers as advocates) and from married women (whose husbands could intercede even at risk to themselves, as William Good's ambiguous testimony about Sarah Good illustrates). The widowed woman was uniquely without recourse. Hutton's comparative demographic analysis across European prosecutions identifies this as one of the most statistically consistent risk factors.",
+
+  "persecution_rationale": "Contemporary demonological theory provided a theological framework for the demographic targeting of widows. The Malleus Maleficarum (1487) identified women as more susceptible to demonic temptation due to supposed spiritual weakness; widows, as women without male spiritual governance, were theoretically even more exposed to diabolic influence. Inquisitors and magistrates encountering widows living alone would have read their independent households — without the male oversight that Protestant and Catholic moral theology held to be proper — as circumstantially suspicious. The widow's necessary autonomy was legible through demonological categories as disorder. Bernardino of Siena's preaching campaigns in early fifteenth-century Italy had similarly identified unattached women as spiritually at risk.",
+
+  "structural_vulnerability": "The structural vulnerability of widows derived from the features of early modern legal culture that made women generally more exposed to prosecution: the requirement of male representation in legal proceedings, the social suspicion attached to independent female households, and the absence of institutional advocates. When widows possessed property, Karlsen argues they became targets for neighbors and relatives seeking to displace them from economic positions that patriarchal culture understood as anomalous. When they were destitute, their dependence on community charity created the resentment dynamics Boyer and Nissenbaum identify in Salem. In both cases, the absence of male protection was the key structural feature — not poverty or wealth as such, but undefended position.",
+
+  "historiographical_significance": "Hutton's demographic analysis in The Witch (2017) constitutes the most comprehensive quantitative survey of who was actually prosecuted across European witch trials. His finding that widows were consistently overrepresented across geographically and institutionally diverse contexts is methodologically significant: it identifies a structural feature of prosecution independent of regional legal variations, theological differences, or specific demonological frameworks. This supports the sociological over the ideological explanation for targeting patterns.\n\n  Karlsen's study in The Devil in the Shape of a Woman (1987) adds a property analysis to Hutton's demographic data. At Salem specifically, women who stood to inherit, who had commercial autonomy, or who had outlived husbands without producing male heirs were disproportionately accused. This refines the widow category: the vulnerability was not simply about marital status but about the intersection of marital status, property, and gender norms regarding female economic independence.\n\n  Levack's quantitative synthesis in The Witch-Hunt in Early Modern Europe confirms the widowhood pattern across a larger comparative dataset and situates it within the broader demographic profile of witch trial victims as primarily older women (40+) of modest to middling status with limited social capital. The pattern holds across Catholic and Protestant jurisdictions, continental and insular Europe — which argues for structural rather than theologically specific causation.",
+
+  "exemplary_accused_persons": [
+    "frau-hoelmann-bamberg-1627"
+  ],
+  "related_demonological_concepts": [
+    "witches-sabbath-collective"
+  ],
+
+  "scholarly_disagreement": null,
+  "source_method": "Hutton, The Witch (2017), demographic analysis; Karlsen, The Devil in the Shape of a Woman (1987); Levack, The Witch-Hunt in Early Modern Europe (various editions); Behringer demographic studies of Bamberg",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

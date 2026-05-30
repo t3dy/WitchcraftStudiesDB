@@ -1,0 +1,38 @@
+{
+  "id": "roman-inquisition",
+  "name": "Roman Inquisition",
+  "formal_name": "Sacred Congregation of the Universal Inquisition (Sacra Congregatio Romanae et Universalis Inquisitionis)",
+  "institutional_type": "ecclesiastical_inquisition",
+  "founded": "1542",
+  "dissolved": null,
+
+  "jurisdiction_description": "The Roman Inquisition, established by Pope Paul III's bull Licet ab initio (1542), was designed as a centralizing instrument to coordinate Catholic responses to Protestant theology and heterodox doctrine. Its formal jurisdiction was theoretically universal within Catholic territories, with authority delegated to regional tribunals and local inquisitors throughout the Catholic world. In practice, its most consistent direct operational jurisdiction was over central Italy — the papal states and adjacent territories — while its supervisory oversight of provincial tribunals (including the Venetian Inquisition and Spanish Inquisition) was mediated through correspondence, appeals, and periodic instructional documents.\n\n  The institution was reorganized as the Supreme Sacred Congregation of the Holy Office in 1908 and renamed the Congregation for the Doctrine of the Faith in 1965. It continues to exist in this form.",
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "The Roman Inquisition permitted torture but subject to significant procedural constraints derived from canon law: prior evidence had to establish a strong presumption of guilt; torture was applied once only (repetition required new evidence); defendants had to ratify confessions outside the torture chamber; and defendants could not be tortured to the point of permanent injury or death. In practice, the Roman Inquisition's central oversight tended to moderate torture use at provincial tribunals through correspondence and instruction. Its 1657 Instructio specifically addressed the limitations applicable in witch-related interrogations.",
+    "evidence_standards": "The standard of two witnesses or one confession; circumstantial evidence insufficient alone. The Roman Inquisition's central oversight tended to raise evidentiary standards by requiring provincial tribunals to document their proceedings in sufficient detail for metropolitan review.",
+    "confession_policy": "Confessions were required to be freely ratified outside the coercive context to be valid. The Roman Inquisition showed notable willingness to accept recantations and to impose penance rather than capital punishment for first offenders who confessed and sought reconciliation.",
+    "appeal_mechanism": "The Roman Holy Office served as the appellate body for provincial ecclesiastical tribunals, and provincial inquisitors were required to refer cases involving significant doubt or procedural irregularity to Rome. This created a direct institutional check on provincial excess, and the archives document numerous cases where Rome intervened to moderate or reverse provincial decisions."
+  },
+
+  "role_in_witch_trials": "The Roman Inquisition's role in witch trial historiography is counterintuitive and crucial: it was a restraining force on witch prosecution rather than a driver of it. The Holy Office repeatedly intervened to stop or moderate excessive witch prosecutions by local authorities, issued instructions limiting the use of spectral evidence and testimony obtained under torture, and expressed institutional skepticism about the more extreme claims in demonological literature. Its 1657 Instructio pro formandis processibus in causis strigum explicitly limited the evidentiary weight of sabbath confessions and required additional corroboration for conviction. The Italian peninsula, where the Roman Inquisition had consistent oversight, had significantly lower per-capita witch execution rates than Germany, Scotland, or colonial New England.",
+
+  "witch_trial_involvement_level": "low",
+  "key_trial_events": [],
+
+  "historiographical_significance": "The Roman Inquisition's role in witch trial historiography illustrates a critical methodological point: 'the Inquisition' is not a unified institutional actor, and popular associations of the Inquisition with witch prosecution are substantially misdirected. The mass witch executions of the sixteenth and seventeenth centuries occurred primarily in territories under secular legal jurisdiction or under episcopal courts not effectively supervised by Rome — Germany, Scotland, colonial New England, and parts of Switzerland and France.\n\n  Levack's comparative analysis in The Witch-Hunt in Early Modern Europe demonstrates this systematically: Catholic jurisdictions under effective Roman oversight had lower persecution rates than comparable Protestant or inadequately supervised Catholic jurisdictions. This finding complicates confessional historiography of the witch trials, suggesting that institutional structure — effective oversight, procedural protections, skeptical metropolitan review — mattered more than theological orientation in predicting execution rates.\n\n  John Tedeschi's The Prosecution of Heresy (1991) and his essays on the Roman Inquisition's archive document the institution's procedures and their practical moderating effects in detail. Edward Peters's Inquisition (1988) provides the broader institutional history, distinguishing the Roman, Spanish, and Portuguese inquisitions from each other and from the medieval itinerant papal inquisition. Both demonstrate that the image of the Inquisition as the primary engine of witch persecution — a construction traceable to Protestant polemics and later to popular historiography — significantly misrepresents the institutional record.",
+
+  "scholarly_disagreement": "The moderating role of the Roman Inquisition in witch trials is the scholarly consensus in specialist historiography (Tedeschi, Peters, Levack, Monter). It is not widely known in popular culture, where 'the Inquisition' remains associated with persecution. Entries and prose in this database should state the specialist consensus clearly.",
+  "source_method": "Archivio della Congregazione per la Dottrina della Fede (Rome); Tedeschi, The Prosecution of Heresy (1991); Peters, Inquisition (1988); Levack, The Witch-Hunt in Early Modern Europe; instructional documents published in Lea, Materials toward a History of Witchcraft (1939)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

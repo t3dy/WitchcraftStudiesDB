@@ -1,0 +1,42 @@
+{
+  "id": "cunning-folk-wise-women",
+  "name": "Cunning Folk and Wise Women",
+  "category": "occupational",
+  "temporal_scope": "c. 1400–1750 (practice continuous beyond these dates; prosecution window)",
+  "primary_regions": ["british-isles", "central-europe", "northern-europe", "mediterranean"],
+
+  "group_profile": "'Cunning folk' was the contemporary English term — equivalent to German Zauberer or Weise Frau, French devin-guérisseur, Italian strega benefica, Scottish 'wise woman' — for local magical practitioners who provided healing, divination, protective magic, love magic, and recovery of lost property to their communities. In Hutton's analysis, which represents current scholarly consensus, cunning folk were not marginal figures but central providers of services their communities valued and that formal medical and religious systems could not supply. They operated alongside licensed physicians (serving different socioeconomic constituencies) and alongside the Church (incorporating religious invocations, blessed objects, and Catholic or Protestant ritual into their practice without perceiving contradiction).\n\n  Keith Thomas's foundational study Religion and the Decline of Magic (1971) documented the scale and social embedding of this tradition in early modern England, estimating that England had as many cunning folk as clergymen — an order-of-magnitude estimate Hutton accepts as plausible even if the precise figure is uncertain. Cunning folk were present across the social spectrum, from village healers to court astrologers.\n\n  The transition from 'wise woman' to 'witch' in the documentary record was not typically self-generated. Practitioners rarely identified themselves as maleficent witches. The recategorization reflected demonological theory's inability to accommodate beneficent magic: any commerce with spirits, any claim to supernatural knowledge, any manipulation of invisible forces was by definition demonic within the inquisitorial frame. This is Ginzburg's central finding from the Friuli benandanti cases — folk practitioners with their own self-conception as community protectors were recategorized through sustained institutional interrogation as demonic conspirators. The gap between their self-understanding and the inquisitor's categories is recoverable only through careful archival reading against the grain.",
+
+  "persecution_rationale": "The demonological argument against beneficial magic was a specific theological claim articulated by Heinrich Kramer in the Malleus Maleficarum (1487) and developed through the sixteenth-century demonological tradition: there was no neutral supernatural power accessible for beneficial purposes outside Church sacraments. All commerce with spiritual forces was demonic by definition, because only the devil could grant supernatural healing outside the sacramental structure. This argument collapsed the folk distinction between maleficent witch and beneficial cunning worker into a single category. James VI's Daemonologie (1597) made this explicit: those who claimed beneficial magic were more dangerous than maleficent witches, because they seduced the credulous into accepting diabolic service.",
+
+  "structural_vulnerability": "Cunning folk were structurally vulnerable for reasons paradoxically derived from their social value. Their magical reputation — which sustained their practice and brought them clients — was simultaneously their primary prosecution risk. It provided the evidentiary foundation that accusers and prosecutors required: prior documented knowledge of supernatural activities. In communities where a cunning woman was respected, her neighbors knew of her practice; this knowledge became, under prosecution conditions, testimony to supernatural activity. Agnes Sampson and Margaretha Binder are both cases where established healing reputations became the evidentiary substance of the accusation. The wise woman's professional visibility made her an identifiable target in ways that anonymous poverty did not.",
+
+  "historiographical_significance": "Hutton's rehabilitation of the cunning folk tradition in The Witch (2017) is the central contribution of his career to witch trial scholarship. Against an older historiographical tradition (associated with Margaret Murray and, in feminist form, with Barbara Ehrenreich and Deirdre English) that treated wise women as essentially the same category as accused witches — practitioners of an underground magical tradition continuous from pre-Christian antiquity — Hutton argues that cunning folk were a socially integrated profession providing legitimate services, historically continuous with Greco-Roman medicine and Christian folk piety rather than with any distinctly 'pagan' underground.\n\n  This shifts the explanatory question from 'why were witches persecuted?' to 'why were legitimate practitioners recategorized as diabolical?' — a question that requires an institutional explanation rather than a cultural-survival one. The answer lies in the demonological framework that Clark analyzes in Thinking with Demons: a theologically coherent system within which beneficial magic was as suspect as maleficent magic, because both implied access to supernatural power outside the Church's sacramental mediation.\n\n  Thomas's foundational documentation in Religion and the Decline of Magic established the scale of the cunning folk tradition in early modern England. Ginzburg's analysis in The Night Battles approaches the question from the other direction: what happened when a beneficial folk practitioner encountered the inquisitorial frame? The benandanti transcripts document the process of cognitive recategorization in real time, the mechanism by which self-identified community protectors were transformed through sustained questioning into sabbath attendees and demonic conspirators.",
+
+  "exemplary_accused_persons": [
+    "agnes-sampson-north-berwick-1591",
+    "margaretha-binder-bamberg-1626",
+    "matteuccia-di-francesco-todi-1428",
+    "gaspar-tagliacarne-friuli-1575",
+    "battista-moduco-friuli-1580"
+  ],
+  "related_demonological_concepts": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern"
+  ],
+
+  "scholarly_disagreement": "The older feminist-popular tradition (Ehrenreich and English, Witches, Midwives and Nurses, 1973; Mary Daly, Gyn/Ecology, 1978) held that the witch trials were primarily a campaign against female healers by a male medical establishment. Hutton and most specialist historians reject this as empirically unsupported: the accused were not systematically medical professionals, and physicians were not typically involved in witch accusations. Thomas's and Hutton's more rigorous empirical work has superseded this narrative in academic scholarship, though it retains popular currency.",
+  "source_method": "Hutton, The Witch (2017); Thomas, Religion and the Decline of Magic (1971); Ginzburg, The Night Battles (1983); Clark, Thinking with Demons (1997); primary trial records for exemplary cases",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-night-battles-1983",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

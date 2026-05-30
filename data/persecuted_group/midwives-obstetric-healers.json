@@ -1,0 +1,38 @@
+{
+  "id": "midwives-obstetric-healers",
+  "name": "Midwives and Obstetric Practitioners",
+  "category": "occupational",
+  "temporal_scope": "c. 1487–1700; theoretical targeting established by Malleus Maleficarum",
+  "primary_regions": ["central-europe", "british-isles"],
+
+  "group_profile": "Midwives — professional birth attendants who managed obstetric care outside the formal medical establishment — were identified in early modern demonological theory as a category of particular diabolical suspicion. The Malleus Maleficarum (1487), the most widely printed demonological text of the early modern period, dedicated specific discussion to midwives as likely witches on the grounds that their professional access to newborn infants gave them unique opportunity for the infant-killing and harvest of infant body parts that demonological literature attributed to sabbath assemblies. No other occupational category received this level of systematic theoretical attention in the foundational demonological text.\n\n  The basis for this targeting was partly theological and partly professional. Theologically, the midwife occupied a liminal position at the boundary of birth and death — a moment of particular spiritual vulnerability at which demonic intervention was theorized to be possible. Practically, midwives possessed specialized knowledge of obstetric processes, herbal remedies, and the management of difficult births that was opaque to most community members and that, in cases of infant death or birth defect, could be retrospectively reinterpreted as sinister intervention rather than unsuccessful care.\n\n  In Germany, the Hebamme (midwife) was often a formally recognized and salaried position, particularly in court and municipal contexts. Margaretha Binder's status as court midwife to the Prince-Bishopric of Bamberg — a position she had held for fifteen years with institutional approval — illustrates how professional integration was no protection once demonological theory was activated: sustained trusted access to court women became, under interrogation, evidence of sustained opportunity for maleficium.",
+
+  "persecution_rationale": "Heinrich Kramer's argument in the Malleus Maleficarum was explicit and scholastically framed: midwives kill more infants than any other type of witch, harvesting newborns for the preparation of diabolical ointments and for sacrifice at sabbath gatherings. This was not a folk belief but a formal demonological proposition presented with the apparatus of scholastic citation and logical argument. By the 1520s and 1530s, printed editions of the Malleus had circulated across central Europe, and inquisitors and magistrates who had consulted it approached midwives appearing before them already primed with this theoretical framework. The professional category activated a specific accusation template that was, in this sense, a product of literate demonology rather than of popular accusation.",
+
+  "structural_vulnerability": "Midwives' structural vulnerability was paradoxically derived from their professional competence and social visibility. Their specialized knowledge was irreplaceable in a world without formal obstetrics; it was also, to the theologically trained mind, precisely the kind of hidden knowledge that demonic alliance could explain. When a birth went badly — as births frequently did under early modern conditions — the midwife's presence was the most proximate explanation available for unexplained infant mortality. The Malleus's theoretical predisposition made accusation a culturally available response to professional failure, providing a causal narrative that attributed what was otherwise inexplicable (sudden infant death, birth defect, maternal death) to intentional maleficium.",
+
+  "historiographical_significance": "The historiography of midwives' targeting is bifurcated between a feminist-medical history tradition and the demonological-theory tradition, and the conflict between them is a significant methodological case study.\n\n  The feminist-popular tradition, associated with Barbara Ehrenreich and Deirdre English (Witches, Midwives and Nurses, 1973) and influential in women's studies, held that witch trials were substantially a campaign against female healers by a male medical establishment seeking professional monopoly. This thesis has been largely rejected by specialist historians. Hutton argues in The Witch (2017) that the evidence does not support systematic targeting of midwives as a class — the demographic data shows accused persons spread across many occupational categories, and physicians were not typically involved in witch accusations. David Harley's 1990 article 'Historians as Demonologists: The Myth of the Midwife-Witch' made the detailed empirical case against the thesis.\n\n  Clark's analysis in Thinking with Demons provides the more defensible reading: the Malleus's identification of midwives as suspicious was a logical consequence of demonological theory's general framework — not a specific anti-midwife agenda — and did not necessarily translate into systematic prosecution of midwives as a class. Inquisitors targeted midwives when specific cases fit the theoretical expectation, not through systematic professional audits.\n\n  Binder's case illustrates the mechanism: her prosecution was triggered by the 1626 hailstorm and her proximate position within the episcopal household, not by a systematic policy against Bamberg's midwives. The Malleus provided the theoretical predisposition; a specific local event provided the trigger.",
+
+  "exemplary_accused_persons": [
+    "margaretha-binder-bamberg-1626",
+    "agnes-sampson-north-berwick-1591"
+  ],
+  "related_demonological_concepts": [
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+
+  "scholarly_disagreement": "Ehrenreich and English (Witches, Midwives and Nurses, 1973) argued witch trials systematically targeted midwives as a female medical profession. Hutton (The Witch, 2017) and Harley ('Historians as Demonologists,' 1990) reject this empirically, finding no statistical evidence for midwives as a disproportionately targeted class. The theoretical attention of the Malleus to midwives did not translate into systematic occupational prosecution.",
+  "source_method": "Malleus Maleficarum (Kramer, 1487); Hutton, The Witch (2017); Clark, Thinking with Demons (1997); Harley, 'Historians as Demonologists: The Myth of the Midwife-Witch' (1990); Bamberg trial records (Behringer 1997)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

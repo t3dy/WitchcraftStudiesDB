@@ -1,0 +1,38 @@
+{
+  "id": "spanish-inquisition",
+  "name": "Spanish Inquisition",
+  "formal_name": "Tribunal del Santo Oficio de la Inquisición",
+  "institutional_type": "royal_inquisition",
+  "founded": "1478",
+  "dissolved": "1834",
+
+  "jurisdiction_description": "The Spanish Inquisition operated under royal rather than directly papal authority — it was established by papal bull at the request of Ferdinand and Isabella and reported to the Consejo de la Suprema y General Inquisición (the Suprema) in Madrid, which in turn reported to the Crown. This royal orientation distinguished it from the Roman Inquisition and gave Spanish monarchs direct control over inquisitorial policy. The Inquisition's jurisdiction covered the territories of the Spanish Crown including Castile, Aragon, the Spanish Netherlands, Spanish Italy, and (through separate but related tribunals) the colonial Americas. Its twenty-one regional tribunals reported to the Suprema.\n\n  The Spanish Inquisition's primary jurisdictional focus was on converso and morisco communities (Jewish and Muslim converts to Christianity suspected of continued heterodox practice) rather than on witchcraft. Witchcraft cases were a relatively minor part of its workload, and its approach to them was distinctively skeptical.",
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "The Spanish Inquisition permitted torture under the same canonical constraints as other inquisitorial bodies — applied once, requiring strong prior presumption of guilt, not causing permanent injury — but the Suprema's oversight tended to moderate its use in provincial tribunals. In witchcraft cases specifically, the Suprema expressed consistent skepticism about confessions obtained under torture, viewing them as unreliable evidence of actual diabolical activity.",
+    "evidence_standards": "The Suprema required corroborating physical evidence for witchcraft convictions and expressed formal skepticism about testimony based on spectral evidence and sabbath confessions. The 1614 instructions to regional tribunals following Salazar Frías's investigation explicitly required physical evidence of witchcraft activities before cases could proceed to conviction.",
+    "confession_policy": "Confessions were treated with unusual skepticism in witchcraft cases, particularly after the Salazar investigation of 1609-1610 demonstrated systematically that confessants could not produce corroborating evidence for claimed activities.",
+    "appeal_mechanism": "The Suprema served as an appellate body for regional tribunal decisions, and its consistent skepticism about witchcraft convictions meant that appeals of such convictions often resulted in reduced sentences or acquittals. This created a genuine institutional check that was absent from secular jurisdictions."
+  },
+
+  "role_in_witch_trials": "The Spanish Inquisition's role in witch trial historiography is the inverse of popular expectation: it was one of the most protective institutions in early modern Europe for persons accused of witchcraft. Its most decisive action was Alonso de Salazar Frías's investigation of the Basque witch panic of 1609-1610. Salazar personally visited hundreds of accused persons and confessants across the Basque region, tested the physical evidence for claimed sabbath activities, and produced a detailed skeptical report concluding that no physical evidence supported the reality of any of the alleged activities. His report noted, famously, that he had found no witch but that there had been neither any witches nor bewitched until they were talked and written about. Salazar's report became the basis for the Suprema's 1614 instructions discouraging witchcraft prosecutions throughout the Spanish system. The consequence was stark: secular Basque courts that were outside Inquisition jurisdiction executed witches; the Inquisition, which had jurisdiction, did not.",
+
+  "witch_trial_involvement_level": "low",
+  "key_trial_events": [],
+
+  "historiographical_significance": "The Spanish Inquisition's historiographical significance in the study of witch trials is paradoxical: its primary importance is as evidence of what did not happen under effective institutional oversight rather than of what did. Gustav Henningsen's The Witches' Advocate (1980), based on the extensive Inquisition records preserved in Madrid — one of the best-documented inquisitorial archives in Europe — is the definitive study of the Salazar investigation and the Basque panic. Henningsen's central finding — that Salazar's rational empiricism, expressed through systematic personal investigation, successfully challenged the reality claims of accumulated confessions — makes the Spanish Inquisition a crucial counterexample to the stereotype of inquisitorial credulity.\n\n  Henry Charles Lea's monumental A History of the Inquisition (1888-1906), though dated in some respects, documents the Suprema's general skepticism about witchcraft claims across the Inquisition's history. Levack's comparative analysis confirms Henningsen's finding at a larger scale: Spanish territories under Inquisition jurisdiction consistently had lower witch execution rates than comparable European territories under secular or inadequately supervised ecclesiastical courts.\n\n  The institutional explanation — effective central oversight with skeptically framed evidentiary standards — aligns with Clark's intellectual-historical argument about the conditions under which demonological theory could or could not achieve lethal momentum. Where institutional skepticism was embedded in the prosecutorial system itself, the self-replicating cascade mechanism could not achieve the momentum it reached in Bamberg. The Spanish Inquisition thus provides the crucial comparative test case: the same theological framework that produced mass executions in Bamberg produced negligible executions in Spanish territories, because the institutional context differed.",
+
+  "scholarly_disagreement": "Henry Charles Lea wrote critically about the Spanish Inquisition's general operation while documenting its relative moderation on witchcraft specifically. More recent reassessments (Henningsen, Peters) have maintained the finding of relative moderation in witchcraft cases while revising overall assessments of the Inquisition's severity on other matters (converso persecution, censorship). The witchcraft-specific finding is not significantly contested in specialist scholarship.",
+  "source_method": "Archivo Histórico Nacional (Madrid), Inquisición section; Henningsen, The Witches' Advocate (1980); Lea, A History of the Inquisition (1888-1906); Salazar Frías report (1612), analyzed in Henningsen; Peters, Inquisition (1988)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

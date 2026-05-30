@@ -1,0 +1,41 @@
+{
+  "id": "bamberg-episcopal-court",
+  "name": "Bamberg Episcopal Court",
+  "formal_name": "Hochstift Bamberg — witchcraft jurisdiction under Johann Georg II Fuchs von Dornheim",
+  "institutional_type": "episcopal_secular_court",
+  "founded": null,
+  "dissolved": "1631",
+
+  "jurisdiction_description": "The Prince-Bishopric of Bamberg was an ecclesiastical principality of the Holy Roman Empire in which the Prince-Bishop exercised both spiritual and secular (criminal) authority over the territory's subjects. The court that prosecuted the Bamberg mass witch trials was not the Roman or papal Inquisition but the Prince-Bishop's own secular criminal jurisdiction, applying secular criminal procedure rather than inquisitorial canon law. This distinction is historiographically critical: the Bamberg prosecution was conducted without the procedural protections of inquisitorial law and without the oversight mechanisms that Roman supervision would have provided.\n\n  Johann Georg II Fuchs von Dornheim (r. 1623-1633), nicknamed 'the Hexenbrenner' (witch-burner) by subsequent historiography, personally authorized and drove the prosecution. A purpose-built detention and torture facility, the Drudenhaus, was constructed to process the volume of accused persons. The prosecution was terminated in 1631 when the imperial Reichskammergericht (Imperial Chamber Court) intervened after appeals from families of accused persons, and when the Bamberg bishopric fell under military pressure during the Thirty Years' War.",
+  "jurisdiction_territories": ["bamberg"],
+
+  "procedural_features": {
+    "torture_policy": "Torture was used systematically and without the procedural constraints of inquisitorial canon law. The standard methods documented in Bamberg records included strappado (hanging by arms bound behind the back, then dropping), leg screws, application of hot irons, and sleep deprivation. No limit on repetition is documented in surviving sources; Johannes Junius's letter describes multiple torture sessions within a single prosecution. Confessions obtained under torture were not required to be ratified in a separate session as they would be under formal inquisitorial procedure.",
+    "evidence_standards": "Spectral evidence (the testimony of afflicted persons about spiritual appearances) and confessional evidence were the primary bases for conviction. Confession was the goal of interrogation; the accused's denial of charges was treated as evidence requiring more intensive interrogation rather than as exculpatory. The cascade mechanism — in which each confession was required to name accomplices — created an internal evidence-production system independent of any external accusation.",
+    "confession_policy": "Confession was obtained through torture and then, in the formal court record, recorded as voluntary. No provision for recantation equivalent to the Roman inquisitorial model was operative in practice; Junius's letter documents his attempt to retract his confession and the resumption of torture that followed.",
+    "appeal_mechanism": "No effective internal appeal mechanism existed within the Bamberg episcopal jurisdiction. The external check — appeal to the imperial Reichskammergericht — was available in principle and was eventually decisive (the court's intervention helped terminate the prosecution in 1631), but required resources and connections beyond the reach of most accused persons and their families."
+  },
+
+  "role_in_witch_trials": "The Bamberg episcopal court is the primary institutional vehicle of the largest and most intense mass witch prosecution in German history, killing over 300 residents between 1626 and 1631 — approximately 19 executions per month at peak in 1629. It exemplifies the institutional conditions that Levack identifies as enabling mass prosecution: a single jurisdiction with undivided authority, no effective external oversight, no procedural constraints on torture and confession production, and a cascade mechanism by which each execution produced further accusations. The absence of Roman inquisitorial supervision — in contrast to Italian territories where the Roman Holy Office oversaw proceedings — is directly implicated in the prosecution's scale.",
+
+  "witch_trial_involvement_level": "high",
+  "key_trial_events": [
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "historiographical_significance": "The Bamberg episcopal court is the paradigm case in the comparative historiography of witch trials for the distinction between restrained (Roman-supervised ecclesiastical inquisition) and unrestrained (secular or inadequately supervised episcopal) prosecution regimes. Behringer's archival work on the Bamberg records — published in Witches and Witch-Hunts (1998) and related studies — established the statistical basis for understanding the prosecution's scale and timeline.\n\n  Levack's analysis in The Witch-Hunt in Early Modern Europe uses Bamberg alongside the Würzburg prosecutions as the paradigm cases for how institutional structure enables or constrains mass prosecution. The Bamberg court's complete absence of effective external review — in which Prince-Bishop Fuchs von Dornheim was simultaneously religious authority, territorial sovereign, and criminal court's ultimate superior — created precisely the conditions for institutional momentum to override normal evidentiary and procedural constraints.\n\n  Clark's intellectual-historical framework explains why the cascade mechanism was theologically coherent from within demonological theory: a demonic conspiracy of the scope that sabbath doctrine postulated would logically ramify through the entire social structure, so the prosecution's expansion to encompass civic officials (Junius), clergy, and individuals associated with the ruling household was from within the theory a confirmation rather than a reductio of its premises.\n\n  The Junius letter (1628), preserved by his daughter and published by Levack in The Witchcraft Sourcebook, is the single most important primary document for understanding the Bamberg court's actual interrogation practices from the accused's perspective.",
+
+  "scholarly_disagreement": null,
+  "source_method": "Bamberg episcopal archives; Behringer, Witches and Witch-Hunts (1998) and related studies; Junius letter (1628), published in Levack, The Witchcraft Sourcebook; imperial Reichskammergericht records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

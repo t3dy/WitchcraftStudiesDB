@@ -5,11 +5,13 @@
 | Type | Count | ID Pattern | Example |
 |------|-------|------------|---------|
 | `trial_event` | 2 | `trial-location-year` | `bamberg-1626-mass-prosecution` |
-| `accused_person` | 15 | `accused-name-location-year` | `margaretha-binder-bamberg-1626` |
+| `accused_person` | 15 | `name-location-year` | `margaretha-binder-bamberg-1626` |
 | `demonological_concept` | 2 | `concept-name` | `witches-sabbath-collective` |
 | `demonological_scholar` | 3 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
 | `location` | 1 | `location-name` | `bamberg` |
 | `healer_practitioner` | 1 | `name-location-tradition` | `gaspar-tagliacarne-friuli-benandante` |
+| `persecuted_group` | 4 | `group-descriptor-scope` | `widows-early-modern` |
+| `inquisitorial_body` | 4 | `institution-name` | `venetian-inquisition` |
 
 ## JSON Conventions
 
@@ -42,8 +44,16 @@
 | `accused_person` | `trial_event.accused_persons[]` |
 | `trial_event` | `location`, `demonological_concept[]`, `accused_persons[]` |
 | `healer_practitioner` | `location`, `trial_event[]` if applicable |
+| `persecuted_group` | `accused_person.exemplary_accused_persons[]` (one-directional from group) |
+| `inquisitorial_body` | `trial_event.key_trial_events[]` (one-directional from institution) |
 
 After adding an entry, update the cross-reference arrays in related entries.
+
+## Section-Specific Guidance — New Entity Types
+
+For `persecuted_group` entries, read `persecuted_group/CLAUDE.md`. These are analytical categories (modern scholarly groupings), not self-identifications. The `persecution_rationale` field records what contemporaries believed; `structural_vulnerability` and `historiographical_significance` record modern analysis.
+
+For `inquisitorial_body` entries, read `inquisitorial_body/CLAUDE.md`. Note that many major witch trials (Bamberg, Salem, North Berwick) were conducted by secular or episcopal courts, not by the Roman/Spanish/Venetian Inquisitions. The `institutional_type` field carries this distinction. **The Roman and Spanish Inquisitions were generally restraining forces on witch prosecution**, not drivers of it — entries must not perpetuate the contrary popular myth.
 
 ## Validation Commands
 

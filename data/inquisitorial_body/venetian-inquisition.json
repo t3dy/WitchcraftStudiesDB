@@ -1,0 +1,41 @@
+{
+  "id": "venetian-inquisition",
+  "name": "Venetian Inquisition",
+  "formal_name": "Tribunal of the Holy Office of the Venetian Republic",
+  "institutional_type": "ecclesiastical_inquisition",
+  "founded": "1547",
+  "dissolved": "1797",
+
+  "jurisdiction_description": "The Venetian Inquisition exercised ecclesiastical jurisdiction over matters of heresy and magical practice across the territories of the Venetian Republic, including Venice itself, the terraferma (mainland territories including Friuli, Treviso, Verona, Brescia), and the Venetian eastern territories. Its jurisdiction was theoretically coextensive with the Republic's territory but was most consistently active in the terraferma dioceses where rural magical practice was most documented.\n\n  A distinctive feature of the Venetian Inquisition was the mandatory participation of three lay assistenti — Venetian state officials appointed by the Council of Ten — at all proceedings. This gave the tribunal a formally hybrid character: ecclesiastical in its judicial framework but subject to state observation and, in practice, some degree of state moderation. The assistenti could not vote on verdicts but their presence created an implicit political check on excessive prosecutorial zeal.",
+  "jurisdiction_territories": ["friuli"],
+
+  "procedural_features": {
+    "torture_policy": "Torture was authorized within the inquisitorial framework but subject to procedural constraints: it required prior judicial determination that existing evidence established a strong presumption of guilt, required approval from the assembled tribunal, and could not in principle be repeated without new evidence coming to light. In practice, the Friuli benandanti cases (1575-1619) proceeded primarily through sustained interpretive questioning over multiple sessions rather than physical torture — the inquisitor Fra Felice da Montefalco appears to have relied on cognitive and social pressure rather than physical coercion to obtain gradual reframings of benandante self-description.",
+    "evidence_standards": "Standard inquisitorial procedure: the accused's own confession was the primary evidence; two independent witnesses were required for conviction on testimonial evidence alone; circumstantial evidence could supplement but not substitute for confessional or testimonial evidence. The Venetian Inquisition's records show unusual attention to internal consistency of testimony.",
+    "confession_policy": "Confessions were required to be ratified outside the torture chamber to be procedurally valid. The records show cases of recantation that were noted and pursued, but also cases where repeated interrogation over years produced gradual shifts in self-description rather than formal confessions. In the benandanti cases, Ginzburg identifies a process of cognitive erosion rather than a single confessional break.",
+    "appeal_mechanism": "Defendants could in principle appeal to the Roman Holy Office, and the Venetian state's political interest in limiting papal jurisdictional encroachment created an implicit protective dynamic. In practice, the benandanti received abjurations and penances rather than capital sentences, which limited the practical stakes of appeal."
+  },
+
+  "role_in_witch_trials": "The Venetian Inquisition's primary connection to witch trial historiography is through the Friuli benandanti investigations of 1575-1619, documented in Carlo Ginzburg's The Night Battles (1966/1983) and Ecstasies (1989/1991). The inquisition did prosecute magical practice but was notably restrained by comparison with secular courts: the benandanti were not executed, and the Venetian Inquisition's general approach to magical practice tended toward penance and abjuration rather than capital punishment. This restraint reflects both the procedural protections of inquisitorial law and the institutional moderation produced by lay state participation in proceedings.",
+
+  "witch_trial_involvement_level": "moderate",
+  "key_trial_events": [
+    "friuli-benandanti-1575-inquisition"
+  ],
+
+  "historiographical_significance": "The Venetian Inquisition's primary historiographical significance is archival: its unusually well-preserved records, maintained in the Archive of the Patriarch of Venice and related diocesan collections, provided Ginzburg with the documentary basis for The Night Battles. The richness of these records — preserving full interrogation transcripts across multiple sessions spanning years rather than just verdicts — is what made microhistorical analysis possible. Without them, the benandanti tradition would be unrecoverable.\n\n  The Venetian Inquisition is also historiographically significant as a counterexample to popular mythology about ecclesiastical inquisitions as drivers of witch prosecution. Its restraint in the Friuli cases contrasts sharply with the mass executions of secular courts like the Bamberg episcopal tribunal. This contrast supports Levack's comparative argument that Church inquisitions were generally less lethal in witch prosecutions than secular courts, because inquisitorial procedure provided greater evidentiary protections and because Roman oversight constrained local excess.\n\n  John Martin in Venice's Hidden Enemies (1993) has analyzed how the hybrid state-Church structure of the Venetian Inquisition shaped its relationship to popular religion, including magical practice. Federico Barbierato's The Inquisitor in the Hat Shop (Italian original 2006; English trans. 2012) documents how the Venetian Inquisition handled popular magic and heterodox belief in the seventeenth and eighteenth centuries, providing a long-range institutional history that extends beyond the Friuli benandanti episode.",
+
+  "scholarly_disagreement": null,
+  "source_method": "Archive of the Patriarch of Venice (Archivio della Curia Patriarcale); published and analyzed in Ginzburg 1966/1983 and 1989/1991; Martin, Venice's Hidden Enemies (1993)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}

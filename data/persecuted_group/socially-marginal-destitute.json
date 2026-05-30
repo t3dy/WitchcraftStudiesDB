@@ -1,0 +1,37 @@
+{
+  "id": "socially-marginal-destitute",
+  "name": "The Socially Marginal and Destitute",
+  "category": "social_class",
+  "temporal_scope": "c. 1400–1750, with particular documentation at Salem 1692 and in English village prosecutions",
+  "primary_regions": ["colonial-new-england", "british-isles", "central-europe"],
+
+  "group_profile": "Social marginality was among the most consistent predictors of witch trial accusation across European and colonial prosecutions, particularly at the early stages of prosecution before cascade mechanisms expanded the target population upward through the social hierarchy. The pattern is especially clearly documented at Salem, where Boyer and Nissenbaum's community-conflict analysis in Salem Possessed (1974) traced the specific dynamics that made the destitute and dependent the earliest and most frequently accused.\n\n  Sarah Good — homeless, pregnant, known for muttering when refused alms — was among the first three accused at Salem in February 1692, not because of any formal accusation history but because she had no social capital to resist accusation and because her neighbors had accumulated resentments toward her that the accusation structure made expressible. The early modern village was a community of dense social interdependence in which destitution created specific, irresolvable tensions. The poor were legally entitled to relief from their neighbors; neighbors who provided relief but found it burdensome could not freely express resentment through normal social channels. Witchcraft accusation provided a displacement mechanism: the muttering beggar's curse was a culturally available explanation for subsequent misfortune.\n\n  The itinerant poor were additionally vulnerable because their mobility removed them from the local social networks that provided protective character testimony in court. A settled community member might have dozens of neighbors who could attest to long-standing good character; for an itinerant, none could. Frau Hoelmann's near-total documentary absence in the Bamberg records — known only through her name in Binder's confession — reflects this structural invisibility.",
+
+  "persecution_rationale": "Both English and continental demonological theory connected poverty, social disorder, and spiritual vulnerability. The poor were imagined as more susceptible to the devil's material temptations — the diabolical pact's offer of worldly relief was theologically plausible for someone in genuine destitution. Contemporary moralizing literature depicted poverty as a spiritual as well as economic condition, and the destitute person who turned to cursing rather than to prayer when denied charity was already positioned within the demonological framework as spiritually disordered. Reginald Scot, writing critically about witch prosecutions in The Discoverie of Witchcraft (1584), explicitly noted that the accused were typically the 'old, lame, blear-eied, pale, fowle, and full of wrinkles' — the very poor — who had asked for something and been refused.",
+
+  "structural_vulnerability": "The destitute and itinerant lacked three protective resources: financial resources to fund a legal defense, social capital in the form of respected neighbors' character testimony, and male household advocates who could represent them in court. Boyer and Nissenbaum demonstrate that at Salem, the most economically marginal accused were also the most quickly condemned. Against someone with 39 signed character witnesses (Rebecca Nurse), the accusation machinery faced friction; against Sarah Good, it encountered none. Briggs's community-analysis framework identifies the prior episode of denied charity as the typical structural trigger for accusation — not generalized fear of the poor but specific accumulated resentment from a particular relationship of dependency and refusal.",
+
+  "historiographical_significance": "Boyer and Nissenbaum's Salem Possessed (1974) is the definitive community-conflict analysis of how economic and social tension translated into witch accusation. Their mapping of accusations onto Salem's internal divisions — between the commercializing Salem Town and the more traditional Salem Village — demonstrated that accusation patterns tracked specific relationships of community friction rather than random fear. Sarah Good's case is their primary exhibit for the destitute target; her prior begging at accusers' households created exactly the tension their model predicts.\n\n  Briggs's Witches and Neighbours (1996) extends this analysis to continental Europe with a larger qualitative dataset, finding that continental cases similarly tracked prior episodes of social friction, denied charity, and community resentment. Briggs argues that the community-conflict model describes a structural feature common across European prosecutions, not merely a Salem specificity — confirming Boyer and Nissenbaum at a broader scale.\n\n  Levack's quantitative synthesis adds the important qualification that social marginality predicted initial accusation but not necessarily the totality of prosecution. Once cascade mechanisms were underway, accusations expanded to social strata that personal resentment alone would never have reached — officials, clergy, wealthy landowners. The sociological account is most powerful for explaining who was first accused; the institutional-cascade account explains what happened next.",
+
+  "exemplary_accused_persons": [
+    "sarah-good-salem-1692",
+    "frau-hoelmann-bamberg-1627",
+    "catharina-henot-bamberg-1627"
+  ],
+  "related_demonological_concepts": [
+    "demonic-pact-early-modern"
+  ],
+
+  "scholarly_disagreement": null,
+  "source_method": "Boyer and Nissenbaum, Salem Possessed (1974); Briggs, Witches and Neighbours (1996); Levack, The Witch-Hunt in Early Modern Europe; Scot, The Discoverie of Witchcraft (1584); Salem Witchcraft Papers (SWP)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-05-29",
+  "last_modified": "2026-05-29"
+}
