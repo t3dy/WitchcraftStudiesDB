@@ -78,7 +78,7 @@
     "continental_europe": "Sabbath doctrine dominant in German, French, Italian prosecutions; core of demonological indictment",
     "british_isles": "Sabbath concept present but less central than in Continental Europe; English prosecutors less obsessed with coordinated witchcraft conspiracy",
     "southern_europe": "Mediterranean inquisitions sometimes skeptical of sabbath concept; less enthusiasm for prosecuting based on sabbath confessions alone"
-  ],
+  },
 
   "sabbath_doctrine_decline": {
     "18th_century": "As prosecutions waned, sabbath concept lost institutional importance. Skeptical jurists like Weyer and Spee questioned sabbath doctrine's credibility.",
@@ -97,6 +97,10 @@
   },
 
   "sabbath_concept_in_database": "Entries linking to sabbath doctrine note the gap between intellectual coherence (why magistrates believed in sabbath) and historical reliability (whether sabbaths actually occurred). Trials are analyzed for what sabbath confessions reveal about interrogation procedure rather than about actual gatherings.",
+
+  "historiographical_notes": "The sabbath concept's historiographical importance extends beyond witchcraft studies into the broader history of how collective religious deviance was imagined and prosecuted. The template of secret nocturnal gathering, blasphemous ritual, and conspiracy against the social order was applied to Jews, heretics, and practitioners of folk religion across the medieval and early modern periods; the witches' sabbath is the most elaborate version of a recurring imaginative structure. Norman Cohn's Europe's Inner Demons (1975) traced this genealogy in detail, though his argument that the sabbath was entirely a fantasy projected by authorities has been complicated by Ginzburg's evidence for partially autonomous folk traditions.",
+
+  "historiographical_complexity": "The sabbath presents a three-level complexity for historians: (1) as intellectual construct (why did demonologists develop the concept? — Clark's question), (2) as social instrument (how did prosecutors use sabbath accusations to expand prosecutions? — Hutton's and Levack's question), and (3) as confessional artifact (how did interrogation produce sabbath testimony? — Ginzburg's question). These three dimensions operate simultaneously and none alone explains the concept's historical function.",
 
   "historiographical_significance": "The sabbath concept exemplifies how early modern witchcraft doctrine—intellectually coherent to contemporaries—was historically unreliable. All three scholarly traditions (Clark, Hutton, Ginzburg) engage with sabbath concept but reach different conclusions: Clark explains its intellectual appeal; Hutton notes its social function; Ginzburg reveals its extraction through interrogation.",
 

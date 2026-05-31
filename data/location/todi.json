@@ -1,0 +1,64 @@
+{
+  "id": "todi",
+  "name": "Todi (Umbrian Hill Town)",
+  "type": "Communal City / Papal Territorial City",
+  "region": "Central Italy / Umbria",
+  "modern_location": "Province of Terni, Umbria, Italy",
+  "coordinates": {
+    "latitude": 42.782,
+    "longitude": 12.406
+  },
+
+  "administrative_context": "Todi was a walled Umbrian hill town of medieval foundation, lying within the broad sphere of papal territorial authority in central Italy while maintaining the communal governmental structures characteristic of Italian city-states. In the early fifteenth century, the town was administered by a podestà — a civic magistrate appointed to exercise criminal jurisdiction — whose court, the Tribunale dei Malefici, had competence over criminal matters including maleficium in its secular sense. This jurisdictional structure is historically significant: the 1428 trial of Matteuccia di Francesco was a communal secular prosecution, not an ecclesiastical inquisitorial proceeding. The distinction matters because it demonstrates that the composite witch stereotype incorporating diabolism and sabbath was not exclusively a product of inquisitorial procedure, but could be generated through civic criminal courts working with charges that combined traditional maleficium with the emerging learned demonological synthesis. The Papal States did not operate a locally resident inquisitorial tribunal in Todi at this date in the same capacity that the Venetian Inquisition operated in Friuli.",
+
+  "witchcraft_trials_significance": "The trial and execution of Matteuccia di Francesco at Todi on March 20, 1428 holds a precise and contested significance in witchcraft historiography: it is among the earliest Italian trials to combine charges of maleficium, explicit diabolism, and sabbath attendance in a single prosecution record, antedating the Malleus Maleficarum (1487) by nearly sixty years. The trial record describes Matteuccia flying to sabbath gatherings on the back of a diabolical creature, entering into explicit covenant with the devil, and performing a range of harmful magical acts against neighbors and clients — the full composite stereotype that later systematizers would codify. For Ginzburg, the Todi trial is part of the evidentiary web he assembles in Ecstasies for the early fifteenth-century crystallization of the sabbath concept in north and central Italian judicial practice; for Clark, it is an early demonstration of how demonological theory was translated into judicial charge; for Hutton, it is a case in which a cunning-folk practitioner's recognized community functions were absorbed into an expanding prosecutorial framework.",
+
+  "trial_events": [
+    "todi-1428-trial"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Cristoforo di Ser Jacopo",
+      "role": "Podestà of Todi",
+      "contribution_to_trials": "Presided over the communal secular prosecution of Matteuccia di Francesco; his court, the Tribunale dei Malefici, exercised criminal jurisdiction over the case under civic rather than inquisitorial authority, making the Todi trial a product of communal governance rather than ecclesiastical prosecution"
+    }
+  ],
+
+  "ecclesiastical_authority": "The Papal States in which Todi was situated fell nominally under the authority of Rome, but the 1428 prosecution was conducted through the communal secular court rather than any inquisitorial body. The trial record does not indicate the participation of an ecclesiastical inquisitor. This secular jurisdictional character distinguishes Todi from contemporaneous Alpine trials where episcopal or inquisitorial courts were the prosecutorial vehicle, and it suggests that the composite witch stereotype was circulating in central Italian civic legal culture independently of formal inquisitorial procedure by the late 1420s.",
+
+  "persecution_timeline": {
+    "1428_march": "Matteuccia di Francesco tried and executed by the communal Tribunale dei Malefici of Todi on March 20, 1428; the single surviving trial record charges her with maleficium, explicit diabolism, and sabbath attendance — among the earliest Italian prosecutions to combine these elements in a single charge"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Todi and surrounding Umbrian villages; Matteuccia's alleged clients and victims were drawn from the broader regional community rather than the town alone, suggesting she functioned as a practitioner whose reputation extended well beyond a single settlement",
+    "social_reach": "Matteuccia was a healer and wise woman whose services appear to have been sought by individuals across multiple social levels in the surrounding region; the charges against her reflect both the recognized practical functions she served and the demonological framework through which the court ultimately categorized those functions",
+    "gender_distribution": null,
+    "mortality_impact": "Single documented execution in this specific trial; the 1428 Todi case is understood by scholars as part of a broader mid-fifteenth-century emergence of composite witch trials across northern and central Italy rather than as an isolated episode, but the local prosecutorial record does not document a subsequent expansion"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark's framework situates the Todi trial as an early instance of demonological theory's translation into judicial charge: the explicit inclusion of diabolism, sabbath, and maleficium in a single set of charges reflects the emerging learned synthesis that would culminate in the Malleus Maleficarum, operating here through a civic communal court rather than through ecclesiastical inquisitorial procedure. The Todi record demonstrates that the demonological template was not confined to specialist inquisitorial practice but had penetrated Italian secular legal culture by the late 1420s.",
+    "hutton_perspective": "Hutton's framework situates Matteuccia as a cunning-folk practitioner — a recognized community healer whose services addressed practical needs across the region — whose prosecution illustrates how the expanding composite witch stereotype of the early fifteenth century could recategorize legitimate service-magic under demonological charges. The Todi case is an early Italian instance of the prosecutorial mechanism Hutton documents in English and Continental contexts: the transformation of a community healer's recognized functions into evidence of diabolical compact.",
+    "ginzburg_perspective": "The Todi trial is part of the geographical and chronological distribution of sabbath-incorporating prosecutions that Ginzburg assembles in Ecstasies as evidence for the early crystallization of the sabbath concept in Italian judicial practice; together with Alpine cases from the same decades, it forms part of his argument that the sabbath stereotype was not a simple imposition of learned theory but emerged from the intersection of popular nocturnal-journey traditions and inquisitorial and civic prosecutorial frameworks in the early fifteenth century."
+  },
+
+  "legacy_and_historiographical_importance": "The Todi trial has a significance in the chronology of European witchcraft history that is disproportionate to the modest scale of the prosecution itself. As one of the earliest Italian trials to incorporate the full composite witch stereotype, it is a crucial datum for historians attempting to trace when and where the synthesis of maleficium, diabolism, and sabbath crystallized into a recognizable prosecutorial form. The trial predates the major Alpine prosecutions that have traditionally been identified as the earliest mass witch trials, and its secular communal jurisdictional context — the Tribunale dei Malefici rather than an inquisitorial court — challenges narratives that locate the origins of composite witch prosecution exclusively in ecclesiastical inquisitorial procedure. Ginzburg's use of the Todi record in Ecstasies established the trial's place in the major scholarly literature; Italian local historiography, including work by Muzzarelli and others, has provided additional archival context. The trial's early date and relatively complete surviving record make it a standard reference point in discussions of the formation of the early modern witch stereotype.",
+
+  "primary_sources": "Todi communal archives, Tribunale dei Malefici records; analyzed in Ginzburg, Ecstasies (1989/1991) and in Italian scholarship including Muzzarelli's work on norms and practice in central Italian witch prosecution",
+
+  "contemporary_documentation": "The surviving trial record from the Todi communal archives constitutes the primary documentation; it records the charges against Matteuccia di Francesco, the confessional content, and the sentence of execution. No known contemporary chronicle account of equivalent detail survives. The record's significance was established through its analysis in twentieth-century Italian witchcraft scholarship and its incorporation into Ginzburg's comparative argument in Ecstasies.",
+
+  "source_method": "Todi communal archives; analyzed in Muzzarelli, 'Norms and Practice' and related Italian scholarship; discussed in Ginzburg, Ecstasies (1989/1991)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,78 @@
+{
+  "id": "north-berwick",
+  "name": "North Berwick (East Lothian)",
+  "type": "Coastal Town / Scottish Burgh",
+  "region": "Lowland Scotland",
+  "modern_location": "East Lothian, Scotland",
+  "coordinates": {
+    "latitude": 56.057,
+    "longitude": -2.723
+  },
+
+  "administrative_context": "North Berwick was a small coastal burgh in East Lothian, administered under Scottish burgh law and located approximately twenty-four miles east of Edinburgh along the Firth of Forth. In the late sixteenth century, Scottish criminal jurisdiction over witchcraft was exercised by commissions granted by the Privy Council, which delegated prosecutorial authority to local commissioners empowered to try specific accused persons — a decentralized system that gave local elites considerable latitude and contributed to the geographic spread of prosecutions. The burgh itself lay within the ecclesiastical jurisdiction of the Church of Scotland, whose General Assembly had been intensifying theological attention to diabolism and witchcraft from the 1560s. The proximity to Edinburgh ensured that the 1590-91 trials attracted royal attention and were closely connected to the central institutions of Scottish governance in a way that provincial trials in more remote areas were not.",
+
+  "witchcraft_trials_significance": "The North Berwick trials of 1590-91 are among the most politically consequential witch trials in European history, distinguished by two features without parallel in the witchcraft record: the personal interrogation of an accused witch by a reigning monarch, and the direct conversion of those interrogation experiences into a published demonological treatise. James VI of Scotland conducted interrogations himself — most famously of Agnes Sampson at Holyrood Palace — and the confessional content he extracted (sabbath assemblies at North Berwick Kirk, storm-raising against his fleet, wax images of the king) fed directly into the Daemonologie he published in 1597. The trials also demonstrate with unusual clarity the social cascade mechanism: the entire prosecution was initiated by the torture of a servant girl, Geillis Duncan, by her employer David Seaton, whose extracted names created the accusatory network from which the mass prosecution developed. Christina Larner's Enemies of God (1981) identifies North Berwick as the starting point for Scotland's most intensive prosecution phase.",
+
+  "trial_events": [
+    "north-berwick-1590-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "James VI of Scotland",
+      "role": "Monarch; personal interrogator",
+      "contribution_to_trials": "Personally interrogated Agnes Sampson at Holyrood Palace; his demonological convictions were directly shaped by the proceedings and issued in Daemonologie (1597); as James I of England from 1603, carried his witch-trial experiences into the English prosecutorial context"
+    },
+    {
+      "name": "David Seaton",
+      "role": "Deputy bailiff of Tranent",
+      "contribution_to_trials": "Arrested and tortured his servant Geillis Duncan, extracting under torture the initial denunciations that created the accusatory network; his private act of coercive interrogation set the entire prosecution in motion"
+    },
+    {
+      "name": "Scottish Privy Council commissioners",
+      "role": "Formal judicial commissioners",
+      "contribution_to_trials": "Conducted the formal criminal proceedings under Privy Council commission; the decentralized Scottish commission system gave these locally appointed bodies wide prosecutorial latitude"
+    }
+  ],
+
+  "ecclesiastical_authority": "The Church of Scotland exercised ecclesiastical discipline through its system of kirk sessions and presbyteries, and the General Assembly had been intensifying its theological engagement with diabolism and witchcraft since the 1560s. However, the criminal prosecution of witchcraft in Scotland operated through secular Privy Council commissions rather than ecclesiastical inquisitorial procedure — a distinction that placed final authority over life and death in the hands of civil commissioners rather than church courts.",
+
+  "persecution_timeline": {
+    "1590_autumn": "Geillis Duncan arrested and tortured by her employer David Seaton; names Agnes Sampson and others under torture, initiating the accusatory cascade",
+    "1590_winter": "Agnes Sampson arrested and examined by James VI personally at Holyrood Palace; confesses to sabbath assembly at North Berwick Kirk and a conspiracy to destroy James VI through sea storms raised against his fleet returning from Denmark",
+    "1591_january": "Agnes Sampson executed at Castlehill, Edinburgh",
+    "1591_ongoing": "Geillis Duncan executed December 4, 1591; Francis Stewart, Earl of Bothwell, accused as instigator but escapes; trials expand through 1591-92 with additional accused drawn from East Lothian and beyond",
+    "1597": "James VI publishes Daemonologie, articulating the demonological convictions shaped partly by his direct involvement in the North Berwick interrogations"
+  },
+
+  "affected_population": {
+    "geographic_extent": "East Lothian and Edinburgh primarily; the alleged conspiracy extended to Francis Stewart, Earl of Bothwell, and implicated members of the Scottish nobility, giving the prosecution a political dimension extending well beyond the burgh itself",
+    "social_reach": "The accused ranged from servant girl (Geillis Duncan) to respected community healer (Agnes Sampson, widely known as the Wise Wife of Keith) to high nobility (the Earl of Bothwell), a social range extraordinary in the witchcraft record and reflecting the political as well as prosecutorial ambitions of the proceedings",
+    "gender_distribution": "Predominantly female among the initial accused; the attempt to implicate the Earl of Bothwell as instigator extended accusations into the male nobility, producing an unusually mixed-gender accusation profile at the upper social register",
+    "mortality_impact": "Approximately seventy persons executed in connection with the North Berwick trials and subsequent East Lothian prosecutions of the 1590s, though precise figures remain contested among scholars; Larner's estimates have been both cited and revised in subsequent scholarship"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark reads the North Berwick trials as evidence of demonological theory's penetration into royal consciousness: James VI's personal interrogation of Agnes Sampson and his acceptance of her sabbath-conspiracy confession demonstrate how the learned theory of diabolic conspiracy could structure a monarch's understanding of political threats to his authority. The confessional content — storms raised against the royal fleet, wax images of the king — shows the demonological framework actively organizing the interpretation of what would otherwise have been understood as political conspiracy.",
+    "hutton_perspective": "Hutton situates Agnes Sampson specifically within his cunning-folk framework — she was the Wise Wife of Keith, a licensed healer whose services were sought across the region — demonstrating how prosecutorial demonology could engulf practitioners whose community function was beneficial and whose clients came from all social strata. The North Berwick case illustrates the vulnerability of respected service-magic practitioners to demonological recategorization when political circumstances aligned against them.",
+    "ginzburg_perspective": "The North Berwick cases illustrate the accusatory cascade mechanism central to Ginzburg's microhistorical method: Geillis Duncan's extraction of names under torture by David Seaton created the accusatory network from which the larger prosecution developed. The confessional content — sabbath at North Berwick Kirk, storm-raising, wax image of the king — reflects inquisitorial suggestion and political framing rather than spontaneous popular disclosure, and close reading of the interrogation records reveals the scaffolding of leading questions behind the confessions."
+  },
+
+  "legacy_and_historiographical_importance": "North Berwick's historiographical importance extends well beyond Scotland. James VI's direct participation in the interrogations, and his subsequent authorship of Daemonologie (1597), made the North Berwick trials a node in the transnational circulation of demonological theory: a reigning monarch had not merely authorized a witch prosecution but had personally conducted interrogations and then published a systematic demonological treatise partly in response to what he had learned. When James became James I of England in 1603, he brought his demonological convictions into the English context, contributing to the witch-trial culture of the early seventeenth century and to the legislative environment in which the Witchcraft Act of 1604 was passed. Larner's Enemies of God (1981) identifies North Berwick as the beginning of Scotland's most intensive prosecution phase, and the trials have been the subject of sustained scholarly attention — most recently in Normand and Roberts, Witchcraft in Early Modern Scotland (2000) — as a case where political, theological, and social dynamics can be traced in unusually close documentary detail.",
+
+  "primary_sources": "Newes from Scotland (1591) pamphlet; Scottish Privy Council records; analyzed in Normand and Roberts, Witchcraft in Early Modern Scotland (2000) and Larner, Enemies of God (1981)",
+
+  "contemporary_documentation": "The Newes from Scotland pamphlet (1591) provides a near-contemporary narrative account of the trials written for a popular audience, including descriptions of the sabbath at North Berwick Kirk and Agnes Sampson's interrogation by James VI. James VI's Daemonologie (1597) constitutes the most intellectually significant contemporary response. Scottish Privy Council records document the commission structure and formal legal proceedings.",
+
+  "source_method": "Newes from Scotland (1591) pamphlet; Scottish Privy Council records; Normand and Roberts, Witchcraft in Early Modern Scotland (2000); Larner, Enemies of God (1981)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

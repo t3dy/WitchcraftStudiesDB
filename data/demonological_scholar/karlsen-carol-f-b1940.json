@@ -1,0 +1,97 @@
+{
+  "id": "karlsen-carol-f-b1940",
+  "name": "Carol F. Karlsen",
+  "birth_year": 1940,
+  "birth_place": null,
+  "academic_discipline": "Women's History / Social History",
+  "primary_institution": "University of Michigan",
+  "specialization": "Gender analysis of Salem witch trials; women's property relations; feminist historiography of persecution",
+
+  "major_works": [
+    {
+      "title": "The Devil in the Shape of a Woman: Witchcraft in Colonial New England",
+      "year": 1987,
+      "publisher": "W. W. Norton",
+      "significance": "The standard gender analysis of Salem and New England witchcraft; argues that women who stood to inherit property or who lacked male governance were disproportionately accused; establishes the demographic baseline for sociological analysis of the Salem accused",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "FEMINIST SOCIAL HISTORY / GENDER AND PROPERTY ANALYSIS",
+  "core_argument": "Karlsen's foundational argument combines quantitative and qualitative analysis of the Salem accused to produce a structural, material explanation for the gender pattern in witchcraft accusation. Demographically, she demonstrates that accused women were disproportionately those who stood in inheritance lines or who had already inherited — women whose property relationship to male governance was anomalous under early modern New England law. In the Puritan colony, property descended through male lines; women inherited only when male heirs were absent. Women who had inherited, or who stood to inherit, disrupted the patriarchal property system, generating social anxiety that found expression in the theological language available to seventeenth-century New Englanders: witchcraft accusation. The pattern is sufficiently specific that simple gender analysis cannot explain it — not all women were equally vulnerable, but women in particular structural positions with respect to property and inheritance were.\n\nKarlsen integrates this material analysis with cultural analysis of Puritan ideology: the witch concept itself was gendered in ways that made female independence — economic, religious, or social — theologically suspect. The 'witch' in Puritan New England was not a gender-neutral category accidentally applied to women more than men but a cultural concept that encoded female power as diabolical threat. Her thesis is not that persecution was simply misogynistic, a reductive formulation Karlsen explicitly rejects, but that specific structural features of patriarchal property relations created identifiable vulnerability that Puritan theology provided the language to activate. The two dimensions — material and ideological — were mutually reinforcing: the property structure identified who was vulnerable; the theology specified why their independence was dangerous.",
+
+  "methodological_approach": {
+    "primary_materials": "Trial records, probate records, and court documents from Salem and broader New England witch trials; demographic reconstruction of accused persons' property status and inheritance position",
+    "analysis_target": "The structural position of accused women with respect to property, inheritance, and male governance; the ideological framing of female power in Puritan theology",
+    "evidence_type": "Quantitative demographic analysis of the accused; qualitative analysis of Puritan religious texts and gender ideology; reconstruction of property records",
+    "explanatory_level": "Structural analysis of property relations and gender ideology as intersecting systems producing specific vulnerabilities"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The inheritance-anomaly thesis",
+      "claim": "Accused women at Salem were disproportionately those who had inherited property or stood to inherit — women whose position with respect to patriarchal property descent was structurally anomalous. When no male heirs were available, property passed to women, creating female economic independence that the community found threatening and that generated accusation.",
+      "implication": "The gender pattern in Salem accusations is not explained by general misogyny but by specific structural features of property law and inheritance practice. This requires a material rather than purely ideological explanation, and it predicts who specifically would be accused in ways that general misogyny arguments cannot."
+    },
+    {
+      "concept": "Quantitative demographic baseline for the Salem accused",
+      "claim": "Karlsen's systematic analysis of the Salem accused established the demographic profile — age, marital status, property position, family network — that subsequent historians have accepted as the baseline for sociological analysis of the 1692 outbreak.",
+      "implication": "Social history of Salem requires engagement with Karlsen's demographic findings; explanations that cannot account for the observed pattern of accusation are incomplete regardless of their theoretical appeal."
+    },
+    {
+      "concept": "The critique of reductive misogyny as explanation",
+      "claim": "Karlsen explicitly rejects the argument that witch persecution was straightforwardly misogynistic — that women were accused because patriarchal society feared or hated women. The actual accusation pattern was too specific and structured for this explanation: not all women were equally vulnerable, and some men were accused while many women were not.",
+      "implication": "Feminist historiography of witchcraft must engage with archival specificity rather than resting on ideological generalization. The more powerful feminist argument is structural and material, not simply attitudinal."
+    },
+    {
+      "concept": "Integration of gender history with social history",
+      "claim": "Gender relations were material — constituted by property law, inheritance practice, and economic dependence — as well as ideological. The two dimensions cannot be separated: Puritan theology encoded as diabolical threat the same female independence that property law attempted to foreclose.",
+      "implication": "Witchcraft history must integrate material analysis of property and law with cultural analysis of gender ideology; neither alone is sufficient. This integration sets the methodological standard for subsequent feminist social history of prosecution."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "probate_records": "Karlsen's archival innovation was to correlate witch trial records with probate and property records, identifying which accused women had inherited or stood to inherit and tracing the property trajectories that preceded accusation.",
+    "trial_documents": "Karlsen reads trial documents for the specific social contexts of accusation — who accused whom, what prior relationships existed, what property disputes or economic dependencies connected accuser and accused.",
+    "puritan_theological_texts": "Karlsen reads Puritan sermons, conduct literature, and theological commentary to reconstruct the ideological framework that coded female economic independence as spiritual danger."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Paul Boyer and Stephen Nissenbaum (community-structure analysis of Salem; quantitative mapping of accusation patterns)",
+      "Mary Beth Norton (In the Devil's Snare; political and military crisis context adding further dimension to structural analysis)",
+      "John Demos (Entertaining Satan; Puritan New England community dynamics and psychological context)"
+    ],
+    "creative_tension_with": [
+      "Ronald Hutton (Hutton's cunning-folk framework emphasizes the positive social function of female practitioners and their community integration; Karlsen emphasizes the structural vulnerability created by female property ownership, producing a more constrained account of female agency)",
+      "Stuart Clark (Clark's intellectual history of demonological theory does not engage the material property relations Karlsen identifies as the proximate structural cause of accusation in New England; Clark explains why witchcraft accusation was intellectually coherent, but not why these specific women were accused)",
+      "Carlo Ginzburg (Ginzburg's interrogation-level microhistory attends to what accused persons said and how coercion shaped their testimony; Karlsen's structural analysis operates at the demographic level where individual voices are aggregated into pattern)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Devil in the Shape of a Woman established the demographic and structural baseline for analyzing Salem and New England witchcraft accusations. Karlsen's inheritance-anomaly thesis is the most empirically documented claim about the pattern of accusation at Salem, and it has been broadly accepted as an explanation of that specific case. Her integration of feminist historiography with archival quantitative analysis set the methodological standard for subsequent gender-informed witchcraft history.",
+    "criticisms": [
+      "Karlsen's inheritance-anomaly thesis has been broadly accepted for Salem specifically but has been questioned as a general explanation for European witch trials, where property law and inheritance practice differed substantially from New England; the thesis may be case-specific rather than generalizable",
+      "Some historians argue that Karlsen underweights the role of community conflict dynamics that Boyer and Nissenbaum identify — the property-inheritance pattern may be a correlate of deeper factional tensions rather than an independent cause",
+      "The feminist dimensions of Karlsen's analysis have generated debate about whether gender was a cause or a correlate of persecution; some historians argue the property-inheritance pattern could be explained by economic anxiety without invoking gender ideology as an independent variable"
+    ]
+  },
+
+  "engagement_with_karlsen_in_witchcraftdb": {
+    "database_integration": "Karlsen's framework informs accused_person entries for New England cases, particularly the analysis of property status and inheritance position in the biographical profiles of Salem accused. Her inheritance-anomaly thesis is the reference point for the gender_vulnerability fields in accused_person entries from colonial New England.",
+    "interpretive_weight": "Salem accusations are analyzed for their material property dimensions alongside community-conflict (Boyer/Nissenbaum) and political-crisis (Norton) explanations; Karlsen's framework is applied as a complement to rather than replacement for other structural analyses."
+  },
+
+  "historiographical_significance": "The Devil in the Shape of a Woman established the demographic baseline for analyzing who was accused at Salem and New England witch trials more broadly. Karlsen's inheritance-anomaly thesis — that women who had inherited or stood to inherit were disproportionately accused — gave a structural, material explanation for the gender pattern in accusation that went beyond reductive claims about misogyny. Her work integrated feminist historiography into witchcraft studies in a way that required engagement with specific archival evidence rather than ideological assertion, making it broadly persuasive across the historiographical spectrum. Levack's comparative framework confirms Karlsen's finding that Salem's accused profile was distinctive, and Karlsen's work helps explain why: New England's specific inheritance law and Puritan gender ideology produced a persecution pattern different from European cases, even where the theological framework was similar. Boyer and Nissenbaum's community-conflict model and Karlsen's inheritance-anomaly thesis are now read as complementary rather than competing frameworks, with Norton's political-crisis analysis adding a third structural layer; together they constitute the explanatory architecture within which individual Salem cases are interpreted.",
+
+  "scholarly_disagreement": "Karlsen's inheritance-anomaly thesis has been broadly accepted for Salem specifically but has been questioned as a general explanation for European witch trials where property law differed substantially. Some European historians argue the specific New England inheritance pattern does not generalize. The feminist dimensions of her analysis have generated debate about whether gender was a cause or correlate of persecution.",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

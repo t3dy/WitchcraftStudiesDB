@@ -1,0 +1,54 @@
+{
+  "id": "todi-1428-witchcraft-trial",
+  "name": "Trial of Matteuccia di Francesco, Todi (1428)",
+  "location_id": "todi",
+  "year_start": 1428,
+  "year_end": 1428,
+  "alleged_accused_count": 1,
+  "executed_count": 1,
+  "trial_type": "Communal secular court (Tribunale dei Malefici of Todi)",
+  "regional_context": "Commune of Todi, Umbria, Central Italy",
+
+  "summary": "The Todi trial of 1428 is one of the earliest documented Italian witch prosecutions to combine the full composite witch stereotype — maleficium (harmful magic), explicit demonic pact, and sabbath attendance — in a single set of charges against a single accused. Matteuccia di Francesco, a healer and folk practitioner from Ripabianca (near Todi), was tried before the Tribunale dei Malefici, the commune's secular court for criminal offenses, presided over by the Podestrà Cristoforo di Ser Jacopo. The charges incorporated accusations of harming people through magical preparations, preparing a magical ointment enabling flight, and attending demonic gatherings. She was condemned and executed by burning on March 20, 1428. The trial precedes the Malleus Maleficarum (1487) by nearly sixty years and the major systematic European hunts by more than a century, making it a critical early datum for understanding when and where the composite witch stereotype crystallized in judicial practice. It was conducted by a civic rather than ecclesiastical body — an important distinction from the more familiar inquisitorial model of witch prosecution.",
+
+  "historiographical_significance": "The Todi trial is historiographically significant as an early fixed point in the chronology of the composite witch stereotype's emergence in Italian judicial practice. Ginzburg's Ecstasies (1989/1991) situates early Italian trials like the Todi case within his argument about the geographical crystallization of sabbath doctrine in the mid-fifteenth century Alps and pre-Alps, identifying a belt of early trials (Switzerland, Savoy, Dauphiné, northern Italy) in which the composite accusation first appeared. Todi's location in Umbria — south of the Alpine belt Ginzburg emphasizes — and its 1428 date make it a challenge to simple geographical narratives about sabbath doctrine's diffusion. Levack notes that Italian trials like Todi demonstrate that the composite witch stereotype could achieve lethal judicial application before the major demonological treatises had systematized it theoretically. The trial's institutional context is also notable: it was conducted by a secular communal court, not an ecclesiastical inquisition. This places it among the cases that Levack uses to argue that secular courts, not ecclesiastical inquisitions, were the primary engines of witch execution — the Venetian Inquisition, by contrast, executed no benandanti in the same century.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+
+  "key_details": {
+    "court": "Tribunale dei Malefici (Court of Evil Deeds), secular communal court of Todi",
+    "presiding_officer": "Cristoforo di Ser Jacopo, Podestrà of Todi",
+    "institutional_character": "Secular civic court, not an inquisitorial body — the distinction from papal or episcopal jurisdiction is historiographically significant",
+    "execution_date": "March 20, 1428",
+    "charges_summary": "Preparation of harmful magical substances (veneficia); preparation and use of a flying ointment enabling nocturnal transport; attendance at demonic assemblies; pact with demonic forces",
+    "accused_occupation": "Healer and folk practitioner; clients sought her services for love magic, healing, and problem resolution"
+  },
+
+  "scholarly_disagreement": "The Todi trial has not generated major historiographical controversy regarding its basic facts, which are documented in the surviving trial record. Scholarly debate concerns its place within the broader pattern of early Italian witch trials: Ginzburg emphasizes it as evidence for the Alpine transmission belt of sabbath doctrine, while other historians suggest the composite accusations reflect more diffuse processes of theological and legal synthesis that need not imply a specific geographical route of transmission. The relationship between the Franciscan preaching campaigns of Bernardino of Siena (active in Umbria in the same period) and the emergence of composite charges in Italian communal courts is debated — some historians argue Franciscan preaching directly shaped prosecutorial expectations; others argue this overstates the connection.",
+
+  "accused_persons": [
+    "matteuccia-di-francesco-todi-1428"
+  ],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "friuli-benandanti-1575-inquisition"
+  ],
+
+  "source_method": "Todi communal court records (partially preserved); analyzed in Muzzarelli and related Italian scholarship on early witch trials; discussed in Ginzburg, Ecstasies (1989/1991) and Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "historiographical_notes": "The Todi trial's early date (1428) makes it a touchstone for establishing that the composite witch stereotype was operative in Italian judicial practice well before the publication of the Malleus Maleficarum. Historians have used it alongside the early Swiss and Savoyard trials to push back the conventional 'beginning' of the witch-hunt to the early fifteenth century rather than the late fifteenth century. This chronological revision has implications for the causal explanations offered: if composite witch accusations predate the Malleus, then the Malleus was a theorization of an already-existing prosecutorial practice rather than the trigger that created it.",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

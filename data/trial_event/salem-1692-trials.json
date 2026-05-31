@@ -1,0 +1,76 @@
+{
+  "id": "salem-1692-trials",
+  "name": "Salem Witch Trials",
+  "location_id": "salem",
+  "year_start": 1692,
+  "year_end": 1693,
+  "alleged_accused_count": 200,
+  "executed_count": 20,
+  "trial_type": "Court of Oyer and Terminer (colonial common law, special commission)",
+  "regional_context": "Massachusetts Bay Colony, British Colonial North America",
+
+  "summary": "The Salem witch trials of 1692-1693 are the most extensively documented and most intensively analyzed witch prosecution in American history, and among the most analyzed in the Atlantic world. Accusations began in the household of minister Samuel Parris in Salem Village (modern Danvers) when his daughter Betty and niece Abigail Williams began exhibiting fits in January 1692. The three persons initially accused — Tituba (an enslaved person of Caribbean origin), Sarah Good (a destitute vagrant), and Sarah Osborne (an elderly invalid) — were arrested February 29, 1692. Governor William Phips established the Court of Oyer and Terminer on May 27, 1692 to try the rapidly multiplying cases. Chief Justice William Stoughton accepted spectral evidence — the testimony of afflicted persons about spiritual apparitions — as legally probative. Bridget Bishop was hanged June 10, 1692; eighteen more were hanged through September; Giles Corey was pressed to death September 19 after refusing to enter a plea. Governor Phips dissolved the court October 29, 1692 after Increase Mather's Cases of Conscience (1693) challenged spectral evidence and after accusations reached socially prominent individuals, including the governor's wife. The Superior Court of Judicature acquitted all remaining accused in 1693. The 20 executed (19 hanged, 1 pressed) and approximately 5 who died in prison represent the final toll.",
+
+  "historiographical_significance": "Salem is the most debated witch trial in historical scholarship, and the debate has produced the three most important interpretive frameworks for understanding American colonial prosecutions. Boyer and Nissenbaum's Salem Possessed (1974) established the community-conflict model: by mapping accusers and accused onto pre-existing factional alignments — farming Salem Village versus commercial Salem Town — they demonstrated that the accusation pattern was socially structured, not random. This framework shifted the explanatory question from 'why did people believe in witches?' to 'why did these specific people accuse these specific others?' Karlsen's The Devil in the Shape of a Woman (1987) demonstrated that accused women were disproportionately those who had inherited or stood to inherit property — women whose relationship to patriarchal property transmission was anomalous. Norton's In the Devil's Snare (2002) added the military context: the ongoing frontier war with Native Americans (King William's War) generated genuine existential anxiety that Boyer and Nissenbaum underweighted. Clark's intellectual-history framework applies to Salem through the spectral-evidence debate: Increase Mather's challenge was not a rejection of witchcraft belief but an internal theological argument that spectral evidence was epistemologically insufficient — the devil could, according to Puritan theology, assume the likeness of an innocent person, making spectral appearance untrustworthy as evidence. Levack's comparative analysis situates Salem as exceptional within the English colonial context but unremarkable by Continental standards: the cascade mechanism, spectral evidence, and lack of effective external review were the same institutional conditions that enabled European mass prosecutions.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+
+  "key_details": {
+    "initiating_household": "Household of Samuel Parris, minister of Salem Village; his daughter Betty (9) and niece Abigail Williams (11) exhibited fits beginning January 1692",
+    "first_accused": "Tituba (enslaved person), Sarah Good (destitute vagrant), Sarah Osborne (elderly invalid) — arrested February 29, 1692",
+    "court_established": "Court of Oyer and Terminer established May 27, 1692 by Governor William Phips",
+    "chief_justice": "William Stoughton, who consistently accepted spectral evidence and never publicly expressed regret",
+    "first_execution": "Bridget Bishop hanged June 10, 1692",
+    "spectral_evidence_debate": "The acceptance of spectral evidence — the testimony of afflicted persons that they saw apparitions of the accused — was the central procedural controversy. Increase Mather's Cases of Conscience (1693) challenged this, arguing the devil could assume an innocent person's likeness.",
+    "notable_executions": "Rebecca Nurse (elderly respected grandmother), George Burroughs (former minister), Martha Corey, Mary Easty (whose final petition for others after her own death sentence survived), Giles Corey (pressed to death September 19)",
+    "trial_phases": [
+      {
+        "phase": "Initial accusations (January–April 1692)",
+        "context": "Accusations concentrated in Salem Village; primarily targeting social outsiders (Good, Tituba) and those with prior community disputes"
+      },
+      {
+        "phase": "Expansion and mass arrest (May–August 1692)",
+        "context": "Court of Oyer and Terminer established; accusations spread to Salem Town and outlying communities including Andover; respected community members (Nurse, Burroughs) accused"
+      },
+      {
+        "phase": "Peak executions and collapse (September–October 1692)",
+        "context": "Nineteen hanged, one pressed to death; accusers began targeting Governor Phips's wife and other prominent figures; spectral evidence challenge gains traction"
+      },
+      {
+        "phase": "Resolution (October 1692–May 1693)",
+        "context": "Court dissolved; Superior Court of Judicature acquits remaining accused; no further executions"
+      }
+    ]
+  },
+
+  "scholarly_disagreement": "Boyer and Nissenbaum's community-conflict model — the standard framework since 1974 — has been supplemented but not displaced by subsequent scholarship. Norton's In the Devil's Snare (2002) argues that Boyer and Nissenbaum underweighted the military and frontier-crisis context, which generated the existential anxiety that made diabolical conspiracy explanations plausible to a broader population. Karlsen's demographic analysis and Boyer/Nissenbaum's structural analysis are generally treated as complementary (explaining who was accused and what structural conditions enabled it) rather than competing. The 'spectral evidence' explanation — that the specific legal error of accepting spectral testimony enabled the cascade — is accepted across historiographical traditions but understood as a proximate rather than ultimate cause. Rosenthal's Salem Story (1993) challenged some of Boyer/Nissenbaum's specific community-conflict mappings while accepting their framework.",
+
+  "accused_persons": [
+    "bridget-bishop-salem-1692",
+    "giles-corey-salem-1692",
+    "rebecca-nurse-salem-1692",
+    "sarah-good-salem-1692"
+  ],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "north-berwick-1590-trials"
+  ],
+
+  "source_method": "Salem Witchcraft Papers (3 vols., Boyer and Nissenbaum eds., 1977); Boyer and Nissenbaum, Salem Possessed (1974); Karlsen, The Devil in the Shape of a Woman (1987); Norton, In the Devil's Snare (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "historiographical_notes": "Salem occupies a distinctive position in American cultural memory as well as scholarship: it became the paradigm case in American public discourse for collective moral panic, and the 1953 Arthur Miller play The Crucible (written as an allegory for McCarthyism) has shaped popular understanding more than the scholarly literature. Historians consistently note the gap between the historical Salem — a specific colonial community under specific institutional, theological, and social pressures — and the cultural myth. The legislative exonerations of 1711 and 2001 (the last victims cleared) are evidence of Salem's continuing political resonance. Samuel Sewall's public apology (January 14, 1697) — the only judge to do so — is preserved in his diary and is the most significant contemporary self-critique of the prosecution by a participant.",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

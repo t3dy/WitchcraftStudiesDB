@@ -4,14 +4,14 @@
 
 | Type | Count | ID Pattern | Example |
 |------|-------|------------|---------|
-| `trial_event` | 2 | `trial-location-year` | `bamberg-1626-mass-prosecution` |
+| `trial_event` | 5 | `trial-location-year` | `bamberg-1626-mass-prosecution` |
 | `accused_person` | 15 | `name-location-year` | `margaretha-binder-bamberg-1626` |
-| `demonological_concept` | 2 | `concept-name` | `witches-sabbath-collective` |
-| `demonological_scholar` | 3 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
-| `location` | 1 | `location-name` | `bamberg` |
+| `demonological_concept` | 3 | `concept-name` | `witches-sabbath-collective` |
+| `demonological_scholar` | 7 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
+| `location` | 5 | `location-name` | `bamberg` |
 | `healer_practitioner` | 1 | `name-location-tradition` | `gaspar-tagliacarne-friuli-benandante` |
 | `persecuted_group` | 4 | `group-descriptor-scope` | `widows-early-modern` |
-| `inquisitorial_body` | 4 | `institution-name` | `venetian-inquisition` |
+| `inquisitorial_body` | 5 | `institution-name` | `venetian-inquisition` |
 
 ## JSON Conventions
 

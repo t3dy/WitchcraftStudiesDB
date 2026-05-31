@@ -9,11 +9,8 @@
   "age_at_trial": null,
   "social_status": "Washerwoman (court laundress)",
   "gender": "Female",
-
   "biography": "Catharina Henot was a washerwoman attached to the court of the Prince-Bishop of Bamberg when she was named as an accomplice by Margaretha Binder following torture in May 1626. Her precise biography prior to accusation is poorly documented, consistent with her marginal social position. The naming of washerwomen and laundresses among early accused reflects the cascade logic: Binder, as court midwife, would plausibly have known laundry staff. Henot was arrested in the second wave of prosecutions (1627) following Binder's confession. Historiographical note: the name Katharina Henot was also borne by a prominent Cologne postmistress executed in 1627—historians must distinguish the two, who appear to be unrelated individuals.",
-
   "arrest_narrative": "Henot was arrested in early 1627 as a direct consequence of Margaretha Binder's tortured confession, in which she named Henot as a fellow participant in sabbath gatherings. As the Bamberg prosecution expanded from its initial 1626 cases, inquisitors systematically arrested individuals named in confessions. Henot's low social status as a court washerwoman offered no protection, and the institutional logic of denunciation-based prosecutions gave interrogators no incentive to question the reliability of torture-extracted names.",
-
   "interrogation_and_confession": {
     "first_interrogation": {
       "date": "1627",
@@ -30,20 +27,19 @@
       }
     ]
   },
-
   "confession_content": {
     "demonic_pact": "Specific content of Henot's confession not preserved in extant scholarship; standard demonic pact formula almost certainly applied based on interrogation protocol.",
     "sabbath_activities": "Not specifically documented in surviving records.",
     "maleficium_claimed": "Not specifically documented.",
-    "accomplices_named": ["Unknown; likely named additional suspects per cascade logic"]
+    "accomplices_named": [
+      "Unknown; likely named additional suspects per cascade logic"
+    ]
   },
-
   "historiographical_analysis": {
     "torture_mechanism": "Henot's case exemplifies the second-wave arrest pattern in cascade prosecutions. Binder's naming of her under torture initiated arrest; interrogation of Henot would in turn have produced further names. The identity of the actual person matters less to the prosecution than the cascade function her arrest served.",
     "plausibility": "Extremely low. Henot was named under torture by someone who had reason to name acquaintances from her workplace environment. No independent evidence supports the accusation.",
     "social_vulnerability": "As a washerwoman—physically present in court environments but lacking the social standing of midwives, merchants, or officials—Henot represented exactly the kind of marginal figure who could be accused without provoking significant institutional resistance. Hutton's analysis of social vulnerability in mass prosecutions applies directly."
   },
-
   "execution_details": {
     "date": "1627",
     "method": "Burning at stake (standard Bamberg protocol)",
@@ -51,32 +47,26 @@
     "witnesses": "Court officials, assembled townspeople",
     "final_statement": "Not recorded in surviving sources."
   },
-
   "accusations_against_her": [
     "Participation in witches' sabbaths (named by Binder under torture)",
     "Demonic pact",
     "Unspecified maleficium"
   ],
-
   "contemporary_defense": {
     "supporters": "No record of formal defense or family advocacy.",
     "defense_arguments": "None documented in surviving records."
   },
-
   "historiographical_significance": "Henot's case stands at the intersection of two distinct historiographical questions. As a cascade-prosecution victim, it exemplifies Levack's structural argument: the logic of denunciation-based prosecution requires no independent accusation, only a name extracted from a predecessor under torture, and low-status victims like court washerwomen were processed through that mechanism without institutional resistance or individual scrutiny. Briggs's community-based approach (*Witches and Neighbours*, 1996) similarly finds no purchase here — where neighbor disputes and community tensions drove many prosecutions, Henot appears to have had no relationship with her accuser beyond workplace proximity, making her case a near-pure product of the denunciation chain rather than of social conflict. The coincidence of her name with Katharina Henot of Cologne (1576–1627) — an Imperial Postmistress of substantially higher status, independently prosecuted in a different jurisdiction and posthumously pardoned by the Cologne city council in 2012 — introduces a genuine historiographical hazard. Scholars working with Bamberg trial records must verify that biographical detail attributed to 'Katharina Henot' in secondary sources derives from the correct jurisdiction and case; older scholarship that did not rigorously distinguish simultaneous prosecutions in different territories risks cross-contaminating the two cases. This ambiguity is itself methodologically instructive: it illustrates how poorly documented cascade victims can be inadvertently merged with more visible namesakes in the secondary literature.",
-
   "scholarly_disagreement": "Possible name confusion with the Cologne Katharina Henot (1576–1627), an Imperial Postmistress independently executed for witchcraft in Cologne the same year and posthumously pardoned by Cologne city council in 2012. The two appear to be unrelated individuals sharing a common name.",
-
   "source_method": "Bamberg episcopal archives, via Behringer 1997; inference from Binder confession record",
   "review_status": "DRAFT",
   "confidence": "LOW",
-
   "scholarly_sources": [
     "ankarloo-clark-vol4-witch-trials-2001",
     "ginzburg-ecstasies-1991",
     "clark-thinking-with-demons-2001"
   ],
-
   "created_date": "2026-05-29",
-  "last_modified": "2026-05-29"
+  "last_modified": "2026-05-29",
+  "primary_document": null
 }

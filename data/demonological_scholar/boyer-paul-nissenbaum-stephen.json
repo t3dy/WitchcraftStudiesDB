@@ -1,0 +1,113 @@
+{
+  "id": "boyer-paul-nissenbaum-stephen",
+  "name": "Paul Boyer and Stephen Nissenbaum",
+  "birth_year": null,
+  "birth_place": null,
+  "academic_discipline": "Social History / Community History",
+  "primary_institution": "University of Massachusetts Amherst / University of Massachusetts",
+  "specialization": "Salem witch trials; community structure and social conflict; Puritan New England",
+
+  "major_works": [
+    {
+      "title": "Salem Possessed: The Social Origins of Witchcraft",
+      "year": 1974,
+      "publisher": "Harvard University Press",
+      "significance": "The paradigm-setting community study of the 1692 Salem witch trials; argues that accusation patterns map onto pre-existing factional and economic conflicts between farming Salem Village and commercial Salem Town; established the community-conflict model as the standard framework for interpreting Salem",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Salem-Village Witchcraft: A Documentary Record of Local Conflict in Colonial New England",
+      "year": 1972,
+      "publisher": "Wadsworth",
+      "significance": "Documentary companion volume providing the primary source foundation for Salem Possessed; collects community records, petition documents, and church records tracing pre-existing factional alignments",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "The Salem Witchcraft Papers: Verbatim Transcripts of the Legal Documents of the Salem Witchcraft Outbreak of 1692 (3 vols.)",
+      "year": 1977,
+      "publisher": "Da Capo Press",
+      "significance": "Comprehensive three-volume edition of the full primary source record of the 1692 Salem trials; made the complete documentary archive accessible for subsequent scholarly and pedagogical use; foundational resource for all subsequent Salem scholarship",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SOCIAL HISTORY / COMMUNITY CONFLICT ANALYSIS",
+  "core_argument": "Boyer and Nissenbaum's central argument is that the accusation patterns in Salem Village in 1692 were not random, explicable solely by theology, or attributable to individual psychology or mass hysteria, but instead reflected pre-existing structural conflicts already visible within the community before the outbreak began. Using quantitative mapping of accusers, accused, and community petition signers, they demonstrated that the 1692 accusations clustered along fault lines already visible in earlier disputes over the minister Samuel Parris's appointment, church membership, and village taxation. Accusers were disproportionately from the farming core of Salem Village — subsistence-oriented, economically defensive, invested in traditional communal values. The accused were disproportionately those with ties to Salem Town's commercial culture — market-oriented, economically mobile, connected to the prosperous port economy. The household of Parris, where the initial accusations originated, was itself a flashpoint for this Village/Town tension.\n\nCritically, Boyer and Nissenbaum argue that this social-structural explanation does not require dismissing the theological sincerity of accusers. Puritans genuinely believed what they said about the devil and his agents; the community conflict did not cause accusations by making accusers knowingly fabricate charges, but by directing the theological language of diabolical conspiracy toward specific targets within a field already structured by social antagonism. The structural and the theological operated simultaneously: the pre-existing tensions identified who was plausibly diabolical; the Puritan theological framework provided the specific form in which that plausibility was expressed and prosecuted. This synthesis — that social structure shapes accusation without making accusers insincere — became the methodological foundation for all subsequent quantitative community analysis of Salem.",
+
+  "methodological_approach": {
+    "primary_materials": "Community records, petition documents, tax lists, church membership rolls, and property maps of Salem Village and Salem Town; trial records read for social network patterns of accusation",
+    "analysis_target": "The social structure of accusation — who accused whom, what prior relationships connected accusers and accused, and how accusation patterns correlated with pre-existing factional divisions",
+    "evidence_type": "Quantitative mapping of accusers and accused onto community factions; archival reconstruction of prior disputes; geographic and economic analysis of Village/Town divisions",
+    "explanatory_level": "Community-structural analysis; social conflict as the organizing context within which theological explanation operated"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The community-conflict model of Salem",
+      "claim": "The 1692 Salem accusations followed the fault lines of pre-existing factional conflict between Salem Village (farming, subsistence-oriented, defensive of communal autonomy) and Salem Town (commercial, market-oriented, prosperous). Accusers were disproportionately from Village factions aligned against the Town-connected accused. This pattern was non-random and traceable to prior disputes over church governance, minister selection, and village taxation.",
+      "implication": "Understanding Salem requires prior understanding of the community's structural conflicts. The 1692 outbreak was the culmination of decades of accumulated tension expressed through the only theological language available to seventeenth-century Puritans. Community historians must reconstruct the social landscape before the accusation period begins."
+    },
+    {
+      "concept": "Quantitative mapping of accusation patterns",
+      "claim": "By systematically mapping accusers, accused, and petition signers onto the geographic and factional structure of Salem Village, Boyer and Nissenbaum demonstrated that the accusation pattern was statistically non-random and correlated with prior community alignments. The method converted what appeared to be a chaotic outbreak into a socially legible pattern.",
+      "implication": "The methodology — quantitative mapping of social network positions onto accusation patterns — became the standard tool for community-level analysis of witch trials. Subsequent historians have applied the same approach to establish or challenge community-conflict explanations in other cases."
+    },
+    {
+      "concept": "The compatibility of theological sincerity with social structural causation",
+      "claim": "Boyer and Nissenbaum explicitly deny that their social-structural explanation requires accusing Puritans of conscious fabrication. Accusers were theologically sincere; the community conflict determined who they sincerely suspected, not whether they were sincere. Structural and theological explanation are not competing but complementary levels of analysis.",
+      "implication": "Social history need not be reductive. The question 'Why these specific people?' has a social-structural answer that does not displace the question 'Why witchcraft accusation at all?' which has a theological answer. Clark's intellectual history and Boyer/Nissenbaum's community history address different explanatory levels."
+    },
+    {
+      "concept": "The Salem Witchcraft Papers as scholarly infrastructure",
+      "claim": "The three-volume transcription of the full 1692 trial record (1977) made the complete primary source archive accessible for scholarly and pedagogical use, converting a dispersed and partially inaccessible documentary record into a standard scholarly resource.",
+      "implication": "All subsequent Salem scholarship that engages primary documents has Boyer and Nissenbaum's archival work as its foundation, regardless of whether it accepts their community-conflict interpretive framework."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "community_records": "Boyer and Nissenbaum's archival innovation was to move beyond trial records to church membership rolls, petition documents, tax lists, and community dispute records that preceded the outbreak, reconstructing the social landscape into which the 1692 accusations erupted.",
+    "trial_documents": "The trial records are read not for theological content or interrogation mechanics but for the social network relationships between accusers, accused, witnesses, and supporters, identifying whose testimony corroborated or challenged whose and what social ties explain that pattern.",
+    "geographic_mapping": "Physical maps of Salem Village property holdings are used to correlate geographic position — proximity to the Village/Town boundary, orientation toward farming or commerce — with position in the accusation network."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Carol F. Karlsen (demographic analysis of the accused; Karlsen's inheritance-anomaly thesis complements Boyer/Nissenbaum's community-conflict model by identifying a specific structural vulnerability Karlsen documents among the accused women)",
+      "John Demos (Entertaining Satan; Puritan New England community dynamics and psychological context; shares the commitment to social history of Salem)",
+      "Mary Beth Norton (In the Devil's Snare; political and military crisis context as a complementary structural factor)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Boyer and Nissenbaum's social conflict model does not engage Clark's question about the intellectual coherence of demonological theory; their framework explains the social patterning of accusation but not why the theological framework was persuasive to educated magistrates)",
+      "Carlo Ginzburg (microhistorical attention to individual confession content, interrogation dynamics, and the specific voices of accused persons is absent from Boyer and Nissenbaum's aggregate structural analysis; Ginzburg's method would attend to what specific accused persons said and how coercion shaped their testimony, a level of analysis Boyer/Nissenbaum deliberately set aside)",
+      "Ronald Hutton (Hutton's practitioner-centered framework asks what cunning folk actually did and how community integration shaped their vulnerability; Boyer/Nissenbaum's framework asks about factional structure rather than individual practitioner identity)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Salem Possessed transformed the historiography of Salem from a study of individual psychology, mass hysteria, or theological error into a study of community conflict. The community-conflict model has become the standard framework within which all subsequent quantitative analysis of Salem is situated, even when its specific claims are modified or supplemented.",
+    "criticisms": [
+      "Mary Beth Norton's In the Devil's Snare (2002) argued that Boyer and Nissenbaum substantially underweighted the impact of ongoing frontier wars with Native Americans (King William's War, 1689–1697), which created genuine existential anxiety among Massachusetts colonists that made diabolical conspiracy explanations psychologically more compelling and politically more functional; Norton's critique is widely seen as complementing rather than replacing the community-conflict framework",
+      "Some historians argue that the Village/Town factional mapping, while demonstrating correlation, does not establish causation — the pre-existing tensions identified by Boyer and Nissenbaum may be correlates rather than causes of the specific 1692 accusation pattern",
+      "Karlsen's inheritance-anomaly thesis suggests that Boyer and Nissenbaum underweighted gender and property dynamics as independent structural factors; the community-conflict framework does not explain why women within both factional camps were disproportionately accused"
+    ]
+  },
+
+  "engagement_with_boyer_nissenbaum_in_witchcraftdb": {
+    "database_integration": "Boyer and Nissenbaum's community-conflict model informs trial_event entries for Salem and the demographic profiles in accused_person entries for Salem Village accused. The Village/Town factional structure is the reference framework for interpreting the social network positions of individual accused persons.",
+    "interpretive_weight": "Salem accusation patterns are analyzed through the community-conflict lens as the primary framework, supplemented by Karlsen's gender-and-property analysis and Norton's political-crisis context; Boyer and Nissenbaum's framework is treated as necessary but not sufficient for explaining the full pattern."
+  },
+
+  "historiographical_significance": "Salem Possessed transformed the historiography of Salem from a study of individual psychology or mass hysteria into a study of community conflict. By demonstrating quantitatively that accusation patterns mapped onto pre-existing factional divisions, Boyer and Nissenbaum shifted the explanatory question from 'why did people believe in witches?' to 'why did these specific people accuse these specific others?' Their community-conflict model has been widely accepted as an explanation of pattern without being accepted as a complete explanation of cause: Karlsen's work on gender and inheritance adds a dimension Boyer and Nissenbaum underweighted; Norton's In the Devil's Snare adds political and military crisis context. But the community-structure framework remains the foundation for all subsequent quantitative analysis of Salem. The Salem Witchcraft Papers (1977) constitutes a separate and equally lasting contribution: the conversion of a dispersed and partially inaccessible documentary record into a standard scholarly resource that has been the basis of primary source engagement for every subsequent generation of Salem historians.",
+
+  "scholarly_disagreement": "Norton's In the Devil's Snare (2002) challenged Salem Possessed on one significant point: Boyer and Nissenbaum underweighted the impact of the ongoing frontier wars with Native Americans (King William's War), which created genuine existential anxiety that made diabolical conspiracy explanations more plausible. Norton's work is generally seen as complementing rather than replacing Boyer and Nissenbaum's framework.",
+
+  "source_method": "Published scholarship and critical historiographical reconstruction",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

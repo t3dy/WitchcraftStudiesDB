@@ -9,11 +9,8 @@
   "age_at_trial": null,
   "social_status": "Male; probable gentry or court-associated status (possible connection to ruling Fuchs dynasty uncertain)",
   "gender": "Male",
-
   "biography": "Philip Fuchs was accused in the third year of the Bamberg prosecutions (1628), a period coinciding with the hunt's expansion into higher social strata. The name Fuchs was shared with Bamberg's ruling family—Prince-Bishop Johann Georg II Fuchs von Dornheim—a correspondence that could indicate either a relative of the episcopal household engulfed by the very prosecutions his family authorized, or an unrelated individual bearing a common regional surname. By 1628 the Bamberg prosecutions had reached officials, clergy, and members of prominent families including burgomaster Johannes Junius (also 1628). Specific biographical details are not preserved in available scholarly literature.",
-
   "arrest_narrative": "Fuchs was arrested during the peak expansion phase of the Bamberg prosecutions, when the cascade mechanism had spread accusations through multiple social levels including court officials and gentry. His 1628 arrest coincides with the period when virtually no social position offered immunity—the same year saw the execution of the burgomaster Johannes Junius. The specific accusation pathway leading to Fuchs is not documented in surviving scholarship.",
-
   "interrogation_and_confession": {
     "first_interrogation": {
       "date": "1628",
@@ -30,20 +27,19 @@
       }
     ]
   },
-
   "confession_content": {
     "demonic_pact": "Not preserved in available sources.",
     "sabbath_activities": "Not preserved in available sources.",
     "maleficium_claimed": "Not preserved in available sources.",
-    "accomplices_named": ["Not recorded in available sources"]
+    "accomplices_named": [
+      "Not recorded in available sources"
+    ]
   },
-
   "historiographical_analysis": {
     "torture_mechanism": "By 1628, the Bamberg prosecutorial apparatus was producing approximately 19 executions per month at peak. The torture and confession procedures were well-established; Fuchs's interrogation would have followed the institutional template documented in the Junius and Binder cases.",
     "plausibility": "Standard assessment applies: 1628 accusations at Bamberg were produced through the cascade mechanism, not through independent evidence.",
     "social_vulnerability": "If Fuchs had any connection to the Fuchs-von-Dornheim episcopal household, his case represents the near-total breakdown of social protection by 1628. The prosecution's ability to reach individuals associated with the ruling family demonstrates how institutional momentum could override social hierarchies."
   },
-
   "execution_details": {
     "date": "1628",
     "method": "Burning at stake, or beheading followed by burning for high-status males",
@@ -51,29 +47,25 @@
     "witnesses": "Court officials, townspeople",
     "final_statement": "Not recorded."
   },
-
   "accusations_against_her": [
     "Witchcraft",
     "Demonic pact",
     "Sabbath attendance"
   ],
-
   "contemporary_defense": {
     "supporters": "None documented.",
     "defense_arguments": "None documented."
   },
-
   "historiographical_significance": "Fuchs's case is methodologically significant for what it reveals about the Bamberg prosecution's social ceiling — or rather, the absence of one. By 1628, the cascade mechanism had expanded beyond midwives, washerwomen, and widows to encompass civic officers (Johannes Junius, arrested the same year) and, if Fuchs's connection to the ruling Fuchs-von-Dornheim dynasty is real, individuals directly associated with the episcopal household that had authorized the prosecution. Levack's analysis in *The Witch-Hunt in Early Modern Europe* emphasizes that once denunciation-based prosecution achieved institutional momentum, social rank ceased to function as a shield: each extracted confession produced names the interrogator was obligated to pursue regardless of the accused's status. Clark's intellectual-historical framework explains why this was theologically coherent rather than arbitrary: within demonological theory, the demonic conspiracy was conceived as socially unlimited — the devil recruited from all strata — so the prosecution's ability to reach a Fuchs in 1628 confirmed, rather than undermined, the theory's explanatory logic. As a poorly documented case, Fuchs exemplifies what Behringer's statistical work on the Bamberg archives reveals: the 300+ documented executions represent only a fraction of the prosecution's reach, and the majority of victims left records no richer than this one.",
-
   "source_method": "Bamberg episcopal archives via Behringer 1997; referenced in trial cascade records",
   "review_status": "DRAFT",
   "confidence": "LOW",
-
   "scholarly_sources": [
     "ankarloo-clark-vol4-witch-trials-2001",
     "clark-thinking-with-demons-2001"
   ],
-
   "created_date": "2026-05-29",
-  "last_modified": "2026-05-29"
+  "last_modified": "2026-05-29",
+  "primary_document": null,
+  "scholarly_disagreement": null
 }

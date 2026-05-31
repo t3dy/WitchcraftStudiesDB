@@ -1,7 +1,7 @@
 {
   "id": "demonic-pact-early-modern",
   "name": "The Demonic Pact (Pacta Daemoniaca)",
-  "category_type": "ACTOR_TERM",
+  "category_type": "ANALYST_TERM",
   "time_period": "Early Modern (1500-1750)",
   "primary_locale": "Central and Northern Europe",
 
@@ -86,6 +86,8 @@
     "ankarloo-clark-vol4-witch-trials-2001",
     "hutton-the-witch-2017"
   ],
+
+  "historiographical_significance": "The demonic pact is the foundational concept in early modern witchcraft doctrine, and its historiographical significance lies in how it concentrates the three major scholarly perspectives on persecution into a single construct. For Clark, the pact's theological sophistication — a formal legal covenant with Satan, grounded in medieval contract law and demonological tradition — is the clearest evidence that educated magistrates were applying a coherent intellectual apparatus rather than acting on irrational panic. The pact made execution appear rationally justified within theological premises that early modern jurists accepted as given. For Hutton, the pact's historiographical importance is social: the concept unified otherwise disparate folk practitioners (cunning folk, weather workers, healers) under a single juridically actionable category, making the criminalization of legitimate service magic possible on an institutional scale. For Ginzburg, the pact is above all an artifact of interrogatory procedure: the microhistorical record shows that practitioners rarely volunteered pact confessions but gradually produced them under sustained torture and leading questioning, with the confession's internal coherence provided by the inquisitor's demonological framework rather than by any actual experience. The pact concept thus sits at the intersection of all three interpretive traditions: intellectually serious for those who prosecuted, rhetorically useful for those who sought to unify accusations, and procedurally generated for those who confessed to it.",
 
   "historiographical_notes": "The demonic pact represents the fault line between intellectual coherence and social causation in witchcraft studies. For Clark, the pact's theological sophistication explains why magistrates prosecuted witches—the concept made persecution appear rationally justified. For Hutton, the pact's rhetorical power explains how diverse folk practices became unified conspiracy. For Ginzburg, the pact's function in torture-extracted confessions reveals it as product of interrogation procedure rather than genuine belief or practice. Understanding the pact requires holding all three perspectives in productive tension: it was intellectually coherent for theologians, socially powerful for those creating consensus, and procedurally generated through torture for those whose confessions articulated it.",
 

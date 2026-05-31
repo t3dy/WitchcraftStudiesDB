@@ -1,0 +1,65 @@
+{
+  "id": "female-susceptibility-theory",
+  "name": "Female Susceptibility to Demonic Temptation",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Medieval and Early Modern (1200-1750)",
+  "primary_locale": "Catholic and Protestant Europe",
+
+  "scholarly_definition": "The female-susceptibility doctrine was the theological and natural-philosophical claim that women were inherently more vulnerable than men to demonic seduction and witchcraft. In early modern demonological theory, this susceptibility was grounded in three interlocking arguments: women's bodies were constitutionally 'colder' and weaker than men's in Galenic medical theory, making them more receptive to demonic influence; women were held to be intellectually and morally weaker, less able to resist demonic temptation; and women bore the theological burden of Eve's original temptation and fall, making female transgression a typological recurrence of humanity's first sin. The doctrine provided a theological rationale for the documented demographic pattern of predominantly female accusation across most European witch-trial jurisdictions.",
+
+  "intellectual_genealogy": {
+    "classical_foundations": [
+      "Galenic humoral theory: women as 'cold and moist' vs. men as 'hot and dry' — cold constitution associated with receptivity to external influences",
+      "Aristotelian natural philosophy: women as incomplete or defective males — lesser rational capacity, greater susceptibility to passion",
+      "Biblical typology: Eve's temptation as archetype of female susceptibility to diabolical suggestion"
+    ],
+    "medieval_codification": [
+      "Thomas Aquinas on women's weaker rational capacity and its implications for moral vulnerability",
+      "Malleus Maleficarum (1487): most extended demonological treatment of female susceptibility — Part I, Question 6 devoted entirely to 'Why Superstition is chiefly found in Women'",
+      "Bernardino of Siena's preaching on female susceptibility and the witchcraft threat"
+    ],
+    "early_modern_amplification": [
+      "Jean Bodin's Démonomanie des sorciers (1580)",
+      "James VI's Daemonologie (1597): women accused seven times more than men",
+      "Continental and Scottish trial records systematically skewed toward female accused"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark analyzes the female-susceptibility doctrine as a product of the demonological tradition's integration of Galenic medicine, Aristotelian natural philosophy, and biblical theology. For Clark, the doctrine was not simply misogynistic prejudice but a sophisticated synthesis that made women's disproportionate accusation appear theologically and philosophically intelligible to learned contemporaries. Magistrates who disproportionately prosecuted women were not simply acting on cultural prejudice but applying a doctrine with genuine intellectual standing within the frameworks they used to understand the natural and supernatural world.",
+
+  "hutton_social_analysis": "Hutton approaches the female-susceptibility doctrine from the opposite direction: rather than explaining why magistrates targeted women, he analyzes why women were disproportionately represented among the service-magic practitioners who formed the primary accusation target. In Hutton's framework, women dominated folk-healing and service-magic practice because these occupations were socially available to women in ways that official religious and medical roles were not. The doctrine of female susceptibility thus encountered a social reality — women's predominance in folk practice — that it was used to explain and condemn, but which had an independent social basis.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's analysis of female susceptibility focuses on its role in structuring interrogations: inquisitors who believed women were more susceptible to demonic influence asked different questions of female accused than of male accused, and their questions reflected the doctrine's premises. The female-susceptibility framework shaped what confessions were expected to contain, and thereby shaped what torture and leading questions produced. The doctrine also explains the relative infrequency of male accused in most jurisdictions — not because men were innocent but because the interrogatory framework was less calibrated to produce male confessions.",
+
+  "actor_perspective": {
+    "practitioners_on_gender": "Folk practitioners (male and female alike) rarely articulated self-understandings that matched the female-susceptibility doctrine. Male cunning folk described their abilities in the same terms as female practitioners; female practitioners did not typically describe themselves as more susceptible to supernatural influence. The gendered quality of the doctrine was imposed by the analytical framework, not claimed by practitioners.",
+    "female_accusers": "A significant complication for the doctrine's historiography is that women were also major accusers in many prosecutions — notably at Salem, where female accusers predominated. This pattern is difficult to reconcile with a simple reading of female susceptibility as the explanation for female accusation."
+  },
+
+  "demographic_reality": {
+    "approximate_gender_split": "Approximately 75-80% of accused persons in European witch trials were female, though with significant regional variation. England showed a higher female proportion than average; Russia and Iceland show male-dominated or near-equal prosecution patterns.",
+    "exceptions": "Male-dominated prosecutions occurred in specific regions: the Basque country showed an unusual gender balance; Iceland and Normandy prosecuted primarily men; some specialized accusations (werewolf, weather magic in certain German contexts) were associated with male accused.",
+    "explanatory_tension": "The demographic pattern is consistent with the female-susceptibility doctrine as explanation, but also consistent with Hutton's service-magic explanation (women dominated folk practice) and Karlsen's inheritance-anomaly thesis (for New England specifically). The demographic pattern alone cannot distinguish between these explanations."
+  },
+
+  "historiographical_significance": "The female-susceptibility doctrine represents the intersection of theology, natural philosophy, and social practice in early modern witchcraft prosecution, and its historiography reflects the major interpretive traditions' divergence. Clark reads it as intellectually serious applied theology, demonstrating how learned authorities made gender-differentiated prosecution appear rational. Hutton reads the demographic pattern it sought to explain as primarily a social phenomenon — women's predominance in service-magic practice — that demonological theory then rationalized after the fact. Karlsen and feminist historians argue that the doctrine actively shaped prosecution in ways that cannot be reduced to a rationalization of pre-existing social patterns: magistrates sought female accused because they believed women were more susceptible, not merely because women happened to be the available target.\n\n  The debate about whether female-susceptibility doctrine was cause or rationalization of the gender pattern in prosecution remains unresolved. Levack's comparative analysis shows that the gender disparity was not uniform across all jurisdictions, suggesting that neither the doctrine alone nor social patterns alone fully explain the pattern; local institutional and cultural factors mediated the doctrine's operational force. Lyndal Roper in Witch Craze (2004) argued that the doctrine reflected genuine psychological dynamics of projection and boundary anxiety that cannot be reduced to either intellectual history or social history.",
+
+  "scholarly_disagreement": "Levack and Hutton treat the doctrine primarily as a rationalization of a social pattern (women's predominance in folk practice) that had independent causes. Clark treats it as a genuine intellectual construct that actively shaped prosecutorial targeting. Karlsen argues the doctrine operated as an independent cause in New England, where Puritan theology gave female susceptibility active prosecutorial force. Feminist historians (Roper, Purkiss) argue all three approaches underestimate the doctrine's role in structuring misogynistic cultural anxieties that were genuinely operative, not merely rhetorical. The question is whether the gender pattern in prosecution primarily reflects who folk practitioners were (Hutton), who demonologists expected witches to be (Clark), who communities targeted in conflict contexts (Briggs), or who inheritance systems created as anomalously vulnerable (Karlsen).",
+
+  "historiographical_notes": "The Malleus Maleficarum's treatment of female susceptibility (Part I, Question 6) has attracted more scholarly attention than almost any other passage in demonological literature, functioning as a Rorschach test for historians' broader interpretive commitments. For feminist historians in the 1970s-1980s, it was the primary textual evidence for the thesis that witch prosecution was a gendered campaign against women's independence. For intellectual historians following Clark, it is a serious theological document deserving analytical engagement on its own terms. For social historians following Hutton, it is an ideological construct that requires understanding in relation to the social reality of who actually practiced service magic.",
+
+  "historiographical_complexity": "The female-susceptibility doctrine is simultaneously (1) a theological claim that generated real prosecutorial targeting, (2) a post-hoc rationalization of a demographic pattern with independent social causes, and (3) a product of a broader misogynistic cultural repertoire that operated in domains beyond witchcraft prosecution. Distinguishing these three functions requires holding all three analytical traditions in simultaneous view.",
+
+  "source_method": "Malleus Maleficarum (1487), Part I, Question 6; Bodin, Démonomanie (1580); James VI, Daemonologie (1597); analyzed in Clark, Thinking with Demons (1997); Hutton, The Witch (2017); Karlsen, The Devil in the Shape of a Woman (1987); Roper, Witch Craze (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

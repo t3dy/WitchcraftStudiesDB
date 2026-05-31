@@ -1,0 +1,55 @@
+{
+  "id": "north-berwick-1590-trials",
+  "name": "North Berwick Witch Trials",
+  "location_id": "north-berwick",
+  "year_start": 1590,
+  "year_end": 1592,
+  "alleged_accused_count": 70,
+  "executed_count": null,
+  "trial_type": "Royal commission / Scottish Privy Council proceedings",
+  "regional_context": "Kingdom of Scotland, Lowland Scotland / East Lothian",
+
+  "summary": "The North Berwick trials (1590-1592) were the most significant Scottish witch prosecution of the sixteenth century and the one with the most documented royal involvement. The cascade began when David Seaton, deputy bailiff of Tranent, tortured his servant Geillis Duncan, who under torture named Agnes Sampson and others as witches. Sampson, known as the 'Wise Wife of Keith,' was interrogated personally by James VI at Holyrood Palace, where she confessed to organizing sabbath assemblies at the Old Kirk of North Berwick. According to her confession, hundreds of witches had gathered to plot the king's destruction through sea-storms — a plot allegedly instigated by Francis Stewart, Earl of Bothwell. The trials proceeded through 1591-1592, with executions including those of Sampson (January 1591) and Duncan (December 1591). The Bothwell accusation was politically charged; Bothwell escaped and was eventually exiled. Approximately 70 persons are associated with the initial prosecution wave, though precise execution figures remain disputed.",
+
+  "historiographical_significance": "The North Berwick trials are historiographically significant for three reasons. First, they are the clearest early modern case of a European monarch's direct personal involvement in witch interrogation: James VI's examination of Agnes Sampson was not the action of a credulous observer but of a man with genuine demonological convictions, documented in his authorship of Daemonologie (1597) as a direct intellectual response to the trials. Clark uses Daemonologie as an exemplary case of how demonological theory could achieve royal endorsement and thereby shape an entire prosecutorial culture. Second, Christina Larner's Enemies of God (1981) treats the North Berwick trials as the beginning of Scotland's most intensive persecution phase and as evidence for her state-building thesis: the king's identification of witchcraft conspiracy as treason against the sovereign was a distinctively Scottish inflection of Continental demonological theory that linked witch prosecution to political authority. Third, Goodare's analysis in The Scottish Witch-Hunt in Context (2002) shows how the institutional structure of Scottish law — which lacked effective Roman-type inquisitorial oversight — enabled cascade prosecution of the kind the North Berwick confession patterns produced.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern"
+  ],
+
+  "key_details": {
+    "initiating_figure": "David Seaton (deputy bailiff of Tranent), whose torture of Geillis Duncan initiated the cascade",
+    "central_accused": "Agnes Sampson ('Wise Wife of Keith'), healer and cunning woman; primary target of the royal examination",
+    "royal_interrogator": "James VI of Scotland, who personally examined Agnes Sampson at Holyrood Palace",
+    "alleged_political_instigator": "Francis Stewart, Earl of Bothwell, accused as organizer of the anti-royal conspiracy; escaped and exiled",
+    "procedures": ["torture", "leading questions about sabbath attendance", "extraction of accomplice names"],
+    "alleged_sabbath_site": "Old Kirk of North Berwick (still standing, on the coast of East Lothian)",
+    "political_dimension": "The alleged conspiracy to kill James VI through sea-storms on his return from Denmark gave the prosecution a treason dimension that other witch trials lacked; witchcraft and high treason were explicitly conflated"
+  },
+
+  "scholarly_disagreement": "Larner's state-building interpretation — that the North Berwick trials expressed nascent Scottish sovereign authority through witch prosecution — has been broadly influential but is questioned by some historians who argue the trials were more opportunistic and personality-driven than Larner's structural thesis suggests. Goodare refines Larner by emphasizing institutional rather than ideological factors. The political framing of the Bothwell accusation has led some historians to argue the North Berwick prosecution was partially a vehicle for eliminating a political rival under the guise of witch prosecution — a reading that Clark's intellectual-history framework resists, since it implies cynical manipulation rather than genuine belief.",
+
+  "accused_persons": [
+    "agnes-sampson-north-berwick-1591",
+    "geillis-duncan-north-berwick-1591"
+  ],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "source_method": "Newes from Scotland (1591) pamphlet; Scottish Privy Council records; Normand and Roberts, Witchcraft in Early Modern Scotland (2000); Larner, Enemies of God (1981)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "historiographical_notes": "The North Berwick trials produced two of the most significant documents in early modern witch-trial historiography: the Newes from Scotland pamphlet (1591), an anonymous account that circulated widely and shaped popular understanding of the sabbath conspiracy in England; and Daemonologie (1597), James VI's theoretical justification for witch prosecution, written partly in response to skeptics like Reginald Scot. When James became James I of England in 1603, he brought his demonological convictions with him, influencing English prosecutorial culture and contributing to the 1604 Witchcraft Act's increased penalties. The North Berwick trials thus had consequences well beyond Scotland.",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}
