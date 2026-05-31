@@ -1,0 +1,91 @@
+{
+  "id": "boguet-henri-b1550",
+  "name": "Henri Boguet",
+  "birth_year": 1550,
+  "death_year": 1619,
+  "birth_place": "Possibly Burgundy, France",
+  "academic_discipline": "Law; Jurisprudence; Demonology",
+  "primary_institution": "Grand juge (chief judge) of Saint-Claude, Burgundy; judge of the Abbey of Saint-Claude in the Franche-Comté",
+  "specialization": "Regional witchcraft prosecution in Burgundy; demonological systematization from magistrate's perspective; application of naturalistic causal analysis to witchcraft claims",
+
+  "major_works": [
+    {
+      "title": "Discours des sorciers (An Examen of Witches)",
+      "year": 1602,
+      "publisher": "Paris (first edition; multiple subsequent editions)",
+      "significance": "Major French demonological compendium derived from Boguet's own prosecution of the Burgundian witch Françoise Secretain (1598) and subsequent cases; notable for its unusually systematic application of naturalistic causal standards to witchcraft claims",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "WITCH-TRIAL ADVOCATE / NATURALISTIC DEMONOLOGIST",
+
+  "core_argument": "Boguet's Discours des sorciers derived its authority from his judicial practice as chief judge at Saint-Claude, where he personally prosecuted multiple witchcraft cases including that of Françoise Secretain in 1598. The work is remarkable for its sustained application of naturalistic causal standards to witchcraft claims: where other demonologists accepted witchcraft effects on theological grounds, Boguet subjected each alleged power to rigorous scrutiny based on what devils could accomplish through natural secondary causes. His grid of analysis distinguished between natural causes, spurious ritual acts (which had no real causal efficacy), and genuine demonic action through natural means. Clark's 'Believers and Sceptics' chapter uses Boguet as its opening case precisely because he demonstrates that even committed witch-trial advocates applied rigorous naturalistic standards to evidence — 'belief' and natural-philosophical sophistication were not opposites.",
+
+  "methodological_approach": {
+    "primary_materials": "Boguet's own prosecution records from Saint-Claude and the surrounding Franche-Comté region; contemporary demonological literature (Rémy, del Río, Weyer, Della Porta); classical and Renaissance natural philosophy",
+    "analysis_target": "Causal analysis of each type of alleged witchcraft power; determination of which effects were naturally explicable, which were ritually meaningless, and which required genuine demonic action",
+    "evidence_type": "Trial confessions treated as partially evidential; naturalistic analysis of alleged effects; references to preternatural philosophy for comparative cases",
+    "explanatory_level": "Judicial-naturalistic: Boguet applied the standards of natural philosophy to the evidence courts received, rather than accepting claims on theological authority alone"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Rigorous naturalistic standards applied by a 'believer'",
+      "claim": "Boguet subjected each alleged witchcraft power to systematic naturalistic analysis, asking in each case whether the alleged effect could be produced by natural causes, whether the ritual accompaniments had any real causal power, and whether genuine demonic action was required. This analysis, drawn from natural philosophy rather than theology, reached the same prosecutorial conclusions as theological demonology but through a different route.",
+      "implication": "Clark uses Boguet to demolish the assumption that witch prosecutors were intellectually primitive. Boguet's naturalistic rigor shows that prosecutors could be sophisticated natural philosophers while still convicting on witchcraft charges — the two were not contradictory."
+    },
+    {
+      "concept": "The Françoise Secretain case as test case",
+      "claim": "Boguet's prosecution of Françoise Secretain (1598) provided the opening chapters of the Discours: a systematic test of her alleged powers against naturalistic standards. Each category of alleged power (powders, ointments, breath, words, looking, touching, wands, images) was examined for causal plausibility through Boguet's naturalistic grid.",
+      "implication": "The Secretain case illustrates how judicial practice and naturalistic philosophy intersected in early modern witch prosecution: the same magistrate who ordered Secretain's execution also applied to her claimed powers a framework of natural causation that would not have been out of place in a Renaissance natural philosophy treatise."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "natural_philosophy": "Boguet drew extensively on Renaissance natural philosophy — Della Porta, Cardano, Mattioli, Paracelsus — to analyze witchcraft effects. This was not mere citation but genuine application: Boguet used these sources to distinguish between plausible natural effects and claims requiring demonic action.",
+    "contemporary_demonology": "The Discours engaged with Rémy, del Río, and Weyer, taking Rémy as the principal authority for sabbat description and engaging with Weyer's scepticism as an error requiring correction.",
+    "judicial_records": "Boguet's prosecutorial experience gave the Discours an empirical texture unusual in demonological literature: specific cases, specific confessions, specific alleged powers tested against specific naturalistic criteria."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Nicolas Rémy (fellow French magistrate-demonologist; Rémy's Lorraine materials provided parallel documentation to Boguet's Burgundy cases)",
+      "Pierre de Lancre (the third major French magistrate-demonologist; together Rémy, Boguet, and de Lancre represent the school of prosecutorial demonology in late sixteenth and early seventeenth-century France)",
+      "Martin del Río (Boguet cited the Disquisitiones as a major reference authority)"
+    ],
+    "creative_tension_with": [
+      "Johann Weyer (Boguet explicitly engaged with and refuted Weyer's medical scepticism, arguing that Weyer's pathology explanation could not account for the genuine demonic action documented in confessions)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Discours went through multiple editions and was translated into English (as An Examen of Witches, 1929 by E. A. Ashwin). Its influence on actual prosecutions beyond Boguet's own jurisdiction is difficult to document precisely.",
+    "criticisms": [
+      "Lucien Febvre, in a study Clark cites in the opening of 'Believers and Sceptics', recognized Boguet's naturalistic framework as evidence that witch prosecutors applied rigorous standards of natural knowledge — refuting the assumption that prosecution reflected intellectual primitiveness",
+      "Feminist historians have noted that Boguet's prosecution focused on Françoise Secretain, a woman, and that his analysis of female witchcraft vulnerability drew on conventional misogynistic assumptions despite his naturalistic approach to causal questions"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Boguet is cited by Clark as the opening case in 'Believers and Sceptics' (pp. 240–244), establishing that witch prosecutors applied naturalistic causal standards. The Discours is used in the witch-trial-skepticism and inversion-principle concept entries. Boguet appears as a named authority in multiple Clark corpus chapters on sabbat description, women and witchcraft, and natural magic.",
+    "analytical_weight": "Boguet is Clark's primary example of the 'sophisticated believer' — the magistrate who both applied naturalistic philosophy and ordered executions, demonstrating that intellectual sophistication and witch prosecution were entirely compatible. Understanding Boguet is essential for understanding why Clark's thesis that prosecution was intellectually serious is correct."
+  },
+
+  "historiographical_significance": "Boguet's significance for the historiography of witch prosecution lies precisely in what Clark identifies: he refutes the assumption that witch prosecutors were intellectually primitive or indifferent to evidence standards. The Discours demonstrates that a systematic, naturalistic, philosophically informed analysis of witchcraft claims could reach the same prosecutorial conclusions as pure theological demonology — suggesting that the problem was not intellectual inadequacy but the premises of the causal framework rather than the application of that framework to evidence.",
+
+  "scholarly_disagreement": "The primary debate about Boguet concerns how to weigh his naturalistic rigor against his prosecutorial conclusions. Some historians read Boguet's naturalistic analysis as evidence that even committed prosecutors recognized the weakness of some witchcraft evidence. Clark reads it differently: Boguet's naturalism was genuine and led him to reject some claimed effects while accepting others; his analysis was not systematically skeptical but rigorously discriminating within a demonological framework.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), pp. 240–244 (Believers and Sceptics); primary source: Discours des sorciers (Paris 1602; English translation An Examen of Witches, ed. Montague Summers, 1929)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

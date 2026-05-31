@@ -1,0 +1,24 @@
+{
+  "id": "de-lancre-labourd-investigation-1609",
+  "event_name": "De Lancre conducts Labourd witchcraft investigation",
+  "event_type": "trial_event",
+  "date": "1609",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Labourd, Gascony, France (Basque region)",
+  "location_slug": null,
+  "significance": "Pierre de Lancre, counsellor to the Parlement de Bordeaux, was commissioned by Henry IV to investigate alleged witchcraft in the Labourd district of the French Basque Country, resulting in approximately 80 executions. The investigation produced de Lancre's Tableau de l'inconstance des mauvais anges et démons (Paris, 1612), the most detailed early modern phenomenology of the witches' sabbat. De Lancre interpreted the prevalence of witchcraft among the Basque population through a cultural thesis of inconstance — arguing that maritime occupations, Basque social customs, and geographical isolation made the region uniquely susceptible to demonic infiltration. Clark uses the Tableau as the primary source for sabbat inversion phenomenology in Thinking with Demons.",
+  "related_entities": [
+    "de-lancre-pierre-b1553",
+    "witches-sabbath-collective",
+    "inversion-principle"
+  ],
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Festivals and Sabbats chapters; primary source: Pierre de Lancre, Tableau de l'inconstance des mauvais anges et démons (Paris, 1612)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

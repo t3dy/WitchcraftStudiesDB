@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Timeline — WitchcraftStudiesDB</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --ink:      #1a1208;
+  --parchment:#fdf6e3;
+  --cream:    #f5ead0;
+  --border:   #c8a96e;
+  --accent:   #7b3f00;
+  --accent2:  #4a1c00;
+  --muted:    #7a6a50;
+  --link:     #5c2d00;
+  --card-bg:  #fffdf5;
+  --shadow:   rgba(90,50,10,.15);
+  --radius:   6px;
+  --max:      1100px;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background: var(--parchment);
+  color: var(--ink);
+  font-size: 16px;
+  line-height: 1.65;
+  min-height: 100vh;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; color: var(--accent); }
+
+/* ── header ── */
+header {
+  background: var(--accent2);
+  color: #f5deb3;
+  padding: 0;
+  border-bottom: 3px solid var(--border);
+}
+.header-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 18px 24px 14px;
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.site-title {
+  font-size: 1.45rem;
+  font-weight: bold;
+  letter-spacing: .03em;
+  color: #f5deb3;
+}
+.site-title a { color: inherit; }
+.site-subtitle {
+  font-size: .85rem;
+  color: #c8a96e;
+  font-style: italic;
+}
+
+/* ── nav ── */
+nav {
+  background: var(--accent);
+  border-bottom: 2px solid var(--border);
+}
+.nav-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  gap: 0;
+  flex-wrap: wrap;
+}
+nav a {
+  color: #f5deb3;
+  padding: 10px 16px;
+  font-size: .9rem;
+  display: inline-block;
+  border-right: 1px solid rgba(255,255,255,.15);
+  letter-spacing: .02em;
+}
+nav a:hover, nav a.active {
+  background: var(--accent2);
+  text-decoration: none;
+  color: #fff;
+}
+
+/* ── main ── */
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 32px 24px 64px;
+}
+
+h1 { font-size: 1.8rem; color: var(--accent2); margin-bottom: 6px; }
+h2 { font-size: 1.3rem; color: var(--accent); margin: 24px 0 12px; }
+h3 { font-size: 1.05rem; color: var(--accent2); margin: 16px 0 6px; }
+
+p { margin-bottom: .9em; }
+p:last-child { margin-bottom: 0; }
+
+.page-intro {
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 24px;
+  font-size: .95rem;
+  border-left: 3px solid var(--border);
+  padding-left: 12px;
+}
+
+/* ── search / filter bar ── */
+.search-bar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.search-bar input, .search-bar select {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+  color: var(--ink);
+  font-size: .9rem;
+  font-family: inherit;
+}
+.search-bar input { flex: 1; min-width: 200px; }
+.count-label { font-size: .85rem; color: var(--muted); margin-left: auto; }
+
+/* ── cards / grid ── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 18px;
+}
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  box-shadow: 0 2px 6px var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  cursor: pointer;
+  transition: box-shadow .15s, border-color .15s;
+}
+.card:hover { box-shadow: 0 4px 14px var(--shadow); border-color: var(--accent); }
+.card-title { font-size: 1.05rem; font-weight: bold; color: var(--accent2); }
+.card-meta { font-size: .8rem; color: var(--muted); }
+.card-body { font-size: .88rem; line-height: 1.55; }
+.tag {
+  display: inline-block;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 1px 7px;
+  font-size: .75rem;
+  color: var(--accent);
+  margin: 1px 2px 1px 0;
+}
+.badge {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 3px;
+  padding: 1px 8px;
+  font-size: .73rem;
+  letter-spacing: .04em;
+  font-variant: small-caps;
+}
+.badge.sceptic { background: #3a6e3a; }
+.badge.advocate { background: #8b2000; }
+.badge.systematizer { background: #1a4a7a; }
+
+/* ── detail modal / overlay ── */
+#overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.55);
+  z-index: 100;
+  overflow-y: auto;
+  padding: 40px 16px;
+}
+#overlay.open { display: block; }
+.detail-box {
+  background: var(--card-bg);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 32px 36px;
+  position: relative;
+  box-shadow: 0 8px 32px rgba(0,0,0,.35);
+}
+.detail-close {
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: var(--muted);
+  line-height: 1;
+  background: none;
+  border: none;
+}
+.detail-close:hover { color: var(--accent); }
+.detail-title { font-size: 1.4rem; color: var(--accent2); margin-bottom: 4px; }
+.detail-meta { color: var(--muted); font-size: .85rem; margin-bottom: 16px; }
+.detail-section { margin-top: 16px; }
+.detail-section h4 { font-size: .9rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 6px; border-bottom: 1px solid var(--border); padding-bottom: 3px; }
+.detail-section p { font-size: .9rem; }
+.detail-section ul { font-size: .88rem; padding-left: 20px; }
+.detail-section li { margin-bottom: 4px; }
+.source-note { font-size: .78rem; color: var(--muted); font-style: italic; margin-top: 16px; border-top: 1px solid var(--border); padding-top: 10px; }
+.confidence-HIGH { color: #2a7a2a; font-weight: bold; }
+.confidence-MEDIUM { color: #8a6000; font-weight: bold; }
+.confidence-LOW { color: #9a2000; font-weight: bold; }
+
+/* ── timeline ── */
+.timeline-list { position: relative; padding-left: 0; list-style: none; }
+.timeline-list::before {
+  content: "";
+  position: absolute;
+  left: 80px;
+  top: 0; bottom: 0;
+  width: 2px;
+  background: var(--border);
+}
+.tl-item {
+  display: flex;
+  gap: 0;
+  margin-bottom: 20px;
+  position: relative;
+}
+.tl-year {
+  width: 80px;
+  min-width: 80px;
+  text-align: right;
+  padding-right: 18px;
+  font-size: .85rem;
+  font-weight: bold;
+  color: var(--accent);
+  padding-top: 4px;
+}
+.tl-dot {
+  width: 12px;
+  min-width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid var(--parchment);
+  margin-top: 6px;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+.tl-dot.trial_event { background: #8b2000; }
+.tl-dot.primary_source_publication { background: #1a4a7a; }
+.tl-dot.institutional_event { background: #5a4000; }
+.tl-dot.political_event { background: #3a6e3a; }
+.tl-dot.biographical { background: #7a7a7a; }
+.tl-content {
+  padding-left: 18px;
+  flex: 1;
+  cursor: pointer;
+}
+.tl-name { font-size: .95rem; font-weight: bold; color: var(--accent2); }
+.tl-name:hover { color: var(--accent); text-decoration: underline; }
+.tl-loc { font-size: .8rem; color: var(--muted); }
+.tl-sig { font-size: .85rem; margin-top: 4px; }
+.tl-legend { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 24px; font-size: .82rem; }
+.tl-legend-item { display: flex; align-items: center; gap: 6px; }
+.tl-legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+/* ── map placeholder ── */
+.map-container { background: var(--cream); border: 2px dashed var(--border); border-radius: var(--radius); padding: 60px 24px; text-align: center; color: var(--muted); font-style: italic; margin-bottom: 32px; }
+
+/* ── stats bar ── */
+.stats-grid { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 32px; }
+.stat-box { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 24px; text-align: center; flex: 1; min-width: 130px; }
+.stat-num { font-size: 2rem; font-weight: bold; color: var(--accent); display: block; }
+.stat-lbl { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+
+/* ── footer ── */
+footer { background: var(--accent2); color: #c8a96e; text-align: center; padding: 18px; font-size: .8rem; border-top: 2px solid var(--border); margin-top: 40px; }
+
+/* responsive */
+@media (max-width: 600px) {
+  .card-grid { grid-template-columns: 1fr; }
+  .detail-box { padding: 20px 16px; }
+  .tl-list::before { left: 60px; }
+  .tl-year { width: 60px; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <span class="site-title"><a href="index.html">WitchcraftStudiesDB</a></span>
+    <span class="site-subtitle">A digital humanities knowledge portal for the history of European witch trials</span>
+  </div>
+</header>
+<nav><div class="nav-inner"><a href="index.html">Home</a><a href="trials.html">Trials</a><a href="scholars.html">Scholars</a><a href="concepts.html">Concepts</a><a href="timeline.html" class="active">Timeline</a><a href="sources.html">Sources</a><a href="about.html">About</a></div></nav>
+
+<main>
+
+<h1>Timeline</h1>
+<p class="page-intro">Chronological overview of publications, trials, and institutional events from 1428 to 1692.</p>
+<div class="tl-legend"><span class="tl-legend-item"><span class="tl-legend-dot" style="background:#8b2000"></span>Trial</span><span class="tl-legend-item"><span class="tl-legend-dot" style="background:#1a4a7a"></span>Publication</span><span class="tl-legend-item"><span class="tl-legend-dot" style="background:#5a4000"></span>Institutional</span><span class="tl-legend-item"><span class="tl-legend-dot" style="background:#3a6e3a"></span>Political</span><span class="tl-legend-item"><span class="tl-legend-dot" style="background:#7a7a7a"></span>Biographical</span></div>
+<div class="search-bar">
+  <input id="search" type="search" placeholder="Search timeline…">
+  <select id="filter-type">
+    <option value="">All event types</option>
+    <option value="trial_event">Trials</option>
+    <option value="primary_source_publication">Publications</option>
+    <option value="institutional_event">Institutional</option>
+    <option value="political_event">Political</option>
+    <option value="biographical">Biographical</option>
+  </select>
+  <span class="count-label" id="tl-count"></span>
+</div>
+<ul class="timeline-list" id="tl-list"></ul>
+
+</main>
+<footer>WitchcraftStudiesDB &mdash; Digital humanities project &mdash; Data licensed CC BY 4.0</footer>
+<div id="overlay"><div class="detail-box"><button class="detail-close" onclick="closeDetail()">&#x2715;</button><div id="detail-content"></div></div></div>
+<script>
+function closeDetail() {
+  document.getElementById('overlay').classList.remove('open');
+}
+document.getElementById('overlay').addEventListener('click', function(e) {
+  if (e.target === this) closeDetail();
+});
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeDetail();
+});
+function showDetail(html) {
+  document.getElementById('detail-content').innerHTML = html;
+  document.getElementById('overlay').classList.add('open');
+  document.getElementById('overlay').scrollTop = 0;
+}
+const TIMELINE = [{"id": "todi-witchcraft-trial-1428", "event_name": "Todi witchcraft trial: earliest composite stereotype", "event_type": "trial_event", "date": "1428", "date_precision": "approximate", "circa_range": "1427-1429", "location": "Todi, Umbria (Papal States)", "location_slug": "todi", "significance": "The trial of Matteuccia di Francesco at Todi (c.1428) is the earliest documented case in the database to exhibit the composite witch stereotype combining maleficium, demonic pact, and night-flying — predating the Malleus Maleficarum by approximately 60 years. The trial was conducted by the secular communal court (Tribunale dei Malefici), not an inquisitorial body, demonstrating that the composite stereotype preceded and operated independently of formal inquisitorial procedure.", "related_entities": ["todi-1428-witchcraft-trial", "todi", "matteuccia-di-francesco-todi-1428", "demonic-pact-early-modern", "witches-sabbath-collective"], "source_method": "Trial record in communal archive of Todi; analysis in Ankarloo-Clark, Witchcraft and Magic in Europe Vol. 3", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["ankarloo-clark-vol3-middle-ages-2002"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "summis-desiderantes-papal-bull-1484", "event_name": "Papal bull Summis desiderantes affectibus issued", "event_type": "institutional_event", "date": "1484", "date_precision": "exact", "circa_range": null, "location": "Rome (issued by Innocent VIII)", "location_slug": null, "significance": "Pope Innocent VIII issued Summis desiderantes affectibus, authorizing Heinrich Kramer's inquisitorial activity in Germany against heresy and witchcraft. Kramer incorporated the bull as a preface to the Malleus Maleficarum (1487), giving the work apparent papal endorsement — a misrepresentation scholars have since documented. The bull addressed specific personnel complaints about obstruction of Kramer's inquisitorial work and did not constitute a theological endorsement of the Malleus's contents.", "related_entities": ["kramer-heinrich-b1430", "kramer-malleus-maleficarum-1486", "venetian-inquisition"], "source_method": "Primary source: Summis desiderantes affectibus (December 5, 1484); analysis in Christopher Mackay, The Hammer of Witches (2009)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["ankarloo-clark-vol3-middle-ages-2002"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "malleus-maleficarum-published-1487", "event_name": "Malleus Maleficarum first published", "event_type": "primary_source_publication", "date": "1487", "date_precision": "approximate", "circa_range": "1486-1487", "location": "Speyer, Holy Roman Empire", "location_slug": null, "significance": "The Malleus Maleficarum ('Hammer of Witches') by Dominican Inquisitor Heinrich Kramer synthesized the composite witch stereotype combining maleficium, demonic pact, and sabbath attendance into a single prosecutorial category, providing the theological, natural-philosophical, and procedural framework that would define witch prosecution in German-speaking territories for the next century and a half.", "related_entities": ["kramer-heinrich-b1430", "kramer-malleus-maleficarum-1486", "demonic-pact-early-modern", "female-susceptibility-theory", "witches-sabbath-collective"], "source_method": "Published primary source; modern critical edition Christopher Mackay (Cambridge University Press, 2009)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001", "ankarloo-clark-vol3-middle-ages-2002"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "de-praestigiis-published-1563", "event_name": "Weyer publishes De praestigiis daemonum", "event_type": "primary_source_publication", "date": "1563", "date_precision": "exact", "circa_range": null, "location": "Basel, Switzerland", "location_slug": null, "significance": "Johann Weyer published De praestigiis daemonum, introducing the first systematic medical-legal scepticism into witchcraft discourse: women accused of witchcraft were pathological victims of melancholy rather than genuine criminals, and should receive medical treatment rather than judicial execution. Despite operating within conventional demonological assumptions, the work defined the terms of the scepticism debate for the following century and prompted refutations by Erastus (1572) and Bodin (1580).", "related_entities": ["weyer-johann-b1516", "weyer-de-praestigiis-1563", "witch-trial-skepticism", "female-susceptibility-theory"], "source_method": "Published primary source; Johannes Oporinus, Basel 1563", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "friuli-benandanti-inquisition-1575", "event_name": "Friuli inquisition of benandanti begins", "event_type": "trial_event", "date": "1575", "date_precision": "exact", "circa_range": null, "location": "Friuli, Republic of Venice", "location_slug": "friuli", "significance": "The Venetian Inquisition's first interrogation of benandanti (literally 'those who go well') in Friuli (1575–1619) provided Carlo Ginzburg with the case study for Night Battles (1966). The benandanti were agricultural fertility workers who claimed to travel in spirit at night to fight witches in defense of harvests. Ginzburg's microhistorical analysis of the interrogation records traced how inquisitors gradually transformed the benandanti's self-understanding from defenders-against-witches into members-of-the-sabbath, documenting the imposition of the demonological template through sustained interrogation.", "related_entities": ["friuli-benandanti-1575-inquisition", "friuli", "gaspar-tagliacarne-friuli-benandante", "ginzburg-carlo-b1939", "ginzburg-night-battles-1983"], "source_method": "Inquisition archive, Udine (Archivio della Curia Arcivescovile); Carlo Ginzburg, I benandanti (Torino, 1966; English translation Night Battles, 1983)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["ginzburg-night-battles-1983", "ankarloo-clark-vol4-witch-trials-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "demonomanie-published-1580", "event_name": "Bodin publishes De la démonomanie des sorciers", "event_type": "primary_source_publication", "date": "1580", "date_precision": "exact", "circa_range": null, "location": "Paris, France", "location_slug": null, "significance": "Jean Bodin published De la démonomanie des sorciers, the most systematic political demonology of the early modern period. Arguing that the magistrate's sovereign duty required aggressive witch prosecution, and including a point-by-point refutation of Weyer, the work went through ten editions in four languages by 1604 and was cited by James VI in Daemonologie. Stuart Clark reads the Démonomanie and the République (1576) as parts of a single intellectual project unified by the concordia discors cosmological principle.", "related_entities": ["bodin-jean-b1530", "bodin-demonomanie-1580", "weyer-johann-b1516", "witch-trial-skepticism", "inversion-principle"], "source_method": "Published primary source: De la démonomanie des sorciers (Jacques du Puys, Paris 1580)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "trier-witch-trials-1581", "event_name": "Trier witch trials begin under Elector-Archbishop", "event_type": "trial_event", "date": "1581", "date_precision": "approximate", "circa_range": "1581-1593", "location": "Trier, Electoral Archbishopric of Trier (Holy Roman Empire)", "location_slug": null, "significance": "The Trier witch trials of the 1580s–1590s were the largest witch prosecution in the Holy Roman Empire before the Bamberg and Würzburg cases, with estimates of 300–400 executions across the archbishopric. The trials were directly overseen by Suffragan Bishop Peter Binsfeld, whose Tractatus de confessionibus maleficorum (1589) was the legal-theological justification for the prosecution's exceptional evidentiary procedures. The Trier cases established the crimen exceptum doctrine, confession reliability argument, and children's testimony acceptance that later mass prosecutions applied.", "related_entities": ["binsfeld-peter-b1545", "spee-cautio-criminalis-1631"], "source_method": "Wolfgang Behringer, Witchcraft Persecutions in Bavaria (1997); Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006)", "confidence": "HIGH", "review_status": "DRAFT", "scholarly_sources": ["ankarloo-clark-vol4-witch-trials-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "discoverie-of-witchcraft-published-1584", "event_name": "Scot publishes The Discoverie of Witchcraft", "event_type": "primary_source_publication", "date": "1584", "date_precision": "exact", "circa_range": null, "location": "London, England", "location_slug": null, "significance": "Reginald Scot published The Discoverie of Witchcraft, the most radical English-language witchcraft scepticism of the sixteenth century, arguing that demons were incorporeal and incapable of physical action and that all alleged witchcraft effects were natural, fraudulent, or delusional. James VI of Scotland wrote Daemonologie (1597) partly as a direct refutation, and on accession to the English throne (1603) reportedly ordered Scot's book burned. Clark uses the Discoverie as the polar opposite of Bodin's Démonomanie to illustrate the range of early modern demonological positions.", "related_entities": ["scot-reginald-b1538", "scot-discoverie-of-witchcraft-1584", "witch-trial-skepticism", "bodin-jean-b1530"], "source_method": "Published primary source: William Brome, London 1584", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "north-berwick-trials-begin-1590", "event_name": "North Berwick witch trials begin", "event_type": "trial_event", "date": "1590", "date_precision": "exact", "circa_range": null, "location": "North Berwick, Scotland", "location_slug": "north-berwick", "significance": "The North Berwick trials (1590–1592) brought witchcraft directly into the orbit of Scottish royal politics: James VI personally interrogated accused persons including Agnes Sampson, developed conviction in the conspiracy linking witches to the Earl of Bothwell's alleged treason, and subsequently wrote Daemonologie (1597) to refute Scot and Weyer. The trials represent the most politically inflected major witch prosecution in the British Isles.", "related_entities": ["north-berwick-1590-trials", "north-berwick", "demonic-pact-early-modern", "witches-sabbath-collective"], "source_method": "Primary sources: Newes from Scotland (1591); trial records in Register of the Privy Council of Scotland; analysis in Larner, Enemies of God (1981)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001", "ankarloo-clark-vol4-witch-trials-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "demonolatry-published-1595", "event_name": "Rémy publishes Demonolatreiae libri tres", "event_type": "primary_source_publication", "date": "1595", "date_precision": "exact", "circa_range": null, "location": "Lyons, France", "location_slug": null, "significance": "Nicolas Rémy, procureur général of Lorraine, published Demonolatreiae libri tres (Demonolatry), presenting the most detailed systematic account of sabbat practices in French vernacular demonological literature, drawn from over 800 trial confessions from Lorraine prosecutions. Clark uses the Demonolatry extensively for the systematic documentation of inversionary sabbat practices. The work represents the French magistrate-demonologist tradition alongside Boguet and de Lancre.", "related_entities": ["remy-nicolas-b1530", "witches-sabbath-collective", "inversion-principle"], "source_method": "Published primary source: Vincent Appon, Lyons 1595", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "daemonologie-published-1597", "event_name": "James VI publishes Daemonologie", "event_type": "primary_source_publication", "date": "1597", "date_precision": "exact", "circa_range": null, "location": "Edinburgh, Scotland", "location_slug": "north-berwick", "significance": "James VI of Scotland published Daemonologie as a systematic refutation of Reginald Scot and Johann Weyer and a justification of Scottish witch prosecution, drawing directly on his experience of the North Berwick trials (1590–1592) and citing Bodin as a primary authority. On James's accession to the English throne (1603) as James I, he allegedly ordered Scot's Discoverie burned. The Daemonologie thus represents both Scottish royal engagement with demonological debate and the political dimension of witch prosecution at the highest level.", "related_entities": ["north-berwick-1590-trials", "north-berwick", "weyer-johann-b1516", "scot-reginald-b1538", "bodin-jean-b1530", "witch-trial-skepticism"], "source_method": "Published primary source: Daemonologie in forme of a dialogue (Edinburgh, 1597); repr. as James I, Daemonologie (1924, New York: Barnes and Noble facsimile)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001", "ankarloo-clark-vol4-witch-trials-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "de-lancre-labourd-investigation-1609", "event_name": "De Lancre conducts Labourd witchcraft investigation", "event_type": "trial_event", "date": "1609", "date_precision": "exact", "circa_range": null, "location": "Labourd, Gascony, France (Basque region)", "location_slug": null, "significance": "Pierre de Lancre, counsellor to the Parlement de Bordeaux, was commissioned by Henry IV to investigate alleged witchcraft in the Labourd district of the French Basque Country, resulting in approximately 80 executions. The investigation produced de Lancre's Tableau de l'inconstance des mauvais anges et démons (Paris, 1612), the most detailed early modern phenomenology of the witches' sabbat. De Lancre interpreted the prevalence of witchcraft among the Basque population through a cultural thesis of inconstance — arguing that maritime occupations, Basque social customs, and geographical isolation made the region uniquely susceptible to demonic infiltration. Clark uses the Tableau as the primary source for sabbat inversion phenomenology in Thinking with Demons.", "related_entities": ["de-lancre-pierre-b1553", "witches-sabbath-collective", "inversion-principle"], "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Festivals and Sabbats chapters; primary source: Pierre de Lancre, Tableau de l'inconstance des mauvais anges et démons (Paris, 1612)", "confidence": "HIGH", "review_status": "DRAFT", "scholarly_sources": ["clark-thinking-with-demons-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "bamberg-prosecution-begins-1626", "event_name": "Bamberg mass prosecution begins", "event_type": "trial_event", "date": "1626", "date_precision": "exact", "circa_range": null, "location": "Bamberg, Holy Roman Empire", "location_slug": "bamberg", "significance": "The Bamberg mass prosecution (1626–1631) was the most intensive witch hunt in the Holy Roman Empire outside Trier, resulting in approximately 300–400 executions from 900+ accusations in five years. It began when a hailstorm was blamed on witches and court midwife Margaretha Binder was arrested; the cascade mechanism then spread through all social strata including court officials, clergy, and ultimately the mayor himself. The trials ended only with Prince-Bishop Fuchs von Dornheim's death in 1631. Friedrich Spee's Cautio criminalis (1631) is widely understood as a response to the conditions that produced Bamberg and Würzburg.", "related_entities": ["bamberg-1626-mass-prosecution", "bamberg", "margaretha-binder-bamberg-1626", "spee-cautio-criminalis-1631", "witch-trial-skepticism"], "source_method": "Trial records in Bamberg episcopal archives; analysis in Behringer, Witchcraft Persecutions in Bavaria (1997); Levack, The Witch-Hunt in Early Modern Europe (2016)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001", "ankarloo-clark-vol4-witch-trials-2001", "levack-brian-b1943"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "wurzburg-witch-trials-1626", "event_name": "Würzburg witch trials begin under Prince-Bishop Ehrenberg", "event_type": "trial_event", "date": "1626", "date_precision": "approximate", "circa_range": "1626-1631", "location": "Würzburg, Prince-Bishopric of Würzburg (Holy Roman Empire)", "location_slug": null, "significance": "The Würzburg witch trials (1626–1631) under Prince-Bishop Philipp Adolf von Ehrenberg were among the largest witch prosecutions in European history, with approximately 300 executions documented. Concurrent with the Bamberg trials, the Würzburg prosecution was notable for its social breadth — victims included members of the cathedral chapter, university scholars, and children. The Würzburg and Bamberg trials together constituted the peak of witch prosecution in the Holy Roman Empire and directly motivated Friedrich Spee's Cautio criminalis (1631), published anonymously in Protestant Rinteln partly to circumvent Imperial Catholic censorship.", "related_entities": ["spee-friedrich-b1591", "spee-cautio-criminalis-1631", "binsfeld-peter-b1545"], "source_method": "Wolfgang Behringer, Witchcraft Persecutions in Bavaria (1997); Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006)", "confidence": "HIGH", "review_status": "DRAFT", "scholarly_sources": ["ankarloo-clark-vol4-witch-trials-2001"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "cautio-criminalis-published-1631", "event_name": "Spee publishes Cautio criminalis", "event_type": "primary_source_publication", "date": "1631", "date_precision": "exact", "circa_range": null, "location": "Rinteln, Holy Roman Empire (Protestant territory, published anonymously)", "location_slug": null, "significance": "Friedrich Spee published the Cautio criminalis anonymously in Protestant Rinteln — deliberately outside Catholic censorship — providing the most systematic procedural critique of German witch trials. The fifty-one quaestiones demonstrated that torture made innocent confession inevitable and that no existing judicial process could reliably identify genuine witches. Archbishop Schönborn of Mainz later credited the Cautio with directly informing his policy of ending witch prosecution. The work is widely considered the most practically consequential text in ending mass persecution.", "related_entities": ["spee-friedrich-b1591", "spee-cautio-criminalis-1631", "witch-trial-skepticism", "bamberg-1626-mass-prosecution"], "source_method": "Published primary source; Petrus Lucius, Rinteln 1631; modern translation: Marcus Hellyer (University of Virginia Press, 2003)", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["clark-thinking-with-demons-2001", "levack-brian-b1943"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "salem-trials-1692", "event_name": "Salem witch trials begin", "event_type": "trial_event", "date": "1692", "date_precision": "exact", "circa_range": null, "location": "Salem Village (now Danvers), Massachusetts Bay Colony", "location_slug": "salem", "significance": "The Salem witch trials (1692) resulted in 20 executions (19 hanged, 1 pressed to death) and approximately 200 accusations, representing the most intense witchcraft prosecution in colonial American history. The trials began with affliction claims by young women in Salem Village, were institutionalized by the Court of Oyer and Terminer established by Governor Phips, and ended when spectral evidence was disallowed following Increase Mather's Cases of Conscience (October 1692). The trials generated three major historiographical debates: Boyer and Nissenbaum's community-conflict model, Karlsen's inheritance-anomaly thesis, and Norton's frontier-war context.", "related_entities": ["salem-1692-trials", "salem", "court-of-oyer-and-terminer-salem", "bridget-bishop-salem-1692", "giles-corey-salem-1692", "rebecca-nurse-salem-1692", "sarah-good-salem-1692", "boyer-paul-nissenbaum-stephen", "karlsen-carol-f-b1940"], "source_method": "Primary sources: Salem Witchcraft Papers (ed. Boyer and Nissenbaum, 1977); trial records at Massachusetts Archives", "confidence": "HIGH", "review_status": "VERIFIED", "scholarly_sources": ["ankarloo-clark-vol4-witch-trials-2001", "levack-brian-b1943"], "created_date": "2026-05-31", "last_modified": "2026-05-31"}];
+
+const TYPE_LABELS = {
+  trial_event:                 'Trial',
+  primary_source_publication:  'Publication',
+  institutional_event:         'Institutional',
+  political_event:             'Political',
+  biographical:                'Biographical',
+};
+function renderTimeline(list) {
+  const el  = document.getElementById('tl-list');
+  const cnt = document.getElementById('tl-count');
+  cnt.textContent = list.length + ' events';
+  if (!list.length) { el.innerHTML='<li style="color:var(--muted);padding:20px 0 0 100px">No results.</li>'; return; }
+  el.innerHTML = list.map(e => {
+    const yr   = e.date || '?';
+    const type = e.event_type || '';
+    const sig  = e.significance ? e.significance.slice(0, 180) + (e.significance.length>180?'…':'') : '';
+    return `<li class="tl-item">
+      <span class="tl-year">${yr}</span>
+      <span class="tl-dot ${type}"></span>
+      <span class="tl-content" onclick="showTLDetail(${JSON.stringify(e.id)})">
+        <span class="tl-name">${e.event_name||e.id}</span>
+        ${e.location ? `<span class="tl-loc"> &middot; ${e.location}</span>` : ''}
+        ${sig ? `<div class="tl-sig">${sig}</div>` : ''}
+      </span>
+    </li>`;
+  }).join('');
+}
+function showTLDetail(id) {
+  const e = TIMELINE.find(x=>x.id===id);
+  if (!e) return;
+  const sections = [];
+  if (e.significance) sections.push(`<div class="detail-section"><h4>Significance</h4><p>${e.significance}</p></div>`);
+  if (e.related_entities && e.related_entities.length) {
+    sections.push(`<div class="detail-section"><h4>Related Entities</h4><ul>${e.related_entities.map(r=>`<li>${r}</li>`).join('')}</ul></div>`);
+  }
+  const src = e.source_method ? `<div class="source-note">Source: ${e.source_method} &mdash; Confidence: <span class="confidence-${e.confidence}">${e.confidence||''}</span></div>` : '';
+  showDetail(`<div class="detail-title">${e.event_name||e.id}</div>
+    <div class="detail-meta">${[e.date, e.location, TYPE_LABELS[e.event_type]||e.event_type].filter(Boolean).join(' &middot; ')}</div>
+    ${sections.join('')}${src}`);
+}
+function filterTimeline() {
+  const q    = document.getElementById('search').value.toLowerCase();
+  const type = document.getElementById('filter-type').value;
+  renderTimeline(TIMELINE.filter(e => {
+    const blob = [e.event_name, e.location, e.significance].join(' ').toLowerCase();
+    const matchQ = !q || blob.includes(q);
+    const matchT = !type || e.event_type === type;
+    return matchQ && matchT;
+  }));
+}
+document.addEventListener('DOMContentLoaded', function() {
+  renderTimeline(TIMELINE);
+  document.getElementById('search').addEventListener('input', filterTimeline);
+  document.getElementById('filter-type').addEventListener('change', filterTimeline);
+});
+
+</script>
+</body>
+</html>

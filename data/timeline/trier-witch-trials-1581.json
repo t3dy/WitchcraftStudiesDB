@@ -1,0 +1,23 @@
+{
+  "id": "trier-witch-trials-1581",
+  "event_name": "Trier witch trials begin under Elector-Archbishop",
+  "event_type": "trial_event",
+  "date": "1581",
+  "date_precision": "approximate",
+  "circa_range": "1581-1593",
+  "location": "Trier, Electoral Archbishopric of Trier (Holy Roman Empire)",
+  "location_slug": null,
+  "significance": "The Trier witch trials of the 1580s–1590s were the largest witch prosecution in the Holy Roman Empire before the Bamberg and Würzburg cases, with estimates of 300–400 executions across the archbishopric. The trials were directly overseen by Suffragan Bishop Peter Binsfeld, whose Tractatus de confessionibus maleficorum (1589) was the legal-theological justification for the prosecution's exceptional evidentiary procedures. The Trier cases established the crimen exceptum doctrine, confession reliability argument, and children's testimony acceptance that later mass prosecutions applied.",
+  "related_entities": [
+    "binsfeld-peter-b1545",
+    "spee-cautio-criminalis-1631"
+  ],
+  "source_method": "Wolfgang Behringer, Witchcraft Persecutions in Bavaria (1997); Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wurzburg-witch-trials-1626",
+  "event_name": "Würzburg witch trials begin under Prince-Bishop Ehrenberg",
+  "event_type": "trial_event",
+  "date": "1626",
+  "date_precision": "approximate",
+  "circa_range": "1626-1631",
+  "location": "Würzburg, Prince-Bishopric of Würzburg (Holy Roman Empire)",
+  "location_slug": null,
+  "significance": "The Würzburg witch trials (1626–1631) under Prince-Bishop Philipp Adolf von Ehrenberg were among the largest witch prosecutions in European history, with approximately 300 executions documented. Concurrent with the Bamberg trials, the Würzburg prosecution was notable for its social breadth — victims included members of the cathedral chapter, university scholars, and children. The Würzburg and Bamberg trials together constituted the peak of witch prosecution in the Holy Roman Empire and directly motivated Friedrich Spee's Cautio criminalis (1631), published anonymously in Protestant Rinteln partly to circumvent Imperial Catholic censorship.",
+  "related_entities": [
+    "spee-friedrich-b1591",
+    "spee-cautio-criminalis-1631",
+    "binsfeld-peter-b1545"
+  ],
+  "source_method": "Wolfgang Behringer, Witchcraft Persecutions in Bavaria (1997); Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

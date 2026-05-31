@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trials — WitchcraftStudiesDB</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+:root {
+  --ink:      #1a1208;
+  --parchment:#fdf6e3;
+  --cream:    #f5ead0;
+  --border:   #c8a96e;
+  --accent:   #7b3f00;
+  --accent2:  #4a1c00;
+  --muted:    #7a6a50;
+  --link:     #5c2d00;
+  --card-bg:  #fffdf5;
+  --shadow:   rgba(90,50,10,.15);
+  --radius:   6px;
+  --max:      1100px;
+}
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background: var(--parchment);
+  color: var(--ink);
+  font-size: 16px;
+  line-height: 1.65;
+  min-height: 100vh;
+}
+
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; color: var(--accent); }
+
+/* ── header ── */
+header {
+  background: var(--accent2);
+  color: #f5deb3;
+  padding: 0;
+  border-bottom: 3px solid var(--border);
+}
+.header-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 18px 24px 14px;
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+.site-title {
+  font-size: 1.45rem;
+  font-weight: bold;
+  letter-spacing: .03em;
+  color: #f5deb3;
+}
+.site-title a { color: inherit; }
+.site-subtitle {
+  font-size: .85rem;
+  color: #c8a96e;
+  font-style: italic;
+}
+
+/* ── nav ── */
+nav {
+  background: var(--accent);
+  border-bottom: 2px solid var(--border);
+}
+.nav-inner {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 24px;
+  display: flex;
+  gap: 0;
+  flex-wrap: wrap;
+}
+nav a {
+  color: #f5deb3;
+  padding: 10px 16px;
+  font-size: .9rem;
+  display: inline-block;
+  border-right: 1px solid rgba(255,255,255,.15);
+  letter-spacing: .02em;
+}
+nav a:hover, nav a.active {
+  background: var(--accent2);
+  text-decoration: none;
+  color: #fff;
+}
+
+/* ── main ── */
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 32px 24px 64px;
+}
+
+h1 { font-size: 1.8rem; color: var(--accent2); margin-bottom: 6px; }
+h2 { font-size: 1.3rem; color: var(--accent); margin: 24px 0 12px; }
+h3 { font-size: 1.05rem; color: var(--accent2); margin: 16px 0 6px; }
+
+p { margin-bottom: .9em; }
+p:last-child { margin-bottom: 0; }
+
+.page-intro {
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 24px;
+  font-size: .95rem;
+  border-left: 3px solid var(--border);
+  padding-left: 12px;
+}
+
+/* ── search / filter bar ── */
+.search-bar {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 24px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.search-bar input, .search-bar select {
+  padding: 8px 12px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--card-bg);
+  color: var(--ink);
+  font-size: .9rem;
+  font-family: inherit;
+}
+.search-bar input { flex: 1; min-width: 200px; }
+.count-label { font-size: .85rem; color: var(--muted); margin-left: auto; }
+
+/* ── cards / grid ── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 18px;
+}
+.card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px;
+  box-shadow: 0 2px 6px var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  cursor: pointer;
+  transition: box-shadow .15s, border-color .15s;
+}
+.card:hover { box-shadow: 0 4px 14px var(--shadow); border-color: var(--accent); }
+.card-title { font-size: 1.05rem; font-weight: bold; color: var(--accent2); }
+.card-meta { font-size: .8rem; color: var(--muted); }
+.card-body { font-size: .88rem; line-height: 1.55; }
+.tag {
+  display: inline-block;
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  padding: 1px 7px;
+  font-size: .75rem;
+  color: var(--accent);
+  margin: 1px 2px 1px 0;
+}
+.badge {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  border-radius: 3px;
+  padding: 1px 8px;
+  font-size: .73rem;
+  letter-spacing: .04em;
+  font-variant: small-caps;
+}
+.badge.sceptic { background: #3a6e3a; }
+.badge.advocate { background: #8b2000; }
+.badge.systematizer { background: #1a4a7a; }
+
+/* ── detail modal / overlay ── */
+#overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.55);
+  z-index: 100;
+  overflow-y: auto;
+  padding: 40px 16px;
+}
+#overlay.open { display: block; }
+.detail-box {
+  background: var(--card-bg);
+  border: 2px solid var(--border);
+  border-radius: var(--radius);
+  max-width: 740px;
+  margin: 0 auto;
+  padding: 32px 36px;
+  position: relative;
+  box-shadow: 0 8px 32px rgba(0,0,0,.35);
+}
+.detail-close {
+  position: absolute;
+  top: 14px;
+  right: 18px;
+  font-size: 1.4rem;
+  cursor: pointer;
+  color: var(--muted);
+  line-height: 1;
+  background: none;
+  border: none;
+}
+.detail-close:hover { color: var(--accent); }
+.detail-title { font-size: 1.4rem; color: var(--accent2); margin-bottom: 4px; }
+.detail-meta { color: var(--muted); font-size: .85rem; margin-bottom: 16px; }
+.detail-section { margin-top: 16px; }
+.detail-section h4 { font-size: .9rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin-bottom: 6px; border-bottom: 1px solid var(--border); padding-bottom: 3px; }
+.detail-section p { font-size: .9rem; }
+.detail-section ul { font-size: .88rem; padding-left: 20px; }
+.detail-section li { margin-bottom: 4px; }
+.source-note { font-size: .78rem; color: var(--muted); font-style: italic; margin-top: 16px; border-top: 1px solid var(--border); padding-top: 10px; }
+.confidence-HIGH { color: #2a7a2a; font-weight: bold; }
+.confidence-MEDIUM { color: #8a6000; font-weight: bold; }
+.confidence-LOW { color: #9a2000; font-weight: bold; }
+
+/* ── timeline ── */
+.timeline-list { position: relative; padding-left: 0; list-style: none; }
+.timeline-list::before {
+  content: "";
+  position: absolute;
+  left: 80px;
+  top: 0; bottom: 0;
+  width: 2px;
+  background: var(--border);
+}
+.tl-item {
+  display: flex;
+  gap: 0;
+  margin-bottom: 20px;
+  position: relative;
+}
+.tl-year {
+  width: 80px;
+  min-width: 80px;
+  text-align: right;
+  padding-right: 18px;
+  font-size: .85rem;
+  font-weight: bold;
+  color: var(--accent);
+  padding-top: 4px;
+}
+.tl-dot {
+  width: 12px;
+  min-width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid var(--parchment);
+  margin-top: 6px;
+  flex-shrink: 0;
+  position: relative;
+  z-index: 1;
+}
+.tl-dot.trial_event { background: #8b2000; }
+.tl-dot.primary_source_publication { background: #1a4a7a; }
+.tl-dot.institutional_event { background: #5a4000; }
+.tl-dot.political_event { background: #3a6e3a; }
+.tl-dot.biographical { background: #7a7a7a; }
+.tl-content {
+  padding-left: 18px;
+  flex: 1;
+  cursor: pointer;
+}
+.tl-name { font-size: .95rem; font-weight: bold; color: var(--accent2); }
+.tl-name:hover { color: var(--accent); text-decoration: underline; }
+.tl-loc { font-size: .8rem; color: var(--muted); }
+.tl-sig { font-size: .85rem; margin-top: 4px; }
+.tl-legend { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 24px; font-size: .82rem; }
+.tl-legend-item { display: flex; align-items: center; gap: 6px; }
+.tl-legend-dot { width: 10px; height: 10px; border-radius: 50%; }
+
+/* ── map placeholder ── */
+.map-container { background: var(--cream); border: 2px dashed var(--border); border-radius: var(--radius); padding: 60px 24px; text-align: center; color: var(--muted); font-style: italic; margin-bottom: 32px; }
+
+/* ── stats bar ── */
+.stats-grid { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 32px; }
+.stat-box { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 24px; text-align: center; flex: 1; min-width: 130px; }
+.stat-num { font-size: 2rem; font-weight: bold; color: var(--accent); display: block; }
+.stat-lbl { font-size: .8rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; }
+
+/* ── footer ── */
+footer { background: var(--accent2); color: #c8a96e; text-align: center; padding: 18px; font-size: .8rem; border-top: 2px solid var(--border); margin-top: 40px; }
+
+/* responsive */
+@media (max-width: 600px) {
+  .card-grid { grid-template-columns: 1fr; }
+  .detail-box { padding: 20px 16px; }
+  .tl-list::before { left: 60px; }
+  .tl-year { width: 60px; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <span class="site-title"><a href="index.html">WitchcraftStudiesDB</a></span>
+    <span class="site-subtitle">A digital humanities knowledge portal for the history of European witch trials</span>
+  </div>
+</header>
+<nav><div class="nav-inner"><a href="index.html">Home</a><a href="trials.html" class="active">Trials</a><a href="scholars.html">Scholars</a><a href="concepts.html">Concepts</a><a href="timeline.html">Timeline</a><a href="sources.html">Sources</a><a href="about.html">About</a></div></nav>
+
+<main>
+
+<h1>Trial Events</h1>
+<p class="page-intro">Major witch prosecution events, cross-referenced with accused persons, locations, and demonological concepts.</p>
+<div class="search-bar">
+  <input id="search" type="search" placeholder="Search trials by name, location, summary…">
+  <span class="count-label" id="trial-count"></span>
+</div>
+<div class="card-grid" id="trial-list"></div>
+
+</main>
+<footer>WitchcraftStudiesDB &mdash; Digital humanities project &mdash; Data licensed CC BY 4.0</footer>
+<div id="overlay"><div class="detail-box"><button class="detail-close" onclick="closeDetail()">&#x2715;</button><div id="detail-content"></div></div></div>
+<script>
+function closeDetail() {
+  document.getElementById('overlay').classList.remove('open');
+}
+document.getElementById('overlay').addEventListener('click', function(e) {
+  if (e.target === this) closeDetail();
+});
+document.addEventListener('keydown', function(e) {
+  if (e.key === 'Escape') closeDetail();
+});
+function showDetail(html) {
+  document.getElementById('detail-content').innerHTML = html;
+  document.getElementById('overlay').classList.add('open');
+  document.getElementById('overlay').scrollTop = 0;
+}
+const TRIALS = [{"id": "bamberg-1626-mass-prosecution", "name": "Bamberg-Franconia Witch Persecutions", "location_id": "bamberg", "year_start": 1626, "year_end": 1631, "alleged_accused_count": 900, "executed_count": 300, "regional_context": "Prince-Bishopric of Bamberg, Holy Roman Empire", "summary": "The Bamberg persecutions (1626-1631) represent one of the largest and most concentrated witch hunts in European history. Under Prince-Bishop Johann Georg II Fuchs and subsequent leadership, approximately 300 individuals were executed in a five-year period—an extraordinary density of prosecution that scholars have analyzed as a cascade phenomenon driven by both demonological ideology and institutional panic. Unlike diffuse regional hunts, Bamberg's prosecutions created a self-perpetuating mechanism: each execution and extracted confession implicated additional suspects, expanding the prosecutorial net through geometrically expanding denunciations.", "historiographical_significance": "Bamberg exemplifies how institutional authority combined with demonological theory could produce systematic mass persecution. Stuart Clark emphasizes Bamberg as a case where learned theory (demonic conspiracy, sabbath doctrine) shaped courtroom procedures and evidentiary standards. Carlo Ginzburg's microhistorical analysis of interrogation records reveals how torture-shaped confessions created internally coherent but factually baseless narratives of demonic pacts and sabbath assemblies. Ronald Hutton notes the involvement of clerical and secular officials, illustrating the cooperation between ecclesiastical and temporal authorities. The trial demonstrates how prosecution can become self-sustaining through institutional momentum and fear of conspiracy.", "demonological_framework": ["witches-sabbath-collective", "demonic-pact-early-modern", "female-susceptibility-theory", "demonological-conspiracy", "maleficium-weather-magic"], "key_details": {"initiating_bishop": "Johann Georg II Fuchs von Dornheim (1623-1631)", "prosecuting_inquisitor": "Friedrich Förner (Prince-Bishop's ecclesiastical officer)", "supreme_court": "Spiritual Council of Bamberg", "procedure": "Ecclesiastical inquisition with torture-based testimony; confessional evidence weighted as proof", "torture_methods": ["strappado", "leg screws", "hot irons", "sleep deprivation"], "trial_phases": [{"phase": "Initial targeting (1626-1627)", "context": "Severe hailstorms blamed on weather magic; court midwife accused as vector of conspiracy"}, {"phase": "Institutional cascade (1627-1629)", "context": "Each confession implicates 8-12 accomplices; denunciations create expanding suspect pool"}, {"phase": "Peak executions (1629-1630)", "context": "Mass burnings; 19 executions in single month (August 1629)"}, {"phase": "Collapse and suppression (1631-1632)", "context": "Bishop Fuchs dies; successor suppresses trials; surviving accused pardoned"}]}, "scholarly_disagreement": "Historians debate whether Bamberg represents demonological zealotry, institutional malfunction, or socioeconomic stress. Clark (intellectual history) emphasizes the internal coherence of demonological theory to magistrates; Hutton (social history) stresses the social dynamics of fear and suspicion; Ginzburg (microhistory) focuses on how interrogation procedures produced false confessions that fed further prosecutions. Recent scholarship questions the death toll figures (ranging 300-1,200 depending on source), but accepts the cascade mechanism as the defining feature.", "accused_persons": ["margaretha-binder-bamberg-1626", "catharina-henot-bamberg-1627", "frau-hoelmann-bamberg-1627", "philip-fuchs-bamberg-1628", "johannes-junius-bamberg-1628"], "related_trials": ["trier-1581-mass-persecution", "friuli-benandanti-1575-inquisition"], "source_method": "Published trial records (Behringer 1997), contemporary ecclesiastical correspondence, Bamberg episcopal archives", "review_status": "VERIFIED", "confidence": "HIGH", "scholarly_sources": ["clark-thinking-with-demons-2001", "ginzburg-ecstasies-1991", "ankarloo-clark-vol4-witch-trials-2001", "hutton-the-witch-2017"], "historiographical_notes": "Bamberg serves as a touchstone for debates about early modern demonology's explanatory power. Does the hunt represent rational application of witchcraft doctrine to perceived threats, or institutional pathology masquerading as theology? The answer depends partly on whether one privileges intellectual coherence (Clark's approach) or social causation (Hutton's approach). Ginzburg's interrogation analysis suggests that neither explanation suffices: institutional procedures (torture, cumulative denunciations) created factually false but internally consistent confessional narratives that seemed to confirm demonological theory while actually refuting it.", "created_date": "2026-05-23", "last_modified": "2026-05-23"}, {"id": "friuli-benandanti-1575-inquisition", "name": "Friuli Benandanti Inquisition", "location_id": "friuli", "year_start": 1575, "year_end": 1580, "alleged_accused_count": 12, "executed_count": 0, "trial_type": "Ecclesiastical inquisition (no secular involvement)", "regional_context": "Friuli-Venetia Giulia, Venetian Republic", "summary": "The Friuli benandanti case (1575-1580) involved the interrogation of individuals who claimed to be 'the good walkers' (benandanti)—folk practitioners who believed they possessed the supernatural power to defend crops and fertility against malevolent sorcerers. Rather than the satanic conspiracy narrative of Central European demonology, the Friuli cases reveal a pre-demonological magical worldview where practitioners saw themselves as servants of fertility and community protection. The inquisitors' interrogation records show a collision between folk healing traditions and emerging demonological theory.", "historiographical_significance": "Carlo Ginzburg's *Ecstasies* (1989) established the Friuli benandanti as a foundational case for understanding medieval pagan survivals and the process by which folk magic traditions were reinterpreted as demonic pacts through interrogation. Ginzburg demonstrates how torture and leading questions gradually transformed benandanti self-representations from protective magic into confessions of demonic allegiance. The case illuminates the gap between practitioners' own language (Actor term) and inquisitors' interpretive frame (Analyst term). Stuart Clark uses the case to show how demonological theory could misinterpret non-demonic magical practices. Ronald Hutton emphasizes benandanti as legitimate cunning folk whose healing practices were criminalized through demonological reframing.", "interrogation_methodology": {"inquisitor": "Fra Felice da Montefalco (Venetian Inquisition)", "procedures": ["leading questions", "confrontational accusation", "sustained interrogation pressure"], "torture_applied": false, "confession_mechanism": "Cognitive dissonance produced by confrontation between folk identity and demonological accusations"}, "actor_terms_benandanti": ["the good walkers (benandanti)", "servants of fertility", "defenders against maleficium", "practitioners with nocturnal visions", "healers with supernatural knowledge"], "analyst_terms_imposed": ["witches", "servants of demonic forces", "congregators at sabbath", "workers of maleficium", "heretical conspirators"], "accused_persons": ["gaspar-tagliacarne-friuli-1575", "andrea-grioni-friuli-1576", "battista-moduco-friuli-1580"], "related_trials": [], "demonological_framework": ["witches-sabbath-collective", "demonic-pact-early-modern"], "key_accused": ["gaspar-tagliacarne-friuli-1575", "andrea-grioni-friuli-1576", "battista-moduco-friuli-1580"], "magical_practices_described": {"crop_protection": "Practitioners claimed ability to defend fields against hail, crop disease, and livestock mortality through nocturnal spiritual journeys", "healing": "Diagnosis and treatment of illnesses through contact with supernatural sources of knowledge", "fertility_magic": "Rituals to ensure human and animal fertility through appeals to beneficent supernatural forces", "opposition": "Conflict with 'malandanti' (malevolent sorcerers) viewed as personal rivals in supernatural realm"}, "interrogation_outcomes": [{"accused": "Gaspar Tagliacarne", "initial_claim": "Benandante defending Friuli against crop destruction", "interrogation_result": "Gradual reinterpretation as demonic servant after sustained questioning", "final_status": "Abjured under suspicion; case closed without execution"}], "scholarly_disagreement": "Ginzburg interprets the case as evidence of continuity from pre-Christian fertility cults and shamanic practices. Critics (including Robin Briggs) suggest Ginzburg over-interprets fragmentary evidence of pagan survivals. All scholars agree the case shows inquisitorial reframing of folk practices as demonic. The central question: Were benandanti preserving genuine pagan traditions, or engaging in folk healing that inquisitors misinterpreted through demonological lenses? Ginzburg argues the former; critics suggest the evidence permits both readings.", "source_method": "Venetian Inquisition archival documents (Friuli), published transcripts analyzed by Ginzburg", "review_status": "VERIFIED", "confidence": "HIGH", "scholarly_sources": ["ginzburg-ecstasies-1991", "ginzburg-night-battles-1983", "clark-thinking-with-demons-2001", "hutton-the-witch-2017"], "historiographical_notes": "The Friuli case demonstrates the fragility of the boundary between magical practice and witchcraft accusation. Benandanti saw themselves as beneficial practitioners; inquisitors saw them as demonic conspirators. The gap between these interpretations was not insurmountable—through interrogation, benandanti gradually accepted the inquisitorial frame, but crucially without actual execution. This contrasts with Central European hunts where such reframing led to mass death. The case illustrates how institutional context (Venetian inquisition's restraint vs. German prince-bishops' zealotry) shaped outcomes.", "created_date": "2026-05-23", "last_modified": "2026-05-23"}, {"id": "north-berwick-1590-trials", "name": "North Berwick Witch Trials", "location_id": "north-berwick", "year_start": 1590, "year_end": 1592, "alleged_accused_count": 70, "executed_count": null, "trial_type": "Royal commission / Scottish Privy Council proceedings", "regional_context": "Kingdom of Scotland, Lowland Scotland / East Lothian", "summary": "The North Berwick trials (1590-1592) were the most significant Scottish witch prosecution of the sixteenth century and the one with the most documented royal involvement. The cascade began when David Seaton, deputy bailiff of Tranent, tortured his servant Geillis Duncan, who under torture named Agnes Sampson and others as witches. Sampson, known as the 'Wise Wife of Keith,' was interrogated personally by James VI at Holyrood Palace, where she confessed to organizing sabbath assemblies at the Old Kirk of North Berwick. According to her confession, hundreds of witches had gathered to plot the king's destruction through sea-storms — a plot allegedly instigated by Francis Stewart, Earl of Bothwell. The trials proceeded through 1591-1592, with executions including those of Sampson (January 1591) and Duncan (December 1591). The Bothwell accusation was politically charged; Bothwell escaped and was eventually exiled. Approximately 70 persons are associated with the initial prosecution wave, though precise execution figures remain disputed.", "historiographical_significance": "The North Berwick trials are historiographically significant for three reasons. First, they are the clearest early modern case of a European monarch's direct personal involvement in witch interrogation: James VI's examination of Agnes Sampson was not the action of a credulous observer but of a man with genuine demonological convictions, documented in his authorship of Daemonologie (1597) as a direct intellectual response to the trials. Clark uses Daemonologie as an exemplary case of how demonological theory could achieve royal endorsement and thereby shape an entire prosecutorial culture. Second, Christina Larner's Enemies of God (1981) treats the North Berwick trials as the beginning of Scotland's most intensive persecution phase and as evidence for her state-building thesis: the king's identification of witchcraft conspiracy as treason against the sovereign was a distinctively Scottish inflection of Continental demonological theory that linked witch prosecution to political authority. Third, Goodare's analysis in The Scottish Witch-Hunt in Context (2002) shows how the institutional structure of Scottish law — which lacked effective Roman-type inquisitorial oversight — enabled cascade prosecution of the kind the North Berwick confession patterns produced.", "demonological_framework": ["witches-sabbath-collective", "demonic-pact-early-modern"], "key_details": {"initiating_figure": "David Seaton (deputy bailiff of Tranent), whose torture of Geillis Duncan initiated the cascade", "central_accused": "Agnes Sampson ('Wise Wife of Keith'), healer and cunning woman; primary target of the royal examination", "royal_interrogator": "James VI of Scotland, who personally examined Agnes Sampson at Holyrood Palace", "alleged_political_instigator": "Francis Stewart, Earl of Bothwell, accused as organizer of the anti-royal conspiracy; escaped and exiled", "procedures": ["torture", "leading questions about sabbath attendance", "extraction of accomplice names"], "alleged_sabbath_site": "Old Kirk of North Berwick (still standing, on the coast of East Lothian)", "political_dimension": "The alleged conspiracy to kill James VI through sea-storms on his return from Denmark gave the prosecution a treason dimension that other witch trials lacked; witchcraft and high treason were explicitly conflated"}, "scholarly_disagreement": "Larner's state-building interpretation — that the North Berwick trials expressed nascent Scottish sovereign authority through witch prosecution — has been broadly influential but is questioned by some historians who argue the trials were more opportunistic and personality-driven than Larner's structural thesis suggests. Goodare refines Larner by emphasizing institutional rather than ideological factors. The political framing of the Bothwell accusation has led some historians to argue the North Berwick prosecution was partially a vehicle for eliminating a political rival under the guise of witch prosecution — a reading that Clark's intellectual-history framework resists, since it implies cynical manipulation rather than genuine belief.", "accused_persons": ["agnes-sampson-north-berwick-1591", "geillis-duncan-north-berwick-1591"], "related_trials": ["bamberg-1626-mass-prosecution"], "source_method": "Newes from Scotland (1591) pamphlet; Scottish Privy Council records; Normand and Roberts, Witchcraft in Early Modern Scotland (2000); Larner, Enemies of God (1981)", "review_status": "DRAFT", "confidence": "HIGH", "scholarly_sources": ["ankarloo-clark-vol4-witch-trials-2001", "clark-thinking-with-demons-2001"], "historiographical_notes": "The North Berwick trials produced two of the most significant documents in early modern witch-trial historiography: the Newes from Scotland pamphlet (1591), an anonymous account that circulated widely and shaped popular understanding of the sabbath conspiracy in England; and Daemonologie (1597), James VI's theoretical justification for witch prosecution, written partly in response to skeptics like Reginald Scot. When James became James I of England in 1603, he brought his demonological convictions with him, influencing English prosecutorial culture and contributing to the 1604 Witchcraft Act's increased penalties. The North Berwick trials thus had consequences well beyond Scotland.", "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "salem-1692-trials", "name": "Salem Witch Trials", "location_id": "salem", "year_start": 1692, "year_end": 1693, "alleged_accused_count": 200, "executed_count": 20, "trial_type": "Court of Oyer and Terminer (colonial common law, special commission)", "regional_context": "Massachusetts Bay Colony, British Colonial North America", "summary": "The Salem witch trials of 1692-1693 are the most extensively documented and most intensively analyzed witch prosecution in American history, and among the most analyzed in the Atlantic world. Accusations began in the household of minister Samuel Parris in Salem Village (modern Danvers) when his daughter Betty and niece Abigail Williams began exhibiting fits in January 1692. The three persons initially accused — Tituba (an enslaved person of Caribbean origin), Sarah Good (a destitute vagrant), and Sarah Osborne (an elderly invalid) — were arrested February 29, 1692. Governor William Phips established the Court of Oyer and Terminer on May 27, 1692 to try the rapidly multiplying cases. Chief Justice William Stoughton accepted spectral evidence — the testimony of afflicted persons about spiritual apparitions — as legally probative. Bridget Bishop was hanged June 10, 1692; eighteen more were hanged through September; Giles Corey was pressed to death September 19 after refusing to enter a plea. Governor Phips dissolved the court October 29, 1692 after Increase Mather's Cases of Conscience (1693) challenged spectral evidence and after accusations reached socially prominent individuals, including the governor's wife. The Superior Court of Judicature acquitted all remaining accused in 1693. The 20 executed (19 hanged, 1 pressed) and approximately 5 who died in prison represent the final toll.", "historiographical_significance": "Salem is the most debated witch trial in historical scholarship, and the debate has produced the three most important interpretive frameworks for understanding American colonial prosecutions. Boyer and Nissenbaum's Salem Possessed (1974) established the community-conflict model: by mapping accusers and accused onto pre-existing factional alignments — farming Salem Village versus commercial Salem Town — they demonstrated that the accusation pattern was socially structured, not random. This framework shifted the explanatory question from 'why did people believe in witches?' to 'why did these specific people accuse these specific others?' Karlsen's The Devil in the Shape of a Woman (1987) demonstrated that accused women were disproportionately those who had inherited or stood to inherit property — women whose relationship to patriarchal property transmission was anomalous. Norton's In the Devil's Snare (2002) added the military context: the ongoing frontier war with Native Americans (King William's War) generated genuine existential anxiety that Boyer and Nissenbaum underweighted. Clark's intellectual-history framework applies to Salem through the spectral-evidence debate: Increase Mather's challenge was not a rejection of witchcraft belief but an internal theological argument that spectral evidence was epistemologically insufficient — the devil could, according to Puritan theology, assume the likeness of an innocent person, making spectral appearance untrustworthy as evidence. Levack's comparative analysis situates Salem as exceptional within the English colonial context but unremarkable by Continental standards: the cascade mechanism, spectral evidence, and lack of effective external review were the same institutional conditions that enabled European mass prosecutions.", "demonological_framework": ["demonic-pact-early-modern", "witches-sabbath-collective"], "key_details": {"initiating_household": "Household of Samuel Parris, minister of Salem Village; his daughter Betty (9) and niece Abigail Williams (11) exhibited fits beginning January 1692", "first_accused": "Tituba (enslaved person), Sarah Good (destitute vagrant), Sarah Osborne (elderly invalid) — arrested February 29, 1692", "court_established": "Court of Oyer and Terminer established May 27, 1692 by Governor William Phips", "chief_justice": "William Stoughton, who consistently accepted spectral evidence and never publicly expressed regret", "first_execution": "Bridget Bishop hanged June 10, 1692", "spectral_evidence_debate": "The acceptance of spectral evidence — the testimony of afflicted persons that they saw apparitions of the accused — was the central procedural controversy. Increase Mather's Cases of Conscience (1693) challenged this, arguing the devil could assume an innocent person's likeness.", "notable_executions": "Rebecca Nurse (elderly respected grandmother), George Burroughs (former minister), Martha Corey, Mary Easty (whose final petition for others after her own death sentence survived), Giles Corey (pressed to death September 19)", "trial_phases": [{"phase": "Initial accusations (January–April 1692)", "context": "Accusations concentrated in Salem Village; primarily targeting social outsiders (Good, Tituba) and those with prior community disputes"}, {"phase": "Expansion and mass arrest (May–August 1692)", "context": "Court of Oyer and Terminer established; accusations spread to Salem Town and outlying communities including Andover; respected community members (Nurse, Burroughs) accused"}, {"phase": "Peak executions and collapse (September–October 1692)", "context": "Nineteen hanged, one pressed to death; accusers began targeting Governor Phips's wife and other prominent figures; spectral evidence challenge gains traction"}, {"phase": "Resolution (October 1692–May 1693)", "context": "Court dissolved; Superior Court of Judicature acquits remaining accused; no further executions"}]}, "scholarly_disagreement": "Boyer and Nissenbaum's community-conflict model — the standard framework since 1974 — has been supplemented but not displaced by subsequent scholarship. Norton's In the Devil's Snare (2002) argues that Boyer and Nissenbaum underweighted the military and frontier-crisis context, which generated the existential anxiety that made diabolical conspiracy explanations plausible to a broader population. Karlsen's demographic analysis and Boyer/Nissenbaum's structural analysis are generally treated as complementary (explaining who was accused and what structural conditions enabled it) rather than competing. The 'spectral evidence' explanation — that the specific legal error of accepting spectral testimony enabled the cascade — is accepted across historiographical traditions but understood as a proximate rather than ultimate cause. Rosenthal's Salem Story (1993) challenged some of Boyer/Nissenbaum's specific community-conflict mappings while accepting their framework.", "accused_persons": ["bridget-bishop-salem-1692", "giles-corey-salem-1692", "rebecca-nurse-salem-1692", "sarah-good-salem-1692"], "related_trials": ["bamberg-1626-mass-prosecution", "north-berwick-1590-trials"], "source_method": "Salem Witchcraft Papers (3 vols., Boyer and Nissenbaum eds., 1977); Boyer and Nissenbaum, Salem Possessed (1974); Karlsen, The Devil in the Shape of a Woman (1987); Norton, In the Devil's Snare (2002)", "review_status": "DRAFT", "confidence": "HIGH", "scholarly_sources": ["ankarloo-clark-vol4-witch-trials-2001", "clark-thinking-with-demons-2001"], "historiographical_notes": "Salem occupies a distinctive position in American cultural memory as well as scholarship: it became the paradigm case in American public discourse for collective moral panic, and the 1953 Arthur Miller play The Crucible (written as an allegory for McCarthyism) has shaped popular understanding more than the scholarly literature. Historians consistently note the gap between the historical Salem — a specific colonial community under specific institutional, theological, and social pressures — and the cultural myth. The legislative exonerations of 1711 and 2001 (the last victims cleared) are evidence of Salem's continuing political resonance. Samuel Sewall's public apology (January 14, 1697) — the only judge to do so — is preserved in his diary and is the most significant contemporary self-critique of the prosecution by a participant.", "created_date": "2026-05-31", "last_modified": "2026-05-31"}, {"id": "todi-1428-witchcraft-trial", "name": "Trial of Matteuccia di Francesco, Todi (1428)", "location_id": "todi", "year_start": 1428, "year_end": 1428, "alleged_accused_count": 1, "executed_count": 1, "trial_type": "Communal secular court (Tribunale dei Malefici of Todi)", "regional_context": "Commune of Todi, Umbria, Central Italy", "summary": "The Todi trial of 1428 is one of the earliest documented Italian witch prosecutions to combine the full composite witch stereotype — maleficium (harmful magic), explicit demonic pact, and sabbath attendance — in a single set of charges against a single accused. Matteuccia di Francesco, a healer and folk practitioner from Ripabianca (near Todi), was tried before the Tribunale dei Malefici, the commune's secular court for criminal offenses, presided over by the Podestrà Cristoforo di Ser Jacopo. The charges incorporated accusations of harming people through magical preparations, preparing a magical ointment enabling flight, and attending demonic gatherings. She was condemned and executed by burning on March 20, 1428. The trial precedes the Malleus Maleficarum (1487) by nearly sixty years and the major systematic European hunts by more than a century, making it a critical early datum for understanding when and where the composite witch stereotype crystallized in judicial practice. It was conducted by a civic rather than ecclesiastical body — an important distinction from the more familiar inquisitorial model of witch prosecution.", "historiographical_significance": "The Todi trial is historiographically significant as an early fixed point in the chronology of the composite witch stereotype's emergence in Italian judicial practice. Ginzburg's Ecstasies (1989/1991) situates early Italian trials like the Todi case within his argument about the geographical crystallization of sabbath doctrine in the mid-fifteenth century Alps and pre-Alps, identifying a belt of early trials (Switzerland, Savoy, Dauphiné, northern Italy) in which the composite accusation first appeared. Todi's location in Umbria — south of the Alpine belt Ginzburg emphasizes — and its 1428 date make it a challenge to simple geographical narratives about sabbath doctrine's diffusion. Levack notes that Italian trials like Todi demonstrate that the composite witch stereotype could achieve lethal judicial application before the major demonological treatises had systematized it theoretically. The trial's institutional context is also notable: it was conducted by a secular communal court, not an ecclesiastical inquisition. This places it among the cases that Levack uses to argue that secular courts, not ecclesiastical inquisitions, were the primary engines of witch execution — the Venetian Inquisition, by contrast, executed no benandanti in the same century.", "demonological_framework": ["demonic-pact-early-modern", "witches-sabbath-collective"], "key_details": {"court": "Tribunale dei Malefici (Court of Evil Deeds), secular communal court of Todi", "presiding_officer": "Cristoforo di Ser Jacopo, Podestrà of Todi", "institutional_character": "Secular civic court, not an inquisitorial body — the distinction from papal or episcopal jurisdiction is historiographically significant", "execution_date": "March 20, 1428", "charges_summary": "Preparation of harmful magical substances (veneficia); preparation and use of a flying ointment enabling nocturnal transport; attendance at demonic assemblies; pact with demonic forces", "accused_occupation": "Healer and folk practitioner; clients sought her services for love magic, healing, and problem resolution"}, "scholarly_disagreement": "The Todi trial has not generated major historiographical controversy regarding its basic facts, which are documented in the surviving trial record. Scholarly debate concerns its place within the broader pattern of early Italian witch trials: Ginzburg emphasizes it as evidence for the Alpine transmission belt of sabbath doctrine, while other historians suggest the composite accusations reflect more diffuse processes of theological and legal synthesis that need not imply a specific geographical route of transmission. The relationship between the Franciscan preaching campaigns of Bernardino of Siena (active in Umbria in the same period) and the emergence of composite charges in Italian communal courts is debated — some historians argue Franciscan preaching directly shaped prosecutorial expectations; others argue this overstates the connection.", "accused_persons": ["matteuccia-di-francesco-todi-1428"], "related_trials": ["bamberg-1626-mass-prosecution", "friuli-benandanti-1575-inquisition"], "source_method": "Todi communal court records (partially preserved); analyzed in Muzzarelli and related Italian scholarship on early witch trials; discussed in Ginzburg, Ecstasies (1989/1991) and Levack, The Witch-Hunt in Early Modern Europe", "review_status": "DRAFT", "confidence": "HIGH", "scholarly_sources": ["ginzburg-ecstasies-1991", "ankarloo-clark-vol4-witch-trials-2001"], "historiographical_notes": "The Todi trial's early date (1428) makes it a touchstone for establishing that the composite witch stereotype was operative in Italian judicial practice well before the publication of the Malleus Maleficarum. Historians have used it alongside the early Swiss and Savoyard trials to push back the conventional 'beginning' of the witch-hunt to the early fifteenth century rather than the late fifteenth century. This chronological revision has implications for the causal explanations offered: if composite witch accusations predate the Malleus, then the Malleus was a theorization of an already-existing prosecutorial practice rather than the trigger that created it.", "created_date": "2026-05-31", "last_modified": "2026-05-31"}];
+
+function trunc(s, n) { return s && s.length > n ? s.slice(0,n)+'…' : (s||''); }
+function renderTrials(list) {
+  const el = document.getElementById('trial-list');
+  const cnt = document.getElementById('trial-count');
+  cnt.textContent = list.length + ' result' + (list.length===1?'':'s');
+  if (!list.length) { el.innerHTML='<p style="color:var(--muted)">No results.</p>'; return; }
+  el.innerHTML = list.map(t => {
+    const name = t.name || t.id;
+    const loc  = t.location_id || '';
+    const yr   = t.year_start || '';
+    const ex   = t.executed_count != null ? '~'+t.executed_count+' executed' : '';
+    const acc  = t.alleged_accused_count != null ? '~'+t.alleged_accused_count+' accused' : '';
+    const summ = trunc(t.summary, 220);
+    return `<div class="card" onclick="showTrialDetail(${JSON.stringify(t.id)})">
+      <div class="card-title">${name}</div>
+      <div class="card-meta">${[loc,yr,ex,acc].filter(Boolean).join(' &middot; ')}</div>
+      <div class="card-body">${summ}</div>
+    </div>`;
+  }).join('');
+}
+function showTrialDetail(id) {
+  const t = TRIALS.find(x=>x.id===id);
+  if (!t) return;
+  const sections = [];
+  if (t.summary) sections.push(`<div class="detail-section"><h4>Summary</h4><p>${t.summary}</p></div>`);
+  if (t.historiographical_significance) sections.push(`<div class="detail-section"><h4>Historiographical Significance</h4><p>${t.historiographical_significance}</p></div>`);
+  if (t.demonological_framework) sections.push(`<div class="detail-section"><h4>Demonological Framework</h4><p>${t.demonological_framework}</p></div>`);
+  if (t.scholarly_disagreement) sections.push(`<div class="detail-section"><h4>Scholarly Disagreement</h4><p>${t.scholarly_disagreement}</p></div>`);
+  if (t.accused_persons && t.accused_persons.length) sections.push(`<div class="detail-section"><h4>Accused Persons</h4><ul>${t.accused_persons.map(p=>`<li>${p}</li>`).join('')}</ul></div>`);
+  const src = t.source_method ? `<div class="source-note">Source: ${t.source_method} &mdash; Confidence: <span class="confidence-${t.confidence}">${t.confidence||''}</span></div>` : '';
+  showDetail(`<div class="detail-title">${t.name||t.id}</div>
+    <div class="detail-meta">${[t.location_id, t.year_start, t.year_end ? '–'+t.year_end : ''].filter(Boolean).join(' ')}</div>
+    ${sections.join('')}${src}`);
+}
+function filterTrials() {
+  const q = document.getElementById('search').value.toLowerCase();
+  renderTrials(TRIALS.filter(t => {
+    const blob = [t.name,t.location_id,t.summary,t.regional_context].join(' ').toLowerCase();
+    return blob.includes(q);
+  }));
+}
+document.addEventListener('DOMContentLoaded', function() {
+  renderTrials(TRIALS);
+  document.getElementById('search').addEventListener('input', filterTrials);
+});
+
+</script>
+</body>
+</html>
