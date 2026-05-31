@@ -1,0 +1,106 @@
+{
+  "id": "daneau-lambert-b1530",
+  "name": "Lambert Daneau",
+  "birth_year": 1530,
+  "death_year": 1595,
+  "birth_place": "Beaugency, France",
+  "academic_discipline": "Reformed Theology; Natural Philosophy; Demonology",
+  "primary_institution": "Calvinist minister, Geneva (under Calvin and Beza); later Leiden, Ghent, Orthez; associated with Reformed churches of France and the Low Countries",
+
+  "major_works": [
+    {
+      "title": "Les Sorciers: Dialogue très utile (A Dialogue of Witches)",
+      "year": 1574,
+      "publisher": "Geneva (French 1574; Latin 1575; English translation 1575)",
+      "significance": "One of the earliest and most systematic Reformed Protestant demonologies; structured as a dialogue between Theophilus (the questioner) and Anthony (the theological authority); argued that witchcraft was real and required prosecution, integrating Calvinist natural philosophy with the demonological tradition. The English translation (1575) was the first systematic Protestant witch treatise available in England.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Physice Christiana, sive De rerum creatarum cognitione et usu",
+      "year": 1576,
+      "publisher": "Geneva",
+      "significance": "Christian natural philosophy integrating Reformed theology with Aristotelian and Galenic science; provided the framework for Daneau's analysis of demonic operation through secondary natural causes.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Treatise Touching Antichrist",
+      "year": 1576,
+      "publisher": "London (English translation)",
+      "significance": "Eschatological treatise identifying the Antichrist and dating the end of the world to after 1666; integrated eschatological thought with the demonological framework of the Dialogue of Witches.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "REFORMED PROTESTANT DEMONOLOGIST / CALVINIST NATURAL PHILOSOPHER",
+
+  "core_argument": "Lambert Daneau was the founding figure of systematic Reformed Protestant demonology — the first Calvinist theologian to produce a comprehensive treatise on witchcraft integrating Calvinist natural philosophy with the Continental demonological tradition. His Dialogue of Witches (1574) argued that witchcraft was real, that witches deserved death, and that prosecution was a Christian magistrate's duty — but on explicitly Reformed rather than Catholic theological grounds. Daneau's distinctive contribution was to frame demonology within the Calvinist doctrine of providence: the devil operated through secondary natural causes under God's permissive will, making demonic action both real and theologically explicable within the framework of Reformed natural philosophy. Stuart Clark cites Daneau extensively in Thinking with Demons as the exemplary case of Reformed Protestant demonology — demonstrating that the witch-prosecution tradition was not specifically Catholic but crossed confessional boundaries within a shared framework of secondary causation and providential governance. Daneau's Dialogue was the first systematic Protestant witch treatise available in English (1575), making him a founding influence on English Reformed demonological thought from George Gifford through William Perkins.",
+
+  "methodological_approach": {
+    "primary_materials": "Reformed theological framework (Calvin's Institutes; Calvinist doctrine of providence and secondary causation); Continental demonological literature (Rémy, Boguet, the emerging tradition); biblical exegesis of relevant texts (Exodus 22:18, 1 Samuel 28, Revelation)",
+    "analysis_target": "Integration of demonological theory with Reformed natural philosophy; defense of witch prosecution on Calvinist theological grounds; calibration of Calvinist pastoral response to witchcraft accusation",
+    "evidence_type": "Theological argument from Scripture and Reformed doctrine; comparative references to Continental prosecution; natural-philosophical analysis of demonic operation through secondary causes",
+    "explanatory_level": "Theological-natural-philosophical: Daneau framed demonological analysis within the Reformed doctrine of providence and secondary causation, giving it a specifically Calvinist intellectual architecture"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Reformed Protestant demonology within a providential framework",
+      "claim": "Daneau argued that demonic operation was real but worked through natural secondary causes under God's permissive governance — the devil could not act except within divinely established limits. This providential framing distinguished Reformed demonology from Catholic demonology: where Catholics situated witch power within sacramental and ritual inversion, Daneau situated it within God's sovereign permission for demonic activity as a test and punishment for sinful communities.",
+      "implication": "Clark uses Daneau to show that Protestant and Catholic demonology, while sharing the secondary-causation framework, diverged in their theological architecture: the Reformed framework made witch prosecution an expression of God's providential government, while the Catholic framework made it a defense of sacramental order against anti-liturgical inversion."
+    },
+    {
+      "concept": "Pastoral response to magic-use: reject cunning folk as demonic",
+      "claim": "Drawing on Calvin's Geneva context, Daneau argued that bewitched persons should turn to God and prayer rather than counter-magic or cunning folk, since the latter — however beneficial their apparent purpose — worked through implicit demonic pact. This made the cunning folk the most dangerous witch type, since they deceived their clients into demonic complicity under the guise of help.",
+      "implication": "Daneau's position was adopted by subsequent English Protestant demonologists (Gifford, Perkins, Cooper). It represents the Calvinist intensification of the superstition/implicit-pact doctrine: folk healing was not a lesser offense than maleficium but potentially more dangerous because it concealed the demonic alliance."
+    },
+    {
+      "concept": "Eschatological witchcraft as providential test",
+      "claim": "Daneau's Treatise Touching Antichrist integrated his demonological framework with Calvinist eschatology: the increase of witchcraft in his era was a providential sign, both a divine test of the faithful and confirmation that the Last Days prophesied in Scripture were approaching. He dated the end of the world to after 1666, placing contemporary witchcraft within a calculated apocalyptic timetable.",
+      "implication": "Clark identifies Daneau as a key figure in the eschatological witchcraft tradition (postremus furor Satanae): Reformed Protestant demonology deployed the same apocalyptic framework as Catholic demonology while situating it within Calvinist providential rather than sacramental theology."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "William Perkins (English Reformed demonologist; Daneau's Dialogue was the primary Continental influence on the English Protestant tradition; Perkins extended Daneau's providential framework into the most systematic English witch treatise)",
+      "George Gifford (English Reformed demonologist; shared Daneau's emphasis on cunning folk as the most dangerous category and on pastoral response over prosecution intensity)",
+      "Jean Bodin (despite confessional difference, shared the providential-political framework for witch prosecution; both argued that the Christian magistrate had an absolute duty to prosecute witches)"
+    ],
+    "creative_tension_with": [
+      "Johann Weyer (Daneau's Dialogue was partly a direct response to Weyer; Daneau rejected Weyer's medical explanation for female witch claims and defended the reality of demonic alliance against Weyer's pathological interpretation)",
+      "Catholic demonologists (Daneau shared the prosecution conclusion but differed in theological architecture: where del Río used Thomistic superstition typology, Daneau used Calvinist providential governance)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The 1575 English translation of the Dialogue of Witches was the first systematic Protestant witch treatise in English, directly influencing George Gifford, William Perkins, and the English Reformed demonological tradition. Daneau's emphasis on cunning folk as the most dangerous category became a distinctive feature of English Protestant witch prosecution.",
+    "criticisms": [
+      "Clark identifies Daneau's work as demonstrating that Reformed Protestant demonology was intellectually coherent within its own theological framework but distinctively different from Catholic demonology in its architectural assumptions — the Calvinist providential framework made witch prosecution less dependent on ritual inversion and more dependent on covenant theology",
+      "Modern historians of the English witch-trial tradition (Thomas, Macfarlane) have noted that Daneau's anti-cunning folk emphasis, transmitted through Perkins, shaped the English legal prosecution of service magicians specifically — expanding the category of prosecutable practitioners beyond simple harm-magic"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Daneau appears in Clark's Vol.4 analysis of demonological literature as a key figure in the Reformed Protestant tradition, cited alongside Perkins and Gifford as exemplary of the Calvinist demonological synthesis. His eschatological dating and providential framework are cited in the eschatological witchcraft and Antichrist-magician concept entries. His anti-Weyer position is relevant to the witch-trial-skepticism concept entry.",
+    "analytical_weight": "Daneau represents the Calvinist branch of the prosecutorial tradition: demonstrating that witch prosecution was not a specifically Catholic phenomenon but was theologically grounded in Reformed doctrine as thoroughly as in Catholic scholasticism. His work closes the 'Protestant scepticism' assumption — Reformed theology was fully capable of producing systematic demonology on its own theological foundations."
+  },
+
+  "historiographical_significance": "Daneau's significance lies in demonstrating that the Reformed Protestant tradition produced sophisticated demonology independently of the Catholic scholastic synthesis. His Physice Christiana provided the natural-philosophical framework for demonic operation through secondary causation in explicitly Calvinist terms; his Dialogue of Witches deployed that framework in a systematic prosecution argument. The 1575 English translation's influence on Gifford and Perkins means that Daneau was foundational for the entire English Reformed witch-prosecution tradition — making him as important for understanding English witch trials as the Continental Catholic demonologists are for understanding the German and French ones.",
+
+  "scholarly_disagreement": "The primary debate about Daneau concerns how distinctive his Reformed Protestant demonology was from the Catholic tradition. Clark argues for substantial structural difference (providential vs. sacramental architecture) within a shared secondary-causation framework. Others have argued that the differences were primarily rhetorical — that Daneau's prosecution conclusions were identical to Catholic demonology's conclusions and that the theological differences were less significant than the shared institutional outcome. The question of whether his influence on English witch prosecution was specifically Calvinist (through providential theology) or simply transmitted the Continental prosecutorial consensus in a Reformed idiom remains debated.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), multiple chapters on Protestant demonology and the Reformed tradition; Stuart Clark, 'Witchcraft and Magic in Early Modern Culture' in Ankarloo/Clark Vol.4 (2002), ch.2 (Demonology); primary source: Lambert Daneau, Les Sorciers: Dialogue très utile (Geneva, 1574; English trans. 1575)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

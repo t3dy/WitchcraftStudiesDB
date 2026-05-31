@@ -1,0 +1,73 @@
+{
+  "id": "eschatological-witchcraft-postremus-furor",
+  "name": "Eschatological Witchcraft (Postremus Furor Satanae)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (c.1486–1700)",
+  "primary_locale": "All of Christian Europe; Protestant and Catholic territories equally",
+
+  "scholarly_definition": "Postremus furor Satanae (the final rage of Satan) was the early modern interpretive framework that explained the observed prevalence of witchcraft by locating it within biblical apocalyptic prophecy. The organizing text was Revelation 12:12 — 'the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time' — which early modern demonologists read as a literal description of contemporary reality: the devil's intensified persecution of the faithful was not a sign of his growing power but of his imminent defeat. Related to this was the Satanus solutus (Satan unbound) doctrine derived from Revelation 20's prophecy of Satan's loosing from his thousand-year binding. The framework generated a counter-intuitive but internally coherent conclusion: the more witchcraft appeared, the more reassuring the sign, since it proved the Last Days were near and Satan's final defeat approaching. Witch prosecution was thus framed not as a response to growing evil but as participation in the cosmic drama of history's end.",
+
+  "intellectual_genealogy": {
+    "biblical_foundations": [
+      "Revelation 12:12: 'Woe to the earth and the sea, because the devil has gone down to you! He is filled with fury, because he knows that his time is short' — the primary proof-text for the interpretation of contemporary witchcraft as eschatological symptom",
+      "Revelation 20:7-8: Satan's loosing from his thousand-year binding ('Satanus solutus'), enabling his final assault on the faithful — the structural mechanism explaining intensified late-medieval and early modern demonic activity",
+      "2 Thessalonians 2:9-11: the Antichrist's 'lying wonders' performed 'with all power and signs and lying wonders' — linked the Antichrist tradition to the demonological analysis of witch powers",
+      "1 Timothy 4:1: 'In later times some will abandon the faith and follow deceiving spirits and things taught by demons' — prophesied the apostasy dimension of the demonic pact in the last days"
+    ],
+    "systematic_articulation": [
+      "Malleus Maleficarum (c.1486): 'Apologia Auctoris' explicitly frames contemporary witchcraft as a sign of history's 'evening time' — the first systematic demonological deployment of the eschatological framework",
+      "Protestant demonological tradition: Lutheran, Reformed, and Puritan demonologists consistently framed witch prosecution within Last Days theology; the framework was not confessionally specific but appeared with remarkable uniformity across denominations",
+      "Andreas Musculus, Von des Teufels Tyranney (1561): Lutheran church superintendent who called his era 'the very last morsel and final point of the world', framing contemporary demonic activity in explicitly millennial terms",
+      "James VI of Scotland, Daemonologie (1597): concluded with the observation that increased witchcraft was due to 'the consummation of the worlde drawing neare' — royal endorsement of the eschatological framework",
+      "Cotton Mather (1692): wrote that the devil's descent into New England was 'an infallible sign' that the millennial age was near — the framework operative at Salem"
+    ],
+    "confessional_variation": [
+      "Protestant readings: Satan had been bound for a literal thousand years, ending around 1000 CE, whereupon the Papacy arose as the Antichrist's instrument; the loosing of Satan explained the coincidence of late medieval witchcraft prosecution with the papal Antichrist",
+      "Catholic readings: the loosing of Satan was still future, or was being enacted through Protestant heresy as the apostasy prophesied in 2 Thessalonians 2; Reformation heresy itself was evidence of intensified demonic activity",
+      "Shared conclusion: despite disagreement on when the binding ended and who the Antichrist was, both traditions agreed that the current era was one of uniquely intensified demonic activity whose character was prophetically predicted"
+    ]
+  },
+
+  "clark_intellectual_analysis": "Clark's analysis of the postremus furor Satanae framework (Thinking with Demons, Part III: History, especially 'Postremus Furor Satanae' and 'Eschatology' chapters, pp.384-412) is the fullest scholarly account of this phenomenon. Clark shows that early modern demonologists were not writing sociology when they analysed the prevalence of witchcraft — they were doing eschatological history. The question 'why is there so much witchcraft now?' received a prophetic rather than sociological answer: because Scripture predicted it would be so in the Last Days. This framing was not peripheral or eccentric but was the standard theological context within which witch prosecution was situated across all confessional traditions and all regions of Christian Europe from the Malleus (c.1486) through Salem (1692). Clark's key argument is that this eschatological framework provided demonology with its most powerful rhetorical resource: the persecution of witches was not merely legal action against criminals but participation in the divinely ordained drama of history's culmination.",
+
+  "hutton_social_analysis": "Hutton's social history provides limited direct analysis of the eschatological framework, focusing instead on the community-level dynamics of accusation. However, his work on the chronology of witch prosecution indirectly illuminates the eschatological thesis: the peak prosecution periods (1580s-1630s) correlate with the period of intensified eschatological anxiety following the Wars of Religion and the Thirty Years' War. The apocalyptic framework does not appear in popular maleficium accusation but is consistently present in the learned prosecutorial literature that justified and amplified community-level accusations.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's microhistorical analysis reveals that the eschatological framework appears almost entirely at the level of learned prosecution rather than in the testimony of accused persons. Accused witches rarely volunteered an eschatological self-understanding; the postremus furor framework was the demonologists' interpretive lens, not the accused's self-account. The absence of apocalyptic framing from accused persons' initial testimony is consistent with Ginzburg's broader argument that the composite witch stereotype was imposed through interrogation rather than volunteered from indigenous popular belief.",
+
+  "representative_texts": {
+    "malleus_maleficarum_1486": "The 'Apologia Auctoris' (Preface to the Malleus) is the founding document of the eschatological framework in systematic demonology: Kramer explicitly situates the contemporary proliferation of witchcraft within the prophesied events of the Last Times. This preface established the interpretive template that subsequent demonologists applied to their own prosecutorial contexts.",
+    "james_vi_daemonologie_1597": "James's explicit eschatological closing statement demonstrates that the postremus furor framework was not merely academic theology but shaped royal witchcraft policy. The king who prosecuted witches most aggressively in the British Isles understood himself as acting within a prophetically ordained apocalyptic drama.",
+    "cotton_mather_1692": "Clark's demonstration that Salem's prosecution drew on the same eschatological framework as the European prosecutions is historically significant: it shows that the postremus furor tradition was not merely Continental Catholic theology but a transatlantic Protestant framework operative in the English-speaking Puritan tradition. Salem was eschatologically consistent with the Malleus, not an anomalous American deviation."
+  },
+
+  "scholarly_disagreement": "The primary debate concerns whether the eschatological framework was a cause of prosecution or a post-hoc rationalization. Clark's intellectual history treats it as a genuine causal factor: demonologists who sincerely believed they were living in the Last Days were more strongly motivated to prosecute, and their eschatological framing gave judicial persecution additional theological urgency. Social historians (Levack, Briggs, Macfarlane) have been more sceptical, arguing that community-level accusation dynamics drove prosecution and the eschatological framework was theological ornamentation on a sociological process. The strength of Clark's position is that the eschatological framework was present from the Malleus through Salem regardless of whether community-level social dynamics explain specific prosecutions — its uniformity across two centuries and multiple confessions suggests it was more than post-hoc rationalization.",
+
+  "related_concepts": [
+    "demonic-pact-early-modern",
+    "demonic-possession-eschatological",
+    "antichrist-magician-confessional",
+    "witches-sabbath-collective"
+  ],
+
+  "trial_examples": [
+    "north-berwick-1590-trials",
+    "bamberg-1626-mass-prosecution",
+    "salem-1692-trials"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Part III: History, chapters 'Postremus Furor Satanae' and 'Eschatology' (pp.384-412); primary sources: Malleus Maleficarum Apologia Auctoris (c.1486); James VI, Daemonologie (1597); Cotton Mather, Wonders of the Invisible World (1693)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "james-daemonologie-1597",
+    "kramer-malleus-maleficarum-1486"
+  ],
+
+  "historiographical_significance": "The eschatological witchcraft framework is one of Clark's most significant contributions to the intellectual history of witch prosecution. It explains a feature that purely social-historical accounts struggle with: why witch prosecution peaked between the 1580s and 1630s across all of Christian Europe, regardless of regional social conditions. The eschatological consensus — shared across all confessional traditions from the Malleus through Salem — provided the theological urgency that transformed local accusation into large-scale prosecution campaigns. Clark's demonstration that the postremus furor framework was operative from c.1486 through 1692 also challenges simplistic accounts of 'witch-hunt decline' as a product of the Scientific Revolution: the framework persisted and was actively deployed by figures who were simultaneously engaged with the new science (Cotton Mather, Joseph Glanvill), demonstrating that eschatological demonology and scientific modernity were not mutually exclusive.",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

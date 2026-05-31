@@ -1,0 +1,97 @@
+{
+  "id": "composite-witch-stereotype-formation",
+  "name": "Composite Witch Stereotype (Formation of the Early Modern Witch)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Late Medieval / Early Modern (c.1400–1450)",
+  "primary_locale": "Western Alps and Pyrenees; subsequently all of Christian Europe",
+
+  "scholarly_definition": "The composite witch stereotype was the assembled construct of beliefs about witchcraft that first appeared clearly in the western Alps and Pyrenees in the 1420s–1440s and became the standard model for witch prosecution across Christian Europe through the 17th century. It combined elements from several distinct traditions into a new synthesis: the orthodox Christian image of heretics as devil-worshippers (organized conspiracy, nocturnal assembly, collective apostasy); the ancient Mediterranean child-killing night-demoness (*strix*) merged with the Germanic nocturnal cannibal woman; the practice of maleficium (harmful magic against neighbors); and the Canon Episcopi's night-ride tradition (now reclassified from delusion to physical reality). The result was a figure who: attended the diabolic sabbat by flying on an ointment-rubbed stick, broom, or animal; worshipped Satan in animal form; practiced collective sexual orgies; murdered and cannibalized children; made a formal pact with the Devil; and performed maleficium against neighbors and livestock. No single earlier tradition contained all these elements; their combination was genuinely novel.",
+
+  "component_traditions": {
+    "heresy_conspiracy_image": {
+      "origin": "Orthodox Christian accusations against medieval heretics (Cathars, Waldensians, Templars) — nocturnal assemblies, worship of demonic figures, orgy, child murder, cannibalism",
+      "contribution_to_stereotype": "The organizational and theological framework: the witch as a member of an organized anti-Christian conspiracy, not merely an individual malefactor",
+      "historians": "Norman Cohn (Europe's Inner Demons, 1975) identified this as the dominant strand. Ronald Hutton endorses Cohn's priority.",
+      "mechanism_of_transfer": "Behringer and Utz Tremp documented specific cases in the western Alps where persecution of Waldensian heretics transitioned seamlessly into witch persecution in the 1420s–1430s"
+    },
+    "strix_child_killing_demoness": {
+      "origin": "Roman classical tradition: the *strix* (screech-owl/night-hag) that flew at night to suck blood from infants; Greek *lamia* tradition; Germanic nocturnal cannibal woman",
+      "contribution_to_stereotype": "The emotive core — child murder and cannibalism; also the flight motif and animal transformation",
+      "hutton_thesis": "Hutton (The Witch, ch.6) identifies the *strix* tradition as the 'emotive core' of the composite stereotype, merged with the Alpine Germanic cannibal witch figure",
+      "early_attestation": "A mid-13th century Tyrolese poet already mocked women who flew on calf-skin, broom, or distaff — placing the flight motif in popular awareness well before the 1420s"
+    },
+    "followers_of_the_lady": {
+      "origin": "The medieval tradition of women claiming to ride with a supernatural female figure (Diana, Herodias, Holda, Oriente, Abundia); the Canon Episcopi tradition",
+      "contribution_to_stereotype": "The nocturnal assembly; the ritual feast; the 'company' aspect",
+      "extent_of_contribution": "Disputed. Ginzburg argued the night-ride tradition was the primary folk basis for the sabbat image. Hutton and Cohn argue it was a much more minor contributor than Ginzburg claimed — the heresy/conspiracy image and the strix were more important",
+      "milan_transition": "The 1390 Milan trials mark the transitional moment: women who had claimed to join Lady Oriente's society were burned as relapsed heretics, recategorizing the tradition from Canon Episcopi 'delusion' to prosecutable demonic reality"
+    },
+    "maleficium_harm_magic": {
+      "origin": "Ancient and medieval community-level accusation of neighbors causing harm through supernatural means",
+      "contribution_to_stereotype": "The practical social dimension — the witch's motivation and her impact on the community; the 'refusal-quarrel-misfortune' sequence that generated accusations",
+      "relationship_to_composite": "Maleficium predated and survived the composite stereotype: prosecutions for harm-causing magic occurred before and after the full composite was in use. The composite added the apostasy and conspiracy charges to what had previously been a simple harm-causation accusation"
+    },
+    "ceremonial_magic_learned_tradition": {
+      "origin": "The tradition of learned ceremonial magic (Ars notoria, grimoires, demonic invocation), absorbed into the Christian educated class from Arabic/Hebrew sources via 12th-century translations",
+      "contribution_to_stereotype": "The formal demonic pact; the precise ritual mechanism of diabolic alliance; the idea that the Devil could be addressed directly and made to perform specific services",
+      "mechanism": "When Pope John XXII and later authorities classified ceremonial magic as heresy (1317–1376), they merged the learned magical tradition with the heresy-conspiracy framework, adding theological precision to the accusation"
+    }
+  },
+
+  "geographic_origin": {
+    "first_attestation": "Aneu Valley, Catalan Pyrenees, 1424 — local lords agreed to burn those who accompanied *bruxas* at night to worship the Devil and murder sleeping children. Hutton identifies this as the earliest clearly dated reference to the new satanic witch sect.",
+    "rome_1424": "Two women executed for killing children by sucking their blood on the Devil's orders; transformation via ointment into cats. Contemporary with Aneu Valley.",
+    "valais_witch_hunt": "Western Switzerland, 1427–1436 — the first large-scale hunt with the full new stereotype fully documented. Chronicler Hans Fründ records 200+ burned in 18 months; flight on ointment-rubbed chairs; Satan in animal form; child-murder and cannibalism.",
+    "todi_1428": "Central Italy — service magician charged with strix-like child-killing and riding a demon-goat to a Lucifer-worshipping assembly; full flying ointment formula from baby blood, bat blood, and vulture fat documented. The earliest Italian trial with the full composite.",
+    "key_texts_1430s": [
+      "Johannes Nider, Formicarius (c.1437): Dominican synthesis of Alpine witch evidence from Berne region prosecutions; full composite stereotype for the first time in a widely circulated theological text",
+      "Anonymous Errores Gazariorum (1435–1439): First full literary portrait of the witches' 'synagogue' — all elements of the composite present",
+      "Claude Tholosan's trial records (Dauphiné, 1426–1448): Lay judge who incorporated the 'good ladies' folk tradition into the new stereotype through 258 prosecutions"
+    ],
+    "significance_of_alps": "The western Alps (Savoy, Dauphiné, Vaud, Valais) and Pyrenees were the primary zones of stereotype formation. They combined: (1) late Waldensian heresy persecution (Behringer/Utz Tremp); (2) strong strix tradition in Alpine folklore; (3) Observant mendicant friar campaigns; (4) overlapping secular and inquisitorial jurisdictions that created prosecutorial competition"
+  },
+
+  "agents_of_propagation": {
+    "observant_mendicants": "Hutton identifies the Observant reform movement within the Dominican and Franciscan orders as the primary propagators of the new stereotype. The Observants were the reform wing of the mendicant orders, seeking to purge Christendom of ungodliness. Key figures: Bernadino of Siena (Franciscan, 1420s campaigns in central Italy, explicitly identified the strix as a human woman empowered by the Devil); Vincent Ferrer (Dominican, campaigns from central France to northeastern Spain 1408–1422, associated with Catalan *bruxas* stereotype). Both operated in the 1420s, the decade of the stereotype's first dateable appearance.",
+    "council_of_basel": "The Council of Basel (1431–1449) brought together reforming churchmen from across Europe and generated several key early witch texts. Nider's Formicarius was written during the Council period; the Errores Gazariorum emerged from the same milieu.",
+    "lay_judges": "Claude Tholosan (Dauphiné, 258 prosecutions 1426–1448) demonstrates that the new stereotype was also propagated by secular judges who absorbed it from the inquisitorial tradition and applied it to maleficium accusations."
+  },
+
+  "clark_intellectual_analysis": "Clark's intellectual history situates the composite witch stereotype's formation within the broader argument that demonological thinking was coherent and systematic. The assembled composite was not random accumulation but a theologically structured argument: each element served the overall theological claim that witchcraft was apostasy (breach of baptismal covenant with God) expressed through an organized conspiracy under Satan's governance. The composite's internal logic was the inversion principle: each element of Christian worship and community had a diabolical counterpart, and the witch attended that counterpart. The composite's novelty, Clark argues, lay in the conviction with which its authors assembled and applied the theological logic of inversion — making the sabbat a comprehensive anti-church, not merely an accusation of harmful magic.",
+
+  "hutton_social_analysis": "Hutton's most important contribution to the question of stereotype formation is his insistence on its genuine novelty — countering both the 'ancient survival' model (Grimm, Murray) and the 'pure invention' model (Cohn in his most extreme moments). The composite stereotype was new in the 1420s: genuinely assembled from older materials by specific people in specific places for specific theological and prosecutorial purposes. Its spread was neither inevitable nor uniform: its geographic concentration in the Alps and Pyrenees in the 1420s–1440s, its subsequent expansion through the Observant friar network, and its patchy penetration into regions that retained older maleficium-only prosecution patterns all demonstrate that it was a specific cultural product with a specific history.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's contribution to the question of stereotype formation is the argument that the composite was assembled over a pre-existing folk substratum — particularly the night-ride and ecstatic cult traditions that the Canon Episcopi had classified as delusion. In his reading, the transition from 'followers of the lady' to 'attendants at the diabolic sabbat' was the key transformation, making the sabbat an interrogator-imposed label on a genuinely popular ecstatic tradition. Hutton and Cohn dispute the extent of this popular contribution, but the debate has productively focused attention on the specific mechanisms by which the stereotype was imposed on accused persons rather than simply describing their own beliefs.",
+
+  "scholarly_disagreement": "The central historiographical dispute about composite witch stereotype formation concerns the relative weight of its components. Norman Cohn (Europe's Inner Demons, 1975) argued that the heresy-conspiracy image (from Jewish/Cathar/Templar accusations) was dominant and the folk/shamanic element negligible. Carlo Ginzburg (Ecstasies, 1991) argued for substantial popular ecstatic substratum contributing the night-ride and spirit-combat elements. Ronald Hutton (The Witch, 2017) endorses Cohn's priority on the heresy strand and identifies the strix/child-killing tradition as the emotive core, giving the 'followers of the lady' tradition a more limited role than Ginzburg assigned it. Richard Kieckhefer has argued for multiple regional mythologies rather than a single unified construct. The debate about geographic origin (Alps vs. Pyrenees as the first site) was clarified but not fully resolved by the Lausanne cluster's primary source work identifying the 1424 Aneu Valley case.",
+
+  "related_concepts": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic",
+    "canon-episcopi",
+    "inversion-principle",
+    "female-susceptibility-theory"
+  ],
+
+  "trial_examples": [
+    "todi-1428-witchcraft-trial",
+    "bamberg-1626-mass-prosecution",
+    "salem-1692-trials"
+  ],
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.6 (What the Middle Ages Made of the Witch); Norman Cohn, Europe's Inner Demons (1975, rev. 1993); Carlo Ginzburg, Ecstasies (Italian 1989, English 1991); Martine Ostorero et al., L'imaginaire du sabbat (Lausanne, 1999) for primary sources on the 1430s texts",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "historiographical_significance": "The question of how the composite witch stereotype was formed is one of the most debated problems in witchcraft historiography because it directly concerns whether persecution was primarily a top-down imposition (inquisitors and demonologists inventing the stereotype and forcing it on accused persons) or a bottom-up synthesis (popular beliefs crystallizing into prosecutable form). The current scholarly consensus, represented by Hutton's synthesis, is that both elements were present but differently weighted: the organizational and theological framework came from the heresy-persecution tradition (top-down), the emotive content from the strix/child-killing tradition (whose popular vs. elite origin is genuinely debated), and the assembly and propagation was accomplished by specific agents (Observant friars, lay judges, inquisitors in the Alpine/Pyrenean zone) in the specific decade of the 1420s. The composite's novelty in that decade explains why systematic prosecution was not continuous from ancient Rome but concentrated in the post-1420 period.",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

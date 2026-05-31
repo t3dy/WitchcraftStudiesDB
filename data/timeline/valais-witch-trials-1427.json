@@ -1,0 +1,47 @@
+{
+  "id": "valais-witch-trials-1427",
+  "event_name": "Valais Witch Trials",
+  "event_type": "mass_prosecution",
+  "date_start": "1427",
+  "date_end": "1436",
+  "date_precision": "year",
+  "locale": "Valais (Wallis), western Switzerland",
+
+  "summary": "The Valais witch trials of 1427–1436 are the first large-scale witch hunt in which the composite early modern witch stereotype — sabbat attendance, flight, demonic pact, child murder, collective apostasy — is fully documented in the surviving record. Chronicler Hans Fründ (writing c.1428) recorded that over 200 people were burned in 18 months in the Valais region; subsequent phases of the persecution extended through the 1430s. This was not an isolated event but part of the cluster of early prosecutions that also included the Aneu Valley (Catalan Pyrenees, 1424), Todi (central Italy, 1428), and the Dauphiné investigations of Claude Tholosan (1426–1448). Together these prosecutions constitute the primary evidence for historians studying the formation of the composite witch stereotype.",
+
+  "significance": {
+    "composite_stereotype_documentation": "The Valais trials are the most fully documented early prosecution explicitly deploying all elements of the new composite stereotype. Hans Fründ's chronicle records: flight on ointment-rubbed chairs or animals; transformation; Satan worshipped in animal form; collective sexual orgies; murder and cannibalism of children; the formal demonic pact. This is the first surviving source in which all components appear together in a large-scale prosecution.",
+    "geographic_centrality": "The western Alps (Savoy, Vaud, Valais) were the primary zone of stereotype formation in the 1420s–1440s. Historians (Behringer, Utz Tremp, Ostorero) have identified this concentration as non-random: the region combined late Waldensian heresy persecution, strong Alpine strix traditions, overlapping secular and inquisitorial jurisdictions, and the presence of Observant mendicant reformers — the combination that produced the new prosecutorial stereotype.",
+    "early_texts": "The Valais region was the source for Nider's Formicarius (c.1437) accounts: Dominican reformer Johannes Nider based his descriptions of witch sabbats primarily on reports from the Berne/Valais area communicated to him by a secular judge named Peter of Berne. The Valais evidence thus fed into the first widely-circulated demonological text with the full composite stereotype.",
+    "scale": "200+ executions in 18 months is the first large-scale persecution comparable to later mass trials. This scale itself is historically significant — it demonstrates that the new stereotype immediately generated prosecutorial momentum and that existing procedures (secular courts, episcopal inquisitions) could adapt to the new charge."
+  },
+
+  "primary_sources": [
+    "Hans Fründ, chronicle of Valais witch persecution (c.1428) — published by Ostorero et al., L'imaginaire du sabbat (Lausanne, 1999)",
+    "Johannes Nider, Formicarius (c.1437) — the Berne judge Peter's testimony about the Valais/Berne region cases"
+  ],
+
+  "related_entities": {
+    "concepts": [
+      "composite-witch-stereotype-formation",
+      "witches-sabbath-collective",
+      "demonic-pact-early-modern",
+      "maleficium-harmful-magic"
+    ],
+    "scholars": [
+      "nider-johannes-b1380"
+    ],
+    "scholarly_texts": [
+      "ankarloo-clark-vol3-middle-ages-2002"
+    ]
+  },
+
+  "scholarly_disagreement": "The exact scale of the Valais persecution (Fründ's '200 in 18 months') is not independently corroborated. Historians (Modestin, Utz Tremp) working with the Lausanne primary source cluster accept Fründ's account as broadly reliable while noting that precise figures from contemporary chronicles require caution. The extent to which the Valais trials were driven by inquisitors versus secular judges versus local lords is debated — the overlapping jurisdictions were a feature of the region, not a deficiency of the record.",
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.6 (specifically the 1420s Alpine cluster); Martine Ostorero, Agostino Paravicini Bagliani, and Kathrin Utz Tremp (eds.), L'imaginaire du sabbat (Lausanne, 1999) — critical editions of 5 key early texts including Fründ's chronicle; Stuart Clark, Thinking with Demons (1997/2001)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

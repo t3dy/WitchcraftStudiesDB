@@ -1,0 +1,43 @@
+{
+  "id": "wiesensteig-witch-hunt-1563",
+  "event_name": "Wiesensteig Witch Hunt (1563)",
+  "event_type": "mass_prosecution",
+  "date_start": "1563",
+  "date_end": "1563",
+  "date_precision": "year",
+  "locale": "Wiesensteig, Württemberg, Holy Roman Empire (southwestern Germany)",
+
+  "summary": "The Wiesensteig witch hunt of 1563 was Germany's first major mass witch execution, with approximately 63 people burned in a single year in a small town in Württemberg. Its significance is partly chronological — it coincided almost exactly with the publication of Johann Weyer's De Praestigiis Daemonum (1563), the most important early skeptical challenge to witch prosecution — and partly structural: it demonstrates that the composite witch stereotype had penetrated German Protestant territorial courts by the 1560s and that local secular authorities, not just episcopal or inquisitorial courts, were capable of generating mass prosecution. The Wiesensteig hunt is cited by historians of the German witch trials as evidence that the Protestant Reformation did not dampen witch prosecution enthusiasm and that secular jurisdictions could be as zealous as ecclesiastical ones.",
+
+  "significance": {
+    "chronological_coincidence_with_weyer": "The near-simultaneous publication of Weyer's De Praestigiis (1563) and the Wiesensteig executions (1563) is historiographically significant: it demonstrates that the most serious intellectual challenge to witch prosecution appeared in the same year as the first German mass execution. This coincidence undermines any simple narrative of growing skepticism progressively reducing prosecution.",
+    "protestant_territorial_court": "Wiesensteig was a Lutheran territory. The prosecution was conducted by the secular court of Count Ulrich of Helfenstein, not by an ecclesiastical inquisition. This makes Wiesensteig a key piece of evidence for the argument that witch prosecution was not specifically Catholic (a persistent popular myth) but operated independently in Protestant secular courts.",
+    "lutheran_demonology": "The Wiesensteig prosecution was associated with the demonological preaching of the Lutheran pastor Johann Hartmann, who urged the Count to prosecute. Hartmann's role exemplifies the pattern identified by historians of German Protestant witch prosecution: local pastors with apocalyptic concerns driving secular prosecution. The combination of Lutheran eschatological anxiety and secular territorial authority was the characteristic dynamic of early German mass hunts.",
+    "pamphlet_documentation": "The Wiesensteig hunt generated a published pamphlet (Wahrhaftige und erschröckliche Thaten, 1563) — one of the earliest printed witch-hunt pamphlets — that circulated the stereotype of organized diabolical conspiracy to a broader German reading public.",
+    "scale_as_precedent": "63 executions in a single year in a small town was unprecedented in German history to that point. The Wiesensteig hunt established the template for the mass panics that would recur in Germany through the early 17th century, demonstrating that a combination of local authority, pastoral pressure, and the torture-confession dynamic could generate mass prosecution very rapidly."
+  },
+
+  "related_entities": {
+    "concepts": [
+      "composite-witch-stereotype-formation",
+      "witches-sabbath-collective",
+      "eschatological-witchcraft-postremus-furor"
+    ],
+    "scholars": [
+      "weyer-johann-b1516"
+    ],
+    "scholarly_texts": [
+      "weyer-de-praestigiis-1563",
+      "ankarloo-clark-vol4-witch-trials-2001"
+    ]
+  },
+
+  "scholarly_disagreement": "The Wiesensteig hunt has received less monographic attention than the later German superhunts (Trier, Bamberg, Würzburg). Wolfgang Behringer's research on German witch prosecution (Witchcraft Persecutions in Bavaria, 1988/1997) provides the most systematic regional analysis; the Wiesensteig case is discussed in the context of the broader pattern of Swabian/Württemberg persecution. Whether the 63 figure is fully accurate and whether Hartmann's preaching was the primary driver (as opposed to the Count's own anxiety or specific social conflicts) are minor points of uncertainty.",
+
+  "source_method": "Wolfgang Behringer, Witches and Witch-Hunts: A Global History (2004); Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006); Stuart Clark, Thinking with Demons (1997/2001); primary source: Wahrhaftige und erschröckliche Thaten und Handlungen der 63 Hexen ... (1563 pamphlet)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

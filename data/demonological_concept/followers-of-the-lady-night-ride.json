@@ -1,0 +1,74 @@
+{
+  "id": "followers-of-the-lady-night-ride",
+  "name": "Followers of the Lady (Night-Ride Tradition)",
+  "category_type": "ACTOR_TERM / ANALYST_TERM",
+  "time_period": "Medieval through Early Modern (c.700–c.1600)",
+  "primary_locale": "All of Western Christendom; strongest attestation in Italy, the German-speaking lands, and the Alps",
+
+  "scholarly_definition": "The 'followers of the lady' is the modern scholarly designation for a cluster of medieval beliefs in which women (occasionally men) claimed to ride out at night with a supernatural female figure — variously identified as Diana, Herodias, Holda, Abundia, Oriente, Perchta, and other regionally specific names — to feast at houses, reward the hospitable, and reverse harm. The Canon Episcopi (c.900) recorded these beliefs and classified them as demonically inspired delusions requiring pastoral correction, not criminal prosecution. The tradition is significant for witchcraft historiography primarily because of debates over its relationship to the composite witch stereotype of the 1420s–1440s: Was the followers-of-the-lady tradition a genuine popular substratum that was reclassified as demonic sabbat attendance? Was it an ecstatic cult with prehistoric roots? Or was it a more limited phenomenon that the Church's own condemnation helped propagate? Carlo Ginzburg, Ronald Hutton, and Norman Cohn give substantially different answers.",
+
+  "regional_variants": {
+    "diana_herodias": {
+      "locale": "Western and Northern Europe; the Canon Episcopi's own frame",
+      "supernatural_figure": "Diana (classical goddess reframed as demon) or Herodias (from the biblical tradition)",
+      "character": "The canonical form referenced in the Canon Episcopi; the formal subject of ecclesiastical classification as delusion"
+    },
+    "holda_perchta": {
+      "locale": "Germanic-speaking areas, especially Alpine regions",
+      "supernatural_figure": "Holda or Perchta — benevolent-to-ambivalent maternal supernatural figures associated with spinning, winter, and the dead",
+      "character": "Hutton identifies the Germanic Holda-figure as evidence that the night-ride tradition had genuine depth in popular belief across a wide geographic zone; the figure's ambivalence (rewarding good housekeepers, punishing the idle) distinguishes it from the diabolized sabbat image"
+    },
+    "abundia_satia": {
+      "locale": "Northern France and the Low Countries",
+      "supernatural_figure": "Abundia or Satia — figures of abundance and prosperity",
+      "attestation": "William of Auvergne (c.1230) and later Guillaume d'Auvergne document women claiming to travel with these figures through homes, consuming food and drink that was then miraculously restored"
+    },
+    "oriente": {
+      "locale": "Northern Italy (Milan)",
+      "supernatural_figure": "Lady Oriente — a prosperity-dispensing supernatural figure with a society of followers",
+      "critical_attestation": "The Milan trials of 1384 and 1390 are the most fully documented cases. Sibilla and Pierina claimed membership in the 'society of Lady Oriente,' which met to feast, received instruction in healing from animals' bones, and blessed households. In 1384 they received mild penances; in 1390 they were burned as relapsed heretics. Ginzburg identifies this as the transitional moment from Canon Episcopi pastoral tolerance to prosecutable demonic heresy."
+    },
+    "benandanti": {
+      "locale": "Friuli, northeastern Italy",
+      "supernatural_figure": "No single named female figure; the benandanti fought witches in ecstatic nocturnal combats to protect crops",
+      "ginzburg_connection": "Ginzburg's Night Battles (1966/1983) analyzed the Friulian benandanti as a late survival of the folk ecstatic tradition; the Inquisition gradually reframed their self-reported night combats as diabolical, transforming beneficent spirit-fighters into sabbat-attending witches over several decades of interrogation"
+    }
+  },
+
+  "clark_intellectual_analysis": "Clark's treatment of the followers-of-the-lady tradition is secondary to his main intellectual history focus; he engages with it primarily as background to the epistemological debate about the reality of witch phenomena. The Canon Episcopi's classification of night-ride claims as delusion created a doctrinal precedent that demonologists from the 1430s onward had to overcome or circumvent. For Clark, the significant intellectual move was the demonologists' reframing: the followers-of-the-lady tradition was either reclassified as physically real diabolic transport (the distinction argument) or the Canon Episcopi was declared no longer applicable because demonic activity had intensified in the Last Days (the changed-conditions argument). The tradition itself matters to Clark primarily as the occasion for these epistemological maneuvers.",
+
+  "hutton_social_analysis": "Hutton gives the followers-of-the-lady tradition extended analysis in The Witch (2017, ch.5). His key claims: (1) the tradition was genuinely widespread across medieval Europe, with consistent attestation in sources from c.700 to c.1600 spanning Italy, the Germanic lands, France, and the British Isles; (2) it represents a coherent folk belief system — a benevolent night-roaming society under a female supernatural figure — distinct from the diabolized sabbat; (3) the Canon Episcopi's pastoral response (gentle correction as delusion) was the norm for five centuries before the 1420s transition; (4) Ginzburg overestimates the tradition's contribution to the composite witch stereotype — the heresy-conspiracy image and the strix/child-killing tradition were more important than the night-ride in generating the sabbat concept. For Hutton, the followers-of-the-lady tradition was a genuine popular current that was absorbed into and distorted by the new sabbat construct, not its primary source.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's argument in Ecstasies (1991) is the most ambitious interpretation of the night-ride tradition. He argues that the followers of the lady, the Germanic Perchta/Holda society, the benandanti, the Hungarian táltos, and related traditions across Eurasia represent survivals of a prehistoric shamanic substratum — an ecstatic cult in which practitioners entered trance states and experienced (or dreamed) soul-journeys. The nocturnal assembly was originally a real folk practice — ecstatic and dream-based rather than physically literal — that the Church's Canon Episcopi had partially preserved in distorted form. The transition from the Canon Episcopi's 'delusion' classification to the sabbat stereotype was, on Ginzburg's reading, the moment when inquisitors imposed their diabolical template on genuine popular ecstatic practice. Hutton and Norman Cohn criticize this argument: Cohn denies the depth of the shamanic substratum; Hutton accepts that there was a genuine popular tradition but questions both the shamanic interpretation and the degree to which it contributed to the sabbat construct.",
+
+  "milan_transition_1390": "The Milan trials of Sibilla (1384) and Pierina (1390) are the most analytically important documented cases in the followers-of-the-lady tradition. Sibilla claimed to belong to the 'society of Lady Oriente,' which met on Thursdays to feast on animals (who were then brought back to life), and whose members received instruction in divination and healing. In 1384, the inquisitor treated her claim as Canon Episcopi delusion and imposed a mild penance. Six years later, when Sibilla maintained her beliefs despite correction, she was burned as a relapsed heretic. The 1390 trial thus marks — in concentrated form — the transition from the Canon Episcopi's pastoral-tolerance framework to the prosecutorial-heresy framework. Ginzburg reads the Oriente society as a genuine ecstatic cult gradually diabolized; Hutton reads it as culturally-determined dream content that the Church first tolerated and then prosecuted.",
+
+  "scholarly_disagreement": "The central dispute is between Ginzburg and Cohn/Hutton over the nature of the tradition. Ginzburg (Ecstasies, 1991) argues for a prehistoric shamanic substratum underlying the night-ride tradition across Eurasian cultures, making the followers-of-the-lady a genuine ecstatic cult with ancient roots. Norman Cohn (Europe's Inner Demons, 1975, rev. 1993) rejects the shamanic thesis and argues the tradition was more limited than Ginzburg claims — the Church's own condemnation helped propagate awareness of it. Ronald Hutton (The Witch, 2017, ch.5) endorses Cohn's skepticism about the shamanic claim but accepts the tradition's genuine popular depth; his key departure from Ginzburg is the assessment of its contribution to the composite witch stereotype (minor, not primary). Richard Kieckhefer has noted the high degree of regional variation, casting doubt on a unified tradition. The question of whether the followers-of-the-lady represents a genuinely widespread folk belief, a cluster of loosely related local practices, or an ecstatic cult with prehistoric roots remains unresolved.",
+
+  "related_concepts": [
+    "canon-episcopi",
+    "composite-witch-stereotype-formation",
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "female-susceptibility-theory"
+  ],
+
+  "trial_examples": [
+    "friuli-benandanti-1575-inquisition"
+  ],
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "ginzburg-night-battles-1983",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.5 (The Witch in the Middle Ages, specifically the night-ride tradition); Carlo Ginzburg, Ecstasies: Deciphering the Witches' Sabbath (Italian 1989, English 1991); Carlo Ginzburg, Night Battles (Italian 1966, English 1983); Norman Cohn, Europe's Inner Demons (1975, rev. 1993); Stuart Clark, Thinking with Demons (1997/2001), ch. on Canon Episcopi and scepticism",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

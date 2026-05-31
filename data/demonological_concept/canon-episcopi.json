@@ -1,0 +1,57 @@
+{
+  "id": "canon-episcopi",
+  "name": "Canon Episcopi",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Medieval through Early Modern (c.900–1600)",
+  "primary_locale": "All of Western Christendom",
+
+  "scholarly_definition": "The Canon Episcopi was a 9th-century ecclesiastical text, compiled into canon law collections from c.900 onward, that became the single most important legal and theological obstacle to systematic witch prosecution for over five hundred years. Its core claim was that beliefs in nocturnal rides with a supernatural female figure (identified as 'Diana' or 'Herodias') were demonically inspired delusions, not real events: women who believed they had ridden across the world with Diana were deceived by the devil, who could produce such fantasies in sleeping minds. Clergy were ordered to drive these beliefs from their parishes with mild penances. By declaring the night-ride a delusion, the Canon Episcopi implied that the broader claims of flying, attending nocturnal assemblies, and transforming into animals were equally illusory — directly contradicting later demonological assertions that such events were physically real. The canon's authority meant that any demonologist who wished to justify prosecution of sabbat-attending witches had to either distinguish the new witch stereotype from the Canon's subject matter or explain why the Canon no longer applied.",
+
+  "text_and_provenance": {
+    "origin": "The Canon Episcopi's origin is uncertain. It appears to be a Frankish text, probably composed in the late 9th or early 10th century. It was not the decree of a named church council, despite the 'canon' label. The false attribution to the Council of Ancyra (314 CE) — adopted in later medieval canon law — gave it spurious ancient authority but did not reflect genuine patristic consensus.",
+    "first_attestation": "Compiled into Abbot Regino of Prüm's Libri duo de synodalibus causis et disciplinis ecclesiasticis (c. 906). This is the earliest dateable reference.",
+    "canonical_transmission": "Repeated by Bishop Burchard of Worms in his Decretum (c. 1000–1023), the most widely used penitential handbook of the 11th century. Subsequently incorporated into Gratian's Decretum (c. 1140), which standardized it as part of universal canon law. From Gratian onward, the Canon Episcopi was binding across the entire Roman Church.",
+    "key_passage": "The text describes women 'seduced by illusions and deceptions of demons' who believe themselves to 'ride at night on certain animals with Diana the pagan goddess and with a huge company of other women.' It orders clergy to preach that such beliefs are false delusions induced by the devil and that anyone who accepts them as real has lost the faith."
+  },
+
+  "clark_intellectual_analysis": "Clark's treatment of the Canon Episcopi focuses on its role in the epistemological debate about the reality of witch phenomena. The canon created an explicit doctrinal precedent for treating witch-claims as illusion: if women only believed they rode to nocturnal assemblies, any authority who claimed to prosecute actual sabbat-attendance was contradicting canonical teaching. Demonologists responded to this challenge in two ways: (1) by distinguishing the new early modern witch (who physically attended a real sabbat with the devil's assistance) from the mere deluded dreamer of the Canon's subject; (2) by arguing that conditions had changed since the Canon was written — the devil's power and activity had intensified, making physical sabbat attendance possible in ways the earlier text had not envisioned. Clark shows that this dispute about whether the Canon Episcopi still applied was live from the 1430s through the mid-16th century, one of the most persistent debates in the demonological literature.",
+
+  "hutton_social_analysis": "Hutton's analysis of the Canon Episcopi (in The Witch, ch.5) locates it within the tradition of the 'followers of the lady' — the popular belief in nocturnal rides with a supernatural female figure that Hutton argues was genuinely widespread among poor women in medieval Europe. He emphasizes that the Canon Episcopi treated these beliefs as delusions deserving mild pastoral correction, not criminal prosecution: for five centuries, the standard church response to women who claimed to ride with Diana was gentle re-education, not punishment. This restrained pastoral approach was the norm until the composite witch stereotype of the 1420s–1430s displaced it. The Canon Episcopi is thus, in Hutton's reading, evidence of a genuinely pre-existing popular tradition — the 'followers of the lady' — that the Church tolerated as delusion before reframing it as demonic reality.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's analysis of the Canon Episcopi focuses on the Milan trials of 1384 and 1390, which he reads as evidence of a genuine ecstatic cult that the Canon Episcopi had previously classified as illusion. The two women who claimed to join the 'society of Lady Oriente' were initially classified as deluded, then (in 1390) burned as relapsed heretics. Ginzburg reads this transition as the moment when the folk tradition the Canon Episcopi had tried to suppress was reclassified as real demonic activity — the transition from the Canon's pastoral framework to the new prosecutorial demonology. Hutton accepts the significance of the Milan cases but questions whether they demonstrate a genuine ecstatic cult (as opposed to culturally determined dreams) and whether the Canon Episcopi tradition they exemplify really derived from a prehistoric shamanic substratum.",
+
+  "demonological_responses": {
+    "distinction_argument": "Most demonologists from the 1430s onward argued that the new early modern witch was categorically different from the deluded dreamer of the Canon Episcopi: the Canon's women only believed they rode with Diana; real witches physically attended real sabbats through demonic transportation. Heinrich Kramer deployed this distinction in the Malleus Maleficarum, distinguishing 'mere illusion' from 'real physical presence at the sabbat.'",
+    "changed_conditions_argument": "Some demonologists (Martin del Río, following earlier authorities) argued that conditions had changed: the devil, whose power was intensifying as the Last Days approached, was now capable of physically transporting witches — something he could not or did not do in the period the Canon described. The eschatological framework thus resolved the Canon Episcopi problem: what was only illusory in the 9th century had become physically real in the 15th.",
+    "sceptical_use": "Writers sceptical of witch prosecution (including Weyer, Scot, and later Alonso de Salazar) cited the Canon Episcopi as canonical authority for treating witch confessions as delusion. If the Church had officially declared night-flight to be illusion since the 9th century, later claims to have physically flown to sabbats required extraordinary evidence to overcome this doctrinal presumption.",
+    "inquisitorial_deployment": "The Spanish and Roman Inquisitions deployed the Canon Episcopi as an institutional reason for scepticism about sabbat confessions. Inquisitor Alonso de Salazar y Frías's empirical investigation of the Basque witch-hunt (1611–1614) drew explicitly on the Canon's precedent for treating sabbat accounts as delusion."
+  },
+
+  "historiographical_significance_of_the_text": "The Canon Episcopi is among the most important single documents for the history of European witch prosecution because it reveals that systematic prosecution of the composite witch stereotype was not the inevitable outcome of Christian demonology but a departure from it. The Canon's five-century authority as the standard church position on night-riding women demonstrates that tolerance of such beliefs as deluded, not demonic, was the medieval norm. The shift to prosecution in the 1420s–1430s required actively overcoming this canonical precedent — an intellectual effort that produced some of the earliest and most important theoretical demonology. Understanding the Canon Episcopi explains why systematic persecution was not continuous from ancient Rome through the early modern period but began specifically in the 1420s.",
+
+  "scholarly_disagreement": "The primary debate about the Canon Episcopi concerns what the tradition it describes actually was. Hutton follows most modern historians in accepting that it reflects a genuine popular tradition of women claiming to attend nocturnal assemblies with supernatural figures — the 'followers of the lady' tradition documented across medieval Europe from Italy to Germany. Ginzburg reads the tradition as evidence of a genuine ecstatic cult with prehistoric roots, possibly shamanic. Norman Cohn was more sceptical about the depth of the popular tradition, reading it as a limited phenomenon that the Canon itself generated awareness of by condemning it. The debate about whether the Canon Episcopi's 'Diana' was a genuine cult, a culturally-determined dream pattern, or a scholarly construct imposed on scattered folklore remains unresolved.",
+
+  "related_concepts": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "composite-witch-stereotype-formation",
+    "witch-trial-skepticism"
+  ],
+
+  "trial_examples": [
+    "friuli-benandanti-1575-inquisition"
+  ],
+
+  "source_method": "Ronald Hutton, The Witch (2017), chs. 5–6; Stuart Clark, Thinking with Demons (1997/2001); primary text: Regino of Prüm, Libri duo de synodalibus causis (c.906); Burchard of Worms, Decretum (c.1000–1023); Gratian, Decretum (c.1140)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

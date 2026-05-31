@@ -1,0 +1,42 @@
+{
+  "id": "saducismus-triumphatus-published-1681",
+  "event_name": "Glanvill and More, Saducismus Triumphatus Published (1681)",
+  "event_type": "publication",
+  "date_start": "1681",
+  "date_end": "1681",
+  "date_precision": "year",
+  "locale": "London, England",
+
+  "summary": "The publication of Saducismus Triumphatus in 1681 — Joseph Glanvill's defense of witch belief, posthumously edited and expanded by Henry More — is the defining event in the history of 'scientific demonology' in Restoration England. The work argued that rejecting witch testimony was not scientific scepticism but materialist dogmatism (Glanvill's term: 'Sadducism'), and that the Royal Society's Baconian methodology required taking reliable testimony to preternatural phenomena seriously as evidence for immaterial substance. More's editorial additions made the philosophical stakes explicit: without demonstrated spirits, there was no immaterial God ('No Spirit, no God'). The work went through multiple subsequent editions and influenced the English and New England intellectual climate in the generation before the Salem trials (1692).",
+
+  "significance": {
+    "scientific_demonology": "Saducismus Triumphatus is the primary evidence for Stuart Clark's argument that the most scientifically sophisticated figures of Restoration England — Fellows of the Royal Society, Cambridge Platonists — were simultaneously systematic defenders of witch belief, and that this was not paradoxical but a product of their scientific commitments. The work demonstrates the integration of Baconian empiricism with demonological theory.",
+    "anti_hobbes_context": "The work was published in the middle of the most intense phase of the Hobbes controversy in English intellectual life. Hobbes's Leviathan (1651) had argued for a thoroughgoing materialism that denied the immaterial soul, immaterial spirits, and by implication an immaterial God. More and Glanvill saw witch testimony as empirical evidence against Hobbes — the same evidence could refute materialism and defend theism simultaneously.",
+    "multiple_editions": "Saducismus Triumphatus appeared in multiple editions (1681, 1682, 1689, 1700, 1726) — evidence of sustained demand across the period from the Restoration to the early Enlightenment. Its readership included figures in New England: the work circulated in the colonies, and its possible influence on Cotton Mather and the Salem proceedings has been discussed (though not definitively established).",
+    "glanvill_posthumous": "Glanvill died in 1680, the year before publication; More edited his manuscripts and added philosophical apparatus. The posthumous character of the edition made More the effective architect of the work's final form, giving More's 'No Spirit, no God' argument a prominence it would not have had in Glanvill's own hands."
+  },
+
+  "related_entities": {
+    "concepts": [
+      "natural-demonic-magic-distinction",
+      "witch-trial-skepticism"
+    ],
+    "scholars": [
+      "glanvill-joseph-b1636",
+      "more-henry-b1614"
+    ],
+    "scholarly_texts": [
+      "glanvill-saducismus-triumphatus-1681",
+      "clark-thinking-with-demons-2001"
+    ]
+  },
+
+  "scholarly_disagreement": "The significance of Saducismus Triumphatus for the decline of witch prosecution is debated. Clark argues it represents the peak of 'scientific demonology' — a demonstration that the Scientific Revolution did not cause witch-belief's decline. Simon Schaffer has argued there was 'no correlation between endorsement of the reality of spirits and support for witch trials' — the work's intellectual sophistication did not translate to prosecutorial activity. The work's influence on Salem specifically (via Cotton Mather) remains circumstantially plausible but not securely documented.",
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Part II: Science (pp.356–375); primary source: Joseph Glanvill (ed. Henry More), Saducismus Triumphatus (London, 1681)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

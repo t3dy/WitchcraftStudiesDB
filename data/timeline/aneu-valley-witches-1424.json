@@ -1,0 +1,43 @@
+{
+  "id": "aneu-valley-witches-1424",
+  "event_name": "Aneu Valley Witchcraft Agreement (Catalan Pyrenees)",
+  "event_type": "prosecution_document",
+  "date_start": "1424",
+  "date_end": "1424",
+  "date_precision": "year",
+  "locale": "Aneu Valley (Val d'Àneu), Catalan Pyrenees",
+
+  "summary": "In 1424, the local lords of the Aneu Valley in the Catalan Pyrenees issued an agreement recording their right to prosecute those who 'accompanied bruxas at night to worship the Devil and murder sleeping children.' Ronald Hutton identifies this as the earliest clearly dated documentary reference to the new satanic witch sect — the composite stereotype that combined diabolical worship, nocturnal assembly, and child murder. The Aneu Valley document is significant not because it records a major prosecution (the scale is unknown) but because it dates the composite stereotype's appearance in the Pyrenean zone to the same decade as its appearance in the Alpine zone (Valais 1427–1436), suggesting that the 1420s witnessed a genuinely new development across multiple regions simultaneously.",
+
+  "significance": {
+    "earliest_dated_reference": "Hutton's identification of the 1424 Aneu Valley agreement as the earliest clearly dated reference to the new witch sect stereotype established the Catalan Pyrenees alongside the western Alps as the primary zone of stereotype formation. The almost simultaneous appearance of the new construct in both zones in the 1420s suggests convergent development rather than diffusion from a single center.",
+    "bruxa_tradition": "The Catalan word bruxa (cognate with the French brousse, sorcerer, and related to Iberian peninsula witch terminology) was specifically associated with a child-killing night demoness tradition in the Pyrenean region — distinct from but parallel to the Alpine strix tradition. The Aneu Valley document's use of bruxa in connection with nocturnal assembly and devil worship marks the fusion of the child-killing night demoness with the organizational sabbat framework.",
+    "rome_1424_parallel": "Hutton notes that in the same year (1424), two women were executed in Rome for killing children by sucking their blood on the Devil's orders, with transformation via ointment into cats documented. The near-simultaneous appearance of the new construct in Rome, the Catalan Pyrenees, and (within a few years) the western Alps supports the interpretation that the 1420s marked a genuine turning point rather than a gradual evolution.",
+    "observant_friar_connection": "The Aneu Valley prosecution coincided with the regional preaching campaigns of Observant mendicant reformers. Vincent Ferrer (Dominican) conducted major preaching campaigns from central France to northeastern Spain between 1408 and 1422; his campaigns in Catalonia were associated with popular excitement about witchcraft and demonic threats. Hutton identifies the Observant reform movement as the primary agent propagating the new witch stereotype across Europe."
+  },
+
+  "primary_sources": [
+    "Aneu Valley lords' agreement (1424) — published by Pau Castell Granados, 'Wine vat of the Synagogue: Origin and Development of the Witches' Sabbath in Catalonia and Aragon' (2012)"
+  ],
+
+  "related_entities": {
+    "concepts": [
+      "composite-witch-stereotype-formation",
+      "witches-sabbath-collective",
+      "demonic-pact-early-modern"
+    ],
+    "scholarly_texts": [
+      "ankarloo-clark-vol3-middle-ages-2002",
+      "hutton-the-witch-2017"
+    ]
+  },
+
+  "scholarly_disagreement": "The Aneu Valley document was identified as the earliest dated reference to the new stereotype primarily through Hutton's synthesis of scholarship by the Lausanne cluster (Ostorero, Utz Tremp) and subsequent Iberian research (Castell Granados). Earlier historiography had dated the composite stereotype primarily from the Alpine documents of the 1430s (Nider's Formicarius, the Errores Gazariorum); the Pyrenean evidence shifts the earliest attested date back to 1424 and expands the geographic zone of origin. The extent to which the Aneu Valley and Valais developments were independent or connected through shared agents (Observant friars, itinerant inquisitors) remains debated.",
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.6 (identifying the 1424 Aneu Valley reference as the earliest dated attestation of the satanic witch sect); Pau Castell Granados, 'Wine vat of the Synagogue' (2012) for the primary document; Martine Ostorero et al., L'imaginaire du sabbat (Lausanne, 1999)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,94 @@
+{
+  "id": "more-henry-b1614",
+  "name": "Henry More",
+  "birth_year": 1614,
+  "death_year": 1687,
+  "birth_place": "Grantham, Lincolnshire, England",
+  "academic_discipline": "Philosophy; Theology; Natural Philosophy",
+  "primary_institution": "Christ's College, Cambridge (Fellow from 1641 until death); Cambridge Platonist movement",
+
+  "major_works": [
+    {
+      "title": "An Antidote Against Atheism",
+      "year": 1653,
+      "publisher": "London",
+      "significance": "Philosophical argument for the existence of God and the immaterial soul against Hobbesian and Cartesian materialism; included an extensive section on witchcraft testimony as empirical evidence for the existence of spirits — the foundational text for More's integration of demonology into natural philosophy.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "The Immortality of the Soul",
+      "year": 1659,
+      "publisher": "London",
+      "significance": "Extended the immaterialist argument of the Antidote; developed the concept of the 'Spirit of Nature' as an immaterial principle active in the natural world, providing philosophical grounding for preternatural phenomena.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Saducismus Triumphatus (editor, posthumous edition of Glanvill)",
+      "year": 1681,
+      "publisher": "London",
+      "significance": "More edited and substantially expanded Glanvill's witchcraft defense after the latter's death in 1680, adding his own philosophical apparatus. The posthumous edition represented the fullest statement of Cambridge Platonist demonology.",
+      "pages": null,
+      "database_entry": "glanvill-saducismus-triumphatus-1681"
+    }
+  ],
+
+  "historiographical_position": "CAMBRIDGE PLATONIST / IMMATERIALIST DEMONOLOGIST",
+
+  "core_argument": "Henry More's significance for the history of demonology lies in his role as the philosophical architect of the 'immaterialist' defense of witch belief in Restoration England. More's argument was crystallized in a famous slogan: 'No Spirit, no God' — without the demonstrated existence of immaterial substance, the philosophical foundations of theism collapsed. More believed that the Hobbesian materialism then gaining ground among educated Englishmen was not merely physically wrong but theologically catastrophic: if all reality was matter in motion, there was no room for the soul, for angels, or for God. Witch testimony — empirical reports from reliable witnesses of spirit-phenomena — provided the natural-historical evidence that immaterial substance was real and Hobbesian materialism false. More's demonology was thus structural to his theological program: he defended witch-belief not despite his philosophical sophistication but because of it.",
+
+  "methodological_approach": {
+    "primary_materials": "Philosophical argument (Platonic, Cartesian, and original); empirical case reports from Glanvill's field investigations and Continental demonological literature; Cambridge Platonist metaphysical framework",
+    "analysis_target": "Demonstration that immaterial substance is real through convergence of philosophical argument and empirical testimony; refutation of Hobbesian and Cartesian/occasionalist denials of spirit-agency",
+    "evidence_type": "Natural-historical testimony to preternatural phenomena (apparitions, witch phenomena, demonic possession); philosophical argument from the inadequacy of purely mechanical explanation of nature",
+    "explanatory_level": "Metaphysical-theological: More's demonology was part of a comprehensive philosophical system connecting natural philosophy, metaphysics, and Anglican theology"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "'No Spirit, no God' — the ontological stakes of demonology",
+      "claim": "More argued that the existence of spirits (including witches' demonic assistants) was philosophically necessary for theism: if Hobbesian materialism was correct and all apparent spirit-phenomena had natural mechanical explanations, the concept of an immaterial God became incoherent. Accepting witch testimony was therefore not credulity but epistemological necessity for anyone committed to theism against materialism.",
+      "implication": "Clark uses More's argument to show that Restoration demonology was not intellectually retrograde but was embedded in the most advanced philosophical controversy of the period — the debate between mechanism and vitalism, materialism and immaterialism, Hobbes and the Cambridge Platonists. Witch-belief was a position in the philosophy of mind and metaphysics, not merely in theology."
+    },
+    {
+      "concept": "The 'Spirit of Nature' as intermediary",
+      "claim": "More's concept of the 'Hylarchic Principle' or 'Spirit of Nature' — an immaterial directive force pervading the natural world — provided philosophical grounding for preternatural phenomena that did not require supernatural violation of natural law. The 'Spirit of Nature' could account for effects that exceeded mechanical explanation without invoking miraculous divine intervention, creating philosophical space for preternatural witch phenomena.",
+      "implication": "More's concept addressed the central problem of early modern natural philosophy: how to distinguish natural from preternatural effects. By positing an immaterial principle active in nature, he avoided the dilemma of attributing preternatural phenomena either to mechanical causes (materialism) or to direct divine miracle (voluntarism), instead locating them in the intermediate zone of spirit-directed nature."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Joseph Glanvill (closest collaborator; shared the anti-Hobbes immaterialist program; More edited Saducismus Triumphatus after Glanvill's death)",
+      "Ralph Cudworth (fellow Cambridge Platonist; shared the anti-materialist program, though Cudworth was more cautious about witch-belief specifically)",
+      "Robert Boyle (shared interest in preternatural phenomena; correspondence on spirit-evidence)"
+    ],
+    "creative_tension_with": [
+      "Thomas Hobbes (Leviathan's materialism was More's primary philosophical target throughout his career)",
+      "René Descartes (More engaged extensively with Descartes — initially enthusiastically, then critically as Cartesian mechanism seemed to exclude spirit-agency)",
+      "John Webster, The Displaying of Supposed Witchcraft (1677): Webster attacked both Glanvill and More as pseudo-scientists defending superstition; More responded in Saducismus Triumphatus"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "More appears in Clark's analysis of Restoration scientific demonology (Thinking with Demons, pp.356-375) as the philosophical architect of the immaterialist position that Glanvill empirically defended. His 'No Spirit, no God' formulation is Clark's key evidence for the claim that scientific sophistication and witch-belief defense were not merely compatible but positively integrated in the Restoration period. More and Glanvill together represent what Clark calls 'scientific demonology' — the most intellectually refined version of the witch-belief tradition.",
+    "analytical_weight": "More represents the philosophical pole of the same position Glanvill represents empirically: where Glanvill argued from natural-historical testimony to witch phenomena, More argued from metaphysical analysis of materialism's inadequacy. Both reached the same conclusion — that immaterial spirit-agency was real — and both saw this as confirming rather than refuting the scientific worldview."
+  },
+
+  "historiographical_significance": "More's significance for witchcraft historiography is primarily as evidence for Clark's revisionist argument about science and witch belief. The standard 'Enlightenment narrative' holds that educated men abandoned witch belief as scientific knowledge advanced; More shows this is historically false for the Restoration period. More was the most philosophically sophisticated Cambridge academic of his generation, deeply engaged with Descartes, Hobbes, and the new science, a Fellow of the Royal Society — and simultaneously the most systematic philosophical defender of immaterialist demonology in England. His demonology was not a residue of pre-scientific thinking but a product of the most sophisticated philosophical engagement available in his time.",
+
+  "scholarly_disagreement": "The debate about More's demonology concerns whether Clark overstates the integration of his scientific and demonological commitments. Some intellectual historians (Hutton on More; Crocker's Henry More biography) have argued that More's primary philosophical concerns were metaphysical and theological, with demonology a secondary application rather than a central commitment. Clark's reading gives demonology more architectural importance in More's system than biographical evidence might warrant. The debate about More's influence on the Salem prosecution (via Saducismus Triumphatus reaching Cotton Mather) remains open.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Part II: Science, chapter 'Witchcraft and the Scientific Revolution' (pp.356-375); primary sources: Henry More, An Antidote Against Atheism (London, 1653); The Immortality of the Soul (London, 1659); Joseph Glanvill, Saducismus Triumphatus, ed. Henry More (London, 1681)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nider-formicarius-published-1437",
+  "event_name": "Johannes Nider, Formicarius (c.1437)",
+  "event_type": "publication",
+  "date_start": "1437",
+  "date_end": "1437",
+  "date_precision": "approximate",
+  "locale": "Basel (written during the Council of Basel, 1431–1449)",
+
+  "summary": "Johannes Nider's Formicarius (c.1437) is the first widely circulated theological text containing the full composite early modern witch stereotype. Nider, a Dominican Observant reformer who participated in the Council of Basel, compiled reports of Alpine witch prosecutions — primarily from the Berne/Valais region, communicated to him by a secular judge named Peter of Berne — into the fifth book of his larger reformist treatise. The Formicarius describes the Berne-region witches as flying to nocturnal assemblies, renouncing God and the Church, worshipping the devil, and murdering children. It predates the Malleus Maleficarum by fifty years and is the primary documentary bridge between the local Alpine prosecutions of the 1420s–1430s and the broader European circulation of the new witch concept.",
+
+  "significance": {
+    "first_widely_circulated_text": "Where the earlier Alpine texts (Fründ's chronicle, Tholosan's records, the Errores Gazariorum) remained local or specialized documents, Nider's Formicarius circulated widely in manuscript and early print. It was the vehicle by which the new witch stereotype became available to theologians and inquisitors across Europe before Kramer's Malleus (1486).",
+    "council_of_basel_context": "The Council of Basel (1431–1449) brought reforming churchmen from across Europe together for nearly two decades. The Formicarius was written during this period, making its ideas available to an international ecclesiastical audience at a moment of intense discussion about Church reform, heresy, and pastoral practice. The Council milieu explains why the new witch concept spread so rapidly after the 1430s.",
+    "peter_of_berne": "Nider's primary source was a secular judge from the Berne region, identified as 'Peter of Berne' or 'Petrus,' who had personally conducted witch prosecutions. This lay judicial source is significant: it demonstrates that secular courts were already applying the new composite stereotype in prosecution before theological synthesis had fully occurred.",
+    "observant_friar_as_synthesizer": "Nider exemplifies Hutton's argument that the Observant reform movement within the mendicant orders was the primary agent of stereotype propagation. As a Dominican Observant, Nider combined reforming pastoral zeal with access to Alpine witch-prosecution evidence through the Dominican Inquisition's networks, making him the ideal synthesizer and disseminator of the new material.",
+    "relation_to_malleus": "Kramer used the Formicarius extensively in the Malleus Maleficarum (1486). Several of the Malleus's witch examples are drawn directly from Nider's fifth book. The Formicarius was thus the crucial intermediate text between the earliest Alpine prosecutions and the Malleus's systematization of the new demonology."
+  },
+
+  "related_entities": {
+    "concepts": [
+      "composite-witch-stereotype-formation",
+      "witches-sabbath-collective",
+      "demonic-pact-early-modern"
+    ],
+    "scholars": [
+      "nider-johannes-b1380",
+      "kramer-heinrich-b1430"
+    ],
+    "scholarly_texts": [
+      "kramer-malleus-maleficarum-1486",
+      "ankarloo-clark-vol3-middle-ages-2002"
+    ]
+  },
+
+  "scholarly_disagreement": "The precise date of composition of the Formicarius is uncertain; most historians date it c.1435–1437 based on internal evidence and the Council of Basel context. The extent to which Nider's 'Peter of Berne' should be identified with a specific historical judge remains debated — Kieckhefer (Magic in the Middle Ages) and others have questioned whether the prosecution accounts Nider relays accurately represent the trials as conducted or reflect Nider's own synthesis.",
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.6; Richard Kieckhefer, Magic in the Middle Ages (1989); Norman Cohn, Europe's Inner Demons (1975/1993); Martine Ostorero et al., L'imaginaire du sabbat (Lausanne, 1999) — includes critical edition of the Formicarius's fifth book; primary source: Johannes Nider, Formicarius (c.1437), Bk.5",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

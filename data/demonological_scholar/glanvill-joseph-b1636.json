@@ -1,0 +1,100 @@
+{
+  "id": "glanvill-joseph-b1636",
+  "name": "Joseph Glanvill",
+  "birth_year": 1636,
+  "death_year": 1680,
+  "birth_place": "Plymouth, Devon, England",
+  "academic_discipline": "Natural Philosophy; Anglican Theology; Demonology",
+  "primary_institution": "Fellow of the Royal Society; Rector of the Abbey Church, Bath; Chaplain to Charles II",
+
+  "major_works": [
+    {
+      "title": "A Philosophical Endeavour towards the Defence of the Being of Witches and Apparitions",
+      "year": 1666,
+      "publisher": "London (first edition; several expanded revisions through 1681)",
+      "significance": "First version of what became Saducismus Triumphatus; argued from the standpoint of the new science that empirical evidence for witchcraft was sufficient to establish the existence of spirits and that rejection of witch belief was equivalent to philosophical materialism.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Saducismus Triumphatus, or Full and Plain Evidence Concerning Witches and Apparitions",
+      "year": 1681,
+      "publisher": "London (posthumous, edited by Henry More)",
+      "significance": "The fullest and most systematic statement of Glanvill's 'scientific demonology'; argued that the Royal Society's empirical methodology required taking witch testimony seriously as evidence and that Hobbesian materialism ('Sadducism') was the real epistemological error. The work included a famous case study of the Drummer of Tedworth.",
+      "pages": null,
+      "database_entry": "glanvill-saducismus-triumphatus-1681"
+    }
+  ],
+
+  "historiographical_position": "SCIENTIFIC DEMONOLOGIST / RESTORATION WITCH-BELIEF DEFENDER",
+
+  "core_argument": "Glanvill's significance lies in the apparent paradox he presents and the paradox Clark uses him to dissolve: a committed Fellow of the Royal Society who was simultaneously the most systematic defender of witch belief in Restoration England. Clark's analysis demonstrates that Glanvill's demonology was not a residue of pre-scientific thinking but a product of his scientific commitments. The key argument was that Hobbesian materialism — the denial of immaterial substance — was the epistemological error that led to rejection of witchcraft; and that the Royal Society's empirical methodology, properly applied, required taking the testimony of witnesses to witch phenomena as seriously as testimony to any other preternatural effect. Glanvill's witchcraft investigations were literally natural history in the Baconian mode: case studies documented with the same rigor applied to any other natural phenomenon, compiled as evidence for the empirical reality of immaterial substance. For Glanvill, 'no spirit, no God' — without spirits, the entire framework of religious epistemology collapsed into Hobbes. Defending witch belief was defending the ontological foundations of Anglicanism against materialist philosophy.",
+
+  "methodological_approach": {
+    "primary_materials": "Empirical case studies of apparitions and witch phenomena — the Drummer of Tedworth case (1662-1663) as the most famous; testimony from reliable witnesses compiled on Baconian natural-history principles",
+    "analysis_target": "Epistemological defense of spirit-belief against Hobbesian materialism; demonstration that empirical method supports rather than refutes the existence of immaterial substance",
+    "evidence_type": "Witnessed testimony to preternatural phenomena treated as natural-historical evidence; philosophical argument against the consequentiality of materialism",
+    "explanatory_level": "Philosophical-theological: Glanvill's demonology operated simultaneously as natural philosophy (empirical evidence collection) and as theology (anti-materialist apologetics)"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Witchcraft testimony as natural history",
+      "claim": "Glanvill argued that the Royal Society's method — collect testimony, test it against other testimony, identify consistent patterns — applied to witch phenomena as to any other preternatural event. Rejecting witch testimony was not scientific rigour but methodological inconsistency: the same standards that required accepting testimony to other preternatural phenomena required accepting testimony to witchcraft.",
+      "implication": "Clark uses Glanvill to demolish the narrative that the Scientific Revolution caused decline in witch belief. Glanvill shows that the most rigorous advocates of the new science in Restoration England were simultaneously the most systematic defenders of witch belief — their demonology was a product of, not a residue from, their scientific commitments."
+    },
+    {
+      "concept": "Sadducism as the real epistemological error",
+      "claim": "Glanvill's term 'Saducismus' (naming the title of his major work after the Sadducees who denied resurrection and angels) was his label for the Hobbesian-materialist position: the denial of all immaterial substance. Glanvill argued that this was not scepticism but dogmatism — a principled refusal to consider evidence. The 'Sadducee' who denied witchcraft was not more rational than the witch-believer but more epistemologically dishonest.",
+      "implication": "The Saducismus Triumphatus title makes a precise philosophical claim: materialism (Sadducism) has been overcome (triumphatus). Glanvill reframed the debate from 'witch belief vs. scientific scepticism' to 'empirical openness vs. materialist dogmatism' — placing witch-believers on the side of the new science and their opponents on the side of Aristotelian or Epicurean dogmatism."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "baconian_natural_history": "Glanvill explicitly modelled his witchcraft case collections on Bacon's program for natural history: collecting instances of preternatural phenomena without premature theorization, building up an empirical base from which generalizations could be drawn. The Drummer of Tedworth investigation was conducted on-site, with personal observation and witness interrogation.",
+    "royal_society_context": "Glanvill was elected FRS in 1664, four years before the Philosophical Endeavour's key expansions. His scientific credentials were genuine and recognized. Henry More FRS edited the posthumous Saducismus Triumphatus. Robert Boyle's interest in preternatural phenomena was parallel to Glanvill's. Clark shows this was not an anomalous fringe but a mainstream Restoration scientific position.",
+    "continental_demonology": "Glanvill was aware of the Continental demonological tradition (Bodin, Rémy, del Río) but his primary intellectual interlocutors were English: Hobbes, whose materialism was his principal target; Henry More, his collaborator; and the Cambridge Platonist tradition."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Henry More (Cambridge Platonist; edited Saducismus Triumphatus; shared the anti-Hobbes immaterialist program; Glanvill's most important collaborator)",
+      "Robert Boyle (shared interest in preternatural phenomena; Boyle's 'spring of air' experiments similarly concerned the boundary between natural and immaterial)",
+      "Continental demonological tradition (Glanvill cited Bodin, Rémy as empirical authorities for the consistency of witch testimony)"
+    ],
+    "creative_tension_with": [
+      "Thomas Hobbes (Leviathan's materialism was Glanvill's primary philosophical target; Glanvill read Hobbes as the source of the Sadducist error)",
+      "John Webster, The Displaying of Supposed Witchcraft (1677): Webster attacked Glanvill's empirical method as pseudo-scientific; Glanvill and More responded in the Saducismus"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Saducismus Triumphatus was widely read in Restoration England and in New England; its influence on Cotton Mather and the Salem prosecution is debated but plausible. The work went through several posthumous editions. Its intellectual framework — empirical defense of spirit-belief against materialism — set the terms of the English witchcraft debate for the following generation.",
+    "criticisms": [
+      "John Webster, The Displaying of Supposed Witchcraft (1677): the principal contemporary refutation; Webster argued that Glanvill's witnesses were unreliable and that the Drummer of Tedworth phenomena had natural explanations",
+      "Modern historians (Keith Thomas, Religion and the Decline of Magic) originally read Glanvill as evidence of intellectual backwardness persisting among educated Anglicans; Clark's revisionist reading shows this misses Glanvill's philosophical sophistication",
+      "Simon Schaffer: argued there was 'no correlation between endorsement of the reality of spirits and support for witch trials' in Restoration England — key figures like Boyle were interested in spirit evidence but not in prosecution. Glanvill occupied the rare position of combining both."
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Glanvill is Clark's primary case for the argument that the 'Scientific Revolution caused decline in witch belief' narrative is historically false. His Fellow of the Royal Society credentials combined with his Saducismus Triumphatus provide the clearest evidence that intellectual sophistication and witch-belief defense were not merely compatible but positively connected in the Restoration period. Glanvill appears in Clark's natural-demonic magic chapters and is extensively treated in the Witchcraft and Science section of Thinking with Demons (pp.356-375).",
+    "analytical_weight": "Glanvill is the Restoration-period equivalent of Boguet: just as Boguet showed that sophisticated naturalistic analysis and witch-trial advocacy were compatible in early 17th-century France, Glanvill shows the same for late 17th-century England and the new experimental science specifically."
+  },
+
+  "historiographical_significance": "Glanvill's significance for the historiography of witch prosecution is concentrated in Clark's revisionist argument about the Scientific Revolution. The standard narrative (Enlightenment reason defeated witch superstition) cannot account for Glanvill — a Fellow of the Royal Society who systematically applied Baconian empirical method to the defense of witch belief. Clark uses Glanvill to argue that the decline of witch prosecution cannot be explained by the advance of science because the most scientifically advanced figures of the Restoration period included active defenders of witch-belief whose demonology was philosophically integrated with their scientific program, not contradicted by it.",
+
+  "scholarly_disagreement": "The primary debate about Glanvill concerns the relationship between his scientific and demonological commitments. Clark argues they were positively connected: his empirical methodology required taking witch testimony seriously, and his anti-Hobbes theology gave him philosophical reasons to defend witch belief. Critics (Shapiro, Hunter) have argued that Glanvill's witchcraft interests were more peripheral to his scientific identity than Clark suggests. The debate about whether Saducismus Triumphatus influenced the Salem prosecution remains open: circumstantial connections to Cotton Mather have been proposed but not securely documented.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Part II: Science, chapter 'Witchcraft and the Scientific Revolution' (pp.356-375); primary source: Joseph Glanvill, Saducismus Triumphatus (London, 1681, ed. Henry More)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}
