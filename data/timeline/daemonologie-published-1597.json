@@ -1,0 +1,28 @@
+{
+  "id": "daemonologie-published-1597",
+  "event_name": "James VI publishes Daemonologie",
+  "event_type": "primary_source_publication",
+  "date": "1597",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Edinburgh, Scotland",
+  "location_slug": "north-berwick",
+  "significance": "James VI of Scotland published Daemonologie as a systematic refutation of Reginald Scot and Johann Weyer and a justification of Scottish witch prosecution, drawing directly on his experience of the North Berwick trials (1590–1592) and citing Bodin as a primary authority. On James's accession to the English throne (1603) as James I, he allegedly ordered Scot's Discoverie burned. The Daemonologie thus represents both Scottish royal engagement with demonological debate and the political dimension of witch prosecution at the highest level.",
+  "related_entities": [
+    "north-berwick-1590-trials",
+    "north-berwick",
+    "weyer-johann-b1516",
+    "scot-reginald-b1538",
+    "bodin-jean-b1530",
+    "witch-trial-skepticism"
+  ],
+  "source_method": "Published primary source: Daemonologie in forme of a dialogue (Edinburgh, 1597); repr. as James I, Daemonologie (1924, New York: Barnes and Noble facsimile)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

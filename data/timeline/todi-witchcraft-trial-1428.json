@@ -1,0 +1,26 @@
+{
+  "id": "todi-witchcraft-trial-1428",
+  "event_name": "Todi witchcraft trial: earliest composite stereotype",
+  "event_type": "trial_event",
+  "date": "1428",
+  "date_precision": "approximate",
+  "circa_range": "1427-1429",
+  "location": "Todi, Umbria (Papal States)",
+  "location_slug": "todi",
+  "significance": "The trial of Matteuccia di Francesco at Todi (c.1428) is the earliest documented case in the database to exhibit the composite witch stereotype combining maleficium, demonic pact, and night-flying — predating the Malleus Maleficarum by approximately 60 years. The trial was conducted by the secular communal court (Tribunale dei Malefici), not an inquisitorial body, demonstrating that the composite stereotype preceded and operated independently of formal inquisitorial procedure.",
+  "related_entities": [
+    "todi-1428-witchcraft-trial",
+    "todi",
+    "matteuccia-di-francesco-todi-1428",
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+  "source_method": "Trial record in communal archive of Todi; analysis in Ankarloo-Clark, Witchcraft and Magic in Europe Vol. 3",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

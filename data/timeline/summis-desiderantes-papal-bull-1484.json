@@ -1,0 +1,24 @@
+{
+  "id": "summis-desiderantes-papal-bull-1484",
+  "event_name": "Papal bull Summis desiderantes affectibus issued",
+  "event_type": "institutional_event",
+  "date": "1484",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Rome (issued by Innocent VIII)",
+  "location_slug": null,
+  "significance": "Pope Innocent VIII issued Summis desiderantes affectibus, authorizing Heinrich Kramer's inquisitorial activity in Germany against heresy and witchcraft. Kramer incorporated the bull as a preface to the Malleus Maleficarum (1487), giving the work apparent papal endorsement — a misrepresentation scholars have since documented. The bull addressed specific personnel complaints about obstruction of Kramer's inquisitorial work and did not constitute a theological endorsement of the Malleus's contents.",
+  "related_entities": [
+    "kramer-heinrich-b1430",
+    "kramer-malleus-maleficarum-1486",
+    "venetian-inquisition"
+  ],
+  "source_method": "Primary source: Summis desiderantes affectibus (December 5, 1484); analysis in Christopher Mackay, The Hammer of Witches (2009)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "scot-reginald-b1538",
+  "name": "Reginald Scot",
+  "birth_year": 1538,
+  "death_year": 1599,
+  "birth_place": "Smeeth, Kent, England",
+  "academic_discipline": "Law (practical); Natural Philosophy (applied); Witchcraft Scepticism",
+  "primary_institution": "No academic institution; gentleman farmer and JP in Kent",
+  "specialization": "Empirical scepticism about witch confessions and demonological claims; reduction of demons to incorporeal status; critique of Catholic ritual magic",
+
+  "major_works": [
+    {
+      "title": "The Discoverie of Witchcraft",
+      "year": 1584,
+      "publisher": "William Brome, London",
+      "significance": "The most radical English-language witchcraft scepticism of the sixteenth century; argues that accused witches are deluded, melancholic, or fraudulent; reduces demons to incorporeal entities incapable of physical action; attacks the evidentiary standards of witch trials",
+      "pages": null,
+      "database_entry": "scot-discoverie-of-witchcraft-1584"
+    }
+  ],
+
+  "historiographical_position": "RADICAL DEMONOLOGICAL SCEPTIC",
+
+  "core_argument": "Scot's Discoverie of Witchcraft mounted a comprehensive empirical and theological attack on witchcraft belief that went significantly further than Weyer's medical-legal scepticism. Where Weyer accepted the reality of demonic pacts with male magicians, Scot argued that demons were incorporeal entities incapable of physical action in the world and that therefore no physical demonic pact, sabbath, or maleficium was possible. This ontological move — stripping demons of corporeality — was the most radical demonological challenge possible within a Christian theological framework, since it did not deny demons' existence but denied their capacity for physical intervention. Scot's accompanying argument was empirical: the supposed effects of witchcraft could all be explained by natural causes, fraud, or mental disorder, and the confessions of accused witches reflected torture, suggestion, and pathology rather than genuine experience. The Discoverie was sufficiently threatening that James VI of Scotland wrote Daemonologie (1597) partly as a direct refutation, and on his accession to the English throne in 1603 James allegedly ordered Scot's book burned.",
+
+  "methodological_approach": {
+    "primary_materials": "English trial records and contemporary witch reports; classical and Renaissance natural philosophy; biblical texts with philological analysis",
+    "analysis_target": "The empirical evidence for witchcraft's effects; the theological premises of corporeality claims about demons; the reliability of confession testimony",
+    "evidence_type": "Empirical case analysis; philological critique of key biblical proof-texts; natural philosophical alternative explanations",
+    "explanatory_level": "Empirical-practical and theological; focused on evidentiary standards and ontological claims about demonic nature"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Demons as incorporeal: the ontological scepticism",
+      "claim": "Demons are purely spiritual entities without physical bodies and therefore incapable of bodily interaction with human beings. They cannot appear in physical form, cannot make physical pacts, cannot engage in sexual congress, cannot physically transport witches to sabbaths. This incorporeality principle, derived from certain patristic and scholastic sources, cut through the entire edifice of demonological claims about physical demonic-human interaction.",
+      "implication": "Clark identifies this as what distinguished Scot's radicalism from Weyer's: where Weyer extended the scope of delusion within a conventional demonology, Scot undermined the physical basis of demonology itself. The implications were too subversive for most early modern readers, who understood that dismantling demonic corporeality threatened the coherence of the entire providentialist cosmology."
+    },
+    {
+      "concept": "Empirical naturalism about witchcraft effects",
+      "claim": "All physical effects attributed to witchcraft can be explained by natural causes (disease, weather, coincidence), fraud by practitioners, or mental disorder in accusers and accused. The Discoverie surveys type after type of alleged witchcraft effect and provides alternative natural explanations for each.",
+      "implication": "Scot's naturalism was not philosophically sophisticated in the way that Weyer's medical argument was; he did not develop a systematic alternative to demonological causation. But his empirical survey of alternative explanations was rhetorically effective and practically oriented."
+    },
+    {
+      "concept": "Critique of inquisitorial procedure and confession evidence",
+      "claim": "The confessions on which witch prosecutions relied were products of torture, leading questions, and suggestion rather than genuine reports of experience. Scot described specific inquisitorial techniques that produced conforming confessions and argued that no confession extracted under torture should be considered reliable evidence.",
+      "implication": "This anticipates Ginzburg's interrogation analysis by four centuries, though Scot drew on practical observation rather than systematic archival method."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "classical_sources": "The Discoverie draws on classical natural philosophy, particularly Lucretius and Epicurean materialism (filtered through Renaissance intermediaries), for its naturalist alternative explanations. It also cites Weyer extensively and represents the English reception of De praestigiis.",
+    "biblical_philology": "Like Weyer, Scot argued that key biblical proof-texts for witchcraft had been mistranslated; the famous Exodus 22:18 ('Thou shalt not suffer a witch to live') referred to poisoners rather than genuine witches. His philological arguments, while not academically sophisticated, reached a broad English readership.",
+    "contemporary_cases": "Scot drew on English witchcraft cases, including those he had personally observed as a Kent justice of the peace, to illustrate the fraud, credulity, and procedural deficiencies he identified in prosecution practice."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Johann Weyer (Scot explicitly cited and built on De praestigiis, though going further than Weyer's medical scepticism)",
+      "Cornelius Loos (Catholic priest who similarly challenged evidentiary standards, forced to recant 1593)"
+    ],
+    "creative_tension_with": [
+      "James VI of Scotland (Daemonologie 1597 explicitly named Scot as a target alongside Weyer; James repeated this opposition after becoming James I of England)",
+      "Jean Bodin (Scot's naturalism was the polar opposite of Bodin's supernaturalism; their positions defined the extremes of late sixteenth-century demonological debate as Clark demonstrates)",
+      "Stuart Clark (Clark shows that Scot's incorporeality argument, while the most radical of its age, was also vulnerable because it required reducing demons to a metaphorical or purely spiritual role that early modern Protestants and Catholics alike found unacceptable)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Discoverie of Witchcraft had substantial influence on Elizabethan theatre and literary culture: Scot's descriptions of magic, spirits, and illusion are among the sources for Shakespeare's Midsummer Night's Dream and The Tempest. Within the demonological debate, the Discoverie defined one pole against which all subsequent English witchcraft writing positioned itself.",
+    "criticisms": [
+      "James VI's Daemonologie (1597) was written explicitly to refute Weyer and Scot; on his accession to the English throne (1603), James allegedly ordered the book burned, though copies survived",
+      "Meric Casaubon, writing later in the seventeenth century, made a perceptive criticism: Scot's naturalism did not engage adequately with the evidence for spiritual beings across cultures, which Casaubon took as indicating a real spirit world",
+      "Clark notes that Scot's incorporeality thesis was too radical to gain adherents in its immediate context: early modern Christians, whether Catholic or Protestant, required demons to have some capacity for physical interaction to make sense of possession, temptation, and providential struggle"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Scot appears in the witch-trial-skepticism concept entry as the most radical sixteenth-century sceptic and as the English counterpart to Weyer's continental influence. The scot-discoverie-of-witchcraft-1584 scholarly_text entry covers the primary source. Scot's position defines one pole of the scepticism-belief spectrum described in the Believers and Sceptics section of Clark.",
+    "analytical_weight": "For the database's purpose of illustrating Clark's thesis, Scot is the limiting case: the thinker whose scepticism was most thoroughgoing and yet most constrained by the theological universe it operated within. His failure to gain immediate adherents illustrates why, as Clark shows, demonological scepticism could not succeed on purely ontological grounds in the early modern period."
+  },
+
+  "historiographical_significance": "Scot has been subject to two opposed historiographical treatments. The older, rationalist reading treated the Discoverie as evidence that a scientifically oriented empiricism already existed in late sixteenth-century England, impeded only by royal reaction and institutional orthodoxy. Stuart Clark's reading reverses this: Scot's incorporeality argument was not proto-scientific but deeply embedded in a specific strand of patristic and spiritual theology, and his naturalistic explanations were rhetorically effective rather than philosophically systematic. The Discoverie's significance is thus best understood not as an anticipation of Enlightenment rationalism but as the most extreme position available within early modern Christian demonology — a position that remained marginal precisely because it was so theologically destabilizing. Clark's analysis shows that Bodin and Scot, the most extreme advocates on opposite sides of the debate, both exposed the internal instabilities of early modern witchcraft discourse: Bodin by placing witchcraft entirely beyond ordinary evidential standards, and Scot by denying physical demonic action entirely.",
+
+  "scholarly_disagreement": "S. Anglo's monograph on Scot (The Damned Art, 1977) treated him as a straightforward rationalist proto-Enlightenment figure. Clark's Thinking with Demons challenged this reading by demonstrating the theological specificity of Scot's incorporeality argument. The degree to which Scot's work should be understood as protoscientific rather than as a specific theological position continues to divide historians of science from historians of religion. His practical influence on English witchcraft law in the seventeenth century is also debated: some historians credit Scot with contributing to England's relatively moderate prosecution record; others point to the separate importance of common-law procedural tradition.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), pp. 240–261 (Chapter: Believers and Sceptics); primary source: The Discoverie of Witchcraft (London 1584)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

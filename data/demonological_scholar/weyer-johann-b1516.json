@@ -1,0 +1,117 @@
+{
+  "id": "weyer-johann-b1516",
+  "name": "Johann Weyer",
+  "birth_year": 1516,
+  "death_year": 1588,
+  "birth_place": "Grave, Brabant (now Netherlands)",
+  "academic_discipline": "Medicine; Natural Philosophy",
+  "primary_institution": "Court physician to Duke William V (the Rich) of Cleves-Jülich-Berg",
+  "specialization": "Medical explanation of witchcraft confessions; demonological skepticism; humoral pathology of melancholy as cause of delusional experiences",
+
+  "major_works": [
+    {
+      "title": "De praestigiis daemonum et incantationibus ac veneficiis",
+      "year": 1563,
+      "publisher": "Johannes Oporinus, Basel",
+      "significance": "Foundational text of early modern witchcraft scepticism; argues that women accused of witchcraft are victims of melancholy and demonic delusion rather than genuine witches; introduces the insanity defence into witchcraft discourse",
+      "pages": null,
+      "database_entry": "weyer-de-praestigiis-1563"
+    },
+    {
+      "title": "De praestigiis daemonum (revised and expanded edition)",
+      "year": 1583,
+      "publisher": "Johannes Oporinus, Basel",
+      "significance": "Final revised version; expanded with case materials and strengthened medical arguments",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "De lamiis liber",
+      "year": 1577,
+      "publisher": "Basel",
+      "significance": "Shorter recapitulation of the De praestigiis arguments focused specifically on the category of lamiae (deluded old women)",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "DEMONOLOGICAL SCEPTIC",
+
+  "core_argument": "Weyer's central argument was that the women prosecuted as witches — whom he called lamiae — were not genuine witches making effective demonic pacts but pathological victims of melancholy, a humoral disorder that made them susceptible to demonic delusion and false belief. Because their confessions derived from disordered imagination rather than deliberate criminal choice, they lacked the rational intent required for criminal culpability. They should therefore be treated medically and spiritually rather than judicially. Crucially, Weyer maintained a traditional demonology throughout: he fully accepted that demons existed, possessed supernatural power, and actively deceived human beings. His innovation was strictly legal and medical, not demonological. He introduced a gendered distinction between lamiae (deluded old women without real criminal capacity) and magi infames (genuine male sorcerers who formed effective demonic pacts and deserved prosecution). This distinction would prove his fundamental inconsistency: critics rightly noted that his acceptance of male demonic pacts undermined the principled basis of his defence of women.",
+
+  "methodological_approach": {
+    "primary_materials": "Medical case reports; demonological treatises; biblical texts; classical natural philosophy (Galen, Aristotle)",
+    "analysis_target": "The causal explanation of witches' confessions through humoral pathology; the conditions under which women became susceptible to demonic delusion",
+    "evidence_type": "Medical naturalist argument; case analysis of individual confessors; philological critique of biblical witch texts",
+    "explanatory_level": "Medical and legal; focused on culpability and treatability rather than demonological ontology"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The insanity defence for accused witches",
+      "claim": "Women who confessed to witchcraft lacked the rational deliberation required for criminal intent. Melancholy — a humoral disorder producing atrabilious vapours that clouded reason — made them susceptible to demonic suggestion and false belief. Criminal execution of the mentally ill was unjust.",
+      "implication": "Weyer introduced a medical-legal category into witchcraft discourse that would be developed by subsequent German sceptics: the distinction between genuine criminal witches and pathological victims who confessed without having committed any real act."
+    },
+    {
+      "concept": "Lamiae vs. magi: the gendered taxonomy of witchcraft",
+      "claim": "Weyer distinguished lamiae (old women, deluded, medically pathological, legally non-culpable) from magi infames (learned male sorcerers who deliberately formed effective demonic pacts and remained criminally culpable). Only men with education and rational capacity could form real pacts.",
+      "implication": "The distinction imported a fundamental contradiction into Weyer's position: by maintaining the possibility of real male demonic pacts, he accepted the intellectual framework he supposedly opposed. Erastus and Bodin correctly attacked this inconsistency."
+    },
+    {
+      "concept": "Extended scope of demonic delusion",
+      "claim": "While orthodox demonology allowed that some confessions might be delusional, Weyer extended the scope of delusion to cover all women's witchcraft confessions. This was a quantitative rather than qualitative departure from orthodoxy.",
+      "implication": "Subsequent German sceptics could absorb Weyer's argument by accepting melancholic delusion for some women while retaining the category of genuine witch for others, rendering Weyer's position less radical than it appeared."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "biblical_philology": "Weyer argued that the biblical term 'mekhashephah' (usually translated as witch) referred to poisoners, not genuine witches, and that the Mosaic prohibition did not justify executing deluded old women. This philological argument, though contested, raised the evidentiary standard for biblical proof-texts.",
+    "classical_medicine": "Weyer drew on Galenic humoral theory to explain the melancholic temperament as predisposing women to atrabilious vapours, disordered imagination, and susceptibility to demonic suggestion.",
+    "demonological_tradition": "De praestigiis engaged comprehensively with orthodox demonological literature including the Malleus Maleficarum, treating it as intellectually serious but medically mistaken in its attribution of real power to lamiae."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Johann Georg Godelmann (later German jurist who systematized Weyer's lamia/magus distinction into a three-category taxonomy)",
+      "Hermann Witekind (Heidelberg professor who developed Weyer's melancholy arguments)",
+      "Johann Ewich (physician who supported Weyer's medical framework)"
+    ],
+    "creative_tension_with": [
+      "Jean Bodin (Bodin's Réfutation des opinions de Jean Wier, appended to the Démonomanie, demolished Weyer's lamia/magus inconsistency and attacked his credulity toward demonic trickery in the male case)",
+      "Thomas Erastus (Calvinist theologian whose Repetitio disputationis de lamiis challenged Weyer's medical arguments and defended prosecution)",
+      "Stuart Clark (Clark shows that Weyer's demonology was as traditional as his opponents'; the apparent radicalism of De praestigiis was absorbed into orthodox frameworks that already allowed for demonic delusion)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "De praestigiis daemonum went through five Latin editions and translations into French, German, and Dutch between 1563 and 1583, suggesting wide readership among educated audiences. King James VI of Scotland wrote Daemonologie (1597) partly as a refutation of Weyer and Scot, indicating both works' continued influence. Weyer's medical-legal arguments informed subsequent German sceptics including Godelmann, Witekind, and ultimately Friedrich Spee's different but genealogically related procedural critique.",
+    "criticisms": [
+      "Jean Bodin, in the Réfutation des opinions de Jean Wier appended to the Démonomanie (1580), systematically demolished Weyer's lamia/magus distinction as arbitrary and accused Weyer of being an apologist for Devil-worship",
+      "Thomas Erastus challenged the medical explanation, arguing that the biblical prohibition on witches required execution regardless of their psychological state",
+      "Stuart Clark demonstrates that Weyer's apparent radicalism was actually constrained within orthodox demonological assumptions: his traditional devil-belief made it impossible to challenge prosecution on grounds that went beyond individual pathology",
+      "Brian Levack notes that Weyer's arguments had minimal practical effect on prosecution rates in the short term; the legal framework he attacked remained dominant throughout the sixteenth century"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Weyer appears in the scholarly_sources array of demonological_concept entries covering the demonic pact and female susceptibility theory. His lamia/magus distinction informs the female-susceptibility-theory entry's discussion of gendered demonological categories. The witch-trial-skepticism concept entry uses Weyer as its founding case study.",
+    "analytical_weight": "Weyer represents the paradox that Clark identifies throughout Thinking with Demons: the most influential 'sceptic' of the sixteenth century shared the fundamental demonological assumptions of those he opposed. Understanding Weyer illustrates why demonological belief was resilient — its internal coherence made even opposition dependent on its premises."
+  },
+
+  "historiographical_significance": "Weyer occupies a paradoxical position in witchcraft historiography: he is consistently called the 'founder of modern psychiatry' by those who read De praestigiis as a rationalist attack on superstition, and simultaneously a disappointing near-miss by historians who recognize how deeply his arguments remained embedded in traditional demonological assumptions. The first reading, exemplified by nineteenth and early twentieth-century whig historiography, treated Weyer as a proto-enlightenment figure anticipating modern psychological explanations of confessions. The second, established definitively by Stuart Clark, shows that Weyer's innovation was strictly legal and medical, not ontological: he never doubted demons' existence or power, accepted genuine male demonic pacts, and extended the scope of delusion only to women on the basis of a gender-pathology theory that his opponents could and did absorb into orthodox frameworks.\n\n  The significance of Clark's reading for the database is that it prevents any simple progressive narrative about scepticism: the arguments that eventually contributed to the decline of witch prosecution (Spee's procedural critique, the later empirical challenges to spectral evidence) were not extensions of Weyer's medical naturalism but developments along a different axis. Weyer demonstrates that intellectual proximity to prosecution and intellectual distance from it were not opposites — they shared the same demonological universe.",
+
+  "scholarly_disagreement": "The sharpest disagreement about Weyer concerns how to characterize his significance. Christopher Baxter (1977) argued that Weyer's work was fundamentally proto-rationalist; Stuart Clark decisively rebutted this, showing Weyer's demonology was indistinguishable from his opponents'. H. C. Erik Midelfort suggested that Weyer had real influence on German Protestant intellectuals even if his arguments were theoretically absorbed; the question of whether ideas can be effective even when theoretically refuted remains unresolved. Contemporary feminist historians (Ehrenreich and English) had located Weyer as a defender of women healers, but Clark and Hutton both show that Weyer's defence was condescending and pathologizing rather than emancipatory.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), pp. 240–261; primary source: De praestigiis daemonum (Basel 1563, 1583)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

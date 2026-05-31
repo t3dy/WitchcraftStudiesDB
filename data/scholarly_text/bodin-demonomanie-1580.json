@@ -1,0 +1,46 @@
+{
+  "id": "bodin-demonomanie-1580",
+  "title": "De la démonomanie des sorciers (On the Demon-Mania of Witches)",
+  "author": "Jean Bodin",
+  "author_slug": "bodin-jean-b1530",
+  "year_published": 1580,
+  "original_year": 1580,
+  "publisher": "Jacques du Puys, Paris",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "Political demonology: systematic argument that the magistrate's sovereign duty to enforce divine law requires aggressive prosecution of witchcraft, integrated with Bodin's theory of harmonic cosmological order.",
+
+  "summary": "Jean Bodin's De la démonomanie des sorciers (1580) is the most systematically political early modern demonological treatise, presenting witch prosecution not merely as theological obligation but as constitutional requirement of legitimate sovereignty. Bodin argued that the magistrate who failed to prosecute witchcraft disrupted the harmonic order (concordia discors) on which legitimate government depended. The work is structured around seven biblical rationales for witchcraft punishment (drawn from Mosaic law), an extended demonology of witchcraft practices, and a devastating point-by-point refutation of Johann Weyer appended to the first edition. The Démonomanie went through at least ten editions in French, Latin, German, and Italian between 1580 and 1604, making it the most widely read witchcraft treatise of the late sixteenth century after the Malleus. It was directly cited by James VI of Scotland in Daemonologie (1597) and served as a model for the French magistrate-demonologist tradition represented by Rémy and de Lancre.",
+
+  "scholarly_significance": "Stuart Clark's chapter 'Bodin's Political Demonology' (Thinking with Demons, pp. 789–807) provides the foundational modern analysis, demonstrating that the Démonomanie and Bodin's Six Livres de la République (1576) are parts of a single intellectual project unified by the concordia discors principle. For Clark, the Démonomanie is the clearest demonstration of his central thesis: that witchcraft prosecution was practiced by systematically thinking men applying coherent intellectual frameworks. The Démonomanie's political-cosmological integration of witch prosecution — where the magistrate's failure to enforce divine law against witches constitutes a constitutional failure, not merely a moral one — is intellectually original and represents the highest development of political demonology. For the database, the Démonomanie is central to the bodin-jean-b1530 demonological_scholar entry and the inversion-principle concept entry (Bodin's concordia discors as foundation for witchcraft's cosmological necessity). The work's refutation of Weyer also defines the terms of the late sixteenth-century scepticism debate covered in the witch-trial-skepticism concept entry.",
+
+  "key_arguments": [
+    {
+      "concept": "Sovereignty requires witchcraft enforcement",
+      "claim": "The magistrate embodies divine norms; failure to prosecute witchcraft is not merely a moral failure but a constitutional one, since sovereign authority derives from the same divine order that witchcraft violates. Bodin drew a direct analogy between the magistrate's inviolability to witchcraft and the essential attributes of legitimate sovereignty (indivisibility, voluntarism)."
+    },
+    {
+      "concept": "Concordia discors as cosmological foundation of persecution",
+      "claim": "The universe achieves order through the harmonious tension of opposites (concordia discors, a Neoplatonic principle). Witches and demons are necessary components of this harmonic universe; their evil provides the contrast through which virtue becomes intelligible. Witchcraft punishment is cosmologically necessary to maintain harmonic balance."
+    },
+    {
+      "concept": "Witchcraft as nine-fold apostasy",
+      "claim": "The demonic pact constitutes nine distinct offences against God through apostasy alone, independent of any physical maleficium. Bodin derived seven rationales for punishment from Mosaic law (Deuteronomy 13, 15, 19, Numbers 25): appeasing divine wrath, obtaining God's blessing, deterring malefactors, preventing the spread of evil, diminishing the number of evil persons, ensuring security for the good, and punishing the actual crime."
+    },
+    {
+      "concept": "Refutation of Weyer",
+      "claim": "Bodin's appended Réfutation des opinions de Jean Wier attacked Weyer's lamia/magus distinction as arbitrary and accused him of enabling Devil-worship through legal leniency. Bodin demonstrated that Weyer's acceptance of male demonic pacts undermined the principled basis of his defence of women. This refutation effectively dominated the late sixteenth-century debate, making Weyer's position untenable as a systematic legal argument."
+    }
+  ],
+
+  "relation_to_database": "The Démonomanie is cited in the demonic-pact-early-modern and witch-trial-skepticism concept entries as the primary late sixteenth-century statement of full prosecutorial advocacy. The bodin-jean-b1530 scholar entry documents Bodin's intellectual framework. The inversion-principle concept entry draws on the Démonomanie's concordia discors for the cosmological basis of the inversionary structure of witchcraft. The north-berwick-1590-trials trial event references James VI's use of Bodin.",
+
+  "scholarly_disagreement": "The central scholarly disagreement about the Démonomanie concerns whether it should be read as politically motivated (a response to the chaos of the French Wars of Religion in the 1570s–1580s, requiring strong moral absolutism) or as genuinely cosmological (Bodin believed in the harmonic framework and derived witch prosecution from it). Clark argues for both simultaneously: the Démonomanie was politically urgent and cosmologically sincere. P. L. Rose argued for 'taking Bodin whole'; other political theorists have treated the demonological work as incidental to Bodin's political legacy.",
+  "source_method": "Published primary source; first edition Jacques du Puys, Paris 1580; subsequent editions in Latin, German, and Italian 1581–1604",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

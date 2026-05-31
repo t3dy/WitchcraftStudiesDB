@@ -1,0 +1,26 @@
+{
+  "id": "demonomanie-published-1580",
+  "event_name": "Bodin publishes De la démonomanie des sorciers",
+  "event_type": "primary_source_publication",
+  "date": "1580",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Paris, France",
+  "location_slug": null,
+  "significance": "Jean Bodin published De la démonomanie des sorciers, the most systematic political demonology of the early modern period. Arguing that the magistrate's sovereign duty required aggressive witch prosecution, and including a point-by-point refutation of Weyer, the work went through ten editions in four languages by 1604 and was cited by James VI in Daemonologie. Stuart Clark reads the Démonomanie and the République (1576) as parts of a single intellectual project unified by the concordia discors cosmological principle.",
+  "related_entities": [
+    "bodin-jean-b1530",
+    "bodin-demonomanie-1580",
+    "weyer-johann-b1516",
+    "witch-trial-skepticism",
+    "inversion-principle"
+  ],
+  "source_method": "Published primary source: De la démonomanie des sorciers (Jacques du Puys, Paris 1580)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

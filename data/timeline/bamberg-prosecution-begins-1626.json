@@ -1,0 +1,28 @@
+{
+  "id": "bamberg-prosecution-begins-1626",
+  "event_name": "Bamberg mass prosecution begins",
+  "event_type": "trial_event",
+  "date": "1626",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Bamberg, Holy Roman Empire",
+  "location_slug": "bamberg",
+  "significance": "The Bamberg mass prosecution (1626–1631) was the most intensive witch hunt in the Holy Roman Empire outside Trier, resulting in approximately 300–400 executions from 900+ accusations in five years. It began when a hailstorm was blamed on witches and court midwife Margaretha Binder was arrested; the cascade mechanism then spread through all social strata including court officials, clergy, and ultimately the mayor himself. The trials ended only with Prince-Bishop Fuchs von Dornheim's death in 1631. Friedrich Spee's Cautio criminalis (1631) is widely understood as a response to the conditions that produced Bamberg and Würzburg.",
+  "related_entities": [
+    "bamberg-1626-mass-prosecution",
+    "bamberg",
+    "margaretha-binder-bamberg-1626",
+    "spee-cautio-criminalis-1631",
+    "witch-trial-skepticism"
+  ],
+  "source_method": "Trial records in Bamberg episcopal archives; analysis in Behringer, Witchcraft Persecutions in Bavaria (1997); Levack, The Witch-Hunt in Early Modern Europe (2016)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-brian-b1943"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

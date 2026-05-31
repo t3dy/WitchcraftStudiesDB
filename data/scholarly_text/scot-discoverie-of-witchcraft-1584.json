@@ -1,0 +1,42 @@
+{
+  "id": "scot-discoverie-of-witchcraft-1584",
+  "title": "The Discoverie of Witchcraft",
+  "author": "Reginald Scot",
+  "author_slug": "scot-reginald-b1538",
+  "year_published": 1584,
+  "original_year": 1584,
+  "publisher": "William Brome, London",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "The most radical English-language witchcraft scepticism of the sixteenth century: empirical critique of alleged witchcraft effects and ontological argument reducing demons to incorporeal entities incapable of physical action.",
+
+  "summary": "Reginald Scot's Discoverie of Witchcraft (1584) mounted the most radical witchcraft scepticism available in sixteenth-century English. Written by a Kent gentleman and justice of the peace rather than an academic theologian, the work combined empirical critique of specific witchcraft claims with an ontological argument reducing demons to purely incorporeal entities incapable of physical action. Scot argued that all alleged witchcraft effects could be explained through natural causes, fraud, or mental disorder; that torture and suggestion rather than genuine experience explained confession evidence; and that demons, being incorporeal, could not make physical pacts, transport witches to sabbaths, or engage in sexual congress. The work also included an extensive appendix on stage magic and illusion, intended to demonstrate the fraudulent basis of alleged supernatural effects. James VI of Scotland wrote Daemonologie (1597) partly as a direct refutation; on his accession to the English throne (1603) he reportedly ordered the Discoverie burned.",
+
+  "scholarly_significance": "Clark's analysis (Thinking with Demons, pp. 240–261) establishes that the Discoverie's apparent radicalism was constrained by the theological universe it operated within. Scot's incorporeality argument, while the most extreme position available in early modern Christian demonology, required demons' existence while denying their corporeality — a specific theological position derived from patristic and scholastic sources, not proto-scientific naturalism. The work's empirical survey of alternative explanations for witchcraft effects was rhetorically effective but philosophically unsystematic. Clark uses Scot alongside Bodin as the two poles of late sixteenth-century demonological debate — Bodin placing witchcraft entirely beyond ordinary natural law, Scot placing it below ordinary natural action — to show that both extremes exposed internal instabilities in the early modern intellectual framework. In the database, the Discoverie is cited in the witch-trial-skepticism concept entry as the most radical form of demonological scepticism, and the scot-reginald-b1538 scholar entry documents Scot's reception and influence on English literary and witchcraft culture.",
+
+  "key_arguments": [
+    {
+      "concept": "Demons are incorporeal",
+      "claim": "Demons are purely spiritual entities without physical bodies and therefore incapable of bodily interaction with human beings. They cannot make physical pacts, transport witches bodily to sabbaths, engage in sexual congress, or cause physical harm through demonic agents. This incorporeality principle cut through the entire edifice of demonological claims about physical demonic-human interaction."
+    },
+    {
+      "concept": "Empirical naturalism about witchcraft effects",
+      "claim": "All physical effects attributed to witchcraft can be explained by natural causes (disease, weather, coincidence), fraud by practitioners, or mental disorder in accusers and accused. The Discoverie surveys type after type of alleged witchcraft effect and provides alternative natural explanations."
+    },
+    {
+      "concept": "Critique of confession evidence",
+      "claim": "The confessions on which witch prosecutions relied were products of torture, leading questions, and suggestion rather than genuine reports of experience. Scot described specific inquisitorial techniques that produced conforming confessions and argued no torture-extracted confession should be considered reliable evidence."
+    }
+  ],
+
+  "relation_to_database": "The Discoverie is cited in witch-trial-skepticism and demonic-possession-eschatological concept entries. The scot-reginald-b1538 scholar entry covers Scot's intellectual biography and influence. The work defines one pole of the late sixteenth-century English debate on witchcraft, with Bodin's Démonomanie and James VI's Daemonologie (1597) representing the opposing positions.",
+
+  "scholarly_disagreement": "The primary debate about the Discoverie is whether Scot should be read as a proto-rationalist forerunner of Enlightenment naturalism (the older view, exemplified by S. Anglo) or as a participant in specifically early modern theological debates about demonic incorporeality (Clark's view). The Discoverie's influence on English literary culture — its descriptions of magic and spirits appear to have influenced Shakespeare — is widely acknowledged regardless of one's position on its intellectual character.",
+  "source_method": "Published primary source; William Brome, London 1584; modern edition: Reginald Scot, The Discoverie of Witchcraft, ed. Brinsley Nicholson (Elliot Stock, 1886; repr. Dover Publications, 1972)",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

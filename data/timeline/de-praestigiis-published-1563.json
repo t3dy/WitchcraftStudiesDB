@@ -1,0 +1,25 @@
+{
+  "id": "de-praestigiis-published-1563",
+  "event_name": "Weyer publishes De praestigiis daemonum",
+  "event_type": "primary_source_publication",
+  "date": "1563",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Basel, Switzerland",
+  "location_slug": null,
+  "significance": "Johann Weyer published De praestigiis daemonum, introducing the first systematic medical-legal scepticism into witchcraft discourse: women accused of witchcraft were pathological victims of melancholy rather than genuine criminals, and should receive medical treatment rather than judicial execution. Despite operating within conventional demonological assumptions, the work defined the terms of the scepticism debate for the following century and prompted refutations by Erastus (1572) and Bodin (1580).",
+  "related_entities": [
+    "weyer-johann-b1516",
+    "weyer-de-praestigiis-1563",
+    "witch-trial-skepticism",
+    "female-susceptibility-theory"
+  ],
+  "source_method": "Published primary source; Johannes Oporinus, Basel 1563",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

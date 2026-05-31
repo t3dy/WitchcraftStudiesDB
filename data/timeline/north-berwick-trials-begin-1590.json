@@ -1,0 +1,26 @@
+{
+  "id": "north-berwick-trials-begin-1590",
+  "event_name": "North Berwick witch trials begin",
+  "event_type": "trial_event",
+  "date": "1590",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "North Berwick, Scotland",
+  "location_slug": "north-berwick",
+  "significance": "The North Berwick trials (1590–1592) brought witchcraft directly into the orbit of Scottish royal politics: James VI personally interrogated accused persons including Agnes Sampson, developed conviction in the conspiracy linking witches to the Earl of Bothwell's alleged treason, and subsequently wrote Daemonologie (1597) to refute Scot and Weyer. The trials represent the most politically inflected major witch prosecution in the British Isles.",
+  "related_entities": [
+    "north-berwick-1590-trials",
+    "north-berwick",
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+  "source_method": "Primary sources: Newes from Scotland (1591); trial records in Register of the Privy Council of Scotland; analysis in Larner, Enemies of God (1981)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "malleus-maleficarum-published-1487",
+  "event_name": "Malleus Maleficarum first published",
+  "event_type": "primary_source_publication",
+  "date": "1487",
+  "date_precision": "approximate",
+  "circa_range": "1486-1487",
+  "location": "Speyer, Holy Roman Empire",
+  "location_slug": null,
+  "significance": "The Malleus Maleficarum ('Hammer of Witches') by Dominican Inquisitor Heinrich Kramer synthesized the composite witch stereotype combining maleficium, demonic pact, and sabbath attendance into a single prosecutorial category, providing the theological, natural-philosophical, and procedural framework that would define witch prosecution in German-speaking territories for the next century and a half.",
+  "related_entities": [
+    "kramer-heinrich-b1430",
+    "kramer-malleus-maleficarum-1486",
+    "demonic-pact-early-modern",
+    "female-susceptibility-theory",
+    "witches-sabbath-collective"
+  ],
+  "source_method": "Published primary source; modern critical edition Christopher Mackay (Cambridge University Press, 2009)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "de-lancre-pierre-b1553",
+  "name": "Pierre de Lancre",
+  "birth_year": 1553,
+  "death_year": 1631,
+  "birth_place": "Bordeaux, France",
+  "academic_discipline": "Law; Demonology; Jurisprudence",
+  "primary_institution": "Parlement de Bordeaux (counsellor)",
+  "specialization": "Sabbat phenomenology; demonological analysis of Basque witchcraft; systematic witch prosecution in coastal Labourd region",
+
+  "major_works": [
+    {
+      "title": "Tableau de l'inconstance des mauvais anges et démons (Portrait of the Inconstancy of Evil Angels and Demons)",
+      "year": 1612,
+      "publisher": "Nicolas Buon, Paris",
+      "significance": "The most detailed and vivid early modern account of the witches' sabbat; based on de Lancre's commission to investigate witchcraft in the Labourd region of the Basque country (1609); estimated 80 executions in the course of the investigation",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "L'incrédulité et mescréance du sortilège plainement convaincue",
+      "year": 1622,
+      "publisher": "Nicolas Buon, Paris",
+      "significance": "Later work defending the reality of witchcraft against growing sceptical currents; less original than the Tableau but documents the persistence of prosecutorial demonology into the 1620s",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SABBAT THEORIST / EXTREME WITCH-TRIAL ADVOCATE",
+
+  "core_argument": "De Lancre's Tableau de l'inconstance is distinguished from other major demonological works by the intensity and specificity of its sabbat description and by its explicit cultural analysis of the Basque country as a territory of inconstancy and demonic susceptibility. De Lancre argued that the Basque region's geographic marginality, seafaring culture, and linguistic and cultural distinctiveness made its population peculiarly susceptible to demonic recruitment. His sabbat account, drawn from the confessions of accused persons during a three-month investigation in which he reportedly oversaw 80 executions, is the most elaborate in the demonological literature: a major assembly presided over by the Devil, involving collective dancing (organized by specific musical instruments and dances he identifies), sexual congress with demons, the Black Mass with inverted liturgical elements, and the formal renewal of the demonic pact. Clark's chapter on 'Festivals and Sabbats' draws on de Lancre's Tableau as its primary source for the inversionary structure of the sabbat. De Lancre described witches approaching the Devil facing backwards, performing the osculum infame, dancing in disordered patterns that contrasted with the orderly dances of Christian festivals, and elevating the inverted Black Host.",
+
+  "methodological_approach": {
+    "primary_materials": "Trial confessions from the Labourd investigation (1609); interrogation of accused persons, witnesses, and supposed demoniacs",
+    "analysis_target": "The cultural and cosmological explanation of Basque susceptibility to witchcraft; systematic documentation of sabbat practices",
+    "evidence_type": "Trial confessions treated as direct evidence of sabbat reality; cultural analysis of Basque identity as predisposing factor",
+    "explanatory_level": "Cultural-anthropological and demonological; de Lancre combined systematic sabbat description with cultural analysis of what made the Basque different"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The most detailed early modern sabbat phenomenology",
+      "claim": "The Tableau provides the fullest description of the witches' sabbat in early modern demonological literature, including specific details of musical instruments, dances, the devil's presiding forms, sexual practices, food, and liturgical inversions. De Lancre described a 15-year-old witness's deposition of the devil elevated on a throne, the Black Host elevated and then thrown to the ground, and witches approaching with their feet in the air and heads bowed.",
+      "implication": "Clark's analysis of sabbat inversion draws primarily on de Lancre because the Tableau offers the most vivid and detailed material for demonstrating how systematically the sabbat was constructed as a perversion of Christian ritual."
+    },
+    {
+      "concept": "Cultural susceptibility as prosecution rationale",
+      "claim": "De Lancre argued explicitly that the Basque people's inconstancy (inconstance) — their willingness to move between stability and disorder — made them peculiarly susceptible to demonic recruitment. His cultural analysis linked geographic marginality, seafaring culture, and communal dancing traditions to the specific forms of witchcraft he documented.",
+      "implication": "This cultural argument, while offensive by modern standards, represents an attempt to explain regional variation in witchcraft through sociological rather than purely theological categories — an early instance of what would later become social history's focus on regional specificity."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "basque_confessions": "The trial confessions from the 1609 Labourd investigation are de Lancre's primary material. The confessions of accused persons (many of them young women and teenagers) provided the specific phenomenological detail that distinguishes the Tableau from more abstract demonological treatises.",
+    "witness_testimony": "De Lancre unusually included testimony from apparently voluntary witnesses, including children who claimed to have attended sabbats, adding a distinctive demographic dimension to his evidence base.",
+    "classical_and_humanist_sources": "Like Rémy, de Lancre embedded his demonological documentation in humanist classical learning, giving the Tableau prestige in educated circles."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Nicolas Rémy (fellow French magistrate-demonologist; Rémy's Lorraine materials from the 1590s provided a precedent for de Lancre's Basque investigation)",
+      "Henri Boguet (the three major French magistrate-demonologists — Rémy, Boguet, de Lancre — form a coherent school of late sixteenth and early seventeenth-century prosecutorial demonology)",
+      "Jean Bodin (de Lancre worked within Bodin's framework of magistrate's sovereignty requiring enforcement of divine law against witchcraft)"
+    ],
+    "creative_tension_with": [
+      "Modern Basque historians who have viewed the Labourd investigation as an exercise in cultural imperialism targeting a linguistically and culturally distinct community",
+      "Ginzburg (de Lancre's sabbat documentation is the kind of material Ginzburg's interrogation analysis would reread as products of coercive procedure rather than genuine folk practice)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Tableau's influence was primarily literary and artistic: its vivid sabbat descriptions circulated widely and contributed to the visual and literary iconography of the sabbat in seventeenth-century French culture. Its direct influence on subsequent prosecutions is harder to document. The Labourd investigation itself ended due to intervention by the Parlement de Bordeaux, which limited de Lancre's commission.",
+    "criticisms": [
+      "Historians of the Basque country have emphasized that de Lancre's cultural analysis functioned as a justification for externally imposed persecution of a culturally distinct community; his 'inconstancy' argument was a projection of French metropolitan anxieties onto Basque practice",
+      "The epidemic character of the Labourd investigation — accelerating from initial accusations to mass arrests over a few months — is consistent with Levack's cascade mechanism rather than with de Lancre's cultural explanation of widespread guilt"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "De Lancre is cited in Clark's 'Festivals and Sabbats' chapter (pp. 24–46) as the primary source for inversionary sabbat description. The witches-sabbath-collective and inversion-principle demonological_concept entries both draw on the Tableau. De Lancre's 15-year-old witness's deposition is specifically cited for the Black Host inversion scene.",
+    "analytical_weight": "De Lancre's Tableau is the primary archival source for understanding how contemporaries understood the sabbat as systematic cultural inversion. For the database's purposes, it illustrates Clark's principle that demonological texts require internal analysis as coherent intellectual systems rather than dismissal as mere superstition."
+  },
+
+  "historiographical_significance": "De Lancre represents the most extreme end of the French magistrate-demonologist tradition — the point at which prosecutorial practice, systematic demonological compilation, and cultural analysis of demonic susceptibility converged in a single brief and intensive persecution. The Tableau is historiographically important primarily as the richest source for sabbat phenomenology in early modern French demonological literature, and Clark's analysis of inversionary structure draws on it more than on any other single source. For students of how witchcraft was represented and understood, the Tableau is indispensable. For students of how prosecutions worked, it is representative of the worst rather than the typical case: the Labourd investigation was brief, geographically concentrated, and ended by external intervention — conditions that distinguish it from the sustained mass prosecutions of Bamberg and Würzburg.",
+
+  "scholarly_disagreement": "The central debate about de Lancre concerns whether the Labourd investigation represented an expression of systematic Catholic reform and cultural imperialism directed at a linguistically distinct community (as Basque historians tend to argue), or whether it should be analyzed on the same terms as other contemporary French prosecutions (as intellectual historians like Clark prefer). The two approaches are not mutually exclusive but require different analytical emphasis: Clark's intellectual history framework illuminates what de Lancre thought he was doing; social history reveals what conditions made it possible.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), pp. 24–46 (Festivals and Sabbats), pp. 138–170 (Women and Witchcraft); primary source: Tableau de l'inconstance des mauvais anges et démons (Paris 1612)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

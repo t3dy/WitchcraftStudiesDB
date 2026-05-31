@@ -1,0 +1,91 @@
+{
+  "id": "del-rio-martin-b1551",
+  "name": "Martín Antonio Del Río (Martinus Antonius Delrius)",
+  "birth_year": 1551,
+  "death_year": 1608,
+  "birth_place": "Antwerp, Spanish Netherlands",
+  "academic_discipline": "Theology; Canon Law; Classical Learning",
+  "primary_institution": "Society of Jesus (Jesuit Order); Universities of Louvain, Graz, Salamanca, and Douai",
+  "specialization": "Systematic demonological compilation; Counter-Reformation Catholic demonology; integration of scholastic theology and humanist learning in witchcraft doctrine",
+
+  "major_works": [
+    {
+      "title": "Disquisitionum magicarum libri sex (Six Books of Investigations into Magic)",
+      "year": 1599,
+      "publisher": "Published in three parts, 1599–1600, Louvain",
+      "significance": "The most comprehensive early modern demonological compendium from a Catholic perspective; six books covering: definitions of magic, divination and superstition, maleficium and witchcraft, demonic apparitions, the demonic pact and sabbath, and inquisitorial procedure; became the standard Counter-Reformation Catholic demonological reference",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "COUNTER-REFORMATION DEMONOLOGICAL SYSTEMATIZER",
+
+  "core_argument": "Del Río's Disquisitiones magicarum was the most comprehensive Catholic demonological synthesis of the early modern period, written by a Jesuit polymath who combined extensive classical learning with scholastic theology to produce a reference work that addressed every aspect of witchcraft doctrine from definition through prosecution. Del Río organized his work around Aquinas's typology of superstition (idolatry, divination, vain observance) and provided exhaustive citation of classical and patristic sources alongside contemporary witchcraft literature. Unlike the Malleus Maleficarum, which was a practical inquisitorial manual, the Disquisitiones was a comprehensive scholarly compendium intended to settle definitively all theological and procedural questions about magic, witchcraft, and demonology. Del Río took relatively moderate positions on some questions (he was cautious about accepting all sabbat confessions at face value) while firmly maintaining that witchcraft was real, that the demonic pact was the essential crime, and that prosecution was theologically obligatory.",
+
+  "methodological_approach": {
+    "primary_materials": "Scholastic theology (Aquinas, patristic sources); classical natural philosophy; contemporary witchcraft and demonological literature; canon law",
+    "analysis_target": "Comprehensive systematic treatment of all aspects of magic, divination, and witchcraft; resolution of disputed questions in demonological doctrine",
+    "evidence_type": "Scholastic theological argument; classical citation; contemporary case illustration; canon-law analysis",
+    "explanatory_level": "Comprehensive theological-philosophical reference: Del Río aimed to settle every outstanding question in demonological doctrine through systematic citation and argument"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The standard Counter-Reformation Catholic demonological reference",
+      "claim": "The Disquisitiones magicarum went through approximately thirty editions between 1599 and 1755, making it the most frequently reprinted demonological work of the seventeenth and eighteenth centuries. Its comprehensive coverage — organized according to Aquinas's superstition typology — made it the standard Catholic scholarly reference for all questions touching magic, divination, and witchcraft.",
+      "implication": "Del Río's work represents the Counter-Reformation church's systematic response to the problem of magic and witchcraft, distinguishing it from both Protestant approaches and from the earlier inquisitorial tradition of the Malleus."
+    },
+    {
+      "concept": "Structured on Thomistic superstition typology",
+      "claim": "Del Río organized the Disquisitiones according to Aquinas's threefold typology of superstition (idolatry, divination, vana observantia), giving witchcraft doctrine its place within the broader category of religious transgression rather than treating it as a unique supernatural phenomenon requiring special legal provisions.",
+      "implication": "This taxonomic approach placed witchcraft within a coherent system of theological categories, providing the intellectual architecture that Clark identifies as characteristic of serious demonological thinking."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "classical_learning": "Del Río's Jesuit education gave him exceptionally broad classical learning; the Disquisitiones is unusually rich in classical citation, drawing on Greek and Roman literature to provide historical precedents for witchcraft phenomena.",
+    "contemporary_literature": "Del Río engaged comprehensively with contemporary demonological literature including Weyer (whom he opposed), Boguet, Rémy, and the Malleus, creating a systematic summary of existing positions.",
+    "theological_tradition": "The Disquisitiones engaged directly with Aquinas's Summa theologiae and the medieval canon-law tradition, grounding witchcraft doctrine in the mainstream of Catholic theological education."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Pierre Binsfeld (Bishop of Trier; Tractatus de confessionibus maleficorum 1589; Del Río and Binsfeld represent the systematic Catholic scholarly response to witchcraft)",
+      "Adam Tanner SJ (fellow Jesuit who shared Del Río's systematic approach while taking more reforming positions on procedure)"
+    ],
+    "creative_tension_with": [
+      "Johann Weyer (Del Río opposed Weyer's lamia/magi distinction and sceptical conclusions)",
+      "Stuart Clark (Clark reads Del Río as representative of what he calls 'serious theology' — a demonological intellectual tradition that requires the same rigorous intellectual analysis as any other genre of early modern learning)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Disquisitiones magicarum was the most frequently reprinted demonological work of the seventeenth century, serving as the standard Catholic scholarly reference across European Catholic territories. Its comprehensive coverage and Jesuit intellectual prestige gave it authority that the Malleus — increasingly seen as extreme and procedurally compromised — no longer commanded in the seventeenth century.",
+    "criticisms": [
+      "Del Río's comprehensive citation of classical and patristic sources, while intellectually impressive, was also criticized for elevating the authority of non-Christian sources in matters of Christian theology",
+      "His relatively cautious position on accepting all sabbat confessions at face value set him apart from more credulous contemporaries but was not consistently maintained"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Del Río appears in Clark's analysis of both the superstition typology (Superstition chapter) and the women and witchcraft question (Women and Witchcraft chapter). The Disquisitiones is cited in the female-susceptibility-theory and demonic-possession-eschatological concept entries as the standard Counter-Reformation Catholic reference. The superstition typology in Clark's Superstition chapter is explicitly structured around Aquinas's categories as elaborated by Del Río.",
+    "analytical_weight": "Del Río represents the mature scholastic synthesis of witchcraft doctrine at the height of Counter-Reformation intellectual culture. Clark treats him as a key figure in demonstrating that demonological learning was not a marginal phenomenon but a mainstream intellectual tradition within Catholic theology."
+  },
+
+  "historiographical_significance": "Del Río has received less historiographical attention than the Malleus or Bodin despite the Disquisitiones being the most reprinted seventeenth-century demonological work, partly because his comprehensive but cautious approach lacks the dramatic qualities of the more notorious texts. Clark's Thinking with Demons restores Del Río's significance by treating the Disquisitiones as the standard Counter-Reformation Catholic demonological reference — the text that any educated Catholic cleric would have consulted on questions of magic and witchcraft in the seventeenth century. Understanding Del Río is essential for understanding the demonological culture within which Catholic witch prosecutions (and Catholic restraint of prosecution) operated.",
+
+  "scholarly_disagreement": "The primary debate about Del Río concerns how to weigh his relatively cautious position on accepting sabbat confessions against his overall endorsement of prosecution. Some historians have seen him as a moderating influence; others argue that the Disquisitiones's systematic endorsement of prosecution outweighed any specific cautions. The question of Del Río's precise influence on actual prosecution patterns is unresolved.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001); primary source: Disquisitionum magicarum libri sex (Louvain 1599–1600)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

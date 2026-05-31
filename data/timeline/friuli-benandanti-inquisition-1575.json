@@ -1,0 +1,27 @@
+{
+  "id": "friuli-benandanti-inquisition-1575",
+  "event_name": "Friuli inquisition of benandanti begins",
+  "event_type": "trial_event",
+  "date": "1575",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Friuli, Republic of Venice",
+  "location_slug": "friuli",
+  "significance": "The Venetian Inquisition's first interrogation of benandanti (literally 'those who go well') in Friuli (1575–1619) provided Carlo Ginzburg with the case study for Night Battles (1966). The benandanti were agricultural fertility workers who claimed to travel in spirit at night to fight witches in defense of harvests. Ginzburg's microhistorical analysis of the interrogation records traced how inquisitors gradually transformed the benandanti's self-understanding from defenders-against-witches into members-of-the-sabbath, documenting the imposition of the demonological template through sustained interrogation.",
+  "related_entities": [
+    "friuli-benandanti-1575-inquisition",
+    "friuli",
+    "gaspar-tagliacarne-friuli-benandante",
+    "ginzburg-carlo-b1939",
+    "ginzburg-night-battles-1983"
+  ],
+  "source_method": "Inquisition archive, Udine (Archivio della Curia Arcivescovile); Carlo Ginzburg, I benandanti (Torino, 1966; English translation Night Battles, 1983)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

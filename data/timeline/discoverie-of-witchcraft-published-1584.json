@@ -1,0 +1,25 @@
+{
+  "id": "discoverie-of-witchcraft-published-1584",
+  "event_name": "Scot publishes The Discoverie of Witchcraft",
+  "event_type": "primary_source_publication",
+  "date": "1584",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "London, England",
+  "location_slug": null,
+  "significance": "Reginald Scot published The Discoverie of Witchcraft, the most radical English-language witchcraft scepticism of the sixteenth century, arguing that demons were incorporeal and incapable of physical action and that all alleged witchcraft effects were natural, fraudulent, or delusional. James VI of Scotland wrote Daemonologie (1597) partly as a direct refutation, and on accession to the English throne (1603) reportedly ordered Scot's book burned. Clark uses the Discoverie as the polar opposite of Bodin's Démonomanie to illustrate the range of early modern demonological positions.",
+  "related_entities": [
+    "scot-reginald-b1538",
+    "scot-discoverie-of-witchcraft-1584",
+    "witch-trial-skepticism",
+    "bodin-jean-b1530"
+  ],
+  "source_method": "Published primary source: William Brome, London 1584",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -6,13 +6,14 @@
 |------|-------|------------|---------|
 | `trial_event` | 5 | `trial-location-year` | `bamberg-1626-mass-prosecution` |
 | `accused_person` | 15 | `name-location-year` | `margaretha-binder-bamberg-1626` |
-| `demonological_concept` | 3 | `concept-name` | `witches-sabbath-collective` |
-| `demonological_scholar` | 7 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
-| `scholarly_text` | 6 | `surname-title-word-year` | `clark-thinking-with-demons-2001` |
+| `demonological_concept` | 7 | `concept-name` | `witches-sabbath-collective` |
+| `demonological_scholar` | 16 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
+| `scholarly_text` | 12 | `surname-title-word-year` | `clark-thinking-with-demons-2001` |
 | `location` | 5 | `location-name` | `bamberg` |
 | `healer_practitioner` | 1 | `name-location-tradition` | `gaspar-tagliacarne-friuli-benandante` |
 | `persecuted_group` | 4 | `group-descriptor-scope` | `widows-early-modern` |
 | `inquisitorial_body` | 5 | `institution-name` | `venetian-inquisition` |
+| `timeline` | 13 | `event-descriptor-year` | `malleus-maleficarum-published-1487` |
 
 ## JSON Conventions
 
@@ -81,3 +82,7 @@ python scripts/validate_entities.py --report csv
 ## Section-Specific Guidance
 
 For `accused_person` entries, read `accused_person/CLAUDE.md` and `accused_person/WRITING_STYLE_GUIDE.md` before writing narrative fields. Writing quality requirements are strict — see the style guide.
+
+For `timeline` entries, read `timeline/CLAUDE.md`. Timeline entries capture dated historical events (publications, trials, institutional acts) and link to related entities. They are the chronological spine of the database.
+
+For `demonological_scholar` entries covering historical figures (Bodin, Weyer, Kramer, etc.): these follow the same schema as modern scholars but with `academic_discipline` reflecting their early modern field (Law, Theology, Medicine) and `database_engagement` rather than a personalized engagement field. The `scholarly_sources` array should reference the modern scholarly texts that analyze them.

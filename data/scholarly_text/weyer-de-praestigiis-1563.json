@@ -1,0 +1,42 @@
+{
+  "id": "weyer-de-praestigiis-1563",
+  "title": "De praestigiis daemonum et incantationibus ac veneficiis (On the Illusions of Demons and on Incantations and Poisons)",
+  "author": "Johann Weyer",
+  "author_slug": "weyer-johann-b1516",
+  "year_published": 1563,
+  "original_year": 1563,
+  "publisher": "Johannes Oporinus, Basel (first edition; revised and expanded 1564, 1566, 1568, 1577, 1583)",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "Medical-legal critique of witch prosecution: women accused of witchcraft are pathological victims of melancholy and demonic delusion, lacking criminal intent, and should receive medical rather than judicial treatment.",
+
+  "summary": "Johann Weyer's De praestigiis daemonum (1563) is the founding document of early modern witch-trial scepticism, though Stuart Clark's analysis has substantially revised understanding of its intellectual character. Weyer argued that women accused of witchcraft — whom he called lamiae — were not genuine witches making real demonic pacts but pathological victims of melancholy, a humoral disorder that made them susceptible to demonically-induced delusion. Because their confessions derived from disordered imagination rather than deliberate criminal choice, they lacked the rational intent required for criminal culpability and should be treated medically. Crucially, Weyer maintained a fully traditional demonology: he accepted that demons existed, that they actively deceived human beings, and that male magicians (magi infames) could and did form genuine demonic pacts. His argument was thus strictly legal and medical rather than demonological or ontological. The work went through five Latin editions and was translated into French, German, and Dutch, attracting hostile responses from Thomas Erastus and Jean Bodin.",
+
+  "scholarly_significance": "Clark's chapter 'Believers and Sceptics' (Thinking with Demons, pp. 240–261) provides the most important modern analysis, demonstrating that De praestigiis is often misread as proto-rationalist when it was in fact deeply embedded in traditional demonological assumptions. The work's key innovation was the insanity defence: introducing medical pathology as a disqualification from criminal culpability. This legal-medical argument was genuinely novel within demonological discourse even if the underlying demonology was conventional. The work's internal contradiction — accepting demonic pacts for male magicians while denying them for female witches — was identified by Bodin as circular and ultimately proved Weyer's undoing in the late sixteenth-century debate. In the database, De praestigiis is the primary source for the witch-trial-skepticism concept entry's analysis of demonological scepticism, and the weyer-johann-b1516 scholar entry documents Weyer's intellectual context and reception.",
+
+  "key_arguments": [
+    {
+      "concept": "The lamiae/magi distinction",
+      "claim": "Weyer distinguished lamiae (old women whose witchcraft confessions are entirely delusional, caused by melancholy) from magi infames (male sorcerers who form genuine demonic pacts and deserve prosecution). This gendered distinction, based on women's presumed weaker rational capacity and greater susceptibility to humoral disorder, was the foundation of Weyer's legal argument."
+    },
+    {
+      "concept": "Extended scope of demonic delusion",
+      "claim": "Orthodox demonology already allowed that some witchcraft confessions might be delusional. Weyer's innovation was to extend this allowance to cover all women's confessions — a quantitative rather than qualitative departure from orthodox theory, which made his position easier for opponents to absorb by conceding some deluded women while maintaining the category of genuine witch."
+    },
+    {
+      "concept": "Medical treatment over judicial execution",
+      "claim": "Since lamiae are pathological rather than criminal, they require spiritual and medical care rather than judicial execution. Weyer argued that executing the mentally ill was both unjust and theologically improper, since it punished persons incapable of the deliberate apostasy that made witchcraft a capital offence."
+    }
+  ],
+
+  "relation_to_database": "De praestigiis is cited in the witch-trial-skepticism and female-susceptibility-theory concept entries. The weyer-johann-b1516 scholar entry covers Weyer's intellectual biography. De praestigiis is the primary text that Bodin's Démonomanie was written to refute, making it a reference point for bodin-demonomanie-1580.",
+
+  "scholarly_disagreement": "The central debate about De praestigiis concerns how to characterize its significance. Christopher Baxter argued for proto-rationalism; Clark definitively rebutted this by showing Weyer's demonology was conventional. H. C. Erik Midelfort argued that De praestigiis had genuine influence on German Protestant intellectuals even if theoretically absorbed; the question of whether ideas can be effective even when formally refuted is unresolved. Feminist historians (Ehrenreich and English) located Weyer as a defender of women healers; Clark and Hutton show his defence was condescending and gender-pathologizing.",
+  "source_method": "Published primary source; first edition Johannes Oporinus, Basel 1563; final revised edition Basel 1583",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

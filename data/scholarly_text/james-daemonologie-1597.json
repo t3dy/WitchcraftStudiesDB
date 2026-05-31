@@ -1,0 +1,42 @@
+{
+  "id": "james-daemonologie-1597",
+  "title": "Daemonologie, in Forme of a Dialogue",
+  "author": "James VI of Scotland (later James I of England)",
+  "author_slug": null,
+  "year_published": 1597,
+  "original_year": 1597,
+  "publisher": "Robert Waldegrave, Edinburgh",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "Royal demonological treatise written as a refutation of Reginald Scot and Johann Weyer, drawing on James VI's personal experience of the North Berwick trials (1590–1592) and the continental demonological tradition represented by Bodin.",
+
+  "summary": "James VI of Scotland's Daemonologie (1597) is the most politically significant early modern demonological text in the British Isles: written by a reigning monarch as a systematic refutation of witchcraft scepticism, it directly named Reginald Scot and Johann Weyer as dangerous apologists for the Devil. The work is structured as a Socratic dialogue in three books covering the various forms of demonic magic (necromancy, witchcraft, and spirit possession/haunting), arguing that all represent real demonic operations requiring royal prosecution. James drew directly on his personal experience of the North Berwick trials (1590–1592), during which he personally interrogated accused persons including Agnes Sampson and became convinced that witches had conspired against his life. The Daemonologie draws on Bodin's political demonology for its framework of royal obligation. On James's accession to the English throne (1603), he reportedly ordered Scot's Discoverie burned, making the Daemonologie a direct instrument of English witchcraft policy.",
+
+  "scholarly_significance": "The Daemonologie is significant in the database on multiple levels. First, it is the primary source for understanding the intellectual context of the North Berwick trials: James's personal engagement with witchcraft prosecution, his reading of continental demonological literature, and his deployment of the sabbath stereotype are all documented in the Daemonologie. Second, it represents the most politically elevated instance of what Clark calls 'thinking with demons': a reigning monarch systematically integrating witchcraft prosecution into political theology. Third, it directly refuted Weyer and Scot by name, determining the terms of English witchcraft debate in the early seventeenth century — when James ordered spectral evidence used at Salem level trials, he was drawing on a theological framework the Daemonologie elaborated. Stuart Clark cites the Daemonologie throughout Thinking with Demons as an example of royal participation in the broader intellectual culture of demonological debate.",
+
+  "key_arguments": [
+    {
+      "concept": "Royal obligation to prosecute witchcraft",
+      "claim": "Following Bodin's political demonology, James argued that the monarch's divine commission required aggressive prosecution of witchcraft. The witch conspiracy against his life in the North Berwick case was simultaneously a treasonous act against the crown and a theological rebellion against divine order."
+    },
+    {
+      "concept": "Refutation of Weyer and Scot",
+      "claim": "James named Weyer and Scot as dangerous apologists enabling demonic activity through legal and ontological scepticism. His refutation drew on the standard demonological arguments (demons are corporeal and capable of physical action; women's confessions reflect genuine demonic experience, not pathology) to dismiss both Weyer's medical argument and Scot's incorporeality thesis."
+    },
+    {
+      "concept": "Gradations of demonic art",
+      "claim": "The Daemonologie distinguishes between necromancy (learned ceremonial magic), witchcraft (popular demonic alliance), and spirit encounters (haunting and possession), arguing that all represent real demonic operations but in different forms and with different social implications."
+    }
+  ],
+
+  "relation_to_database": "The Daemonologie is the primary intellectual context for the north-berwick-1590-trials trial event entry. It is cited in the witch-trial-skepticism concept entry as the royal refutation of Weyer and Scot that defined early seventeenth-century English witchcraft policy. The daemonologie-published-1597 timeline entry documents its publication. James VI appears in the demonological_scholar entries as a background figure in the context of multiple scholarly analyses.",
+
+  "scholarly_disagreement": "The primary debate about the Daemonologie concerns the relationship between James VI's personal witch-panic in 1590–1592 and his later, more sceptical attitudes as James I of England. Christina Larner, Lawrence Normand, and Gareth Roberts have all addressed whether the Daemonologie represents James's genuine theological convictions or a politically motivated response to the North Berwick crisis. James's later interventions in English witchcraft cases, where he sometimes sided with sceptics, suggest a more ambivalent position than the Daemonologie implies.",
+  "source_method": "Published primary source: Robert Waldegrave, Edinburgh 1597; modern edition: James I, Daemonologie (ed. G. B. Harrison, John Lane/Bodley Head, 1924)",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

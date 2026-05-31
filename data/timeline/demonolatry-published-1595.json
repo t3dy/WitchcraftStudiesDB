@@ -1,0 +1,24 @@
+{
+  "id": "demonolatry-published-1595",
+  "event_name": "Rémy publishes Demonolatreiae libri tres",
+  "event_type": "primary_source_publication",
+  "date": "1595",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Lyons, France",
+  "location_slug": null,
+  "significance": "Nicolas Rémy, procureur général of Lorraine, published Demonolatreiae libri tres (Demonolatry), presenting the most detailed systematic account of sabbat practices in French vernacular demonological literature, drawn from over 800 trial confessions from Lorraine prosecutions. Clark uses the Demonolatry extensively for the systematic documentation of inversionary sabbat practices. The work represents the French magistrate-demonologist tradition alongside Boguet and de Lancre.",
+  "related_entities": [
+    "remy-nicolas-b1530",
+    "witches-sabbath-collective",
+    "inversion-principle"
+  ],
+  "source_method": "Published primary source: Vincent Appon, Lyons 1595",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

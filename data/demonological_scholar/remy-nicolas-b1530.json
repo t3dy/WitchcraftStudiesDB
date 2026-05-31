@@ -1,0 +1,94 @@
+{
+  "id": "remy-nicolas-b1530",
+  "name": "Nicolas Rémy (Remigio, Remigius)",
+  "birth_year": 1530,
+  "death_year": 1612,
+  "birth_place": "Charmes, Lorraine",
+  "academic_discipline": "Law; Jurisprudence; Demonology",
+  "primary_institution": "Procureur général (attorney general) of the Duchy of Lorraine, 1591–1606",
+  "specialization": "Systematic demonological jurisprudence; documentation of sabbat practices; prosecution of witchcraft under Roman-Canon procedure",
+
+  "major_works": [
+    {
+      "title": "Demonolatreiae libri tres (Demonolatry, in three books)",
+      "year": 1595,
+      "publisher": "Vincent Appon, Lyons",
+      "significance": "One of the major French demonological compendia; presents systematic account of demonic practices drawn from over 800 trial confessions; particularly detailed on sabbat rituals, demonic intercourse, and demonic pact forms",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "WITCH-TRIAL ADVOCATE / DEMONOLOGICAL SYSTEMATIZER",
+
+  "core_argument": "Rémy's Demonolatry presented witchcraft doctrine as a system constructed from trial evidence rather than purely theological deduction. As the principal prosecutor of Lorraine, Rémy claimed to have sentenced more than 800 witches to death over fifteen years, and the Demonolatry derived its authority from this prosecutorial experience. The work systematized sabbat description — providing detailed accounts of demonic assembly, inverted ritual, sexual intercourse with demons, and maleficium — drawn from confession records. Rémy emphasized the inversionary structure of the sabbat: everything performed at witches' assemblies was a deliberate perversion of Christian ritual, with demons approached from behind, prayers recited backwards, and the devil honored with the osculum infame. This detailed documentation of inversion made the Demonolatry a major source for Clark's analysis of witchcraft as systematic cultural inversion. Rémy wrote within a humanist classical tradition: the Demonolatry is structured as a classical historical survey with citation of ancient authorities alongside contemporary confession materials, giving it intellectual prestige beyond pure prosecutorial record-keeping.",
+
+  "methodological_approach": {
+    "primary_materials": "Trial confession records from Lorraine witch prosecutions 1576–1591; classical sources (Virgil, Ovid, ancient historians) for comparative framework; biblical proof-texts",
+    "analysis_target": "Systematic documentation and theological interpretation of confessed witchcraft practices; the phenomenology of demonic interaction",
+    "evidence_type": "Trial confessions treated as evidential; classical parallel citations; legal analysis of demonic crime categories",
+    "explanatory_level": "Jurisprudential and descriptive; the Demonolatry documents what witches did and provides legal framework for prosecution, rather than primarily philosophical justification"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Documentation of inversionary sabbat practices",
+      "claim": "The sabbat was systematically inversionary: witches approached the devil backwards, danced backwards, recited the Pater Noster and Creed in reverse, offered the osculum infame from behind, and performed an inverted Black Mass. Rémy provided the most detailed documentation of these practices from French-language trial records.",
+      "implication": "Clark cites the Demonolatry extensively in his chapter on 'Festivals and Sabbats' as the primary French source for the inversionary character of sabbat description. Rémy's systematic documentation gave the inversion thesis its empirical texture."
+    },
+    {
+      "concept": "Demons' perfect knowledge of nature's secrets",
+      "claim": "Demons possessed 'perfect knowledge of secret and hidden properties of natural things' — all occult virtues, sympathies, and antipathies that human natural philosophers were still struggling to understand. This made demonic magic not supernatural in the sense of being outside nature, but as natural as the most advanced natural philosophy, with the difference that devils had complete rather than partial knowledge.",
+      "implication": "Clark uses Rémy's articulation to show how demonic magic was integrated into natural philosophy: the devil was a supremely gifted natural magician, not an alien supernatural entity."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "confession_records": "Rémy's access to Lorraine trial records was unparalleled among contemporary writers. The Demonolatry's authority rested on its claim to derive doctrine from experience rather than purely from theological tradition, giving it epistemic status as documentary evidence alongside theological argument.",
+    "classical_citations": "The Demonolatry's humanist framing — drawing on Virgil, Ovid, Pliny, and Greek historians for precedents and parallels — positioned demonology within the classical learning tradition, enhancing its prestige among the educated magistracy who were its primary audience.",
+    "inquisitorial_tradition": "Rémy worked within the Roman-Canon procedural tradition rather than strictly inquisitorial procedure, and Lorraine's witchcraft prosecution records (partially preserved) confirm the scale of executions he claimed."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Henri Boguet (fellow French magistrate-demonologist of the same generation; Boguet's Discours des sorciers 1602 from Burgundy provides parallel documentation to Rémy's Lorraine materials)",
+      "Pierre de Lancre (Tableau de l'inconstance 1612 from the Basque country provides the third major French magistrate's demonological account of the same period)",
+      "Jean Bodin (Rémy operated within the same legal-demonological tradition of justifying prosecution through systematic doctrine)"
+    ],
+    "creative_tension_with": [
+      "Johann Weyer and Friedrich Spee (Rémy represents the prosecutorial position that Weyer attacked and Spee later critiqued from the reforming direction)",
+      "Modern social historians (Levack's comparative statistics allow assessment of Rémy's claimed 800+ executions against broader Lorraine prosecution patterns; Robin Briggs's archival work on Lorraine substantially confirms Rémy's documented scale while adding social-historical context)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Demonolatry went through multiple editions and was translated into English in the twentieth century. Robin Briggs's archival study of Lorraine witchcraft (Witches and Neighbours, 1996) provides the most systematic historical assessment of Rémy's prosecution record: Briggs confirms the scale of persecution while substantially qualifying Rémy's self-serving statistics and demonstrating that the prosecutorial picture was more locally driven than the Demonolatry suggests.",
+    "criticisms": [
+      "Rémy's claimed 800+ executions cannot be independently verified in extant records; Briggs's archival work suggests the actual number, while substantial, was likely lower than Rémy claimed",
+      "The Demonolatry's humanist classical framing, while giving it literary prestige, also obscures the procedural realities of the trials it documented",
+      "Rémy represents the nexus between systematic demonology and actual mass prosecution that Clark identifies as requiring serious intellectual analysis; dismissing it as mere cruelty misses the coherent legal-theological framework within which Rémy operated"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Rémy is cited in Clark's analysis of sabbat inversion (Festivals and Sabbats chapter) and natural-demonic magic distinction (Demonic Magic chapter). The witches-sabbath-collective demonological_concept entry uses the Demonolatry as a primary source for sabbat description. The inversion-principle concept entry also draws on Rémy.",
+    "analytical_weight": "Rémy illustrates the intersection between judicial practice and demonological theory: the Demonolatry is simultaneously a prosecutorial record and a systematic theological-legal argument, making it central to Clark's thesis that early modern witch prosecution was conducted by serious, systematically thinking practitioners."
+  },
+
+  "historiographical_significance": "Rémy's Demonolatry occupies an important place in the history of early modern demonological literature as the primary French vernacular synthesis derived from prosecutorial experience rather than academic theology. It represents the south-Lorraine and Burgundian school of magistrate-demonologists (Rémy, Boguet, de Lancre) who combined judicial practice with systematic demonological writing in the late sixteenth and early seventeenth centuries. For Clark, Rémy's systematic inversion descriptions are important evidence that the sabbat was understood as organized cultural inversion rather than merely random transgression. For Ginzburg, Rémy's trial records represent the inquisitorial framework that shaped the confessions that went into the Demonolatry: what Rémy presents as direct evidence of demonic practice, Ginzburg's method would reread as evidence of interrogation procedures and pre-existing cultural templates. The contrast between these two readings illustrates the fundamental methodological division in witchcraft historiography.",
+
+  "scholarly_disagreement": "The primary debate about Rémy concerns the gap between his self-documentation and the archival record. Robin Briggs's Witches and Neighbours (1996) provides the most thorough archival reassessment of Lorraine witchcraft, finding that prosecutions were more locally varied, community-driven, and less centrally coordinated than Rémy's systematic account implies. Briggs also argues against Ginzburg's shamanic-continuity thesis for interpreting Lorraine confession patterns, preferring a community-accusation model.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "briggs-robin-b1945"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), pp. 24–46, 262–305; Robin Briggs, Witches and Neighbours (1996); primary source: Demonolatreiae libri tres (Lyons 1595)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "cautio-criminalis-published-1631",
+  "event_name": "Spee publishes Cautio criminalis",
+  "event_type": "primary_source_publication",
+  "date": "1631",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Rinteln, Holy Roman Empire (Protestant territory, published anonymously)",
+  "location_slug": null,
+  "significance": "Friedrich Spee published the Cautio criminalis anonymously in Protestant Rinteln — deliberately outside Catholic censorship — providing the most systematic procedural critique of German witch trials. The fifty-one quaestiones demonstrated that torture made innocent confession inevitable and that no existing judicial process could reliably identify genuine witches. Archbishop Schönborn of Mainz later credited the Cautio with directly informing his policy of ending witch prosecution. The work is widely considered the most practically consequential text in ending mass persecution.",
+  "related_entities": [
+    "spee-friedrich-b1591",
+    "spee-cautio-criminalis-1631",
+    "witch-trial-skepticism",
+    "bamberg-1626-mass-prosecution"
+  ],
+  "source_method": "Published primary source; Petrus Lucius, Rinteln 1631; modern translation: Marcus Hellyer (University of Virginia Press, 2003)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-brian-b1943"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

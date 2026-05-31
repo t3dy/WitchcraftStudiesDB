@@ -1,0 +1,116 @@
+{
+  "id": "bodin-jean-b1530",
+  "name": "Jean Bodin",
+  "birth_year": 1530,
+  "death_year": 1596,
+  "birth_place": "Angers, France",
+  "academic_discipline": "Law; Political Philosophy; Demonology",
+  "primary_institution": "Parlement of Paris; later procureur du roi at Laon",
+  "specialization": "Theory of sovereign power; integration of witchcraft doctrine into absolutist political philosophy; Pentateuchal law as framework for prosecution",
+
+  "major_works": [
+    {
+      "title": "Les Six Livres de la République",
+      "year": 1576,
+      "publisher": "Jacques du Puys, Paris",
+      "significance": "Foundational work of early modern political theory; develops the concept of sovereignty as absolute, undivided, and derived from divine authorization; the concordia discors cosmological principle that also underlies the Démonomanie",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "De la démonomanie des sorciers",
+      "year": 1580,
+      "publisher": "Jacques du Puys, Paris",
+      "significance": "The most systematic early modern political demonology; argues that the magistrate's sovereign duty to enforce divine law requires aggressive prosecution of witchcraft; contains a point-by-point refutation of Johann Weyer",
+      "pages": null,
+      "database_entry": "bodin-demonomanie-1580"
+    },
+    {
+      "title": "Colloquium Heptaplomeres de rerum sublimium arcanis abditis",
+      "year": null,
+      "publisher": "Manuscript, unpublished in Bodin's lifetime; first printed 1857",
+      "significance": "Dialogue between seven representatives of different religions; suggests Bodin's private theological views were more syncretic and tolerant than his public works indicated; implications for understanding his demonological rigorism remain debated",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "POLITICAL DEMONOLOGIST / WITCH-TRIAL ADVOCATE",
+
+  "core_argument": "Bodin's demonological position cannot be separated from his political philosophy. The central principle of both the République and the Démonomanie is concordia discors — the Neoplatonic concept that the universe achieves harmony through the ordered tension of opposites. For Bodin, witches and demons were necessary components of the moral universe, their evil providing the contrast through which virtue became intelligible. The magistrate's duty to prosecute witchcraft was therefore not merely a juridical obligation but a cosmological one: the sovereign who failed to enforce divine law against witchcraft disrupted the harmonic order on which legitimate government depended. Bodin's seven rationales for witchcraft punishment (appeasing divine anger, deterring malefactors, preventing infection, diminishing evil, ensuring security, rewarding virtue, punishing crime) each derived from Old Testament Pentateuchal law, making the Démonomanie simultaneously a work of demonology, political theory, and Hebraic jurisprudence. His point-by-point refutation of Weyer, appended to the 1580 edition, attacked Weyer's lamia/magus distinction as arbitrary and accused him of enabling Devil-worship through legal leniency.",
+
+  "methodological_approach": {
+    "primary_materials": "Political philosophy treatises; biblical texts (particularly Mosaic law); classical and Renaissance natural philosophy; contemporary demonological literature; trial records as illustration",
+    "analysis_target": "The integration of witchcraft doctrine into a comprehensive theory of sovereignty, divine order, and magistrate's obligation",
+    "evidence_type": "Analogical reasoning from cosmological to political principles; biblical proof-texts; Pentateuchal jurisprudence",
+    "explanatory_level": "Cosmological and political; witchcraft as a function of universal harmonic order requiring judicial regulation"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Political demonology: sovereignty requires witchcraft enforcement",
+      "claim": "The magistrate embodies divine norms; failure to prosecute witchcraft constitutes a violation of sovereignty itself. Bodin drew an analogy between the magistrate's inviolability to witchcraft and the sovereign's essential attributes of indivisibility and voluntarism. A commonwealth that tolerated witchcraft lacked authentic sovereignty.",
+      "implication": "Witch prosecution was not merely permitted but constitutionally obligatory. Bodin's argument made toleration of witchcraft a political as well as theological failure — a charge that could be leveled against any ruler who accepted Weyer's arguments."
+    },
+    {
+      "concept": "Concordia discors as the cosmological foundation of persecution",
+      "claim": "The universe achieves order through the harmonious tension of opposites. Witches and demons occupy necessary positions in the chain of being between God and humanity; their presence and punishment serve the providential function of clarifying virtue through opposition. Bodin placed this principle at the structural center of both the République and the Démonomanie.",
+      "implication": "Clark identifies concordia discors as the most explicit instance of what he calls 'thinking with demons': witchcraft was not incidental to early modern political philosophy but structurally integrated into its cosmological foundations."
+    },
+    {
+      "concept": "Witchcraft as nine-fold apostasy beyond natural law",
+      "claim": "The demonic pact constituted nine distinct offences against God through apostasy alone, independent of any physical maleficium. Witchcraft operated in 'supernature' — the metaphysical sphere beyond natural law — and therefore required faith rather than empirical evidence as its epistemic foundation. This placement in supernature resolved the epistemological problem of demonological evidence.",
+      "implication": "Bodin's supernature argument was at once the boldest and most vulnerable part of his position: it placed witchcraft beyond ordinary evidentiary standards but simultaneously made it unfalsifiable, which later empiricist critics like Reginald Scot would attack."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "weyer_refutation": "Bodin's Réfutation des opinions de Jean Wier, appended to the 1580 Démonomanie, was the most systematic attack on Weyer's position and proved historically influential: by attacking Weyer's lamia/magus distinction as arbitrary and identifying Weyer as an enabler of the Devil's work, Bodin effectively shut down the medical-sceptical line of argument for a generation.",
+    "old_testament": "The Démonomanie derives its seven prosecution rationales from Mosaic law (Numbers 25, Deuteronomy 13, 15, 19), making Bodin's demonology explicitly a Hebraic jurisprudence applied to France's confessional crisis of the 1570s–1580s.",
+    "trial_evidence": "Bodin cited the case of Jeanne Hervillier — a condemned witch who noted that once in the hands of justice, the devil had no power over her — as evidence of the magistrate's divine protection from witchcraft, integrating trial testimony directly into political theology."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Pierre Grégoire (jurist who gave the most complete divine-right theory among Bodin's followers, integrating demonology into political absolutism)",
+      "Lambert Daneau (Calvinist theologian and witchcraft writer who balanced demonology with Christian political thought)",
+      "Benedict Carpzov (17th-century jurist who combined Bodinian demonological traditionalism with absolutist legal theory)"
+    ],
+    "creative_tension_with": [
+      "Johann Weyer (Bodin's primary polemical target; the Démonomanie's appendix refutes De praestigiis point by point)",
+      "Reginald Scot (Scot and Weyer together are what James VI of Scotland wrote Daemonologie to refute, suggesting Bodin's influence in establishing the terms of debate)",
+      "Stuart Clark (Clark is Bodin's most sympathetic modern reader: he takes the political-cosmological framework seriously as intellectual history rather than rationalizing prosecution as cynicism, but notes that Bodin's placement of witchcraft in 'supernature' made his system unfalsifiable and thus intellectually brittle)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Démonomanie went through at least ten editions in French, Latin, German, and Italian between 1580 and 1604, making it the most widely read witchcraft treatise of the late sixteenth century after the Malleus. James VI cited it as a primary source for Daemonologie (1597). Its political-demonological framework influenced the Bavarian witch trials of the 1590s and shaped the prosecutorial ideology of numerous continental magistrates.",
+    "criticisms": [
+      "Martin Biermann (Helmstedt professor) attacked Bodin's unbounded credulity in a series of theses, arguing that Bodin had removed witchcraft from the sphere of ordinary knowledge altogether",
+      "Jean de Nynauld challenged Bodin's lycanthropy arguments, pointing to natural explanations for werewolf reports",
+      "Stuart Clark acknowledges that Bodin's placement of witchcraft in 'supernature' was the Achilles heel of his system: it made prosecution theologically mandated but epistemologically ungrounded, leaving the framework vulnerable once empiricist standards of evidence became dominant in the later seventeenth century",
+      "Reginald Scot's Discoverie of Witchcraft (1584) was partly written as a direct response to Bodin's credulity, making the two works the poles of the late sixteenth-century English debate"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Bodin appears as a named authority in the demonic-pact-early-modern and female-susceptibility-theory entries. The bodin-demonomanie-1580 scholarly_text entry covers the Démonomanie as primary source. Bodin's concordia discors framework is the intellectual context for the inversion-principle demonological_concept entry.",
+    "analytical_weight": "Bodin is Clark's primary example of what 'political demonology' means: the integration of witchcraft doctrine into a comprehensive political philosophy. The database uses this to illustrate Clark's principle that demonological theory was serious intellectual work, not superstition — Bodin applied the same cosmological framework to sovereignty theory and to witch prosecution because both were expressions of the same vision of harmonic order."
+  },
+
+  "historiographical_significance": "Bodin presents the historiographical challenge of a thinker who was simultaneously one of the founders of modern political theory and one of the most ferocious advocates of witch prosecution. Nineteenth and early twentieth-century scholarship handled this by treating the Démonomanie as an aberration — a late medieval survival in an otherwise modern mind. Stuart Clark's analysis dissolves this bifurcation definitively: the République and the Démonomanie are not contradictory but parts of the same intellectual system, both deriving from the concordia discors principle that organized Bodin's entire cosmological and political vision. Witches were necessary in Bodin's world because the universe required evil for virtue to have contrast; magistrates were obligated to prosecute them because sovereignty's divine authorization demanded enforcement of divine law. The demonstration that Bodin's demonology was integral rather than aberrant is one of Clark's most important contributions to intellectual history, and Bodin remains the clearest case study for Clark's central thesis that witch prosecution was practiced by serious, systematically thinking men.",
+
+  "scholarly_disagreement": "Scholars disagree about the relationship between the political and demonological dimensions of Bodin's work. P. L. Rose argued for 'taking Bodin whole' on the basis of the religious character of his thought. W. H. Greenleaf emphasized the concordia discors as 'a presupposition of all Bodin's thought.' Some political theorists have argued that the demonological work is incidental to Bodin's political legacy and should not be allowed to disqualify him as a theorist of sovereignty. Clark explicitly rejects this compartmentalization, arguing that the structural parallel between the République and the Démonomanie demonstrates their conceptual unity.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), pp. 789–807 (Chapter: Bodin's Political Demonology); primary sources: De la démonomanie des sorciers (Paris 1580), Les Six Livres de la République (Paris 1576)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

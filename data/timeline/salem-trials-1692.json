@@ -1,0 +1,31 @@
+{
+  "id": "salem-trials-1692",
+  "event_name": "Salem witch trials begin",
+  "event_type": "trial_event",
+  "date": "1692",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Salem Village (now Danvers), Massachusetts Bay Colony",
+  "location_slug": "salem",
+  "significance": "The Salem witch trials (1692) resulted in 20 executions (19 hanged, 1 pressed to death) and approximately 200 accusations, representing the most intense witchcraft prosecution in colonial American history. The trials began with affliction claims by young women in Salem Village, were institutionalized by the Court of Oyer and Terminer established by Governor Phips, and ended when spectral evidence was disallowed following Increase Mather's Cases of Conscience (October 1692). The trials generated three major historiographical debates: Boyer and Nissenbaum's community-conflict model, Karlsen's inheritance-anomaly thesis, and Norton's frontier-war context.",
+  "related_entities": [
+    "salem-1692-trials",
+    "salem",
+    "court-of-oyer-and-terminer-salem",
+    "bridget-bishop-salem-1692",
+    "giles-corey-salem-1692",
+    "rebecca-nurse-salem-1692",
+    "sarah-good-salem-1692",
+    "boyer-paul-nissenbaum-stephen",
+    "karlsen-carol-f-b1940"
+  ],
+  "source_method": "Primary sources: Salem Witchcraft Papers (ed. Boyer and Nissenbaum, 1977); trial records at Massachusetts Archives",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-brian-b1943"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}
