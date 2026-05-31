@@ -1,0 +1,47 @@
+{
+  "id": "daneau-dialogue-witches-1574",
+  "title": "Les Sorciers: Dialogue très utile (A Dialogue of Witches)",
+  "author": "Lambert Daneau",
+  "author_slug": "daneau-lambert-b1530",
+  "year_published": 1574,
+  "original_year": 1574,
+  "publisher": "Geneva (French 1574; Latin: De veneficiis, 1575; English translation: A Dialogue of Witches, London, 1575)",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "The first systematic Reformed Protestant demonology; a dialogue form argument that witchcraft is real and requires prosecution, grounded in Calvinist providential theology and the doctrine of secondary causation.",
+
+  "summary": "Lambert Daneau's Les Sorciers (Geneva, 1574) — published in Latin the following year as De veneficiis and translated into English in 1575 as A Dialogue of Witches — was the first systematic Reformed Protestant demonological treatise and the foundational text for the English Protestant witch-prosecution tradition. Written in dialogue form between Theophilus (questioner) and Anthony (theological authority), the work argued that witchcraft was real, that witches deserved death, and that prosecution was a Christian magistrate's duty — but on explicitly Calvinist rather than Catholic theological grounds. Daneau's distinctive framework grounded demonological analysis in the Reformed doctrine of providence: the devil operated through secondary natural causes under God's permissive will, making demonic action both real and theologically explicable within Calvinist natural philosophy. The 1575 English translation was the first systematic Protestant witch treatise available in English and directly influenced George Gifford, William Perkins, and the English Reformed demonological tradition.",
+
+  "scholarly_significance": "The Dialogue of Witches is the primary source for Daneau's significance in the history of Protestant witch prosecution. Stuart Clark uses it extensively in Thinking with Demons to demonstrate three connected points: (1) that the Reformed Protestant tradition produced sophisticated, internally coherent demonology on its own theological foundations, not merely transmitted the Catholic synthesis; (2) that the Calvinist framework (secondary causation; providential governance; covenant theology) generated different theological architecture from the Catholic Thomistic framework while reaching the same prosecutorial conclusions; and (3) that the transmission of Daneau's framework through the 1575 English translation made him foundational for the entire English Reformed witch-prosecution tradition from Gifford through Perkins to Cooper. The Dialogue is also a direct response to Johann Weyer's De Praestigiis Daemonum (1563): Daneau explicitly refuted Weyer's medical explanation for female witch claims and defended the reality of demonic alliance against Weyer's pathological interpretation. As the first systematic Protestant contribution to the witch-prosecution literature, the Dialogue established that prosecution was not a specifically Catholic commitment but crossed confessional boundaries within a shared framework of secondary causation and providential governance.",
+
+  "key_arguments": [
+    {
+      "concept": "Demonic action through secondary natural causes within providential governance",
+      "claim": "The devil operates through secondary natural causes under God's permissive will — he cannot act except within divinely established limits, but within those limits his action is both real and physically effective. This providential framing distinguished Daneau's Reformed demonology from Catholic demonology: where Catholic writers situated witch power within sacramental and ritual inversion, Daneau situated it within God's sovereign permission for demonic activity as test and punishment for sinful communities."
+    },
+    {
+      "concept": "Cunning folk as the most dangerous category (implicit demonic pact)",
+      "claim": "Persons who used magic for apparently beneficent purposes — healing, divination, recovery of stolen goods — operated through an implicit demonic pact. They were not merely practitioners of lesser magic but witches whose pact was concealed from their clients under the guise of help. The cunning folk were more dangerous than harm-causing witches because they seduced ordinary people into demonic complicity under the guise of beneficence."
+    },
+    {
+      "concept": "Protestant magistrate's duty to prosecute",
+      "claim": "The Christian magistrate had an absolute duty to prosecute witches — not (as in Catholic framings) to defend sacramental order against inversion, but because witchcraft was an offense against God's covenant and a corruption of the Christian community. The Protestant state bore responsibility for the spiritual health of its subjects; tolerating witchcraft was a failure of godly governance."
+    },
+    {
+      "concept": "Refutation of Weyer's medical skepticism",
+      "claim": "Daneau directly refuted Weyer's argument that confessing witches were elderly, deluded women suffering from melancholy rather than genuine diabolists. Against Weyer, Daneau argued that the consistency and specificity of witch confessions exceeded what medical pathology could produce, that the demonic pact was theologically real, and that Weyer's medical explanation amounted to denying Providence's judicial use of the devil."
+    }
+  ],
+
+  "relation_to_database": "The Dialogue of Witches is the primary source for the daneau-lambert-b1530 scholar entry and is the foundational text for the perkins-william-b1558 entry's English Reformed tradition. It is relevant to the demonic-pact-early-modern concept entry's discussion of the Reformed Protestant variant of pact theology, and to the maleficium-harmful-magic concept entry's discussion of how Reformed theology expanded the prosecutorial category from harm to covenant-breach.",
+
+  "scholarly_disagreement": "The primary debate about the Dialogue concerns how distinctive Daneau's Reformed Protestant demonology was from the Catholic tradition. Clark argues for substantial structural difference (providential vs. sacramental architecture) within a shared secondary-causation framework. Others have argued that the differences were primarily rhetorical — that Daneau's prosecution conclusions were identical to Catholic demonology's conclusions and that the theological differences were less significant than the shared institutional outcome. The question of whether the 1575 English translation's influence on Gifford and Perkins was specifically Calvinist (through providential theology) or simply transmitted the Continental prosecutorial consensus in a Reformed idiom remains debated.",
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), multiple chapters on Protestant demonology; primary source: Lambert Daneau, Les Sorciers: Dialogue très utile (Geneva, 1574); A Dialogue of Witches (London, 1575, English translation)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

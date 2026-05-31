@@ -1,0 +1,53 @@
+{
+  "id": "milan-trials-oriente-1390",
+  "event_name": "Milan Trials — Society of Lady Oriente (1384 and 1390)",
+  "event_type": "trial",
+  "date_start": "1384",
+  "date_end": "1390",
+  "date_precision": "year",
+  "locale": "Milan, Duchy of Milan (northern Italy)",
+
+  "summary": "The Milan trials of 1384 and 1390 are the most fully documented transitional cases between the Canon Episcopi's pastoral-tolerance framework and the prosecutorial-heresy framework that generated mass witch trials from the 1420s onward. Two women — Sibilla (tried 1384) and Pierina (tried 1384 and 1390) — claimed membership in the 'society of Lady Oriente,' a supernatural assembly that met on Thursdays to feast on animals (who were then restored to life from their bones), and whose members received instruction in divination, healing, and the recovery of stolen goods. In 1384, the inquisitor treated both women's claims as Canon Episcopi delusion and imposed mild penances. In 1390, Sibilla maintained her beliefs despite the correction and was burned as a relapsed heretic. The 1390 trial marks the moment when the Canon Episcopi pastoral-tolerance framework was replaced by the prosecutorial-heresy framework for this type of claim — the key transition Carlo Ginzburg analyzed in Ecstasies (1991).",
+
+  "the_society_of_oriente": {
+    "description": "Lady Oriente (also called 'Madona Horiente') was a supernatural figure who presided over a society of followers meeting on Thursday nights. The society feasted on animals — cattle, horses — whose flesh was consumed but whose bones were preserved; Oriente then restored the animals to life from the assembled bones. Members received healing knowledge from Oriente: they could identify thieves, diagnose diseases, and recommend remedies. The society's activities were entirely beneficent: it was a healing and protective organization, not a malefic one.",
+    "pierina_testimony": "Pierina, a woman from the Brianza region near Milan, testified that she had joined the society of Oriente since childhood and attended its Thursday assemblies. She described Oriente as a beautiful woman who rewarded the faithful and instructed them in remedies. Pierina had used this knowledge to practice as a healer. Her testimony, taken in 1384, closely resembles the Canon Episcopi's description of women claiming to ride with Diana — the type of claim the Canon classified as delusion.",
+    "inquisitor_response_1384": "Inquisitor Ruggiero da Casale classified both Sibilla's and Pierina's claims as Canon Episcopi delusion — demonically induced fantasies — and imposed penances without burning. This was exactly the response the Canon Episcopi prescribed."
+  },
+
+  "transition_to_prosecution_1390": {
+    "sibilla_1390": "When Sibilla was again brought before the inquisition in 1390 and maintained her belief in Lady Oriente's society despite the 1384 correction, she was burned as a relapsed heretic. The legal logic was: she had been taught that her beliefs were false delusion; her persistence in those beliefs after correction constituted relapse; relapsed heretics were burned.",
+    "significance": "The 1390 burning did not involve proving the society was real — the inquisitor did not assert that Lady Oriente physically existed or that the nocturnal assemblies had physically occurred. The charge was persistent belief in a delusion after correction. But the practical effect was identical to prosecuting for real attendance: the woman was burned for her belief.",
+    "ginzburg_reading": "Ginzburg (Ecstasies, 1991) reads the Milan 1390 transition as the key moment when a genuine popular ecstatic tradition (the society of Oriente as a real folk cult with prehistoric roots) was first prosecuted under heresy law. The inquisitor who classified the 1384 claims as delusion was applying the Canon Episcopi's pastoral model; the prosecution of Sibilla in 1390 represented its replacement by the prosecutorial model. Hutton accepts Ginzburg's identification of the transition moment but questions whether the 'society' was a genuine ecstatic cult or a culturally conditioned dream pattern."
+  },
+
+  "significance": {
+    "canon_episcopi_transition": "The Milan cases are the best-documented instance of the transition from the Canon Episcopi's five-century pastoral-tolerance model to the prosecutorial-heresy model. They demonstrate that this transition was not inevitable — the first inquisitor in 1384 applied the Canon correctly — but required specific choices by specific authorities.",
+    "folk_healing_tradition": "The society of Lady Oriente was not a malefic organization — its members were healers and diviners who received beneficial knowledge from a supernatural figure. The prosecution in 1390 was not for causing harm but for persisting in folk beliefs. This is Hutton's central example of how the new prosecutorial model expanded the prosecutorial target from harm-causation (maleficium) to the structure of the belief itself.",
+    "ginzburg_benandanti_connection": "Ginzburg connects the Oriente society to the Friulian benandanti (Friuli benandanti inquisition, 1575) as parallel cases of a beneficent folk tradition being progressively diabolized through inquisitorial interrogation. In both cases, practitioners began by claiming beneficial purposes (healing, protection against witches, feasting with the lady) and ended, after decades of inquisitorial pressure, by confessing to diabolical sabbat attendance."
+  },
+
+  "related_entities": {
+    "concepts": [
+      "canon-episcopi",
+      "followers-of-the-lady-night-ride",
+      "composite-witch-stereotype-formation",
+      "maleficium-harmful-magic"
+    ],
+    "scholarly_texts": [
+      "ginzburg-ecstasies-1991",
+      "ginzburg-night-battles-1983",
+      "hutton-the-witch-2017",
+      "ankarloo-clark-vol3-middle-ages-2002"
+    ]
+  },
+
+  "scholarly_disagreement": "The Milan trials are central to the Ginzburg/Hutton debate about the followers-of-the-lady tradition. Ginzburg reads them as evidence of a genuine ecstatic cult with prehistoric roots being progressively diabolized by inquisitorial pressure. Hutton accepts the significance of the transitional moment but questions both the shamanic interpretation and the degree to which the Milan cases represent a continuous folk tradition rather than a local phenomenon shaped by specific cultural expectations. Norman Cohn is more skeptical than both: he reads the Oriente society as a culturally determined dream pattern that the Canon Episcopi tradition had itself propagated awareness of, not evidence of a deep folk tradition.",
+
+  "source_method": "Carlo Ginzburg, Ecstasies: Deciphering the Witches' Sabbath (Italian 1989, English 1991), ch.2 (The Inquisitor's Gaze, section on Oriente); Ronald Hutton, The Witch (2017), ch.5; Norman Cohn, Europe's Inner Demons (1975/1993); primary source: trial records published in Luisa Muraro, La signora del gioco (Milan, 1976)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

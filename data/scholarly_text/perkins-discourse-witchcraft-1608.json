@@ -1,0 +1,47 @@
+{
+  "id": "perkins-discourse-witchcraft-1608",
+  "title": "A Discourse of the Damned Art of Witchcraft",
+  "author": "William Perkins (posthumous, ed. Thomas Pickering)",
+  "author_slug": "perkins-william-b1558",
+  "year_published": 1608,
+  "original_year": 1608,
+  "publisher": "Cambridge (posthumous; Perkins died 1602; edited from lecture notes by Thomas Pickering)",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "The most systematic English Reformed Protestant demonology; a covenant-centered prosecution argument distinguishing twelve types of demonic alliance and identifying the cunning folk as the most dangerous witch category.",
+
+  "summary": "A Discourse of the Damned Art of Witchcraft (Cambridge, 1608) was published posthumously from the lecture notes of William Perkins, the dominant Reformed theologian at Cambridge in the late 16th century. Edited by Thomas Pickering, the Discourse provided the English Protestant tradition with its most theoretically rigorous witch treatise. Perkins's central argument placed the demonic covenant — explicit or implicit — at the center of witch crime rather than the maleficium produced by it: the fundamental offense was the breach of the baptismal covenant with God through an alliance with the devil, making even an unproductive witch (who had covenanted but not yet harmed) fully prosecutable. Perkins provided a systematic taxonomy of twelve types of demonic alliance; argued that service magicians (healers, diviners, cunning folk) operated under an implicit pact and were the most dangerous witch category; and established the evidential standards required for prosecution. The work was the most widely read English demonology of the 17th century and the primary vehicle through which the Continental Reformed tradition (Daneau) was transmitted into English prosecutorial and pastoral practice.",
+
+  "scholarly_significance": "The Discourse of the Damned Art of Witchcraft is the primary source for understanding English Protestant demonology as an intellectually coherent tradition. Stuart Clark uses it to demonstrate that English witch prosecution was not a derivative of the Continental Catholic synthesis but an original contribution of Calvinist theology and casuistical analysis, structured around the covenant rather than sacramental inversion. The work is significant on two levels: (1) theoretically, it provides the most precise English formulation of the witch crime as covenant-breach, expanding prosecution from harm-causers to all who had made demonic alliances; (2) practically, its anti-cunning-folk argument, transmitted through Thomas Cooper's Mystery of Witch-craft (1617) and the English Puritan clerical network, shaped English witch prosecution toward the distinctive pattern Keith Thomas identified — intensive prosecution of service magicians, more intensive than Continental equivalents. The work's influence extended to New England: Increase Mather cited it and the Salem proceedings took place in an intellectual culture substantially shaped by the Perkins tradition.",
+
+  "key_arguments": [
+    {
+      "concept": "The demonic covenant as the basis of witch crime (not maleficium)",
+      "claim": "The fundamental witch crime was the explicit or implicit covenant with the devil — a breach of the baptismal covenant with God — not the harm caused by resulting maleficium. Even a witch who had contracted with the devil but had not yet harmed anyone was prosecutable, because the crime was apostasy, not tort."
+    },
+    {
+      "concept": "Twelve types of demonic alliance (systematic taxonomy)",
+      "claim": "Perkins provided a systematic casuistical taxonomy of twelve ways a person could enter into a demonic alliance, ranging from explicit written pact to the more ambiguous implicit pact of the cunning folk who used beneficial magic without explicitly invoking the devil. Each type required precise classification before the appropriate legal and pastoral response could be determined."
+    },
+    {
+      "concept": "The cunning folk as the most dangerous witch type",
+      "claim": "Service magicians who healed, divined, and recovered stolen property operated through an implicit demonic pact. They were more dangerous than harm-causing witches because they seduced ordinary people into demonic complicity under the guise of help. The cunning folk were 'the right hand of the devil' — instruments of diabolic deception concealed beneath apparent beneficence."
+    },
+    {
+      "concept": "Evidentiary standards: confession or reliable testimony to the pact required",
+      "claim": "Proper prosecution required either confession or reliable independent testimony that the accused had made a demonic alliance. The devil's mark, spectral evidence, and simple accusations of bewitchment were insufficient grounds for conviction in themselves — corroborating evidence was required."
+    }
+  ],
+
+  "relation_to_database": "The Discourse is the primary source for the perkins-william-b1558 scholar entry. It is the foundational text in the maleficium-harmful-magic concept entry's discussion of how Reformed theology shifted prosecution from harm-causation to covenant-breach. It is the precursor text for Thomas Cooper's Mystery of Witch-craft (thomas-cooper-fl1617) and is directly relevant to the demonic-pact-early-modern concept entry's discussion of the English Reformed variant of pact theology.",
+
+  "scholarly_disagreement": "The primary debate about the Discourse concerns the gap between Perkins's theoretical rigor and 17th-century English prosecution practice. Perkins's insistence on confession or reliable testimony to the pact — if taken seriously — would have precluded most Salem prosecutions. Keith Thomas (Religion and the Decline of Magic) argued that Perkins's theoretical framework was more restrictive than the prosecutorial culture that deployed his name; Stuart Clark argues that the framework genuinely shaped English prosecution by expanding the target (to the cunning folk) while raising the evidentiary bar. Whether the framework's influence on practice was primarily expansive (adding cunning folk to the prosecutorial category) or restrictive (requiring more careful evidence) remains debated.",
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), multiple chapters on English Protestant demonology; Stuart Clark, 'Witchcraft and Magic in Early Modern Culture' in Ankarloo/Clark Vol.4 (2002); Keith Thomas, Religion and the Decline of Magic (1971); primary source: William Perkins, A Discourse of the Damned Art of Witchcraft (Cambridge, 1608)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

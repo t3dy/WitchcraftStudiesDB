@@ -1,0 +1,59 @@
+{
+  "id": "alonso-de-salazar-investigation-1611",
+  "event_name": "Alonso de Salazar Frías — Basque Witch Investigation (1611–1614)",
+  "event_type": "inquisitorial_investigation",
+  "date_start": "1611",
+  "date_end": "1614",
+  "date_precision": "year",
+  "locale": "Basque country (Navarre, Guipúzcoa), northern Spain",
+
+  "summary": "From 1611 to 1614, Spanish Inquisitor Alonso de Salazar Frías conducted the most comprehensive empirical investigation of witch accusations in early modern legal history. Following the Zugarramurdi witch trials and executions of 1609–1610, which had triggered a contagion of voluntary confessions across the Basque country, Salazar traveled throughout the region, taking depositions from 1,802 self-confessing 'witches,' examining physical evidence for sabbat attendance (ointments, alleged materials), and cross-checking confession claims against independently verifiable facts. His finding, reported to the Inquisitor-General in a series of reports culminating c.1612, was unequivocal: 'I have not found even indications from which to infer that a single act of witchcraft has really occurred.' The Inquisitor-General accepted Salazar's conclusions, and the resulting 1614 Instructions of the Spanish Inquisition established procedural requirements for witch cases that effectively ended mass prosecution in Spain.",
+
+  "investigation_method": {
+    "scale": "1,802 self-confessing witches interviewed; additionally c.1,384 accused by others; total of approximately 3,186 cases examined",
+    "physical_evidence": "Salazar systematically examined the physical materials produced in sabbat contexts: ointments alleged to enable flight, materials alleged to have been brought from sabbats, physical marks on the body alleged to be the devil's mark. In each case he found natural explanations: ointments contained no demonic ingredients; marks were natural skin variations; materials were ordinary objects.",
+    "cross_checking": "For accusations where the alleged sabbat attendance could be cross-checked against verified presence elsewhere (witnesses who could confirm the accused had been at home; sleeping companions who had not noticed absence), Salazar found that the confession claims consistently failed verification.",
+    "contagion_documentation": "Salazar documented that the wave of voluntary confessions after the 1609 executions had a contagion structure: confessions in later villages closely mirrored the content of earlier confessions in ways that suggested social transmission rather than independent experience. Children confessed after hearing adults confess; adults confessed after attending public penance ceremonies where earlier penitents' confessions were read."
+  },
+
+  "key_finding": "'I have not found even indications from which to infer that a single act of witchcraft has really occurred, either as an objective happening or as a delusion.' (Salazar, Third Report to the Inquisitor-General, c.1612, as quoted in Henningsen, The Witches' Advocate, 1980, p.388)",
+
+  "outcome": {
+    "inquisitor_general_response": "Inquisitor-General Francisco de Sandoval y Rojas accepted Salazar's conclusions. The minority report from Salazar's fellow Logroño inquisitors Valle and Becerra, who defended the reality of the Basque witch sect, was rejected.",
+    "1614_instructions": "The Spanish Inquisition issued formal Instructions for witch cases in 1614 requiring: physical evidence for all sabbat-attendance claims; prohibition on relying solely on child testimony; requirement to cross-check confessions against independently verifiable facts; suspension of prosecution pending further investigation in any case not meeting the new standards.",
+    "long_term_impact": "Spain executed fewer witches per capita than any other major European country in the 17th century. The 1614 Instructions, reflecting Salazar's empirical standards, remained in force for the remainder of the early modern period."
+  },
+
+  "significance": {
+    "most_comprehensive_refutation": "The scale of Salazar's investigation (1,802 cases examined) and the rigor of his cross-checking methodology make this the most comprehensive empirical refutation of witch accusations in any European legal system before the 18th century.",
+    "contrast_with_de_lancre": "Salazar's investigation ran simultaneously with Pierre de Lancre's prosecution of French Basque witches (1609; see de-lancre-labourd-investigation-1609). The contrast is stark: from the same geographic and cultural context, de Lancre's more credulous approach produced hundreds of arrests and scores of executions; Salazar's empirical skepticism produced a recommendation to stop prosecution entirely.",
+    "not_philosophical_scepticism": "Salazar's skepticism was procedural rather than philosophical. He did not deny the theological possibility of diabolic witchcraft; he argued that the evidence was insufficient to establish that it had occurred in any of the cases he examined. This procedural character explains why his conclusions were accepted by the Inquisition when more philosophical skepticism (Weyer, Scot) had been ignored or condemned."
+  },
+
+  "related_entities": {
+    "concepts": [
+      "witch-trial-skepticism",
+      "canon-episcopi",
+      "maleficium-harmful-magic"
+    ],
+    "scholars": [
+      "alonso-de-salazar-frias-b1564",
+      "de-lancre-pierre-b1553"
+    ],
+    "scholarly_texts": [
+      "ankarloo-clark-vol4-witch-trials-2001"
+    ],
+    "timeline": [
+      "de-lancre-labourd-investigation-1609"
+    ]
+  },
+
+  "scholarly_disagreement": "The primary debate is about the nature of Salazar's scepticism — procedural versus metaphysical. Gustav Henningsen (The Witches' Advocate, 1980) argues it was procedural: Salazar doubted the evidence, not the theology. Henry Charles Lea (Materials Toward a History of Witchcraft) suggested a more fundamental skepticism. The question matters for understanding the 1614 Instructions: if procedural, they could in principle be reversed by a different Inquisitor-General; if reflective of genuine skepticism about the reality of the sabbat, they represented a more permanent intellectual shift.",
+
+  "source_method": "Gustav Henningsen, The Witches' Advocate: Basque Witchcraft and the Spanish Inquisition (1980) — the primary scholarly source; Stuart Clark, 'Witchcraft and Magic in Early Modern Culture' in Ankarloo/Clark Vol.4 (2002); primary source: Salazar's reports to the Inquisitor-General (1609–c.1612), Archivo Histórico Nacional, Madrid, as published and translated in Henningsen",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

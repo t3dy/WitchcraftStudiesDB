@@ -1,0 +1,72 @@
+{
+  "id": "scientific-demonology-restoration",
+  "name": "Scientific Demonology (Restoration England)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Restoration Period (c.1660–1700)",
+  "primary_locale": "England; especially London (Royal Society) and Cambridge (Christ's College)",
+
+  "scholarly_definition": "Stuart Clark's term 'scientific demonology' designates the specific synthesis produced in Restoration England by figures who were simultaneously Fellows of the Royal Society (or closely connected to it), engaged with the new mechanical philosophy, and systematic defenders of the reality of witch phenomena. The term is deliberately provocative: Clark argues that in Restoration England, demonology was not merely compatible with the new science but was a product of it. The most scientifically sophisticated figures — those most engaged with Bacon, Boyle, Descartes, and the Royal Society's program — were the ones producing the most rigorous defenses of witch belief. This was because the Baconian methodology of natural history, applied consistently, required taking reliable testimony to preternatural phenomena seriously; and the Cambridge Platonist anti-Hobbes program required immaterial spirits to exist. 'Scientific demonology' was therefore the label for a position that was neither scientifically naive nor theologically residual, but a product of the most advanced philosophical commitments of the period.",
+
+  "clark_analysis": {
+    "section": "Thinking with Demons, Part II: Science, ch. 'Witchcraft and the Scientific Revolution' (pp.356–375)",
+    "core_argument": "Clark's core revisionist claim is that the standard 'Enlightenment narrative' — science advanced, witch belief declined, educated people abandoned superstition — is historically false for Restoration England. The figures who abandoned witch belief in England were not the most scientifically sophisticated but often the least: the 'vulgar Sadducees' who rejected spirit phenomena without examining them. The Fellows of the Royal Society who investigated witch phenomena — Glanvill, More, and to some extent Boyle — were defending empirical standards, not abandoning them.",
+    "baconian_empiricism": "Bacon's natural history methodology required that investigators collect testimony from reliable observers, cross-check for consistency, and resist premature theoretical conclusions. Applied to witch phenomena, this methodology produced exactly what Glanvill provided in Saducismus Triumphatus: systematic collection of eyewitness accounts, cross-checked for consistency and credibility, organized as natural history of spirit phenomena. To dismiss this testimony without examination was, in Baconian terms, the greater epistemological error.",
+    "prerogative_instances": "Glanvill used Bacon's concept of 'prerogative instances' — exceptional cases that illuminate the limits of ordinary nature — to argue that witch and spirit phenomena were philosophically the most valuable natural-historical data because they demonstrated the existence of immaterial substance. The abnormal case was the most scientifically interesting case."
+  },
+
+  "key_figures": {
+    "glanvill_joseph": {
+      "role": "Empirical defender; collected witness testimony; field investigation (Drummer of Tedworth, 1662); applied Baconian natural history to spirit evidence",
+      "key_text": "Saducismus Triumphatus (1681, posthumous ed. More)",
+      "royal_society_status": "FRS 1664",
+      "database_entry": "glanvill-joseph-b1636"
+    },
+    "more_henry": {
+      "role": "Philosophical architect; 'No Spirit, no God' argument; Cambridge Platonist framework providing metaphysical grounding for immaterial spirits; edited Saducismus Triumphatus",
+      "key_text": "An Antidote Against Atheism (1653); The Immortality of the Soul (1659); editorial additions to Saducismus Triumphatus (1681)",
+      "royal_society_status": "Not FRS but closely connected; extensive correspondence with Boyle",
+      "database_entry": "more-henry-b1614"
+    },
+    "boyle_robert": {
+      "role": "Interested in spirit evidence as natural-historical data; collected accounts of apparitions and preternatural phenomena; more cautious than Glanvill or More about advocating prosecution specifically",
+      "key_text": "Correspondence on spirit phenomena; supported the empirical program without the full prosecutorial conclusion",
+      "royal_society_status": "FRS; one of the founding figures of the Royal Society",
+      "database_entry": null
+    },
+    "sinclair_george": {
+      "role": "Scottish natural philosopher; Satan's Invisible World Discovered (1685); applied the same empirical-spirit-evidence program to Scottish witch cases",
+      "key_text": "Satan's Invisible World Discovered (1685)",
+      "royal_society_status": "Not FRS; Professor of Philosophy at Glasgow",
+      "database_entry": null
+    }
+  },
+
+  "anti_hobbes_context": "The defining intellectual context of scientific demonology was the Hobbes controversy. Thomas Hobbes's Leviathan (1651) argued for thoroughgoing materialism: all reality was matter in motion, the soul was material, spirits were either material or fictitious, and all apparent supernatural events had natural (mechanical) explanations. For More and Glanvill, this was not merely physically wrong but theologically catastrophic: a fully materialist universe had no room for an immaterial God. Witch testimony — empirically documented reports of immaterial agents causing physical effects — was therefore evidence against Hobbes's materialism and for the theism that both Cambridge Platonism and Anglican theology required. The anti-Hobbes motivation explains why the most philosophically sophisticated figures of the period were simultaneously the most rigorous defenders of witch belief.",
+
+  "drummer_of_tedworth": "The Drummer of Tedworth case (1662) is the primary example of scientific demonology in practice. Glanvill personally investigated a Wiltshire household reporting poltergeist phenomena attributed to the malice of a drummer whose drum had been seized by the local magistrate. He interviewed witnesses, conducted on-site observations, and documented the case in Baconian natural-history style. The case became the most-discussed piece of spirit evidence in Restoration England, appearing in multiple editions of his work. Its Baconian method — systematic witness interview, on-site investigation, cross-checking testimony — was exactly what the Royal Society's program prescribed for any preternatural phenomenon.",
+
+  "schaffer_critique": "Simon Schaffer ('Godly Men and Mechanical Philosophers: Souls and Spirits in Restoration Natural Philosophy,' 1987) challenged Clark's account by arguing there was 'no correlation between endorsement of the reality of spirits and support for witch trials.' Boyle collected spirit evidence but did not advocate prosecution; More endorsed the evidence but focused on its metaphysical implications rather than prosecutorial ones. Schaffer's critique suggests that 'scientific demonology' conflates two separable positions: accepting spirit evidence and endorsing prosecution. Clark's response is that the conflation was present in the period itself — Glanvill and More presented the two positions as inseparable — even if modern analysts can distinguish them.",
+
+  "historiographical_significance": "Clark's analysis of scientific demonology is his most direct challenge to the 'standard narrative' of witchcraft historiography: the belief that educated people abandoned witch prosecution as scientific knowledge advanced. Scientific demonology shows the inverse: in Restoration England, the most scientifically sophisticated figures were the most systematic defenders of the reality of spirit phenomena. This was not paradoxical but predictable: their scientific methodology (Baconian empiricism) and their philosophical commitments (anti-Hobbesian immaterialism) both pointed toward taking witch testimony seriously. The decline of prosecution in England was therefore not caused by science but despite it — or, more precisely, caused by factors other than scientific advancement.",
+
+  "scholarly_disagreement": "Beyond Schaffer's critique, Barbara Shapiro (Probability and Certainty in Seventeenth-Century England, 1983) and Michael Hunter (Robert Boyle Reconsidered, 1994) have argued that Clark overstates the integration of demonological and scientific commitments for figures like Boyle — whose interest in spirit evidence was more peripheral to his scientific identity than Clark's framework implies. The question of whether scientific demonology was a genuine intellectual synthesis or a coincidental overlap of separate concerns (empirical method + theological anxiety) remains debated.",
+
+  "related_concepts": [
+    "natural-demonic-magic-distinction",
+    "witch-trial-skepticism",
+    "eschatological-witchcraft-postremus-furor"
+  ],
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "glanvill-saducismus-triumphatus-1681",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Part II: Science, ch. 'Witchcraft and the Scientific Revolution' (pp.356–375); Simon Schaffer, 'Godly Men and Mechanical Philosophers' (1987); Barbara Shapiro, Probability and Certainty in Seventeenth-Century England (1983); primary sources: Glanvill, Saducismus Triumphatus (1681); More, Antidote Against Atheism (1653)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

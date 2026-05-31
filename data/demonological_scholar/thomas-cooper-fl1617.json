@@ -1,0 +1,84 @@
+{
+  "id": "thomas-cooper-fl1617",
+  "name": "Thomas Cooper",
+  "birth_year": null,
+  "death_year": 1631,
+  "birth_place": null,
+  "academic_discipline": "Reformed Theology; Demonology",
+  "primary_institution": "Chester diocese; Puritan minister; exact institutional affiliation uncertain",
+
+  "major_works": [
+    {
+      "title": "The Mystery of Witch-craft",
+      "year": 1617,
+      "publisher": "London",
+      "significance": "The most systematic English Protestant demonology after Perkins; extended and popularized the Perkins framework of covenant-centered prosecution and anti-cunning-folk emphasis. The Mystery combined demonological theory with pastoral guidance and practical prosecution advice, making it the principal vehicle through which the Perkins tradition entered 17th-century English judicial and clerical practice.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Sathan Transformed into an Angel of Light",
+      "year": 1622,
+      "publisher": "London",
+      "significance": "Shorter companion to The Mystery; focused specifically on the cunning folk as Satan's most deceptive agents; argued that service magicians who performed apparently beneficial magic were the most effective instruments of diabolic seduction.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "ENGLISH PURITAN DEMONOLOGIST / COVENANT-CENTERED PROSECUTORIALIST",
+
+  "core_argument": "Thomas Cooper was the most important transmitter of William Perkins's covenant-centered demonology into early 17th-century English clerical and judicial culture. His Mystery of Witch-craft (1617) expanded and systematized the Perkins framework, adding pastoral guidance on how to respond to accusations and practical guidance on prosecution procedure. Like Perkins, Cooper placed the demonic covenant at the center of witch crime: the fundamental offense was the breach of the baptismal covenant through explicit or implicit alliance with the devil, not the harm caused by resulting maleficium. Like Perkins, Cooper identified the cunning folk as the most dangerous category — service magicians whose apparent beneficence concealed their implicit demonic pact. Cooper's contribution was primarily popularizing and pastoral: he translated Perkins's casuistical precision into accessible clerical guidance and connected the theoretical framework to the practical concerns of parish ministers dealing with witch accusations in their communities.",
+
+  "methodological_approach": {
+    "primary_materials": "Calvinist covenant theology (Perkins as primary source; Daneau as background); biblical exegesis of witch texts; pastoral case analysis",
+    "analysis_target": "Pastoral guidance for Reformed ministers on witch accusations; systematization of the Perkins framework; practical guidance on prosecution and pastoral response",
+    "evidence_type": "Theological argument; biblical exegesis; case examples drawn from published sources (Continental and English)",
+    "explanatory_level": "Theological-pastoral: Cooper's primary concern was providing practical guidance for ministers and magistrates, not advancing demonological theory"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The cunning folk as Sathan's most effective agent",
+      "claim": "Cooper's 1622 Sathan Transformed extended the Perkins anti-cunning-folk argument into its most extreme Protestant form: service magicians were not peripheral figures in the diabolic conspiracy but its most effective agents, since they seduced ordinary people into diabolic complicity while appearing to offer help. The title's biblical allusion (2 Cor 11:14 — Satan as angel of light) framed the cunning folk as the most dangerous manifestation of diabolic deception.",
+      "implication": "Cooper's writings contributed to the specifically English pattern of prosecuting service magicians (healers, diviners, finders of stolen goods) which was more intensive than comparable Continental prosecution and which Keith Thomas identified as a distinctive feature of English witch prosecution."
+    },
+    {
+      "concept": "Pastoral response to bewitchment: prayer, not counter-magic",
+      "claim": "Cooper provided detailed pastoral guidance for ministers whose parishioners believed themselves bewitched: they should turn to prayer and repentance, not to counter-magic or cunning folk, since consulting the latter compounded diabolic complicity. The pastoral framework connected demonological theory to the practical challenge of parish ministry in communities where cunning folk met real needs.",
+      "implication": "Cooper's pastoral framework shows how demonological theory was translated into practical religious guidance — the pastoral literature was the mechanism by which elite demonological categories reached ordinary laypeople and shaped their responses to illness, misfortune, and accusation."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "William Perkins (primary intellectual source; Cooper was Perkins's most systematic successor in English Protestant demonology)",
+      "Lambert Daneau (Background influence via Perkins; Cooper inherited Daneau's providential framework and anti-cunning-folk emphasis through the Perkins transmission)",
+      "George Gifford (Cooper was closer to Perkins than Gifford in his prosecution emphasis; Gifford was somewhat more cautious about prosecution intensity while sharing the anti-cunning-folk framework)"
+    ],
+    "creative_tension_with": [
+      "Reginald Scot (Cooper's Mystery was in part a refutation of the Scot skeptical tradition; Cooper shared Perkins's implicit refutation of Scot's denial of witch reality)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Cooper appears as the primary transmitter of the Perkins framework in the English Protestant demonological tradition. The perkins-william-b1558 entry identifies Cooper as Perkins's 'closest English demonological successor.' Cooper's work is relevant to the demonic-pact-early-modern and maleficium-harmful-magic concept entries as evidence for the English Calvinist variant of both frameworks.",
+    "analytical_weight": "Cooper is less analytically important than Perkins for Clark's argument but is essential for understanding the transmission of the Perkins framework into early 17th-century practice. His work demonstrates that the covenant-centered prosecution tradition did not remain an academic theological exercise but was translated into pastoral and judicial guidance that shaped how English courts and communities handled witch cases."
+  },
+
+  "historiographical_significance": "Cooper is a secondary figure for witchcraft historiography compared to Perkins or Daneau, but important for understanding the transmission of the English Protestant demonological tradition. His work documents the pastoral level of the tradition — the translation from academic theology to clerical practice — that connected the demonologists' theoretical framework to the actual operation of English witch prosecution in the early 17th century.",
+
+  "scholarly_disagreement": "Cooper has received less monographic attention than the major demonologists. The primary question about his work is whether he added anything theoretically significant to the Perkins framework or was primarily a popularizer. Stuart Clark treats him as exemplary of the English Protestant prosecutorial tradition without suggesting original contribution beyond Perkins.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), ch. on English Protestant demonology; Stuart Clark, 'Witchcraft and Magic in Early Modern Culture' in Ankarloo/Clark Vol.4 (2002); primary sources: Thomas Cooper, The Mystery of Witch-craft (London, 1617); Sathan Transformed into an Angel of Light (London, 1622)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

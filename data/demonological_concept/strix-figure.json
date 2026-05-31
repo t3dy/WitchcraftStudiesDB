@@ -1,0 +1,59 @@
+{
+  "id": "strix-figure",
+  "name": "Strix (Classical and Medieval Night-Demoness; Contribution to Witch Stereotype)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Classical Antiquity through Early Modern (c.200 BCE – c.1500 CE)",
+  "primary_locale": "Roman and Mediterranean world; subsequently all of Western Christendom via medieval and early modern synthesis",
+
+  "scholarly_definition": "The strix (pl. striges; Greek equivalent: stryx) was a Roman figure of supernatural evil: a nocturnal creature, typically imagined as an owl or owl-woman, that flew at night to suck blood from infants in their cradles. The strix did not require demonic bargaining or theological framing — it was simply a predatory nocturnal being whose primary function was the murder of children. Ronald Hutton identifies the strix tradition as the 'emotive core' of the composite early modern witch stereotype, because the elements that made witch accusation most powerful at the community level — child murder, blood-sucking, and nocturnal predation — derived from this tradition rather than from the heresy-conspiracy image or the learned demonological synthesis. The term passed into medieval Latin as a generic designation for witch-like supernatural child-killers and eventually merged with the Germanic nocturnal cannibal-woman figure to produce the early modern image of the flying, child-devouring witch.",
+
+  "classical_attestation": {
+    "roman_sources": "Ovid, Fasti (6.131–168): detailed description of striges as feather-covered birds with stiff wings and hooked beaks that fly at night to tear infants from their cribs and drain their entrails. Pliny the Elder, Natural History (11.95): records the popular belief in striges and their attacks on children. Petronius, Satyricon (ch.63): striges who fly at night and substitute changeling objects for children.",
+    "legal_attestation": "The Lex Salica (Frankish law code, c.507–511) included a provision against the stria — the woman who went at night to eat humans — with substantial fines. This legal attestation shows the strix concept was embedded in popular legal culture well before medieval theological synthesis.",
+    "ovid_detail": "Ovid's Fasti account is the most detailed classical description: the striges are transformed women (or, alternatively, always birds) who suckle on blood, have large heads, fixed eyes, a beak suited to tearing, grey-feathered wings, and hooked claws. They attack infants at night in the cradle. The blood-sucking element and the specific targeting of infants were consistent features across all classical sources."
+  },
+
+  "medieval_transformation": {
+    "persistence_and_gender": "The medieval Latin stria/striga retained the core classical features: night flight, child-killing, blood consumption. The term became a common medieval Latin designation for supernatural harm-causing women. By the 13th century, stria/striga was one of the most widely used terms for what we would now call 'witch' in Latin ecclesiastical and legal texts.",
+    "tirolese_attestation": "Hutton notes that a mid-13th century Tyrolese poet already mocked women who flew on calf-skin, broom, or distaff — placing the flight motif in popular Alpine awareness well before the 1420s stereotype formation. This is significant: the flight motif associated with the strix tradition had independently penetrated popular Germanic folklore.",
+    "bernardino_of_siena": "Hutton identifies the Franciscan Observant preacher Bernardino of Siena (d.1444) as a crucial figure in the explicit identification of the strix as a human woman empowered by the Devil. Bernardino's preaching campaigns across central Italy in the 1420s named the strix as a real woman who had made a pact with the devil to gain night-flight and child-killing abilities — fusing the classical strix with the diabolical-pact theology of the emerging composite stereotype."
+  },
+
+  "germanic_cannibal_woman": {
+    "description": "Parallel to the Mediterranean strix, the Germanic linguistic zone had a tradition of nocturnal cannibal women — supernatural female predators who consumed human flesh at night. The Old High German term mara (nightmare) and related figures contributed the flesh-eating and nocturnal assault elements. The Alpine and Germanic strix-figure merged with this tradition to produce the characteristic Alpine witch stereotype of the 1420s–1440s.",
+    "hutton_synthesis": "Hutton (The Witch, ch.6) argues that the western Alpine zone in the 1420s combined the Mediterranean strix tradition and the Germanic cannibal-woman tradition with the organizational framework of the heresy-conspiracy image and the learned demonological tradition of the demonic pact — the combination producing the new composite witch."
+  },
+
+  "contribution_to_composite_stereotype": {
+    "hutton_argument": "Hutton's most important analytical claim about the strix is that it provided the 'emotive core' of the composite witch stereotype — the elements that made witch accusation psychologically powerful and communally resonant. The child-murder and blood-sucking elements were not derived from learned demonological theory (which focused on apostasy and pact) but from folk tradition and classical literature. Without the strix's child-killing function, the composite witch would have been a theological construct; with it, she was a figure of immediate community terror.",
+    "cohn_comparison": "Norman Cohn (Europe's Inner Demons) gave priority to the heresy-conspiracy image (from Cathar/Waldensian persecution) as the dominant strand of the composite stereotype, treating the strix as a secondary contribution. Hutton disputes this weighting: while the organizational framework came from heresy-persecution, the strix provided the affective content that made the stereotype compelling to non-elite actors.",
+    "todi_1428": "The 1428 Todi trial (central Italy) is the earliest documented prosecution in which a woman was charged with riding a demon-goat to a Lucifer-worshipping assembly and simultaneously with strix-like child-killing using a flying ointment made from baby blood, bat blood, and vulture fat. The flying ointment formula — with its infant-blood ingredient — shows the direct fusion of strix child-murder with diabolical sabbat attendance in the earliest prosecutions."
+  },
+
+  "hutton_social_analysis": "Hutton gives the strix tradition extended attention in The Witch (ch.6) as part of his argument against both the 'ancient shamanic survivals' model (Ginzburg) and the 'pure elite invention' model (Cohn in his most extreme form). The strix was neither an elite invention nor a shamanic survival: it was a specific Mediterranean popular belief with a long literary history that fed into the composite stereotype through the 1420s Alpine/Italian prosecutions. The Observant friar preachers — especially Bernardino of Siena — were the key agents who fused the strix tradition with learned demonological theology.",
+
+  "scholarly_disagreement": "The central debate about the strix concerns whether it was primarily a literary/elite tradition (derived from Ovid and classical sources, circulating among the educated) or a genuine popular belief with independent folk roots. Hutton treats it as both — the classical literary strix and a genuine popular cannibal-woman tradition were convergent traditions that reinforced each other in the Alpine zone. Richard Kieckhefer (Magic in the Middle Ages) notes that the legal attestations (Lex Salica; local statutes) demonstrate popular legal awareness of the strix tradition independent of literary diffusion. The degree to which the strix contributed to the specific child-murder charges in early Alpine prosecutions, versus those charges being independently generated by community anxiety, remains difficult to resolve from the surviving evidence.",
+
+  "related_concepts": [
+    "composite-witch-stereotype-formation",
+    "followers-of-the-lady-night-ride",
+    "witches-sabbath-collective",
+    "female-susceptibility-theory"
+  ],
+
+  "trial_examples": [
+    "todi-1428-witchcraft-trial"
+  ],
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.6 (specifically the strix tradition and its contribution to the composite stereotype); Norman Cohn, Europe's Inner Demons (1975/1993); Richard Kieckhefer, Magic in the Middle Ages (1989); primary attestations: Ovid, Fasti 6.131–168; Pliny, Natural History 11.95; Lex Salica",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -6,14 +6,14 @@
 |------|-------|------------|---------|
 | `trial_event` | 5 | `trial-location-year` | `bamberg-1626-mass-prosecution` |
 | `accused_person` | 15 | `name-location-year` | `margaretha-binder-bamberg-1626` |
-| `demonological_concept` | 15 | `concept-name` | `witches-sabbath-collective` |
-| `demonological_scholar` | 22 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
-| `scholarly_text` | 17 | `surname-title-word-year` | `clark-thinking-with-demons-2001` |
+| `demonological_concept` | 17 | `concept-name` | `witches-sabbath-collective` |
+| `demonological_scholar` | 27 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
+| `scholarly_text` | 19 | `surname-title-word-year` | `clark-thinking-with-demons-2001` |
 | `location` | 5 | `location-name` | `bamberg` |
 | `healer_practitioner` | 1 | `name-location-tradition` | `gaspar-tagliacarne-friuli-benandante` |
 | `persecuted_group` | 4 | `group-descriptor-scope` | `widows-early-modern` |
 | `inquisitorial_body` | 5 | `institution-name` | `venetian-inquisition` |
-| `timeline` | 25 | `event-descriptor-year` | `malleus-maleficarum-published-1487` |
+| `timeline` | 27 | `event-descriptor-year` | `malleus-maleficarum-published-1487` |
 
 ## JSON Conventions
 

@@ -1,0 +1,74 @@
+{
+  "id": "pocs-eva-b1936",
+  "name": "Éva Pócs",
+  "birth_year": 1936,
+  "death_year": null,
+  "birth_place": "Hungary",
+  "academic_discipline": "Folkloristics; Ethnography; History of Witchcraft and Popular Religion",
+  "primary_institution": "University of Pécs (Professor of Ethnography); earlier at the Hungarian Academy of Sciences",
+
+  "major_works": [
+    {
+      "title": "Between the Living and the Dead: A Perspective on Witches and Seers in the Early Modern Age",
+      "year": 1999,
+      "publisher": "Central European University Press (English; originally Hungarian, 1997)",
+      "significance": "Pócs's major theoretical synthesis; argued that the fundamental binary in Central and Eastern European popular belief was not witch/non-witch but rather the opposition between the living and the dead, with witches, seers, and shamanic practitioners all occupying liminal positions between these categories. Developed a comprehensive taxonomy of popular magical practice based on Central European ethnographic and trial evidence.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Fairies and Witches at the Boundary of South-Eastern and Central Europe",
+      "year": 1989,
+      "publisher": "Folklore Fellows Communications (Helsinki)",
+      "significance": "Earlier analysis of the South-Eastern/Central European fairy and witch traditions; established Pócs's comparative framework for understanding the relationships between fairy belief, witch belief, and the night-company traditions.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "CENTRAL/EASTERN EUROPEAN FOLKLORIST / POPULAR BELIEF TAXONOMIST",
+
+  "core_argument": "Éva Pócs is the leading ethnographic analyst of Central and Eastern European witchcraft and popular magical belief, and her Between the Living and the Dead (1999) provided the most systematic theoretical framework for understanding how the demonological categories of the composite witch stereotype interacted with pre-existing popular beliefs in the Central European zone. Pócs's central argument is that the fundamental opposition in Central/Eastern European popular belief was not the inversion-of-Christianity structure that Clark identifies in Western demonology, but the opposition between the living and the dead — with witches, seers, benandante-type practitioners, and shamanic figures all occupying liminal positions at the boundary between the two categories. This framework explained why the same practitioners could be both feared as harm-causers and respected as healers: their liminal status gave them power over both beneficial and malefic forces. Pócs's work, like Klaniczay's, provided comparative evidence for the night-combat and spirit-journey traditions that Ginzburg deployed in Ecstasies, though Pócs's interpretation of these traditions is more cautious than Ginzburg's about the shamanic thesis.",
+
+  "key_contributions": [
+    {
+      "concept": "Living-dead binary as the primary axis of popular magical belief",
+      "claim": "In Central and Eastern European popular belief, the fundamental cosmological opposition was between the living and the dead — not between God/Church and Devil/Anti-Church (the inversion structure that Clark identifies in elite demonology). Witches, seers, cunning folk, and trance-practitioners all occupied liminal positions at this boundary. Their power derived from contact with the dead; their danger derived from the same contact.",
+      "implication": "Pócs's framework provides a systematic alternative to Clark's inversion model for understanding popular witch-belief. Where Clark's model is derived from elite demonological texts, Pócs's is derived from ethnographic and trial evidence of what accused and accusers actually believed. The two models may be tracking different levels of the same culture — elite and popular — rather than competing accounts of the same thing."
+    },
+    {
+      "concept": "South-East European fairy and witch traditions as comparative evidence",
+      "claim": "The South-Eastern European (Romanian, Balkan, Hungarian) fairy traditions and their relationship to witch belief — particularly the concept of supernatural female figures who could both harm and heal depending on propitiation — provided comparative evidence for the wider distribution of the night-company tradition. The 'fairies' of South-Eastern European folk belief occupied a position between the classical strix, the followers-of-the-lady tradition, and the diabolic sabbat stereotype.",
+      "implication": "Pócs's fairy material supports Hutton's argument that the specific content of the followers-of-the-lady tradition varied significantly by region — the South-Eastern European fairy figures are neither Diana/Herodias nor Holda/Perchta but a distinct regional variant with different characteristics. This regional variation undermines both the unified shamanic thesis and the simple diffusion model."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Gábor Klaniczay (closest Hungarian colleague; shared institutional context and comparative focus on Central/Eastern European popular belief)",
+      "Carlo Ginzburg (provided comparative material for the night-combat thesis; broadly sympathetic to the argument for a widespread tradition, though more cautious about the shamanic reading)"
+    ],
+    "creative_tension_with": [
+      "Ronald Hutton (Hutton engages with Pócs's evidence in The Witch but argues that the regional variation it demonstrates undermines rather than supports the unified shamanic thesis; the living-dead framework is a distinct interpretive approach from Hutton's emphasis on the strix and heresy-conspiracy image)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Pócs appears in the followers-of-the-lady-night-ride concept entry as a contributor of Central/Eastern European comparative evidence. Her living-dead framework is a relevant alternative analytical lens to Clark's inversion principle for understanding popular witch-belief.",
+    "analytical_weight": "Pócs is primarily relevant for the comparative and ethnographic dimension of this database. Her work supports the project's emphasis on regional variation as primary and on the analytical distinction between elite demonological frameworks and popular belief structures."
+  },
+
+  "scholarly_disagreement": "The primary debate about Pócs's work concerns the relationship between her living-dead framework and both Clark's inversion model and Ginzburg's shamanic model. Clark's model is derived from elite texts; Pócs's from ethnographic evidence. Whether the two are tracking different levels of the same culture or genuinely different phenomena is debated. Hutton accepts the regional variation Pócs documents but questions whether the living-dead binary is as fundamental as she claims across all Central European traditions.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.5 (for Hutton's engagement with Pócs's work); Carlo Ginzburg, Ecstasies (1991) (for Ginzburg's use of the Central/Eastern European material); primary works: Éva Pócs, Between the Living and the Dead (CEU Press, 1999); Fairies and Witches at the Boundary of South-Eastern and Central Europe (1989)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

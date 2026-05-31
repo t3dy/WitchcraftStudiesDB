@@ -1,0 +1,74 @@
+{
+  "id": "henningsen-gustav-b1934",
+  "name": "Gustav Henningsen",
+  "birth_year": 1934,
+  "death_year": null,
+  "birth_place": "Denmark",
+  "academic_discipline": "History; Folklore Studies; Inquisitorial Studies",
+  "primary_institution": "Danish Folklore Archive (now part of the Royal Library); collaborator with the Ankarloo/Clark series",
+
+  "major_works": [
+    {
+      "title": "The Witches' Advocate: Basque Witchcraft and the Spanish Inquisition (1609–1614)",
+      "year": 1980,
+      "publisher": "University of Nevada Press (English); originally Heksenes Advokat (Copenhagen, 1980)",
+      "significance": "The definitive study of Alonso de Salazar Frías's empirical investigation of Basque witchcraft; reconstructed from the original Salazar reports in the Archivo Histórico Nacional, Madrid. Established Salazar as a major figure in witchcraft historiography and documented the most comprehensive empirical refutation of witch accusations in early modern legal history. One of the most important single contributions to the revisionist history of witch prosecution.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "'The Ladies from Outside': An Archaic Pattern of the Witches' Sabbath",
+      "year": 1990,
+      "publisher": "In Bengt Ankarloo and Gustav Henningsen (eds.), Early Modern European Witchcraft: Centres and Peripheries (Oxford: Clarendon Press, 1990)",
+      "significance": "Analysis of the Sicilian donas de fuera — women who claimed to have nocturnal experiences with a supernatural company of fairy-like figures — as a Sicilian parallel to the benandanti and the followers-of-the-lady tradition. Contributed to the debate about Ginzburg's shamanic thesis by providing a Mediterranean case that fitted neither the shamanic model nor the diabolized sabbat model.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "ARCHIVAL HISTORIAN / INQUISITORIAL RECORDS SPECIALIST / SALAZAR BIOGRAPHER",
+
+  "core_argument": "Gustav Henningsen's primary contribution to witchcraft historiography is his archival reconstruction of Alonso de Salazar Frías's investigation of Basque witchcraft (1609–1614). Before Henningsen's work, Salazar was a minor footnote; The Witches' Advocate (1980) established him as the most important single figure in the suppression of Spanish witch prosecution and the most rigorous empirical investigator of witch accusations in the early modern period. Henningsen's reconstruction demonstrated that the failure of systematic prosecution in Spain was not caused by intellectual scepticism about demonology but by the consistent application of rigorous procedural standards to the specific factual claims in witch confessions — a finding that challenged both the 'Enlightenment caused the decline' narrative and the 'religious scepticism caused the decline' narrative. Henningsen's second major contribution was the analysis of the Sicilian donas de fuera ('Ladies from Outside') — women who described nocturnal experiences with supernatural figures of local folk character — as a case that complicated both Ginzburg's shamanic interpretation and the standard sabbat-attendance model.",
+
+  "key_contributions": [
+    {
+      "concept": "Salazar's empirical method as the decisive factor in Spanish prosecution decline",
+      "claim": "The Spanish Inquisition's dramatically lower witch-execution rate compared to secular courts in Germany, France, and Scotland was not primarily caused by Spanish theological culture being more skeptical but by the institutional application of Salazar's empirical standards through the 1614 Instructions. Salazar's reports demonstrated that witch confessions, subjected to factual verification, consistently failed to confirm the events claimed — and the Inquisitor-General's acceptance of this finding produced procedural instructions that raised the evidential bar for witch cases throughout Spain.",
+      "implication": "Henningsen's finding reframes the question of why prosecution declined in Spain: not philosophical scepticism (Weyer/Scot/Montaigne) but procedural rigour applied by an inquisitor who was himself a legal professional, not a philosopher. This has implications for understanding why prosecution persisted longer in secular courts — they lacked the centralized procedural oversight that the Spanish Inquisition's institutional structure provided."
+    },
+    {
+      "concept": "The Sicilian donas de fuera as Mediterranean parallel to benandanti",
+      "claim": "Sicilian Inquisition records from the 16th–17th centuries document women describing nocturnal experiences with supernatural companies of figures called donas de fuera ('ladies from outside') or belle signore ('beautiful ladies') — healers and fatigue-causing creatures associated with local Sicilian fairy belief. These figures were distinct from both the diabolic sabbat stereotype and the shamanic night-combats of the benandanti. Henningsen argued they represented a Mediterranean folk tradition parallel to the followers-of-the-lady cluster but with different folkloric content.",
+      "implication": "The donas de fuera complicated Ginzburg's shamanic thesis by providing a case that fitted the pattern of benevolent supernatural company but with Mediterranean fairy-belief content rather than shamanic spirit-combat. They supported Hutton's argument that regional variation was primary — there was no single underlying folk tradition being diabolized, but multiple regionally specific traditions that the inquisitorial framework classified under the same diabolic categories."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Bengt Ankarloo (co-edited the major reference series; shared the archival approach and the interest in Scandinavian/peripheral European witch prosecution)",
+      "Ronald Hutton (shared the critique of Ginzburg's unified shamanic thesis; the donas de fuera evidence supported Hutton's regional-variation argument)",
+      "Stuart Clark (the Salazar reconstruction was a major contribution to the revisionist interpretation Clark synthesized; Clark drew on Henningsen for the Spanish Inquisition material)"
+    ],
+    "creative_tension_with": [
+      "Carlo Ginzburg (Henningsen's donas de fuera analysis complicated the shamanic thesis; the Sicilian material fitted the night-company pattern but not the spirit-combat or crop-fertility elements Ginzburg identified as the shamanic core)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Henningsen is the primary scholarly source for the alonso-de-salazar-frias-b1564 entry. His analysis of the donas de fuera is relevant to the followers-of-the-lady-night-ride concept entry as Mediterranean comparative evidence. His archival approach exemplifies the inquisitorial-records methodology that Ginzburg pioneered and that Henningsen and Monter applied to the Spanish and Sicilian Inquisitions.",
+    "analytical_weight": "Henningsen's most important contribution to this database is the Salazar reconstruction: without The Witches' Advocate, the alonso-de-salazar-frias-b1564 entry would not be possible. His donas de fuera analysis is a secondary contribution to the followers-of-the-lady tradition."
+  },
+
+  "scholarly_disagreement": "The primary debate about Henningsen's work concerns his characterization of Salazar's scepticism. Henningsen argues that Salazar's scepticism was procedural rather than metaphysical — he questioned the evidence, not the theological reality of witchcraft. Henry Charles Lea's earlier characterization suggested more fundamental scepticism. The question matters for understanding the 1614 Instructions: did they represent a genuine intellectual shift within the Inquisition or merely a procedural raising of the evidential bar that could in principle be lowered again?",
+
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Gustav Henningsen, The Witches' Advocate: Basque Witchcraft and the Spanish Inquisition (1980); Gustav Henningsen, 'The Ladies from Outside' in Ankarloo/Henningsen (eds.), Early Modern European Witchcraft (1990); Stuart Clark, Thinking with Demons (1997/2001) for the placement of Henningsen's work in the broader historiographical context",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

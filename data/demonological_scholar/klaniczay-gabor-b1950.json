@@ -1,0 +1,74 @@
+{
+  "id": "klaniczay-gabor-b1950",
+  "name": "Gábor Klaniczay",
+  "birth_year": 1950,
+  "death_year": null,
+  "birth_place": "Budapest, Hungary",
+  "academic_discipline": "Medieval History; History of Popular Culture; History of Sainthood and Magic",
+  "primary_institution": "Central European University, Budapest (Professor of Medieval Studies); earlier at the Institute of History, Hungarian Academy of Sciences",
+
+  "major_works": [
+    {
+      "title": "The Uses of Supernatural Power: The Transformation of Popular Religion in Medieval and Early-Modern Europe",
+      "year": 1990,
+      "publisher": "Polity Press (Cambridge) / Princeton University Press",
+      "significance": "Collected essays covering Hungarian and Central/Eastern European popular religious culture; includes seminal analysis of the táltos (Hungarian shamanic practitioner) and its relationship to the benandanti and the broader night-combat tradition. Provided the comparative material that both Ginzburg used (in Ecstasies) and Hutton critiqued for establishing the Eurasian shamanic thesis.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Witch Trials in Central Europe 1339–1541",
+      "year": 2005,
+      "publisher": "Central European University Press (with co-authors; part of the Records of the Medieval Witch Trials series)",
+      "significance": "Systematic archival publication and analysis of Central European witch-trial records, extending the evidence base for the composite stereotype's penetration into Hungary, Poland, and the Habsburg lands.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "CENTRAL/EASTERN EUROPEAN SPECIALIST / POPULAR CULTURE HISTORIAN / COMPARATIVE FOLK-BELIEF ANALYST",
+
+  "core_argument": "Gábor Klaniczay is the leading historian of Hungarian and Central/Eastern European witchcraft and popular magical belief, and his comparative analysis of the táltos (Hungarian taltos) — a hereditary practitioner with shamanic characteristics who battled malefic witches in animal form — was a major contribution to the debate about whether the night-combat and spirit-journey traditions reflected a genuine prehistoric shamanic substratum. Klaniczay's work provided Ginzburg with some of the key comparative evidence for Ecstasies (1991), particularly the argument that the benandanti's nocturnal combats were part of a wider Eurasian pattern. Klaniczay's own interpretation is more cautious than Ginzburg's: he emphasizes the distinctive regional character of the táltos and related traditions (Hungarian, Slovak, Polish) and is skeptical of reducing them to a single underlying shamanic complex. His work on Central European witch trials has extended the historiographical evidence base significantly beyond the Western European focus of most major studies.",
+
+  "key_contributions": [
+    {
+      "concept": "The táltos as Central European parallel to the benandanti",
+      "claim": "The Hungarian táltos was a practitioner born with special marks (extra teeth, extra fingers) who underwent ecstatic trance states and battled malefic witches in animal forms to protect crops and community health. Like the benandanti, the táltos self-described as a beneficent fighter against witches — not a witch herself. The parallel to the Friulian benandanti (and to the Livonian werewolves documented by Hörnborg in 1692) suggested a broad Central and Eastern European folk tradition of spirit-combatants whose claims were gradually diabolized by inquisitorial and secular prosecution.",
+      "implication": "The táltos evidence was central to Ginzburg's argument for an Eurasian shamanic substratum underlying the sabbat construct. Klaniczay provided the Hungarian material; Ginzburg generalized from it. Hutton's critique of the shamanic thesis accepts the existence of the night-combat traditions but questions both the shamanic interpretation and the genetic unity of the Eurasian distribution."
+    },
+    {
+      "concept": "Regional variation in popular magic taxonomy",
+      "claim": "Klaniczay's comparative work demonstrated that the taxonomy of popular magical belief in Central and Eastern Europe was substantially different from the Western European pattern documented by Hutton and Thomas. The sharp malefic-witch/benevolent-practitioner distinction that Hutton identifies as fundamental to English popular belief took different forms in Hungary and Poland, where the táltos and similar practitioners occupied a more ambivalent status.",
+      "implication": "Klaniczay's regional specificity supports Hutton's argument that regional variation was primary in early modern popular magical belief — there was no single 'popular witch-belief' but a set of regionally distinctive traditions that the composite stereotype and the emerging prosecutorial system engaged differently."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Carlo Ginzburg (provided comparative evidence for Ecstasies; broadly supportive of the argument for a widespread night-combat tradition, though more cautious about the shamanic thesis)",
+      "Éva Pócs (closest Hungarian colleague; shared focus on Central/Eastern European popular belief, though their interpretations of the shamanic thesis differ)"
+    ],
+    "creative_tension_with": [
+      "Ronald Hutton (Hutton criticizes the use of the táltos and similar evidence for the shamanic thesis; Klaniczay's interpretation is more cautious than Ginzburg's but still sees genuine structural parallels between the Central European material and the benandanti)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Klaniczay appears primarily in the followers-of-the-lady-night-ride concept entry as a contributor of Central European comparative evidence for the night-combat tradition. His work is relevant to the composite-witch-stereotype-formation entry's discussion of regional variation in stereotype formation.",
+    "analytical_weight": "Klaniczay is a secondary figure for this database's primary focus (Western European witch prosecution), but important for the comparative dimension — especially the debate about whether the night-combat tradition documented in the Western Alps and Friuli represents a genuinely widespread European folk belief or a more limited regional phenomenon."
+  },
+
+  "scholarly_disagreement": "The primary debate about Klaniczay's work is whether the táltos and related Central European traditions genuinely support Ginzburg's shamanic thesis or merely demonstrate regional variation in night-combat folk belief. Klaniczay himself is cautious about the fully Eurasian shamanic reading, preferring to emphasize Central European specificity. Hutton (The Witch, ch.5) accepts the Central European evidence as real but argues it demonstrates regional variation, not a unified shamanic substratum.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.5 (for Hutton's engagement with Klaniczay's táltos evidence); Carlo Ginzburg, Ecstasies (1991) (for Ginzburg's use of Klaniczay's material); primary works: Gábor Klaniczay, The Uses of Supernatural Power (1990); Witch Trials in Central Europe (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}
