@@ -1,0 +1,46 @@
+{
+  "id": "del-rio-disquisitiones-1599",
+  "title": "Disquisitionum magicarum libri sex",
+  "author": "Martin del Río SJ",
+  "author_slug": "del-rio-martin-b1551",
+  "year_published": 1599,
+  "original_year": 1599,
+  "publisher": "Gerardus Rivius, Louvain (first edition; second edition 1600; ~30 further editions to 1755)",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "The most comprehensive Counter-Reformation Catholic demonological reference work, applying Thomistic scholastic method to the systematic classification and analysis of all forms of magic, divination, and demonic operation.",
+
+  "summary": "Martin del Río's Disquisitionum magicarum libri sex (1599–1600) became the standard reference work for Catholic demonological analysis for over a century and a half, going through approximately thirty editions from Louvain to Madrid to Cologne. A product of del Río's Jesuit training and his scholarly synthesis of classical natural philosophy, canon law, theology, and comparative ethnography, the Disquisitiones applied the Thomistic framework of superstition typology — the threefold classification of idolatry, divination, and vain observance — to every form of preternatural practice then known to European scholarship. The six books move from definitions and categories through goetic (demonic) and theurgi c (angelic) magic, divination in its many forms, superstitious practices without clear demonic dimension, and finally the judicial and theological procedures appropriate to each category. Del Río drew on a vast library of classical, patristic, scholastic, and contemporary natural-philosophical sources, including Aristotle, Pliny, Galen, Porta, and Agrippa, to support his analyses. The result was not a sensational demonological treatise but a rigorous academic encyclopedia — the work a confessor, inquisitor, or secular judge would consult when encountering any variety of suspect practice.",
+
+  "scholarly_significance": "Del Río's Disquisitiones is significant in the database primarily through Clark's use of it as the fullest systematic articulation of the natural/demonic magic distinction and the superstition typology that structures early modern Catholic demonological thought. Clark cites the Disquisitiones throughout Thinking with Demons as the most complete statement of the scholastic framework within which witch prosecution operated: not a hysteria-driven popular text but a learned synthesis aimed at learned readers. The work's longevity (editions through 1755) demonstrates the durability of the Thomistic demonological framework across confessional boundaries — del Río was widely read in Protestant territories as well as Catholic ones. The database's superstition-as-category concept entry draws on del Río's threefold typology as its primary organizing framework. Del Río's engagement with natural philosophy — his serious treatment of Porta, Cardano, and Agrippa within the demonological framework — is the primary evidence for the argument in the natural-demonic-magic-distinction entry that boundary-drawing between natural and demonic magic was philosophically serious rather than arbitrary.",
+
+  "key_arguments": [
+    {
+      "concept": "Thomistic superstition typology as organizational principle",
+      "claim": "Del Río organized the entire field of magical practice using Aquinas's threefold classification: idolatry (direct demonic worship), divination (seeking hidden knowledge through demonic means), and vain observance (using causally inefficacious means, implying tacit demonic pact). This framework allowed every form of suspect practice — from learned ceremonial magic to village charm-use — to be classified and assigned appropriate theological and legal status."
+    },
+    {
+      "concept": "Natural efficacy as the dividing criterion",
+      "claim": "Del Río applied the natural efficacy criterion consistently: practices whose effects could be achieved through natural secondary causes were potentially legitimate (natural magic); practices whose effects exceeded natural secondary causes required demonic assistance and constituted superstition or witchcraft. The borderline cases — practices with partial natural explanations — received the most careful analysis in the Disquisitiones."
+    },
+    {
+      "concept": "Judicial procedure calibrated to offense category",
+      "claim": "Del Río's final books set out the appropriate judicial and theological responses to each category of magical offense: penalties ranged from pastoral correction for minor superstitions to death for explicit demonic pact and sabbat attendance. This calibration made the Disquisitiones a practical legal handbook as well as a theoretical treatise."
+    },
+    {
+      "concept": "Encyclopedic engagement with natural philosophy",
+      "claim": "Del Río treated Della Porta, Cardano, Agrippa, and Paracelsus as serious interlocutors whose natural-philosophical claims required engagement rather than dismissal. By working through natural magic claims systematically, the Disquisitiones both acknowledged the power of the natural philosophy tradition and demonstrated where it crossed into demonic territory — a more sophisticated response to natural magic than simple condemnation."
+    }
+  ],
+
+  "relation_to_database": "The Disquisitiones is the primary source for the superstition-as-category concept entry's Thomistic typology section and the natural-demonic-magic-distinction entry's treatment of how learned demonology drew the boundary between natural and demonic operation. Del Río appears in the scholarly_relationships.alignment_with arrays of boguet-henri-b1550, nider-johannes-b1380, and kramer-heinrich-b1430 as a later systematizing authority. The del-rio-disquisitiones-published-1599 timeline entry documents the work's publication.",
+
+  "scholarly_disagreement": "There is little scholarly disagreement about the Disquisitiones' content or importance. The primary question is how to weight del Río's work relative to the Malleus Maleficarum: some historians (Walter Stephens) treat the Malleus as the foundational demonological text; others (Clark, Caciola) see the Disquisitiones as the fuller and more representative statement of the mature scholastic demonological synthesis, precisely because it postdates the systematic engagement with natural philosophy that the Malleus lacks. Clark's extensive use of del Río in Thinking with Demons implicitly endorses the latter position.",
+  "source_method": "Published primary source: Gerardus Rivius, Louvain 1599 (Books 1–3), 1600 (complete); Stuart Clark, Thinking with Demons (1997/2001) for analysis and citation",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

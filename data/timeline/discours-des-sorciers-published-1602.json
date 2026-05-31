@@ -1,0 +1,24 @@
+{
+  "id": "discours-des-sorciers-published-1602",
+  "event_name": "Boguet publishes Discours des sorciers",
+  "event_type": "primary_source_publication",
+  "date": "1602",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Paris, France",
+  "location_slug": null,
+  "significance": "Henri Boguet, Grand juge of Saint-Claude in Burgundy, published Discours des sorciers, a demonological compendium derived from his prosecution of Françoise Secretain (1598) and subsequent Burgundian cases. Notable for its rigorous naturalistic analysis of each alleged witchcraft power — distinguishing natural causes, ritually meaningless acts, and genuine demonic action through secondary means. Stuart Clark opens his 'Believers and Sceptics' chapter with Boguet as the primary case demonstrating that witch prosecutors applied sophisticated natural-philosophical standards to evidence.",
+  "related_entities": [
+    "boguet-henri-b1550",
+    "maleficium-harmful-magic",
+    "natural-demonic-magic-distinction"
+  ],
+  "source_method": "Published primary source: Paris, 1602; English translation: An Examen of Witches, trans. E. A. Ashwin, ed. Montague Summers (John Rodker, London, 1929)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

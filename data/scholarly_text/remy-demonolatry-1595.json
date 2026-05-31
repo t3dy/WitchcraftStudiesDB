@@ -1,0 +1,46 @@
+{
+  "id": "remy-demonolatry-1595",
+  "title": "Demonolatreiae libri tres (Demonolatry)",
+  "author": "Nicolas Rémy",
+  "author_slug": "remy-nicolas-b1530",
+  "year_published": 1595,
+  "original_year": 1595,
+  "publisher": "Vincent Appon, Lyons",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "Systematic demonological compendium drawn from more than 800 witchcraft prosecutions conducted by Rémy as procureur général of Lorraine, presenting the most detailed French vernacular account of sabbat practices and demonic operation.",
+
+  "summary": "Nicolas Rémy's Demonolatreiae libri tres (1595) is the most empirically documented French demonological work: drawn directly from Rémy's prosecution of over 800 cases in Lorraine over the preceding decade, it presents a detailed and systematic account of demonic operation, sabbat practices, and maleficium drawn from trial confessions rather than from theoretical elaboration alone. Rémy's method was comparative: he systematically collated testimony from hundreds of accused persons to identify the consistent features of sabbat description, the mechanisms of demonic maleficium, and the varieties of pact-making. The result is both a demonological compendium and an implicit evidential argument — the consistency of confessions across independent witnesses was Rémy's primary proof of their reliability. The work is organized in three books: demonic relationships with humans (pact, sabbat, demonic familiars); demonic works and maleficium; and the legal consequences of demonic alliance. Stuart Clark uses the Demonolatry as his primary source for sabbat inversion phenomenology, citing Rémy's detailed descriptions of how each element of Christian practice was systematically inverted at the sabbat.",
+
+  "scholarly_significance": "The Demonolatry occupies a central position in the database for two distinct reasons. First, it is the most detailed primary source for sabbat phenomenology: Rémy's collation of hundreds of sabbat descriptions provides the empirical base from which Clark's analysis of the inversion principle is derived. The sabbat's systematic inversion of Christian worship — obscene homage replacing adoration, obscene kiss replacing the Eucharist, corrupt banquet replacing the holy meal — is documented in Rémy with a density not found in any other single source. Second, the Demonolatry represents the French magistrate-demonologist tradition alongside Boguet and de Lancre: three prosecutorial authorities who derived their demonological frameworks directly from judicial practice rather than from academic theology. Clark uses all three, but Rémy is foundational because the Lorraine cases were the most numerous and the Demonolatry the most systematic. The work was translated into English by E. A. Ashwin in 1930 (edited by Montague Summers), making it accessible to the English-language scholarship that forms most of the database's secondary literature.",
+
+  "key_arguments": [
+    {
+      "concept": "Confessional consistency as proof of reality",
+      "claim": "Rémy argued that the consistency of sabbat descriptions across hundreds of independently questioned accused persons demonstrated that the sabbat was a real event, not a fabrication. Minor variations in detail reflected individual differences in attendance and perception; major structural consistency (the obscene homage, the corrupt banquet, the inversion of Christian rites) proved genuine shared experience."
+    },
+    {
+      "concept": "Systematic sabbat inversion",
+      "claim": "Rémy documented the sabbat as a complete inversion of Christian worship in each of its elements: the Devil received the homage owed to God; the sabbat meal perverted the Eucharist; the participants trampled and defiled Christian symbols; devotional gestures were performed backwards or with obscene substitutions. Clark uses this systematic inversion as the central evidence for the 'inversion principle' in Thinking with Demons."
+    },
+    {
+      "concept": "Devil's knowledge of natural secrets",
+      "claim": "Rémy argued that the maleficium witches performed was possible because the Devil possesses perfect knowledge of all natural secondary causes — the hidden properties of plants, minerals, and elemental forces — and communicates this knowledge to his servants. This naturalistic explanation for demonic maleficium connected demonological theory to the natural philosophy tradition and made the claimed effects scientifically plausible within the secondary-causation framework."
+    },
+    {
+      "concept": "Eight hundred executed as empirical base",
+      "claim": "Rémy's claim to have executed over 800 witches in fifteen years provided the empirical warrant for the Demonolatry's generalizations: unlike purely academic demonologists, Rémy derived his conclusions from prosecutorial practice. This claim has been questioned by modern historians (actual documented executions from Lorraine records run considerably lower), but the claim itself structured the work's authority."
+    }
+  ],
+
+  "relation_to_database": "The Demonolatry is the primary source for the witches-sabbath-collective and inversion-principle concept entries. It is the reference work behind the demonolatry-published-1595 timeline entry. Rémy is listed as an authority in alignment with Boguet (boguet-henri-b1550) and de Lancre (de-lancre-pierre-b1553) in the French magistrate-demonologist tradition.",
+
+  "scholarly_disagreement": "The primary historical debate about the Demonolatry concerns Rémy's claim of 800+ executions. Robin Briggs, working from Lorraine court records, documented considerably fewer executions than Rémy claimed. Briggs argues that Rémy exaggerated his prosecutorial record to enhance the Demonolatry's empirical authority, and that the actual Lorraine trials, while extensive, were not as numerous as Rémy implied. The significance of Rémy's sabbat descriptions is not undermined by this revision, but the claim that they represent an unusually large empirical base requires qualification.",
+  "source_method": "Published primary source: Vincent Appon, Lyons 1595; English translation: Nicolas Rémy, Demonolatry, trans. E. A. Ashwin, ed. Montague Summers (John Rodker, London, 1930); Robin Briggs, Witches and Neighbours (1996) for prosecution numbers",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "de-lancre-tableau-published-1612",
+  "event_name": "De Lancre publishes Tableau de l'inconstance",
+  "event_type": "primary_source_publication",
+  "date": "1612",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Paris, France",
+  "location_slug": null,
+  "significance": "Pierre de Lancre published the Tableau de l'inconstance des mauvais anges et démons, his account of the 1609 Labourd investigation, which became the most detailed early modern phenomenological description of the witches' sabbat. The 1613 second edition included the famous sabbat engraving. Clark uses the Tableau as his primary source for sabbat inversion phenomenology in Thinking with Demons, citing it as the fullest documentary expression of the inversion principle.",
+  "related_entities": [
+    "de-lancre-pierre-b1553",
+    "witches-sabbath-collective",
+    "inversion-principle"
+  ],
+  "source_method": "Published primary source: Jean Berjon, Paris 1612 (1st ed.), 1613 (2nd ed. with engraving)",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

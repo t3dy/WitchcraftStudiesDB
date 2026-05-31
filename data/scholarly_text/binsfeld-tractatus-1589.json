@@ -1,0 +1,42 @@
+{
+  "id": "binsfeld-tractatus-1589",
+  "title": "Tractatus de confessionibus maleficorum et sagarum",
+  "author": "Peter Binsfeld",
+  "author_slug": "binsfeld-peter-b1545",
+  "year_published": 1589,
+  "original_year": 1589,
+  "publisher": "Heinrich Bock, Trier (1st ed.); enlarged 2nd ed. 1591",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "Legal-theological defense of witch-trial evidence theory and exceptional procedure, drawn from Binsfeld's supervisory role in the Trier prosecutions; argues systematically for the admissibility and reliability of torture-extracted confessions and children's testimony in witchcraft cases.",
+
+  "summary": "Peter Binsfeld's Tractatus de confessionibus maleficorum et sagarum (1589, enlarged 1591) is the principal legal-theological justification for mass witch prosecution by exceptional procedure. Written by the Suffragan Bishop of Trier while the major Trier prosecutions were underway, the Tractatus addressed the central evidentiary problem of witch prosecution: how could confessions extracted under torture be trusted, and how could the normal Roman-canon procedural safeguards be suspended for witchcraft cases? Binsfeld's answers were systematic: confession reliability was demonstrated by the internal consistency of testimony across independently questioned accused persons; procedural exceptions were justified by the crimen exceptum doctrine (witchcraft as an exceptional crime, analogous to treason, where normal safeguards could be suspended given the scale of the danger); and children's testimony against their parents was admissible because the extraordinary conspiracy of witchcraft against Christian society justified departing from the normal prohibition. The Tractatus went through multiple editions (1589, 1591, 1596, 1623) and was directly applied in the Würzburg and Bamberg prosecutions of the 1620s. Friedrich Spee's Cautio criminalis (1631) was in large part a direct refutation of the Tractatus's evidence theory.",
+
+  "scholarly_significance": "The Tractatus is significant in the database as the procedural complement to the theological demonological literature: where the Malleus and the Disquisitiones provided the theological framework for why witchcraft was possible and criminal, the Tractatus provided the legal framework for how prosecutions could proceed on the basis of evidence that would be inadmissible in ordinary criminal trials. The Tractatus is thus the work that most directly enabled the transition from individual accusation to mass prosecution — by relaxing evidential and procedural constraints, it created the legal space for the cascade dynamics (accused witches naming others, children testifying against parents) that produced the large-scale prosecutions of the 1580s–1620s. Understanding the Tractatus is essential for understanding both the Trier trials (the immediate context) and the Spee entry (spee-cautio-criminalis-1631), which cannot be fully understood without knowing what procedural tradition Spee was attacking.",
+
+  "key_arguments": [
+    {
+      "concept": "Confession reliability through consistency",
+      "claim": "Binsfeld argued that torture-extracted witchcraft confessions were reliable because the same details appeared across confessions from independently questioned accused persons. This consistency, he argued, could not result from interrogator suggestion alone; it demonstrated that the confessions reflected real shared experiences. Spee later demolished this argument by showing that consistency resulted from interrogators following the same demonological template."
+    },
+    {
+      "concept": "Crimen exceptum justifying procedural exception",
+      "claim": "Witchcraft's combination of spiritual apostasy, physical harm, and organized conspiracy placed it in the Roman-law category of exceptional crimes (crimen exceptum) alongside treason. For such crimes, the ordinary procedural safeguards of Roman-canon criminal procedure — requirements for independent corroboration, restrictions on torture, prohibition of certain testimony — could be suspended given the scale of the threat."
+    },
+    {
+      "concept": "Children's testimony admissible against parents",
+      "claim": "Roman-canon procedure normally prohibited children from testifying against their parents in capital cases. Binsfeld argued this prohibition must yield in witchcraft cases because children who had been brought to sabbats by their parents were the only available witnesses to those sabbats. The crimen exceptum doctrine justified this exception."
+    }
+  ],
+
+  "relation_to_database": "The Tractatus is the primary procedural authority behind the trier-witch-trials-1581 timeline entry and is cross-referenced in the binsfeld-peter-b1545 scholar entry. The spee-cautio-criminalis-1631 scholarly_text entry cannot be fully understood without the Tractatus as the procedural tradition Spee was refuting. The crimen exceptum doctrine described in the Tractatus is mentioned in the witch-trial-skepticism concept entry.",
+
+  "scholarly_disagreement": "The primary debate about the Tractatus concerns how to evaluate Binsfeld's legal arguments. Wolfgang Behringer and Walter Rummel, working from Trier prosecution records, show that the 'confessional consistency' Binsfeld cited as proof of reliability was in fact produced by interrogators following a standard demonological template — the consistency was in the questions, not in any independently reported experience. Adam Tanner's Theologia scholastica (1626–1627) raised internal Jesuit objections to the crimen exceptum doctrine, arguing that the exceptional-crime exception required limits or it became an unlimited license for prosecution. Rainer Walz has argued for a more sympathetic reading of Binsfeld as a skilled canonist working within his tradition's best available arguments.",
+  "source_method": "Primary source: Heinrich Bock, Trier 1589 (1st ed.), 1591 (enlarged 2nd ed.); Wolfgang Behringer, Witchcraft Persecutions in Bavaria (1997); Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

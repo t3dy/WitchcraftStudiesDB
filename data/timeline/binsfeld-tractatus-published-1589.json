@@ -1,0 +1,24 @@
+{
+  "id": "binsfeld-tractatus-published-1589",
+  "event_name": "Binsfeld publishes Tractatus de confessionibus",
+  "event_type": "primary_source_publication",
+  "date": "1589",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Trier, Electoral Archbishopric of Trier",
+  "location_slug": null,
+  "significance": "Peter Binsfeld, Suffragan Bishop of Trier, published the Tractatus de confessionibus maleficorum et sagarum, the principal legal-theological justification for mass witch prosecution by exceptional procedure. The Tractatus argued systematically for the admissibility of torture-extracted confessions (via confessional consistency) and children's testimony, and applied the crimen exceptum doctrine to suspend normal Roman-canon procedural safeguards in witchcraft cases. The work went through multiple editions and directly enabled the Würzburg and Bamberg mass prosecutions of the 1620s. Friedrich Spee's Cautio criminalis (1631) was in large part a direct refutation.",
+  "related_entities": [
+    "binsfeld-peter-b1545",
+    "spee-friedrich-b1591",
+    "spee-cautio-criminalis-1631"
+  ],
+  "source_method": "Published primary source: Heinrich Bock, Trier 1589",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

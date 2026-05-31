@@ -1,0 +1,42 @@
+{
+  "id": "de-lancre-tableau-1612",
+  "title": "Tableau de l'inconstance des mauvais anges et démons",
+  "author": "Pierre de Lancre",
+  "author_slug": "de-lancre-pierre-b1553",
+  "year_published": 1612,
+  "original_year": 1612,
+  "publisher": "Jean Berjon, Paris",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "Account of de Lancre's 1609 witchcraft investigation in the Labourd region of the French Basque Country, providing the most detailed early modern phenomenological description of the witches' sabbat alongside a cultural theory of Basque susceptibility to demonic influence.",
+
+  "summary": "Pierre de Lancre's Tableau de l'inconstance des mauvais anges et démons (1612) is the most visually and phenomenologically rich account of the witches' sabbat produced in the early modern period. De Lancre, a counsellor to the Parlement de Bordeaux, was commissioned by Henry IV in 1609 to investigate widespread witchcraft in the Labourd district of the Basque country, resulting in approximately 80 executions. The Tableau translates this investigation into an elaborate demonological compendium organized around the concept of inconstance — the moral and cultural instability that de Lancre argued made the Basque population uniquely vulnerable to demonic infiltration. The work is notable for its extraordinary detail: de Lancre described sabbat practices with a vividness drawn from interrogation testimony that made the Tableau the primary reference for sabbat phenomenology in subsequent literature. The Tableau also contains one of the most famous early modern engravings of the sabbat (the 1613 edition frontispiece), making it a visual as well as textual resource for the sabbat stereotype. Stuart Clark uses the Tableau as his primary source for the inversion principle in the sabbat chapters of Thinking with Demons.",
+
+  "scholarly_significance": "The Tableau is significant in the database as the densest single source for sabbat phenomenology and inversion analysis. Clark cites it more frequently than any other single primary source in the Festivals and Sabbats chapters of Thinking with Demons: de Lancre's detailed descriptions of how each Christian practice was systematically inverted at the sabbat (adoration replaced by obscene homage, sacred music replaced by cacophony, holy meal replaced by corrupt banquet) provide the empirical foundation for the inversion-principle concept entry. The Tableau is also significant as the most explicit regional-cultural argument in the demonological corpus: de Lancre's inconstance thesis — that Basque maritime culture, with its absent husbands and free-ranging women, created particular susceptibility to demonic seduction — represents the most developed early modern attempt to explain regional witchcraft prevalence through cultural sociology rather than pure theology. This makes it a bridge between the intellectual-historical and social-historical traditions in witchcraft studies.",
+
+  "key_arguments": [
+    {
+      "concept": "Inconstance as cultural susceptibility",
+      "claim": "De Lancre argued that the Basque people were especially susceptible to demonic infiltration because of their inconstance — a cultural and moral instability rooted in maritime occupations (husbands absent at sea), Basque social customs (women's relative freedom), and geographical isolation. This was not a universal theory of female susceptibility but a culturally specific argument about why one region showed such extreme witch prevalence."
+    },
+    {
+      "concept": "Fullest sabbat phenomenology",
+      "claim": "The Tableau contains the most detailed early modern description of sabbat practices: the Devil's physical appearance and behavior, the sequence of ceremonies, the food and music, the dancing, the demonic sexual encounters, the parody of Christian rites. Clark treats this as the fullest documentary expression of the inversion principle — the sabbat as systematic anti-church."
+    },
+    {
+      "concept": "Visual sabbat iconography",
+      "claim": "The 1613 edition of the Tableau included the famous engraving of the sabbat that became one of the most reproduced early modern images of witch assemblies. The image synthesized the textual descriptions into a visual form that reinforced and amplified the textual stereotype, contributing to the standardization of sabbat imagery across Europe."
+    }
+  ],
+
+  "relation_to_database": "The Tableau is the primary source for the inversion-principle concept entry's sabbat phenomenology section. De Lancre appears in the demonological_scholar entry de-lancre-pierre-b1553. The de-lancre-labourd-investigation-1609 timeline entry documents the prosecution that produced the Tableau.",
+
+  "scholarly_disagreement": "The primary debate about the Tableau concerns the relationship between de Lancre's cultural thesis (Basque inconstance) and his broader demonological framework. Some historians (L'Estrange Ewen, older scholarship) read the cultural thesis as mere rationalization for a predetermined prosecution. More recent historians (Jonathan Pearl, Gustav Henningsen on Basque witchcraft) have taken the cultural analysis more seriously as evidence of regional variation in witchcraft prosecution patterns. The phenomenological richness of the sabbat descriptions has also been debated: whether they represent authentic indigenous beliefs or interrogator-driven fantasy constructed from demonological templates is directly parallel to the debate about Rémy's Lorraine confessions.",
+  "source_method": "Published primary source: Jean Berjon, Paris 1612 (1st ed.), 1613 (2nd ed. with engraving); Stuart Clark, Thinking with Demons (1997/2001), Festivals and Sabbats chapters",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

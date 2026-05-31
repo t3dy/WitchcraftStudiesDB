@@ -1,0 +1,24 @@
+{
+  "id": "del-rio-disquisitiones-published-1599",
+  "event_name": "Del Río publishes Disquisitionum magicarum libri sex",
+  "event_type": "primary_source_publication",
+  "date": "1599",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Louvain (Books 1–3, 1599; complete edition 1600)",
+  "location_slug": null,
+  "significance": "Martin del Río SJ published the Disquisitionum magicarum libri sex, which became the standard Counter-Reformation Catholic reference work on magic and demonology for over 150 years (~30 editions to 1755). Applying rigorous Thomistic method, the Disquisitiones systematically classified all forms of magic using the superstition typology (idolatry, divination, vain observance) and set out appropriate judicial and theological responses to each category. Clark uses it as the fullest statement of the scholastic demonological synthesis in Thinking with Demons.",
+  "related_entities": [
+    "del-rio-martin-b1551",
+    "superstition-as-category",
+    "natural-demonic-magic-distinction"
+  ],
+  "source_method": "Published primary source: Gerardus Rivius, Louvain 1599–1600",
+  "confidence": "HIGH",
+  "review_status": "VERIFIED",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}
