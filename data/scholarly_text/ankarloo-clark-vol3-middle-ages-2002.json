@@ -1,0 +1,41 @@
+{
+  "id": "ankarloo-clark-vol3-middle-ages-2002",
+  "title": "Witchcraft and Magic in Europe, Volume 3: The Middle Ages",
+  "author": "Bengt Ankarloo and Stuart Clark (editors)",
+  "author_slug": "clark-stuart-b1943",
+  "year_published": 2002,
+  "publisher": "University of Pennsylvania Press",
+  "series": "Witchcraft and Magic in Europe (6 volumes)",
+  "text_type": "edited_volume",
+
+  "subject_focus": "Scholarly survey of medieval witchcraft, magic, and demonology covering the intellectual and institutional roots of the early modern witch trials.",
+
+  "summary": "Volume 3 of the Witchcraft and Magic in Europe series covers the medieval period (approximately 800-1450), documenting the intellectual, theological, and legal developments that created the preconditions for early modern witch prosecution. Contributions by specialists address the development of canon law on magic and heresy; the emergence of demonological theory in scholastic theology; the transition from early medieval legislative skepticism about witchcraft (the Canon Episcopi and its tradition) to the late medieval acceptance of the reality of witch assemblies; and the early fifteenth-century crystallization of the composite witch stereotype in Alpine and Italian trials. The volume provides the crucial long-range context for understanding why the early modern witch trials took the specific form they did: the theological apparatus (demonic pact, sabbath, maleficium) was assembled over centuries before it was deployed in mass prosecution.",
+
+  "scholarly_significance": "Volume 3 is the standard reference for the medieval intellectual history of witchcraft and demonology. It is directly relevant to the database's `demonological_concept` entries, particularly those covering the demonic pact and witches' sabbath, both of which have roots in medieval heresy accusations and theological developments documented in this volume. The volume's coverage of the Canon Episcopi — the early medieval church document that treated night-riding and witches' assemblies as delusions — and its eventual supersession by late medieval acceptance of the sabbath's reality is essential background for understanding why the early modern trials were possible at all.\n\n  The database cites this volume for claims about the intellectual genealogy of demonological concepts, particularly in the `intellectual_genealogy` sections of `demonic-pact-early-modern.json` and `witches-sabbath-collective.json`.",
+
+  "key_arguments": [
+    {
+      "concept": "Medieval preconditions for early modern prosecution",
+      "claim": "The early modern witch trials required prior centuries of intellectual and legal development: the concept of the demonic pact, the idea of heretical assemblies, and the category of apostasy were all elaborated in medieval theological and canon-law traditions before they were applied in systematic prosecution."
+    },
+    {
+      "concept": "Canon Episcopi tradition and its supersession",
+      "claim": "Medieval church law (the Canon Episcopi) initially treated reports of night-riding and witches' assemblies as diabolically induced delusions rather than real events. The gradual supersession of this skeptical tradition by fifteenth-century acceptance of the sabbath's reality was a prerequisite for mass prosecution."
+    },
+    {
+      "concept": "Early crystallization of composite witch stereotype",
+      "claim": "The composite witch stereotype combining maleficium, demonic pact, and sabbath emerged in Alpine and Italian trials of the early-to-mid fifteenth century (c.1420-1450), predating the Malleus Maleficarum by several decades and demonstrating that prosecution practice preceded theoretical systematization."
+    }
+  ],
+
+  "relation_to_database": "Cited in `demonological_concept/witches-sabbath-collective.json` and `demonological_concept/demonic-pact-early-modern.json` for their intellectual genealogy sections. Also relevant to the `todi-1428-witchcraft-trial` trial event entry, which documents one of the earliest Italian trials in the early crystallization period.",
+
+  "scholarly_disagreement": "The volume's coverage of the medieval period is representative of consensus scholarship. Individual contributors' arguments have been refined in subsequent monographs. The question of whether pre-Christian folk traditions played a role in shaping medieval witchcraft beliefs (Ginzburg's position) or whether medieval witch belief was purely clerical construction (Cohn's position) is engaged but not resolved.",
+  "source_method": "Published text; University of Pennsylvania Press 2002",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

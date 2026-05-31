@@ -1,0 +1,48 @@
+{
+  "id": "ginzburg-ecstasies-1991",
+  "title": "Ecstasies: Deciphering the Witches' Sabbath",
+  "author": "Carlo Ginzburg",
+  "author_slug": "ginzburg-carlo-b1939",
+  "year_published": 1991,
+  "original_year": 1989,
+  "original_title": "Storia notturna: Una decifrazione del sabba",
+  "original_language": "Italian",
+  "original_publisher": "Einaudi, Turin",
+  "publisher": "Pantheon Books (English translation by Raymond Rosenthal)",
+  "text_type": "monograph",
+
+  "subject_focus": "Comparative mythological and historical analysis arguing that the witches' sabbath derived from a pan-Eurasian shamanic tradition of ecstatic journeys, tracing its development through trial records and comparative folklore.",
+
+  "summary": "Ecstasies is Ginzburg's major theoretical work, extending the microhistorical method of The Night Battles into a sweeping comparative argument about the origins of the witches' sabbath. Ginzburg proposes that the sabbath concept crystallized through the encounter between two phenomena: a pre-Christian Eurasian mythological complex involving ecstatic spirit journeys to the land of the dead or a parallel world, and the demonological framework that inquisitors imposed when they encountered folk practitioners who described such experiences. The evidence base includes trial records from across Europe (the Friuli benandanti, Corsican mazzeri, Hungarian táltos, Ossetian Burxor), comparative mythology, folklore collections, and an extended analysis of early witch trials from the Alpine regions and Italy. Ginzburg argues that the elements of the sabbath — nocturnal assembly, spirit journey, battle between good and evil forces, encounter with the dead — are systematically present in the underlying folk traditions that inquisitorial interrogation reframed as demonic activity.",
+
+  "scholarly_significance": "Ecstasies is Ginzburg's most ambitious and most contested work. Its scope — spanning from Siberian shamanism to English fairy lore to Sicilian fairy cult to the Friulian benandanti — is intellectually extraordinary and has influenced comparative mythology and religious studies as well as witchcraft historiography. Within witchcraft studies specifically, the work made the sabbath's cultural origins a legitimate historical question rather than an artifact of prosecutorial fantasy, and it situates the early Italian and Alpine witch trials in a comparative framework that challenges purely local or institutional explanations.\n\n  Robin Briggs's challenge — that Ginzburg over-interprets fragmentary and geographically dispersed evidence in constructing a unified shamanic complex — is the strongest scholarly critique and has been influential among social historians. Hutton's The Witch (2017) engages the thesis in detail, accepting the folk-practice evidence while maintaining skepticism about the continuity argument. The interrogation-analysis methodology in the first section, however, is broadly accepted: Ginzburg's reading of the early Italian witch trials (including the Todi 1428 case) as evidence for the crystallization of the sabbath concept in judicial practice before the Malleus Maleficarum is not significantly contested.",
+
+  "key_arguments": [
+    {
+      "concept": "Eurasian shamanic complex",
+      "claim": "A pre-Christian mythological complex involving ecstatic spirit journeys — to the land of the dead, to a parallel world, or in the form of an animal — is documented across Eurasia from Siberia to Western Europe, with systematic structural parallels that suggest a shared cultural origin."
+    },
+    {
+      "concept": "Sabbath as inquisitorial crystallization",
+      "claim": "The witches' sabbath emerged when inquisitors encountered folk practitioners who described ecstatic spirit journeys and applied their demonological framework to reinterpret these experiences as demonic assemblies. The sabbath is the product of this encounter, not a pure invention by either party."
+    },
+    {
+      "concept": "Early Italian trials as crystallization locus",
+      "claim": "The Alpine and Italian regions — including the Todi 1428 trial — were among the earliest sites where the composite witch stereotype (including sabbath) crystallized in judicial practice, suggesting this region's folk traditions were particularly rich sources for the encounter between folk ecstatic practice and demonological interrogation."
+    },
+    {
+      "concept": "Gender and the night battles",
+      "claim": "The gender dynamics of the night-battle traditions are complex: in some regional variants (Friulian benandanti, Hungarian táltos) men predominated; in others women were central. This regional variation challenges simple misogyny explanations for the gendered pattern in witch prosecution."
+    }
+  ],
+
+  "relation_to_database": "Ecstasies is cited in the `demonological_concept/witches-sabbath-collective.json` entry's intellectual genealogy section; in the `trial_event/todi-1428-witchcraft-trial.json` entry's discussion of early Italian sabbath crystallization; in the `location/todi.json` and `location/friuli.json` entries; and in the `demonological_scholar/ginzburg-carlo-b1939.json` entry's account of the shamanic-continuity debate.",
+
+  "scholarly_disagreement": "The shamanic-continuity thesis is the most contested aspect of Ginzburg's career. Briggs's Witches and Neighbors (1996) challenged the comparative methodology as over-interpreting the structural parallels in scattered evidence. Hutton in The Witch (2017) accepted the existence of diverse ecstatic folk traditions while questioning whether they constituted a unified Eurasian complex. Norman Cohn's Europe's Inner Demons (1975), written before Ecstasies, took the opposing position that the sabbath was entirely an inquisitorial fantasy with no folk-practice basis whatsoever — Ginzburg's work represents the strongest evidence against Cohn's position.",
+  "source_method": "Published text; Pantheon Books 1991 English translation",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

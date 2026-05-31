@@ -1,0 +1,44 @@
+{
+  "id": "hutton-the-witch-2017",
+  "title": "The Witch: A History of Fear, from Ancient Times to the Present",
+  "author": "Ronald Hutton",
+  "author_slug": "hutton-ronald-b1953",
+  "year_published": 2017,
+  "publisher": "Yale University Press",
+  "text_type": "monograph",
+
+  "subject_focus": "Global comparative history of witch belief and prosecution, emphasizing service-magic practitioners, demographic analysis, and the social context of accusation.",
+
+  "summary": "The Witch is Hutton's synthetic account of witch belief and persecution across cultures and periods, from ancient Mesopotamia to the present. Its central argument is that the 'European witch' — the composite figure combining maleficium, demonic pact, sabbath, and night flight — was a specifically early modern Western European construction with a complex genealogy drawing on multiple older traditions. Hutton's distinctive contribution is his attention to the social function of what he calls 'service magic': healers, cunning folk, wise women, midwives, and other folk practitioners who provided legitimate services within communities and who formed the most common target of witchcraft accusation. His argument is that these practitioners were not prosecuted because of misogynistic theology but because the demonological category of the witch was applied to the most available candidates — persons whose social function already involved claimed supernatural knowledge — by institutional authorities who had reason to criminalize that function. The work synthesizes three decades of Hutton's research on British and European paganism, folklore, and social history.",
+
+  "scholarly_significance": "The Witch is the most comprehensive recent synthesis of the social history of witch prosecution and folk magic. It builds on Hutton's prior specialized studies (The Triumph of the Moon, Stations of the Sun) and incorporates decades of specialist literature, including careful engagement with Levack's statistics, Clark's intellectual history, and Ginzburg's microhistory. Its particular contributions to the field include a sustained challenge to the feminist thesis that witch prosecution was primarily a campaign of misogynistic violence — Hutton argues empirically that women's predominance among accused reflects their predominance in folk-magic practice, not a conspiracy targeting women as such, and that women were also major accusers in many prosecutions. Its demographic analysis, synthesizing prosecution records across regions, is the most recent comprehensive version of the statistical picture that Levack established in 1987.\n\n  The work is used throughout this database's `persecuted_group` entries (cunning folk, midwives, socially marginal) and in the `accused_person` entries' social history framing. The database's principle that accused persons should be understood as folk practitioners before they were accused witches derives directly from Hutton's framework.",
+
+  "key_arguments": [
+    {
+      "concept": "Service-magic practitioners as prosecution target",
+      "claim": "The most commonly prosecuted individuals in European witch trials were folk practitioners — healers, cunning folk, midwives, diviners — whose community function involved claimed supernatural knowledge. Their prosecution represented the institutional recategorization of a legitimate occupational role as a criminalized one."
+    },
+    {
+      "concept": "Gender pattern as occupational artifact",
+      "claim": "Women's predominance among the accused reflects their predominance in folk-magic practice, not simply misogynistic targeting. The significant minority of male accused (in some regions a majority) were predominantly cunning men and folk healers — the same occupational profile as female accused."
+    },
+    {
+      "concept": "Skepticism about shamanic continuity",
+      "claim": "Hutton accepts that diverse ecstatic folk traditions existed across Europe but is skeptical of Ginzburg's claim that these represent a unified pre-Christian Eurasian shamanic complex. He favors independent regional development over a single cultural origin."
+    },
+    {
+      "concept": "Composite witch as early modern construction",
+      "claim": "The 'European witch' who flew to sabbaths, made demonic pacts, and performed maleficium was a specific early modern construction, not an ancient or universal figure. Its components were assembled from multiple sources (heresy accusations, folk practice, learned theology) in the fifteenth century."
+    }
+  ],
+
+  "relation_to_database": "The `hutton_social_analysis` section in every `demonological_concept` entry draws on The Witch's framework. Every `persecuted_group` entry's analysis of social vulnerability and occupational targeting is informed by Hutton's service-magic thesis. The `demonological_scholar/hutton-ronald-b1953.json` entry summarizes his contribution. The `cunning-folk-wise-women` and `midwives-obstetric-healers` persecuted_group entries cite Hutton's findings directly.",
+
+  "scholarly_disagreement": "Clark argues that Hutton's social-history framework underweights the significance of demonological ideology in driving prosecution — magistrates believed in what they were doing, not merely competing with folk practitioners. Levack's structural analysis shows that institutional variables predict execution rates better than social ones alone, complicating Hutton's picture without displacing it. Lyndal Roper in Witch Craze (2004) argues Hutton underestimates the gendered theological ideology that actively constructed women as diabolically susceptible, treating female predominance as an epiphenomenon of occupational structure when it may also reflect genuine misogynistic targeting.",
+  "source_method": "Published text; Yale University Press 2017",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

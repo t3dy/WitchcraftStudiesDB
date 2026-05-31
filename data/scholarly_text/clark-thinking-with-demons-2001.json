@@ -1,0 +1,46 @@
+{
+  "id": "clark-thinking-with-demons-2001",
+  "title": "Thinking with Demons: The Idea of Witchcraft in Early-Modern Europe",
+  "author": "Stuart Clark",
+  "author_slug": "clark-stuart-b1943",
+  "year_published": 1997,
+  "edition_year": 2001,
+  "publisher": "Oxford University Press",
+  "text_type": "monograph",
+  "pages": 827,
+
+  "subject_focus": "Intellectual history of early modern European demonological theory, arguing that witch beliefs were coherent within their theological and philosophical context.",
+
+  "summary": "Thinking with Demons is an ~800-page systematic intellectual history of early modern demonological theory that transformed the historiography of witch prosecution by asking not 'How could people believe in witches?' but 'What intellectual frameworks made witchcraft beliefs coherent to educated early modern Europeans?' Clark's answer covers four major thematic areas — science, history, religion, and politics — showing how demonological doctrine was integrated into natural philosophy (Aristotelian and Galenic), Protestant and Catholic theology, eschatological historical frameworks, and theories of political and social order. He draws on a comprehensive survey of demonological treatises from across Catholic and Protestant Europe (Bodin, Weyer, Kramer and Sprenger, del Rio, Remy, and dozens of others), reading them as serious theological texts rather than superstitious manuals. The work is the foundational reference for understanding how learned magistrates and theologians participated in witch prosecution without acting irrationally.",
+
+  "scholarly_significance": "Thinking with Demons is the most important single work in the intellectual history of the witch trials. Its contribution is methodological as much as substantive: by insisting that demonological texts deserve the same analytical respect given to other early modern philosophical and theological works, Clark changed what questions historians asked. Before Clark, the standard scholarly problem was explaining how witch belief could have persisted in the face of its obvious falsity; after Clark, the standard problem is reconstructing the intellectual and institutional conditions within which the belief was rational and the prosecution coherent. This shift is now so thoroughly absorbed into the field that junior scholars may not recognize it as a contribution — but it required substantial argument against earlier historiography that treated witch prosecution as an aberration, superstition, or mass hysteria.\n\n  Clark's work is most directly used in this database's `demonological_concept` entries, where the intellectual genealogy and theological coherence of each concept are treated as primary analytical objects. It also informs the `demonological_scholar` entries' `scholarly_analysis` sections and the `trial_event` entries' `historiographical_significance` discussions of why educated magistrates prosecuted.",
+
+  "key_arguments": [
+    {
+      "concept": "Demonology as coherent intellectual tradition",
+      "claim": "Early modern demonology was not popular superstition but sophisticated theology, inheriting centuries of academic debate about demons, angels, and divine permission. Demonologists were learned men engaging with real theological problems."
+    },
+    {
+      "concept": "Rationality within framework",
+      "claim": "Witch prosecution appeared rationally justified to those who accepted the underlying theological premises. The logical error was in the premises (that demons exist, that they can make pacts with humans), not in the prosecution's internal reasoning."
+    },
+    {
+      "concept": "Integration with natural philosophy",
+      "claim": "Demonological doctrine was integrated with Aristotelian and Galenic natural philosophy, allowing demonic action to be understood within the natural-philosophical framework of the time. Demons worked through natural processes, making their effects verifiable in principle."
+    },
+    {
+      "concept": "Political and social theology",
+      "claim": "Witch prosecution had political dimensions: the witch-as-conspirator figured in theories of social and political order, and persecution could be understood as defence of the Christian commonwealth against a diabolical one."
+    }
+  ],
+
+  "relation_to_database": "The `clark_intellectual_analysis` section in every `demonological_concept` entry draws on Clark's framework. Every `trial_event` entry's discussion of how learned magistrates understood prosecution is informed by Thinking with Demons. The `demonological_scholar/clark-stuart-b1943.json` entry summarizes his contribution. The database's core principle — that accused persons and accusers acted within coherent belief systems — is Clark's insight applied across entity types.",
+
+  "scholarly_disagreement": "The primary critiques are that Clark overemphasizes elite intellectual culture at the expense of popular belief and social dynamics; that his framework doesn't explain why specific individuals were accused (which Levack, Hutton, and Briggs address with structural and social factors); and that treating prosecutorial reasoning as coherent risks normalizing persecution. Lyndal Roper in Witch Craze (2004) argued Clark's framework insufficiently engages with the psychological and gendered dimensions of persecution. Clark's defenders respond that understanding does not entail endorsement.",
+  "source_method": "Published text; Oxford University Press 1997 first edition, paperback 2001",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}

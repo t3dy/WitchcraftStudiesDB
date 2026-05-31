@@ -8,6 +8,7 @@
 | `accused_person` | 15 | `name-location-year` | `margaretha-binder-bamberg-1626` |
 | `demonological_concept` | 3 | `concept-name` | `witches-sabbath-collective` |
 | `demonological_scholar` | 7 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
+| `scholarly_text` | 6 | `surname-title-word-year` | `clark-thinking-with-demons-2001` |
 | `location` | 5 | `location-name` | `bamberg` |
 | `healer_practitioner` | 1 | `name-location-tradition` | `gaspar-tagliacarne-friuli-benandante` |
 | `persecuted_group` | 4 | `group-descriptor-scope` | `widows-early-modern` |
@@ -52,6 +53,8 @@ After adding an entry, update the cross-reference arrays in related entries.
 ## Section-Specific Guidance — New Entity Types
 
 For `persecuted_group` entries, read `persecuted_group/CLAUDE.md`. These are analytical categories (modern scholarly groupings), not self-identifications. The `persecution_rationale` field records what contemporaries believed; `structural_vulnerability` and `historiographical_significance` record modern analysis.
+
+For `scholarly_text` entries, read `scholarly_text/CLAUDE.md`. IDs match the slugs already used in `scholarly_sources` arrays throughout the database — creating an entry here resolves the broken cross-references in those arrays. The ID year reflects the edition commonly cited, not necessarily the first-edition year.
 
 For `inquisitorial_body` entries, read `inquisitorial_body/CLAUDE.md`. Note that many major witch trials (Bamberg, Salem, North Berwick) were conducted by secular or episcopal courts, not by the Roman/Spanish/Venetian Inquisitions. The `institutional_type` field carries this distinction. **The Roman and Spanish Inquisitions were generally restraining forces on witch prosecution**, not drivers of it — entries must not perpetuate the contrary popular myth.
 

@@ -1,0 +1,41 @@
+{
+  "id": "ankarloo-clark-vol4-witch-trials-2001",
+  "title": "Witchcraft and Magic in Europe, Volume 4: The Period of the Witch Trials",
+  "author": "Bengt Ankarloo and Stuart Clark (editors)",
+  "author_slug": "clark-stuart-b1943",
+  "year_published": 2002,
+  "publisher": "University of Pennsylvania Press",
+  "series": "Witchcraft and Magic in Europe (6 volumes)",
+  "text_type": "edited_volume",
+
+  "subject_focus": "Comprehensive scholarly survey of the early modern witch-trial period (c.1450–1750) covering theology, law, sociology, and regional variation, with contributions by leading specialists.",
+
+  "summary": "Volume 4 of the six-volume Witchcraft and Magic in Europe series is the standard reference for the early modern witch-trial period. It brings together specialist contributions covering the major dimensions of the subject: the demonological theology of witch prosecution; the legal and procedural framework; the regional sociology of accusation and execution; and the comparative historiography of prosecution across Catholic and Protestant Europe. Contributors include Brian Levack (on the comparative prosecution patterns), Stuart Clark (on learned demonology), and specialists on specific regional traditions. The volume covers approximately 1450-1750, the period of sustained witch prosecution in Europe, and provides the most comprehensive single-volume scholarly survey of the field. It is structured to address both the synchronic (what drove the trials at a given moment) and the diachronic (why prosecution intensified in the sixteenth century and declined in the eighteenth) dimensions.",
+
+  "scholarly_significance": "The Ankarloo-Clark series, and particularly this volume, represents the maturation of witch-trial scholarship into a fully professionalized specialty with its own reference infrastructure. As an edited volume combining contributions from the leading specialists of the 1990s-2000s generation, it synthesizes the findings of Clark's intellectual history, Levack's comparative demography, and regional social historians into a single accessible reference work. It is the standard citation for factual claims about prosecution patterns, execution counts, and regional variation that require authoritative secondary support.\n\n  The database cites this volume extensively in `scholarly_sources` arrays as the general reference for claims about the witch-trial period that are supported by specialist consensus. Its specific contributions to the database include Levack's statistics on execution counts by region; Clark's overview of the demonological tradition; and the volume's comparative treatment of Catholic versus Protestant prosecution rates.",
+
+  "key_arguments": [
+    {
+      "concept": "Regional variation as primary analytical lens",
+      "claim": "The witch trials were not a single European phenomenon but a collection of regional episodes with distinct institutional, theological, and social causes. No monocausal explanation accounts for the full range of variation in prosecution intensity."
+    },
+    {
+      "concept": "Institutional structure as key variable",
+      "claim": "The presence or absence of effective central oversight, procedural protections, and evidentiary standards explains more of the variation in execution rates than theological orientation (Catholic vs. Protestant) alone."
+    },
+    {
+      "concept": "Intersection of learned and popular",
+      "claim": "Witch prosecution required the convergence of learned demonological doctrine (which gave prosecution theological legitimacy) and popular accusation practices (which provided specific targets). Neither dimension alone was sufficient."
+    }
+  ],
+
+  "relation_to_database": "This volume is the most frequently cited source in the database's `scholarly_sources` arrays. It provides the authoritative reference for general claims about the witch-trial period across entity types. The `trial_event`, `location`, `inquisitorial_body`, and `persecuted_group` entries all cite it as the standard comparative reference.",
+
+  "scholarly_disagreement": "As an edited volume representing scholarly consensus of the 1990s-2000s, the volume does not itself generate major controversy. Subsequent monographic work (Hutton's The Witch, 2017; Norton's In the Devil's Snare, 2002) has refined some of its claims about specific regional episodes without challenging its general framework.",
+  "source_method": "Published text; University of Pennsylvania Press 2002",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-05-31",
+  "last_modified": "2026-05-31"
+}
