@@ -1,0 +1,84 @@
+{
+  "id": "cohn-norman-b1915",
+  "name": "Norman Cohn",
+  "birth_year": 1915,
+  "death_year": 2007,
+  "birth_place": "London, England",
+  "academic_discipline": "History; History of Millenarianism and Popular Religion",
+  "primary_institution": "University of Sussex (Professor, later Emeritus; founding director of the Columbus Centre for the Study of Persecution)",
+
+  "major_works": [
+    {
+      "title": "The Pursuit of the Millennium: Revolutionary Millenarians and Mystical Anarchists of the Middle Ages",
+      "year": 1957,
+      "publisher": "Secker & Warburg (London); revised and expanded 1970",
+      "significance": "Foundational study of medieval millenarian movements; established Cohn's interest in the social psychology of persecution and collective fantasy.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Europe's Inner Demons: An Enquiry Inspired by the Great Witch-Hunt",
+      "year": 1975,
+      "publisher": "Heinemann (London); revised 1993",
+      "significance": "Cohn's major contribution to witchcraft historiography; argued that the composite witch stereotype was derived primarily from the heresy-conspiracy accusations developed against medieval sects (Cathar, Waldensian, Templar), not from surviving pagan or shamanic folk traditions. Directly challenged Margaret Murray's 'witch-cult' thesis and anticipated Ginzburg's Ecstasies in identifying the sabbat as an elite construct imposed on accused persons.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Warrant for Genocide: The Myth of the Jewish World Conspiracy and the 'Protocols of the Elders of Zion'",
+      "year": 1967,
+      "publisher": "Eyre & Spottiswoode (London)",
+      "significance": "Extended Cohn's analysis of persecution-fantasy to modern antisemitism; showed that the same psychological structures (conspiracy, night assembly, ritual murder, collective apostasy) that generated medieval witch accusations also generated modern genocide.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SOCIAL PSYCHOLOGIST OF PERSECUTION / HERESY-PRIORITY THEORIST OF THE SABBAT",
+
+  "core_argument": "Norman Cohn's Europe's Inner Demons (1975) is the most important single argument for the heresy-conspiracy model of composite witch stereotype formation. Cohn argued that the diabolic sabbat stereotype — the defining construct of early modern witch persecution — was derived primarily from the accusations developed against medieval heretical sects (Cathars, Waldensians, Beguines) and against the Jews: accusations of nocturnal assembly, collective apostasy, orgy, and child murder that were the standard medieval repertoire of 'othering' and that had been applied to successive persecuted groups before being applied to witches. Cohn's argument had two targets: (1) Margaret Murray's 'witch-cult' thesis (that accused witches were practitioners of a surviving pre-Christian fertility religion) — Cohn systematically demolished Murray's evidence and showed she had fabricated the thesis; (2) Ginzburg's later argument (anticipated in Cohn's 1975 edition but fully articulated in Ginzburg's Ecstasies, 1991) that a genuine popular shamanic substratum underlay the sabbat construct. Cohn's position was that the sabbat was essentially an elite fantasy projected onto accused persons through torture and interrogation, with minimal genuine folk belief content.",
+
+  "key_contributions": [
+    {
+      "concept": "Heresy-conspiracy accusations as the primary source of the sabbat construct",
+      "claim": "The organizational and theological framework of the composite witch stereotype — nocturnal assembly, collective apostasy, orgy, child murder, worship of a demonic figure — was derived from the accusations developed against medieval heretical sects and applied to Jews and other persecuted groups. The sabbat was not a genuine popular ritual or shamanic ecstatic practice but a persecution-fantasy assembled from pre-existing accusatory templates.",
+      "implication": "Cohn's argument directly undermined both Murray's surviving-pagan-cult thesis and Ginzburg's shamanic-substratum thesis. If the sabbat was primarily an elite accusatory construct adapted from heresy charges, there was no genuine popular tradition it was 'diabolizing' — it was imposed from above, not emerging from below."
+    },
+    {
+      "concept": "Systematic demolition of the Murray thesis",
+      "claim": "Margaret Murray's argument that accused witches were practitioners of a surviving organized pre-Christian fertility religion was based on selective quotation, fabricated evidence, and methodological incompetence. Cohn demonstrated that Murray's 'evidence' for a unified witch-cult was assembled by ignoring contradictions, misreading sources, and suppressing inconvenient material.",
+      "implication": "Cohn's critique effectively ended the Murray thesis as a scholarly position, though its popular persistence continued (Wicca; some feminist reappropriations). The demolition of Murray was a prerequisite for the more sophisticated Ginzburg debate."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Ronald Hutton (Hutton endorses Cohn's priority on the heresy-conspiracy strand and his demolition of Murray; The Witch (2017) extends Cohn's framework while crediting the strix tradition as the 'emotive core' Cohn underweighted)",
+      "Stuart Clark (Clark draws on Cohn's identification of the heresy-conspiracy framework as background to the intellectual history of the sabbat construct)"
+    ],
+    "creative_tension_with": [
+      "Carlo Ginzburg (the Cohn/Ginzburg debate is the central methodological dispute in sabbat historiography; Ginzburg's Ecstasies (1991) directly argued against Cohn's top-down model, claiming a genuine folk substratum; Cohn's 1993 revised edition responded to Ginzburg)",
+      "Margaret Murray (Cohn's demolition of the Murray thesis was his most direct polemical target)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Cohn is essential background for the composite-witch-stereotype-formation concept entry, which records the Cohn/Ginzburg/Hutton debate about the relative weight of the heresy-conspiracy strand versus the folk/shamanic substratum. His demolition of Murray is relevant context for understanding why the 'ancient surviving cult' model has no scholarly standing.",
+    "analytical_weight": "Cohn represents the 'top-down' pole of the composite stereotype debate — the argument that the sabbat was primarily an elite accusatory construct with minimal folk content. Ginzburg represents the 'bottom-up' pole. Hutton's synthesis mediates between them."
+  },
+
+  "scholarly_disagreement": "The debate with Ginzburg is the primary historiographical contest about Cohn's thesis. Ginzburg argued in Ecstasies (1991) that the benandanti, the táltos, and related traditions demonstrate a genuine folk substratum of ecstatic practice that inquisitors diabolized into the sabbat — precisely the popular content Cohn denied. Hutton's The Witch (2017) mediates: Cohn is right that the organizational/theological framework came from heresy accusations (top-down), but Ginzburg is right that there was some popular content being incorporated — specifically the strix/child-killing tradition and (more limitedly) the night-ride tradition. The question of how much folk content was present in the composite stereotype before interrogation shaped it remains the central unresolved issue.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Norman Cohn, Europe's Inner Demons (London, 1975; revised 1993); Ronald Hutton, The Witch (2017) for engagement with Cohn's thesis; Carlo Ginzburg, Ecstasies (1991) for the primary debate",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-02",
+  "last_modified": "2026-06-02"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "cunning-folk-service-magic",
+  "name": "Cunning Folk and Service Magic",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Medieval through Early Modern (c.1200–1800)",
+  "primary_locale": "All of Christian Europe; best documented in England, the Low Countries, and Scandinavia",
+
+  "scholarly_definition": "The term 'cunning folk' (English; equivalents: wise men/women, white witches, blessers, conjurers, devisers; Continental equivalents: devineresses, Hexenbanner, herbalists, saludadores) designates practitioners of beneficent service magic — persons who offered their neighbors healing, divination, protection from maleficium, recovery of stolen goods, identification of thieves, and counter-magic against harmful witchcraft. The cunning folk were distinguished from accused malefic witches by their purpose (benefit rather than harm) and by their social position (they were consulted, paid, and often respected community members, not marginal accusees). Ronald Hutton's analysis of the cunning folk is the most systematic scholarly treatment, arguing that they represented a distinct, legitimate, and socially embedded tradition of practical magic that met genuine community needs — needs the established Church met inadequately in the post-Reformation period. Keith Thomas's Religion and the Decline of Magic (1971) first documented their ubiquity in England. The cunning folk are historiographically significant because they complicate the binary opposition between 'witch' (harmful) and 'non-witch' (harmless), because they were targets of prosecution on Protestant theological grounds (implicit demonic pact) despite their beneficent purpose, and because Hutton argues they are the primary evidence for a continuous tradition of practical magic in European popular culture.",
+
+  "hutton_analysis": {
+    "core_claim": "Hutton (The Witch, 2017, and earlier work on Pagan religions of the British Isles) argues that the cunning folk represented a genuinely distinct and socially legitimate tradition of practical magic, not merely a lesser or more benevolent form of witchcraft. They were service providers who met community needs — healing disease, finding lost property, divining the identity of thieves, protecting livestock, countering maleficium — by methods that combined folk herbalism, ritual performance, prayer, and the manipulation of symbolic objects.",
+    "social_position": "The cunning folk occupied a recognized social role in early modern communities. They were consulted regularly, paid for their services, and treated as skilled practitioners — not as morally suspect figures. Their social position was fundamentally different from that of the accused malefic witch, who was a neighbor whose hostility was feared. The cunning folk were sought out, the malefic witch was avoided.",
+    "continuity_argument": "Hutton argues that the cunning folk tradition represents genuine continuity with pre-Christian magical practice — not in the sense of an organized surviving pagan religion (which he rejects) but in the sense of practical techniques and beliefs that predated Christianity and survived its imposition through adaptation. This is the legitimate version of the 'survival' argument, stripped of the Murray thesis's organizational claims."
+  },
+
+  "thomas_documentation": "Keith Thomas's Religion and the Decline of Magic (1971) provided the foundational documentation of cunning folk in England, drawing on church court records, pamphlets, and diaries to demonstrate their ubiquity across all regions and social strata. Thomas counted hundreds of identified practitioners and argued that the demand for their services reflected the inadequacy of the Church's institutional provision for the management of misfortune, disease, and social conflict.",
+
+  "protestant_prosecution_logic": {
+    "perkins_argument": "William Perkins (Discourse of the Damned Art of Witchcraft, 1608) argued that the cunning folk were the most dangerous category of witch: they operated under an implicit demonic pact, concealing their diabolic alliance beneath apparent beneficence. This theological argument — derived from Lambert Daneau's earlier Reformed Protestant demonology — expanded the prosecutorial target from malefic witches to the full range of service magicians.",
+    "pastoral_opposition": "Both Perkins and Thomas Cooper argued that Christians who consulted cunning folk were committing a spiritual offense more serious than simple misfortune: they were seeking diabolic assistance under the cover of human help. The prescribed response to bewitchment was prayer, not counter-magic.",
+    "english_prosecution_pattern": "Thomas documented that England prosecuted service magicians (cunning folk) more intensively than most Continental jurisdictions — a pattern he attributed to the strength of the Puritan clerical campaign against all forms of magic and the specific Protestant theological argument about implicit pact."
+  },
+
+  "cunning_folk_vs_malefic_witch": {
+    "community_role": "The malefic witch was feared and avoided; the cunning person was consulted and paid. The two figures occupied opposite social positions despite both being practitioners of magic in their community's understanding.",
+    "prosecutorial_irony": "From the perspective of the accused malefic witch, the cunning folk were frequently complicit in prosecution: clients who suspected bewitchment went to cunning folk to identify the witch, and cunning folk regularly named their neighbors as the source of the maleficium. The cunning folk thus participated in the accusatory process that generated witch prosecutions.",
+    "overlap_in_practice": "Despite the conceptual distinction, the boundary between cunning folk and accused witches was porous in practice: some practitioners offered both beneficial and harmful services; some accused witches had previously operated as healers; some cunning folk were eventually accused of witchcraft after failed cures or community conflicts."
+  },
+
+  "scholarly_disagreement": "The primary debate about the cunning folk concerns whether they constituted a distinct, continuous tradition (Hutton) or were simply the more benevolent end of a spectrum of magical practice that shaded into maleficium without clear boundaries (Thomas, who documented continuity between cunning folk and accused witches in some cases). A secondary debate concerns whether Protestant prosecution of the cunning folk was as intensive as the theological argument suggested it should be: Thomas documented significant prosecution, but some historians argue that cunning folk were prosecuted far less than malefic witches even in Protestant England, suggesting community tolerance overrode theological prescription. Macfarlane's Essex data showed relatively few cunning folk prosecuted compared to malefic witch accusations.",
+
+  "related_concepts": [
+    "maleficium-harmful-magic",
+    "superstition-as-category",
+    "witch-trial-skepticism",
+    "demonic-pact-early-modern"
+  ],
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.3 (The Cunning People of Britain); ch.7 (The Witch in the Village); Keith Thomas, Religion and the Decline of Magic (1971), chs.7–8 (Cunning Men and Popular Magic); Stuart Clark, Thinking with Demons (1997/2001), ch. on Protestant demonology and the cunning folk",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-02",
+  "last_modified": "2026-06-02"
+}

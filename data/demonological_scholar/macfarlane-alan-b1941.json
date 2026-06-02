@@ -1,0 +1,70 @@
+{
+  "id": "macfarlane-alan-b1941",
+  "name": "Alan Macfarlane",
+  "birth_year": 1941,
+  "death_year": null,
+  "birth_place": "Shillong, Assam, India (British parents)",
+  "academic_discipline": "Social Anthropology; Historical Sociology; Social History",
+  "primary_institution": "University of Cambridge (King's College; later Professor of Anthropological Science)",
+
+  "major_works": [
+    {
+      "title": "Witchcraft in Tudor and Stuart England: A Regional and Comparative Study",
+      "year": 1970,
+      "publisher": "Routledge & Kegan Paul (London)",
+      "significance": "The foundational quantitative study of English witch prosecution, based on a complete survey of Essex assize records 1560–1680 (503 indictments, 291 individuals accused). Macfarlane systematically applied Keith Thomas's community-conflict model and the 'refusal-guilt-accusation' sequence to archival data, producing the most detailed statistical analysis of English witch-trial demographics. The Essex study established the standard social profile of English accused (elderly, female, poor, widowed) and accusers (younger neighbors, often former recipients of the accused's charity) and confirmed Thomas's hypothesis about the social mechanism of accusation.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "QUANTITATIVE SOCIAL HISTORIAN / COMMUNITY-CONFLICT ANALYST / THOMAS SCHOOL",
+
+  "core_argument": "Alan Macfarlane's Witchcraft in Tudor and Stuart England (1970) provided the systematic archival foundation for Keith Thomas's community-conflict model of witch accusation. Working from a complete survey of Essex assize records (503 indictments, the most comprehensive English witch-trial dataset assembled to that date), Macfarlane demonstrated statistically what Thomas had argued from broader evidence: that English witch accusation was a neighborhood dispute mechanism rooted in conflicts over charity, dependency, and social obligation. His key finding — that accusers were typically younger, wealthier neighbors who had recently refused requests from the older, poorer accused — directly confirmed the refusal-guilt-accusation sequence Thomas had identified. Macfarlane was also among the first to apply anthropological theory systematically to the historical study of European witchcraft, drawing on the anthropology of African witchcraft (especially Evans-Pritchard's Zande work) to interpret English trial evidence. His comparative anthropological framework established that witch accusation served similar social functions across vastly different cultures, supporting a functionalist interpretation of the phenomenon.",
+
+  "key_contributions": [
+    {
+      "concept": "Statistical confirmation of the refusal-guilt-accusation sequence",
+      "claim": "Macfarlane's Essex data showed that in the majority of cases where the social relationship between accuser and accused could be reconstructed, the accused was an older, poorer neighbor who had recently sought charity or assistance from the accuser; the accuser was a younger, wealthier householder who had refused; the accusation followed misfortune suffered by the accuser after the refusal. This statistical pattern confirmed Thomas's hypothesis about the social mechanism of English witch accusation.",
+      "implication": "The quantitative confirmation of the Thomas model made the community-conflict account the dominant explanation of English witch prosecution for a generation. Subsequent work has modified individual elements (the accused social profile is more varied than early statistics suggested; not all refusal-guilt sequences produce accusations) but has not dislodged the basic model."
+    },
+    {
+      "concept": "Anthropological comparative framework: English witchcraft and African witchcraft",
+      "claim": "Macfarlane drew on E.E. Evans-Pritchard's Witchcraft, Oracles and Magic among the Azande (1937) and other African witchcraft studies to argue that the social functions of witch accusation were comparable across cultures: in both English villages and Azande communities, witchcraft accusation served to manage social tension, attribute misfortune, and exclude or control threatening marginal figures. The comparison was analytical (both are cases of the same social mechanism) not genetic (English witchcraft did not derive from African practice).",
+      "implication": "The anthropological comparison made witch accusation intelligible without requiring the accusers to be irrational. The same social functions (tension management, misfortune attribution) were served by beliefs that could be understood by modern observers without endorsing the supernatural claims."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Keith Thomas (Macfarlane's work was the archival confirmation of Thomas's model; the two are typically cited together as the founders of the English social-historical approach)",
+      "Ronald Hutton (Hutton extends the Thomas/Macfarlane documentation of popular belief in The Witch (2017) but gives more attention to beneficent practitioners and challenges the model's universality)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Clark's Thinking with Demons was explicitly written to challenge the Thomas/Macfarlane framework; the intellectual history approach is presented as incompatible with the social-functionalist reduction of witch belief to a symptom of social anxiety)",
+      "Carlo Ginzburg (Ginzburg's microhistorical attention to individual accused persons and their internal belief-worlds contrasts with Macfarlane's statistical aggregation)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Macfarlane is essential context for understanding the English witch-trial tradition. His Essex data is the primary quantitative source for the social profile of English accused and accusers. He is relevant to the maleficium-harmful-magic concept entry's discussion of the social dynamics of harm accusation and to the cunning-folk-service-magic entry's data on who consulted service magicians.",
+    "analytical_weight": "Macfarlane represents the statistical-sociological approach to witch prosecution that Clark's intellectual history is responding to. Understanding the Thomas/Macfarlane model is a prerequisite for understanding Clark's revisionist argument."
+  },
+
+  "historiographical_significance": "Macfarlane's Witchcraft in Tudor and Stuart England remains the most systematic quantitative study of any single regional English witch-trial dataset. It established the statistical methods and social-historical questions that subsequent English witch-trial research has followed. Its limitations — coverage limited to Essex, the accused social profile is more varied than early statistics suggested, the refusal-guilt sequence explains more cases than it explains away — have been debated but not superseded.",
+
+  "scholarly_disagreement": "The primary critique of Macfarlane's work is the same as Thomas's: that the social-functionalist explanation treats demonological belief as a symptom of social anxiety rather than as an intellectually serious framework. A secondary critique concerns whether Essex was representative: Macfarlane acknowledged that Essex had an unusually intense witch-prosecution history, and subsequent work has shown that other English counties had different patterns. The question of how representative the Thomas/Macfarlane model is of English witch prosecution outside Essex has not been fully resolved.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Alan Macfarlane, Witchcraft in Tudor and Stuart England (London, 1970); Keith Thomas, Religion and the Decline of Magic (London, 1971) for the complementary model; Stuart Clark, Thinking with Demons (1997/2001) for the intellectual-history critique",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-02",
+  "last_modified": "2026-06-02"
+}

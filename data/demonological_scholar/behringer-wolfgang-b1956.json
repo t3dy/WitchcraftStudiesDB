@@ -1,0 +1,84 @@
+{
+  "id": "behringer-wolfgang-b1956",
+  "name": "Wolfgang Behringer",
+  "birth_year": 1956,
+  "death_year": null,
+  "birth_place": "Germany",
+  "academic_discipline": "Early Modern History; History of Witchcraft and Persecution",
+  "primary_institution": "University of Saarland (Professor of Early Modern History); previously Hamburg, Rochester, and Cambridge",
+
+  "major_works": [
+    {
+      "title": "Witchcraft Persecutions in Bavaria: Popular Magic, Religious Zealotry and Reason of State in Early Modern Europe",
+      "year": 1988,
+      "publisher": "C.H. Beck (German: Hexenverfolgung in Bayern); Cambridge University Press English translation 1997",
+      "significance": "The most systematic regional study of German witch persecution, based on archival research in Bavarian court records. Documented the social dynamics, prosecution patterns, and the crucial role of popular pressure from below in driving witch trials — demonstrating that persecution was often demanded by communities rather than imposed by elite authorities.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Witches and Witch-Hunts: A Global History",
+      "year": 2004,
+      "publisher": "Polity Press (Cambridge)",
+      "significance": "A comparative global overview placing European witch persecution in worldwide context; incorporated evidence from Africa, the Americas, Asia, and Oceania; one of the most geographically comprehensive treatments of witch persecution.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Shaman of Oberstdorf: Chonrad Stoeckhlin and the Phantoms of the Night",
+      "year": 1994,
+      "publisher": "C.H. Beck (German: Chonrad Stoeckhlin und die Nachtschar); University of Virginia Press English translation 1998",
+      "significance": "Microhistorical study of a 16th-century Bavarian horse-groom who claimed to travel with the 'phantoms of the night' — an Allgäu variant of the followers-of-the-lady tradition — and was eventually executed as a witch. One of the best German equivalents of Ginzburg's benandanti case study.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "GERMAN REGIONAL HISTORIAN / POPULAR PRESSURE THEORIST / GLOBAL COMPARATIVIST",
+
+  "core_argument": "Wolfgang Behringer is the leading German-language historian of early modern witch persecution and the primary scholar responsible for the systematic archival documentation of the German superhunts in their regional contexts. His most important historiographical contribution is the 'popular pressure' argument: contra the traditional assumption that witch prosecution was imposed from above by elites (princes, bishops, inquisitors) onto reluctant communities, Behringer's Bavarian research demonstrated that popular demand for witch prosecution — pressure from below, from communities who believed themselves threatened by malefic witches — was often the primary driver. Communities petitioned for prosecution; authorities sometimes resisted. This reversal of the assumed direction of prosecution pressure has been widely influential. Behringer's Shaman of Oberstdorf extended Ginzburg's benandanti methodology to a specifically German case — the Alpine followers-of-the-night tradition in the Allgäu — documenting a Bavarian shaman whose nocturnal travels with the 'phantoms of the night' were progressively diabolized by interrogation.",
+
+  "key_contributions": [
+    {
+      "concept": "Popular pressure as the primary driver of German witch prosecution",
+      "claim": "The German superhunts were not primarily driven by elite zealotry (princes, bishops, demonologists) imposing prosecution on resistant communities but by popular demand from communities who believed themselves under diabolical attack and who petitioned secular and episcopal authorities to take action. Authorities sometimes resisted this pressure; the superhunts were frequently the result of popular pressure overcoming official caution.",
+      "implication": "The popular pressure argument complicated both the elite-imposition model and the social-conflict model. If communities were demanding prosecution, the question of who drove the panic becomes more complex than simple top-down or bottom-up models allow. Behringer's finding also helps explain the geography of superhunts: they occurred in territories where popular pressure found responsive authority structures."
+    },
+    {
+      "concept": "The Waldensian heresy persecutions as witch-trial precursor (Alps/Pyrenees)",
+      "claim": "The transition from Waldensian heresy prosecution to witch prosecution in the western Alps in the 1420s–1430s was not accidental but reflected the direct redeployment of existing prosecutorial infrastructure and accusatory templates. Inquisitors, procedures, and accusatory categories developed for heresy prosecution were adapted to the new composite witch stereotype with minimal conceptual reorganization.",
+      "implication": "Behringer's archival work on the Waldensian-to-witch transition provided concrete institutional documentation for what Cohn had argued conceptually: the heresy-conspiracy model was not merely an intellectual source of the sabbat construct but was transmitted through actual institutional continuity between heresy persecution and witch prosecution in the Alpine zone."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Norman Cohn (shared the heresy-priority argument about Alpine stereotype formation; Behringer provided the archival documentation for Cohn's conceptual argument)",
+      "Brian Levack (Behringer's German regional work feeds into Levack's comparative synthesis; both emphasize the importance of legal structures and prosecution dynamics)",
+      "Carlo Ginzburg (the Chonrad Stoeckhlin study extended Ginzburg's methodology to a German case; Behringer is more cautious than Ginzburg about the shamanic thesis)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Behringer's social-historical and popular-pressure approach differs in emphasis from Clark's intellectual history, though they are not incompatible)",
+      "Earlier German historiography that emphasized elite imposition of witch prosecution (Behringer's popular-pressure argument challenged the assumption that communities resisted prosecution)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Behringer is the primary scholarly authority for the Bavarian and German regional dimension of witch prosecution. His popular pressure argument is relevant to the torture-confession-dynamic concept entry's discussion of how prosecution was initiated. His Stoeckhlin case is relevant to the followers-of-the-lady-night-ride and composite-witch-stereotype-formation concept entries.",
+    "analytical_weight": "Behringer represents the German archival tradition that is essential for understanding the superhunts — the mass prosecutions in Trier, Würzburg, and Bamberg that dominate European witch-execution statistics. Without Behringer's regional work, the German evidence would be accessible only through Clark's intellectual synthesis."
+  },
+
+  "scholarly_disagreement": "The popular pressure argument has been debated: some historians argue that Behringer overstates the role of community demand relative to elite zealotry, and that the same archival records that show community petitions also show elite initiative in many prosecutions. The 'top-down vs. bottom-up' debate has not been fully resolved, and the answer likely varies by region and time period.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Wolfgang Behringer, Witchcraft Persecutions in Bavaria (German 1988, English 1997); Witches and Witch-Hunts: A Global History (2004); Shaman of Oberstdorf (German 1994, English 1998); Stuart Clark, Thinking with Demons (1997/2001) for contextual placement",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-02",
+  "last_modified": "2026-06-02"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "thomas-religion-decline-magic-1971",
+  "title": "Religion and the Decline of Magic: Studies in Popular Beliefs in Sixteenth and Seventeenth Century England",
+  "author": "Keith Thomas",
+  "author_slug": "thomas-keith-b1933",
+  "year_published": 1971,
+  "original_year": 1971,
+  "publisher": "Weidenfeld & Nicolson (London); Penguin University Books reprint 1973; Penguin Books subsequent editions",
+  "series": null,
+  "text_type": "monograph",
+
+  "subject_focus": "The social history of magic, witchcraft, astrology, and popular religion in England c.1500–1700, arguing that these beliefs served psychological and social functions in a world without adequate institutional provision for managing risk, misfortune, and social conflict.",
+
+  "summary": "Keith Thomas's Religion and the Decline of Magic (1971) is the foundational work of the social history of English witchcraft and the single most-cited book in English witchcraft historiography. Over 800 pages, Thomas documented the range of magical belief and practice in early modern England — magic, witchcraft, astrology, prophecy, cunning folk, ghost belief — and argued that these practices served rational social and psychological functions in a world without adequate medicine, legal protection, or scientific explanation for misfortune. His model of witch accusation — the 'refusal-guilt-accusation' sequence, in which a neighbor's refusal of charity to an older woman generates guilt that converts into accusations of bewitchment after subsequent misfortune — became the standard sociological account of English witch prosecution, confirmed by Alan Macfarlane's archival work in Essex. Thomas argued that magic declined in the 18th century not because scientific knowledge replaced it but because institutional provision (insurance, medical advance, legal protection) replaced the practical functions it had served.",
+
+  "scholarly_significance": "Religion and the Decline of Magic defined the social-historical approach to English witchcraft for two generations. Its community-conflict model, its documentation of the cunning folk as ubiquitous service providers, and its functionalist explanation of magic's decline all became standard reference points against which subsequent scholarship positioned itself. Stuart Clark's Thinking with Demons (1997/2001) was explicitly written as a challenge to the Thomas framework: Clark argued that Thomas's functionalist reduction of demonological belief to a symptom of social anxiety could not account for the intellectual coherence of demonological theory as theology and natural philosophy. The Clark/Thomas debate is the central methodological tension in contemporary witchcraft historiography. Ronald Hutton's The Witch (2017) extends Thomas's documentation of popular magic and the cunning folk tradition while challenging Thomas's focus on England as representative and his neglect of beneficent practitioners. Thomas's work remains indispensable as the empirical foundation for understanding English witch accusation's social dynamics, even by historians who reject his explanatory framework.",
+
+  "key_arguments": [
+    {
+      "concept": "The refusal-guilt-accusation sequence as the primary mechanism of English witch accusation",
+      "claim": "English witch accusation typically followed a social pattern: a householder refused charity or assistance to an older, poorer (usually female) neighbor; the neighbor departed with muttering or curses; the householder subsequently suffered misfortune; guilt over the refusal converted into projection of malice, and the neighbor was accused of causing the misfortune by witchcraft. This sequence was rooted in the disruption of charitable obligations by the Reformation."
+    },
+    {
+      "concept": "Cunning folk as ubiquitous service providers meeting genuine community needs",
+      "claim": "The cunning folk — service magicians who healed, divined, and recovered stolen goods — were present in virtually every English community and met genuine needs that the established Church did not adequately address. They were consulted far more frequently than they were prosecuted, and their services were socially legitimate in ways that malefic witchcraft was not."
+    },
+    {
+      "concept": "Magic's decline caused by institutional provision, not intellectual change",
+      "claim": "Magic declined in the 18th century because the practical functions it served were increasingly met by alternative institutional provision: medicine, insurance, legal protection, poor relief. The intellectual changes associated with the Scientific Revolution were secondary causes at most."
+    }
+  ],
+
+  "relation_to_database": "Religion and the Decline of Magic is the primary source for the thomas-keith-b1933 scholar entry and the foundational reference for the maleficium-harmful-magic and cunning-folk-service-magic concept entries' discussion of English evidence. It is the work that Clark's Thinking with Demons is most directly responding to, making it essential context for understanding Clark's revisionist argument.",
+
+  "scholarly_disagreement": "Clark's critique (Thinking with Demons) is the most sustained: the functionalist reduction of demonological belief to social anxiety cannot account for the internal intellectual coherence of demonological theory as produced by educated men with no direct community anxiety to manage. A secondary critique (Hutton) concerns Thomas's England-centric focus and his relative neglect of the cunning folk as a tradition in their own right rather than merely as evidence for popular credulity. A methodological critique notes that Thomas synthesized from published primary sources rather than archival research; Macfarlane's archival work generally confirmed Thomas's model but also revealed complications Thomas's broader synthesis had smoothed over.",
+
+  "source_method": "Primary source: Keith Thomas, Religion and the Decline of Magic (London, 1971); Stuart Clark, Thinking with Demons (1997/2001) for the intellectual-history critique; Ronald Hutton, The Witch (2017) for the social-history extension and challenge",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-02",
+  "last_modified": "2026-06-02"
+}

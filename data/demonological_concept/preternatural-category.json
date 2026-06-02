@@ -1,0 +1,49 @@
+{
+  "id": "preternatural-category",
+  "name": "Preternatural (Early Modern Three-Part Ontology)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Medieval through Early Modern (c.1200–1700)",
+  "primary_locale": "Western Christendom; scholarly Latin; subsequently vernacular theological and natural-philosophical literature",
+
+  "scholarly_definition": "The category of the 'preternatural' (Latin: praeter naturam, 'beyond nature') designated the intermediate zone between the natural order (governed by secondary causes and regular laws) and the supernatural order (God's direct miraculous intervention). Preternatural events were caused by non-human agents — demons, angels, intelligences — working within the natural order but producing effects that exceeded what ordinary natural causes could achieve unaided. This three-part ontology (natural / preternatural / supernatural) was the standard early modern framework for classifying unusual phenomena and was directly relevant to witch prosecution because it provided the conceptual space in which demonic intervention operated. Stuart Clark identifies the natural/preternatural/supernatural distinction as one of the most important analytical tools of early modern natural philosophy and theology, because it allowed demonologists to claim both that demonic events were real (not illusions) and that they were not miraculous (not violations of natural law but extensions of it through non-human agency). The preternatural category resolved the theological problem of how the devil could produce physical effects in a universe governed by God's natural laws.",
+
+  "clark_analysis": {
+    "section": "Thinking with Demons, Part II: Science, multiple chapters on natural philosophy and demonology",
+    "core_claim": "Clark argues that the preternatural category was one of the key intellectual tools that made early modern demonology coherent as natural philosophy. If demonic effects were natural (producible by ordinary secondary causes), they were neither impressive nor theologically significant. If they were supernatural (requiring divine intervention to produce), they implicated God in diabolism. The preternatural solved both problems: demonic effects were real physical events produced by a non-human intelligence working within natural constraints — more powerful than ordinary human magic, less than divine miracle.",
+    "epistemological_function": "The preternatural category also defined the epistemological task for the investigation of unusual phenomena: the natural philosopher (and the demonologist) had to determine whether an observed effect was natural (explicable by secondary causes), preternatural (requiring demonic agency beyond natural causes), or supernatural (requiring direct divine causation). This determination required natural history — systematic collection and comparison of evidence — not mere speculation."
+  },
+
+  "thomistic_framework": {
+    "aquinas_distinction": "Thomas Aquinas distinguished between miracles properly speaking (God acting directly above and contrary to nature) and 'wonders' (mira) that exceeded human understanding but not the powers of natural agents including demons and angels. This Thomistic distinction was the scholastic foundation for the early modern preternatural category: demons could produce wonders but not miracles.",
+    "demonic_limitations": "Within the Thomistic framework, demons could manipulate existing natural processes (accelerate natural causes, create illusions in the imagination, move physical objects) but could not create new forms or genuinely violate natural law. This theological constraint explained why some witch phenomena were possible (those that could be achieved by manipulating natural processes) and others were impossible (genuine creation of new forms, genuine transformation of substances)."
+  },
+
+  "implications_for_demonology": {
+    "sabbat_reality": "The preternatural category was central to the dispute about whether the sabbat was physically real or merely an illusion. If physical transportation to the sabbat required genuine miraculous suspension of natural law, the Canon Episcopi's classification of flight as illusion was correct and sabbat attendance was impossible. If flight could be achieved through preternatural means (demonic manipulation of the accused's body through natural processes), physical transportation was possible without miracle.",
+    "malleus_deployment": "Kramer deployed the preternatural category in the Malleus Maleficarum to argue that physical transportation to the sabbat was genuinely possible: the devil, using preternatural means (manipulation of natural processes at speeds beyond human perception), could transport human bodies without requiring a miracle. This move resolved the Canon Episcopi problem by keeping demonic transport within the preternatural rather than supernatural category.",
+    "restoration_demonology": "Henry More's concept of the 'Spirit of Nature' (a preternatural immaterial principle pervading the natural world) was an elaboration of the preternatural category designed to give natural-philosophical grounding to spirit phenomena. By positing a preternatural intermediate between the mechanical natural order and direct divine miracle, More created conceptual space for the apparitions and witch phenomena that Glanvill documented."
+  },
+
+  "natural_magic_connection": "The preternatural category overlapped with the concept of natural magic (magia naturalis): the manipulation of hidden natural properties (occult qualities) to produce effects that appeared supernatural but were actually natural. The boundary between natural magic and demonic preternatural effects was contested: orthodox theologians argued that all apparently magical effects not produced by visible natural causes required either divine permission or demonic assistance; natural philosophers (Porta, Agrippa) argued that the manipulation of occult natural properties could produce magical effects without demonic involvement. This dispute generated the 'natural-demonic magic distinction' that Clark identifies as central to early modern demonological epistemology.",
+
+  "scholarly_disagreement": "The primary debate about the preternatural category concerns how analytically distinct it was from the supernatural in early modern thought. Lorraine Daston and Katharine Park (Wonders and the Order of Nature, 1998) give the preternatural extensive analytical attention and argue that it was a genuinely distinct category that changed in meaning across the early modern period — gradually assimilated to the natural in 17th-century natural philosophy. Clark's treatment of the preternatural is embedded in his broader argument about demonological epistemology; Daston and Park provide the more detailed intellectual history of the concept itself. Whether the preternatural was a stable category or a shifting one is relevant to understanding how demonologists' arguments changed over the century from Kramer to Glanvill.",
+
+  "related_concepts": [
+    "natural-demonic-magic-distinction",
+    "scientific-demonology-restoration",
+    "witchcraft-as-prodigy-portent",
+    "canon-episcopi"
+  ],
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "kramer-malleus-maleficarum-1486"
+  ],
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001), Part II: Science (multiple chapters on natural philosophy, preternatural, and demonic agency); Lorraine Daston and Katharine Park, Wonders and the Order of Nature (1998); Keith Thomas, Religion and the Decline of Magic (1971) for the popular dimension",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-02",
+  "last_modified": "2026-06-02"
+}

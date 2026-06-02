@@ -1,0 +1,91 @@
+{
+  "id": "thomas-keith-b1933",
+  "name": "Keith Thomas",
+  "birth_year": 1933,
+  "death_year": null,
+  "birth_place": "Garndiffaith, Monmouthshire, Wales",
+  "academic_discipline": "Social History; History of Popular Culture; History of Religion",
+  "primary_institution": "Oxford University (Corpus Christi College; All Souls College); President of Corpus Christi 1986–2000; Fellow of the British Academy",
+
+  "major_works": [
+    {
+      "title": "Religion and the Decline of Magic",
+      "year": 1971,
+      "publisher": "Weidenfeld & Nicolson (London); Penguin University Books reprint 1973",
+      "significance": "The foundational English-language social history of witchcraft, magic, and popular religion in early modern England (c.1500–1700). The most-cited single work in English witchcraft historiography. Thomas argued that magic and witchcraft functioned as psychological responses to anxiety and misfortune in a world without adequate institutional provision for risk — they were rational responses to a pre-rational world. The work generated the community-conflict model of witch accusation that Alan Macfarlane developed into the standard sociological account of English trials.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SOCIAL HISTORIAN / COMMUNITY-CONFLICT FUNCTIONALIST",
+
+  "core_argument": "Keith Thomas's Religion and the Decline of Magic (1971) is the foundational work of the social history of English witchcraft and the primary statement of the community-conflict model of witch accusation. Thomas argued that magic, witchcraft, and astrology functioned as psychological and social mechanisms for managing anxiety, misfortune, and conflict in early modern England — rational responses to a world without adequate institutional provision for health, security, and explanation of misfortune. His model of witch accusation was rooted in the 'refusal-guilt-accusation' sequence: a neighbor refuses charity to a beggar woman; the beggar goes away muttering; the neighbor subsequently suffers misfortune; the neighbor's guilt at having refused charity converts into a projection of malice onto the beggar, who is then accused of bewitchment. This sequence — rooted in the social disruption caused by the Reformation's attack on the traditional safety net of charity and intercessory prayer — explained why English witch accusation peaked in the late 16th and early 17th centuries, when the gap between need and provision was widest. Thomas's functionalist framework was simultaneously his most influential and most criticized contribution: it explained witch accusation in social terms without requiring the accusers to be irrational, but it also reduced the intellectual content of witchcraft belief to a symptom of social anxiety rather than taking it seriously as theology or natural philosophy.",
+
+  "methodological_approach": {
+    "primary_materials": "Assize records, quarter sessions, church court records, pamphlet literature, sermon literature, and printed primary sources covering England c.1500–1700; extended reading in popular print culture; some archival work but primarily synthesis of published material",
+    "analysis_target": "The social functions of magic and witchcraft in early modern England; the mechanisms of witch accusation at the village level; the relationship between popular magic and institutional religion; the causes of the decline of magic in the 18th century",
+    "evidence_type": "Legal records (assize records for witch trials); church court records (for cunning folk prosecution); print pamphlets and broadsides; sermons and theological tracts; diaries and personal accounts",
+    "explanatory_level": "Social-functionalist: Thomas explained magic and witchcraft by their functions in managing anxiety and social conflict, not by the internal logic of the beliefs themselves"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The 'refusal-guilt-accusation' sequence as the mechanism of witch accusation",
+      "claim": "The characteristic English witch accusation followed a consistent social pattern: a neighbor (typically female, elderly, poor) sought charity or small favor; the householder refused; the neighbor departed muttering or cursing; the householder subsequently suffered misfortune; the householder accused the neighbor of witchcraft. Thomas argued this sequence reflected the social disruption of the Reformation period, when traditional charitable obligations had been eroded but the need they met remained.",
+      "implication": "The refusal-guilt model explained the social profile of English accused (elderly, poor, female, socially marginal) and accusers (their near neighbors, not strangers) without requiring either party to be irrational. It gave English witch prosecution a specifically social-economic explanation rooted in Reformation-era institutional change."
+    },
+    {
+      "concept": "Cunning folk as the primary practitioners of popular magic",
+      "claim": "The cunning folk — service magicians who healed, divined, and recovered stolen goods — were the most important practitioners of popular magic in early modern England, outnumbering accused witches and meeting genuine community needs. Thomas documented their ubiquity, their methods, and the relationship between their practice and formal prosecution.",
+      "implication": "Thomas's documentation of the cunning folk provided the empirical foundation for Hutton's later synthesis of beneficent practitioners as a distinct and legitimate social category. The cunning folk were not merely the negative reflection of the malefic witch but an independent tradition of service magic that served community needs the established Church did not meet."
+    },
+    {
+      "concept": "The decline of magic as the result of institutional provision, not intellectual change",
+      "claim": "Magic declined in the 18th century not primarily because scientific knowledge replaced magical explanation but because institutional provision (insurance, medicine, legal protection) replaced the practical functions magic had served. As alternatives to magic became available, the need for magic diminished.",
+      "implication": "Thomas's explanation of the decline of magic was directly opposed to the Enlightenment narrative (science drove out superstition) and anticipated Clark's revisionist argument, though by a different route: both argued that intellectual change was not the primary cause of magic's decline, though they disagreed about what the primary cause was."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Alan Macfarlane (closest intellectual ally; Macfarlane's Witchcraft in Tudor and Stuart England (1970) was the systematic sociological elaboration of Thomas's community-conflict model, based on Essex archival research)",
+      "Ronald Hutton (Hutton extended Thomas's documentation of cunning folk into The Witch (2017); shared the social-historical approach, though Hutton extended it to include beneficent practitioners as a legitimate tradition in their own right)"
+    ],
+    "creative_tension_with": [
+      "Stuart Clark (Clark's Thinking with Demons was explicitly a critique of the Thomas/Macfarlane sociological model; Clark argued that taking demonological theory seriously as intellectual history was incompatible with reducing it to a function of social anxiety; the Clark/Thomas debate is the central historiographical tension in the field)",
+      "Carlo Ginzburg (Ginzburg's microhistorical attention to subaltern voices and the internal logic of accused persons' beliefs contrasts with Thomas's functionalist reduction of those beliefs to social symptoms)"
+    ]
+  },
+
+  "reception_and_critique": {
+    "influence": "Religion and the Decline of Magic is the single most-cited work in English witchcraft historiography. It defined the social-historical approach for two generations and generated the community-conflict model that dominated English witch-trial studies until Clark's revisionist challenge.",
+    "criticisms": [
+      "Clark (Thinking with Demons, 1997): Thomas's functionalist reduction of witchcraft belief to social anxiety cannot account for the internal intellectual coherence of demonological theory, which was produced by educated men with no immediate community anxiety to manage.",
+      "Hutton (The Witch, 2017): Thomas's focus on England limited his comparative reach; the English pattern (village-level accusation, absence of the diabolical sabbat stereotype until late) was distinctive rather than representative.",
+      "The 'refusal-guilt-accusation' model has been criticized for over-determining the sequence: not all accusations followed this pattern, and the model does not explain why some refusals led to accusation while others did not."
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Thomas is the primary reference for the social-historical dimension of English witch prosecution. His documentation of the cunning folk feeds into the maleficium-harmful-magic concept entry and any future healer_practitioner entries for English contexts. His community-conflict model is the primary alternative to Clark's intellectual-history approach for understanding why accusations occurred.",
+    "analytical_weight": "Thomas represents the social-historical pole of the primary historiographical debate in this database — Clark (intellectual history) vs. Thomas/Macfarlane (social history). Understanding Thomas's model is necessary for understanding Clark's revisionist challenge."
+  },
+
+  "historiographical_significance": "Religion and the Decline of Magic defined the social history of English witchcraft for fifty years. Its community-conflict model, its documentation of the cunning folk, and its functionalist explanation of magic's decline all became standard reference points against which subsequent scholarship positioned itself. Stuart Clark's Thinking with Demons (1997) was explicitly written as a challenge to the Thomas framework — the most important intellectual engagement in the field since Thomas's book itself. Understanding Thomas is therefore a prerequisite for understanding Clark, and understanding Clark is the primary purpose of this database.",
+
+  "scholarly_disagreement": "The central debate about Thomas's work is whether the social-functional explanation of witch accusation is compatible with taking the intellectual content of witch belief seriously. Clark argues it is not: the refusal-guilt model treats demonological belief as a symptom of social anxiety, implicitly denying that it was coherent on its own terms. Thomas's defenders argue that social function and intellectual coherence are not mutually exclusive — belief can be both socially useful and intellectually serious. The debate has not been resolved; most subsequent historians have worked at the intersection of the two approaches.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Keith Thomas, Religion and the Decline of Magic (London, 1971; Penguin reprint 1973); Stuart Clark, Thinking with Demons (1997/2001) for the critique; Ronald Hutton, The Witch (2017) for the Hutton assessment",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-02",
+  "last_modified": "2026-06-02"
+}
