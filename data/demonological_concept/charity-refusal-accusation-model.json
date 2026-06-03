@@ -1,0 +1,50 @@
+{
+  "id": "charity-refusal-accusation-model",
+  "name": "Charity Refusal and Witch Accusation",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern England (c. 1560–1700)",
+  "primary_locale": "England; particularly Essex and the eastern counties; partial application in Scotland and New England",
+
+  "scholarly_definition": "The charity-refusal model, developed by Keith Thomas and Alan Macfarlane in the early 1970s, proposes a specific social mechanism by which English witch accusations arose: a neighbor who refused charity to a beggar, vagrant, or poor neighbor subsequently experienced misfortune; guilty about the refusal, the neighbor attributed the misfortune to the refused person's malevolent ill-will; this attribution crystallized into a formal witch accusation. The model locates the accusation's psychological origin in the refuser's guilt rather than in the accused's actual practice, and the social origin in the structural tension between Christian duty to give alms and the Protestant-capitalist pressure to withhold charity from the poor. This made the accused — typically an elderly, poor woman whose livelihood depended on neighborhood charity — the scapegoat for the refuser's guilt.",
+
+  "intellectual_genealogy": {
+    "thomas_formulation": "Keith Thomas in Religion and the Decline of Magic (1971) developed the sociological account of charity-refusal as the primary social mechanism for English witch accusation, drawing on the Tudor Poor Law context and the transition from Catholic neighborly charity obligations to Protestant-individualist models of poor relief.",
+    "macfarlane_quantification": "Alan Macfarlane in Witchcraft in Tudor and Stuart England (1970) quantified the charity-refusal pattern using Essex assize records, demonstrating that the pattern appeared consistently across documented English prosecution: the accused were disproportionately elderly, poor women with reputations for cursing those who refused them, and the accusers disproportionately those who had recently had interaction with the accused that could be characterized as a refusal or slight.",
+    "evolutionary_context": "The Thomas-Macfarlane argument places the charity-refusal model in the specific historical context of Reformation England: the dissolution of the Catholic charity infrastructure (monasteries, chantries) without adequate Protestant replacement created both increased pressure on neighborhood charity and increased individualist resistance to providing it, generating the structural tension that the witch accusation resolved."
+  },
+
+  "clark_intellectual_analysis": "Clark's intellectual-history approach complements the Thomas-Macfarlane sociological model: the charity-refusal mechanism explains what social dynamics produced accusations, while Clark's framework explains how the learned demonological system provided the conceptual categories through which those accusations were processed. The mechanisms are at different analytical levels and are not competing explanations.",
+
+  "hutton_social_analysis": "Hutton in The Witch (2017) accepts the charity-refusal model as an important partial explanation for English prosecution while insisting on its limits: it applies well to the eastern counties pattern that Macfarlane analyzed, less well to Lancashire, Scotland, or Continental prosecution contexts. Briggs's Lorraine material shows charity-refusal patterns alongside many other accusation dynamics simultaneously, suggesting that the charity-refusal pattern was one element in a multi-causal complex rather than the primary explanation.",
+
+  "ginzburg_interrogation_analysis": "The charity-refusal model is a sociological explanation for accusation origins rather than a description of the interrogation and confession process that Ginzburg analyzes. The two operate at different levels: charity-refusal explains why accusation arose, Ginzburg's framework explains what happened after accusation in the prosecutorial procedure.",
+
+  "actor_perspective": {
+    "accuser_experience": "The accuser in the charity-refusal model experiences genuine misfortune following a genuine refusal of charity, and genuinely attributes the connection between refusal and subsequent harm to the refused person's malevolent will — the attribution is not consciously cynical but reflects the available explanatory framework",
+    "accused_experience": "The accused in this model is typically an elderly poor woman who had genuinely cursed those who refused her charity — as a socially available response to the indignity of refusal — and whose curse was retrospectively taken as evidence of malevolent witchcraft capacity when the misfortune actually occurred"
+  },
+
+  "distinctive_features": {
+    "guilt_mechanism": "The psychological core of the model is the refuser's guilt: the accusation is driven partly by the accuser's need to externalize responsibility for the harm they may have caused by refusing charity",
+    "gender_and_age_specificity": "The model explains the English pattern's concentration in elderly women: they were the demographic most likely to be positioned as supplicants for charity, most likely to curse when refused, and most structurally vulnerable when their curses were attributed to witchcraft",
+    "protestant-capitalism_context": "The historical specificity of the model — tied to the Reformation transition in poor relief and charitable obligation — locates the English witch accusation pattern in a specific historical moment rather than treating it as a timeless social dynamic"
+  },
+
+  "geographic_distribution": "English prosecution, particularly eastern counties; partial application in Scottish and New England contexts; substantially inapplicable to Continental European prosecution patterns.",
+
+  "historiographical_significance": "The Thomas-Macfarlane charity-refusal model was the dominant sociological explanation for English witch accusation from the 1970s through the 1990s and remains influential as a partial explanation. Its limitations have been acknowledged by subsequent scholars: Briggs's Lorraine study found the pattern alongside many others; Levack's comparative analysis noted its English specificity; Hutton's synthesis treats it as one factor among several. The model's enduring significance is methodological — it demonstrated that witch accusation patterns could be analyzed sociologically rather than purely theologically or psychologically, establishing the social-history approach to witch prosecution.",
+
+  "source_method": "Essex Assize Records; analyzed in Thomas, Religion and the Decline of Magic (1971); Macfarlane, Witchcraft in Tudor and Stuart England (1970); Briggs, Witches and Neighbours (1996); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "briggs-witches-neighbours-1996",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

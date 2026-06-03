@@ -1,0 +1,42 @@
+{
+  "id": "parlement-of-normandy",
+  "name": "Parlement of Normandy",
+  "formal_name": "Parlement de Normandie, Rouen",
+  "institutional_type": "secular_tribunal",
+  "founded": "1499",
+  "dissolved": "1790",
+
+  "jurisdiction_description": "The Parlement of Normandy, seated at Rouen, was one of the twelve sovereign courts of appeal in ancien régime France with mandatory jurisdiction over capital criminal cases from the province of Normandy. Under the French system of mandatory appellate review, all capital sentences from lower Norman courts required Parlement confirmation before execution — the same appellate mechanism that the Paris Parlement exercised over north-central France and that consistently reduced French witch-execution rates compared to German and Scottish jurisdictions without such oversight.\n\n  Normandy had higher witch-prosecution rates than the Île-de-France and Paris basin, and the Parlement of Normandy's appellate practice is the key institutional variable explaining why Normandy's execution rate, while elevated compared to Paris, was still substantially lower than the German episcopal courts operating without mandatory appellate oversight. Robert Mandrou's analysis of French Parlement decisions (1968) used the Paris Parlement primarily, but the same analytical framework applies to Rouen.",
+
+  "jurisdiction_territories": ["lorraine"],
+
+  "procedural_features": {
+    "torture_policy": "Torture available under French inquisitorial procedure but subject to Parlement oversight on appeal; the Parlement of Normandy could reduce or overturn sentences where torture-derived evidence was found unreliable, creating a practical constraint on its use.",
+    "evidence_standards": "The Parlement of Normandy applied the standard French evidentiary requirements for capital conviction: confession (voluntarily given or confirmed after torture) plus corroborating witness evidence; the appellate function meant reviewing whether these standards had been met in the court below.",
+    "confession_policy": "Confessions obtained at lower court level were reviewed for voluntariness and procedural regularity; retracted confessions complicated prosecution at the appellate level.",
+    "appeal_mechanism": "Mandatory automatic review of all capital sentences; Parlement could confirm, commute, or acquit; no further appeal beyond the Parlement within France except royal pardon."
+  },
+
+  "role_in_witch_trials": "The Parlement of Normandy played a moderating role in Norman witch prosecution — affirming some lower-court capital sentences while reducing others to banishment or lesser punishment, and occasionally acquitting on evidentiary grounds. Its existence as a mandatory appellate body prevented the uncontrolled escalation that characterized episcopal and secular courts in Germany and Scotland where no equivalent oversight applied. Normandy's elevated prosecution rates (compared to Île-de-France) reflect local community pressure and specific regional traditions of witchcraft accusation that the Parlement moderated but could not eliminate.",
+
+  "witch_trial_involvement_level": "moderate",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "Mandrou's Magistrats et sorciers en France au XVIIe siècle (1968) established the analytical framework for understanding French Parlements as moderating institutions in witch prosecution, arguing that their desacralization of magical worldview — reflected in increasing skepticism about supernatural causation in criminal proceedings — was the primary mechanism by which witch prosecution declined in France. While Mandrou's 'desacralization' thesis has been contested (the decline was institutional before it was intellectual), the basic analytical point about Parlement appellate review as a constraining mechanism has remained influential. The Normandy Parlement provides a useful comparison with the Paris Parlement, demonstrating that the moderating effect of appellate oversight varied by region and by the specific judicial culture of each Parlement.",
+
+  "scholarly_disagreement": "Mandrou's desacralization thesis — that French Parlements became skeptical of witch prosecution because their educated members underwent an intellectual transformation — has been contested by Soman and others who argue that procedural skepticism about evidence standards, rather than metaphysical skepticism about demonic reality, drove the Parlements' moderating function. The degree to which the Normandy Parlement's moderating function reflected genuine judicial skepticism versus conservative interpretation of evidence requirements is debated.",
+
+  "source_method": "Archives Départementales de Seine-Maritime (former Parlement de Normandie records); analyzed in Mandrou, Magistrats et sorciers en France au XVIIe siècle (1968); Soman, 'The Parlement of Paris and the Great Witch Hunt (1565-1640)', Sixteenth Century Journal (1978); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

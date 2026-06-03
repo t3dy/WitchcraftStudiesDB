@@ -1,0 +1,44 @@
+{
+  "id": "svea-court-of-appeal-sweden",
+  "name": "Svea Court of Appeal, Stockholm",
+  "formal_name": "Svea hovrätt (Svea Court of Appeal, Stockholm)",
+  "institutional_type": "secular_tribunal",
+  "founded": "1614",
+  "dissolved": null,
+
+  "jurisdiction_description": "The Svea Court of Appeal, established in Stockholm in 1614, was the supreme appellate court for central Sweden and the principal judicial body responsible for the legal management of the Blåkulla witch panic of 1668-1676. Unlike the Scottish Privy Council's commission system (which delegated authority downward without effective appellate review) or the German episcopal courts (which operated with limited external oversight), the Svea Court of Appeal functioned as a centralizing appellate mechanism that ultimately interrupted the Blåkulla panic by applying increasingly skeptical evidentiary scrutiny to children's testimony.\n\n  Sweden's criminal justice system in the seventeenth century included both local courts (häradsrätt) and a system of royal courts of appeal, with the Svea serving central Sweden and Stockholm. During the Blåkulla panic, the interaction between local courts (which were susceptible to community pressure and children's testimony) and the appellate Svea Court (which brought more detached judicial scrutiny) was the critical institutional dynamic determining where and when the panic was checked.",
+
+  "jurisdiction_territories": ["dalarna-sweden"],
+
+  "procedural_features": {
+    "torture_policy": "Torture was available under Swedish criminal procedure in the seventeenth century, but the Svea Court's appellate scrutiny of confession evidence could reduce its evidentiary weight if procedural violations occurred.",
+    "evidence_standards": "The Svea Court applied stricter evidentiary standards than the local courts that initially processed Blåkulla accusations; children's testimony, which local courts had accepted uncritically, was subjected to systematic scrutiny at the appellate level from the early 1670s.",
+    "confession_policy": "The court increasingly questioned whether confessions and children's testimony reflected genuine experience or collective suggestion, coaching, and social pressure — a skeptical orientation that developed through the 1670s.",
+    "appeal_mechanism": "Mandatory review of capital sentences from lower courts; the Svea Court's confirmation was required for execution; its increasing refusals to confirm convictions effectively halted executions in the areas under its jurisdiction."
+  },
+
+  "role_in_witch_trials": "The Svea Court of Appeal played the central institutional role in ending the Blåkulla panic. Initially, the royal commission of 1669 authorized executions with court support; but as the panic spread and the children's testimony mechanism became visible as a self-amplifying social process, the Svea Court began scrutinizing convictions more carefully. The Stockholm trials of 1675-76 — within the court's immediate jurisdiction — were the turning point: Stockholm courts actively investigated whether children had been coached, prosecuted false accusers, and refused to confirm capital sentences. This institutional reversal halted the panic in Stockholm and signaled to provincial courts that the political and judicial climate had shifted.",
+
+  "witch_trial_involvement_level": "high",
+
+  "key_trial_events": [
+    "sweden-blakulla-mass-trials-1668-1676"
+  ],
+
+  "historiographical_significance": "The Svea Court of Appeal's role in ending the Blåkulla panic is the Swedish contribution to the broader historiographical question of how witch prosecution ended. Levack's comparative analysis identifies institutional skepticism (rather than popular disbelief or intellectual transformation) as the primary mechanism of prosecution termination across Europe: courts stopped prosecuting before communities stopped believing. The Svea Court is a clear case study of this mechanism — the court's evidentiary skepticism preceded and produced the end of the panic, not the other way around. Bengt Ankarloo's analysis in the Ankarloo-Clark volumes provides the primary historiographical treatment of the Svea Court's role.",
+
+  "scholarly_disagreement": "Whether the Svea Court's increasing skepticism reflected a genuine intellectual transformation (Stockholm's educated elites becoming skeptical of the reality of Blåkulla transportation) or a more pragmatic response to the visible social dynamics of coaching and mass accusation is not fully resolved. Levack argues for the institutional-procedural explanation; others emphasize the intellectual dimension.",
+
+  "source_method": "Swedish Riksarkivet (Svea Hovrätt records); analyzed in Ankarloo in Ankarloo-Henningsen, Early Modern European Witchcraft (1990); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

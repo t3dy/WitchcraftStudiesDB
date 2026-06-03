@@ -1,0 +1,26 @@
+{
+  "id": "enemies-of-god-published-1981",
+  "event_name": "Larner Publishes Enemies of God, 1981",
+  "event_type": "primary_source_publication",
+  "date": "1981",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "London, England",
+  "location_slug": "edinburgh",
+  "significance": "Christina Larner's Enemies of God: The Witch-Hunt in Scotland (Chatto and Windus, 1981) provided the first systematic statistical and analytical study of Scottish witch prosecution, establishing Scotland's prosecution rate as approximately five times England's per-capita rate and introducing the state-building analytical framework ('woman-related rather than woman-specific'). The book remained the standard reference for Scottish witch-trial scholarship after Larner's death at age 49 in 1983.",
+  "related_entities": [
+    "larner-christina-b1934",
+    "larner-enemies-of-god-1981",
+    "scottish-privy-council-commissions",
+    "north-berwick-1590-trials"
+  ],
+  "source_method": "Larner, Enemies of God (Chatto and Windus, 1981); analyzed in Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

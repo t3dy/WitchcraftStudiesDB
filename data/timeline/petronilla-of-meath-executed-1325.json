@@ -1,0 +1,26 @@
+{
+  "id": "petronilla-of-meath-executed-1325",
+  "event_name": "Petronilla of Meath burned at Kilkenny",
+  "event_type": "trial_event",
+  "date": "1325",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Kilkenny, Ireland",
+  "location_slug": "kilkenny",
+  "significance": "Petronilla of Meath, servant of Alice Kyteler, burned at Kilkenny — the first person executed for heresy in Ireland. Her execution, achieved through six documented floggings to extract confession, marks the Kyteler prosecution's only capital outcome after its primary target escaped to England.",
+  "related_entities": [
+    "kilkenny-kyteler-trial-1324",
+    "kilkenny",
+    "petronilla-of-meath-kilkenny-1325",
+    "torture-confession-dynamic"
+  ],
+  "source_method": "Chronicle of the proceedings against Dame Alice Kyteler (attributed to contemporaries, ed. Thomas Wright, 1843); analyzed in Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

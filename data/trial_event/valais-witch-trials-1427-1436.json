@@ -1,0 +1,52 @@
+{
+  "id": "valais-witch-trials-1427-1436",
+  "name": "Valais-Vaud Alpine Witch Trials",
+  "location_id": "valais-vaud",
+  "year_start": 1427,
+  "year_end": 1436,
+  "alleged_accused_count": 200,
+  "executed_count": 100,
+  "regional_context": "Duchy of Savoy; western Alps; cantons of Vaud and Valais",
+
+  "summary": "The Alpine trials of the Valais and Vaud regions in the late 1420s through mid-1430s are conventionally identified in the historiography as the crucible of the composite witch stereotype in its fully articulated form. Occurring across several secular and ecclesiastical jurisdictions in the western Alpine zones controlled by or adjacent to Savoy, these prosecutions for the first time systematically combined the elements that would define witch prosecution for the following two centuries: organized demonic pact, collective sabbath attendance, flight through the air, harmful magic (maleficium), and apostasy from Christianity. The number executed is disputed in the sources — some chronicles claim figures as high as two hundred for the Valais region alone — but even conservative estimates document prosecution at a scale and with a doctrinal elaboration that marks a qualitative break from earlier individual prosecutions. The trials are documented partly in chronicle accounts (including Nider's Formicarius, c. 1437, which is one of the most important early theorizations of the composite stereotype) and partly in surviving trial records from individual jurisdictions.",
+
+  "historiographical_significance": "The Alpine trials occupy a pivotal place in the historiography of witchcraft. Ginzburg, in Ecstasies (1991), argued that the composite stereotype crystallized in the Alpine zone through the collision of two cultural streams: the learned demonological tradition from the ecclesiastical inquisition (sabbath as heretical assembly, demonic pact as apostasy) and a pre-existing popular tradition of shamanic night-journeys and spirit processions that he traced through the benandanti and related phenomena. Norman Cohn, in Europe's Inner Demons (1975), was more skeptical of any popular substratum, arguing the composite stereotype was primarily an elite judicial construction. Hutton in The Witch (2017) mediates between these positions, acknowledging the Alpine trials' role in stereotype-formation while questioning how fully the prosecutions can be read as evidence for popular beliefs rather than inquisitorial innovation. The Formicarius of Johannes Nider (written c. 1435-37, published 1437) — which draws heavily on the Alpine trials through the testimony of an inquisitor who participated in them — is the most important contemporary theoretical document for this period.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "composite-witch-stereotype-formation",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "jurisdictions": "Secular courts of Savoy; episcopal courts of Lausanne and Sion; some itinerant inquisitors; the institutional picture is fragmented",
+    "prosecuting_figures": "Peter of Berne (secular judge who presided at key Simmental cases, cited by Nider); various ecclesiastical officials in Lausanne diocese",
+    "documentary_sources": "Nider's Formicarius (c. 1437), which records testimony from a judge who conducted trials in the region; chronicle of Hans Fründ (c. 1428-1430), an early account of the Valais prosecutions; partial surviving trial records",
+    "charges": "The classic composite charges as documented in Nider: demonic pact with the devil (called 'Meister Friggentantz' in some German-language accounts); attendance at sabbath gatherings; murder of children through maleficium; weather magic; apostasy from Christian faith",
+    "social_profile": "Targeted individuals were predominantly from peasant farming communities in the Alpine valleys; unlike the later Bamberg prosecution, the Valais trials did not extend significantly to elite social strata"
+  },
+
+  "scholarly_disagreement": "The Alpine trials' precise chronology, geographic scope, and the reliability of the documentary sources (particularly Nider's Formicarius, which is a literary work rather than a trial record) are all subject to debate. Cohn argued that Nider's account reflects ideological construction more than actual trial proceedings; Ginzburg argued for the trials' evidential significance as a point of cultural crystallization; Hutton accepts their importance while stressing the fragmentary and mediated nature of the documentation. The death toll figures — some sources claiming 200 or more executions in the Valais alone — are regarded as uncertain by most modern scholars, though a substantial prosecution clearly occurred.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "todi-1428-witchcraft-trial",
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "source_method": "Johannes Nider, Formicarius (c. 1437); chronicle of Hans Fründ (c. 1428-1430); partial surviving secular court records from Savoy archives; analyzed in Hutton, The Witch (2017); Ankarloo and Clark, Witchcraft and Magic in Europe Vol. 3 (2002); Ginzburg, Ecstasies (1991)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "ginzburg-ecstasies-1991",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

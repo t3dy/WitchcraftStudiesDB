@@ -1,0 +1,45 @@
+{
+  "id": "levack-witch-hunt-early-modern-2006",
+  "title": "The Witch-Hunt in Early Modern Europe",
+  "author": "Brian P. Levack",
+  "author_slug": "levack-brian-b1943",
+  "year_published": 2006,
+  "original_year": 1987,
+  "original_title": "The Witch-Hunt in Early Modern Europe",
+  "original_language": "English",
+  "original_publisher": "Longman, London (1st edition 1987; 2nd edition 1995; 3rd edition 2006)",
+  "publisher": "Pearson Longman, 3rd edition",
+  "text_type": "monograph",
+
+  "subject_focus": "Comparative synthesis of European witch prosecution across all major jurisdictions, providing the standard quantitative framework (60,000 accused, 40,000-50,000 executed) and institutional analysis of why prosecution varied so dramatically by jurisdiction.",
+
+  "summary": "The Witch-Hunt in Early Modern Europe is the standard comparative synthesis of European witch prosecution and the reference point for all quantitative work on the subject. Levack's central contribution is the development of an institutional analysis — explaining why execution rates varied dramatically across European jurisdictions not primarily by reference to different theological beliefs but by reference to different procedural and structural features of prosecution systems. The critical variable in Levack's analysis is judicial centralization: jurisdictions with strong appellate review (French Parlements), procedural constraints on torture (inquisitorial canon law), or central oversight (Roman Holy Office) executed far fewer accused witches than jurisdictions with delegated local authority, unrestrained torture, and no effective external oversight. The book synthesizes demographic, statistical, and institutional evidence across all major European jurisdictions and provides the standard figure of approximately 60,000 trials and 40,000-50,000 executions in the European witch hunt, 1450-1750.",
+
+  "scholarly_significance": "Levack's institutional analysis is the most important single contribution to the comparative historiography of witch prosecution. By demonstrating that execution rates correlated more strongly with institutional structure than with theological content — that the Roman Inquisition's restraint was procedural and jurisdictional rather than skeptical, that French Parlement review substantially reduced French execution rates, that German territorial courts' lack of oversight enabled German mass prosecution — Levack shifted the explanatory focus from ideas to institutions in a way that remains central to the field.\n\n  The quantitative framework Levack established — approximately 60,000 trials and 40,000-50,000 executions — has been refined but not substantially displaced by subsequent work. His figure of approximately 1,500 Scottish executions (roughly five times the English rate per capita) is the standard reference for Scottish prosecution scale.\n\n  The book is the primary reference for the database's inquisitorial_body entries, which draw on Levack's comparative analysis of how different institutional types (Roman Inquisition, Parlement review, episcopal secular courts, commission systems) produced different outcomes from comparable accusation material.",
+
+  "key_arguments": [
+    {
+      "concept": "Institutional structure determines execution rates",
+      "claim": "The primary variable explaining why some jurisdictions executed hundreds of witches per decade while others executed none is institutional structure: the presence or absence of effective appellate review, procedural constraints on torture, and central judicial oversight, not the severity of local demonological belief."
+    },
+    {
+      "concept": "The Roman Inquisition as restraining institution",
+      "claim": "Contrary to popular assumption, the Roman and Spanish Inquisitions were restraining forces on witch prosecution, not drivers of it. Their procedural rules, central oversight, and skeptical orientation toward sabbath confessions substantially limited prosecution in jurisdictions under their control."
+    },
+    {
+      "concept": "Standard quantitative framework",
+      "claim": "Approximately 60,000 witch trials and 40,000-50,000 executions occurred in Europe between 1450 and 1750, concentrated in the German-speaking lands (which account for approximately 26,000 executions), with secondary concentrations in Scotland, France, and Poland."
+    }
+  ],
+
+  "relation_to_database": "Levack is cited in virtually every inquisitorial_body, trial_event, and persecuted_group entry. His quantitative framework provides the denominators for statements about regional execution rates. His institutional analysis underlies the contrast between Scottish commission prosecutions and Venetian Inquisition restraint documented in the database.",
+
+  "scholarly_disagreement": "Levack's quantitative figures have been revised upward by some scholars (Behringer estimates 50,000-60,000 executions rather than 40,000-50,000) and are accepted by others as conservative but defensible. The institutional analysis has been widely adopted; the question of how much additional explanatory weight belongs to cultural and religious factors (the character of Reformed versus Counter-Reformed demonology, popular beliefs about witchcraft) beyond institutional structure is the primary ongoing methodological debate.",
+
+  "source_method": "Published text, 3rd edition, Pearson Longman 2006",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

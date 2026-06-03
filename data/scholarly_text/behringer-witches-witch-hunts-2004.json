@@ -1,0 +1,41 @@
+{
+  "id": "behringer-witches-witch-hunts-2004",
+  "title": "Witches and Witch-Hunts: A Global History",
+  "author": "Wolfgang Behringer",
+  "author_slug": "behringer-wolfgang-b1956",
+  "year_published": 2004,
+  "original_year": 2004,
+  "original_title": "Hexen: Glaube, Verfolgung, Vermarktung",
+  "original_language": "German",
+  "original_publisher": "C.H. Beck, Munich",
+  "publisher": "Polity Press, Cambridge (English translation 2004)",
+  "text_type": "monograph",
+
+  "subject_focus": "Accessible comparative synthesis of witch prosecution history from a global perspective, drawing on Behringer's archival work in Bavaria and comparative analysis across European and non-European contexts.",
+
+  "summary": "Behringer's Witches and Witch-Hunts is a synthetic overview of witch prosecution history that ranges from European early modern prosecution through to the contemporary pattern of witch-killings in sub-Saharan Africa and South Asia. Drawing on Behringer's extensive archival work on Bavarian prosecution (which forms the most detailed German regional study after Midelfort's southwestern Germany) and his comparative knowledge of the European field, the book provides an accessible entry point to the comparative historiography while offering original contributions on the Bavarian material and the global dimension. Behringer argues for a consistent functional pattern across culturally diverse witch-belief systems: witch beliefs persist wherever communities lack alternative explanations for misfortune and lack social mechanisms for managing accumulated conflicts.",
+
+  "scholarly_significance": "Behringer's work bridges academic scholarship and accessible synthesis, making it an important reference for both specialists and general readers. His Bavarian archival research, published in more technical form in Hexen und Hexenprozesse in Deutschland (1988), revised and supplemented Midelfort's southwestern Germany estimates and provided the most detailed German regional analysis covering the major prosecution period. The global dimension of Witches and Witch-Hunts is unusual in European witch-trial scholarship and positions Behringer's work within a growing literature on witch persecution as a global phenomenon rather than a specifically early modern European one.\n\n  Hutton's The Witch (2017) cites Behringer's work extensively for the German regional material and engages with his comparative framework. Levack's synthesis similarly draws on Behringer's German findings. The book is notable for its explicit engagement with the contemporary relevance of witch persecution research.",
+
+  "key_arguments": [
+    {
+      "concept": "Climate as prosecution driver",
+      "claim": "The Little Ice Age (c. 1300-1850) contributed to European witch prosecution waves: the correlation between cold periods and crop failures created the demand for supernatural explanation that witch accusation provided, making climate one of several structural enablers of prosecution."
+    },
+    {
+      "concept": "Global functional pattern",
+      "claim": "Witch belief and witch persecution show consistent functional patterns across culturally diverse contexts — wherever communities attribute misfortune to malevolent human agents with supernatural powers and lack alternative explanatory and judicial resources, witch persecution tends to occur."
+    }
+  ],
+
+  "relation_to_database": "Behringer's German regional findings are cited in the bamberg-1626-mass-prosecution and trier-witch-trials-1581-1593 trial_event entries. His global perspective is relevant to the indigenous-sami-colonial-accused persecuted group entry.",
+
+  "scholarly_disagreement": "Behringer's climate hypothesis (Little Ice Age as prosecution driver) has been accepted as a contributing factor by some scholars while others note that the correlation between cold periods and prosecution peaks is imprecise. His global-comparison framework has been criticized for potentially flattening important cultural specificity.",
+
+  "source_method": "Published text, Polity Press, 2004 (English translation); primary sources: Bavarian Staatsarchiv; German witch trial records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "petronilla-of-meath-kilkenny-1325",
+  "name": "Petronilla of Meath",
+  "trial_id": "kilkenny-kyteler-trial-1324",
+  "location_id": "kilkenny",
+  "year_accused": 1324,
+  "year_executed": 1325,
+  "survived": false,
+  "gender": "Female",
+  "social_status": "Servant of Lady Alice Kyteler; low social status; her torture and execution enabled when her employer fled prosecution",
+
+  "biography": "Petronilla of Meath was a servant of Lady Alice Kyteler who became, by the accident of her social position and her employer's successful flight, the first person executed for heresy in Ireland. She holds a unique and tragic significance in the history of witch prosecution in the British Isles: as the first victim of an episode that established the legal and theological template for composite witchcraft prosecution in an Irish context. The surviving chronicle account describes her as having been subjected to six floggings at Bishop de Ledrede's order — torture by other means in a legal system that did not formally permit judicial torture — before she confessed and was burned in Kilkenny in 1325. Her confession, extracted under these conditions, incorporated the full range of charges compiled against Alice Kyteler's circle: dealings with the demon Robert son of Art, participation in magical rites, and heretical apostasy. Petronilla's execution achieved what the prosecution could not accomplish against the more socially powerful Alice: a capital conviction that vindicated Bishop de Ledrede's campaign and established the legal precedent for heresy prosecution in Ireland.",
+
+  "charges_and_confession": "Confessed under torture (described as 'six times flogged') to heretical apostasy, dealings with a demon familiar, participation in the preparation of magical potions, and membership in the satanic sect alleged to have gathered around Lady Kyteler. Burned at Kilkenny in 1325 — the first execution for heresy in Ireland.",
+
+  "scholarly_analysis": {
+    "hutton_perspective": "Hutton notes the structural dynamic in which Petronilla's low social status and inability to escape (unlike her employer) converted her from an associated figure in a property-dispute prosecution into the execution's primary target. This is precisely the social mechanism — the vulnerable associate who cannot flee — that recurs in later mass prosecution dynamics when socially embedded accusees escape and low-status associates absorb the lethal force of the proceeding.",
+    "clark_perspective": "Clark's framework would situate Petronilla's execution as evidence of how demonological theory — which made any member of a demonic sect equally guilty regardless of their role — created conditions in which a servant could be executed as a heretic for the alleged sins of her mistress.",
+    "ginzburg_perspective": "A Ginzburgian reading would focus on the torture-confession dynamic: Petronilla's six floggings were the mechanism through which the inquisitorial framework extracted the confessional content that confirmed the prosecution's demonological premises. Without this coercion, there would have been no confession, and the nature of the proceeding would have remained a civil property dispute."
+  },
+
+  "significance": "Petronilla of Meath holds the distinction of being the first person executed for heresy in Ireland. Her case illustrates how composite witchcraft prosecution could produce capital victims even when its primary target escaped: the prosecution's need for a successful execution was satisfied by the socially least powerful person within reach.",
+
+  "source_method": "Narrative chronicle (attributed to contemporaries, edited by Thomas Wright, 1843); analyzed in Hutton, The Witch (2017) and Ankarloo/Clark Vol. 3 (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The chronicle account of Petronilla's 'six floggings' as the mechanism of confession extraction is the primary source for the torture claim; the formal legal position of the proceeding (heresy trial, not standard criminal trial) meant that inquisitorial torture was technically possible but the actual procedure remains debated in the historiography.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

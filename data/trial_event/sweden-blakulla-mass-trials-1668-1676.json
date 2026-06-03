@@ -1,0 +1,48 @@
+{
+  "id": "sweden-blakulla-mass-trials-1668-1676",
+  "name": "Swedish Blåkulla Mass Trials",
+  "location_id": "dalarna-sweden",
+  "year_start": 1668,
+  "year_end": 1676,
+  "alleged_accused_count": 600,
+  "executed_count": 280,
+  "regional_context": "Dalarna province and subsequently spreading across Sweden; post-Reformation Lutheran Sweden; royal commission involved",
+
+  "summary": "The Swedish Blåkulla witch panic of 1668-1676 is Northern Europe's largest sustained witch prosecution and the most extensive case study in the role of children as accusers and themselves accused. Beginning in the parish of Mora in Dalarna province in 1668, the prosecution spread through a distinctive mechanism: children testified that adult witches had taken them — physically, not in dreams — to Blåkulla, the Swedish witches' sabbath location, where they were made to renounce their baptism and serve the devil. The testimony of hundreds of children created both the evidentiary foundation for adult prosecution and, in an extension of the logic, accusations against children themselves who were said to have participated in the sabbath. Approximately 60 adults and some children were executed at the initial Mora sessions in 1669; a Royal Commission was established to investigate and manage the spreading panic; approximately 280 people were executed in total across the country before the panic was contained by increasing judicial skepticism in the 1670s, culminating in the Stockholm trials of 1676 where the children's testimony began to break down under scrutiny.\n\n  The Blåkulla testimony is extraordinarily detailed and consistent across geography and time — a consistency that scholars have interpreted in opposing directions: as evidence of the testimony's cultural scripting (the children drew on a shared narrative template about Blåkulla regardless of actual experience) and as evidence that the children were actually performing some kind of collective belief or dream-practice that the prosecution framework then encoded as sabbath attendance.",
+
+  "historiographical_significance": "The Swedish panic is analyzed primarily in Bengt Ankarloo's contribution to the Ankarloo-Clark volumes and provides the major European case study for children as witchcraft accusers (extending beyond Salem in scale and duration). Levack identifies the Blåkulla panic as demonstrating the prosecution mechanism's dependence on narrative coherence: the children's collective testimony created and sustained the panic not through torture (most of the adult confessions were obtained without formal torture) but through the social dynamics of coordinated accusation and the pressures on adults to confirm what children had alleged.\n\n  Eva Pócs's analysis of the Blåkulla material draws comparisons with Hungarian and Balkan witch testimony to argue that the Blåkulla narratives draw on a common Northern and Central European tradition of spirit-journey belief that underlies the sabbath stereotype — the Ginzburgian argument applied to a Scandinavian case. The Stockholm trials of 1676 are significant as one of the earliest systematic skeptical responses to mass witch testimony: Stockholm court authorities challenged children's testimony, prosecuted false accusers, and effectively halted the panic within the capital, demonstrating that institutional skepticism could interrupt the prosecution mechanism.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "torture-confession-dynamic",
+    "demonic-pact-early-modern"
+  ],
+
+  "key_details": {
+    "starting_location": "Mora parish, Dalarna province; spread to Älvdalen, Rättvik, and eventually nationwide",
+    "children_accusers": "~3,000 children gave testimony in Dalarna alone; children testified to physical transportation to Blåkulla",
+    "royal_commission": "Established 1669; authorized capital prosecutions but also began skeptical scrutiny; 60+ executed at Mora in August 1669",
+    "collapse": "Stockholm trials 1675-1676 revealed coaching of children and false testimony; skepticism spread backward to provincial prosecutions"
+  },
+
+  "scholarly_disagreement": "The source of the children's testimony consistency — whether it reflects shared popular belief, deliberate coaching by adults, epidemic hysteria, or some combination — is not resolved. Ankarloo emphasizes cultural scripting; Pócs emphasizes genuine popular belief substrate; Levack emphasizes the institutional mechanisms that amplified whatever its source. Whether the Stockholm skeptics were responding to genuine fraud discovery or to changing judicial attitudes about testimony standards is debated.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "salem-1692-trials"
+  ],
+
+  "source_method": "Swedish Royal Commission records (Riksarkivet); analyzed in Bengt Ankarloo, 'Sweden: The Mass Burnings (1668-76)', in Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

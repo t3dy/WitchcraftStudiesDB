@@ -1,0 +1,41 @@
+{
+  "id": "sharpe-instruments-of-darkness-1996",
+  "title": "Instruments of Darkness: Witchcraft in Early Modern England",
+  "author": "James Sharpe",
+  "author_slug": "sharpe-james-b1945",
+  "year_published": 1996,
+  "original_year": 1996,
+  "original_title": "Instruments of Darkness",
+  "original_language": "English",
+  "original_publisher": "Hamish Hamilton, London",
+  "publisher": "Hamish Hamilton (1996); Penguin (paperback, 1997)",
+  "text_type": "monograph",
+
+  "subject_focus": "Accessible but scholarly synthesis of English witch prosecution history, combining Macfarlane's Essex methodology with broader regional analysis to offer the most comprehensive single-volume account of the English witch trial for the general educated reader.",
+
+  "summary": "Sharpe's Instruments of Darkness is the most widely read scholarly synthesis of English witch prosecution history and the book that brought post-Macfarlane English witch-trial scholarship to a broad audience. Where Macfarlane's Witchcraft in Tudor and Stuart England (1970) was a technical social history focusing on Essex, Sharpe provides a broader chronological and geographical account of English prosecution, examining regional variation across circuits, the role of popular culture and belief, the character of the key prosecutorial episodes (Chelmsford, Pendle, Hopkins), and the relationship between official theology and popular magical culture. The book draws on Macfarlane's, Thomas's, and later regional studies while offering Sharpe's own synthesis and interpretive framework.",
+
+  "scholarly_significance": "Instruments of Darkness occupies an important niche in the English witch-trial historiography as the bridge between academic scholarship and informed general readership. Its significance is partly pedagogical — it is the standard assignment text for undergraduate courses on English witchcraft — and partly substantive: Sharpe's synthesis of regional variation evidence demonstrates that the English prosecution pattern, while sharing core characteristics across the country, showed significant regional diversity that Macfarlane's Essex-focused analysis had not fully captured.\n\n  Hutton's The Witch (2017) cites Sharpe extensively for the English regional material. Gaskill's Witchfinders (2005) builds on Sharpe's Hopkins chapter. The book's accessible character makes it the most important gateway text for the English material in English-language witch-trial scholarship.",
+
+  "key_arguments": [
+    {
+      "concept": "English regional variation within national pattern",
+      "claim": "English witch prosecution showed significant regional variation in intensity — higher in Essex and the northeast, lower in the southwest and Wales — within a uniform institutional framework, suggesting that cultural and social factors (the strength of popular magical traditions, the character of local religious culture) moderated prosecution intensity within the common-law system."
+    },
+    {
+      "concept": "Popular culture as prosecution substrate",
+      "claim": "The English prosecution pattern rested on a substrate of popular magical culture — belief in cunning folk, maleficium, the evil eye, and counter-magic — that was distinct from the learned demonological tradition and that provided both the accusation energy and the specific form of English witch prosecution."
+    }
+  ],
+
+  "relation_to_database": "Sharpe's synthesis is cited in the pendle-witch-trial-1612, east-anglia-hopkins-campaign-1645, and chelmsford-witch-trials-1566 trial_event entries, and provides regional variation evidence for the english-home-circuit-assizes and worcester-chester-lancaster-assizes inquisitorial_body entries.",
+
+  "scholarly_disagreement": "Sharpe's synthesis has been relatively uncontroversial; subsequent scholarship (Gaskill, Wilby, Hutton) has extended and refined his framework rather than challenging it fundamentally.",
+
+  "source_method": "Published text, Hamish Hamilton, London, 1996; primary sources: English assize and county records; secondary sources: Macfarlane, Thomas, and regional studies",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

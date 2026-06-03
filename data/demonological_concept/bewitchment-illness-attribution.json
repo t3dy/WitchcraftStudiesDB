@@ -1,0 +1,51 @@
+{
+  "id": "bewitchment-illness-attribution",
+  "name": "Bewitchment and Illness Attribution",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Medieval and Early Modern (c. 900–1750)",
+  "primary_locale": "Broad European distribution; documented across virtually all prosecution contexts",
+
+  "scholarly_definition": "The attribution of illness, injury, or death to malevolent magical action — bewitchment — was the foundational popular mechanism by which witch accusation arose in early modern communities. The causal logic held that unexplained illness (particularly in children and livestock), unexpected death, sudden misfortune, and reproductive failure could be attributed to the malevolent will of a known or suspected enemy who had supernatural capacity to work harm. This attribution mechanism, which Thomas and Macfarlane call 'misfortune attribution,' was the primary generator of the accusation energy that drove prosecution — the community-level demand for an explanation of specific harm that witch accusation provided.",
+
+  "intellectual_genealogy": {
+    "pre-prosecution_tradition": "Bewitchment attribution predates formal prosecution by millennia: it is attested in ancient Near Eastern, Greek, Roman, and medieval European contexts as a widespread mechanism for explaining misfortune. Early modern prosecution drew on this longstanding tradition rather than creating it.",
+    "christian_theological_framework": "Within early modern Christian culture, illness attribution to witchcraft sat within the broader providential framework: illness was either natural (operating through secondary natural causes), divine punishment (sent directly by God), or diabolically facilitated (accomplished through a witch acting as Satan's agent with divine permission). The theological sophistication of this framework is documented by Clark in Thinking with Demons.",
+    "medical_boundary": "The boundary between natural illness and bewitchment was practically contested: physicians and healers were regularly called upon to determine whether a patient's condition was natural or supernatural in origin. Their diagnostic conclusions shaped whether witch accusation followed. Several cases — including the Salem possession — involved physicians explicitly declining to provide a natural diagnosis and thereby leaving open the supernatural attribution.",
+    "cunning-folk_mediation": "Cunning folk who provided bewitchment diagnosis served as the mediating institution between general misfortune attribution and specific accusation: a client who believed they were bewitched would consult a cunning man or wise woman who would either confirm or disconfirm the supernatural attribution and, if confirming it, identify the specific bewitcher responsible."
+  },
+
+  "clark_intellectual_analysis": "Clark analyzes bewitchment attribution within the providential framework: illness attributed to witchcraft was not distinguished from naturally-caused illness at the cosmological level (God permitted all causes to operate), but was differentiated at the practical level of response (prayer and medical treatment for natural illness; counter-magic and witch accusation for bewitchment). The boundary between the two categories was theologically unstable and practically contested.",
+
+  "hutton_social_analysis": "Hutton's analysis emphasizes that bewitchment attribution was not uniformly applied to all illness but was specifically invoked in circumstances that made social attribution plausible: illness following a quarrel or refusal of charity (Macfarlane's charity-refusal pattern), illness in the aftermath of encounters with suspected magical practitioners, or illness of a kind associated with particular magical traditions (wasting illness in children as typical of child-witch bewitchment). The social specificity of attribution is what connects bewitchment belief to witch accusation.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's analysis focuses on how bewitchment attribution, once made, was processed through the interrogation-and-confession procedure. The initial popular attribution (this person bewitched my child) was transformed by examination into a confession of sabbath attendance, diabolical pact, and conspiracy that went far beyond the original specific attribution. The interrogation procedure amplified the scope of the accusation from specific maleficium to organized diabolical conspiracy.",
+
+  "actor_perspective": {
+    "community_level": "Bewitchment attribution was a normal part of community life rather than an exceptional occurrence: suspicion of specific neighbors as the source of specific misfortune was widespread and ongoing, with formal accusation occurring only when the social and legal conditions made it viable",
+    "threshold_for_accusation": "The threshold for converting private suspicion into public accusation was significantly higher than the threshold for private bewitchment attribution — a neighbor could be privately suspected of bewitchment for years before conditions arose that enabled formal prosecution"
+  },
+
+  "distinctive_features": {
+    "specificity": "Unlike generic supernatural danger, bewitchment attribution was specifically interpersonal: it named a specific person as the agent of specific harm to specific victims",
+    "relationship_to_counter-magic": "Bewitchment attribution and counter-magic practice were closely linked: the diagnosis of bewitchment created demand for counter-magical service, which in turn created the opportunity for cunning folk to identify specific bewitchers",
+    "selective_application": "Bewitchment attribution was applied selectively: natural illness could occur without supernatural attribution, and the conditions under which attribution occurred had social logic that scholars have analyzed through the charity-refusal and other explanatory models"
+  },
+
+  "geographic_distribution": "Universal in European witch prosecution; the specific conditions triggering attribution varied by region and cultural context.",
+
+  "historiographical_significance": "The study of bewitchment attribution is central to both the Macfarlane-Thomas community-dynamics tradition and the broader European comparative tradition. Thomas's Religion and the Decline of Magic (1971) is the foundational treatment of how bewitchment attribution functioned in English communities. Macfarlane's Witchcraft in Tudor and Stuart England (1970) applied Thomas's framework to quantitative analysis of Essex records. Levack's comparative synthesis integrates the attribution mechanism into his European-wide account of prosecution dynamics.",
+
+  "source_method": "Witch trial records across European jurisdictions; cunning folk examination records; analyzed in Thomas, Religion and the Decline of Magic (1971); Macfarlane, Witchcraft in Tudor and Stuart England (1970); Clark, Thinking with Demons (1997); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

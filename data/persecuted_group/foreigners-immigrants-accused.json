@@ -1,0 +1,36 @@
+{
+  "id": "foreigners-immigrants-accused",
+  "name": "Foreigners, Immigrants, and Social Outsiders",
+  "category": "social_class",
+  "temporal_scope": "c. 1400–1700",
+  "primary_regions": ["rhineland", "scotland", "colonial-new-england", "lorraine", "scotland"],
+
+  "group_profile": "Persons identified as socially external to the community in which accusations arose — immigrants, itinerants, newcomers, persons of foreign origin, or simply those whose social networks were thin or suspect — appear with disproportionate frequency in certain witch prosecution contexts. The mechanism is structurally distinct from the charity-refusal pattern (which involves well-known community members whose longstanding relationships had become hostile) and from the property-holding anomaly pattern (which involves persons integrated into but structurally anomalous within the community). The outsider's vulnerability arises from the absence of the social capital — established relationships, reputation, embedded community ties, reliable witnesses — that could provide defense against accusation.\n\n  Levack's comparative analysis identifies social marginality as a general vulnerability factor: in communities where witch accusation arose from the processing of interpersonal conflict and misfortune attribution, persons without established protective social networks were more exposed than those whose community position gave them defenders. Briggs's Lorraine analysis documents cases where newcomers, immigrants, and persons with ambiguous community membership were disproportionately among the accused in village-level prosecution, even when other social characteristics (age, sex, poverty) were controlled for. In colonial contexts — New England, New Spain — the outsider category extended to persons of non-European background whose cultural practices were interpreted through the European witchcraft framework regardless of those practices' own cultural meaning.",
+
+  "persecution_rationale": "Demonological theory provided a specific account of how outsiders could be witches: the diabolical conspiracy was by definition a secret network operating invisibly within communities, and those who lacked visible community integration were naturally suspected of belonging to an invisible network instead. The witch as secret agent of Satan was structurally analogous to the outsider as secret agent of foreign interests — both were defined by concealed allegiances that subverted the community from within. Popular belief provided a complementary framework: the stranger who arrived at a moment of misfortune, the itinerant who begged and moved on, the foreigner whose speech and customs were unfamiliar — all activated the cultural logic of the witch as dangerous unknown.",
+
+  "structural_vulnerability": "The structural vulnerability of outsiders and immigrants to witch accusation operated through several distinct mechanisms identified by Briggs and Levack. First, the absence of established reputation and social ties meant that the testimonial ecology was unfavorable: few people would take risks to defend someone they did not know, while those who did know the accused only in the context of conflict or misfortune had strong reasons to testify against them. Second, the outsider's practices and beliefs were less legible to accusers and authorities: unfamiliar speech, unfamiliar customs, unfamiliar medicinal or agricultural practices could more easily be assimilated into the framework of suspicious magical activity. Third, in some jurisdictions, outsiders had fewer legal protections: they could be expelled or prosecuted without the political complications that accused community members with powerful local connections would create.",
+
+  "historiographical_significance": "The outsider-vulnerability pattern has been most systematically analyzed by Briggs in the Lorraine context and by Levack in his comparative synthesis. Briggs's community-level analysis demonstrates that witch accusation in Lorraine was not limited to any single social profile — the variety of accused persons' circumstances is the point of his multi-causal argument — but that persons with weakened community ties consistently appear as disproportionately vulnerable regardless of other social characteristics.\n\n  In colonial contexts, the outsider framework intersects with racial and cultural categories in ways that the European scholarship does not fully address. Scholarship on New Spain, New England, and the Caribbean has identified how European colonists interpreted indigenous and African spiritual practices through the witchcraft framework, prosecuting practitioners who were definitionally 'outsiders' in an occupied territory. Norton's In the Devil's Snare (2002) identifies the significance of frontier anxiety — the presence of a threatening, culturally alien 'outside' — in generating the specific social psychology of the Salem outbreak.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+
+  "scholarly_disagreement": "The degree to which outsider status was an independent vulnerability factor versus a proxy for poverty or lack of social capital (which correlated with outsider status but were the real explanatory variables) is not fully resolved in the literature. Briggs explicitly argues against reducing all vulnerability to a single variable.",
+
+  "source_method": "Briggs, Witches and Neighbours (1996); Levack, The Witch-Hunt in Early Modern Europe (2006); Norton, In the Devil's Snare (2002); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "briggs-witches-neighbours-1996",
+    "levack-witch-hunt-early-modern-2006",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

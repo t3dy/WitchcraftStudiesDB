@@ -1,0 +1,37 @@
+{
+  "id": "men-accused-of-witchcraft",
+  "name": "Men Accused of Witchcraft",
+  "category": "demographic",
+  "temporal_scope": "c. 1300–1750",
+  "primary_regions": ["iceland", "finland", "estonia", "russia", "normandy", "english-counties"],
+
+  "group_profile": "Women constituted the majority of witch trial victims across most European jurisdictions, but the gendered pattern of prosecution was neither universal nor constant. Men composed a substantial minority of the accused across Europe as a whole — Hutton's demographic analysis suggests approximately 20-25% of all European accused were male — and in several regions they constituted the majority. In Iceland, surviving records show men accused at roughly equal rates to women; in Finland and Estonia, men were the majority of accused; in Russia, accused practitioners were overwhelmingly male. In the Basque country, the gender balance was more even than in most Continental prosecutions. These regional variations are historiographically significant: they demonstrate that the association between witchcraft and femininity was a product of specific cultural and demonological traditions rather than a universal feature of witch prosecution.\n\n  Male witches were accused across a wide social range. At the elite end, men in positions of power could be accused of demonic magic as part of political conflict: accusations of sorcery against noblemen, royal counselors, and ecclesiastics were a recurring feature of medieval and early modern political life before the witch-trial system proper. At the ordinary social level, male practitioners — cunning men, herbalists, wise men — occupied the same service-magic niche as their female equivalents and faced comparable risks of prosecution. The benandanti of Friuli were exclusively male in the earliest documentation (the night-battle tradition appears to have been gender-restricted). The Scottish fairy-healer tradition included Andrew Man. John Fian, schoolmaster, was tortured and executed at North Berwick in 1591.\n\n  Within mass prosecutions, men frequently appeared as accused persons named by tortured female confessors: the cascade mechanism of denunciation was gender-blind once the prosecutorial engine was running. At Bamberg, a canon (Heinrich Schultheis), a vice-chancellor (Dr. Haan), and a burgomaster (Johannes Junius) were among the executed. This social range confirms Hutton's finding that mass prosecutions broke through the demographic profile of ordinary prosecution.",
+
+  "persecution_rationale": "Demonological theory did not exclude men from the category of witch, though leading theorists from the Malleus Maleficarum onward emphasized female susceptibility. The Malleus explicitly argued that women were more vulnerable to demonic temptation due to their supposed spiritual weakness, intellectual incapacity, and carnal nature — but acknowledged male witches as real. In jurisdictions where the dominant concept was the individual practitioner (cunning man, sorcerer) rather than the devil-worshipping conspirator, male accused were common because the folk tradition itself included male practitioners. In regions where shamanic practices were associated with male specialists (Finland, Estonia, Iceland, Siberian-adjacent regions), prosecution followed the indigenous distribution of practitioners rather than imported demonological gender theory.",
+
+  "structural_vulnerability": "Male accused were structurally vulnerable in patterns that differed from female accused but were structurally analogous. Male cunning folk and healers were vulnerable for the same reasons as female ones: community reputation for magical practice invited accusation when their clients suffered harm. Elite males were vulnerable to politically motivated accusation — sorcery charges as a tool of factional conflict — in ways that low-status women were not. In mass prosecutions driven by cascade denunciation, men were systematically named as sabbath companions of female accused without necessarily having any independent accusatory background.\n\n  The regional patterns of male predominance (Iceland, Finland, Estonia) are analyzed by Ankarloo and Henningsen in Early Modern European Witchcraft (1990) as reflecting indigenous shamanic traditions in which magical practitioners were predominantly male. In these regions, the colonial (demonological) prosecution system targeted individuals who occupied real social roles — the tietäjä in Finland, the noaidi in Sámi communities — through alien ideological categories, and the practitioners targeted were those who actually practiced what they were accused of practicing, filtered through demonological reframing.",
+
+  "historiographical_significance": "The historiography of male accused witches has developed significantly since Lyndal Roper's and Alison Rowlands's challenges to the 'witch = female' assumption that dominated earlier scholarship. Hutton's demographic synthesis in The Witch (2017) provides the most comprehensive comparative data, showing that the 20-25% male proportion in most prosecutions rises to near parity or majority in specific regional contexts. This regional variation is the central analytical problem: explaining why some jurisdictions predominantly targeted women and others targeted men requires case-by-case analysis of institutional structure, indigenous magical tradition, and the specific demonological framework in use.\n\n  Briggs's work on Lorraine in Witches and Neighbours (1996) found a higher proportion of male accused than the stereotype predicted in that jurisdiction, complicating the assumption that Continental prosecutions were straightforwardly female-targeting. The question of whether the gender distribution of accused persons reflects primarily learned demonological theory (which emphasized female susceptibility), indigenous practice distribution (which varied by region), or the social dynamics of specific prosecutions (in which men caught in cascade denunciations were equally vulnerable) remains unresolved — but the historiographical consensus now rejects the equation of 'witch' with 'woman' as a universal truth.",
+
+  "exemplary_accused_persons": [
+    "johannes-junius-bamberg-1628"
+  ],
+  "related_demonological_concepts": [
+    "female-susceptibility-theory",
+    "demonic-pact-early-modern"
+  ],
+
+  "scholarly_disagreement": "The statistical distribution of male versus female accused varies significantly by jurisdiction and period, and the appropriate aggregate figure depends heavily on whether under-documented peripheral regions (Iceland, Estonia, Finland) are weighted equally with the well-documented core prosecutions. Hutton's 20-25% figure is widely cited but acknowledges this methodological difficulty. The specific explanations for regional male-predominance also differ: Ankarloo and Henningsen emphasize indigenous shamanic traditions; others emphasize the role of political accusation patterns; still others see the gender distribution as more contingent than any structural explanation allows.",
+
+  "source_method": "Hutton, The Witch (2017), demographic analysis; Ankarloo and Henningsen (eds.), Early Modern European Witchcraft: Centres and Peripheries (1990); Briggs, Witches and Neighbours (1996); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

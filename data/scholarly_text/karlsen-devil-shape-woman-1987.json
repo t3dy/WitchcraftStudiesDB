@@ -1,0 +1,41 @@
+{
+  "id": "karlsen-devil-shape-woman-1987",
+  "title": "The Devil in the Shape of a Woman: Witchcraft in Colonial New England",
+  "author": "Carol F. Karlsen",
+  "author_slug": "karlsen-carol-f-b1940",
+  "year_published": 1987,
+  "original_year": 1987,
+  "original_title": "The Devil in the Shape of a Woman",
+  "original_language": "English",
+  "original_publisher": "Norton, New York",
+  "publisher": "W. W. Norton & Company",
+  "text_type": "monograph",
+
+  "subject_focus": "Property-inheritance analysis of New England witch accusation, arguing that women who anomalously inherited or controlled economic resources were disproportionately accused because their economic position violated patriarchal norms.",
+
+  "summary": "The Devil in the Shape of a Woman is Karlsen's analysis of New England witchcraft accusations — with Salem as the primary but not exclusive focus — arguing that property inheritance and economic anomaly were the primary structural determinants of who was accused. Karlsen found that women who stood to inherit property in the absence of male heirs, who had outlived their husbands and controlled household resources, or who occupied economically independent positions that the patriarchal inheritance system defined as anomalous were disproportionately accused of witchcraft. The book combines quantitative analysis of the accused population's demographic and economic profile with qualitative analysis of specific cases to argue that witch accusation was, in substantial measure, a mechanism for resolving patriarchal anxiety about female economic independence.",
+
+  "scholarly_significance": "Karlsen's property-inheritance analysis has been one of the most widely cited contributions to the sociological analysis of witch accusation in the American context and has influenced comparative work on European prosecution. Her finding that women in positions of anomalous economic independence — widows with inherited property, women without male heirs in communities where women did not normally control property — were disproportionately accused refines the simple 'widows were vulnerable' observation by specifying the mechanism: it was not poverty but economic anomaly, not marital status per se but the intersection of marital status with property inheritance, that created vulnerability.\n\n  The book's contribution to the Salem historiography was to complement Boyer and Nissenbaum's community-conflict analysis (Salem Possessed, 1974) with an individual-level analysis that emphasized economic and patriarchal dynamics rather than factional community conflict. The two analyses are not mutually exclusive but address different levels of the accusation phenomenon.\n\n  Hutton in The Witch (2017) engages with Karlsen's property analysis as a refinement of the demographic patterns he identifies across European prosecutions, noting that the property-holding dimension is most clearly visible in the American case but has analogues in European mass-prosecution contexts.",
+
+  "key_arguments": [
+    {
+      "concept": "Property inheritance and accusation vulnerability",
+      "claim": "Women who stood to inherit property, who controlled economic resources, or who occupied positions of economic independence that patriarchal culture defined as anomalous were disproportionately accused of witchcraft — suggesting that accusation was partly a mechanism for resolving patriarchal anxiety about female economic independence."
+    },
+    {
+      "concept": "Female economic autonomy as deviance",
+      "claim": "In a culture where female economic dependence was normative, women who deviated from this norm — by outliving husbands, by inheriting in the absence of male heirs, by controlling businesses — were anomalous in ways that made them available for accusation through the demonological category of the witch who had achieved power through diabolical rather than legitimate means."
+    }
+  ],
+
+  "relation_to_database": "Cited in the widows-early-modern, elderly-women-accused, and property-holding-women persecuted_group entries. Referenced in Salem accused_person entries (Bridget Bishop, Rebecca Nurse, Sarah Good) as context for their economic situations.",
+
+  "scholarly_disagreement": "The property-inheritance analysis has been questioned by scholars who find it overly schematic: not all women with property were accused, and many accused women had no anomalous economic position. Levack, Macfarlane, and Thomas favor multi-factorial analyses that include property but do not make it primary. The New England-specific character of Karlsen's analysis (a colonial context with specific inheritance laws) limits its direct transferability to European prosecution, though Hutton accepts its relevance as one factor among several.",
+
+  "source_method": "Published text, W. W. Norton 1987",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "lancashire",
+  "name": "Lancashire / Forest of Pendle",
+  "type": "County / Forested Region",
+  "region": "Northern England",
+  "modern_location": "Lancashire, England",
+  "coordinates": {
+    "latitude": 53.870,
+    "longitude": -2.240
+  },
+  "hover_description": "Lancashire, 1612: Site of the Pendle witch trials — 10 executions at Lancaster Assizes. Demdike and Chattox families; Malkin Tower meeting as partial sabbath.",
+
+  "administrative_context": "Lancashire was a county palatine within the Northern Circuit of the English assize system. The Forest of Pendle was a marginal upland area in the east of the county, characterized by scattered settlement, poverty, and limited manorial oversight — the social geography associated with cunning-folk traditions and practical magic use. The Lancaster Assizes were the principal criminal court for the county.",
+
+  "witchcraft_trials_significance": "Lancashire's principal witchcraft prosecution — the Pendle witch trials of 1612 — is the most extensively documented English witch prosecution outside of Salem and the most significant Northern English case. Ten people were hanged at Lancaster following a complex investigation by Justice of the Peace Roger Nowell, the examination of a child witness (Jennet Device, aged nine), and confessions from members of the Demdike and Chattox families who had occupied the cunning-folk role in the local community for decades. The 1612 prosecution is distinctive for the 'Malkin Tower meeting' evidence: testimony that the accused had gathered at Malkin Tower on Good Friday for a meeting that the prosecution framed as a witches' sabbath — an unusual quasi-Continental element in an otherwise typically English prosecution.\n\n  Lancashire also saw prosecutions in 1633-34, when a teenage boy named Edmund Robinson claimed to have seen a witches' gathering; seventeen people were convicted before the cases were reviewed in London and the convictions overturned following an examination of the prisoners by the King's physicians, who found no witch marks. The 1633-34 Lancashire trials are significant for illustrating the reviewing mechanism: Crown intervention to halt a provincial prosecution on evidentiary grounds.",
+
+  "trial_events": [
+    "pendle-witch-trial-1612"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Roger Nowell",
+      "role": "Justice of the Peace, Read Hall, Lancashire",
+      "contribution_to_trials": "Conducted the initial investigations and examinations; gathered the depositions published in Potts's account; coordinated prosecution with the Lancaster Assizes"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1612": "Pendle witch trials: arrest, examination by Roger Nowell, trial at Lancaster Summer Assizes; 10 hangings (August 20)",
+    "1633-34": "Robinson boy accusations; 17 convicted; reviewed in London; convictions overturned"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Forest of Pendle, Roughlee, Fence, Wheathead, Higham, Barrowford — townships in east Lancashire",
+    "social_reach": "Rural poor; families with established reputation as cunning folk (Demdike and Chattox families); one landowner (Alice Nutter)",
+    "mortality_impact": "10 hangings in 1612; no executions from 1633-34 prosecution after London review"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the Pendle prosecution within the post-1604 English context where James I's stricter Witchcraft Act and his personal interest in demonology had increased prosecution intensity in the northern circuits.",
+    "hutton_perspective": "Hutton reads the Pendle case as exemplifying the English pattern: maleficium-focused accusation arising from community tensions, with cunning folk who had operated as service-magical practitioners for years becoming vulnerable when their relationships with neighbors turned hostile.",
+    "ginzburg_perspective": "The Malkin Tower meeting evidence in the Pendle case is the element closest to a Continental sabbath account — Ginzburg would identify it as the learned diabolical framework being imposed by Nowell's examination onto what was primarily a community dispute."
+  },
+
+  "legacy_and_historiographical_importance": "The Pendle trials are documented in Thomas Potts's The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613) — the most detailed contemporary account of any English witch prosecution and one of the primary sources for the study of Jacobean witch prosecution. The site has become a significant heritage and tourist destination, with the Pendle Hill landscape prominently associated with the trials in popular memory.",
+
+  "primary_sources": "Thomas Potts, The Wonderfull Discoverie of Witches (1613); Lancashire Assize records; Roger Nowell's examinations (preserved in Potts)",
+
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches (1613); analyzed in Sharpe, Instruments of Darkness (1996); Poole (ed.), The Lancashire Witches (2002); Hutton, The Witch (2017); Macfarlane, Witchcraft in Tudor and Stuart England (1970)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

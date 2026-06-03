@@ -1,0 +1,70 @@
+{
+  "id": "chonrad-stoeckhlin-oberstdorf-spirit-traveler",
+  "name": "Chonrad Stoeckhlin (the 'Shaman of Oberstdorf')",
+  "status": "Executed (burned)",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1586,
+  "age_at_trial": null,
+  "social_status": "Horse herdsman and folk healer, Oberstdorf, Bavaria",
+  "gender": "Male",
+
+  "self_identification": "Spirit traveler who joined the Nachtschar (the night company of the dead) four times a year; healer and witch-finder who worked under the guidance of a Christian angel",
+  "claimed_abilities": [
+    "Nocturnal spirit-flight with the Nachtschar (company of the dead)",
+    "Healing of illness and disease",
+    "Witch-finding: identification of malefic practitioners",
+    "Communication with the dead"
+  ],
+
+  "biography": "Chonrad Stoeckhlin was a horse herdsman from Oberstdorf in the Bavarian Alps, prosecuted for witchcraft in 1586 and subsequently burned. His case was discovered and analyzed by Wolfgang Behringer, who labeled him the 'Shaman of Oberstdorf,' and it constitutes one of the most important Central European parallels to Ginzburg's Friulian benandanti. Stoeckhlin claimed to fall into unconscious states four times a year, during which his spirit joined the Nachtschar — a company of the dead — in nocturnal journeys through the air. He described a Christian angel who accompanied and guided him on these journeys. During his ordinary waking life, he functioned as a healer and witch-finder, claiming that the knowledge he gained on his spirit journeys enabled him to identify the causes of disease and to name those responsible for malefic harm. The Nachtschar tradition he described had regional roots in Alpine folk belief about the wandering dead — a tradition distinct from, though structurally related to, the Friulian benandanti and the Scottish fairy-healer claims. Hutton situates Stoeckhlin's case as evidence that spirit-journey traditions attributing healing powers to nocturnal encounters with supernatural beings (whether the dead, fairies, or angels) were distributed across multiple European regions independently of any single unified tradition. Stoeckhlin was prosecuted under the same demonological framework that condemned the benandanti, his Nachtschar contacts reframed as diabolical rather than angelic despite his own insistence on their Christian character.",
+
+  "interrogation_narrative": {
+    "circumstances": "Prosecuted by Bavarian secular authorities in Oberstdorf, 1586; case analyzed by Wolfgang Behringer from local court records",
+    "stoeckhlin_initial_claim": "My spirit leaves my body four times a year when I fall unconscious; I travel with the Nachtschar (the dead) under angelic guidance; from these journeys I learn who is sick and who has caused harm by magic",
+    "interrogator_response": "Secular judicial framework pressed toward demonic conspiracy, Devil-pact, and sabbath attendance",
+    "stoeckhlin_adaptation": "He resisted full demonological reframing initially but was progressively ground down through sustained interrogation; records preserved by Behringer document the transformation of his self-presentation under prosecutorial pressure"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Stoeckhlin readily admitted to the spirit journeys and the Nachtschar; he presented this framework as compatible with Christian faith, with the angel as his guide and God as the ultimate authority over his experiences",
+    "under_interrogation_pressure": "The prosecutorial framework systematically substituted demonic agents for Stoeckhlin's Christian framing; his angel became a demon, his Nachtschar companions became witches and diabolists",
+    "final_confession": "Condemned under the reframed demonological account; executed in 1586"
+  },
+
+  "microhistorical_significance": "Stoeckhlin's case is structurally analogous to Ginzburg's benandanti in its most essential features: a spirit-traveler who claims to protect the community through nocturnal journeys, operating under a framework the practitioner considers Christian and beneficial, whose self-understanding is progressively overwritten by inquisitorial demonological categories. Behringer's analysis demonstrates this process in the Alpine-Bavarian judicial context, extending Ginzburg's Friulian findings into a different linguistic, institutional, and geographical setting. The comparison supports the argument that spirit-journey traditions with structural parallels to the benandanti were widespread across early modern Europe rather than being confined to the Friulian/Venetian case.",
+
+  "actor_vs_analyst_terminology": {
+    "stoeckhlin_language": [
+      "Nachtschar (the night company / company of the dead)",
+      "Christian angel (guide)",
+      "Spirit journeys four times a year",
+      "Unconscious states (involuntary)"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Demonic agent",
+      "Sabbath attendee",
+      "Devil-worshipper"
+    ]
+  },
+
+  "practical_activities": "Stoeckhlin provided healing services and witch-finding for the community of Oberstdorf and surrounding villages. His practical reputation — the cures achieved and the malefic practitioners identified — constituted his social value and simultaneously created the visibility that made him a prosecution target.",
+
+  "interrogation_outcome": "Executed by burning in Oberstdorf, 1586. The prosecutorial transformation of his Christian spirit-journey framework into a demonic conspiracy narrative was completed through sustained interrogation.",
+
+  "historiographical_significance": "Stoeckhlin's case is the primary evidence for Behringer's extension of Ginzburg's benandanti model into the German-speaking Alpine world. Behringer's *Shaman of Oberstdorf* (German 1994, English 1998) provides the fullest analysis, situating Stoeckhlin within both the local Bavarian Alpine folk tradition and the comparative European context Ginzburg established. Hutton in The Witch (2017) cites Stoeckhlin alongside the benandanti, the Scottish fairy-healers, and the Sicilian donas de fuera as evidence for a distributed European tradition of practitioners who understood their healing powers through spirit-journey experiences — a tradition that was not shamanism in the technical Siberian sense but that shared structural features with it. The debate between Ginzburg (who sees these cases as evidence for a pan-Eurasian shamanic substratum) and Hutton (who sees independent regional traditions rather than a single underlying tradition) is most directly engaged through cases like Stoeckhlin's where the regional specificity is clearly documented.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Local Bavarian court records from Oberstdorf, 1586; analyzed in Wolfgang Behringer, Shaman of Oberstdorf (German 1994, English trans. 1998); discussed in Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Ginzburg in Ecstasies (1989/1991) would situate Stoeckhlin within his pan-Eurasian shamanic substratum thesis, seeing the Nachtschar spirit-journey as a regional variant of the widespread ecstatic cult connected to Eurasian shamanism. Hutton argues this over-interprets the evidence: the Nachtschar tradition is a specifically Alpine-Germanic belief about the wandering dead that does not require derivation from a Eurasian shamanic prototype. Behringer's analysis, while drawing the Siberian shamanism parallel in his title, is more cautious in the text about the theoretical implications.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

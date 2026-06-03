@@ -1,0 +1,64 @@
+{
+  "id": "wurzburg",
+  "name": "Prince-Bishopric of Würzburg",
+  "type": "Ecclesiastical State",
+  "region": "Central Holy Roman Empire / Franconia",
+  "modern_location": "Bavaria, Germany",
+  "coordinates": {
+    "latitude": 49.795,
+    "longitude": 9.932
+  },
+  "hover_description": "Würzburg, 1626–1631: ~300 executions including 19 Catholic priests and the prince-bishop's nephew. One of the most intensive German superhunts.",
+
+  "administrative_context": "Prince-Bishopric of Würzburg was an ecclesiastical territorial state in Franconia, Holy Roman Empire. Like Bamberg (its neighbor, 65km north), it combined episcopal and secular authority under a Prince-Bishop who could deploy both canonical and secular criminal law against accused witches.",
+
+  "witchcraft_trials_significance": "The Würzburg witch hunt of 1626–1631 ran simultaneously with the Bamberg hunt and was similarly catastrophic. Approximately 300 people were executed, including 19 Catholic priests, the prince-bishop's own nephew, and multiple court officials. The prosecution's reach through all social strata — including clergy — made Würzburg particularly shocking to contemporaries and to subsequent historians. The Hunt was ended by the Swedish invasion during the Thirty Years War, not by any internal check.",
+
+  "trial_events": [
+    "wurzburg-witch-trials-1626"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Philipp Adolf von Ehrenberg",
+      "role": "Prince-Bishop of Würzburg (1623–1631)",
+      "contribution_to_trials": "Authorized and sustained the prosecution; was himself reportedly accused in confessions (not prosecuted) by the end of the hunt"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1626": "Initial executions following crop failures and the same regional panic that triggered Bamberg",
+    "1627–1628": "Expansion; clergy among the accused",
+    "1629": "Peak: 19 executions in December 1629 including several priests",
+    "1630–1631": "Continuation until Swedish occupation ends the prosecution"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Prince-Bishopric of Würzburg and surrounding Franconian territories",
+    "social_reach": "All strata; notably included 19 Catholic priests and multiple civic officials",
+    "mortality_impact": "Approximately 300 executions"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Würzburg demonstrates that the superhunt dynamic was not constrained by clerical status — even ordained priests were among the executed, showing that the denunciation spiral recognized no institutional boundary.",
+    "hutton_perspective": "The prosecution of clergy at Würzburg is Hutton's primary example of the social-ceiling effect of denunciation cascades: when high-status individuals begin to be accused, the hunt either terminates through resistance or consumes the elites generating the accusations.",
+    "ginzburg_perspective": "Würzburg's scope confirms the Ginzburg argument about the self-fulfilling character of the confession dynamic — the apparent conspiracy grew in direct proportion to prosecution intensity."
+  },
+
+  "legacy_and_historiographical_importance": "Friedrich Spee served as confessor to condemned witches at Würzburg (as well as Trier) and his experiences at both sites directly motivated the Cautio Criminalis (1631). Würzburg is therefore a double contribution to witch-trial historiography: as one of the most intensive prosecution sites and as the experience that produced the most important contemporary critique of prosecution procedure.",
+
+  "primary_sources": "Trial records in Würzburg episcopal archives; contemporary accounts cited in Behringer; Friedrich Spee's Cautio Criminalis (1631) composed partly in response to Würzburg experiences",
+
+  "source_method": "Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006); Wolfgang Behringer, Witches and Witch-Hunts (2004); Stuart Clark, Thinking with Demons (1997/2001)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "spee-cautio-criminalis-1631",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

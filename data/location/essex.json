@@ -1,0 +1,70 @@
+{
+  "id": "essex",
+  "name": "Essex (County)",
+  "type": "English County",
+  "region": "East Anglia / Southeast England",
+  "modern_location": "Essex, England",
+  "coordinates": {
+    "latitude": 51.766,
+    "longitude": 0.627
+  },
+  "hover_description": "Essex: 503 indictments 1560–1680, England's most intensively-prosecuted county. Site of the Matthew Hopkins panic (1645–47, 100+ executions). Foundation of Macfarlane's quantitative study.",
+
+  "administrative_context": "Essex was a county administered by common-law courts (assizes and quarter sessions) without the Continental inquisitorial structure. English common law did not permit routine judicial torture, making the procedure for extracting confession substantially different from the Continental pattern. Prosecution was initiated by community accusation, heard at the assizes, and judged by jury.",
+
+  "witchcraft_trials_significance": "Essex had the most intensive witch prosecution record of any English county — 503 indictments covering 291 individuals between 1560 and 1680, documented and analyzed by Alan Macfarlane in Witchcraft in Tudor and Stuart England (1970). The county was also the site of Matthew Hopkins's 1645–1647 campaign (the 'Witch-Finder General'), in which Hopkins used sleep deprivation and swimming tests as informal substitutes for Continental torture, producing approximately 100 executions across East Anglia in under two years — England's closest approach to a Continental superhunt. The 1566 Chelmsford trial (England's first major witch prosecution) was Essex's opening event.",
+
+  "trial_events": [
+    "chelmsford-witch-trials-1566"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Matthew Hopkins",
+      "role": "Self-styled 'Witch-Finder General' (active 1645–1647)",
+      "contribution_to_trials": "Conducted a systematic campaign across Essex and East Anglia using informal methods (sleep deprivation, swimming, watching for familiars) that functioned as torture substitutes; responsible for approximately 100 executions in two years"
+    },
+    {
+      "name": "Brian Darcy",
+      "role": "Justice of the Peace, St Osyth (1582)",
+      "contribution_to_trials": "Conducted the 1582 St Osyth trials, one of the most documented early Essex prosecutions; his leading questions shaped confessions that became the basis for a widely-read pamphlet"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1566": "Chelmsford trial — England's first major witch prosecution; Agnes Waterhouse hanged",
+    "1582": "St Osyth trials under Brian Darcy; two hanged",
+    "1589": "Second Chelmsford trial; 3 women hanged",
+    "1645–1647": "Hopkins campaign; ~100 executions across Essex and East Anglia",
+    "1680": "Last Essex prosecution in Macfarlane's dataset"
+  },
+
+  "affected_population": {
+    "geographic_extent": "County of Essex, with the Hopkins campaign extending into Suffolk, Norfolk, Huntingdonshire, and Cambridgeshire",
+    "social_reach": "Primarily older women; predominantly lower social strata; concentrated in village communities",
+    "mortality_impact": "503 indictments; approximately 82 convicted of capital charges; Hopkins campaign added ~100 more across East Anglia"
+  },
+
+  "scholarly_analysis": {
+    "thomas_macfarlane_perspective": "Essex is the foundation of the Thomas/Macfarlane community-conflict model: Macfarlane's analysis of 503 indictments confirmed statistically that accusations followed the refusal-guilt-accusation pattern — accusers were typically younger neighbors who had recently refused charity to the accused. Essex established the 'village quarrel' as the primary mechanism of English witch accusation.",
+    "hutton_perspective": "Essex confirms Hutton's point that English witch prosecution (with its emphasis on familiar spirits and maleficium rather than sabbat attendance) was structurally different from Continental prosecution — a product of specific English legal and religious culture rather than a manifestation of the same phenomenon.",
+    "clark_perspective": "Clark is less focused on Essex specifically but uses the Hopkins campaign as an example of how apocalyptic Puritan concerns — Hopkins operated during the Civil War — could temporarily generate Continental-scale prosecution intensity in the English legal context."
+  },
+
+  "legacy_and_historiographical_importance": "Essex is the single most important county for the social history of English witchcraft. Macfarlane's quantitative study of its records established the methodology and findings that defined the field for a generation. Hopkins's 1645–1647 campaign remains the most studied episode of mass English witch prosecution. The county's exceptionality (more intensive than other English counties) has itself become a historiographical question.",
+
+  "primary_sources": "Essex assize records (ERO — Essex Record Office); pamphlet literature (1566, 1582, 1589 Chelmsford trials); Matthew Hopkins, The Discovery of Witches (1647); analyzed in Macfarlane (1970)",
+
+  "source_method": "Alan Macfarlane, Witchcraft in Tudor and Stuart England (1970); Keith Thomas, Religion and the Decline of Magic (1971); Malcolm Gaskill, Witchfinders: A Seventeenth-Century English Tragedy (2005) for Hopkins",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "valais-vaud",
+  "name": "Western Alps (Valais and Vaud)",
+  "type": "Multiple Jurisdictions",
+  "region": "Western Switzerland / Savoy border",
+  "modern_location": "Valais and Vaud cantons, Switzerland; Savoie, France",
+  "coordinates": {
+    "latitude": 46.227,
+    "longitude": 7.359
+  },
+  "hover_description": "Western Alps, 1427–1450: Site of the earliest composite witch stereotype. 200+ burned in Valais 1427–36. Nider's Formicarius documented the cases. Origin zone of European witch prosecution.",
+
+  "administrative_context": "The western Alpine zone in the 1420s–1440s comprised overlapping jurisdictions: the Duchy of Savoy, the episcopal territories of the bishops of Lausanne, Sion, and Aosta, secular cantonal jurisdictions (pre-Confederation Swiss territories), and the expanding temporal authority of Berne. The multiplicity of jurisdictions created competitive prosecution dynamics — different authorities sought to prosecute the emerging witch category simultaneously.",
+
+  "witchcraft_trials_significance": "The western Alps — specifically the Valais, Vaud, and neighboring Savoy and Dauphiné — are the primary zone of origin for the composite early modern witch stereotype. The Valais witch hunt of 1427–1436 is the first large-scale prosecution with the full new stereotype documented (Hans Fründ's chronicle records 200+ burned in 18 months). Lausanne, Vaud, and the broader Alpine zone produced the key early demonological texts of the 1430s (Nider's Formicarius, the Errores Gazariorum, Claude Tholosan's records). The Lausanne manuscript cluster, edited by Ostorero et al. in L'imaginaire du sabbat (1999), is the primary source for understanding the stereotype's formation.",
+
+  "trial_events": [
+    "valais-witch-trials-1427"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Claude Tholosan",
+      "role": "Lay judge, Dauphiné (fl. 1426–1448)",
+      "contribution_to_trials": "Conducted 258 witch prosecutions in the Dauphiné region; incorporated the 'good ladies' folk tradition into the new composite stereotype; produced written treatise on witch prosecution for secular judges"
+    },
+    {
+      "name": "Peter of Berne",
+      "role": "Secular judge, Berne region (fl. c.1430s)",
+      "contribution_to_trials": "Primary source for Nider's Formicarius accounts of Alpine witchcraft; communicated the Berne/Valais prosecution evidence to Nider at the Council of Basel"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1424": "Aneu Valley (Catalan Pyrenees) — parallel earliest dated reference to the new witch sect",
+    "1427–1436": "Valais hunt: 200+ burned in 18 months (Fründ's chronicle)",
+    "1426–1448": "Dauphiné: Claude Tholosan's 258 prosecutions",
+    "1430s": "Key demonological texts composed: Nider's Formicarius (c.1437), Errores Gazariorum (c.1435–1439)",
+    "1484": "Summis desiderantes — papal bull authorizing Kramer's prosecution; the regional Alpine stereotype has by this point spread throughout Western Europe"
+  },
+
+  "affected_population": {
+    "geographic_extent": "The Valais, Vaud, Fribourg, Dauphiné, and Savoy — the Alpine arc from the Rhône to the Po",
+    "social_reach": "Early prosecutions show mixed social profile; later Alpine prosecutions became more concentrated on elderly rural women",
+    "mortality_impact": "200+ in Valais 1427–1436 alone; total Alpine-zone executions in this formative period estimated at several hundred"
+  },
+
+  "scholarly_analysis": {
+    "hutton_perspective": "Hutton identifies the western Alps as the primary formation zone of the composite witch stereotype, arguing that the specific combination of late Waldensian heresy prosecution, strong strix folk tradition, Observant mendicant campaigns, and overlapping secular/inquisitorial jurisdictions made this zone uniquely productive of the new prosecutorial construct.",
+    "cohn_perspective": "Cohn traces the heresy-conspiracy image's application to the new witch category most clearly in the western Alpine cases, where he documents the direct institutional transition from Waldensian persecution infrastructure to witch prosecution.",
+    "ginzburg_perspective": "The Lausanne cluster's primary source texts are the earliest evidence for interrogation producing the sabbat confession — demonstrating the transition from Canon Episcopi 'delusion' to prosecutable diabolism most clearly."
+  },
+
+  "legacy_and_historiographical_importance": "The western Alps is the most historiographically significant regional location in the entire early modern witch-prosecution history, because it is where the composite witch stereotype was assembled and first deployed. Understanding why this region produced the stereotype when and where it did — rather than in Scandinavia, England, or Spain — is one of the central questions in witchcraft historiography. The Lausanne primary source project (Ostorero et al.) has made the Alpine evidence accessible in modern critical editions.",
+
+  "primary_sources": "Hans Fründ, Chronicle of the Valais persecution (c.1428); Claude Tholosan, Ut magorum et maleficiorum errores (c.1436–1449); Johannes Nider, Formicarius Bk.5 (c.1437); Errores Gazariorum (c.1435–1439) — all in Ostorero et al., L'imaginaire du sabbat (Lausanne, 1999)",
+
+  "source_method": "Ronald Hutton, The Witch (2017), ch.6; Martine Ostorero, Agostino Paravicini Bagliani, Kathrin Utz Tremp (eds.), L'imaginaire du sabbat (1999); Norman Cohn, Europe's Inner Demons (1975/1993); Stuart Clark, Thinking with Demons (1997/2001)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

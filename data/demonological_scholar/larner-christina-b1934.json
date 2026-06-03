@@ -1,0 +1,100 @@
+{
+  "id": "larner-christina-b1934",
+  "name": "Christina Larner",
+  "birth_year": 1934,
+  "death_year": 1983,
+  "birth_place": "Scotland",
+  "academic_discipline": "History; Sociology; Political History of Scotland",
+  "primary_institution": "University of Glasgow (Lecturer in Sociology)",
+  "specialization": "Scottish witch prosecution; state formation and witch hunting; gender and witch persecution",
+
+  "major_works": [
+    {
+      "title": "Enemies of God: The Witch-Hunt in Scotland",
+      "year": 1981,
+      "publisher": "Johns Hopkins University Press, Baltimore",
+      "significance": "The foundational scholarly study of Scottish witch prosecution, arguing that it was intimately connected to Calvinist state-building projects and royal demonology; established the connection between witch-hunting and the construction of confessional Protestant identity",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Witchcraft and Religion: The Politics of Popular Belief",
+      "year": 1984,
+      "publisher": "Blackwell, Oxford (posthumous collection)",
+      "significance": "Essays on witch prosecution, gender, and popular belief; includes Larner's important discussion of whether witch-hunting was 'woman-hunting'",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "STATE-FORMATION ANALYST / GENDER HISTORIAN",
+
+  "core_argument": "Larner's central argument in Enemies of God was that Scottish witch prosecution was not separable from the specific political and religious project of Calvinist state-building under the Stuart monarchy. James VI's personal demonological commitment — expressed in the Daemonologie (1597) and in his direct participation in the North Berwick trials — was not idiosyncratic but reflected the broader project of constructing a confessional Protestant monarchy in which the king's authority was theologically grounded in his role as God's lieutenant against diabolical enemies. The Scottish Privy Council's commission system delegated royal authority to local elites in a way that extended both the prosecution apparatus and royal ideological reach into rural communities simultaneously. Witch prosecution, in this analysis, was a mechanism of state-building as much as a mechanism of religious purification.\n\n  Larner also contributed importantly to the gender analysis of witch prosecution, arguing against a simple 'woman-hunting' interpretation while documenting that the gender dimension of Scottish prosecution was real and required explanation. Her discussion of whether witch-hunting was woman-hunting — concluding that it was 'woman-related rather than woman-specific' — is one of the most careful framings of the gender question in the field.",
+
+  "methodological_approach": {
+    "primary_materials": "Scottish Privy Council registers; commission records; trial transcripts; James VI's Daemonologie",
+    "analysis_target": "The political sociology of Scottish witch prosecution; the relationship between royal demonology and state-building; the gender dimension of prosecution",
+    "evidence_type": "Institutional records; political history; sociological analysis of prosecution patterns",
+    "explanatory_level": "Political-sociological: Larner located witch prosecution within state formation processes rather than explaining it primarily through demonological ideology or community social dynamics"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Witch prosecution as state-building",
+      "claim": "Scottish witch prosecution was institutionally connected to James VI's state-building project: the Privy Council commission system delegated royal authority and extended ideological reach; the shared project of witch-hunting knit together central authority and local elites.",
+      "implication": "Witch prosecution cannot be analyzed as a cultural phenomenon independent of its political-institutional context; the specific character of Scottish prosecution reflected the specific character of Scottish Calvinist monarchy."
+    },
+    {
+      "concept": "Woman-related but not woman-specific",
+      "claim": "While women were disproportionately accused of witchcraft (approximately 85% of Scottish accused were female), the targeting was not simply misogynistic: it reflected the intersection of demonological theory's emphasis on female susceptibility with specific social dynamics of accusation. The gender dimension was real but not reducible to 'woman-hunting.'",
+      "implication": "Gender analysis of witch prosecution requires attention to the specific mechanisms by which gender intersected with other social factors, not a simple equation of prosecution with misogyny."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "scottish_privy_council": "Larner's systematic work on the Privy Council registers established the statistical basis for understanding Scottish prosecution: approximately 3,000-4,000 accused (with Levack's lower figure of 1,500 executions more widely accepted subsequently), commission structure, regional distribution of prosecutions.",
+    "daemonologie": "Larner's close reading of James's Daemonologie within its political context established the text as evidence for royal demonological investment rather than merely as intellectual history."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Julian Goodare (who extended and critiqued Larner's Scottish work with more systematic archival research)",
+      "Stuart Clark (whose intellectual history of demonology complements Larner's political-sociological analysis)"
+    ],
+    "creative_tension_with": [
+      "Goodare's subsequent archival work has complicated Larner's state-building thesis by showing greater importance of local community dynamics in generating prosecution",
+      "Feminist historians who have argued for a more straightforward woman-hunting analysis than Larner's careful qualification allows"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Larner established the template for politically sophisticated analysis of Scottish witch prosecution; all subsequent work on Scotland engages with her arguments.",
+    "criticisms": [
+      "Goodare's archival work suggests that local community dynamics generated prosecution more independently of central royal impulse than Larner's state-building thesis implies",
+      "Feminist critics have argued that Larner's qualification of the woman-hunting thesis understates the misogynistic dimension of prosecution",
+      "Larner died in 1983 before completing her fuller statistical analysis of Scottish prosecution; her figures have been substantially revised by Goodare's subsequent archival work"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Larner is cited in the scottish-privy-council-commissions entry, the north-berwick-1590-trials entry, and the agnes-sampson and john-fian accused_person entries. Her state-building thesis is the intellectual background for the political character of North Berwick prosecution.",
+    "analytical_weight": "Larner's state-building analysis is the primary frame for understanding why Scottish witch prosecution had the specifically political character it did — why James VI participated personally, why the commission system extended royal reach, why prosecution peaked in periods of royal demonological engagement."
+  },
+
+  "historiographical_significance": "Larner's Enemies of God established the modern academic historiography of Scottish witch prosecution and remains the essential starting point. Her state-building analysis has been refined but not supplanted. Her gender analysis is among the most careful in the field. Her early death (at 49) cut short a scholarly career that would have generated further major contributions; the posthumous Witchcraft and Religion collection gives some indication of where her thinking was developing.",
+
+  "scholarly_disagreement": "Goodare's archival work has qualified Larner's state-building thesis without discarding it. The precise balance between central royal initiative and local community dynamics in generating Scottish prosecution remains debated.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Primary works: Larner, Enemies of God (1981); Larner, Witchcraft and Religion (1984); analyzed in Hutton, The Witch (2017); Goodare (ed.), The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

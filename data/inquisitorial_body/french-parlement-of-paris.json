@@ -1,0 +1,42 @@
+{
+  "id": "french-parlement-of-paris",
+  "name": "Parlement of Paris",
+  "formal_name": "Parlement de Paris — appellate review of witchcraft convictions",
+  "institutional_type": "secular_tribunal",
+  "founded": "1345",
+  "dissolved": "1790",
+
+  "jurisdiction_description": "The Parlement of Paris was the supreme appellate court of the Kingdom of France for the territory of its ressort — approximately the northern third of France — with jurisdiction to review criminal convictions including those for witchcraft. Unlike the German territorial courts and Scottish commission system, the Parlement operated an effective automatic review mechanism for capital cases: death sentences in the Parlement's ressort were required to be appealed to the Parlement before execution, giving Paris a systematic oversight role absent from most other European witch-trial jurisdictions.\n\n  The Parlement's role in witch prosecution was primarily moderating and restraining. French regional and seigneurial courts could and did convict accused witches; but the Parlement, applying a more demanding evidentiary standard and operating with greater skepticism about confessional evidence obtained under torture, regularly overturned or commuted those convictions on appeal. The contrast with the German territorial courts — which had no comparable appellate oversight — explains much of the difference between French and German execution rates: France's total witch-trial death toll (approximately 3,000-4,000) is substantially lower than Germany's (approximately 26,000) despite comparable prosecution levels, and the Parlement's moderating influence is a major explanatory factor.",
+
+  "jurisdiction_territories": ["lorraine", "essex"],
+
+  "procedural_features": {
+    "torture_policy": "The Parlement of Paris regulated the use of torture in its ressort more strictly than most European jurisdictions. The court required that confessions obtained under torture be ratified voluntarily in a separate session without torture present, and it scrutinized the voluntariness of that ratification. Torture was permitted as a last resort in cases of serious evidence, but the Parlement was prepared to overturn convictions where the torture procedure had been irregular.",
+    "evidence_standards": "The Parlement required substantial corroborating evidence for witch convictions. The witch's mark alone was not sufficient; spectral evidence (testimony about supernatural appearances) was given little weight; confessions obtained by torture required ratification. The court was prepared to acquit where the evidence fell below these standards even in the face of popular conviction about the accused's guilt.",
+    "confession_policy": "The mandatory ratification requirement — confession obtained under torture had to be repeated voluntarily in a session held after the accused had recovered from torture — was not uniformly honored at the local level, but the Parlement could and did overturn convictions where the ratification appeared involuntary or where torture procedure had been irregular.",
+    "appeal_mechanism": "Appeals to the Parlement in capital cases were mandatory in the court's ressort. This was the key structural feature distinguishing French from German prosecution: it inserted central judicial oversight into the process at the point most likely to prevent execution. The Parlement used this authority to substantially restrain the execution rate."
+  },
+
+  "role_in_witch_trials": "The Parlement of Paris was the primary institutional restraint on French witch prosecution in the northern ressort. Its systematic appellate review reduced French execution rates well below German equivalents, and its jurisprudence became increasingly skeptical through the seventeenth century. By the 1620s-1640s, the Parlement was routinely acquitting or commuting conviction on appeal; by the 1680s, it had effectively ended capital prosecution for witchcraft in its jurisdiction. Mandrou's Magistrats et sorciers en France (1968) first systematically analyzed the Parlement's role in ending French witch prosecution.",
+
+  "witch_trial_involvement_level": "moderate",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "The Parlement of Paris is the paradigm case in the comparative historiography for how effective appellate review could constrain witch prosecution at scale. Mandrou's work established the interpretive framework: elite judicial skepticism, expressed institutionally through Parlement review, was the primary mechanism through which French prosecution wound down. This interpretation has been refined by subsequent scholars — Briggs in Witches and Neighbours (1996) emphasizes that local prosecution continued vigorously in areas outside effective Parlement oversight, particularly Lorraine (which had its own Parlement) — but the basic finding that appellate structure explains French-German execution rate differences is now well established.\n\n  Clark's intellectual-historical analysis complements Mandrou's institutional story: the Parlement's skepticism reflected not only procedural caution but a shifting intellectual framework in which the metaphysics of demonic action became less certain. By the mid-seventeenth century, French legal humanism and Cartesian natural philosophy were providing alternative frameworks that made the inquisitorial certainties of the previous century less defensible to educated magistrates.\n\n  The contrast between the Parlement of Paris's moderating role and the Lorraine ducal court's high execution rate — Lorraine, outside the Parlement's direct jurisdiction, had France's most intense prosecution — makes the institutional analysis compelling: similar cultural and demonological context, different institutional structure, dramatically different outcomes.",
+
+  "scholarly_disagreement": "Mandrou's thesis — that the Parlement's declining prosecution reflected elite 'desacralization' and the medicalization of witchcraft belief — has been critiqued by scholars who see the Parlement's restraint as procedural and jurisprudential rather than as a reflection of philosophical skepticism. The question of what the Parlement's magistrates actually believed about witchcraft versus what evidentiary standards they required for conviction is difficult to answer from institutional records alone.",
+
+  "source_method": "Parlement of Paris arrêts and registers; analyzed in Mandrou, Magistrats et sorciers en France (1968); Briggs, Witches and Neighbours (1996); Levack, The Witch-Hunt in Early Modern Europe; Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

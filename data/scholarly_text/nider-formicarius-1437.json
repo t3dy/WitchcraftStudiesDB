@@ -1,0 +1,45 @@
+{
+  "id": "nider-formicarius-1437",
+  "title": "Formicarius",
+  "author": "Johannes Nider",
+  "author_slug": "nider-johannes-b1380",
+  "year_published": 1437,
+  "original_year": 1437,
+  "original_title": "Formicarius",
+  "original_language": "Latin",
+  "original_publisher": "Cologne (first printed edition, c. 1475; written c. 1435-1437)",
+  "publisher": "First printed edition c. 1475; modern critical edition not yet produced",
+  "text_type": "primary_source",
+
+  "subject_focus": "Dominican reform dialogue that includes the earliest substantial description of composite witchcraft — including a working sabbath, demonic infanticide, and weather magic — drawn from a Dominican judge's account of Alpine prosecutions.",
+
+  "summary": "The Formicarius (The Anthill) is a five-book dialogue in the tradition of moral improvement literature, written by the Dominican theologian Johannes Nider c. 1435-1437 while he was attending the Council of Basel. Book 5, 'On the Malefactors,' is the text's contribution to demonological history: it contains the earliest substantial account of composite witchcraft in any theological or judicial source, based on information provided to Nider by Peter of Berne, a secular judge who had presided over witch trials in the Simmental region of the Swiss Alps. Nider described a sect of malefactors who murdered children (including their own), used the rendered fat of murdered infants in magical preparations, attended collective meetings, and performed acts of weather magic. The Formicarius is significant because it documents the composite stereotype at an unusually early date (nearly a decade before the famous Malleus Maleficarum) and because it draws on judicial proceedings rather than purely theological speculation.",
+
+  "scholarly_significance": "The Formicarius occupies a pivotal position in the historiography of the composite witch stereotype's formation. Ginzburg in Ecstasies (1991) analyzed it as evidence for the crystallization of the sabbath concept in the Alpine zone during the 1420s-1430s, arguing that the Peter of Berne materials reflect actual prosecution and actual confessional content rather than pure literary construction. Cohn in Europe's Inner Demons (1975) was more skeptical, arguing that the Formicarius's descriptions of child-murder and sabbath-adjacent gatherings were primarily literary amplifications of earlier heresy-accusation templates rather than reflections of prosecution reality.\n\n  Hutton in The Witch (2017) situates the Formicarius within the broad context of stereotype formation, accepting its importance while noting the mediating character of the source: Nider was reporting what Peter of Berne told him, not what the Alpine accused confessed in their own words, and each step of transmission introduces interpretive filtering. Clark in Thinking with Demons (1997) is relatively uninterested in the Formicarius as historical evidence for the stereotype's origins but uses it as documentation of early fifteenth-century learned theological concern with maleficent practice.\n\n  The text's importance for the database is primarily as a terminus ante quem for the composite stereotype: by c. 1437, a learned Dominican with Alpine connections was already describing malefactor-sects with the full cluster of elements that would become standard in witch prosecution. This predates the Malleus by fifty years.",
+
+  "key_arguments": [
+    {
+      "concept": "Earliest substantial composite witch description",
+      "claim": "Book 5 of the Formicarius contains the earliest detailed description of a witch-sect with the composite characteristics (collective meetings, demonic pact, child-murder, weather magic, ointment preparation) that would define European witch prosecution for the next two centuries."
+    },
+    {
+      "concept": "Alpine origin of the composite stereotype",
+      "claim": "The Alpine prosecutions described by Peter of Berne are Nider's primary evidence; the Formicarius thus links the earliest composite witch description to the western Alpine zone (Simmental, Valais) that other sources confirm as the region where the stereotype first crystallized."
+    },
+    {
+      "concept": "Demonic sect as conspiratorial anti-society",
+      "claim": "Nider's malefactors are organized, led by a 'master,' and committed to systematic harm including the murder of unbaptized infants. This organizational characterization — witches as members of an anti-social conspiracy rather than as individual practitioners — is the key innovation of the composite stereotype."
+    }
+  ],
+
+  "relation_to_database": "Referenced in the valais-witch-trials-1427-1436 trial_event entry as the primary theoretical documentation for the Alpine prosecutions. Nider is cited in the composite-witch-stereotype-formation concept entry.",
+
+  "scholarly_disagreement": "Whether the Formicarius reflects genuine Alpine prosecution records (Ginzburg's interpretation) or is primarily a literary construction amplifying heresy-accusation templates (Cohn's interpretation) is the central debate. Hutton's position is intermediate: real prosecutions occurred in the Alpine zone, but Nider's account reflects interpretive filtering through Dominican theological and literary conventions that makes direct evidential use difficult.",
+
+  "source_method": "Published text (first printed edition c. 1475, Cologne); analyzed in Ginzburg, Ecstasies (1991); Cohn, Europe's Inner Demons (1975); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

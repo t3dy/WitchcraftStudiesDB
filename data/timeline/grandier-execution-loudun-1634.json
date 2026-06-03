@@ -1,0 +1,25 @@
+{
+  "id": "grandier-execution-loudun-1634",
+  "event_name": "Execution of Urbain Grandier, Loudun",
+  "event_type": "trial_event",
+  "date": "1634",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Loudun, Poitou, France",
+  "location_slug": "loudun",
+  "significance": "Urbain Grandier, parish priest of Saint-Pierre du Marché at Loudun, was burned at the stake on 18 August 1634, convicted of bewitching the Ursuline nuns. His execution is the culmination of France's best-documented possession case and the central case study in the political instrumentalization of witch prosecution — Grandier had opposed Cardinal Richelieu and was prosecuted by a royal commission headed by Richelieu's cousin.",
+  "related_entities": [
+    "loudun-possessions-1634",
+    "demonic-possession-eschatological"
+  ],
+  "source_method": "Archives Départementales de la Vienne; de Certeau, La Possession de Loudun (1970/2000); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-2006",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

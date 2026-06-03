@@ -1,0 +1,35 @@
+{
+  "id": "milan",
+  "name": "Milan and the Duchy of Milan",
+  "modern_country": "Italy",
+  "historical_jurisdiction": "Duchy of Milan; Visconti and Sforza dominions; later Spanish Habsburg territory",
+  "latitude": 45.465,
+  "longitude": 9.186,
+  "hover_description": "Milan, 1384–1520s: Site of the earliest Italian witch trials — Lady Oriente's sect (1384) and Pierina de' Bugatis — pivotal to the composite stereotype's formation.",
+
+  "geographic_context": "Milan was the capital of the Duchy of Milan, one of the major Italian principalities of the late medieval and early modern periods, passing under Sforza rule in the mid-fifteenth century and becoming a Spanish Habsburg possession in 1535. The duchy's court was one of the great political and cultural centers of Renaissance Italy. Its inquisitorial jurisdiction fell under the Roman Holy Office after 1542 — which, as a restraining institution, substantially limited witch prosecution in the later period — but the period of the early and mid-fifteenth century saw prosecution under the older Dominican inquisition structure.",
+
+  "significance_in_witch_trials": "Milan's significance in the history of witch trials derives primarily from two early cases that are pivotal to the historiography of the composite stereotype's formation. The trials of Pierina de' Bugatis (1384 and 1390) and associated figures before the Milan Inquisition produced the earliest documented confessions describing the 'society' or 'game' of Lady Oriente — a night-ride tradition in which women traveled in spirit to gatherings presided over by a female figure (Oriente or Herodias) who taught them healing knowledge and the secrets of nature. These confessions are significant because they predate the fully developed diabolical sabbath stereotype by several decades: Lady Oriente is not Satan; the gatherings are not primarily about apostasy but about knowledge and healing; and the women who confessed do not describe pacts with the devil but participation in a female mystery tradition. Ginzburg in Ecstasies (1991) analyzed these confessions as evidence of a pre-demonological night-ride tradition subsequently assimilated into the sabbath stereotype; Hutton in The Witch (2017) and Queens of the Wild (2022) engages with the Lady Oriente materials as evidence for female supernatural leadership traditions in medieval popular religion.",
+
+  "trial_events": [
+    "milan-lady-oriente-trials-1384"
+  ],
+
+  "demonological_context": "The Lady Oriente confessions occupy a particularly interesting position in the historiography because they show the inquisitorial process encountering a belief system that partially resisted assimilation into the diabolical framework. Pierina de' Bugatis first described Lady Oriente as a supernatural female leader who provided healing knowledge; in subsequent interrogations, pressure from the inquisitor pushed the description toward diabolical categories while Pierina partially maintained the original framework. The result is a layered text in which two interpretive frameworks — the folk-religious night-ride tradition and the inquisitorial diabolism — coexist in unresolved tension. This is exactly the kind of confessional text that Ginzburg's microhistorical method is designed to analyze.",
+
+  "historiographical_significance": "The Milan cases are discussed in Ginzburg, Ecstasies (1991) as foundational evidence for the shamanic/ecstatic tradition underlying the witch stereotype; in Hutton, The Witch (2017) and Queens of the Wild (2022) for the Lady Oriente/Herodias tradition; and in Ankarloo and Clark, Vol. 3 (2002) for the formation of the composite stereotype in the Italian context. The cases illustrate both the early date at which inquisitors were encountering sabbath-adjacent confessions and the interpretive work required to read those confessions as evidence for popular belief rather than as inquisitorial impositions.",
+
+  "source_method": "Milan Inquisition records (trial of Pierina de' Bugatis 1384 and 1390); analyzed in Ginzburg, Ecstasies (1991); Hutton, Queens of the Wild (2022) and The Witch (2017); Ankarloo and Clark, Vol. 3 (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The interpretation of the Lady Oriente confessions divides along the lines of the general debate between Ginzburg (who reads them as evidence for pre-demonological popular tradition), skeptical scholars who see them as primarily inquisitorial construction, and Hutton who reads the female supernatural leader tradition as evidence for pre-Christian goddess-figure survivals in medieval popular religion. The nature and extent of actual practice — whether women actually held night gatherings, in what form, and with what beliefs — is irrecoverable from the confessional record.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

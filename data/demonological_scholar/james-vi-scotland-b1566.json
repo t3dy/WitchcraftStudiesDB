@@ -1,0 +1,94 @@
+{
+  "id": "james-vi-scotland-b1566",
+  "name": "James VI of Scotland / James I of England",
+  "birth_year": 1566,
+  "death_year": 1625,
+  "birth_place": "Edinburgh Castle, Scotland",
+  "academic_discipline": "Theology; Political Philosophy; Demonology",
+  "primary_institution": "King of Scotland (James VI, 1567-1625); King of England (James I, 1603-1625)",
+  "specialization": "Royal demonologist; political theology of witchcraft; direct interrogation of accused witches",
+
+  "major_works": [
+    {
+      "title": "Daemonologie, in Form of a Dialogue",
+      "year": 1597,
+      "publisher": "Edinburgh: Robert Waldegrave",
+      "significance": "Royal defense of witch prosecution and demonological theory against the skepticism of Reginald Scot and Johann Weyer; written in dialogue form; draws on James's personal interrogation of North Berwick accused persons; one of the most politically significant demonological texts of the early modern period",
+      "pages": null,
+      "database_entry": "james-daemonologie-1597"
+    }
+  ],
+
+  "historiographical_position": "WITCH-TRIAL ADVOCATE / ROYAL DEMONOLOGIST",
+
+  "core_argument": "James's Daemonologie (1597) made two central arguments. First, a sustained refutation of the skeptical position represented by Reginald Scot's Discoverie of Witchcraft (1584) and Johann Weyer's De Praestigiis Daemonum (1563), arguing that witchcraft was real, that its practitioners merited execution, and that skeptics like Scot were dangerous enablers of devil-worshipping conspiracy. Second, a theological-political argument that witchcraft prosecution was a duty of Christian magistrates — that kings, as God's lieutenants on earth, were specifically targeted by diabolical conspiracy and had both the right and obligation to prosecute witches aggressively. James's personal experience at the North Berwick trials (1590-1591), where he interrogated accused persons including Agnes Sampson and developed the conviction that a demonic conspiracy had targeted his marriage voyage from Denmark, gave the Daemonologie an autobiographical dimension unusual in demonological literature.",
+
+  "methodological_approach": {
+    "primary_materials": "James's personal interrogation experience at North Berwick; Continental demonological literature (Bodin, Daneau, French demonological tradition); his encounter with Danish witch trial culture during his stay in Denmark (1589-1590)",
+    "analysis_target": "Refutation of skepticism; establishment of the king's duty to prosecute witches; theological systematization of demonic theory",
+    "evidence_type": "Direct personal interrogation experience; demonological authorities; biblical evidence",
+    "explanatory_level": "Theological-political: James was primarily concerned with the obligations of Christian kingship, not with natural-philosophical analysis of witchcraft mechanisms"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Royal authority and witch prosecution",
+      "claim": "James argued that kings were specifically targeted by diabolical conspiracy as God's primary representatives on earth, and therefore had a special obligation to prosecute witches. This political theology of witch-hunting gave royal prosecution a theological justification beyond ordinary criminal justice.",
+      "implication": "The Daemonologie's political theology influenced the early Stuart state's approach to witch prosecution and contributed to the 1604 Witchcraft Act (which strengthened the Elizabethan statute and criminalized animal familiars specifically)."
+    },
+    {
+      "concept": "Refutation of Scot and Weyer",
+      "claim": "James engaged directly with both Scot's Discoverie of Witchcraft and Weyer's De Praestigiis Daemonum, arguing that their skepticism was either naive or diabolically inspired. His refutation contributed to the delegitimization of the skeptical tradition in the English context.",
+      "implication": "James ordered copies of Scot's Discoverie burned on his accession to the English throne in 1603 — one of the clearest royal acts of book censorship in the history of demonological debate."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "north_berwick": "James personally interrogated Agnes Sampson and John Fian at North Berwick, developing firsthand conviction in the reality of demonic conspiracy. The Daemonologie draws implicitly on this experience throughout.",
+    "danish_connections": "During his extended stay in Denmark for his marriage (1589-1590), James encountered Danish witch trial culture and was exposed to Continental demonological practice at first hand.",
+    "scottish_tradition": "James drew on the Scottish demonological and theological tradition shaped by Reformed Protestantism; the Daemonologie is distinctively Scottish in its theological framework despite its Continental demonological sources."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Peter Binsfeld (Tractatus de confessionibus maleficorum, 1589) — shared Continental demonological framework",
+      "Jean Bodin (De la Démonomanie, 1580) — James's primary demonological authority for sabbath description"
+    ],
+    "creative_tension_with": [
+      "Reginald Scot (Discoverie of Witchcraft, 1584) — primary target of the Daemonologie's refutation",
+      "Johann Weyer (De Praestigiis Daemonum, 1563) — secondary skeptical target",
+      "Later James: after becoming James I of England (1603), James's demonological fervor noticeably diminished; by the 1610s he was examining supposed cases of demonic possession with increasing skepticism and exposing frauds"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Daemonologie shaped early Stuart witch prosecution culture; the 1604 Witchcraft Act's specific provision against animal familiar entertainment reflects Daemonologie influence. James's burning of Scot's book was a decisive cultural intervention.",
+    "criticisms": [
+      "Clark in Thinking with Demons (1997) analyzes the Daemonologie within his intellectual history of demonological argument, treating it as a significant contribution to the tradition of anti-skeptical demonology",
+      "Hutton in The Witch (2017) notes the irony that the king who wrote Daemonologie became increasingly skeptical in practice — a trajectory that illustrates the gap between demonological theory and judicial practice",
+      "Larner in Enemies of God (1981) analyzes James's demonological investment as part of the state-building project of Scottish witch prosecution, arguing that James used witch trials to consolidate royal authority"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "James is the prosecutorial authority behind the North Berwick trials (north-berwick-1590-trials). His Daemonologie (james-daemonologie-1597) is in the scholarly_text entries. The Agnes Sampson and John Fian accused_person entries reference James's personal role. The Scottish privy council commissions entry references his legislative impact.",
+    "analytical_weight": "James is unique in the demonological scholar category as both an advocate/author and an institutional actor: his personal interrogation experience shaped both his theoretical writing and the actual prosecutorial institutions of the Scottish commission system."
+  },
+
+  "historiographical_significance": "James VI/I occupies a unique position in the history of witch prosecution as a monarch who was simultaneously a practicing demonologist (who interrogated accused witches personally), a theological author (whose Daemonologie is one of the most politically consequential demonological texts), and a legislative actor (whose 1604 Witchcraft Act strengthened English statutory provision). Clark, Hutton, and Larner all engage substantially with James, albeit from different angles: Clark for the Daemonologie's intellectual content; Hutton for the North Berwick trials' demographic and social character; Larner for the political sociology of Scottish witch prosecution under royal direction.",
+
+  "scholarly_disagreement": "The relationship between James's personal demonological conviction (most intense 1590-1597) and his later increasing skepticism as English king (most evident from c. 1616 onward) is debated. Whether his later skepticism represented a genuine intellectual shift or merely political calculation is unclear. Larner's 'state-building' interpretation of James's witch-trial engagement has been questioned by Goodare and others who emphasize local dynamics over royal direction.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Primary source: James VI, Daemonologie (Edinburgh 1597); analyzed in Clark, Thinking with Demons (1997); Larner, Enemies of God (1981); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

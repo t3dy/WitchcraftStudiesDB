@@ -1,0 +1,42 @@
+{
+  "id": "augsburg-episcopal-court",
+  "name": "Augsburg Episcopal and City Courts",
+  "formal_name": "Episcopal and City Courts of the Reichsstadt Augsburg",
+  "institutional_type": "episcopal_secular_court",
+  "founded": "Medieval",
+  "dissolved": "1806",
+
+  "jurisdiction_description": "Augsburg was an imperial free city (Reichsstadt) with a complex jurisdictional structure that distinguished between the episcopal court (handling ecclesiastical matters and the bishop's subjects) and the city council court (handling civic criminal justice). This dual-jurisdiction structure — city council and episcopal court operating in parallel — shaped the character of Augsburg's witch prosecution and is the primary source context for Lyndal Roper's psychoanalytic analyses in Witch Craze (2004).\n\n  Augsburg's witch prosecution was moderate compared to the German episcopal superhunts at Bamberg and Würzburg: the city council's civic jurisdiction provided some institutional balance against the episcopal court's inquisitorial tendencies, and Augsburg's confessional diversity (Protestant and Catholic communities coexisting under the Peace of Augsburg of 1555) complicated the singular religious-prosecutorial dynamic that drove the purely episcopal superhunts. Roper's archival research in the Augsburg Stadtarchiv provides the empirical foundation for her psychoanalytic analysis of German witch prosecution.",
+
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "Torture was available under both the episcopal and city council courts and was used in Augsburg witch prosecutions; the division of jurisdiction created some institutional friction that moderated the most extreme torture applications relative to the episcopally-unified superhunt cities.",
+    "evidence_standards": "Augsburg city council applied German imperial law (Carolina, 1532) evidentiary standards alongside the crimen exceptum principle; the civic court tradition provided some counterweight to purely ecclesiastical evidentiary standards.",
+    "confession_policy": "Confession through torture and subsequent ratification; Roper's analysis of the psychological dynamics of confession in Augsburg is the primary scholarly treatment.",
+    "appeal_mechanism": "The imperial Reichskammergericht provided theoretical appeal for imperial free cities; in practice, this oversight rarely interrupted prosecution at Augsburg."
+  },
+
+  "role_in_witch_trials": "Augsburg's witch prosecution was active throughout the sixteenth and early seventeenth centuries but at a scale substantially below the episcopal superhunts. Its significance in the historiography derives primarily from Roper's archival research, which analyzed the social and psychological dimensions of Augsburg prosecution rather than its quantitative scale. Roper's psychoanalytic approach — analyzing the confession content for psychological meaning — requires the detailed documentation that Augsburg's relatively well-preserved records provide.",
+
+  "witch_trial_involvement_level": "moderate",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "Augsburg's primary significance in the witch-trial historiography is as the archival base for Roper's psychoanalytic analyses. The dual-jurisdiction structure of the Reichsstadt — city council and episcopal court — gives the Augsburg material particular interpretive interest, since prosecutions from the two courts show somewhat different character. Roper's Witch Craze (2004) and her earlier Oedipus and the Devil (1994) essays are the standard scholarly treatments of the Augsburg material.",
+
+  "scholarly_disagreement": "Whether the Augsburg material is representative of German Protestant city prosecution generally, or whether the specific confessional and institutional character of Augsburg makes it an atypical case, is a question in the broader comparative historiography.",
+
+  "source_method": "Augsburg Stadtarchiv; analyzed in Roper, Witch Craze (2004); Roper, Oedipus and the Devil (1994); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "roper-witch-craze-2004",
+    "levack-witch-hunt-early-modern-2006",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

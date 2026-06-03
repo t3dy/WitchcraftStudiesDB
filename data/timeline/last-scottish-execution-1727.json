@@ -1,0 +1,23 @@
+{
+  "id": "last-scottish-execution-1727",
+  "event_name": "Last Scottish witch execution",
+  "event_type": "trial_event",
+  "date": "1727",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Dornoch, Sutherland, Scotland",
+  "location_slug": null,
+  "significance": "Janet Horne, executed at Dornoch in 1727, is the last person executed for witchcraft in Scotland and one of the last in the British Isles. The execution occurred under the 1563 Witchcraft Act, nine years before the Act's repeal; it represents both the tail end of Scottish prosecution and the increasing anomalousness of capital witch prosecution in the early eighteenth century.",
+  "related_entities": [
+    "scottish-privy-council-commissions"
+  ],
+  "source_method": "Scottish legal records; analyzed in Hutton, The Witch (2017); Goodare, The Scottish Witch-Hunt in Context (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

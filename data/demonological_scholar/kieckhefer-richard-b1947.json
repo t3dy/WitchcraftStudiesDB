@@ -1,0 +1,98 @@
+{
+  "id": "kieckhefer-richard-b1947",
+  "name": "Richard Kieckhefer",
+  "birth_year": 1947,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "History; Medieval History; History of Religion",
+  "primary_institution": "Northwestern University (Professor of History and Religion)",
+  "specialization": "Medieval magic and demonology; European witch trials 1300-1500; the 'common tradition' of learned and popular magic",
+
+  "major_works": [
+    {
+      "title": "European Witch Trials: Their Foundations in Popular and Learned Culture, 1300-1500",
+      "year": 1976,
+      "publisher": "Routledge and Kegan Paul, London",
+      "significance": "Systematic analysis of witch trials before 1500, distinguishing between the learned diabolical tradition and the popular maleficium tradition and tracing how they combined to produce the composite stereotype",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Magic in the Middle Ages",
+      "year": 1989,
+      "publisher": "Cambridge University Press",
+      "significance": "Survey of medieval magical traditions that established the conceptual framework distinguishing natural magic, demonic magic, and learned necromancy in the medieval context",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Forbidden Rites: A Necromancer's Manual of the Fifteenth Century",
+      "year": 1997,
+      "publisher": "Sutton Publishing, Stroud",
+      "significance": "Edition and analysis of a surviving necromantic manual, providing direct access to learned magical practice outside the demonological prosecutorial record",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "MEDIEVAL SPECIALIST / TWO-TRADITION ANALYST",
+
+  "core_argument": "Kieckhefer's central contribution is the two-tradition analysis: the witch stereotype before 1500 combined two analytically separable traditions that had different origins, different social locations, and different evidentiary bases. The first tradition was popular maleficium belief — the widespread cultural conviction that certain individuals could cause harm through magical means, documented across medieval Europe in ordinary village contexts. The second tradition was the learned diabolical framework developed by theologians and inquisitors — the concept of a diabolical pact, sabbath attendance, and satanic conspiracy, primarily an elite intellectual construction. The composite witch stereotype formed through the fusion of these two traditions: popular maleficium belief provided the accusation energy, while the learned diabolical framework transformed individual maleficium accusations into charges of satanic conspiracy.",
+
+  "methodological_approach": {
+    "primary_materials": "Trial records from 1300-1500; inquisitorial handbooks; theological treatises; magical manuals and books of spells",
+    "analysis_target": "The sources and formation of the composite witch stereotype before its full crystallization; the relationship between learned and popular magical traditions",
+    "evidence_type": "Archival trial records; manuscript magical texts; theological literature",
+    "explanatory_level": "Cultural and intellectual history: Kieckhefer traces the intellectual genealogy of the composite stereotype while remaining attentive to the popular practices that fed into it"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The two-tradition analysis",
+      "claim": "The composite witch stereotype was formed by the fusion of two historically distinct traditions: popular maleficium belief (widespread, ancient) and learned diabolical theology (elite, constructed by inquisitors and theologians from the late fourteenth century). Neither tradition alone produced mass prosecution; their fusion in the fifteenth century did.",
+      "implication": "Both the social history of witch prosecution (which focuses on popular maleficium belief and its community dynamics) and the intellectual history (which focuses on demonological theology) are necessary but not sufficient; the composite stereotype requires both."
+    },
+    {
+      "concept": "The common tradition of medieval magic",
+      "claim": "Medieval magic existed on a spectrum from 'high' learned necromancy through 'low' popular charm and healing magic, with a 'common tradition' of ritual magic (including prayers, blessings, and simple ritual objects) shared between clerical and lay practitioners. The sharp learned/popular distinction often applied to early modern magic understates this common ground.",
+      "implication": "Understanding early modern witch prosecution requires understanding the broad magical culture from which both the accused and their accusers drew — a culture that was more unified across social strata than the learned/popular dichotomy suggests."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Kieckhefer's European Witch Trials (1976) was based on systematic analysis of trial records before 1500 — the period for which the Ginzburgian and later analytical traditions had not yet done systematic work.",
+    "magical_manuscripts": "Forbidden Rites (1997) provided the first substantial analysis of a surviving necromantic manual, offering direct access to learned magical practice outside the demonological record."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Ginzburg (two-tradition analysis compatible with Ginzburg's distinction between learned diabolical framework and popular practice substratum)",
+      "Hutton (shared interest in pre-prosecutorial popular magical traditions)"
+    ],
+    "creative_tension_with": [
+      "Cohn (who saw the 'popular tradition' as largely a projection of elite fantasy rather than genuine popular practice)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Kieckhefer's two-tradition analysis is background to the composite-witch-stereotype-formation concept entry and the maleficium-harmful-magic entry. His medieval focus fills the historiographical gap between the Ginzburg entries (focused on 16th-century Friuli) and the early formation period.",
+    "analytical_weight": "Kieckhefer provides the pre-1500 analytical framework that bridges medieval heresy-accusation history (Cohn's focus) and early modern prosecution analysis (Ginzburg, Hutton, Clark)."
+  },
+
+  "historiographical_significance": "Kieckhefer established the systematic analysis of European witch prosecution before 1500 as a scholarly field — the period when the composite stereotype was forming and when the data was too fragmentary and diverse to support the kind of regional and case-study analysis that later scholars applied to the peak prosecution period. His two-tradition framework remains influential as a way of understanding how elite and popular elements in the composite stereotype related to each other.",
+
+  "scholarly_disagreement": "The degree to which the 'popular tradition' of maleficium belief constituted a genuinely autonomous cultural stratum versus being already heavily shaped by clerical discourse is debated. Kieckhefer's framework assumes a relatively autonomous popular tradition; scholars more skeptical of the learned/popular distinction would see the popular tradition as more thoroughly shaped by elite religious culture than his analysis allows.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Primary works: European Witch Trials (1976); Magic in the Middle Ages (1989); Forbidden Rites (1997); analyzed in Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

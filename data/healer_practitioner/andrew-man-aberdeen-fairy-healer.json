@@ -1,0 +1,70 @@
+{
+  "id": "andrew-man-aberdeen-fairy-healer",
+  "name": "Andrew Man",
+  "status": "Convicted; outcome uncertain",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1597,
+  "age_at_trial": null,
+  "social_status": "Service magician, Aberdeen area; healer, protector, blight-worker",
+  "gender": "Male",
+
+  "self_identification": "Practitioner who worked healing, protective, and blighting magic through two supernatural helpers: the Queen of Elf-home (known since childhood) and an angel called Christsonday",
+  "claimed_abilities": [
+    "Healing of illness through supernatural knowledge and direction",
+    "Protective magic for clients",
+    "Blighting magic against enemies (when requested)",
+    "Divination and knowledge of hidden things"
+  ],
+
+  "biography": "Andrew Man of the Aberdeen area, tried in 1597, provides the most complex and cosmologically elaborate of the known Scottish fairy-healer testimonies. Unlike Elizabeth Dunlop, who worked through the mediation of a single dead human (Tom Reid), Andrew Man claimed two distinct supernatural helpers: the Queen of Elf-home, who had been known to him since childhood, and an angelic figure he called Christsonday. His testimony included accounts of seeing Thomas the Rhymer — a legendary Scottish prophetic figure — and King James IV (who had been killed at the Battle of Flodden in 1513, nearly a century before) among the company of the fairy court. This integration of historical Scottish figures into the fairy-court cosmology is unusual even within the Scottish tradition and suggests either an unusually elaborate personal mythology or significant inquisitorial suggestion in the recorded version of his testimony. Julian Goodare has given the Aberdeen cases of 1597 close attention as part of his research on the Scottish witch-hunt in its regional contexts; the Aberdeen cases show the fairy-healer tradition persisting into a period when the North Berwick prosecutions had already established a more aggressive demonological framework for Scottish witch trials.",
+
+  "interrogation_narrative": {
+    "circumstances": "Tried in Aberdeen presbytery jurisdiction, 1597; the year of an intensified Scottish prosecutorial wave following the 1590-91 North Berwick trials",
+    "man_initial_claim": "The Queen of Elf-home has been known to me since childhood; Christsonday is an angel who assists me; through them I perform healing, protection, and other services",
+    "interrogator_response": "Pressing toward diabolical reframing of the Queen as a demon, Christsonday as a devil, the fairy court as a sabbath assembly",
+    "man_adaptation": "His testimony incorporated the fairy-court framework throughout while showing some accommodation to prosecutorial pressure"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Man's own framework of fairy-court contact and angelic guidance is preserved in the record, though the record's mediation through prosecutorial questions makes reconstruction difficult",
+    "under_interrogation_pressure": "Progressive accommodation to demonological categories as the record proceeds; the early sections preserve more of his self-account",
+    "final_confession": "Convicted; the precise execution or penance record is uncertain in surviving sources"
+  },
+
+  "microhistorical_significance": "Man's case is significant for the integration of legendary historical figures (Thomas the Rhymer, James IV) into a living practitioner's cosmological account. Whether this represents genuine local tradition about the continued presence of the dead among the fairy folk, or inquisitorial suggestion, or a practitioner's deliberate self-legitimation by associating himself with famous names, cannot be determined from the surviving record — but the question itself reveals the complexity of the relationship between popular belief, practitioner self-presentation, and interrogation process that Ginzburg's microhistorical method is designed to navigate.",
+
+  "actor_vs_analyst_terminology": {
+    "man_language": [
+      "The Queen of Elf-home",
+      "Christsonday (an angel)",
+      "Thomas the Rhymer",
+      "King James IV (among the fairy court)"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Demonic agent",
+      "Devil-worshipper"
+    ]
+  },
+
+  "practical_activities": "Man provided healing, protective magic, and blighting services to clients in the Aberdeen area. His three-way repertoire — healing, protection, harm — represents the full range of service-magic practice documented in the tradition, with the protective and healing functions primary and the harmful function available to clients seeking redress against enemies.",
+
+  "interrogation_outcome": "Tried and convicted in Aberdeen, 1597; exact subsequent record uncertain.",
+
+  "historiographical_significance": "Man's case is discussed by Hutton in The Witch (2017) and by Julian Goodare in The Scottish Witch-Hunt in Context (2002) as part of the pattern of Scottish fairy-healer prosecutions. The 1597 Aberdeen cases belong to a larger prosecutorial wave analyzed by Goodare as reflecting both central judicial pressure from James VI's court and local dynamics of community accusation. The presence of Thomas the Rhymer and James IV in Man's testimony is an unusual datum even within this tradition, suggesting either the specific local character of Aberdeen-area fairy belief or more intensive inquisitorial elaboration of the case than the simpler Scottish records preserve.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Aberdeen burgh records; presbyterian court records; analyzed in Hutton, The Witch (2017) and Goodare (ed.), The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "The degree to which Man's elaborate cosmology — with its integration of legendary historical figures — reflects authentic popular tradition, inquisitorial suggestion, or strategic self-legitimation is debated. Goodare's careful archival work on the Aberdeen cases provides the best analysis of what can be recovered from the record.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

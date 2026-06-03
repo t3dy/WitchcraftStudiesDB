@@ -1,0 +1,90 @@
+{
+  "id": "midelfort-hans-c-erik-b1942",
+  "name": "H.C. Erik Midelfort",
+  "birth_year": 1942,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "History; Early Modern European History",
+  "primary_institution": "University of Virginia (Professor of History)",
+  "specialization": "German witch prosecution; southwestern Germany; Württemberg and Swabia; social and institutional analysis of prosecution",
+
+  "major_works": [
+    {
+      "title": "Witch Hunting in Southwestern Germany, 1562–1684: The Social and Intellectual Foundations",
+      "year": 1972,
+      "publisher": "Stanford University Press",
+      "significance": "Foundational quantitative and institutional study of German witch prosecution; established the analytical framework for the 'superhunt' and identified the institutional conditions enabling mass prosecution",
+      "pages": null,
+      "database_entry": "midelfort-witch-hunting-1972"
+    },
+    {
+      "title": "Mad Princes of Renaissance Germany",
+      "year": 1994,
+      "publisher": "University Press of Virginia",
+      "significance": "Study of mental illness and princely governance in Renaissance Germany, extending Midelfort's social-historical methodology to different subject matter",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "INSTITUTIONAL SOCIAL HISTORIAN / QUANTITATIVE ANALYST",
+
+  "core_argument": "Midelfort's central contribution is the systematic quantitative analysis of German witch prosecution and the identification of its enabling institutional conditions. Through archival survey of southwestern German prosecution records, Midelfort demonstrated that witch hunting occurred in waves, was concentrated in specific institutional types (episcopal secular courts with concentrated authority and no effective external oversight), and escalated into mass prosecution through a denunciation-cascade mechanism. The 'superhunt' — mass prosecution extending across all social strata — was possible only in specific institutional contexts where a single authority combined ecclesiastical and secular power without appellate constraint. This finding directly contradicts any explanation of witch prosecution as caused primarily by popular belief or cultural attitudes: the same popular culture produced very different prosecution intensities in different institutional contexts.",
+
+  "methodological_approach": {
+    "primary_materials": "Southwestern German episcopal and secular court archives; Württemberg, Swabia, and Alsace prosecution records",
+    "analysis_target": "Quantitative patterns of accusation, conviction, and execution; institutional variation in prosecution intensity; the mechanics of cascade escalation",
+    "evidence_type": "Archival court records; regional survey",
+    "explanatory_level": "Institutional and social history: Midelfort privileges institutional structure as the primary explanatory variable for prosecution intensity variation"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Institutional enabling conditions for superhunt",
+      "claim": "Mass witch prosecution required concentrated episcopal-secular authority without external oversight; jurisdictions with divided authority or appellate review showed dramatically lower prosecution rates.",
+      "implication": "The German superhunts at Trier, Würzburg, and Bamberg were institutional phenomena whose scale was determined by jurisdictional structure, not by regional variation in folk belief or demonological zeal."
+    },
+    {
+      "concept": "Regional quantitative baseline",
+      "claim": "Midelfort's southwestern Germany survey established the first reliable execution estimates for any major European jurisdiction, providing the empirical foundation for comparative regional analysis.",
+      "implication": "Comparative statistics across jurisdictions (later synthesized by Levack) became possible only after Midelfort's archival baseline."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Midelfort conducted systematic archival survey of multiple southwestern German jurisdictions, the first such comprehensive survey in German witch-trial scholarship. His data remain foundational for regional comparative analysis."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Levack (comparative institutional analysis; Levack's European synthesis builds on Midelfort's German findings)",
+      "Behringer (subsequent archival work on Bavaria extends and refines Midelfort's southwestern Germany framework)"
+    ],
+    "creative_tension_with": [
+      "Clark (Midelfort's institutional analysis and Clark's intellectual analysis are complementary but methodologically distinct; Clark critiques pure social-institutional reductionism)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Midelfort's analysis is the primary source for the Trier, Würzburg, and Bamberg trial_event entries, and provides the institutional framework for the crimen-exceptum and torture-confession-dynamic demonological concept entries.",
+    "analytical_weight": "Midelfort's quantitative findings are the German regional contribution to the broader comparative pattern assembled by Levack."
+  },
+
+  "historiographical_significance": "Witch Hunting in Southwestern Germany established the systematic quantitative approach to witch-trial historiography that Levack later synthesized at the European level. Midelfort's institutional analysis — identifying episcopal secular courts as the key enabling variable for mass prosecution — remains the most precisely evidenced argument for the institutional determinants of prosecution intensity. Behringer's subsequent Bavaria work, and Monter's work on the Jura and Franco-Comté, extended Midelfort's regional methodology to adjacent areas.",
+
+  "scholarly_disagreement": "Midelfort's emphasis on institutional factors has been qualified by subsequent scholars who identify cultural, religious, and psychological dimensions (Clark, Roper) that pure institutional analysis underweights. Behringer's quantitative revisions have refined some of Midelfort's execution estimates.",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-2006",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Primary works: Witch Hunting in Southwestern Germany (Stanford, 1972); southwestern German archival research",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

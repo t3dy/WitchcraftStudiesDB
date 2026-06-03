@@ -1,0 +1,71 @@
+{
+  "id": "battista-moduco-friuli-benandante",
+  "name": "Battista Moduco",
+  "status": "Abjured",
+  "trial_id": "friuli-benandanti-1575-inquisition",
+  "location_id": "friuli",
+  "year_interrogated": 1575,
+  "age_at_trial": 40,
+  "social_status": "Agricultural laborer; Udine area, Friuli; married",
+  "gender": "Male",
+
+  "self_identification": "Benandante — one born with the caul, compelled by God to travel at night during the Ember Days to protect the harvests from witches",
+  "claimed_abilities": [
+    "Night travel in spirit during the Ember Days (quarterly Church fasts)",
+    "Combat against witches in spirit to protect the grain harvest",
+    "Knowledge of local witches",
+    "Limited healing knowledge"
+  ],
+
+  "biography": "Battista Moduco of the Udine area is the second of the two benandanti documented in the founding 1575 interrogation by the Friuli Inquisition that Ginzburg analyzed in The Night Battles (1966/1983). Where Paolo Gasparutto was the more detailed and articulate of the two, Moduco's testimony corroborates and extends Gasparutto's account with variations that confirm the tradition's internal consistency: both men described the same Ember Day timing, the same combat with witches (malandanti) using fennel stalks, the same stake of good or bad harvest in the outcome. Moduco's testimony adds the detail that he had been born with the caul (the amniotic membrane covering the head at birth) — a specific birth sign that in Friulian popular belief marked one as destined to be a benandante. This birth-sign element is important for Ginzburg's interpretation: the benandante role was not chosen but compelled, not an act of will but a fate imposed by birth and activated by a supernatural summons on the Ember Days.\n\n  Moduco described himself as approximately forty years old at his interrogation and had apparently been carrying out the benandante activities since young adulthood. Like Gasparutto, he was not immediately or severely punished in 1575; the Inquisition's bafflement at testimony that did not fit the diabolical template it expected seems to have prevented decisive action. The longer-term trajectory of Friulian benandanti prosecutions — in which later accused increasingly produced sabbath-conforming confessions under heavier inquisitorial pressure — was not yet apparent in the initial 1575 cases.",
+
+  "interrogation_narrative": {
+    "circumstances": "Inquisitorial court, Udine, 1575; interrogated alongside or in proximity to Paolo Gasparutto",
+    "moduco_initial_claim": "I was born with the caul and am therefore compelled to go; we fight for the faith; if we win the harvest is good",
+    "interrogator_response": "Attempts to map Moduco's testimony onto the diabolical sabbath template; questions about whether the 'captain' of the benandanti was an angel or a demon",
+    "moduco_adaptation": "Maintained the benandante framework; described the captain as an angel or a servant of God; did not conform to the diabolical reframing the inquisitor attempted"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Birth with the caul; nocturnal spirit-travel during Ember Days; battles with fennel stalks against witches; harvest protection",
+    "under_interrogation_pressure": "Some accommodation to supernatural framing (the captain as angel) but no diabolical confession; maintained the providential character of the benandante role",
+    "final_confession": "Abjuration of claimed activities as heretical; not executed; outcome of any subsequent proceedings unclear"
+  },
+
+  "microhistorical_significance": "Moduco's testimony, alongside Gasparutto's, constitutes the primary evidential base for Ginzburg's argument in The Night Battles. The corroboration between the two independently interrogated men — same timing, same weapons, same purpose, same outcome stakes — suggests that the benandante tradition was a coherent shared belief system rather than an individual fantasy or an inquisitorial construction. Ginzburg used this corroboration as evidence against purely inquisitorial-construction accounts of the phenomenon. The caul-birth detail adds a cosmological dimension: the benandanti were not volunteers but conscripts, called by forces they did not choose and could not refuse.",
+
+  "actor_vs_analyst_terminology": {
+    "moduco_language": [
+      "Benandante",
+      "Born with the caul",
+      "Compelled to go by the spirit (or by God)",
+      "Fighting for the faith",
+      "Ember Days"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Attendant at diabolical sabbat",
+      "Heretic"
+    ]
+  },
+
+  "practical_activities": "Protection of the community's harvest through spirit-battles; healing activities (less prominently documented than in Gasparutto's case). Moduco appears to have been less involved in the service-magic healing function than some later benandanti.",
+
+  "interrogation_outcome": "Abjuration; not executed; subsequent record not clearly documented.",
+
+  "historiographical_significance": "Moduco's testimony is analyzed alongside Gasparutto's in Ginzburg, The Night Battles (1983) as part of the foundational evidence for the benandante tradition. Hutton in The Witch (2017) discusses the Friulian cases as the strongest documented evidence for a pre-demonological ecstatic tradition in sixteenth-century Italy, while questioning how far the tradition can be generalized. The caul-birth marker is discussed in both Ginzburg and Hutton as evidence for the tradition's internal coherence as a community belief system rather than an individual claim.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Udine Inquisition records (1575 interrogation transcripts); published and analyzed in Ginzburg, The Night Battles (1983); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The same interpretive debate as for the benandanti generally: Ginzburg argues for genuine shamanic tradition; skeptical scholars argue even the 1575 testimony is too heavily mediated by inquisitorial questioning to establish authentic popular belief uncontaminated by learned categories. The question of how much of the corroboration between Gasparutto and Moduco reflects independent tradition versus shared community discourse versus mutual influence through community conversation is not resolvable from the records.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

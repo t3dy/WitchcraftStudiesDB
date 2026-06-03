@@ -1,0 +1,26 @@
+{
+  "id": "witchcraft-act-james-i-1604",
+  "event_name": "James I English Witchcraft Act 1604",
+  "event_type": "institutional_event",
+  "date": "1604",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Westminster, England",
+  "location_slug": "essex",
+  "significance": "James I's Witchcraft Act (1 Jac. I c. 12) replaced the 1563 Elizabethan statute with stricter provisions, making first-offence maleficium capital, expanding prosecutable acts, and reflecting the new king's personal demonological engagement documented in his Daemonologie (1597). The Act remained in force until 1736.",
+  "related_entities": [
+    "james-vi-scotland-b1566",
+    "james-daemonologie-1597",
+    "north-berwick-1590-trials"
+  ],
+  "source_method": "Statutes of the Realm, 1 Jac. I c. 12; analyzed in Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006",
+    "james-daemonologie-1597"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

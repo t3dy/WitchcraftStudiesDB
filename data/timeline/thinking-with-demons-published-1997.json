@@ -1,0 +1,23 @@
+{
+  "id": "thinking-with-demons-published-1997",
+  "event_name": "Clark Publishes Thinking with Demons, 1997",
+  "event_type": "primary_source_publication",
+  "date": "1997",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Oxford, England",
+  "location_slug": null,
+  "significance": "Stuart Clark's Thinking with Demons: The Idea of Witchcraft in Early Modern Europe (Oxford University Press, 1997) provided the comprehensive intellectual history of European demonology, arguing that demonological thought was internally coherent theological and natural-philosophical reasoning, not irrational superstition — the foundational statement of the intellectual-history approach to witch prosecution.",
+  "related_entities": [
+    "clark-stuart-b1943",
+    "clark-thinking-with-demons-2001"
+  ],
+  "source_method": "Clark, Thinking with Demons (Oxford University Press, 1997); catalogued and analyzed in Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

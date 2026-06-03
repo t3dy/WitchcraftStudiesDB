@@ -1,0 +1,107 @@
+{
+  "id": "gaskill-malcolm-b1967",
+  "name": "Malcolm Gaskill",
+  "birth_year": 1967,
+  "death_year": null,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "History; Early Modern British History",
+  "primary_institution": "University of East Anglia (Professor of Early Modern History)",
+  "specialization": "English witch prosecution; Matthew Hopkins and the Hopkins campaign; magic and belief in early modern England; crime and the law",
+
+  "major_works": [
+    {
+      "title": "Witchfinders: A Seventeenth-Century English Tragedy",
+      "year": 2005,
+      "publisher": "John Murray, London",
+      "significance": "Definitive scholarly biography of Matthew Hopkins and John Stearne, analyzing the 1645-47 East Anglian witch-hunting campaign in its Civil War context",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Crime and Mentalities in Early Modern England",
+      "year": 2000,
+      "publisher": "Cambridge University Press",
+      "significance": "Broad study of crime and popular mentalities in early modern England, including substantial material on witchcraft and magical belief",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Witchcraft: A Very Short Introduction",
+      "year": 2010,
+      "publisher": "Oxford University Press",
+      "significance": "Accessible synthesis of witch-trial historiography; one of the most widely read introductions to the field",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Between Two Worlds: How the English Became Americans",
+      "year": 2014,
+      "publisher": "Basic Books",
+      "significance": "Study of the Atlantic world and the formation of colonial American culture; extends Gaskill's interest in popular belief across the Atlantic",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "ENGLISH SPECIALIST / POPULAR CULTURE HISTORIAN",
+
+  "core_argument": "Gaskill's central contribution to witch-trial historiography is the detailed analysis of the Matthew Hopkins campaign as a historically specific phenomenon explicable through its specific Civil War context, rather than as a manifestation of timeless witch-hunting dynamics. Hopkins was not an anomaly but a product of his specific moment: the breakdown of central authority during the Civil War, the heightening of religious anxieties and providentialist interpretation, and the specific social conditions of East Anglia in the 1640s combined to enable a prosecution campaign whose scale and character were historically specific rather than a replay of earlier patterns. Gaskill's analysis also foregrounds the role of popular demand for witch-finding services — communities actively sought Hopkins's intervention, paying him for professional services — complicating any simple narrative of persecution imposed from above.",
+
+  "methodological_approach": {
+    "primary_materials": "Norfolk and Suffolk assize records; Witch-Finding pamphlet literature; Civil War provincial records; Essex Quarter Sessions records",
+    "analysis_target": "The specific social and political context of the Hopkins campaign; the dynamics of popular demand for witch-finding; the Hopkins-Stearne professional relationship",
+    "evidence_type": "Archival court records; contemporary pamphlet literature; local administrative records",
+    "explanatory_level": "Historical contextualization: Gaskill situates specific prosecution episodes within their precise historical moment rather than treating them as instances of a generalized witch-hunt dynamic"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Hopkins campaign as Civil War phenomenon",
+      "claim": "The Hopkins campaign's scale and character were specifically products of the English Civil War: the breakdown of central judicial authority, the heightening of providentialism, and the specific social anxieties of Civil War East Anglia created conditions that could not be replicated in peacetime.",
+      "implication": "The Hopkins campaign should be understood as historically particular rather than as the predictable product of English popular witch belief."
+    },
+    {
+      "concept": "Popular demand for witch-finding",
+      "claim": "Communities actively sought and paid for Hopkins's services, indicating that the demand for witch identification came substantially from below rather than being purely imposed by authority.",
+      "implication": "The social dynamics of English witch prosecution cannot be adequately captured by a top-down persecution narrative; popular belief and community demand were essential drivers."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Gaskill conducted archival research in Norfolk and Suffolk records to reconstruct the Hopkins campaign's full scope and community context — going beyond the pamphlet literature that had dominated previous Hopkins scholarship."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Macfarlane (community-level social dynamics analysis)",
+      "Thomas (popular belief and its relationship to institutional prosecution)",
+      "Hutton (attention to the specific historical context of each prosecution episode)"
+    ],
+    "creative_tension_with": [
+      "Ginzburg (Gaskill's historically specific contextualization contrasts with Ginzburg's long-duree comparative approach)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Gaskill's analysis is the primary scholarly source for the east-anglia-hopkins-campaign-1645 trial_event entry and provides additional context for the witch-mark-devils-mark demonological concept entry.",
+    "analytical_weight": "Gaskill provides the detailed historical contextualization that establishes the Hopkins campaign as historically specific rather than a generic example of English witch prosecution."
+  },
+
+  "historiographical_significance": "Witchfinders (2005) is the most historically detailed and archivally grounded study of the Hopkins campaign available, superseding earlier studies that relied more heavily on the pamphlet record. Gaskill's contribution to the broader historiography is his insistence on historical specificity: each prosecution episode had its own context and cannot be reduced to a timeless dynamic. His accessibility as a writer has also made witch-trial scholarship available to a broader audience through his Very Short Introduction.",
+
+  "scholarly_disagreement": "Gaskill's emphasis on the specificity of the Hopkins campaign has been accepted by most scholars, but debates continue about the relative importance of popular demand versus elite organization in enabling the campaign's scale.",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Primary works: Witchfinders (John Murray, 2005); Norfolk and Suffolk assize records; Essex Quarter Sessions records; Hopkins's pamphlet Discovery of Witches (1647)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

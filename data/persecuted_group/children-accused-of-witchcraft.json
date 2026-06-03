@@ -1,0 +1,35 @@
+{
+  "id": "children-accused-of-witchcraft",
+  "name": "Children Accused of Witchcraft",
+  "category": "demographic",
+  "temporal_scope": "c. 1550–1700",
+  "primary_regions": ["sweden", "central-europe", "colonial-new-england"],
+
+  "group_profile": "Children appear in witch trial records in two distinct and historiographically separable roles: as accusers (giving testimony against adult defendants) and as accused (tried themselves as witches or devil-worshippers). Both roles are documented across European jurisdictions, though the accused-child phenomenon is concentrated in specific periods and regions. The most dramatic cases of children as accused witches occur in Sweden during the great panic of 1668-1676, when children were the primary victims of a nationwide mass prosecution that resulted in approximately 280 executions; at Salem in 1692, where several accused persons were minors (including Dorcas Good, who was four or five years old at the time of her arrest); and in scattered central European mass prosecutions where cascade denunciation swept in children along with adults.\n\n  The role of children as accusers is documented across a much wider range of jurisdictions. Agnes Brown (twelve) testified at the Chelmsford assizes of 1566; the afflicted girls of Salem (Betty Parris, Ann Putnam, Mercy Lewis, and others) were the engines of that prosecution; Swedish children's testimony about being taken to the sabbat at Blåkulla was the centerpiece of the 1668-1676 prosecutions. The evidentiary weight given to child testimony was theoretically grounded in the doctrine of 'crimen exceptum' — that witchcraft, as an exceptional crime invisible to normal witnesses, required relaxation of ordinary evidentiary rules. Children's susceptibility to supernatural assault made them credible witnesses of supernatural events inaccessible to hardened adults.",
+
+  "persecution_rationale": "Demonological theory offered explanations for why children might become witches: parents or grandmothers who were already members of demonic covens could recruit or coerce their children into the compact; the devil specifically targeted children as the least protected members of a community's spiritual household. Johannes Nider in the Formicarius described children brought to sabbaths by their parents. In Swedish accounts of the 1668-1676 prosecutions, children testified that they had been taken to Blåkulla (the demonic paradise) and given to the devil; this framework — children as victims of adult witch-recruiters rather than as independent agents — provided a way to prosecute children while framing them simultaneously as perpetrators and victims of adult demonic manipulation.",
+
+  "structural_vulnerability": "Children who were accused were structurally the most vulnerable defendants in any witch prosecution: they lacked legal standing to mount a defense, were entirely dependent on adults (parents, guardians, court-appointed representatives) who might themselves be accused or compromised, and had no social resources independent of the household unit. The case of Dorcas Good at Salem — imprisoned at four or five, separated from her mother Sarah Good (subsequently executed), held for months in conditions that contemporaries acknowledged were destroying her — represents the extreme end of what the prosecutorial system could do to a child lacking any protector.\n\n  Child testimony against adults derived its prosecutorial power from a different structural logic: children were credible precisely because they were considered too simple and too close to supernatural experience to have invented elaborate sabbath narratives. The afflicted girls at Salem derived their power from being perceived as victims whose testimony, however strange, reflected genuine supernatural assault rather than deliberate falsehood. This prosecutorial utility made child accusers valuable to prosecution structures while simultaneously exposing them to manipulation and psychological damage.",
+
+  "historiographical_significance": "The Swedish mass prosecution of 1668-1676 is the clearest case for the analysis of children as accused witches at scale. Ankarloo's research on the Swedish trials (Trolldomsprocesserna i Sverige, 1971; in English in Early Modern European Witchcraft, 1990) documents a prosecution in which children's testimony about being taken to Blåkulla drove mass conviction of adults, and in which the children's stories — internally consistent and elaborating in detail through the prosecution's progress — function as a case study in how prosecutorial dynamics can generate testimony through the social dynamics of group suggestibility, coaching, and peer reinforcement.\n\n  Boyer and Nissenbaum's Salem Possessed (1974) analyzed the Salem afflicted girls within the social-conflict framework, situating their accusations within family and community tensions in Salem Village. Later scholars, including Mary Beth Norton in In the Devil's Snare (2002), have added the dimension of colonial trauma — the frontier wars and the psychological damage they inflicted on refugee communities — to the analysis of why Salem's accusers responded as they did. Neither framework requires attributing the afflicted girls' behavior to conscious fraud; both locate the accusation dynamic in social and psychological context rather than in individual malice.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern"
+  ],
+
+  "scholarly_disagreement": "The question of whether child accusers at Salem and in Swedish prosecutions were primarily victims of adult manipulation, vectors of genuine psychological disturbance, or conscious agents exercising real social power within a constrained situation has been debated since the events themselves. Modern historiography has largely abandoned the 'lying girls' explanation (which treats the accusers as deliberate frauds) in favor of analyses emphasizing the psychological and social conditions that produced their behavior. But the balance between genuine distress (conversion symptoms, post-traumatic response) and social performance (the conscious or semi-conscious deployment of accusatory power) varies across individual cases and remains contested.",
+
+  "source_method": "Ankarloo, in Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990), on Sweden; Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

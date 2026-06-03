@@ -1,0 +1,44 @@
+{
+  "id": "court-of-justiciary-scotland",
+  "name": "High Court of Justiciary, Scotland",
+  "formal_name": "Court of Justiciary / Justiciary Court of Scotland",
+  "institutional_type": "secular_tribunal",
+  "founded": "1672",
+  "dissolved": null,
+
+  "jurisdiction_description": "The High Court of Justiciary, established in its modern form in 1672, was Scotland's supreme criminal court, handling the most serious criminal cases and functioning as the appellate court for criminal proceedings from lower Scottish courts. Before its formal establishment, its predecessor jurisdiction — the Justiciary Court and the justice ayre system — had handled serious criminal cases including witchcraft prosecutions from the sixteenth century onward. The Court of Justiciary's formal establishment in 1672 came near the end of the Scottish witch-prosecution period (the last execution was in 1727) and did not substantially alter the prosecution dynamic that the Privy Council commission system had established.\n\n  Unlike the Privy Council's commission system (which delegated prosecution authority downward to local commissions with minimal oversight), the Justiciary Court was a more centralized tribunal. However, its jurisdiction was primarily appellate rather than original for most serious cases during the main prosecution period, and the Privy Council commission system remained the dominant prosecutorial mechanism until that system's reform in the late seventeenth century.",
+
+  "jurisdiction_territories": ["edinburgh"],
+
+  "procedural_features": {
+    "torture_policy": "Scottish courts permitted torture under the Privy Council's authority; the Court of Justiciary did not independently authorize torture but operated within the same institutional framework. After the 1689 Claim of Right prohibited torture without parliamentary authorization, the Scottish institutional framework changed significantly.",
+    "evidence_standards": "The Court of Justiciary applied more formal evidentiary standards than local commission courts; its appellate function provided some check on the most extreme commission-level conviction patterns.",
+    "confession_policy": "Confession remained central to Scottish prosecution throughout the period; the Court of Justiciary, like lower courts, treated confession as the primary evidence of guilt.",
+    "appeal_mechanism": "Appeals from the Court of Justiciary could theoretically proceed to the House of Lords after the 1707 Act of Union, though this was rarely used for criminal cases in the witch-prosecution period."
+  },
+
+  "role_in_witch_trials": "The Court of Justiciary's role in Scottish witch prosecution was primarily central oversight of the most serious cases rather than the local commission prosecutions that produced most Scottish executions. Its establishment in 1672 coincided with the end of the large-scale commission system, and its subsequent handling of witchcraft cases was more cautious and skeptical than the earlier commission system. The 1727 case of Janet Horne at Dornoch — the last Scottish execution — was handled by the local sheriff court rather than the Justiciary Court, and the Justiciary Court took no steps to prevent it.",
+
+  "witch_trial_involvement_level": "moderate",
+
+  "key_trial_events": [
+    "north-berwick-1590-trials"
+  ],
+
+  "historiographical_significance": "The Court of Justiciary is significant primarily as the institutional context for the reform of Scottish criminal procedure in the later seventeenth century. Larner's Enemies of God (1981) and Goodare's subsequent work use the Privy Council records rather than the Justiciary Court records as the primary administrative source for Scottish prosecution statistics, reflecting the Privy Council commission system's dominance in the earlier, more intensive prosecution period.",
+
+  "scholarly_disagreement": "The relative roles of the Privy Council commission system and the Justiciary Court in governing Scottish witch prosecution are not fully resolved; the institutional transition of the 1670s-1680s affected the prosecution pattern in ways that the historiography has not always clearly distinguished.",
+
+  "source_method": "National Records of Scotland (Court of Justiciary records); analyzed in Larner, Enemies of God (1981); Goodare, The Scottish Witch-Hunt in Context (2002); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

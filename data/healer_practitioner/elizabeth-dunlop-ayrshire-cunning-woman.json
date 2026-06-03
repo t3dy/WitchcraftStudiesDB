@@ -1,0 +1,70 @@
+{
+  "id": "elizabeth-dunlop-ayrshire-cunning-woman",
+  "name": "Elizabeth Dunlop",
+  "status": "Executed (burned)",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1576,
+  "age_at_trial": null,
+  "social_status": "Rural woman, Ayrshire; client base included neighbors and local gentry seeking healing and divination",
+  "gender": "Female",
+
+  "self_identification": "Healer and diviner whose powers came from Tom Reid, a man killed at the Battle of Pinkie (1547), and through him from the court of Elf-home",
+  "claimed_abilities": [
+    "Healing of humans and animals through herb lore and supernatural knowledge",
+    "Divination regarding the recovery or death of the sick",
+    "Recovery of lost and stolen goods",
+    "Identification of witches and malefic practitioners"
+  ],
+
+  "biography": "Elizabeth Dunlop of Ayrshire, tried before the Kirk Session and Privy Council in 1576, is one of the most richly documented of the Scottish 'fairy doctors' — service magicians who attributed their powers to contact with the supernatural realm of the fairy court rather than to demonic agency. Her case is central to Ronald Hutton's analysis of the fairy-healer tradition in The Witch (2017) as evidence that beneficial magical practice operated within a distinct experiential and cosmological framework independent of the demonological stereotype. Dunlop testified that a man named Tom Reid — whom she identified as having been killed at the Battle of Pinkie in 1547, nearly thirty years before — had first appeared to her and introduced her to 'the good wights of the court of Elf-home.' Her fairy contacts supplemented, rather than replaced, conventional religious piety: she reportedly invoked the name of Christ and the Virgin Mary in her healing work. Clients from the surrounding area, including members of the local gentry, sought her services for healing of sick people and animals, for the recovery of lost and stolen property, and for divination about matters of health and welfare. She was eventually denounced by thieves she had identified — a pattern Hutton notes as structurally typical: the practical competence of the service magician created professional enemies as well as grateful clients. Tried and convicted, she was burned at Edinburgh in 1576.",
+
+  "interrogation_narrative": {
+    "circumstances": "Tried before a combination of Kirk Session and Privy Council jurisdictions in 1576",
+    "dunlop_initial_claim": "Tom Reid, a man killed at Pinkie nearly thirty years past, appeared to me and made me familiar with the court of Elf-home; through him I learned to heal the sick and find what is lost",
+    "interrogator_response": "Questions pressed toward demonic agency, Devil-pact, and sabbath attendance rather than toward the folk framework of fairy contact and dead human mediation",
+    "dunlop_adaptation": "Records suggest Dunlop maintained her own explanatory framework through most of the interrogation, unusual among those who eventually confessed to devil-pact; her own cosmology — of dead human intermediaries and a fairy court — remained prominent in her testimony"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Dunlop admitted to the fairy-court framework: Tom Reid as her primary guide, the court of Elf-home as her source of knowledge, dead human companions among the fairy folk",
+    "under_interrogation_pressure": "She also reported seeing what she identified as the fairy court on several occasions, including seeing the Queen of Elfhame; she acknowledged that she did not fully understand the nature of the beings she dealt with",
+    "final_confession": "The surviving record preserves Dunlop's own framework more fully than in many Scottish cases, suggesting her interrogators were less aggressively reductive than in the 1590-91 North Berwick prosecutions; she was nonetheless convicted and executed"
+  },
+
+  "microhistorical_significance": "Dunlop's case illustrates the coexistence in sixteenth-century Scottish popular belief of what Hutton calls the 'fairy doctor' tradition — service magic legitimated through contact with a recognizable social world (the dead, supernatural human-like beings, a court with its own hierarchy) — with orthodox Christian piety. Her invocation of Christ and the Virgin Mary alongside her fairy contacts did not in her own understanding represent a contradiction. The inquisitorial framework that condemned her treated all non-sacramental commerce with supernatural beings as diabolical by definition — the category error that transformed a locally respected healer into a convicted witch.",
+
+  "actor_vs_analyst_terminology": {
+    "dunlop_language": [
+      "Tom Reid (a named dead man)",
+      "The court of Elf-home",
+      "The good wights",
+      "The Queen of Elfhame"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Demonic agent",
+      "Heretic"
+    ]
+  },
+
+  "practical_activities": "Dunlop's documented practice encompassed healing of sick individuals and animals; divination about recovery or death; location of lost and stolen property; identification of malefic practitioners (witches and thieves). These are the standard service-magic repertoire documented across European and British communities by Thomas, Hutton, and other social historians.",
+
+  "interrogation_outcome": "Executed by burning in Edinburgh, 1576. She did not escape through recantation; her fairy-framework narrative was not accepted as evidence of innocence by her prosecutors.",
+
+  "historiographical_significance": "Dunlop's case is one of Hutton's central examples in The Witch (2017) for the 'fairy doctor' type — the Scottish healer who understood her practice through contact with the fairy court rather than through any explicitly diabolical framework. Julian Goodare has also worked extensively on the Scottish fairy-healer cases, identifying a distinctive late sixteenth-century pattern in which such practitioners were drawn into prosecution precisely because their widespread reputation made them visible targets. The case is significant for understanding the relationship between popular cosmology and prosecution: Dunlop's fairy framework, unlike the demonic pact required by the demonological stereotype, was not a prosecutorial target in itself — what condemned her was the official framework's insistence that any non-sacramental supernatural commerce was by definition demonic.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Scottish Privy Council records; Bessie Dunlop's trial record (printed in Pitcairn, Criminal Trials in Scotland, 1833); analyzed in Hutton, The Witch (2017) and Goodare (ed.), The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Emma Wilby in Cunning Folk and Familiar Spirits (2005) argues that Scottish fairy-contact narratives like Dunlop's represent genuine visionary experiences shaped by shamanic traditions, closer to Ginzburg's benandanti than to simple theatrical performance. Hutton in The Witch (2017) accepts the reality of the experiences as described but is cautious about deriving any specific tradition-historical claim from them, noting that visionary experience is culturally shaped and that the specific 'fairy' framework is a late medieval construction rather than an archaic survival.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

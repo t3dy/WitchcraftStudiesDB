@@ -1,0 +1,42 @@
+{
+  "id": "zurich-reformed-city-council",
+  "name": "Zurich Reformed City Council",
+  "formal_name": "Rat der Stadt Zürich / City Council of Zurich",
+  "institutional_type": "secular_tribunal",
+  "founded": "1336",
+  "dissolved": null,
+
+  "jurisdiction_description": "The Zurich City Council served as both the municipal government and the supreme judicial authority in Reformed Zurich following the city's adoption of the Protestant Reformation under Ulrich Zwingli in 1523. After the Reformation, ecclesiastical jurisdiction was absorbed into civic authority, making the City Council responsible for both religious discipline and criminal prosecution — including witchcraft cases. Zurich's Protestant jurisdiction represents a different institutional context from Catholic episcopal courts: without an episcopal authority to authorize prosecution, witchcraft cases in Reformed territories fell under civic secular jurisdiction.\n\n  Zurich and the Swiss Reformed cantons in general were characterized by moderate prosecution levels — substantially lower than the Catholic Valais and the German episcopal territories — suggesting that the Reformed institutional framework (civic governance, integration with Reformed theology's suspicion of magical causation, and the Swiss Confederation's fractured jurisdictional structure) contributed to restraint.",
+
+  "jurisdiction_territories": ["valais-vaud"],
+
+  "procedural_features": {
+    "torture_policy": "Torture was available under Swiss secular procedure and was used in witchcraft prosecutions; Zurich's civic council had oversight over its application, which provided some constraint on escalation but did not eliminate it.",
+    "evidence_standards": "Civic council applied civil law evidentiary standards; the integration of Reformed theology's emphasis on natural causation may have raised implicit thresholds for accepting supernatural explanations.",
+    "confession_policy": "Confessions required council review; Reformed theology's skepticism about ritual efficacy extended to some skepticism about the reality of specific alleged acts (sabbath attendance, weather magic), which occasionally complicated conviction.",
+    "appeal_mechanism": "No external appellate mechanism; council decisions were final within Zurich's jurisdiction; the Confederation provided no systematic oversight over cantonal criminal justice."
+  },
+
+  "role_in_witch_trials": "The Zurich City Council prosecuted witchcraft cases throughout the sixteenth and seventeenth centuries but at a rate substantially below neighboring Catholic territories. Its Reformed theological framework — Zwingli's and later Bullinger's theology of divine providence — had an ambiguous effect on prosecution: on one hand, Providence theology emphasized God's direct governance of events rather than demonic mediation, which could in principle reduce witchcraft prosecution; on the other hand, Reformed providentialism's emphasis on the need to eliminate sin from the godly community could intensify prosecution when accusations arose. Zurich's prosecution level suggests the former tendency predominated.",
+
+  "witch_trial_involvement_level": "moderate",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "The Reformed Swiss cantons are significant in the comparative historiography as a case study in the relationship between confessional culture and prosecution intensity. Levack's comparative analysis notes that Catholic and Protestant territories prosecuted witchcraft at broadly similar rates overall, suggesting that institutional structure mattered more than confessional theology. The Zurich case nuances this finding: Reformed Zurich's civic-secular integration, combined with Zwinglian theology's specific form of providential thought, appears to have produced a somewhat more restrained prosecution pattern than comparable Catholic jurisdictions. Midelfort's and Behringer's comparative analyses use the Swiss Reformed material as a calibration case for understanding how institutional variables modulate the prosecution dynamic.",
+
+  "scholarly_disagreement": "Whether Reformed theology itself — or the institutional form of Reformed governance (civic rather than episcopal jurisdiction) — is the primary explanation for Zurich's relatively restrained prosecution rate is not resolved. The confessional and institutional variables are difficult to separate analytically.",
+
+  "source_method": "Zurich Staatsarchiv; analyzed in Levack, The Witch-Hunt in Early Modern Europe (2006); Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

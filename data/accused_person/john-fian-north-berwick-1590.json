@@ -1,0 +1,88 @@
+{
+  "id": "john-fian-north-berwick-1590",
+  "name": "John Fian",
+  "status": "Executed",
+  "trial_id": "north-berwick-1590-trials",
+  "location_id": "north-berwick",
+  "year_accused": 1590,
+  "year_executed": 1591,
+  "age_at_trial": null,
+  "social_status": "Schoolmaster, Saltpans (near North Berwick), Haddingtonshire; literate; minor professional status",
+  "gender": "Male",
+
+  "biography": "John Fian — schoolmaster at Saltpans near North Berwick — was the most prominent male victim of the North Berwick prosecution of 1590-1591 and the case that most directly brought the trials into the orbit of James VI's personal demonological engagement. Fian was named in confessions from other accused persons and was arrested in late 1590. He confessed under torture to the full range of North Berwick charges: attendance at nocturnal gatherings in North Berwick Kirk, where Satan himself presided; participation in plots against James VI through weather magic; and meeting with the devil at Fian's school.\n\n  Fian's case has a distinctive historiographical feature: after his initial confession under torture, he recanted the confession completely and maintained his innocence. The court — which had James VI's personal involvement — resumed torture with extreme intensity to re-extract his confession. The procedures applied to Fian in this second round of torture are among the most detailed descriptions of judicial torture in any Scottish record: his fingernails were removed with pincers and needles were driven into the exposed flesh to explain why he could not feel the witch's mark pricking. Despite this treatment, Fian reportedly maintained his recantation and refused to name additional accomplices. He was executed at Edinburgh in January 1591.\n\n  Fian's schoolmaster status is significant: it places him in the minor professional class of literate Scots who would have been familiar with both popular and learned frameworks for witchcraft. The charges against him included organizing the North Berwick meetings as their 'secretary,' a detail that may reflect his literacy — the satan of the North Berwick sabbath was imagined to keep written records, and Fian as schoolmaster was the plausible record-keeper.",
+
+  "arrest_narrative": "Fian was named under torture by other accused persons in the expanding North Berwick prosecution of late 1590. He was arrested in Edinburgh and brought before James VI's court for examination. His initial arrest follows the cascade mechanism characteristic of mass prosecutions: each confession was required to name those seen at the sabbath, and Fian appeared in multiple such denunciations.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1590-12",
+      "method": "Torture; methods not specified in detail in surviving record for first session",
+      "initial_response": "Confessed to North Berwick meetings, weather magic against James VI's ship, meetings with the devil",
+      "duration": "Multiple sessions"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1590-12",
+        "method": "Unspecified torture",
+        "outcome": "Confession to full North Berwick charges"
+      },
+      {
+        "session": 2,
+        "date": "1591-01",
+        "method": "Extreme torture following recantation: fingernails removed, needles driven into exposed fingertip flesh",
+        "outcome": "Fian reportedly maintained his recantation despite this treatment; confession not re-extracted"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Confessed (under first torture, subsequently recanted) to pact with the devil; described meeting Satan at North Berwick Kirk",
+    "sabbath_activities": "Confessed to attendance at North Berwick Kirk gatherings; described as secretary of the coven, recording names of attendees",
+    "maleficium_claimed": "Weather magic against James VI's ship returning from Denmark with his bride Anne; wax images of the king",
+    "accomplices_named": "Named Agnes Sampson and others already implicated in the prosecution; his recantation presumably withdrew these denunciations"
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Fian's case is the clearest instance in the North Berwick prosecution of the complete torture-confession-recantation-resumed torture sequence. His recantation followed the pattern Ginzburg identifies as evidence that the initial confession was produced by torture rather than reflecting genuine belief: when the torture stopped, the confession was withdrawn. The court's response — intensifying torture to a degree of documented cruelty — rather than questioning the confessional procedure's reliability, illustrates the institutional logic that Ginzburg analyzes as the self-confirming character of inquisitorial procedure.",
+    "plausibility": "The charges against Fian — organizing demonic meetings to plot against the king through weather magic — are implausible on their face and were extracted through documented torture. His recantation and persistent denial under resumed extreme torture are unusual in the North Berwick record and may reflect either unusual personal resolution or the specific content of his particular accusations.",
+    "social_vulnerability": "Fian's status as schoolmaster — literate and of minor professional standing — made him a plausible 'organizer' within the North Berwick narrative as the prosecution sought a figure who could have kept the supposed coven's records. His literacy was his structural vulnerability in a prosecution that imagined the devil's organization on clerical models."
+  },
+
+  "execution_details": {
+    "date": "1591-01",
+    "method": "Strangled and burned, Edinburgh",
+    "location": "Edinburgh",
+    "witnesses": "Public execution; James VI in attendance at some point in the proceedings",
+    "final_statement": "Not recorded in surviving sources"
+  },
+
+  "accusations_against_her": [
+    "Secretary to Satan at North Berwick Kirk gatherings",
+    "Participation in weather magic against James VI's ship",
+    "Demonic pact and apostasy",
+    "Attendance at sabbath gatherings with Agnes Sampson and others"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "None documented",
+    "defense_arguments": "Fian's recantation of his confession was the most dramatic defensive act in the North Berwick prosecution; he maintained his innocence under resumed extreme torture, which was unusual in the record"
+  },
+
+  "historiographical_significance": "John Fian's case is discussed in accounts of the North Berwick trials primarily for the recantation episode — the only documented instance in the prosecution of a major accused person who withdrew a torture-extracted confession and maintained that withdrawal under resumed torture. Larner in Enemies of God (1981) cites Fian's case in the context of the North Berwick prosecution's political character. Hutton in The Witch (2017) notes the torture procedures as documented evidence of the extremes of Scottish inquisitorial practice. The case is historically significant less for any individual uniqueness than for what it reveals about the North Berwick prosecution's procedures: the documented torture methods, the recantation, and the court's response to it.",
+
+  "source_method": "Newes from Scotland (1591), primary pamphlet account of the North Berwick trials; Scottish Privy Council records; analyzed in Larner, Enemies of God (1981); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The reliability of Newes from Scotland (1591) as a primary source is accepted by scholars but its sensational pamphlet character introduces uncertainty about specific details; the torture procedures attributed to the second session of Fian's interrogation are sometimes questioned as possible amplification, though there is no positive evidence against them.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

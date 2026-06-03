@@ -1,0 +1,66 @@
+{
+  "id": "ann-jeffries-cornwall-fairy-healer",
+  "name": "Ann Jeffries",
+  "status": "Imprisoned; released; not executed",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1646,
+  "age_at_trial": null,
+  "social_status": "Maidservant, Cornwall; later became well-known magical healer",
+  "gender": "Female",
+
+  "self_identification": "Healer who had received her powers from conversations and encounters with the fairy folk",
+  "claimed_abilities": [
+    "Healing of illness without conventional medicine or payment",
+    "Prophetic visions",
+    "Claimed ability to see and interact with fairy beings"
+  ],
+
+  "biography": "Ann Jeffries of Cornwall (born 1626) is one of the most remarkable and best-documented English service magicians of the seventeenth century whose career was grounded in the fairy-contact tradition. She worked as a maidservant in the Moses Pitt household and attracted wide attention — including from educated observers — when she began claiming conversations with fairy folk and then establishing a reputation as a healer. Unlike most service magicians, she did not charge for her services, which Hutton notes was itself remarkable. She treated sick people brought from a wide area and reportedly refused payment in money, accepting only hospitality. Her career became politically dangerous when she added prophetic pronouncements — she made predictions during the Civil War period — and was imprisoned in 1646 under a warrant from a local magistrate. She was eventually released without formal trial and survived to old age, dying sometime after 1696. The relative security of her outcome compared to Scottish practitioners like Dunlop and Pearson reflects both the different English legal climate and, possibly, the protection afforded by educated patrons who found her case interesting. Moses Pitt, in whose household she had worked, wrote an account of her case for the bishop of Gloucester in 1696, which preserves the most detailed record of her activities.",
+
+  "interrogation_narrative": {
+    "circumstances": "Imprisoned under magistrate's warrant c. 1646; held for some months; released without formal conviction",
+    "jeffries_initial_claim": "My healing powers came from the fairy folk with whom I had direct encounters and conversations",
+    "interrogator_response": "The imprisonment appears to have been driven by political concerns about her prophetic statements rather than by systematic inquisitorial interrogation",
+    "jeffries_adaptation": "She maintained her fairy-contact framework throughout and was not subjected to the kind of sustained interrogation that transformed the testimony of Scottish practitioners"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "She consistently maintained that her healing powers came from fairy contact; she did not confess to demonic agency",
+    "under_interrogation_pressure": "Not subjected to systematic demonological interrogation; the relatively informal character of her imprisonment left her self-account relatively intact",
+    "final_confession": "No formal conviction; no confession to diabolism; released"
+  },
+
+  "microhistorical_significance": "Jeffries's survival and the preservation of her self-account by Moses Pitt provide an unusually complete record of what the fairy-healer tradition looked like from the practitioner's perspective — uncorrupted by the reframing process that dominated Scottish and Continental case records. Her insistence on the fairy rather than demonic character of her contacts, and her refusal to accept payment (which removed one of the social tensions that might otherwise have generated hostile testimony), reflect a practitioner who successfully navigated the prosecutorial climate of Civil War England. Her case illustrates that the fairy-healer tradition was present in southern England as well as in Scotland, and that under the right conditions it could survive without lethal prosecution.",
+
+  "actor_vs_analyst_terminology": {
+    "jeffries_language": [
+      "The fairy folk",
+      "Fairy encounters",
+      "Gift of healing from the fairies"
+    ],
+    "prosecution_categories": [
+      "Suspected witch",
+      "Dangerous prophetess"
+    ]
+  },
+
+  "practical_activities": "Jeffries healed sick individuals brought to her from across Cornwall; she reportedly treated both physical illness and conditions attributed to supernatural causes; she refused monetary payment. The healing practice appears to have been genuinely widespread in its reach.",
+
+  "interrogation_outcome": "Imprisoned c. 1646; released without formal trial or conviction; not executed. Survived to old age.",
+
+  "historiographical_significance": "Hutton in The Witch (2017) cites Jeffries as a key English example of the fairy-healer type, alongside the Scottish cases of Dunlop and Pearson. Her case is significant because the relative completeness of her self-account — preserved by Moses Pitt — allows comparison with the Scottish cases where inquisitorial reframing was more extensive. The absence of systematic interrogation in her case and her ultimate survival make it a valuable control: what the fairy-healer tradition looked like before prosecutorial transformation. Emma Wilby in Cunning Folk and Familiar Spirits (2005) analyzes Jeffries's case within her broader argument about genuine visionary experience underlying service-magic claims.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Moses Pitt's account written for the bishop of Gloucester (1696); analyzed in Hutton, The Witch (2017) and Wilby, Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Wilby's emphasis on the genuine visionary dimension of Jeffries's claims is contested by those who see the fairy framework as primarily a strategic account — a way of legitimating healing practice within the available cultural vocabulary without invoking explicitly diabolical categories.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

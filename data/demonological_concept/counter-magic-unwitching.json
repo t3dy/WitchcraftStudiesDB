@@ -1,0 +1,51 @@
+{
+  "id": "counter-magic-unwitching",
+  "name": "Counter-Magic and Unwitching Practices",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Early Modern (c. 1400–1750)",
+  "primary_locale": "Broad European distribution; particularly documented in England, Scotland, the Low Countries, and Baltic regions",
+
+  "scholarly_definition": "Counter-magic — the use of magical or quasi-magical practices to reverse, deflect, or identify witchcraft — constituted one of the most widespread and persistent magical practices of early modern Europe. Where maleficium was the harmful application of magical power, counter-magic was its practical antithesis: the practices used to undo bewitchment, identify the witch responsible, and protect against future attack. Counter-magic ranged from the ritually elaborate (the witch bottle, the burning of thatch, the heart-boiling) to the devotionally straightforward (prayer, scripture-reading, recitation of formulae), and was practiced by specialized cunning folk and by ordinary persons acting on their own behalf. Its existence is essential context for understanding witch prosecution: accusations most commonly arose from the failure or interpretation of counter-magical procedures that had identified a suspected witch.",
+
+  "intellectual_genealogy": {
+    "theological_ambiguity": "Counter-magic occupied deeply ambiguous theological territory: using supernatural means to counter supernatural harm potentially involved the same diabolical resources as the original maleficium. Theologians from Aquinas onward acknowledged the problem: if counter-magic worked, it worked through some supernatural mechanism, and the only non-divine supernatural mechanism available was demonic. This led to the formal condemnation of most counter-magic by demonologists while popular practice continued regardless.",
+    "reformers_critique": "Protestant Reformers were particularly emphatic in condemning counter-magic, arguing that the proper response to bewitchment was prayer and trust in providence rather than magical remedy. This created a gap between official doctrine and popular practice that generated ongoing tension — and occasionally prosecution of cunning folk who provided counter-magical services.",
+    "cunning_folk_role": "The specialized counter-magic practitioners — English cunning folk, Scottish wise men and women, Dutch toverdokters, German Hexenbanner — occupied the primary professional niche of anti-witchcraft service in early modern communities. Their diagnostic functions (identifying who had bewitched a client) were directly implicated in witch accusation."
+  },
+
+  "clark_intellectual_analysis": "Clark analyzes counter-magic within the broader framework of the inversion principle: counter-magic was the structural mirror of maleficium, operating through the same conceptual logic in reverse. The witch bottle — which trapped the witch's power and turned it against her — inverted the maleficium logic; the burning of thatch — which identified the witch by drawing her to the scene — inverted the witch's invisibility. For Clark, counter-magic was not marginal to the demonological system but integral to it, providing the practical response that the system's assumptions made necessary.",
+
+  "hutton_social_analysis": "Hutton's analysis of cunning folk in The Witch (2017) foregrounds counter-magic as their primary social function: most clients came to cunning folk not to get magical harm done but to get existing magical harm removed or its source identified. This makes counter-magic the context within which most individual encounters with practical magic occurred, and the cunning folk's counter-magical practice the social institution most directly implicated in witch accusation dynamics.",
+
+  "ginzburg_interrogation_analysis": "Counter-magic practice generated a distinctive set of prosecution confessions: cunning folk who had identified suspects through their diagnostic procedures could themselves become accused when those procedures were criminalized or when the suspects they named turned to counter-accusation. The prosecutorial record therefore contains accounts of counter-magical practice that Ginzburg's methodology can read for evidence of underlying folk traditions.",
+
+  "actor_perspective": {
+    "witch_bottle": "The witch bottle — a vessel containing the victim's urine, pins, and other materials — was buried or heated to cause pain to the witch and either kill her or force her to come to the victim to lift the curse. Numerous intact specimens have been found archaeologically, confirming widespread practice.",
+    "scratching_the_witch": "Drawing blood from the suspected witch — usually by scratching the face — was believed to break the maleficium; the practice appears in English, Scottish, and Dutch records and occasionally resulted in violent attacks on suspected witches.",
+    "heart_burning": "The burning of a bewitched animal's heart — with pins stuck through it — while a helper watched the road for the witch who would appear in pain was documented across multiple European traditions.",
+    "cunning_folk_diagnosis": "Professional unwitching involved diagnosis (identifying the witch through divination, urine examination, or crystal-gazing), protective measures, and sometimes offensive counter-magic that turned the harm back on its sender."
+  },
+
+  "distinctive_features": {
+    "accusation_generator": "Counter-magic was the primary mechanism by which witch accusations arose: the cunning man's identification of a suspect provided the initial accusatory moment that community conflict then amplified into prosecution",
+    "popular_persistence": "Counter-magic practice persisted robustly after elite skepticism had made formal prosecution rare — witch bottles, scratching, and similar practices continued well into the eighteenth century",
+    "criminal_liability": "The 1563 English Witchcraft Act specifically criminalized cunning folk and their counter-magical services alongside harmful witches, reflecting the official theological position that all supernatural service beyond prayer was potentially diabolical"
+  },
+
+  "geographic_distribution": "Documented across most European regions; particularly well-documented in England (through cunning folk prosecution records), the Low Countries, and German territories.",
+
+  "historiographical_significance": "Keith Thomas's Religion and the Decline of Magic (1971) established the systematic historical analysis of counter-magic in early modern England, demonstrating its pervasiveness across social strata and its relationship to witch accusation. Thomas argued that the decline of magical worldview (including counter-magic practice) was driven by the same social forces (protestantism, capitalism, literacy, scientific revolution) that drove witch prosecution's decline — a controversial teleological argument that subsequent scholars have qualified. Hutton's analysis of cunning folk and Wilby's work on familiar spirits have extended and refined Thomas's framework.",
+
+  "source_method": "English witch trial records and cunning folk examination records; analyzed in Thomas, Religion and the Decline of Magic (1971); Hutton, The Witch (2017); Macfarlane, Witchcraft in Tudor and Stuart England (1970); Wilby, Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

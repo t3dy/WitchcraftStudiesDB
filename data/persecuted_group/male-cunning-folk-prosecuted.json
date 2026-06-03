@@ -1,0 +1,38 @@
+{
+  "id": "male-cunning-folk-prosecuted",
+  "name": "Male Cunning Folk Prosecuted as Witches",
+  "category": "occupational",
+  "temporal_scope": "c. 1400–1700",
+  "primary_regions": ["friuli", "scotland", "england", "finland", "iceland", "estonia"],
+
+  "group_profile": "Male practitioners of service magic — the cunning men, wisemen, charm-workers, and diviners who occupied the same practical niche in early modern communities as their female equivalents — were prosecuted for witchcraft at rates that varied dramatically by region and period. In English prosecution, where the accused were overwhelmingly female (approximately 90%), male cunning folk appear in the record primarily as witnesses, analysts of bewitchment, or occasional accused in specific contexts. In Scotland, the proportion of male accused (~22% of the total) was substantially higher, reflecting a prosecutorial tradition that targeted male magical practitioners alongside female witches. In Iceland and Finland, males constituted the majority of those prosecuted — approximately 90% in Iceland, where the galdramaðr (male sorcerer) tradition was the dominant magical practitioner type targeted.\n\n  The male cunning folk who appear in English and Scottish prosecution records were frequently prosecuted not for maleficium but for the service-magical activities — healing, divination, treasure-finding, love magic — that constituted their occupation. The transition from recognized service-magic practitioner to witch accusation could occur when a client blamed the practitioner for failed services, when authorities became concerned about the practitioner's claims to supernatural knowledge, or when the practitioner's spirit-contact narratives were assimilated by the prosecution framework into the diabolical relationship that the theoretical framework required.",
+
+  "persecution_rationale": "Demonological theory held that any claim to supernatural knowledge or power required supernatural source — and the only non-divine supernatural source available to humans was demonic assistance. Male cunning folk who claimed to heal through learned techniques, through natural philosophy, or through prayer occupied a gray zone: their claim to legitimate knowledge could be accepted by authorities, or could be reinterpreted as diabolical assistance. Perkins's Discourse of the Damned Art of Witchcraft (1608) is explicitly directed at service-magical practitioners of both sexes as well as harmful witches, arguing that the beneficent cunning man who obtained results through any means other than God's grace was necessarily in diabolical relationship.",
+
+  "structural_vulnerability": "Male cunning folk occupied an ambiguous structural position that exposed them to prosecution through multiple mechanisms. Their public claim to supernatural knowledge made their practice visible to authorities in ways that private belief did not. Their professional service relationships — clients who paid for services and expected results — created economic grievances when services failed. Their spirit-contact narratives, when subjected to inquisitorial examination, were difficult to distinguish from the diabolical relationship the prosecution framework expected: the fairy-encounter, the night-battle, the spirit-teacher could all be relabeled as demonic pact by an examiner who knew what they were looking for. Hutton's analysis of Scottish fairy-doctors and English cunning men documents this transition as a recurring pattern.",
+
+  "historiographical_significance": "Hutton's The Witch (2017) is the foundational modern analysis of the male cunning-folk prosecution pattern, synthesizing evidence from Scotland, England, and the broader European material to argue that prosecuted male practitioners represent the gender-undifferentiated popular service-magic tradition being consumed by a prosecution framework that was theoretically gender-neutral even if it was empirically female-dominant in most jurisdictions.\n\n  Ginzburg's analysis of the benandanti — male Friulian practitioners who described themselves as fighters for the harvest's fertility in night battles — is the paradigm case of male service-magical practitioners being prosecuted as witches through the inquisitorial reframing of their own testimony. The benandanti case shows the transformation in slow motion: the Friulian inquisitors, who initially had no specific framework for what the benandanti described, gradually developed the prosecutorial category through which male spirit-practitioners became witches. Goodare's analysis of Scottish male accused provides the comparative northern European dimension.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "cunning-folk-service-magic",
+    "animal-familiar-english",
+    "demonic-pact-early-modern"
+  ],
+
+  "scholarly_disagreement": "Hutton's emphasis on the substantive continuity between male and female service-magical practice has been questioned by scholars who see gendered dimensions even in the prosecution of male practitioners — the male cunning man being prosecuted differently and for different reasons than the female witch in most jurisdictions. The Icelandic case, where male prosecution vastly outnumbers female prosecution, generates its own distinctive scholarly debate about the causes of this inversion of the typical European pattern.",
+
+  "source_method": "Hutton, The Witch (2017); Ginzburg, Night Battles (1966/1983); Scottish Privy Council records via Larner, Enemies of God (1981); Icelandic records via Terry Gunnell in Ankarloo-Clark vol. 4; Macfarlane, Witchcraft in Tudor and Stuart England (1970)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-night-battles-1983",
+    "larner-enemies-of-god-1981",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "elspeth-reoch-orkney-1616",
+  "name": "Elspeth Reoch",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": null,
+  "year_accused": 1616,
+  "year_executed": 1616,
+  "age_at_trial": null,
+  "social_status": "Woman of Orkney; status otherwise uncertain; described as moving between mainland Scotland and Orkney",
+  "gender": "Female",
+
+  "biography": "Elspeth Reoch of Orkney, tried and executed in 1616, gave one of the most complex confessional accounts in the Scottish witch-trial record — a testimony that combined the Scottish fairy-healer tradition with elements of the diabolical sabbath framework in an unstable mixture that illustrates the inquisitorial assimilation of indigenous popular beliefs into standard prosecutorial categories. Reoch confessed to receiving her healing knowledge and 'the sight' (second sight) from a fairy man she had encountered — a figure who first appeared to her in a specific location and taught her magical knowledge over a period of time. In subsequent interrogation, this figure was progressively reframed as the devil, and Reoch's account of her meetings with him shifted from the fairy-encounter pattern toward a more conventional demonic pact narrative.\n\n  Reoch's testimony is distinctive for the biographical specificity it preserves through the inquisitorial reframing: she described specific locations where she encountered the fairy man, specific periods of her life when the encounters occurred, and specific knowledge transmitted in them. This specificity is consistent with Ginzburg's argument that confessional testimonies contain layers, and that reading against the grain of the inquisitorial framework can recover traces of the practitioner's actual self-understanding beneath the coerced confession. Hutton in The Witch (2017) discusses Reoch's case as evidence for the Scottish fairy-healer tradition documented in more detail in the Dunlop, Pearson, Boyman, and Andrew Man cases.\n\n  Reoch was executed in Orkney in 1616. The Orkney jurisdiction is relevant: Orkney was Scandinavian in culture until its acquisition by the Scottish Crown in 1468 and retained Norse folk traditions that may have contributed to the particular texture of Reoch's fairy-encounter narrative.",
+
+  "arrest_narrative": "Reoch came to judicial attention in Orkney in 1616 through the standard Scottish commission mechanism — local accusation followed by Privy Council commission granting local authority to try her. The precise accusation that initiated her prosecution is not clearly documented in surviving records.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1616",
+      "method": "Scottish interrogation procedure; witch's mark searching likely; sleep deprivation possible",
+      "initial_response": "The early confessional content — fairy encounters, transmission of knowledge — appears to represent her own account before heavy inquisitorial reframing",
+      "duration": "Multiple sessions documented in surviving records"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "Confessed (under progressive inquisitorial reframing) to demonic pact; the pact narrative emerged from interrogation pressure rather than her initial self-presentation",
+    "sabbath_activities": "Some sabbath-like elements appear in the later confessional record; not present in the earliest documented stage",
+    "maleficium_claimed": "Harmful magic; the specific charges against her are incompletely documented in surviving sources",
+    "accomplices_named": "Not clearly documented in surviving record"
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Reoch's confession shows the progressive assimilation of a fairy-healer self-account into a diabolical template under interrogation pressure — the same mechanism Ginzburg analyzed in the Friulian benandanti cases. The fairy man of her early testimony becomes the devil of her later testimony; the knowledge transmission becomes diabolical pact; the healing practice becomes maleficium.",
+    "plausibility": "Reoch was almost certainly a genuine practitioner in the Scottish fairy-healer tradition — a woman who understood herself as having received knowledge from supernatural figures within the fairy tradition. The 'healing sight' she described was a real social role in Scottish popular culture. The charges of maleficium and diabolical conspiracy are the inquisitorial framework's transformation of this reality.",
+    "social_vulnerability": "Reoch's vulnerability was typical of the Scottish fairy-healer prosecutions: her reputation as a practitioner brought her to accusatory notice; her inability to produce the institutional credentials or social advocates that would have enabled flight or sustained defense determined her lethal outcome."
+  },
+
+  "execution_details": {
+    "date": "1616",
+    "method": "Strangled and burned (standard Scottish procedure)",
+    "location": "Orkney",
+    "witnesses": null,
+    "final_statement": null
+  },
+
+  "accusations_against_her": [
+    "Diabolical pact",
+    "Receipt of healing knowledge from supernatural figure",
+    "Maleficium against unspecified victims",
+    "The second sight obtained through diabolical means"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "None documented",
+    "defense_arguments": "None documented; Reoch did not have access to the social resources that enabled Alice Kyteler's flight or the intellectual resources that enabled John Fian's recantation"
+  },
+
+  "historiographical_significance": "Elspeth Reoch's case is discussed by Hutton in The Witch (2017) as part of the pattern of Scottish fairy-healer prosecutions that includes Elizabeth Dunlop (1576), Alison Pearson (c. 1588), Janet Boyman (c. 1572), and Andrew Man (1597). Reoch's confessional record is important for documenting the fairy-healer tradition in the northern Scottish context (Orkney) and for the biographical specificity that survives the inquisitorial reframing. Her case also illustrates the transmission of the fairy-healer tradition across what Hutton calls 'the Faery dimension' of Scottish popular religion — the belief in fairy encounters as a source of knowledge and healing power that persisted across the period of intensive witch prosecution.",
+
+  "source_method": "Orkney Presbytery and Privy Council records (1616); analyzed in Hutton, The Witch (2017); Goodare (ed.), The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "The fragmentary nature of surviving Orkney records makes reconstruction of Reoch's case more tentative than the better-documented mainland Scottish cases. The degree to which her early confessional account (fairy encounters, knowledge transmission) represents authentic self-presentation versus an early-stage product of interrogation is uncertain.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

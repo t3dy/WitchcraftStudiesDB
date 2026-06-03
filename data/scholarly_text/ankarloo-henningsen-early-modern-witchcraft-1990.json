@@ -1,0 +1,41 @@
+{
+  "id": "ankarloo-henningsen-early-modern-witchcraft-1990",
+  "title": "Early Modern European Witchcraft: Centres and Peripheries",
+  "author": "Bengt Ankarloo and Gustav Henningsen (eds.)",
+  "author_slug": "henningsen-gustav-b1934",
+  "year_published": 1990,
+  "original_year": 1990,
+  "original_title": "Häxornas Europa 1400-1700: historiska och antropologiska studier",
+  "original_language": "Various (collected essays)",
+  "original_publisher": "Clarendon Press, Oxford",
+  "publisher": "Clarendon Press, Oxford (1990)",
+  "text_type": "edited_volume",
+
+  "subject_focus": "Comparative edited volume providing national and regional case studies of European witch prosecution, establishing the foundation for Ankarloo and Clark's later multi-volume series and containing foundational essays on Scandinavian, Spanish, and Finnish prosecution.",
+
+  "summary": "Ankarloo and Henningsen's Early Modern European Witchcraft is the founding volume of the comparative national/regional case study approach to witch prosecution historiography — the conceptual predecessor and partial content source for the later Ankarloo-Clark multi-volume series. The volume collects essays by specialists on Denmark, Sweden, Finland, Estonia, Scotland, England, France, Spain, and Italy, allowing systematic comparison across diverse national and regional contexts within a single volume. It is the first major English-language publication to bring the Scandinavian material (particularly Bengt Ankarloo's work on Sweden) and the Spanish Inquisition material (Henningsen's Basque work, already published separately as The Witches' Advocate) into systematic comparison with the British and German material that had dominated English-language scholarship.",
+
+  "scholarly_significance": "The 1990 volume established the comparative national case-study format that the Ankarloo-Clark series (1999-2002) would develop into a comprehensive four-volume treatment. Its significance is primarily organizational: it demonstrated that witch prosecution could be systematically compared across national and regional contexts within a coherent analytical framework, and it introduced the Scandinavian material (especially Ankarloo's Sweden chapter) to an English-language audience for the first time.\n\n  Henningsen's chapter on Salazar Frías and the Basque material extends his Witches' Advocate (1980) findings and is an important document of the Spanish Inquisition's skeptical moderating role. The Finnish and Estonian chapters (by Maia Madar and others) introduced Baltic witch prosecution evidence to comparative analysis for the first time in English. Levack's synthesis in The Witch-Hunt in Early Modern Europe draws directly on this volume's national case studies.",
+
+  "key_arguments": [
+    {
+      "concept": "Peripheries as distinct prosecution contexts",
+      "claim": "Peripheral regions of European witch prosecution (Scandinavia, Finland, Estonia, Iberia) showed distinctive prosecution patterns that could not be derived from the central European or English 'center' cases, requiring separate analysis of their cultural, institutional, and demographic contexts."
+    },
+    {
+      "concept": "Spanish Inquisition's protective role",
+      "claim": "The essays on Iberian prosecution (building on Henningsen's Witches' Advocate) confirm the Spanish Inquisition's skeptical moderation of witch prosecution as a systematic pattern rather than an exceptional episode."
+    }
+  ],
+
+  "relation_to_database": "This volume is a foundational reference for the spanish-inquisition, portuguese-inquisition, and svea-court-of-appeal-sweden inquisitorial_body entries, and for the indigenous-sami-colonial-accused and sweden-blakulla-mass-trials-1668-1676 entries.",
+
+  "scholarly_disagreement": "The volume's comparative framework has been criticized for treating 'national' contexts as natural units of analysis when actual prosecution was often more regionally variable than national labels suggest.",
+
+  "source_method": "Published text, Clarendon Press, Oxford, 1990",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

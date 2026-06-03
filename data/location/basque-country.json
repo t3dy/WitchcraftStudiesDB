@@ -1,0 +1,70 @@
+{
+  "id": "basque-country",
+  "name": "Basque Country (French and Spanish)",
+  "type": "Multiple Jurisdictions",
+  "region": "Franco-Spanish border / Bay of Biscay",
+  "modern_location": "Basque Country (Spain) and Pays Basque (France)",
+  "coordinates": {
+    "latitude": 43.313,
+    "longitude": -1.977
+  },
+  "hover_description": "Basque Country, 1609: Two simultaneous investigations — de Lancre's French prosecution (hundreds arrested) vs. Salazar's Spanish empirical refutation (1,802 cases, not one proven). The most instructive contrast in European witch-trial history.",
+
+  "administrative_context": "The Basque country straddles the Franco-Spanish border, with the French Basque coast (Labourd province, under the Parlement of Bordeaux) and the Spanish Basque territories (under the Spanish Inquisition's Logroño tribunal). The two jurisdictions were culturally unified but institutionally separated — making the 1609 simultaneous investigations a natural experiment in prosecutorial approach.",
+
+  "witchcraft_trials_significance": "The Basque country in 1609–1614 was the site of the most instructive contrast in European witch-trial history. On the French side, Pierre de Lancre's commission from the Parlement of Bordeaux (1609) produced hundreds of arrests and dozens of executions in Labourd, generating the most spectacular Continental sabbat phenomenology (Tableau de l'inconstance, 1612). On the Spanish side, the Zugarramurdi trials of 1609–1610 triggered a wave of voluntary confessions that Alonso de Salazar Frías investigated empirically (1611–1614) — interviewing 1,802 self-confessors and finding not a single proven act of witchcraft. The Spanish Inquisition's 1614 Instructions, based on Salazar's findings, effectively ended Spanish witch prosecution.",
+
+  "trial_events": [
+    "de-lancre-labourd-investigation-1609",
+    "alonso-de-salazar-investigation-1611"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Pierre de Lancre",
+      "role": "Royal commissioner, French Labourd (1609)",
+      "contribution_to_trials": "Conducted intensive prosecution of French Basque witches; responsible for 80+ executions; documented the most elaborate sabbat descriptions in any contemporary source"
+    },
+    {
+      "name": "Alonso de Salazar Frías",
+      "role": "Inquisitor, Spanish Logroño tribunal (1609–1614)",
+      "contribution_to_trials": "Investigated 1,802 self-confessing witches empirically; found no case proven; produced reports leading to the 1614 Instructions ending Spanish prosecution"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1609": "Zugarramurdi trials (Spanish); French Labourd commission begins; de Lancre arrives",
+    "1610": "Spanish autos de fe; executions in Logroño; wave of voluntary confessions spreads",
+    "1611–1614": "Salazar's field investigation; 1,802 cases examined",
+    "1614": "Spanish Inquisition 1614 Instructions; effective end of Spanish witch prosecution"
+  },
+
+  "affected_population": {
+    "geographic_extent": "French Labourd province (de Lancre's campaign); Spanish Navarre, Guipúzcoa, and neighboring Basque territories (Salazar's investigation)",
+    "social_reach": "Rural Basque communities; notably included large numbers of women who came forward voluntarily to confess after the Zugarramurdi autos de fe",
+    "mortality_impact": "French side: 80+ executed by de Lancre; Spanish side: 12 executed in Zugarramurdi autos de fe; Salazar's investigation resulted in no further executions"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark uses the de Lancre/Salazar contrast to illustrate that the outcome of witch investigation depended not on the theological framework (both accepted diabolism's possibility) but on the procedural standards applied — de Lancre's credulous acceptance of confession versus Salazar's empirical cross-checking.",
+    "hutton_perspective": "The Basque case illustrates the Spanish Inquisition's distinctive procedural caution about witness testimony and confession, derived from its experience with crypto-Jewish and crypto-Muslim communities whose false conversions had taught the Inquisition to distrust self-incriminating testimony.",
+    "ginzburg_perspective": "The Spanish Basque confessions, which Salazar showed were socially contagious rather than experientially based, directly confirm the Ginzburg argument about inquisitorial interrogation generating rather than uncovering evidence of the sabbat."
+  },
+
+  "legacy_and_historiographical_importance": "The Basque case is the most analytically instructive comparison in European witch-trial history because it presents two responses to the same cultural phenomenon (Basque popular belief and the same wave of confessions) by two different judicial systems operating simultaneously in adjacent territories. The Spanish Inquisition's institutional structure — with its mandatory reporting to the Inquisitor-General and its tradition of procedural caution — produced a fundamentally different outcome from the French Parlement's commission system.",
+
+  "primary_sources": "Pierre de Lancre, Tableau de l'inconstance des mauvais anges (Paris, 1612); Alonso de Salazar Frías, reports to the Inquisitor-General (1609–c.1612) in Archivo Histórico Nacional, Madrid — published in Henningsen, The Witches' Advocate (1980)",
+
+  "source_method": "Gustav Henningsen, The Witches' Advocate (1980); Stuart Clark, Thinking with Demons (1997/2001); Brian Levack, The Witch-Hunt in Early Modern Europe; primary sources: de Lancre, Tableau (1612); Salazar reports via Henningsen",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "de-lancre-tableau-1612",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

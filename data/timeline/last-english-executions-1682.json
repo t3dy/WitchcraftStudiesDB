@@ -1,0 +1,24 @@
+{
+  "id": "last-english-executions-1682",
+  "event_name": "Last English Witch Executions, Bideford",
+  "event_type": "trial_event",
+  "date": "1682",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Bideford, Devon / Exeter",
+  "location_slug": "bideford-devon",
+  "significance": "Temperance Lloyd, Susanna Edwards, and Mary Trembles were hanged at Exeter on 25 August 1682, following prosecution originating in Bideford, Devon — the last judicial witch executions in England, preceding the formal repeal of the Witchcraft Acts by fifty-four years.",
+  "related_entities": [
+    "english-home-circuit-assizes",
+    "worcester-chester-lancaster-assizes"
+  ],
+  "source_method": "Bideford Borough Records; Devon Record Office; contemporary pamphlet A True and Impartial Relation (1682); analyzed in Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

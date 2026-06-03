@@ -1,0 +1,97 @@
+{
+  "id": "goodare-julian-b1956",
+  "name": "Julian Goodare",
+  "birth_year": 1956,
+  "death_year": null,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "History; Scottish History; Early Modern History",
+  "primary_institution": "University of Edinburgh (Professor of History)",
+  "specialization": "Scottish witch prosecution; Scottish political and cultural history; Survey of Scottish Witchcraft database",
+
+  "major_works": [
+    {
+      "title": "The European Witch-Hunt",
+      "year": 2016,
+      "publisher": "Routledge, London",
+      "significance": "Comparative synthesis of European witch prosecution from a post-Larner Scottish perspective, incorporating more recent quantitative research",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "The Scottish Witch-Hunt in Context (ed.)",
+      "year": 2002,
+      "publisher": "Manchester University Press",
+      "significance": "Edited volume bringing together new archival research on Scottish prosecution; extended Larner's framework with regional and case-study analysis",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Survey of Scottish Witchcraft (with Lauren Martin and Joyce Miller)",
+      "year": 2003,
+      "publisher": "University of Edinburgh online database",
+      "significance": "Comprehensive digital database of Scottish witch prosecution records, providing the statistical foundation for all post-2003 quantitative analysis of Scottish prosecution",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SCOTTISH SPECIALIST / DIGITAL HUMANITIES PIONEER",
+
+  "core_argument": "Goodare's central contribution is the digitization and systematic analysis of Scottish witch prosecution records — building on Larner's foundational work but extending it with more comprehensive documentation, regional case studies, and digital accessibility. The Survey of Scottish Witchcraft database (2003) superseded Larner's quantitative baseline, revising and refining the Scottish execution estimates and providing the infrastructure for a new generation of Scottish witch-trial scholarship. Goodare's analytical framework largely follows Larner's state-formation approach while incorporating more recent work on gender, community dynamics, and regional variation.",
+
+  "methodological_approach": {
+    "primary_materials": "National Records of Scotland (Privy Council records, circuit court records, presbytery records); Scottish local court records",
+    "analysis_target": "Comprehensive statistical survey of Scottish prosecution; regional variation; the dynamics of commission-based prosecution",
+    "evidence_type": "Archival court records; church records; digital database construction",
+    "explanatory_level": "Social and institutional history; regional case studies; state-formation framework inherited from Larner"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Revised Scottish quantitative baseline",
+      "claim": "The Survey of Scottish Witchcraft revised Larner's execution estimates upward, documenting approximately 3,837 named accused with an estimated 1,500 executions — a more precise and comprehensive figure than Larner's earlier estimate.",
+      "implication": "Scotland's execution rate per capita was approximately five times England's, confirming Larner's finding but with more precise evidence."
+    },
+    {
+      "concept": "Digital accessibility of Scottish records",
+      "claim": "The Survey of Scottish Witchcraft database made Scottish prosecution records accessible to researchers worldwide, enabling regional comparison and case-study research that was previously impracticable.",
+      "implication": "Post-2003 Scottish witch-trial scholarship has a digital infrastructure that is arguably better than any other national case in Europe."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Goodare's team conducted systematic archival survey of National Records of Scotland, supplementing the Privy Council records that Larner had used with circuit court and presbytery records that gave a more complete picture of prosecution at the local level."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Larner (Goodare's work extends and builds on Larner's foundational analysis)",
+      "Hutton (The Witch (2017) incorporates Goodare's Survey data extensively)"
+    ],
+    "creative_tension_with": [
+      "Ginzburg (Goodare's empirical social history approach is methodologically distant from Ginzburg's microhistorical emphasis on individual cases)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Goodare's Survey of Scottish Witchcraft provides quantitative data used in the scottish-privy-council-commissions inquisitorial_body entry and the men-accused-of-witchcraft persecuted group entry.",
+    "analytical_weight": "Goodare provides the post-Larner quantitative foundation for Scottish prosecution analysis."
+  },
+
+  "historiographical_significance": "Goodare's Survey of Scottish Witchcraft is the most significant Scottish contribution to digital humanities methodology in witch-trial research. Its significance is partly methodological (demonstrating what comprehensive digital databases enable) and partly substantive (providing the most precise quantitative picture of Scottish prosecution available). The Survey has been used as a model for similar database projects in other national contexts.",
+
+  "scholarly_disagreement": "Goodare's state-formation analytical framework, inherited from Larner, has been qualified by subsequent scholars who emphasize community dynamics and local social factors over state-level processes as drivers of Scottish prosecution.",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Primary works: The European Witch-Hunt (Routledge, 2016); Survey of Scottish Witchcraft (2003, University of Edinburgh); The Scottish Witch-Hunt in Context (ed., Manchester, 2002); National Records of Scotland archival research",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

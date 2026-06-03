@@ -1,0 +1,45 @@
+{
+  "id": "pocs-between-living-dead-1999",
+  "title": "Between the Living and the Dead: A Perspective on Witches and Seers in the Early Modern Age",
+  "author": "Éva Pócs",
+  "author_slug": "pocs-eva-b1936",
+  "year_published": 1999,
+  "original_year": 1997,
+  "original_title": "Élők és holtak, látók és boszorkányok",
+  "original_language": "Hungarian",
+  "original_publisher": "Akadémiai Kiadó, Budapest",
+  "publisher": "Central European University Press, Budapest (English translation 1999)",
+  "text_type": "monograph",
+
+  "subject_focus": "Comparative analysis of Hungarian, Balkan, and broader European witchcraft beliefs through the lens of folk-religious contact with the dead, arguing that witch beliefs were embedded in a coherent folk cosmology of relations between living and dead.",
+
+  "summary": "Pócs's Between the Living and the Dead is the major East Central European contribution to the Ginzburgian tradition of recovering folk belief systems from within the prosecution record. Working primarily from Hungarian, Romanian, and Balkan witch trial records alongside ethnographic material, Pócs argues that early modern folk witch beliefs were organized around the category of contact between living and dead — the witch was a figure who maintained dangerous connections with the world of the dead, and the beliefs about witchcraft were structured by a coherent folk cosmology about the interpenetration of the living and the dead. This analysis extends and complicates Ginzburg's ecstatic tradition thesis: where Ginzburg focuses on the night-battle tradition as a specific form of spirit-journey practice, Pócs develops a broader account of the folk cosmological framework within which night journeys, spirit contact, and witch beliefs were embedded.",
+
+  "scholarly_significance": "Pócs's work is the foundational comparative study of East Central European folk witch beliefs and the most systematic attempt to extend Ginzburg's framework to material outside the Italian and German contexts Ginzburg primarily analyzed. Its contribution is both empirical (the Hungarian and Balkan material) and analytical (the folk-cosmology framework for understanding witch beliefs as part of a coherent system of thought about living-dead relations rather than as isolated superstitions).\n\n  Hutton's The Witch (2017) engages extensively with Pócs's analysis, using her Hungarian and Balkan material alongside Ginzburg's Italian material to argue for the widespread distribution of ecstatic-tradition practices across Europe. The Blåkulla mass trials in Sweden (1668-76) and their testimony about night journeys to the witches' sabbath location have been read by Pócs as evidence of the northern extension of the same folk cosmological framework she documents in the south.",
+
+  "key_arguments": [
+    {
+      "concept": "Folk cosmology of living-dead relations",
+      "claim": "Early modern folk witch beliefs were organized around a coherent cosmological framework about relations between living and dead — the witch's danger derived from her liminal position between the two domains, which gave her access to both the resources of the living world and the threatening powers of the dead."
+    },
+    {
+      "concept": "Seer-healer as mediator",
+      "claim": "The seer-healer (látó in Hungarian) who could communicate with the dead and identify witchcraft was the positive counterpart to the dangerous witch — both figures operated at the boundary between living and dead, but the seer-healer used that position for community benefit while the witch used it for harm."
+    },
+    {
+      "concept": "Eastern European tradition extending Ginzburg",
+      "claim": "The Hungarian and Balkan material confirms and extends Ginzburg's ecstatic tradition thesis: the night-journey, spirit-contact, and living-dead-boundary practices documented in Italy and Germany are attested across a much wider geographic area, suggesting a coherent tradition distributed across most of Europe."
+    }
+  ],
+
+  "relation_to_database": "Pócs's analysis is relevant to the healer_practitioner entries for the benandanti and similar figures, and to the followers-of-the-lady-night-ride and witches-sabbath-collective demonological concept entries. Her work represents the Eastern European contribution to the Ginzburgian tradition.",
+
+  "scholarly_disagreement": "The degree to which Pócs's folk-cosmology framework represents genuine historical evidence of a coherent belief system versus an analytical construct imposed on disparate material is contested. Her use of twentieth-century ethnographic material to interpret sixteenth- and seventeenth-century prosecution records raises the methodological question of anachronism that also applies to Ginzburg's comparable methodology.",
+
+  "source_method": "Published text, Central European University Press, Budapest, 1999 (English translation); primary sources: Hungarian and Balkan witch trial records; twentieth-century ethnographic material",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "witchcraft-act-repeal-1736",
+  "event_name": "English and Scottish Witchcraft Acts repealed",
+  "event_type": "institutional_event",
+  "date": "1736",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Westminster, London",
+  "location_slug": null,
+  "significance": "The Witchcraft Act of 1736 (9 George II c. 5) repealed both the Elizabethan English Witchcraft Act of 1604 and the Scottish Witchcraft Act of 1563, replacing capital prosecution with misdemeanor penalties for anyone claiming to practice witchcraft — criminalizing the pretense rather than the practice. This legislative act marks the formal end of the witch-trial era in Britain and represents the Enlightenment consensus that witchcraft was delusion rather than diabolic crime.",
+  "related_entities": [
+    "witch-trial-skepticism",
+    "scottish-privy-council-commissions",
+    "english-home-circuit-assizes"
+  ],
+  "source_method": "Statutes of the Realm; analyzed in Thomas, Religion and the Decline of Magic (1971); Bostridge, Witchcraft and Its Transformations (1997)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

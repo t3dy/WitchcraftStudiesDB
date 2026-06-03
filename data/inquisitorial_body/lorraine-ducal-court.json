@@ -1,0 +1,42 @@
+{
+  "id": "lorraine-ducal-court",
+  "name": "Lorraine Ducal Courts",
+  "formal_name": "Ducal criminal courts of the Duchy of Lorraine — preté, bailliage, and seigneurial jurisdictions",
+  "institutional_type": "secular_tribunal",
+  "founded": null,
+  "dissolved": "1766",
+
+  "jurisdiction_description": "The Duchy of Lorraine was a sovereign duchy on the eastern border of France that, throughout the sixteenth and seventeenth centuries, maintained its own legal system independent of French royal jurisdiction. Crucially for witch prosecution, Lorraine was outside the jurisdictional territory of the Parlement of Paris — the French appellate court whose systematic review of capital witch convictions substantially restrained French prosecution rates. Lorraine's ducal courts operated through a tiered structure: seigneurial courts at the local level, bailliage courts at the regional level, and a Conseil Souverain (sovereign council) at Lorraine's capital. The absence of automatic Parlement-style review meant that local and regional courts could conduct and execute prosecutions without the centralized judicial oversight that restrained prosecution elsewhere in France.\n\n  Nicolas Rémy, the Attorney-General of Lorraine, presided over approximately 900 witch executions between 1576 and 1606 in his prosecution capacity and published his systematic demonological account Demonolatry (1595) based on the cases he had processed. Lorraine's prosecution density — Robin Briggs estimates approximately 3,000 accusations and substantial executions over the late sixteenth and early seventeenth centuries — makes it one of the most intensive prosecution zones in Europe.",
+
+  "jurisdiction_territories": ["lorraine"],
+
+  "procedural_features": {
+    "torture_policy": "Torture was routinely used in Lorraine witch prosecutions. The ducal courts operated under procedures that, unlike the Parlement of Paris's oversight, did not systematically scrutinize the voluntariness of confessions or the regularity of torture procedure.",
+    "evidence_standards": "Witch's mark evidence, confession under torture, and denunciation by co-accused were the standard evidence bases. The absence of Parlement review meant that local courts were the final arbiters of these standards.",
+    "confession_policy": "Confession was standard; cascade denunciation (each accused required to name accomplices at the sabbath) appears in the Lorraine records and in Rémy's Demonolatry, though not at the extreme Bamberg scale.",
+    "appeal_mechanism": "The Conseil Souverain provided internal review but was not subject to external oversight from Paris. Its review was less systematic and less skeptical than Parlement review."
+  },
+
+  "role_in_witch_trials": "The Lorraine ducal courts are the primary institutional vehicle for one of Europe's most sustained regional witch prosecutions, running from the 1560s through the 1630s with peak intensity in Rémy's tenure. Briggs's Witches and Neighbours (1996) — based on systematic analysis of surviving Lorraine trial records — provides the most detailed scholarly study of any continental European jurisdiction and documents the social dynamics of accusation in a prosecution zone without Parlement oversight.",
+
+  "witch_trial_involvement_level": "high",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "The Lorraine ducal court system is Robin Briggs's primary research site and the evidential basis for Witches and Neighbours (1996), the most detailed analysis of any Continental European witch-prosecution jurisdiction. Briggs's findings — that Lorraine prosecution followed complex community dynamics of accusation that did not fit neatly into either the charity-refusal model (Thomas, Macfarlane) or the simple misogyny model — have substantially complicated the theoretical frameworks developed from English evidence.\n\n  The contrast between Lorraine (outside Parlement jurisdiction, high execution rate) and northern France (under Parlement jurisdiction, lower execution rate) provides comparative evidence for Levack's institutional analysis: comparable cultural and demonological context, different institutional structure, different outcomes. The Lorraine case is the primary Continental European evidence for the Parlement's moderating effect.",
+
+  "scholarly_disagreement": "Briggs's Lorraine study found more varied accusation dynamics than simpler models predicted, including significant numbers of male accused (higher proportion than the English pattern), accusations arising from diverse social conflicts beyond charity-refusal dynamics, and community-level variation that resists single-factor explanation. Whether these Lorraine-specific findings represent departures from a general European pattern or reveal the inadequacy of the simpler models is debated.",
+
+  "source_method": "Lorraine ducal court records (Archives Départementales de Meurthe-et-Moselle); analyzed in Briggs, Witches and Neighbours (1996); Rémy, Demonolatry (1595); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

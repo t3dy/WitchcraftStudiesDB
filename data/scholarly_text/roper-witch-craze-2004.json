@@ -1,0 +1,45 @@
+{
+  "id": "roper-witch-craze-2004",
+  "title": "Witch Craze: Terror and Fantasy in Baroque Germany",
+  "author": "Lyndal Roper",
+  "author_slug": "roper-lyndal-b1956",
+  "year_published": 2004,
+  "original_year": 2004,
+  "original_title": "Witch Craze: Terror and Fantasy in Baroque Germany",
+  "original_language": "English",
+  "original_publisher": "Yale University Press, New Haven",
+  "publisher": "Yale University Press (2004); Profile Books UK (2004)",
+  "text_type": "monograph",
+
+  "subject_focus": "Psychoanalytic and social-cultural analysis of German witch persecution, focusing on Augsburg and Bavarian records to argue that prosecution expressed deep psychological fantasies about maternal malevolence, old age, and bodily dissolution.",
+
+  "summary": "Roper's Witch Craze applies psychoanalytic frameworks to the history of German witch prosecution, drawing primarily on Augsburg city records and Bavarian episcopal court materials. Where Briggs and Levack focus on social dynamics and institutional structures, Roper foregrounds the psychological dimensions of both prosecution and accused's confession: what fantasies did witch accusation express about maternal power, bodily invasion, infant death, and the threat posed by old women to young mothers and their children? Roper reads the confessions not as evidence of actual practice or purely as inquisitorial constructions but as documents of a shared psychological landscape — fantasies of harm that both accusers and accused inhabited. Her analysis gives particular attention to accused women's own investments in their confessions: why did women confess in detail to crimes they had not committed, and what psychological needs might those confessions have served?",
+
+  "scholarly_significance": "Roper's book is the major psychoanalytic contribution to witch-trial historiography and the most sustained application of Kleinian and Lacanian frameworks to prosecution evidence. Its significance is primarily methodological: Roper demonstrates that psychological analysis can yield genuine historical insight into the emotional dynamics of prosecution without reducing those dynamics to pathology or false consciousness. The book's focus on the German material — Augsburg and Bavaria — provides a regional case study that complements Midelfort's structural analysis and Behringer's quantitative work with a phenomenological account of what prosecution meant to participants.\n\n  Hutton engages with Roper's psychoanalytic methodology in The Witch (2017), expressing skepticism about the applicability of modern psychological categories to early modern subjects while acknowledging the genuine insight Roper's approach yields about the emotional registers of accusation. Clark's intellectual history approach and Roper's psychoanalytic approach are complementary rather than contradictory: Clark analyzes the formal demonological system, Roper analyzes the emotional investments that made the system compelling. The book is essential reading for understanding why witch prosecution was not merely an institutional phenomenon but a psychological one.",
+
+  "key_arguments": [
+    {
+      "concept": "Maternal malevolence as prosecution fantasy",
+      "claim": "German witch prosecution expressed a deep cultural fantasy about the malevolent mother — the old woman whose nourishing function had turned to harm, whose milk had become poison, whose care for the young had become infanticidal — that gave the prosecution its emotional energy independent of theological or institutional drivers."
+    },
+    {
+      "concept": "Confessing accused's own investments",
+      "claim": "Accused women who confessed in detail to crimes they had not committed were not purely coerced victims of torture but participants who found in the confession framework a way to express genuine psychological experiences of guilt, aggression, and social resentment that had no other legitimate outlet."
+    },
+    {
+      "concept": "Body as prosecution terrain",
+      "claim": "The prosecution's focus on bodily evidence (witch's mark, flight, sabbath orgies, infanticide) reflects a broader cultural anxiety about the boundaries of the bodily self and the vulnerability of the body to invasion from outside — anxieties heightened by early modern demographics of high infant mortality and maternal death."
+    }
+  ],
+
+  "relation_to_database": "Roper's analysis is relevant to the elderly-women-accused and children-accused-of-witchcraft persecuted group entries, the torture-confession-dynamic concept entry, and as a methodological counterpart to Clark's intellectual-history approach.",
+
+  "scholarly_disagreement": "Roper's psychoanalytic methodology has been criticized by historians who question the applicability of modern psychological frameworks to early modern subjects and by those who see her approach as insufficiently attentive to the structural and institutional factors that shaped prosecution. Ginzburg's more text-centered microhistorical approach and Roper's psychoanalytic approach share some methodological territory but differ substantially in their treatment of testimony.",
+
+  "source_method": "Published text, Yale University Press 2004; primary sources: Augsburg Stadtarchiv, Bavarian episcopal records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

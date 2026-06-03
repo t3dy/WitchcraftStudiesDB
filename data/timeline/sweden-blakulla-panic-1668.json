@@ -1,0 +1,25 @@
+{
+  "id": "sweden-blakulla-panic-1668",
+  "event_name": "Swedish Blåkulla witch panic begins",
+  "event_type": "trial_event",
+  "date": "1668",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Dalarna, Sweden; spreads nationally",
+  "location_slug": null,
+  "significance": "The Swedish witch panic of 1668-1676 — centered on children's testimony that they had been taken to Blåkulla (the diabolical paradise) by adult witches — produced approximately 280 executions and remains the largest Scandinavian witch hunt. Children's testimony was the primary evidential vehicle, making this the clearest case study for the analysis of child witness dynamics in early modern witch prosecution.",
+  "related_entities": [
+    "witches-sabbath-collective",
+    "children-accused-of-witchcraft",
+    "torture-confession-dynamic"
+  ],
+  "source_method": "Swedish state records; analyzed in Ankarloo, in Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

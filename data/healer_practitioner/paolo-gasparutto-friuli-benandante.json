@@ -1,0 +1,70 @@
+{
+  "id": "paolo-gasparutto-friuli-benandante",
+  "name": "Paolo Gasparutto",
+  "status": "Abjured",
+  "trial_id": "friuli-benandanti-1575-inquisition",
+  "location_id": "friuli",
+  "year_interrogated": 1575,
+  "age_at_trial": 28,
+  "social_status": "Agricultural laborer, Ipplis (Friuli); married with children; peasant community",
+  "gender": "Male",
+
+  "self_identification": "Benandante — one who 'goes well' or 'goes for good'; night-traveler who fought witches on behalf of the community's grain harvest",
+  "claimed_abilities": [
+    "Night travel in spirit (leaving the body during the Ember Days of the agricultural calendar)",
+    "Combat against witches in spirit-battles to protect the harvest",
+    "Knowledge of who in the community was a witch",
+    "Healing of those afflicted by witchcraft"
+  ],
+
+  "biography": "Paolo Gasparutto of Ipplis in Friuli is, alongside Battista Moduco, the first benandante documented in the judicial record — the two men whose interrogation by the Udine Inquisition in 1575 initiated the sequence of trials that Ginzburg analyzed in The Night Battles (1966/1983). Gasparutto was 28 years old and working as a laborer and sometime healer when he came to the Inquisition's attention through a priest who reported that he had claimed to go at night to fight witches in defense of the harvests and that he had been 'led there by a spirit.' His interrogation in 1575 is the founding document of the benandanti tradition in the historical record: before it, the tradition is inferred rather than documented; after it, it is traceable through decades of subsequent cases.\n\n  Gasparutto described his night-travels in terms specific and concrete: on the Ember Days (the quarterly fasts observed by the Church), his spirit left his body while he lay in a trance and traveled to specific locations — fields, crossroads, open country — where the benandanti assembled in bands to fight against witches and warlocks (malandanti) who threatened the harvest. The benandanti fought with fennel stalks; the witches fought with sorghum stalks. Victory for the benandanti meant a good harvest; defeat meant drought, failed crops, and famine. Gasparutto also described healing activities: people afflicted by witchcraft came to him for diagnosis and treatment, which he performed through knowledge gained in his spirit-travels.\n\n  The Inquisition's response was initially baffled rather than immediately prosecutorial. The inquisitor conducting the 1575 interrogation did not know what to make of what Gasparutto was describing — it did not conform to any known heretical template — and the proceedings were inconclusive. Gasparutto was not severely punished in 1575. He was summoned again in 1580 and the pressure toward a diabolical reframing of his activities intensified; subsequent generations of Friulian benandanti, interrogated later in the seventeenth century, produced increasingly sabbat-conforming confessions as the inquisitorial framework became more insistent.",
+
+  "interrogation_narrative": {
+    "circumstances": "Inquisitorial court, Udine; initial interrogation 1575, second interrogation 1580",
+    "gasparutto_initial_claim": "I am a benandante; God compels me to go; I fight for the faith and for the Christian community; the harvest depends on our battles",
+    "interrogator_response": "Initial confusion — no template for this testimony; subsequent attempts to reframe as diabolical sabbat attendance; asking whether a 'captain' who led the benandanti was the devil",
+    "gasparutto_adaptation": "Resisted diabolical reframing in 1575; in 1580 showed more accommodation to inquisitorial categories while maintaining the core benandante framework"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Spirit-travel during Ember Days; battle against witches with fennel stalks; healing activities; knowledge of witches in the community",
+    "under_interrogation_pressure": "The 'captain' who led the benandanti began to acquire some characteristics of a supernatural leader under interrogation pressure, but Gasparutto did not confess to diabolical pact or sabbath attendance in the conventional sense",
+    "final_confession": "Abjuration of his claimed activities as heretical; no execution; subsequent proceedings uncertain"
+  },
+
+  "microhistorical_significance": "Gasparutto's testimony is the primary evidence for what the benandanti tradition looked like before inquisitorial pressure had substantially altered its contours. His insistence on the fertility-protecting function of the spirit-battles, the collective and organized character of the benandanti's activity, and the adversarial relationship with witches (rather than identity with them) represent the most clearly documented form of what Ginzburg argued was a pre-demonological shamanic tradition. The contrast between Gasparutto's 1575 testimony and the increasingly sabbat-conforming testimonies of later benandanti provides the central evidence for Ginzburg's argument about inquisitorial assimilation of the folk tradition.",
+
+  "actor_vs_analyst_terminology": {
+    "gasparutto_language": [
+      "Benandante (one who goes well/goes for good)",
+      "Night-travels during Ember Days",
+      "Battle against witches (malandanti) for the harvest",
+      "Spirit-travel (the body left behind in trance)"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Attendant at diabolical sabbat",
+      "Heretic"
+    ]
+  },
+
+  "practical_activities": "Healing of those afflicted by witchcraft; identification of witches in the community; protection of the harvest through spirit-battles. Gasparutto appears to have served a genuine community function as healer and diagnostician, part of the broader Italian tradition of service magic that Gentilcore analyzes in Healers and Healing in Early Modern Italy.",
+
+  "interrogation_outcome": "Abjuration of claimed activities; not executed; subsequent record uncertain.",
+
+  "historiographical_significance": "Gasparutto's interrogation is the foundational document for Ginzburg's Night Battles (1966/1983), which transformed the historiography of European witchcraft by arguing that the benandanti represented a pre-demonological shamanic tradition that the Inquisition progressively assimilated into the sabbath stereotype. Hutton in The Witch (2017) engages critically with Ginzburg's interpretation, accepting the evidence of the Friulian trials while questioning how far the benandante tradition can be generalized to establish a pan-European shamanic substratum.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Udine Inquisition records (1575 and 1580 interrogation transcripts); published and analyzed in Ginzburg, The Night Battles (1983); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Ginzburg reads Gasparutto's testimony as evidence for a genuine pre-demonological shamanic tradition (the benandanti as authentic agricultural cult practitioners); Hutton accepts the evidence while questioning how far the tradition can be generalized beyond Friuli; skeptical scholars argue that even Gasparutto's 1575 testimony is too heavily mediated through inquisitorial questioning to recover uncontaminated popular belief.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

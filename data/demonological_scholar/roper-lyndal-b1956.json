@@ -1,0 +1,99 @@
+{
+  "id": "roper-lyndal-b1956",
+  "name": "Lyndal Roper",
+  "birth_year": 1956,
+  "death_year": null,
+  "birth_place": "Australia",
+  "academic_discipline": "History; Cultural History; History of Gender",
+  "primary_institution": "University of Oxford (Regius Professor of History)",
+  "specialization": "German Reformation history; German witch prosecution; psychoanalytic approaches to historical evidence; Augsburg and Bavarian records",
+
+  "major_works": [
+    {
+      "title": "The Holy Household: Women and Morals in Reformation Augsburg",
+      "year": 1989,
+      "publisher": "Clarendon Press, Oxford",
+      "significance": "Foundational study of gender, household, and moral discipline in Reformation Augsburg; established Roper's approach to the relationship between religious reform and gender norms",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Oedipus and the Devil: Witchcraft, Sexuality and Religion in Early Modern Europe",
+      "year": 1994,
+      "publisher": "Routledge, London",
+      "significance": "Collection of essays developing a psychoanalytic approach to early modern religious and magical history; introduced the concept of 'body fantasies' in witch prosecution",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Witch Craze: Terror and Fantasy in Baroque Germany",
+      "year": 2004,
+      "publisher": "Yale University Press",
+      "significance": "Full application of psychoanalytic methodology to German witch prosecution, arguing that prosecution expressed deep cultural fantasies about maternal malevolence and bodily dissolution",
+      "pages": null,
+      "database_entry": "roper-witch-craze-2004"
+    }
+  ],
+
+  "historiographical_position": "PSYCHOANALYTIC CULTURAL HISTORIAN",
+
+  "core_argument": "Roper's central contribution is the psychoanalytic dimension of witch prosecution history: where structural historians analyze the institutional conditions enabling prosecution and intellectual historians analyze the demonological framework, Roper asks what psychological needs prosecution served — what fantasies about the body, sexuality, old age, and maternal power it expressed and gave form to. Her analysis of the Augsburg witch trials identifies the persecution of old women as expressing deep cultural anxieties about the destructive potential of maternal figures — the inverted nurturing mother who poisons rather than nourishes, who kills infants rather than feeding them. The witch's body in Roper's analysis is a screen onto which cultural anxieties about fertility, sexuality, and bodily dissolution were projected.",
+
+  "methodological_approach": {
+    "primary_materials": "Augsburg Stadtarchiv; Bavarian episcopal court records; Augsburg Reformation sources",
+    "analysis_target": "The psychological dynamics of witch accusation and confession; the emotional investments of accusers, accused, and authorities; the fantasy content of trial testimony",
+    "evidence_type": "Trial depositions and confessions read for their psychological content; Reformation pastoral records; visual imagery of witches",
+    "explanatory_level": "Cultural psychology: Roper traces the emotional and psychological registers that gave witch prosecution its specific shape and intensity in particular cultural contexts"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Maternal malevolence as prosecution fantasy",
+      "claim": "German witch prosecution expressed cultural anxiety about the destructive potential of maternal figures — the old woman whose nourishing function had inverted — giving the prosecution its distinctive focus on elderly women as paradigmatic suspects.",
+      "implication": "The demographic pattern of elderly female prosecution is not merely a social or economic phenomenon but reflects deep cultural psychology about gendered aging and the threat of inverted maternal power."
+    },
+    {
+      "concept": "Confession as psychological document",
+      "claim": "Witch confessions, while shaped by prosecution procedure, also expressed genuine psychological content — guilt, aggression, resentment — that the accused women invested in the confessional framework regardless of its coercive origin.",
+      "implication": "The accused's confessions cannot be dismissed entirely as inquisitorial construction; they represent a kind of performative self-attribution that had psychological logic for the accused person as well as prosecutorial utility."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Roper's work is based on systematic archival research in Augsburg city and episcopal records, providing the empirical foundation for her theoretical claims.",
+    "visual_sources": "Roper pays unusual attention to visual imagery of witches (woodcuts, engravings) as evidence of cultural fantasy about the witch's body — a methodological extension beyond the trial-record base of most witch-trial scholarship."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Ginzburg (shared interest in reading beyond the surface of prosecution records to recover experiential dimensions)",
+      "Feminist historians (shared attention to gender dynamics though Roper's psychoanalytic approach is distinct from sociological feminism)"
+    ],
+    "creative_tension_with": [
+      "Clark (intellectual-history approach and psychoanalytic approach are methodologically incompatible)",
+      "Hutton (skeptical of applying modern psychological categories to early modern subjects)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Roper's psychoanalytic analysis is relevant to the elderly-women-accused and children-accused-of-witchcraft persecuted group entries, and provides a methodological counterpart to Clark's intellectual-history approach in the demonological concept entries.",
+    "analytical_weight": "Roper provides the psychological dimension that institutional and intellectual analyses leave implicit — why prosecution was emotionally compelling, not merely doctrinally authorized."
+  },
+
+  "historiographical_significance": "Roper's Witch Craze (2004) is the most sustained psychoanalytic engagement with witch-trial evidence and the most developed application of cultural psychology to the prosecution phenomenon. Its reception has been divided: historians sympathetic to cultural psychology find it illuminating; historians committed to social or institutional analysis question whether the psychoanalytic framework is anachronistic and whether the sources can bear the interpretive weight placed on them. The book's significance is as a methodological intervention: it demonstrated that psychological analysis could yield historical insight while raising unresolved questions about the applicability of modern psychological categories to early modern subjects.",
+
+  "scholarly_disagreement": "The applicability of Kleinian and Lacanian frameworks to early modern historical subjects is contested. Hutton in The Witch (2017) accepts Roper's empirical findings about Augsburg prosecution while expressing skepticism about the psychoanalytic interpretive framework. Methodological historians have questioned whether the trial records can be read for psychological content in the way Roper proposes.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Primary works: Witch Craze (2004); Oedipus and the Devil (1994); The Holy Household (1989); Augsburg Stadtarchiv; Bavarian episcopal records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

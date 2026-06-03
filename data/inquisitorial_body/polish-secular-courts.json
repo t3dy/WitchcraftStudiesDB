@@ -1,0 +1,42 @@
+{
+  "id": "polish-secular-courts",
+  "name": "Polish Secular Courts",
+  "formal_name": "Sąd grodzki (castle court) and Sąd ziemski (land court) — Kingdom of Poland and Polish-Lithuanian Commonwealth",
+  "institutional_type": "secular_tribunal",
+  "founded": "Medieval",
+  "dissolved": "1795",
+
+  "jurisdiction_description": "Witch prosecution in Poland and the Polish-Lithuanian Commonwealth proceeded through the Polish secular court system — castle courts (sądy grodzkie) at the local level and land courts (sądy ziemskie) at the regional level — rather than through any ecclesiastical inquisition. Poland had no formal inquisition and no episcopal secular court system comparable to the German bishoprics. The Polish Catholic Church opposed lay witchcraft prosecution, and the secular courts that handled most witch cases operated independently of ecclesiastical oversight. This institutional configuration produced a distinct prosecution pattern: relatively late development of mass prosecution (peak in the seventeenth and early eighteenth centuries), high per-capita execution rates in some regions, and a prosecutorial dynamic driven primarily by community accusations rather than institutional promotion.\n\n  Poland's witch prosecution is one of the least studied in Western scholarship, partly due to language barriers and partly due to the archive destruction of the twentieth century. Recent Polish scholarship has substantially revised earlier estimates upward, suggesting that the Polish-Lithuanian Commonwealth may have had execution rates comparable to or exceeding some German jurisdictions during its late peak period.",
+
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "Polish secular courts used torture extensively in witch prosecutions, without the procedural constraints that characterized the Roman and Spanish Inquisitions. The absence of strong institutional oversight meant that torture in local witch prosecutions was relatively unregulated.",
+    "evidence_standards": "Polish courts applied a mix of Roman law procedures and local custom; the crimen exceptum doctrine was applied in practice if not always formally, allowing torture and cascade denunciation similar to German episcopal patterns.",
+    "confession_policy": "Confession under torture was central to Polish prosecution; denounced accomplices were routinely arrested and subjected to the same procedure, enabling cascade dynamics similar to the German superhunts.",
+    "appeal_mechanism": "Limited effective appellate oversight; the Polish nobility's legal privileges (szlachta) provided some protection for high-status accused but offered no systematic constraint on commoner prosecution."
+  },
+
+  "role_in_witch_trials": "Polish secular courts were the primary prosecutorial mechanism for one of the later and more intense witch prosecution waves in Europe, with the peak occurring in the seventeenth and early eighteenth centuries after the main German, Scottish, and Swedish episodes had ended. The Polish prosecution is significant in the comparative historiography as evidence that witch prosecution could persist and intensify in some regional contexts long after the major western European waves had subsided.",
+
+  "witch_trial_involvement_level": "high",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "Polish witch prosecution has been analyzed by Bohdan Baranowski (nineteenth-century foundational work) and more recently by Michael Ostling, whose Between the Devil and the Host (2011) provides the most comprehensive English-language analysis of Polish witch beliefs and prosecution. Levack's comparative synthesis incorporates Polish data but acknowledges the limitations of the available evidence. The Polish material is significant for demonstrating that late and intense witch prosecution could occur in a secular court context without an episcopal superhunt dynamic — a finding that complicates the institutional enabling conditions model.",
+
+  "scholarly_disagreement": "Polish execution estimates are highly uncertain due to archive losses (World War II destruction of Polish archives was severe) and the limited penetration of Polish-language scholarship into Western comparative historiography. The degree to which Polish prosecution shared the community-accusation dynamics of western European prosecution versus having its own distinct character is not fully resolved.",
+
+  "source_method": "Polish castle and land court records (scattered; many destroyed); analyzed in Ostling, Between the Devil and the Host (2011); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-2006",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

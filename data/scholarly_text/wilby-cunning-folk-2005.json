@@ -1,0 +1,45 @@
+{
+  "id": "wilby-cunning-folk-2005",
+  "title": "Cunning Folk and Familiar Spirits: Shamanistic Visionary Traditions in Early Modern British Witchcraft and Magic",
+  "author": "Emma Wilby",
+  "author_slug": "wilby-emma-b1968",
+  "year_published": 2005,
+  "original_year": 2005,
+  "original_title": "Cunning Folk and Familiar Spirits",
+  "original_language": "English",
+  "original_publisher": "Sussex Academic Press, Brighton",
+  "publisher": "Sussex Academic Press (2005)",
+  "text_type": "monograph",
+
+  "subject_focus": "Analysis of English cunning folk and witch trial testimony through a shamanistic framework, arguing that familiar-spirit traditions reflect genuine popular spirit-belief practices analogous to Ginzburg's benandante material.",
+
+  "summary": "Wilby's Cunning Folk and Familiar Spirits is the English-language contribution to the Ginzburgian project of reading through witch trial confessions to recover evidence of popular spirit-belief traditions. Wilby argues that the familiar spirits described by English cunning folk and accused witches — named, individuated, and maintained through a relationship analogous to an apprentice-master bond — were not purely inquisitorial projections but reflected genuine popular traditions of spirit contact practiced by a recognizable social type (the visionary poor). Drawing on English pamphlet literature, trial records, and comparative anthropological material, Wilby constructs a picture of early modern English spirit-belief that incorporates shamanistic elements (soul-flight, trance, spirit helpers, otherworld journey) that the prosecution framework translated into the diabolical familiar tradition. The book is explicitly positioned as the English parallel to Ginzburg's Italian benandante work and is the most sustained attempt to apply Ginzburg's methodology to English material.",
+
+  "scholarly_significance": "Wilby's book is the most important direct application of Ginzburg's Night Battles methodology to English material. Its significance in the historiography is threefold. First, it provides a systematic reading of the English familiar tradition — previously analyzed primarily through Macfarlane's sociological lens as a community-accusation mechanism — as evidence of substantive popular spirit belief rather than purely functional accusation rhetoric. Second, it establishes a comparative framework between English cunning folk and Ginzburg's benandanti, arguing that both reflect a broader Northern and Western European tradition of spirit-helper relationships. Third, it opens the question of how shamanistic elements persisted in early modern English popular culture despite the lack of formal institutionalization comparable to the Friulian benandanti.\n\n  The book's reception reflects a broader historiographical debate about the evidential use of trial confessions. Hutton engages with Wilby's argument in The Witch (2017), accepting elements of her spirit-belief reconstruction while questioning some of the methodological leaps involved in reading through prosecution-shaped testimony to recover underlying popular practice. Wilby's approach is most convincing for the cunning folk material (where the accused persons' descriptions of their practice are less heavily shaped by prosecution pressure) and most contestable for the witch-trial testimony (where the familiar-spirit descriptions are embedded in adversarial proceedings).",
+
+  "key_arguments": [
+    {
+      "concept": "Familiar spirits as genuine popular tradition",
+      "claim": "The named, individuated familiar spirits described by English cunning folk and accused witches reflect genuine popular beliefs in spirit helpers, not purely prosecutorial construction — they are the English equivalent of Ginzburg's benandante helping spirits."
+    },
+    {
+      "concept": "Shamanistic substrate in English popular culture",
+      "claim": "Early modern English popular culture contained shamanistic elements — soul-flight, trance, otherworld journey, spirit communication — that the prosecution framework encoded as diabolical familiar relationships without eliminating their substantive content."
+    },
+    {
+      "concept": "The visionary poor as social type",
+      "claim": "Spirit-contact traditions were particularly associated with a specific social type — the marginally poor, often female, with a history of visionary experience — whose social position made both the spirit-belief and the prosecution vulnerability structurally coherent."
+    }
+  ],
+
+  "relation_to_database": "Wilby's analysis is cited in the animal-familiar-english demonological concept entry and the cunning-folk-wise-women persecuted group entry. Her methodology is the English-language parallel to Ginzburg's framework applied in the healer_practitioner entries for the benandanti.",
+
+  "scholarly_disagreement": "Hutton accepts Wilby's spirit-belief argument for the cunning folk material but questions some extrapolations to the witch trial testimony, where prosecution shaping is more evident. The degree to which the familiar-spirit tradition was a coherent folk practice versus a culturally available script that accusers and accused drew on for different purposes is unresolved.",
+
+  "source_method": "Published text, Sussex Academic Press 2005; primary sources: English pamphlet literature and assize records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

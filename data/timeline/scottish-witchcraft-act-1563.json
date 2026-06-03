@@ -1,0 +1,24 @@
+{
+  "id": "scottish-witchcraft-act-1563",
+  "event_name": "Scottish Witchcraft Act enacted",
+  "event_type": "institutional_event",
+  "date": "1563",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Edinburgh, Scotland",
+  "location_slug": "north-berwick",
+  "significance": "The Scottish Witchcraft Act of 1563 (passed during the regency of Mary of Guise) made both witchcraft and consultation of witches capital crimes, providing the statutory basis for all subsequent Scottish witch prosecution. The Act remained in force until the Witchcraft Act of 1736 and was the legal foundation for the Scottish Privy Council's commission system, which delegated authority to local commissioners to try accused witches.",
+  "related_entities": [
+    "scottish-privy-council-commissions",
+    "demonic-pact-early-modern"
+  ],
+  "source_method": "Acts of the Parliament of Scotland (1563); analyzed in Larner, Enemies of God (1981); Goodare (ed.), The Scottish Witch-Hunt in Context (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "alice-kyteler-kilkenny-1324",
+  "name": "Alice, Lady Kyteler",
+  "trial_id": "kilkenny-kyteler-trial-1324",
+  "location_id": "kilkenny",
+  "year_accused": 1324,
+  "year_executed": null,
+  "survived": true,
+  "gender": "Female",
+  "social_status": "Anglo-Norman noblewoman; wealthy moneylender; leading figure in Kilkenny's English settler community",
+
+  "biography": "Alice, Lady Kyteler, was a wealthy Anglo-Norman moneylender and leading figure in Kilkenny's English settler community in the early fourteenth century — the central defendant in the trial of twelve people that produced Ireland's first heresy execution and one of the earliest fully documented composite witchcraft prosecutions in European history. The prosecution arose, according to Hutton and the surviving chronicle account, from a family feud among English settlers: Alice's stepsons — children of her previous husbands — alleged that she had murdered three of their fathers by poison and sorcery, and that she was currently ruining the health of her fourth husband, Sir John le Poer, by similar means. The charges compiled against Alice and her accomplices constituted a remarkable assemblage of elements that would later become central to the composite witch stereotype: nocturnal sacrifices of cocks to a demon named Robert, son of Art; the preparation of magical potions from herbs boiled in the skull of a decapitated criminal; sexual relations with a demon; and membership in a heretical sect that renounced Christian faith.",
+
+  "charges_and_confession": "The charges were brought by Richard de Ledrede, the energetic Franciscan bishop of Ossory, who had recently arrived from Avignon and appears to have introduced the Continental heresy-inquisition framework into the Irish proceedings. Alice herself never confessed — she escaped to England before conviction, almost certainly with the assistance of powerful secular patrons. The prosecution succeeded in its lethal objective through her servant and associate Petronilla of Meath, who was tortured, confessed, and burned — the first person in Ireland executed for heresy. Alice's flight effectively ended the prosecution of the principals.",
+
+  "scholarly_analysis": {
+    "hutton_perspective": "Hutton situates the Kyteler case within his account of the late medieval emergence of composite witchcraft charges. He emphasizes that the charges arose from a family property dispute — a social mechanism that would later become central to Thomas's and Macfarlane's sociological analysis of witchcraft prosecution — but that the theological framework of heresy and diabolism, imported by de Ledrede from Avignon, transformed what might otherwise have been a straightforward poison trial into an accusation of satanic conspiracy.",
+    "clark_perspective": "Clark would situate de Ledrede's prosecution within the broader history of the institutionalization of the demonological stereotype in ecclesiastical courts — a French-trained inquisitor imposing Continental heresy categories onto an Irish property dispute. The Kyteler charges are early evidence of the demonological framework's capacity to absorb and amplify local social conflict.",
+    "ginzburg_perspective": "Ginzburg's framework would focus on the specific composite charges — the demonic familiar (Robert, son of Art), the nocturnal sacrifices, the magical potions — as evidence of the crystallization of the satanic conspiracy stereotype in a judicial proceeding fully a century before the Alpine trials conventionally identified as the origin zone."
+  },
+
+  "significance": "The Kyteler case is the earliest substantially documented composite witchcraft prosecution in the British Isles and one of the earliest in Europe. It predates the Alpine trials of 1427-1436 that are usually identified as the origin point of the composite stereotype by more than a century. Alice's escape and survival make her one of the very few defendants in a mass prosecution who successfully evaded execution through flight.",
+
+  "source_method": "Narrative chronicle (Narrative of the proceedings against Dame Alice Kyteler, attributed to contemporaries and edited by Thomas Wright, 1843); analyzed in Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe; Ankarloo and Clark (eds.), Witchcraft and Magic in Europe, Vol. 3 (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The degree to which the Kyteler prosecution represents the genuine emergence of the composite stereotype versus the idiosyncratic application of Avignon-trained demonological theory by a single zealous bishop is debated. Hutton emphasizes its place in the genealogy of the composite stereotype; others note that de Ledrede's intervention was exceptional within the Irish context and that no comparable prosecution followed in Ireland for centuries.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "flying-ointment",
+  "name": "The Flying Ointment",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Early Modern (c. 1440–1700)",
+  "primary_locale": "Central and Western Europe; particularly documented in German and Italian sources",
+
+  "scholarly_definition": "The flying ointment was a compound, described in numerous demonological sources and confessional testimonies, that witches supposedly prepared from human fat (typically from murdered children or exhumed corpses), mixed with various herbal ingredients, and applied to their bodies or broomsticks before taking flight to the sabbath. The ointment concept appears in demonological literature from the mid-fifteenth century and serves a specific theological function: it addresses the logical problem of how witches could travel to remote sabbath locations — it explained the mechanism of flight without requiring the witch to be physically absent from bed (which was both observable and potentially falsifiable). Some demonologists argued the flight was entirely illusory and the ointment merely induced a hallucinatory dream of sabbath attendance; others maintained the flight was real.",
+
+  "intellectual_genealogy": {
+    "earliest_documentation": "The ointment concept appears in the earliest Alpine trials (1420s-1430s) and in Johannes Nider's Formicarius (c. 1437), though Nider is ambiguous about whether flight was real or illusory",
+    "theological_debate": "The canon Episcopi (c. 900) had established that women who believed they flew at night did so in illusion, not reality; the flying ointment concept navigated this by allowing that the sensation of flight was real (drug-induced experience) even if the body never left",
+    "pharmacological_interest": "From the sixteenth century, physicians and natural philosophers (including Giovanni Battista della Porta in Magia Naturalis, 1558) argued that the ointment was pharmacologically real — a preparation of psychoactive plants (belladonna, henbane, mandrake) whose alkaloids could produce hallucinatory experiences of flight and sabbath attendance",
+    "humanist_skepticism": "Humanist and medical skeptics from the sixteenth century used the pharmacological interpretation to explain witch confessions without diabolism: the accused had applied the ointment, experienced vivid drug-induced hallucinations of sabbath attendance, and subsequently reported these hallucinations as real"
+  },
+
+  "clark_intellectual_analysis": "Clark's framework situates the flying ointment within the broader demonological resolution of the canon Episcopi problem. If flight was impossible (as the canon Episcopi asserted) but witches confessed to sabbath attendance, the ointment provided a mechanism: either the devil transported the body physically (overriding natural law), or the devil induced vivid illusions of flight through the ointment's effects on the human sensorium. The second option was theologically preferred because it did not require miracles but required only that the devil, as a natural agent with superior knowledge of pharmacology, could produce effects that appeared supernatural to human observers.",
+
+  "hutton_social_analysis": "Hutton's treatment of the flying ointment in The Witch (2017) situates it within the broader question of how confessional testimony related to actual practice. Whether accused persons actually used hallucinogenic preparations — and if so, whether their confessions about sabbath attendance described drug-induced experiences — is irresolvable from the confessional record alone. The pharmacological interpretation was attractive to sixteenth-century skeptics and is still advanced by some modern scholars, but the evidence that accused persons actually used psychoactive preparations is essentially nil.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg in Ecstasies (1991) uses the flying ointment as part of his broader argument about the relationship between bodily dissociation, ecstatic experience, and the formation of the sabbath stereotype. He argues that the ointment-induced trance, as described in some confessions, preserves traces of actual ecstatic practices — shamanic or folk-magical — that the demonological framework of flight and sabbath subsequently overlaid. His interpretation requires taking the ointment descriptions as evidence for actual practices rather than purely as demonological invention, which is contested.",
+
+  "pharmacological_dimension": {
+    "modern_analysis": "The plants most commonly cited in ointment recipes (belladonna/deadly nightshade, henbane, mandrake, stramonium) contain tropane alkaloids (atropine, scopolamine, hyoscyamine) that are pharmacologically active and can produce hallucinations, sensations of flying, and erotic dreams when absorbed through the skin",
+    "historical_skeptics": "Giovanni Battista della Porta (Magia Naturalis, 1558), Johann Weyer (De Praestigiis Daemonum, 1563), and Andrés Laguna (Commentary on Dioscorides, 1555) all cited pharmacological explanations for witch flight confessions",
+    "scholarly_caution": "Modern historians are cautious about the pharmacological interpretation: the ointment recipes in surviving sources may be literary constructions rather than practical instructions; transdermal absorption of these compounds at effective doses is physiologically uncertain; and the confessional testimony connecting ointment use to specific experiences is too heavily shaped by inquisitorial questioning to be reliable"
+  },
+
+  "actor_perspective": {
+    "confessional_variety": "Some accused persons described ointment preparation and use in detail; others confessed to sabbath attendance without mentioning any ointment; some denied using ointment while confessing to flight. This variety suggests the ointment was not a consistent element of any actual practice but a variable element of the prosecutorial-confessional framework",
+    "recipe_sources": "Ointment 'recipes' appear in demonological treatises and humanist discussions; whether they derived from actual practice, from literary imagination, or from extracted confessional testimony is uncertain"
+  },
+
+  "historiographical_significance": "The flying ointment concept has attracted sustained scholarly attention as a potential link between pharmacology, ecstatic experience, and witch confessions. It sits at the intersection of the three main historiographical approaches: Clark's intellectual history (how demonologists solved the canon Episcopi problem through the ointment mechanism), Hutton's social history (what the ointment confessions might or might not tell us about actual practice), and Ginzburg's microhistory (the ointment as possible trace of real ecstatic traditions). The pharmacological dimension has attracted attention from outside the history discipline — from ethnobotanists and psychopharmacologists — though most historians are skeptical of the leap from pharmacological possibility to historical reality.",
+
+  "source_method": "Demonological treatises (Nider, Formicarius c. 1437; Porta, Magia Naturalis 1558; Weyer, De Praestigiis 1563); analyzed in Ginzburg, Ecstasies (1991); Hutton, The Witch (2017); Clark, Thinking with Demons (1997)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The pharmacological interpretation of the flying ointment — that accused persons actually used psychoactive preparations and that their confessions described drug-induced experiences — is attractive to some scholars but rejected by most historians of the witch trials as unsubstantiated from surviving evidence. Ginzburg's use of the ointment concept as evidence for ecstatic traditions is contested; Clark and Hutton do not accept the pharmacological interpretation as a primary explanation for confessional content.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

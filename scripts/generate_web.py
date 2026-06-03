@@ -317,6 +317,32 @@ p:last-child { margin-bottom: 0; }
 /* ── map placeholder ── */
 .map-container { background: var(--cream); border: 2px dashed var(--border); border-radius: var(--radius); padding: 60px 24px; text-align: center; color: var(--muted); font-style: italic; margin-bottom: 32px; }
 
+/* ── interactive map page ── */
+.map-page-layout { display: flex; gap: 0; align-items: flex-start; }
+#witch-map-wrap { flex: 1; min-width: 0; border: 2px solid var(--border); border-radius: var(--radius); overflow: hidden; background: #b8d4e8; position: relative; }
+#witch-map { display: block; width: 100%; height: auto; cursor: crosshair; }
+.map-land { fill: #e8dfc0; stroke: #b8a878; stroke-width: 0.8; }
+.map-loc { cursor: pointer; transition: r 0.15s; }
+.map-loc:hover .loc-circle { filter: brightness(1.2); }
+.loc-circle { transition: r 0.15s, opacity 0.15s; }
+.map-tooltip { pointer-events: none; }
+.map-tooltip rect { fill: rgba(26,18,8,0.88); rx: 4; }
+.map-tooltip text { font-family: Georgia, serif; font-size: 12px; fill: #f5deb3; }
+#loc-panel { width: 320px; min-width: 280px; flex-shrink: 0; background: var(--card-bg); border: 2px solid var(--border); border-radius: var(--radius); padding: 20px 22px; margin-left: 16px; display: none; position: sticky; top: 20px; max-height: 80vh; overflow-y: auto; }
+#loc-panel.visible { display: block; }
+#loc-panel h3 { font-size: 1.1rem; color: var(--accent2); margin-bottom: 4px; }
+#loc-panel .loc-type { font-size: .8rem; color: var(--muted); margin-bottom: 12px; }
+#loc-panel .loc-section { margin-top: 14px; }
+#loc-panel .loc-section h4 { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); border-bottom: 1px solid var(--border); padding-bottom: 3px; margin-bottom: 6px; }
+#loc-panel .loc-section p, #loc-panel .loc-section ul { font-size: .85rem; line-height: 1.55; }
+#loc-panel .loc-section ul { padding-left: 16px; }
+#loc-panel .loc-close { position: absolute; top: 10px; right: 14px; font-size: 1.2rem; cursor: pointer; color: var(--muted); background: none; border: none; }
+#loc-panel .loc-close:hover { color: var(--accent); }
+.map-legend { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px; font-size: .8rem; color: var(--muted); }
+.map-legend-item { display: flex; align-items: center; gap: 5px; }
+.map-legend-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+@media (max-width: 700px) { .map-page-layout { flex-direction: column; } #loc-panel { width: 100%; margin-left: 0; margin-top: 12px; position: static; } }
+
 /* ── stats bar ── */
 .stats-grid { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 32px; }
 .stat-box { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 24px; text-align: center; flex: 1; min-width: 130px; }
@@ -344,6 +370,7 @@ def nav_html(active: str) -> str:
         ("scholars.html", "Scholars"),
         ("concepts.html", "Concepts"),
         ("timeline.html", "Timeline"),
+        ("map.html",      "Map"),
         ("sources.html",  "Sources"),
         ("about.html",    "About"),
     ]
@@ -835,6 +862,244 @@ document.addEventListener('DOMContentLoaded', function() {
 """
     return page_wrap("Sources", "sources.html", body, js)
 
+# ── map.html ─────────────────────────────────────────────────────────────────
+
+def build_map(data: dict) -> str:
+    # Geographic bounding box for the SVG projection
+    LON_MIN, LON_MAX = -12.0, 32.0
+    LAT_MIN, LAT_MAX = 34.5, 62.5
+    SVG_W, SVG_H = 900, 550
+
+    def proj(lat, lon):
+        x = (lon - LON_MIN) / (LON_MAX - LON_MIN) * SVG_W
+        y = (LAT_MAX - lat) / (LAT_MAX - LAT_MIN) * SVG_H
+        return round(x, 1), round(y, 1)
+
+    def pts(coords):
+        return " ".join(f"{proj(lat,lon)[0]},{proj(lat,lon)[1]}" for lon, lat in coords)
+
+    # Simplified land polygons (lon, lat pairs)
+    # Main European continent outline
+    europe = [
+        (-9,62),(-5,61),(0,61),(5,60),(8,58),(10,58),(12,57),
+        (14,55),(18,55),(20,54),(24,55),(26,56),(28,57),(30,59),
+        (30,58),(28,55),(26,53),(24,52),(22,52),(20,51),(18,51),
+        (16,50),(14,52),(12,54),(10,54),(8,55),(5,52),(4,52),
+        (2,51),(0,50),(-2,50),(-5,48),(-8,44),(-9,43),
+        (-9,42),(-8,38),(-7,37),(-6,37),(-5,36),(-2,36),
+        (0,36),(3,37),(5,37),(8,38),(10,38),(12,38),(14,37),
+        (15,38),(16,39),(15,40),(14,40),(12,41),(12,43),
+        (14,44),(14,46),(16,47),(17,48),(18,48),(20,49),
+        (22,50),(24,52),(26,54),(28,56),(30,58),(30,62),
+        (25,62),(-9,62)
+    ]
+    # British Isles (approximate)
+    britain = [
+        (-6,50),(-4,50),(-3,51),(-2,51),(0,51),(1,51),(1,52),
+        (0,53),(-2,54),(-3,55),(-4,56),(-5,57),(-6,57),(-6,56),
+        (-4,55),(-3,54),(-3,53),(-4,51),(-5,51),(-6,50)
+    ]
+    ireland = [
+        (-10,52),(-8,52),(-6,52),(-6,53),(-6,54),(-7,55),(-8,55),
+        (-10,54),(-10,53),(-10,52)
+    ]
+    # Scandinavian outline
+    scandinavia = [
+        (5,58),(5,58),(7,58),(8,59),(9,60),(10,59),(12,57),(14,57),
+        (16,58),(17,60),(18,63),(20,65),(22,67),(25,70),(28,70),
+        (28,68),(26,66),(24,64),(22,62),(20,61),(18,60),(16,59),
+        (14,58),(12,58),(10,60),(8,59),(5,58)
+    ]
+    # Iberian inset clarification
+    iberia = [
+        (-9,36),(-7,37),(-5,36),(-2,36),(0,36),(3,37),(5,37),
+        (4,39),(3,40),(1,41),(-1,43),(-2,43),(-4,44),
+        (-7,44),(-8,43),(-9,42),(-8,38),(-7,37),(-6,37),(-5,36),(-9,36)
+    ]
+
+    land_paths = (
+        f'<polygon class="map-land" points="{pts(europe)}"/>'
+        f'<polygon class="map-land" points="{pts(britain)}"/>'
+        f'<polygon class="map-land" points="{pts(ireland)}"/>'
+        f'<polygon class="map-land" points="{pts(scandinavia)}"/>'
+    )
+
+    # Build location markers
+    locs = [l for l in data["locations"]
+            if l.get("coordinates") and
+               LON_MIN <= l["coordinates"].get("longitude",999) <= LON_MAX and
+               LAT_MIN <= l["coordinates"].get("latitude",999) <= LAT_MAX]
+
+    marker_svgs = []
+    for loc in locs:
+        lat = loc["coordinates"]["latitude"]
+        lon = loc["coordinates"]["longitude"]
+        cx, cy = proj(lat, lon)
+        name = escape(loc.get("name", loc["id"]))
+        hover = escape(loc.get("hover_description", loc.get("witchcraft_trials_significance","")[:120]))
+        lid = escape(loc["id"])
+        # Size circle by rough severity: superhunts bigger
+        sig = (loc.get("witchcraft_trials_significance","") + loc.get("hover_description","")).lower()
+        if any(k in sig for k in ["300","400","500","800","superhunt","most intensive","largest"]):
+            r = 12
+        elif any(k in sig for k in ["100","200","major","mass","intensive"]):
+            r = 9
+        else:
+            r = 6
+        marker_svgs.append(
+            f'<g class="map-loc" data-id="{lid}" data-name="{name}" data-hover="{hover}" '
+            f'onclick="locClick(\'{lid}\')" onmouseover="locHover(this,evt)" onmouseout="locOut()">'
+            f'<circle class="loc-circle" cx="{cx}" cy="{cy}" r="{r}" '
+            f'fill="#8b2000" fill-opacity="0.85" stroke="#f5deb3" stroke-width="1.5"/>'
+            f'<circle cx="{cx}" cy="{cy}" r="{r+6}" fill="transparent"/>'
+            f'</g>'
+        )
+
+    markers_svg = "\n".join(marker_svgs)
+
+    # Grid lines (lat/lon)
+    grid_lines = []
+    for lon in range(-10, 33, 10):
+        x1, _ = proj(LAT_MAX, lon); _, y1 = proj(LAT_MAX, lon)
+        x2, y2 = proj(LAT_MIN, lon)
+        x1, _ = proj(LAT_MAX, lon)
+        x2, _ = proj(LAT_MIN, lon)
+        px1, py1 = proj(LAT_MAX, lon)
+        px2, py2 = proj(LAT_MIN, lon)
+        grid_lines.append(f'<line x1="{px1}" y1="{py1}" x2="{px2}" y2="{py2}" stroke="rgba(255,255,255,0.3)" stroke-width="0.5"/>')
+        grid_lines.append(f'<text x="{px1+2}" y="{SVG_H-4}" fill="rgba(80,60,30,0.6)" font-size="9" font-family="Georgia">{lon}°</text>')
+    for lat in range(35, 63, 5):
+        px1, py1 = proj(lat, LON_MIN)
+        px2, py2 = proj(lat, LON_MAX)
+        grid_lines.append(f'<line x1="{px1}" y1="{py1}" x2="{px2}" y2="{py2}" stroke="rgba(255,255,255,0.3)" stroke-width="0.5"/>')
+        grid_lines.append(f'<text x="2" y="{py1+4}" fill="rgba(80,60,30,0.6)" font-size="9" font-family="Georgia">{lat}°N</text>')
+
+    grid_svg = "\n".join(grid_lines)
+
+    locs_js = js_embed("LOCATIONS", data["locations"])
+
+    js = locs_js + r"""
+function locClick(id) {
+  const loc = LOCATIONS.find(l => l.id === id);
+  if (!loc) return;
+  const panel = document.getElementById('loc-panel');
+  const content = document.getElementById('loc-content');
+  const secs = [];
+  if (loc.witchcraft_trials_significance)
+    secs.push(`<div class="loc-section"><h4>Significance</h4><p>${loc.witchcraft_trials_significance}</p></div>`);
+  if (loc.administrative_context)
+    secs.push(`<div class="loc-section"><h4>Administrative Context</h4><p>${loc.administrative_context}</p></div>`);
+  if (loc.scholarly_analysis) {
+    const sa = loc.scholarly_analysis;
+    const items = [];
+    if (sa.clark_perspective) items.push(`<li><strong>Clark:</strong> ${sa.clark_perspective}</li>`);
+    if (sa.hutton_perspective) items.push(`<li><strong>Hutton:</strong> ${sa.hutton_perspective}</li>`);
+    if (sa.ginzburg_perspective) items.push(`<li><strong>Ginzburg:</strong> ${sa.ginzburg_perspective}</li>`);
+    if (items.length) secs.push(`<div class="loc-section"><h4>Scholarly Analysis</h4><ul>${items.join('')}</ul></div>`);
+  }
+  if (loc.persecution_timeline) {
+    const tl = Object.entries(loc.persecution_timeline).map(([k,v])=>`<li><strong>${k}:</strong> ${v}</li>`).join('');
+    secs.push(`<div class="loc-section"><h4>Timeline</h4><ul>${tl}</ul></div>`);
+  }
+  if (loc.legacy_and_historiographical_importance)
+    secs.push(`<div class="loc-section"><h4>Historiographical Legacy</h4><p>${loc.legacy_and_historiographical_importance}</p></div>`);
+  const src = loc.source_method ? `<div class="source-note" style="font-size:.75rem;color:var(--muted);font-style:italic;border-top:1px solid var(--border);padding-top:8px;margin-top:12px;">Source: ${loc.source_method}</div>` : '';
+  content.innerHTML = `
+    <button class="loc-close" onclick="closePanel()">&#x2715;</button>
+    <h3>${loc.name || loc.id}</h3>
+    <div class="loc-type">${[loc.type, loc.region].filter(Boolean).join(' &middot; ')}</div>
+    ${secs.join('')}${src}`;
+  panel.classList.add('visible');
+  // Highlight selected marker
+  document.querySelectorAll('.loc-circle').forEach(c => c.setAttribute('fill','#8b2000'));
+  const sel = document.querySelector(`.map-loc[data-id="${id}"] .loc-circle`);
+  if (sel) sel.setAttribute('fill','#ff6600');
+}
+function closePanel() {
+  document.getElementById('loc-panel').classList.remove('visible');
+  document.querySelectorAll('.loc-circle').forEach(c => c.setAttribute('fill','#8b2000'));
+}
+const tooltip = document.getElementById('map-tooltip');
+const ttRect  = document.getElementById('tt-rect');
+const ttText  = document.getElementById('tt-text');
+const ttSub   = document.getElementById('tt-sub');
+function locHover(el, event) {
+  const name  = el.getAttribute('data-name');
+  const hover = el.getAttribute('data-hover');
+  const sub   = hover ? hover.substring(0, 90) + (hover.length > 90 ? '…' : '') : '';
+  ttText.textContent = name;
+  ttSub.textContent  = sub;
+  const tw = Math.max(name.length, sub.length) * 6.5 + 16;
+  const th = sub ? 36 : 22;
+  ttRect.setAttribute('width', tw);
+  ttRect.setAttribute('height', th);
+  tooltip.style.display = 'block';
+}
+function locOut() { tooltip.style.display = 'none'; }
+// Move tooltip with mouse
+document.getElementById('witch-map').addEventListener('mousemove', function(e) {
+  const rect = this.getBoundingClientRect();
+  const scaleX = 900 / rect.width;
+  const scaleY = 550 / rect.height;
+  let tx = (e.clientX - rect.left) * scaleX + 12;
+  let ty = (e.clientY - rect.top) * scaleY - 40;
+  if (tx > 700) tx -= (parseFloat(ttRect.getAttribute('width')) + 24);
+  if (ty < 0) ty = 8;
+  tooltip.setAttribute('transform', `translate(${tx},${ty})`);
+});
+"""
+
+    svg_content = f"""<svg id="witch-map" viewBox="0 0 {SVG_W} {SVG_H}" xmlns="http://www.w3.org/2000/svg">
+  <rect width="{SVG_W}" height="{SVG_H}" fill="#b8d4e8"/>
+  {grid_svg}
+  {land_paths}
+  {markers_svg}
+  <g id="map-tooltip" style="display:none" class="map-tooltip">
+    <rect id="tt-rect" x="0" y="0" width="180" height="36" rx="4" fill="rgba(26,18,8,0.88)"/>
+    <text id="tt-text" x="8" y="15" font-family="Georgia,serif" font-size="12" fill="#f5deb3" font-weight="bold"></text>
+    <text id="tt-sub"  x="8" y="29" font-family="Georgia,serif" font-size="10" fill="#c8a96e"></text>
+  </g>
+</svg>"""
+
+    loc_list_items = ""
+    for loc in sorted(data["locations"], key=lambda l: l.get("name","").split("(")[0].strip()):
+        if not (loc.get("coordinates") and
+                LON_MIN <= loc["coordinates"].get("longitude",999) <= LON_MAX and
+                LAT_MIN <= loc["coordinates"].get("latitude",999) <= LAT_MAX):
+            continue
+        name = escape(loc.get("name",""))
+        region = escape(loc.get("region",""))
+        hover = escape((loc.get("hover_description","") or loc.get("witchcraft_trials_significance",""))[:100])
+        lid = loc["id"]
+        loc_list_items += f'<li><a href="#" onclick="locClick(\'{lid}\');return false"><strong>{name}</strong></a><br><small style="color:var(--muted)">{region}</small></li>\n'
+
+    body = f"""
+<h1>Trial Locations — Interactive Map</h1>
+<p class="page-intro">Geographic distribution of major witch-trial sites, 1424–1692. Click any marker for detailed historical analysis; hover for a quick description. Marker size reflects approximate prosecution scale.</p>
+
+<div class="map-page-layout">
+  <div id="witch-map-wrap">
+    {svg_content}
+  </div>
+  <div id="loc-panel" style="position:relative">
+    <div id="loc-content"></div>
+  </div>
+</div>
+
+<div class="map-legend">
+  <span class="map-legend-item"><span class="map-legend-dot" style="background:#8b2000;width:20px;height:20px;border-radius:50%"></span> Large (300+ executions)</span>
+  <span class="map-legend-item"><span class="map-legend-dot" style="background:#8b2000;width:14px;height:14px;border-radius:50%;opacity:.85"></span> Medium (100–300)</span>
+  <span class="map-legend-item"><span class="map-legend-dot" style="background:#8b2000;width:10px;height:10px;border-radius:50%;opacity:.75"></span> Smaller or investigative</span>
+</div>
+
+<h2>All Mapped Locations</h2>
+<ul style="column-count:2;column-gap:32px;padding-left:20px;font-size:.9rem;line-height:2">
+{loc_list_items}
+</ul>
+"""
+    return page_wrap("Map", "map.html", body, js)
+
+
 # ── about.html ────────────────────────────────────────────────────────────────
 
 def build_about(data: dict) -> str:
@@ -920,6 +1185,7 @@ def main():
         "scholars.html": build_scholars(data),
         "concepts.html": build_concepts(data),
         "timeline.html": build_timeline(data),
+        "map.html":      build_map(data),
         "sources.html":  build_sources(data),
         "about.html":    build_about(data),
     }

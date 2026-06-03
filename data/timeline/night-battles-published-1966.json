@@ -1,0 +1,26 @@
+{
+  "id": "night-battles-published-1966",
+  "event_name": "Ginzburg Publishes I Benandanti, 1966",
+  "event_type": "primary_source_publication",
+  "date": "1966",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Turin, Italy",
+  "location_slug": null,
+  "significance": "Carlo Ginzburg's I Benandanti: Stregoneria e culti agrari tra Cinquecento e Seicento (Einaudi, Turin, 1966) — English translation: The Night Battles (1983) — established the microhistorical methodology for witch-trial scholarship and introduced the benandante material, founding the argument that a popular spirit-journey tradition underlay the composite sabbath stereotype.",
+  "related_entities": [
+    "ginzburg-carlo-b1939",
+    "ginzburg-night-battles-1983",
+    "friuli-benandanti-1575-inquisition",
+    "paolo-gasparutto-friuli-benandante",
+    "battista-moduco-friuli-benandante"
+  ],
+  "source_method": "Ginzburg, I Benandanti (Einaudi, 1966); English translation: Night Battles (Johns Hopkins University Press, 1983)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

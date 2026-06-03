@@ -1,0 +1,43 @@
+{
+  "id": "worcester-chester-lancaster-assizes",
+  "name": "English Northern and Western Circuit Assizes",
+  "formal_name": "Courts of Assize — Northern Circuit (York, Lancaster, Durham), Western Circuit (Chester, Worcester)",
+  "institutional_type": "secular_tribunal",
+  "founded": "1220",
+  "dissolved": "1971",
+
+  "jurisdiction_description": "The English assize system extended beyond the Home Circuit (Essex, Kent, Surrey, Sussex, Hertfordshire) to cover all English counties through a series of circuits. The Northern Circuit (covering Yorkshire, Lancashire, Westmorland, Cumberland, Durham) and the Western Circuit (covering Chester, Worcester, Hereford, Gloucester, Somerset, Dorset, Devon, Cornwall, Wiltshire) handled witch prosecutions in northern and western England, including the important Pendle case (tried at Lancaster Summer Assizes, 1612) and numerous other cases.\n\n  These circuits shared the same fundamental procedural characteristics as the Home Circuit: common-law procedure, professional circuit judges from London, no systematic torture, requirement of witness testimony and preferably confession, some appellate review through King's Bench. The institutional character was identical to the Home Circuit, but the regional prosecution patterns differed: Lancashire and Yorkshire had somewhat higher prosecution rates than Essex, while the far northern counties (Cumberland, Westmorland) had relatively few documented prosecutions despite border geography that might have exposed them to Scottish demonological influence.",
+
+  "jurisdiction_territories": ["essex"],
+
+  "procedural_features": {
+    "torture_policy": "Same as Home Circuit — torture formally prohibited under English common law; none documented in witchcraft prosecutions on these circuits.",
+    "evidence_standards": "Common-law evidentiary standards identical to Home Circuit; witch's mark evidence from sworn examiners; witness testimony; voluntary confession.",
+    "confession_policy": "No torture; voluntary confessions obtained through examination; some accused persons did confess voluntarily (particularly at Pendle, where the Demdike and Device family members made various admissions).",
+    "appeal_mechanism": "Same as Home Circuit — King's Bench writ of error available; circuit judges provided central oversight but no systematic capital-case review equivalent to French Parlements."
+  },
+
+  "role_in_witch_trials": "These circuits are most significant in the witch-trial historiography for the Pendle prosecution (Lancaster, 1612), which is the most extensively documented English prosecution outside Salem. Other regional patterns are less well-documented but the Northern Circuit records provide comparative material that has been analyzed by scholars including Gibson, Poole, and Sharpe.",
+
+  "witch_trial_involvement_level": "moderate",
+
+  "key_trial_events": [
+    "pendle-witch-trial-1612"
+  ],
+
+  "historiographical_significance": "The Northern and Western circuit witch prosecutions provide evidence for regional variation within the English pattern. Sharpe's regional surveys and Poole's edited collection on the Lancashire witches establish that the English assize system's procedural characteristics applied uniformly across circuits while prosecution intensity varied significantly by region — more intensive in the north and east, sparser in the west and southwest. This regional variation within a uniform institutional framework is evidence that cultural factors (the character of local communities, the presence of service-magic traditions, the intensity of religious conflict) rather than institutional factors drove English prosecution patterns.",
+
+  "scholarly_disagreement": "The cause of regional variation within English prosecution — whether it reflects different local magical traditions, different community social dynamics, different clerical attitudes, or historical accident — is not fully resolved. Sharpe's regional surveys provide the empirical basis for the variation without settling its explanation.",
+
+  "source_method": "Lancaster and York Assize records; analyzed in Sharpe, Instruments of Darkness (1996); Poole (ed.), The Lancashire Witches (2002); Thomas Potts, The Wonderfull Discoverie (1613)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

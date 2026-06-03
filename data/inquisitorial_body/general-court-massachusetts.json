@@ -1,0 +1,45 @@
+{
+  "id": "general-court-massachusetts",
+  "name": "General Court and Court of Oyer and Terminer, Massachusetts Bay Colony",
+  "formal_name": "Court of Oyer and Terminer (1692) / Superior Court of Judicature (1693) / General Court of Massachusetts Bay",
+  "institutional_type": "secular_tribunal",
+  "founded": "1629",
+  "dissolved": null,
+
+  "jurisdiction_description": "The witch prosecution in Massachusetts Bay Colony in 1692 was conducted primarily by the Court of Oyer and Terminer — a special commission court convened in June 1692 specifically to try the accumulated witchcraft cases — rather than by the General Court (the colonial legislature) or the regular criminal court system. The Court of Oyer and Terminer consisted of seven judges including William Stoughton (Chief Justice), Samuel Sewall, and John Hathorne; it operated under the new provincial charter of 1691 but with significant legal uncertainty about its jurisdiction and procedure. The court admitted spectral evidence as primary evidence of guilt, a decision that was increasingly contested and that ultimately led to its dissolution in January 1693.\n\n  The General Court of Massachusetts Bay was the legislative body that created the legal framework within which Salem prosecution occurred and that, under pressure from increasing public criticism and the winding down of the crisis, was responsible for the subsequent review and restitution process. The Superior Court of Judicature that succeeded the Oyer and Terminer court acquitted most remaining accused and declined to convict on spectral evidence alone.",
+
+  "jurisdiction_territories": ["salem"],
+
+  "procedural_features": {
+    "torture_policy": "No formal torture in the English common-law tradition; coercive examination pressure used, and some accused were kept in extremely poor prison conditions, but no formal torture apparatus",
+    "evidence_standards": "The Court of Oyer and Terminer admitted spectral evidence (testimony about the accused's spirit causing harm in dreams and visions) as primary evidence — the decision that became the most contested procedural issue of the Salem trials",
+    "confession_policy": "Voluntary confessions accepted and encouraged; those who confessed were spared execution while those who maintained innocence were executed — a perverse incentive structure that drove many to false confession",
+    "appeal_mechanism": "The General Court reviewed the Court of Oyer and Terminer's procedures and dissolved it in January 1693; no formal appellate review before the dissolution; the Governor's reprieve power was used to delay execution in some contested cases"
+  },
+
+  "role_in_witch_trials": "The Court of Oyer and Terminer was the primary prosecutorial mechanism for the 1692 Salem crisis, convicting and executing nineteen people before its dissolution. Its admission of spectral evidence and its rapid pace of prosecution (nineteen executions in six months) made it the most controversial witchcraft tribunal in Anglo-American legal history. The Superior Court that replaced it substantially halted prosecution and the Governor's pardon in 1693 released most remaining accused.",
+
+  "witch_trial_involvement_level": "high",
+
+  "key_trial_events": [
+    "salem-1692-trials"
+  ],
+
+  "historiographical_significance": "The Court of Oyer and Terminer is the central institutional subject of Salem scholarship. Boyer and Nissenbaum, Norton, Karlsen, and all major Salem historians analyze the court's procedures and decisions as key explanatory variables for the prosecution's scale and outcome. The spectral evidence debate — and the formal rejection of spectral evidence in Increase Mather's Cases of Conscience (1693) and the Governor's intervention — is the primary institutional explanation for the prosecution's end. The subsequent restitution process (proclamations of innocence from the Massachusetts legislature, financial compensation to accused families) makes Salem unusual in the witch-trial record for the completeness of its formal legal repudiation.",
+
+  "scholarly_disagreement": "Whether the Court of Oyer and Terminer's spectral evidence admission reflected the judges' genuine theological commitment or primarily institutional pressures (the rapid pace of accusation overwhelming the court's capacity for careful review) is debated by Salem scholars.",
+
+  "source_method": "Massachusetts Archives (Court of Oyer and Terminer records); Salem Witchcraft Papers; analyzed in Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-devils-snare-2002",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

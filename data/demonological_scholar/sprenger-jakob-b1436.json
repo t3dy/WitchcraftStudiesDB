@@ -1,0 +1,82 @@
+{
+  "id": "sprenger-jakob-b1436",
+  "name": "Jakob Sprenger",
+  "birth_year": 1436,
+  "death_year": 1495,
+  "birth_place": "Rheinfelden, Baden (Germany)",
+  "academic_discipline": "Theology; Dominican inquisition; University administration",
+  "primary_institution": "Dominican Order; Inquisitor for Germany; Professor and Dean of Theology, University of Cologne; Prior of the Cologne convent",
+  "specialization": "Dominican inquisitorial authority; academic theology; claimed co-authorship of the Malleus Maleficarum",
+
+  "major_works": [
+    {
+      "title": "Malleus Maleficarum (co-author with Heinrich Kramer / Institoris)",
+      "year": 1486,
+      "publisher": "Peter Drach, Speyer (first edition)",
+      "significance": "The Hammer of Witches — the most widely cited demonological text of the early modern period, combining theological argument, procedural instruction, and case studies to create the comprehensive demonological manual for witch prosecution",
+      "pages": null,
+      "database_entry": "kramer-malleus-maleficarum-1486"
+    }
+  ],
+
+  "historiographical_position": "WITCH-TRIAL ADVOCATE / DOMINICAN INQUISITOR",
+
+  "core_argument": "Sprenger's claimed contribution to the Malleus Maleficarum is disputed in recent scholarship. His name appears on the title page alongside Heinrich Kramer (Institoris), and the Papal Bull Summis Desiderantes (1484) addressed to both inquisitors was used as a preface that lent papal authority to the text. However, recent historiographical consensus — established particularly by Christopher Mackay's critical edition (2006) — holds that the Malleus was primarily or entirely Kramer's work and that Sprenger's name was attached to lend institutional credibility from his established position at the University of Cologne. Whether Sprenger actually contributed to the text's composition, or whether Kramer simply appropriated his name and the Cologne faculty's endorsement, is uncertain.",
+
+  "methodological_approach": {
+    "primary_materials": "Dominican theological and inquisitorial tradition; scholastic philosophy; legal procedure; the Papal Bull of 1484",
+    "analysis_target": "Theological justification for witch prosecution; procedural guidance for inquisitors; case-by-case analysis of witchcraft allegations",
+    "evidence_type": "Biblical and theological authorities; classical sources; case testimony from the authors' own interrogation experience",
+    "explanatory_level": "Theological-procedural"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Institutional credibility for the Malleus",
+      "claim": "Regardless of his actual compositional contribution, Sprenger's institutional position — as a respected Dominican prior and university dean at Cologne — lent the Malleus the academic credibility that Kramer alone, with his troubled reputation after the Innsbruck failure, could not have provided.",
+      "implication": "The Malleus's rapid dissemination (fourteen editions by 1520) was facilitated by the institutional legitimacy Sprenger's name and the purported Cologne faculty endorsement provided."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "cologne_approval": "A purported approval by the Cologne theology faculty appears in some editions of the Malleus; Mackay's critical edition argues this approval was fabricated by Kramer to lend academic authority to a text the faculty had not actually endorsed."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Heinrich Kramer / Institoris (nominal co-author; actual relationship is disputed)"
+    ],
+    "creative_tension_with": [
+      "The Bishop of Brixen, who expelled Kramer from Innsbruck in 1485 — Sprenger's association with Kramer's text was potentially embarrassing given Kramer's subsequent disgrace in Austria"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Sprenger's name on the Malleus contributed to its authority across its first century of circulation, regardless of whether his contribution to the text was substantive.",
+    "criticisms": [
+      "Christopher Mackay's critical edition of the Malleus (Cambridge University Press, 2006) argued that the Cologne theology faculty endorsement was forged by Kramer and that Sprenger's actual contribution to the text was minimal or nonexistent",
+      "Earlier historiography accepted dual authorship uncritically; more recent scholarship (Mackay, Broedel's The Malleus Maleficarum, 2003) has been more skeptical about Sprenger's actual role"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Sprenger is mentioned in the kramer-malleus-maleficarum-1486 scholarly_text entry as nominal co-author. His institutional role at Cologne is referenced in entries discussing the Malleus's dissemination and authority.",
+    "analytical_weight": "Sprenger's historiographical significance is primarily institutional and negative: what matters is the controversy about whether his name on the Malleus was genuine co-authorship or appropriation. This controversy is itself historically significant because it shows how the Malleus achieved its authority through the imprimatur of established institutions as much as through its arguments."
+  },
+
+  "historiographical_significance": "Sprenger's primary historiographical significance is the question about his actual role in the Malleus — a question that matters for understanding how the text achieved its authority. If Mackay is right that Sprenger's name was essentially borrowed without his substantive contribution, the Malleus's history becomes a case study in how institutional credibility could be manufactured through nominal association, a mechanism relevant to understanding how demonological literature achieved authority in early modern Europe more broadly.",
+
+  "scholarly_disagreement": "Whether Sprenger was a genuine co-author of the Malleus or merely a name appropriated by Kramer for institutional credibility is the central debate. Mackay's 2006 edition argues for the latter; earlier scholarship accepted dual authorship. The Cologne faculty approval's authenticity is also disputed.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "source_method": "Mackay (ed.), The Hammer of Witches: A Complete Translation of the Malleus Maleficarum (Cambridge University Press, 2006); Broedel, The Malleus Maleficarum and the Construction of Witchcraft (Manchester University Press, 2003); analyzed in Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

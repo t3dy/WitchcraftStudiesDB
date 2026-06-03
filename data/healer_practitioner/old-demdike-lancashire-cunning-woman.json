@@ -1,0 +1,71 @@
+{
+  "id": "old-demdike-lancashire-cunning-woman",
+  "name": "Elizabeth Southerns (Old Demdike)",
+  "status": "Died in prison before trial",
+  "trial_id": "pendle-witch-trial-1612",
+  "location_id": "lancashire",
+  "year_interrogated": 1612,
+  "age_at_trial": 80,
+  "social_status": "Aged poor widow; lived at Malkin Tower, Forest of Pendle, Lancashire; widely known as a cunning woman in the local community for approximately forty years",
+  "gender": "Female",
+
+  "self_identification": "Cunning woman who had practiced healing and service magic for some forty years; received her skills from a spirit who appeared at a stone quarry at Newfield Edge",
+  "claimed_abilities": [
+    "Healing of bewitched persons and animals",
+    "Diagnosis of bewitchment and identification of the bewitcher responsible",
+    "Removal of maleficium through counter-magical procedures",
+    "Working maleficium against enemies through clay image magic",
+    "Claimed to have received her cunning craft from a spirit called Tibb, who appeared in multiple forms"
+  ],
+
+  "biography": "Elizabeth Southerns, known as 'Old Demdike,' was the matriarch of the Device family and one of the two families at the center of the 1612 Pendle witch trials. Approximately eighty years old at the time of her arrest in March 1612, she had operated as a cunning woman in the Forest of Pendle for an estimated forty years — a career that Justice of the Peace Roger Nowell documented in considerable detail in his examination. Her voluntary confession, recorded by Nowell and published in Thomas Potts's Wonderfull Discoverie (1613), is one of the fullest accounts of a working English cunning woman's self-described practice.\n\n  Old Demdike's confession described the origin of her cunning-craft in an encounter with a spirit she called Tibb at a stone pit near Newfield Edge — Tibb appeared first as a young boy and later in other forms, and through this spirit she had practiced healing and maleficium for four decades. The spirit-helper origin of her practice places her directly in the tradition of fairy-healer encounter documented by Hutton across Scottish and English records. Her practical activities were the standard cunning woman's portfolio: diagnosis of bewitchment, identification of the bewitching agent, healing of bewitched animals and persons, and counter-magical service. She also confessed, under examination, to working maleficium against persons who had offended her — the dual character of service magic and harmful magic that made cunning folk ambiguous figures in their communities.\n\n  Old Demdike died in Lancaster Castle prison in August 1612 before the trial began, apparently of the combination of age, illness, and the conditions of imprisonment. Her family members — daughter Elizabeth Device, grandchildren James and Alizon Device — were tried and executed in her place. Her death before trial means she was never formally convicted, but her case is the foundational document for understanding the Pendle prosecution's origin in a long-established cunning-folk practice tradition.",
+
+  "interrogation_narrative": {
+    "circumstances": "Examined by Roger Nowell, Justice of the Peace, at Ashlar House, March 30, 1612; subsequently imprisoned in Lancaster Castle",
+    "self_identification": "Cunning woman; served by the spirit Tibb who first appeared at a stone quarry; practiced healing and counter-magic for forty years",
+    "interrogator_response": "Nowell documented the testimony in detail; the examination appears to have been relatively productive in eliciting the details of her practice without the extremes of torture used in Continental examination",
+    "adaptation": "Old Demdike's testimony includes both the service-magic elements (healing, diagnosis) and maleficium admissions (clay image against Richard Baldwin) — whether the maleficium admissions reflect genuine practice, examination pressure, or strategic confession is uncertain"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Spirit Tibb as helper; forty-year practice of cunning craft; healing and diagnosis for clients",
+    "under_interrogation_pressure": "Maleficium admissions against Richard Baldwin; description of clay image magic; naming of the Demdike/Device family practices",
+    "final_confession": "Died in Lancaster Castle prison August 1612 before trial; not executed"
+  },
+
+  "microhistorical_significance": "Old Demdike represents the paradigm case of the English service-magical practitioner whose longstanding community role transformed into prosecution vulnerability when the relationship between practitioner and neighbors deteriorated. Hutton in The Witch (2017) identifies her as the English equivalent of the fairy-healer type documented in Scottish records: a practitioner whose original spirit-contact experience (Tibb at the stone quarry) provided the foundational narrative for a decades-long magical career, and whose prosecution came when community relationships that had previously been managed turned hostile. The spirit Tibb follows the pattern Wilby identifies for English familiars — named, individuated, received at a specific location.",
+
+  "actor_vs_analyst_terminology": {
+    "old_demdike_language": [
+      "Tibb (her spirit helper)",
+      "Cunning craft",
+      "Clay image magic",
+      "Bewitching and unbewitching"
+    ],
+    "prosecution_categories": [
+      "Witchcraft",
+      "Familiar spirit (Tibb)",
+      "Maleficium against Richard Baldwin"
+    ]
+  },
+
+  "practical_activities": "Old Demdike's four-decade practice included: healing bewitched persons and animals, identifying the witches responsible for bewitchment, and apparently working maleficium against enemies. This dual character — healer and harmer — is consistent with the service-magician type documented by Thomas and Hutton: the same person who could remove maleficium could also work it.",
+
+  "interrogation_outcome": "Died in Lancaster Castle prison in August 1612, aged approximately eighty, before the Lancaster Summer Assizes of August 1612 at which her family members were tried. She was never formally convicted.",
+
+  "historiographical_significance": "Old Demdike's case is analyzed in Thomas Potts's Wonderfull Discoverie (1613) and discussed in Sharpe's Instruments of Darkness (1996), Poole's edited volume The Lancashire Witches (2002), and Hutton's The Witch (2017). Her documented forty-year career as a cunning woman before prosecution is one of the clearest English examples of the pattern Macfarlane identifies: long-established service-magic practice that became vulnerability when community relationships broke down.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971"
+  ],
+
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Roger Nowell's examinations (preserved in Potts); analyzed in Hutton, The Witch (2017); Sharpe, Instruments of Darkness (1996)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The extent to which Old Demdike's maleficium admissions reflect genuine practice versus examination-shaped testimony is debated. Whether her service-magic tradition was continuous with pre-Reformation cunning craft is uncertain given the forty-year career's undocumented origins.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

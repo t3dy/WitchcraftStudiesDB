@@ -1,0 +1,50 @@
+{
+  "id": "ecstatic-tradition-night-journey",
+  "name": "The Ecstatic Tradition and Night Journey",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Medieval and Early Modern (c. 900–1700); ethnographic parallels extending beyond these dates",
+  "primary_locale": "Northern and Central Europe; documented from Friuli (Italy) through Baltic region, Scandinavia, British Isles; Ginzburg's thesis proposes pan-Eurasian distribution",
+
+  "scholarly_definition": "The 'ecstatic tradition' is Carlo Ginzburg's analytical category — developed in Ecstasies: Deciphering the Witches' Sabbath (1991) — for a hypothesized common substratum of folk belief involving a spirit or soul that separated from the body during sleep or trance to travel to other realms, encounter the dead, fight supernatural enemies, and return with knowledge for the community's benefit. This tradition, Ginzburg argues, underlies the composite sabbath stereotype: the learned diabolical framework imposed by inquisitors on the confessions of practitioners who described genuine spirit-journey experiences systematically reinterpreted those experiences as sabbath attendance under the devil's auspices. The ecstatic tradition as analytical category includes the Italian benandanti (night-fighters for the harvest), the Livonian werewolf Thiess (hound of God fighting in hell), Hungarian táltos practitioners, and Finnish tietäjä traditions — all sharing the structural elements of ecstatic trance, helping spirits, battle with evil forces for community benefit, and dangerous ambiguity between legitimate spirit travel and witch activity.",
+
+  "intellectual_genealogy": {
+    "ginzburg_1966": "The ecstatic tradition concept developed from Ginzburg's Night Battles (1966/1983), which documented the Friulian benandante material and proposed that it reflected an older shamanic agricultural-fertility tradition. Ecstasies (1991) expanded this argument across Eurasian evidence to propose a pan-Eurasian distribution.",
+    "comparative_shamanism": "Ginzburg's framework drew on comparative shamanism scholarship, particularly Mircea Eliade's Shamanism: Archaic Techniques of Ecstasy (1951), to identify structural parallels between documented early modern European practices and shamanistic traditions from Siberia, Central Asia, and other non-European contexts.",
+    "pócs_extension": "Éva Pócs's Between the Living and the Dead (1999) extended Ginzburg's framework to Hungarian, Balkan, and broader eastern European material, providing additional regional evidence for the widespread distribution of ecstatic-tradition practices.",
+    "wilby_english_parallel": "Emma Wilby's Cunning Folk and Familiar Spirits (2005) argued that the English familiar tradition represents the English-language parallel to the continental ecstatic tradition, preserved in different form (spirit helper rather than spirit journey) due to different prosecutorial pressures."
+  },
+
+  "clark_intellectual_analysis": "Clark's intellectual history approach and Ginzburg's ecstatic tradition thesis are methodologically incompatible at one level (Clark focuses on the learned tradition, Ginzburg on the popular substrate) but analytically complementary: Clark analyzes the learned diabolical overlay that transformed ecstatic traditions into sabbath confessions, Ginzburg analyzes the underlying popular practices that provided the raw material for that transformation.",
+
+  "hutton_social_analysis": "Hutton in The Witch (2017) engages extensively and critically with Ginzburg's ecstatic tradition thesis, accepting the evidence for benandanti-type practices in several specific documented cases while questioning the breadth of the comparative generalization. Hutton argues that Ginzburg's pan-Eurasian thesis overextends the evidence and that the documented cases, while genuine and interesting, do not constitute evidence of a single coherent tradition distributed across the entire continent.",
+
+  "ginzburg_interrogation_analysis": "The ecstatic tradition is Ginzburg's primary analytical framework for reading through the distorting surface of inquisitorial confession testimony to recover evidence of underlying popular practices. Where the learned demonological framework sees sabbath attendance at a diabolical gathering, Ginzburg sees a genuine popular spirit-journey tradition whose content was systematically transformed by interrogation into the expected theological form.",
+
+  "actor_perspective": {
+    "practitioners_self-description": "Benandanti described themselves as fighting for the harvest in night battles; Thiess described himself as a hound of God fighting in hell; these self-descriptions, maintained under interrogation pressure, suggest genuine belief in the framework rather than strategic adoption of expected narrative",
+    "trance_state": "Practitioners typically described leaving their bodies during sleep while their bodies remained immobile — the structural feature of trance that connects these diverse traditions and that Ginzburg identifies as the defining characteristic of the ecstatic tradition"
+  },
+
+  "distinctive_features": {
+    "counter-cultural_to_prosecution_expectations": "The ecstatic tradition is visible in the historical record precisely where practitioners resisted full transformation of their testimony into the expected diabolical form — cases like Thiess and the earliest benandanti provide the clearest evidence because the prosecutorial reframing had not yet been completed",
+    "gender_variation": "Unlike the majority of witch-trial accused (predominantly female), the ecstatic tradition practitioners are significantly male — the benandanti were initially exclusively male, Thiess was male, the táltos and tietäjä figures are predominantly male — suggesting that the prosecution of shamanic-type male practitioners was a distinct dynamic from the feminized witch prosecution pattern"
+  },
+
+  "geographic_distribution": "Documented specifically in Friuli (benandanti), Livonia (Thiess), Hungary (táltos), Finland (tietäjä), Sweden (Blåkulla testimony); Ginzburg's pan-Eurasian thesis proposes broader distribution.",
+
+  "historiographical_significance": "The ecstatic tradition is Ginzburg's central analytical contribution to witch-trial historiography and the subject of the most important methodological debate in the field. Its acceptance or rejection distinguishes two fundamental approaches: those who follow Ginzburg in reading through prosecution records for evidence of genuine popular practices, and those who follow Cohn in treating prosecution records primarily as evidence of elite fantasy and inquisitorial construction.",
+
+  "source_method": "Friulian Inquisition records (Night Battles); Livonian court records (Thiess, 1692); Hungarian and Baltic trial records; analyzed in Ginzburg, Night Battles (1966/1983); Ginzburg, Ecstasies (1991); Pócs, Between the Living and the Dead (1999); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "pocs-between-living-dead-1999"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

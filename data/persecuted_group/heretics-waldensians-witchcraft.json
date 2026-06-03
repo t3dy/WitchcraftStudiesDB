@@ -1,0 +1,38 @@
+{
+  "id": "heretics-waldensians-witchcraft",
+  "name": "Heretics and Religious Minorities as Witch-Accusation Targets",
+  "category": "religious_minority",
+  "temporal_scope": "c. 1200–1500",
+  "primary_regions": ["france", "switzerland", "italy", "rhineland"],
+
+  "group_profile": "The intellectual genealogy of the witch stereotype is inseparable from the earlier history of heresy accusation in medieval Europe. The cluster of charges that constituted the composite witch stereotype — nocturnal gatherings, apostasy, orgies, ritual murder, devil-worship — developed within the inquisitorial tradition primarily through its application to alleged heretical groups: the Cathars and Waldensians in southern France and northern Italy from the twelfth century onward, the Templars in the early fourteenth century, and unnamed 'heretical sects' in Alpine regions in the early fifteenth century. The Waldensians, who were in reality a peaceable scriptural reform movement, were particularly important as transitional figures: the French term 'Vauderie' for the witches' sabbath derives from Vaudois (Waldensian), reflecting the historical moment when heresy accusations began acquiring the specific sabbath-like characteristics that would define witch prosecution.\n\n  Cohn in Europe's Inner Demons (1975) traced this genealogy in detail, arguing that the witch stereotype was essentially a recycled heresy accusation applied to a new group. Ginzburg's divergent argument in Ecstasies (1991) accepted the genealogical connections Cohn established while arguing that something else — genuine popular ecstatic practices — also contributed to the stereotype's formation. Whether the composite witch was primarily a transformed heretic or a hybrid of heretical and folk-practice elements remains the central historiographical question about the stereotype's origins.",
+
+  "persecution_rationale": "The theological logic connecting heresy and witchcraft was explicit in medieval inquisitorial tradition: both heresy and witchcraft involved apostasy from Christianity, service to the devil as lord, and membership in a clandestine sect dedicated to Christianity's destruction. The difference was that heretics were accused of doing this through theological error and communal practice, while witches were accused of doing it through magical operations and supernatural power. When inquisitors encountered folk-magic practitioners or Alpine sectarians in the early fifteenth century, the heresy-accusation template provided the ready framework for interpretation.",
+
+  "structural_vulnerability": "Waldensians and other heretical communities were structurally vulnerable to witch-type accusations because their actual clandestine practices — secret meetings, unauthorized preaching, non-attendance at official Church services — could be exaggerated or distorted into the sabbath-like gatherings that heresy inquisitors expected to find. The very secretiveness required by heterodox practice provided the evidentiary basis for nocturnal-gathering accusations. Physical isolation of heretical communities in Alpine valleys made them simultaneously invisible to normal ecclesiastical oversight and visible to occasional inquisitorial incursions.",
+
+  "historiographical_significance": "The heresy-to-witchcraft transition is the central problem of the historiography of the composite witch stereotype's formation. Cohn's analysis established the genealogical connections between heresy accusation and witch accusation as a factual matter; the interpretive question is how much these connections tell us about the stereotype's origins and nature.\n\n  Clark in Thinking with Demons (1997) treats the heresy-witchcraft connection primarily as evidence for the theological coherence of the composite stereotype: a culture that already knew how to imagine heretical anti-Christian sects had a ready framework for imagining diabolical witch-sects. Ginzburg treats the heresy connections as one layer in a more complex formation that also included folk-practice elements that the heresy-accusation template did not supply.\n\n  Hutton in The Witch (2017) and Queens of the Wild (2022) accepts the importance of the heresy tradition in stereotype formation while questioning both Cohn's 'pure fantasy' thesis and Ginzburg's 'shamanic substratum' thesis, arguing for a more heterogeneous process of stereotype formation in which local conditions and specific inquisitors played as much of a role as any grand genealogy.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "witches-sabbath-collective",
+    "composite-witch-stereotype-formation",
+    "demonic-pact-early-modern"
+  ],
+
+  "scholarly_disagreement": "The relative weight of the heresy-accusation genealogy versus folk-practice contributions in the formation of the composite witch stereotype is the central unresolved debate. Cohn (heresy genealogy dominant), Ginzburg (folk-practice substrate also essential), and Hutton (local and contingent formation without a grand genealogy) represent three distinct positions that have not converged despite decades of debate.",
+
+  "source_method": "Cohn, Europe's Inner Demons (1975); Ginzburg, Ecstasies (1991); Hutton, The Witch (2017); Ankarloo and Clark Vol. 3 (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

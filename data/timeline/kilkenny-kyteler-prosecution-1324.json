@@ -1,0 +1,27 @@
+{
+  "id": "kilkenny-kyteler-prosecution-1324",
+  "event_name": "Kilkenny Kyteler prosecution begins",
+  "event_type": "trial_event",
+  "date": "1324",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Kilkenny, Ireland",
+  "location_slug": "kilkenny",
+  "significance": "Richard de Ledrede, Bishop of Ossory, brought composite witchcraft charges against Alice Kyteler and twelve associates — the earliest substantially documented composite witchcraft prosecution in the British Isles and one of the earliest in Europe, predating the Alpine trials by a century.",
+  "related_entities": [
+    "kilkenny-kyteler-trial-1324",
+    "kilkenny",
+    "alice-kyteler-kilkenny-1324",
+    "petronilla-of-meath-kilkenny-1325",
+    "composite-witch-stereotype-formation"
+  ],
+  "source_method": "Chronicle of the proceedings against Dame Alice Kyteler (attributed to contemporaries, ed. Thomas Wright, 1843); analyzed in Hutton, The Witch (2017); Ankarloo and Clark Vol. 3 (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

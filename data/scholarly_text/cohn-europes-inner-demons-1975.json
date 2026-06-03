@@ -1,0 +1,45 @@
+{
+  "id": "cohn-europes-inner-demons-1975",
+  "title": "Europe's Inner Demons: An Enquiry Inspired by the Great Witch-Hunt",
+  "author": "Norman Cohn",
+  "author_slug": "cohn-norman-b1915",
+  "year_published": 1975,
+  "original_year": 1975,
+  "original_title": "Europe's Inner Demons",
+  "original_language": "English",
+  "original_publisher": "Sussex University Press, London",
+  "publisher": "Sussex University Press (1st ed. 1975); University of Chicago Press (revised ed. 1993)",
+  "text_type": "monograph",
+
+  "subject_focus": "Historical argument that the sabbath concept was primarily an elite judicial fantasy projected onto marginalized groups, tracing its genealogy from classical and early medieval accusations of ritual murder, incest, and cannibalism against Jews, Christians, heretics, and ultimately witches.",
+
+  "summary": "Europe's Inner Demons is Norman Cohn's account of the intellectual genealogy of the witch's sabbath — the set of accusations (nocturnal gathering, ritual murder, cannibalism, sexual promiscuity, apostasy) that defined the composite witch stereotype. Cohn argued that this accusatory complex had no roots in actual popular practice but was a recurring fantasy produced by the same social and psychological dynamics across different target groups. Beginning with Roman accusations against Christians, moving through medieval accusations against Jews and heretics (Cathars, Waldensians, Templars), and ending with the transformation of this accusatory complex into the sabbath stereotype, Cohn traced what he called Europe's 'inner demons' — the fantasy of a conspiratorial anti-society hidden within the social fabric, dedicated to inverting Christian values through ritual transgression.",
+
+  "scholarly_significance": "Cohn's genealogy of the sabbath concept was a major contribution to historiography precisely because it challenged the Ginzburgian approach before Ginzburg's own Ecstasies (1991) fully articulated its competing argument. Where Ginzburg would argue that the sabbath stereotype crystallized through the encounter of an elite judicial framework with actual popular practices (shamanic night-rides, agrarian cults), Cohn argued that the fantasy was self-sufficient — that accusations against early Christians, then against Jews and heretics, then against witches, drew from the same reservoir of elite anxieties and required no folk-practice substrate.\n\n  The book's specific contribution to the chronology of witch prosecution was its detailed tracing of how accusations of ritual infanticide and cannibalistic meals (originally directed against heretics in twelfth-century sources) migrated into witch accusations in the fourteenth and fifteenth centuries. Cohn's archival work on these sources was methodologically rigorous and has been accepted by subsequent scholars even when his broader argument about the purely fantastic character of the sabbath concept has been qualified.\n\n  In the database's framework, Cohn represents the most skeptical position on the relationship between confession and practice: where Ginzburg argues for authentic folk elements recoverable through microhistorical reading, Cohn argues that the confessional content was essentially inquisitorial in origin.",
+
+  "key_arguments": [
+    {
+      "concept": "The accusatory complex as recurrent fantasy",
+      "claim": "The cluster of accusations constituting the sabbath (nocturnal gathering, ritual murder of children, cannibalism, sexual orgies, apostasy) was a recurrent elite fantasy projected onto different marginal groups across medieval and early modern history, not a description of anything actually practiced by any of its targets."
+    },
+    {
+      "concept": "Genealogy from heresy accusation",
+      "claim": "The witch's sabbath was not an early modern invention but a late medieval transformation of earlier accusatory templates developed in the context of heresy prosecution: accusations against Cathars, Waldensians, and Templars provided the template that was subsequently applied to witches."
+    },
+    {
+      "concept": "No folk-practice substrate",
+      "claim": "Unlike Ginzburg's argument for pre-Christian ecstatic traditions underlying the sabbath confession, Cohn argued that no popular practices supported the specific confessional content of sabbath testimonies. The internal consistency of confessions reflected the questions asked, not the practices confessed."
+    }
+  ],
+
+  "relation_to_database": "Cohn's position is the foil against which Ginzburg's microhistorical approach is defined in the database's Ginzburg-based entries (benandanti, Thiess, Lady Oriente). The composite-witch-stereotype-formation concept entry engages with Cohn's genealogy. The witches-sabbath-collective entry notes Cohn's argument explicitly.",
+
+  "scholarly_disagreement": "Ginzburg's Night Battles (1966/1983) and Ecstasies (1991) directly challenge Cohn's thesis that there was no popular-practice substrate for the sabbath concept. Hutton in The Witch (2017) mediates: he accepts Cohn's skepticism about Ginzburg's more sweeping comparative claims while acknowledging that some confessional testimonies (the benandanti, Thiess) preserve genuine folk-practice elements that Cohn's framework cannot accommodate. Most contemporary scholars reject Cohn's purist position while accepting his archival contributions to the genealogy of the accusatory complex.",
+
+  "source_method": "Published text, Sussex University Press 1975; revised edition University of Chicago Press 1993",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

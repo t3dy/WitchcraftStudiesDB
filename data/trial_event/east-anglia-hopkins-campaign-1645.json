@@ -1,0 +1,46 @@
+{
+  "id": "east-anglia-hopkins-campaign-1645",
+  "name": "Matthew Hopkins East Anglia Campaign",
+  "location_id": "essex",
+  "year_start": 1645,
+  "year_end": 1647,
+  "alleged_accused_count": 400,
+  "executed_count": 300,
+  "regional_context": "Essex, Suffolk, Norfolk, Cambridgeshire, Huntingdonshire; English Home Circuit; Civil War context",
+
+  "summary": "Matthew Hopkins's East Anglian witch-hunting campaign of 1645-1647 was England's most intensive period of witch prosecution and the only episode in English history that approached the scale of Continental mass prosecutions. Hopkins — a Manningtree solicitor's son who assumed the title 'Witchfinder General' — and his associate John Stearne worked through eastern England during the social and political disruption of the Civil War, identifying suspected witches through the techniques of swimming, watching (sleep deprivation), and pricking for the witch's mark. The campaign resulted in approximately 300 executions — more than in any comparable period in English history — concentrated primarily in Essex, Suffolk, and Norfolk. Hopkins operated through existing assize court structures rather than through any special commission, which meant his 'evidence' had to survive some judicial scrutiny, though the wartime disruption of normal oversight mechanisms substantially reduced the protections they would otherwise have provided. The campaign ended after Hopkins was subjected to increasingly pointed criticism in print and reportedly died of tuberculosis in 1647.",
+
+  "historiographical_significance": "The Hopkins campaign is central to the English witch-trial historiography for several reasons. First, it demonstrates that the distinctively English pattern of prosecution — individual maleficium accusations, familiar spirits, neighborhood conflict — could, under specific political conditions (Civil War disruption, absence of normal oversight), produce mass prosecution on a scale otherwise foreign to England. Second, Hopkins's explicit use of Continental-derived techniques (swimming, watching for familiars, systematic searching for the witch's mark) suggests the permeability of the supposedly distinct English tradition to Continental influence. Third, the campaign's rapid collapse under organized criticism — John Gaule's Select Cases of Conscience Touching Witches and Witchcrafts (1646) and Hopkins's own defensive publication The Discovery of Witches (1647) — provides a documented case study in how prosecutorial systems could be checked and dismantled. Macfarlane's Witchcraft in Tudor and Stuart England (1970) provides the most thorough county-level analysis of the Essex accusations; Gaskill's Witchfinders (2005) is the most recent full-length treatment of the Hopkins campaign itself.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "maleficium-harmful-magic",
+    "composite-witch-stereotype-formation"
+  ],
+
+  "key_details": {
+    "witchfinder": "Matthew Hopkins ('Witchfinder General') and John Stearne",
+    "techniques": "Swimming (the accused was thrown into water; floating indicated guilt); watching (sleep deprivation to observe familiar spirits visiting the accused); pricking for the witch's mark (searching the body for insensible spots)",
+    "civil_war_context": "The campaign coincided with the disruption of normal judicial oversight during the First Civil War; Parliamentary county committees provided institutional authorization in the absence of normal assize structures",
+    "institutional_vehicles": "Assizes in Essex, Suffolk, Norfolk; local county committees; no special commission; Hopkins submitted identified suspects to existing courts",
+    "collapse": "John Gaule's printed criticism (1646), questions about Hopkins's methods from assize judges, and (probably) Hopkins's declining health ended the campaign by 1647; Hopkins died 1647"
+  },
+
+  "scholarly_disagreement": "The death toll figures for the Hopkins campaign vary between scholarly accounts. Macfarlane's county-level analysis of Essex provides a solid evidential base for that county; Gaskill's broader treatment accepts a figure of approximately 300 executions across the eastern counties. Hopkins's own death — Stearne claimed he died of tuberculosis; a persistent legend says he was swum as a witch himself — is not documented beyond Stearne's account. The degree to which Hopkins was an opportunistic entrepreneur exploiting Civil War disruption versus a genuine witch-believer acting from conviction is debated.",
+
+  "accused_persons": [],
+
+  "related_trials": [],
+
+  "source_method": "Matthew Hopkins, The Discovery of Witches (1647); John Gaule, Select Cases of Conscience Touching Witches (1646); Macfarlane, Witchcraft in Tudor and Stuart England (1970); Gaskill, Witchfinders (2005); analyzed in Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

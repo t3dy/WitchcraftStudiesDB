@@ -1,0 +1,37 @@
+{
+  "id": "isobel-gowdie-auldearn-1662",
+  "name": "Isobel Gowdie",
+  "trial_id": null,
+  "location_id": null,
+  "year_accused": 1662,
+  "year_executed": null,
+  "survived": null,
+  "gender": "Female",
+  "social_status": "Woman of the farming community, Auldearn, Moray Firth; married; status otherwise ordinary",
+
+  "biography": "Isobel Gowdie of Auldearn in the Moray Firth region of Scotland made voluntary confessions in 1662 that constitute the most richly detailed and internally elaborate witchcraft confessions in the Scottish record — and arguably in the entire European witchcraft documentation. Unlike most confessional accounts, which are fragmentary, produced under torture, and shaped by leading questions, Gowdie's testimony was elaborate, unprompted in its specificity, and filled with vivid sensory detail that has fascinated historians ever since. She described a coven structure (scholars credit her — or more precisely, her interrogators' documentation of her — with giving the word 'coven' to the vocabulary of witchcraft), detailed meetings with the Devil at Auldearn church, flying to sabbats, shape-shifting, visiting the fairy court, and a catalogue of maleficent activities against her neighbors. Whether her confessions represent genuine visionary experience, strategic narrative construction, severe psychological disturbance (as most scholars assume), or some combination of these, remains unresolved. Emma Wilby's study The Visions of Isobel Gowdie (2010) is the most sustained attempt to take her confessions seriously as evidence of actual experiential states rather than pure inquisitorial construction.",
+
+  "charges_and_confession": "Gowdie confessed voluntarily — apparently without torture — to four separate confessional sessions in 1662. Her admissions included: making a demonic pact and renouncing Christianity; attending sabbat meetings at Auldearn church and other locations; flying to gatherings on enchanted horse-shaped straws; meeting the fairy court in a hill; transforming into animals; and performing various acts of maleficium against neighbors. The confessions contain unusual internal coherence and elaboration compared to most Scottish trial records. The word 'coven' for the group of thirteen appears to derive from these confessions, though whether the word was Gowdie's own or her recorder's is disputed.",
+
+  "scholarly_analysis": {
+    "hutton_perspective": "Hutton in The Witch (2017) notes that Gowdie's confessions combine sabbat-witch imagery with Scottish fairy-healer elements (the fairy court, shape-shifting, straws-as-horses) and that this combination reflects the particular cultural mixture of later seventeenth-century Highland Scotland. He characterizes Gowdie as probably mad — 'most scholars' take this view — but notes that the confessions cannot simply be reduced to inquisitorial suggestion because their specificity and internal consistency go beyond what routine interrogation produced.",
+    "clark_perspective": "From Clark's framework, Gowdie's confessions illustrate the fully developed sabbat stereotype operating in a Protestant Scottish context — the demonic pact, the renunciation, the collective gathering — all elements of the demonological schema that Clark traces across the sixteenth and seventeenth centuries. The confessions are what the demonological framework looked like when it was maximally internalized by an accused person.",
+    "ginzburg_perspective": "Wilby in The Visions of Isobel Gowdie (2010) — working in a Ginzburgian tradition — argues that Gowdie's confessions contain genuine visionary experiences shaped by shamanic and fairy-healer traditions, alongside conventional sabbat elements. She treats the confessions as layered texts requiring careful reading against the grain to recover the stratum of genuine popular experience beneath the demonological overlay."
+  },
+
+  "significance": "Isobel Gowdie is one of the most discussed individuals in all witchcraft historiography. Her confessions are unusual for their elaboration and apparent voluntariness, and they have generated sustained scholarly debate about the relationship between genuine experience, psychological disturbance, popular belief, and inquisitorial framework in witch confessional production. The word 'coven' and the number thirteen for a witch group enter witchcraft literature through (or alongside) her testimony.",
+
+  "source_method": "Scottish Privy Council records (Auldearn trial proceedings, 1662); analyzed in Emma Wilby, The Visions of Isobel Gowdie (2010); Hutton, The Witch (2017); Goodare (ed.), The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Wilby argues for genuine visionary experience as the core of Gowdie's confessions; Hutton and most other scholars favor a psychological explanation (Gowdie as severely disturbed). Clark's framework would not require a psychological explanation but would situate her confessions within the fully developed demonological culture of late seventeenth-century Scotland. The question of whether the confessions were entirely voluntary — without any form of coercion — is also debated; the records do not clearly indicate the absence of pressure.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

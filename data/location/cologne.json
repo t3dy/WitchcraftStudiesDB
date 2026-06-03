@@ -1,0 +1,35 @@
+{
+  "id": "cologne",
+  "name": "Cologne and the Rhine Valley",
+  "modern_country": "Germany",
+  "historical_jurisdiction": "Electoral Archbishopric of Cologne; Free Imperial City of Cologne; Rhineland territories",
+  "latitude": 50.938,
+  "longitude": 6.960,
+  "hover_description": "Cologne, 1480s–1530s: Where the Malleus Maleficarum was circulated and the Dominican inquisitorial tradition was centered. University of Cologne issued (dubious) endorsements of the text.",
+
+  "geographic_context": "Cologne was the largest city in the medieval German-speaking world and the seat of the Electoral Archbishop of Cologne, one of the seven imperial electors. It was a major center of Dominican intellectual life — the University of Cologne was a Dominican stronghold and provided the institutional base from which Kramer and Sprenger operated. Cologne's position on the Rhine made it the natural distribution center for printed texts, including early editions of the Malleus Maleficarum.",
+
+  "significance_in_witch_trials": "Cologne is significant in the history of witch trials primarily for its role in the production and dissemination of demonological literature rather than for prosecution statistics, though the Rhineland was a zone of intensive witch hunting across the sixteenth and seventeenth centuries. The University of Cologne's purported endorsement of the Malleus Maleficarum — now widely accepted as a forgery by Kramer — gave the text an institutional imprimatur that facilitated its early distribution. The Dominican convent at Cologne was Heinrich Kramer's institutional base and the source of his inquisitorial authority in the region.\n\n  The Rhineland as a whole — including the Electoral Archbishoprics of Cologne, Trier, and Mainz, as well as numerous secular territories along the river — was one of Europe's most intensive prosecution zones in the late sixteenth and seventeenth centuries. The Trier trials of 1581-1593 and the associated Rhineland prosecutions established the pattern of mass prosecution in German episcopal territories that Bamberg and Würzburg subsequently replicated.",
+
+  "trial_events": [
+    "trier-witch-trials-1581-1593"
+  ],
+
+  "demonological_context": "Cologne's association with the Malleus gives it a symbolic significance in the historiography that exceeds its prosecution statistics. The text's (possibly forged) endorsement by the Cologne theology faculty placed the University at the center of a controversy about academic responsibility for demonological prosecution that persisted through the sixteenth century. Cornelius Agrippa was connected to Cologne as a student of Johann Trithemius; his De Occulta Philosophia (1531) was a contrary intellectual tradition also rooted in the Rhine-valley humanist milieu.",
+
+  "historiographical_significance": "Cologne's historiographical significance is primarily as the institutional center of early German demonological production. Mackay's critical edition of the Malleus (2006) examines the Cologne faculty approval controversy in detail. Behringer's work on German witch-hunting situates Cologne within the broader Rhineland prosecution pattern.",
+
+  "source_method": "Mackay (ed.), The Hammer of Witches (Cambridge University Press, 2006); analyzed in Hutton, The Witch (2017); Broedel, The Malleus Maleficarum and the Construction of Witchcraft (2003)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether the Cologne theology faculty actually endorsed the Malleus or whether Kramer forged the endorsement is the primary historiographical question connected to Cologne; Mackay argues for forgery, but older scholarship accepted the endorsement as genuine.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

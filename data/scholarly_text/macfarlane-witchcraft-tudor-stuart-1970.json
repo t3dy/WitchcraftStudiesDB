@@ -1,0 +1,45 @@
+{
+  "id": "macfarlane-witchcraft-tudor-stuart-1970",
+  "title": "Witchcraft in Tudor and Stuart England: A Regional and Comparative Study",
+  "author": "Alan Macfarlane",
+  "author_slug": "macfarlane-alan-b1941",
+  "year_published": 1970,
+  "original_year": 1970,
+  "original_title": "Witchcraft in Tudor and Stuart England",
+  "original_language": "English",
+  "original_publisher": "Routledge and Kegan Paul, London",
+  "publisher": "Routledge and Kegan Paul (1st edition 1970); 2nd edition with new introduction, 1999",
+  "text_type": "monograph",
+
+  "subject_focus": "County-level quantitative and sociological study of Essex witch prosecutions 1560-1680, establishing the 'charity refusal' model of English witch accusation and documenting the distinctively English (non-sabbat) pattern of prosecution.",
+
+  "summary": "Witchcraft in Tudor and Stuart England is the first systematic quantitative study of a European witch-trial jurisdiction, based on Macfarlane's systematic analysis of Essex Assize and ecclesiastical court records from 1560 to 1680. Macfarlane documented 503 indictments for witchcraft in Essex and supplemented the quantitative record with analysis of the social relationships between accusers and accused, finding that in the great majority of documented cases, the accusation followed a specific pattern: the accused (typically an older woman of modest means) had sought a small charity from a neighbor, been refused, and departed with an expression of displeasure; thereafter, misfortune befell the refuser, who attributed it to the accused person's malice. This 'charity refusal' model — derived from Keith Thomas's concurrent work on religion and magic — became the standard sociological explanation for English witch accusation.",
+
+  "scholarly_significance": "Macfarlane's Essex study established two findings that transformed the historiography of English witch prosecution. First, the quantitative analysis — 503 indictments, specific conviction and execution rates, demographic profile of the accused — provided the first large-scale empirical dataset for any European jurisdiction and became the model for subsequent county-level and regional studies across Europe.\n\n  Second, the charity-refusal model identified a specific social mechanism (the psychological displacement of guilt from charity refusal onto the person refused) that explained witch accusation at the level of individual social interaction rather than through abstract theological categories. Combined with Thomas's parallel analysis in Religion and the Decline of Magic (1971), this model became the foundation of the English witch-trial sociological tradition.\n\n  The Essex study also established the English pattern's distinctiveness from Continental prosecution: no sabbat accusations, no mass prosecutions, no torture, familiar spirits rather than demonic pact, neighborhood maleficium rather than organized conspiracy. This distinctiveness became the primary evidence for the argument that English and Continental witch prosecution were structurally different phenomena requiring different explanations.",
+
+  "key_arguments": [
+    {
+      "concept": "The charity-refusal model",
+      "claim": "In the majority of documented Essex cases, witch accusation followed a specific social sequence: request for charity → refusal → departing curse or displeasure → misfortune befalling refuser → accusation. This pattern locates witch accusation within the social tensions of early modern communities transitioning from communal obligation to market individualism."
+    },
+    {
+      "concept": "English prosecution's distinctive character",
+      "claim": "Essex prosecutions show no sabbat accusations, no organized conspiracy charges, no systematic torture, and a focus on specific neighborhood maleficium and animal familiars. The English pattern is structurally different from Continental prosecution and requires a different sociological explanation."
+    },
+    {
+      "concept": "Demographic profile of accused",
+      "claim": "The Essex accused were predominantly female (about 92%), predominantly over 50, predominantly widowed or unmarried, and predominantly of modest to poor economic status — a profile consistent across the county from 1560 to 1680."
+    }
+  ],
+
+  "relation_to_database": "Referenced in the essex location entry, the cunning-folk-wise-women persecuted_group entry, the widows-early-modern entry, the elderly-women-accused entry, and the chelmsford-witch-trials-1566 trial_event and timeline entries.",
+
+  "scholarly_disagreement": "The charity-refusal model's universality has been questioned by Briggs in Witches and Neighbours (1996), who found more varied accusation dynamics in Lorraine, and by Roper's psychoanalytic approach, which locates witch accusation in deeper psychological dynamics rather than social transactions. Levack argues that English prosecution's distinctiveness has been overstated — English trials were more connected to Continental models than Macfarlane acknowledged, especially after North Berwick.",
+
+  "source_method": "Published text, Routledge and Kegan Paul 1970",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

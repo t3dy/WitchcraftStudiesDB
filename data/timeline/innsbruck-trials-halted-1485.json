@@ -1,0 +1,24 @@
+{
+  "id": "innsbruck-trials-halted-1485",
+  "event_name": "Innsbruck witch trials halted",
+  "event_type": "institutional_event",
+  "date": "1485",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Innsbruck, Austria",
+  "location_slug": null,
+  "significance": "Heinrich Institoris (Kramer), co-author of the forthcoming Malleus Maleficarum, was expelled from Innsbruck by the Bishop of Brixen after his attempted witch trials were derailed by institutional resistance and by a panel of theologians who found his procedures irregular. The Malleus, published two years later, was partly a response to this failure.",
+  "related_entities": [
+    "demonic-pact-early-modern",
+    "composite-witch-stereotype-formation"
+  ],
+  "source_method": "Innsbruck diocesan records; analyzed in Hutton, The Witch (2017); Ankarloo and Clark Vol. 3 (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

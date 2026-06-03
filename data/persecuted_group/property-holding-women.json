@@ -1,0 +1,37 @@
+{
+  "id": "property-holding-women",
+  "name": "Property-Holding and Economically Anomalous Women",
+  "category": "social_class",
+  "temporal_scope": "c. 1400–1700",
+  "primary_regions": ["colonial-new-england", "rhineland", "scotland", "england"],
+
+  "group_profile": "Women who held property, managed businesses, or occupied positions of economic independence that patriarchal early modern culture defined as anomalous — because they had outlived male heirs, because no male relatives were available to administer their assets, or because commercial activity had placed them in positions normally occupied by men — appear in the historical record as a disproportionately targeted group in certain witch prosecution contexts. Carol Karlsen's analysis of New England witch accusation in The Devil in the Shape of a Woman (1987) established the property-inheritance dimension most systematically, finding that women who stood to inherit property in the absence of male heirs were disproportionately accused at Salem and in preceding New England prosecutions. Similar dynamics have been identified by scholars in Scottish and English prosecution records, though the New England case provides the most quantitatively grounded analysis.\n\n  The property-holding woman occupies a different structural position from the 'destitute beggar-witch' of the Thomas-Macfarlane charity-refusal analysis: where the destitute accused's vulnerability arose from dependence on community charity and the resentment refusal generated, the property-holding accused's vulnerability arose from her anomalous economic independence and the hostility that independence generated in communities where female economic autonomy was structurally aberrant. Both patterns reflect the patriarchal organization of early modern property and economy, but through different mechanisms.",
+
+  "persecution_rationale": "The demonological framework provided a specific explanation for how a woman might have acquired property or commercial success anomalously: through diabolical assistance. The demonic pact, in its practical application to property-holding women, could be read as a transaction in which the devil provided worldly goods (property, commercial success, the deaths of inconvenient male relatives) in exchange for the woman's soul. This reading made the accusation of witchcraft a natural vehicle for hostility toward women who occupied positions of economic power that the demonological framework could explain only through diabolical mediation.",
+
+  "structural_vulnerability": "Karlsen's analysis identifies several specific mechanisms connecting property and accusation vulnerability. First, women who stood to inherit property in the absence of male heirs were anomalous within inheritance systems that preferred male succession; their position was legally uncertain and practically contested by male relatives or community members who would have inherited through conventional channels. Second, women who had outlived multiple husbands and accumulated property from their estates were anomalous survivors — their longevity itself was suspicious within a culture that associated female property control with unnatural advantage. Third, women who managed commercial enterprises (shops, taverns, mills) that in the cultural norm would have been male-operated created ongoing friction that could crystallize as accusation.",
+
+  "historiographical_significance": "Karlsen's The Devil in the Shape of a Woman is the foundational text for the property-holding analysis, concentrating on New England. The book's specific contribution is quantitative: by constructing property profiles of accused women and comparing them to the population distribution, Karlsen demonstrated that the accused were not randomly distributed across the property spectrum but were overrepresented among women in anomalous property positions.\n\n  The transferability of Karlsen's New England analysis to European contexts is debated. Hutton accepts that property dynamics contributed to accusation vulnerability in European contexts but argues that the New England-specific inheritance system (with its particular rules about women's property rights) makes direct transference difficult. Briggs's Lorraine study found property dynamics in accusation but not the systematic pattern Karlsen identifies for New England. The current consensus treats property as one factor among several rather than the primary explanatory variable Karlsen's framework suggests.",
+
+  "exemplary_accused_persons": [
+    "bridget-bishop-salem-1692"
+  ],
+  "related_demonological_concepts": [
+    "demonic-pact-early-modern",
+    "female-susceptibility-theory"
+  ],
+
+  "scholarly_disagreement": "Karlsen's property-inheritance thesis has been criticized for circularity (defining 'anomalous' economic position retrospectively from the accusation record), for over-determining a pattern that fits only a subset of accused persons, and for its New England-specificity. Levack, Macfarlane, and Hutton all accept property as a contributing factor while rejecting it as the primary explanation. Feminist historians have found the property analysis useful but have argued that it underestimates the misogynistic dimension of prosecution that operated independently of economic structure.",
+
+  "source_method": "Karlsen, The Devil in the Shape of a Woman (1987); Hutton, The Witch (2017); Briggs, Witches and Neighbours (1996)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

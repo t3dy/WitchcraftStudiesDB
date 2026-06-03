@@ -1,0 +1,64 @@
+{
+  "id": "dalarna-sweden",
+  "name": "Dalarna Province / Blåkulla Region",
+  "type": "Province",
+  "region": "Central Sweden",
+  "modern_location": "Dalarna County (Dalarnas län), Sweden",
+  "coordinates": {
+    "latitude": 61.095,
+    "longitude": 14.666
+  },
+  "hover_description": "Dalarna, Sweden, 1668–1676: Origin of the Blåkulla mass panic — ~280 executions. Children testified that adults took them to the witches' sabbath at Blåkulla.",
+
+  "administrative_context": "Dalarna was a rural province in central Sweden, characterized by small agricultural communities and a distinct local culture that retained strong folk-belief traditions into the seventeenth century. The province was governed under Swedish royal administration, with local courts (häradsrätt) for initial trials and the Svea Court of Appeal in Stockholm serving as the appellate authority. Royal commissions were dispatched to investigate the Dalarna accusations in 1669-1670.",
+
+  "witchcraft_trials_significance": "Dalarna was the epicenter of the Swedish Blåkulla mass panic of 1668-1676 — Northern Europe's largest sustained witch prosecution in the seventeenth century. The panic originated in the parishes of Älvdalen and Mora in 1668-69, where children began testifying that adult witches had physically transported them to Blåkulla (the Swedish sabbath location, identified with the Brocken in Germany in some accounts) where they were forced to renounce their baptism and serve the devil. A Royal Commission sent from Stockholm in 1669 authorized approximately sixty executions at Mora in a single session. The panic subsequently spread across Sweden, reaching Stockholm itself in 1675-76 before judicial skepticism interrupted the testimony mechanism.\n\n  The Dalarna testimony's geographical concentration and temporal priority made it the formative episode: later accusations in other Swedish provinces referenced the Dalarna accounts and reused their narrative content, suggesting that the Blåkulla script was carried outward from Dalarna by testimony, rumor, and printed accounts rather than independently generated.",
+
+  "trial_events": [
+    "sweden-blakulla-mass-trials-1668-1676"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Royal Commission of 1669",
+      "role": "Crown-appointed investigation commission",
+      "contribution_to_trials": "Authorized and oversaw the Mora executions (August 1669); approximately 60+ adults executed; established procedural precedent for subsequent provincial prosecutions"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1668": "Initial accusations in Älvdalen parish; children testify to Blåkulla transportation",
+    "1669": "Royal Commission dispatched; Mora executions (approximately 60 adults, August 1669); panic spreads to adjacent parishes",
+    "1670-1674": "Prosecutions spread through multiple Swedish provinces; hundreds executed",
+    "1675-1676": "Stockholm trials; children's testimony begins to fracture under scrutiny; judicial skepticism emerges; panic subsides"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Dalarna province (Mora, Älvdalen, Rättvik); subsequently Gästrikland, Hälsingland, Ångermanland, and other provinces; ultimately Stockholm",
+    "social_reach": "Adults accused primarily by children; rural peasant community; children themselves later accused as sabbath participants",
+    "mortality_impact": "~280 executions nationally; greatest concentration in Dalarna and adjacent provinces"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark situates the Blåkulla testimony within the pattern of sabbath confessions across Northern Europe, noting that the Swedish version incorporated the Lutheran eschatological framework — the devil's increasing power at the approach of the end times — into the prosecution rationale.",
+    "hutton_perspective": "Hutton uses the Blåkulla panic as a case study in the role of children as accusers and the distinctive dynamics of mass child-testimony prosecutions, noting that the Swedish case preceded Salem by twenty years and operated through similar mechanisms.",
+    "ginzburg_perspective": "Eva Pócs (following Ginzburg's methodology) has read the Blåkulla testimony as evidence of a genuinely held popular belief in nocturnal journeys and spirit-world participation underlying the inquisitorial sabbath stereotype — a Northern European parallel to the benandante material."
+  },
+
+  "legacy_and_historiographical_importance": "The Dalarna/Blåkulla material is the primary Swedish contribution to comparative witch-trial historiography. Bengt Ankarloo's analysis in the Ankarloo-Clark volumes provides the standard scholarly treatment. The Blåkulla testimony's relationship to the benandante material (both involving spirit-journey beliefs reframed as sabbath attendance by the prosecution framework) is a central question in Ginzburg's and Pócs's comparative analyses.",
+
+  "primary_sources": "Swedish riksarkivet (national archives); Mora and Älvdalen local court records; Royal Commission report (1669); analyzed in Bengt Ankarloo, in Ankarloo and Henningsen (eds.) Early Modern European Witchcraft (1990)",
+
+  "source_method": "Swedish Riksarkivet; analyzed in Ankarloo in Ankarloo-Henningsen (1990); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017); Pócs, Between the Living and the Dead (1999)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

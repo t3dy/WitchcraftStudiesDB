@@ -1,0 +1,41 @@
+{
+  "id": "portuguese-inquisition",
+  "name": "Portuguese Inquisition",
+  "formal_name": "Tribunal do Santo Ofício (Tribunal of the Holy Office of Portugal)",
+  "institutional_type": "royal_inquisition",
+  "founded": "1536",
+  "dissolved": "1821",
+
+  "jurisdiction_description": "The Portuguese Inquisition, established in 1536 under King João III with papal authorization, operated as a royal inquisition — formally distinct from the Spanish Inquisition but institutionally analogous, subject to both royal and papal oversight. Its primary concerns were the crypto-Judaism of conversos (Jewish converts to Christianity) and, to a lesser degree, Protestantism and heterodox beliefs. Like its Spanish counterpart, the Portuguese Inquisition was not a primary driver of witch prosecution and generally served as a moderating force.\n\n  Portugal's continental territory had relatively low witch prosecution rates throughout the early modern period, reflecting the Inquisition's skeptical orientation toward claims of actual diabolical practice. The Inquisition treated claims of witchcraft — like the Spanish Inquisition under Salazar's influence — as likely products of superstition and delusion rather than genuine diabolical activity. In Portuguese colonial territories (particularly Brazil and the Atlantic islands), folk-magic practices encountered a different institutional context.",
+
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "The Portuguese Inquisition used torture but under procedural constraints: it was applied only after other means failed, required formal authorization, and was regulated by limits on repetition and method. These constraints — similar to those of the Spanish Inquisition — substantially limited the confession cascade mechanism.",
+    "evidence_standards": "The Inquisition required a minimum evidentiary threshold before proceeding to serious accusations and applied skeptical scrutiny to claims of supernatural phenomena. Following the Spanish pattern established by Salazar, Portuguese inquisitors were expected to investigate whether alleged effects had natural explanations.",
+    "confession_policy": "Confession under torture required ratification voluntarily; the Inquisition had a formal procedure for testing whether confessions represented genuine repentance (as opposed to tactical admissions to end torture).",
+    "appeal_mechanism": "Internal review by the Conselho Geral (General Council) at Lisbon, with ultimate recourse to Rome. This central oversight provided some check on local prosecutorial enthusiasm."
+  },
+
+  "role_in_witch_trials": "The Portuguese Inquisition was primarily a restraining force on witch prosecution in continental Portugal, consistent with the Spanish pattern. Its skeptical orientation toward diabolical claims, combined with procedural constraints, produced very few witch executions in metropolitan Portugal. In colonial contexts, its restraining role was less consistent.",
+
+  "witch_trial_involvement_level": "low",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "The Portuguese Inquisition is included in Ankarloo and Clark's comparative volumes as part of the Southern European pattern of relatively restrained prosecution under Inquisitorial oversight. Bethencourt's work on Portuguese inquisitorial records documents the skeptical orientation toward magical practitioners as primarily suffering from superstition rather than genuine diabolical alliance.",
+
+  "scholarly_disagreement": "The degree to which the Portuguese Inquisition's restraint reflected genuine skepticism about diabolical claims versus procedural caution about evidentiary standards (as in the Spanish case) is debated; both factors likely contributed.",
+
+  "source_method": "Arquivo Nacional Torre do Tombo, Inquisição records; analyzed in Bethencourt, in Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Levack, The Witch-Hunt in Early Modern Europe; Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

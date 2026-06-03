@@ -1,0 +1,49 @@
+{
+  "id": "de-lancre-labourd-investigation-1609",
+  "name": "De Lancre's Labourd Investigation",
+  "location_id": "basque-country",
+  "year_start": 1609,
+  "year_end": 1610,
+  "alleged_accused_count": 600,
+  "executed_count": 80,
+  "regional_context": "Pays de Labourd, Basque Country, Kingdom of France; Crown commission",
+
+  "summary": "Pierre de Lancre's investigation of the Basque Pays de Labourd in 1609-1610, conducted on royal commission from Henri IV, produced France's most spectacular early seventeenth-century witch hunt and one of the most vivid descriptions of the sabbath in European demonological literature. De Lancre — a Bordeaux magistrate with legal training and a gift for baroque literary elaboration — described sabbath meetings attended by thousands of Labourd witches at Akelarre (the Basque sabbath ground), presided over by Satan in goat or human form, featuring music, feasting, dancing, and collective apostasy. His Tableau de l'inconstance des mauvais anges et démons (1612) is one of the most detailed sabbath descriptions in any European source, and it is the primary document for understanding how a learned magistrate's encounter with a non-French speaking community (the Basques) could generate both cultural incomprehension and extraordinary prosecutorial energy. De Lancre's investigation resulted in perhaps 80 executions — estimates vary — before the investigation was suspended, in part through the intervention of Basque clergy who protected their parishioners from further prosecution.",
+
+  "historiographical_significance": "The Labourd investigation is significant for three interconnected reasons. First, it documents the mechanism by which cultural difference — the Basques' non-French language, maritime economy, and distinct social organization — could be read through demonological categories as inherent susceptibility to diabolic influence: de Lancre explicitly argued that the Basques' fishing culture (which took husbands to sea for months, leaving women unsupervised) explained their particular vulnerability. Second, de Lancre's Tableau is a primary source for the sabbath concept at its most elaborate: the descriptions of Akelarre are among the richest in any European jurisdiction and raise sharply the question of how much reflects actual folk practice and how much reflects de Lancre's literary imagination. Third, the concurrent investigation by Alonso de Salazar Frías on the Spanish side of the Basque border — which reached opposite conclusions, finding no evidence of actual witchcraft — provides the sharpest case study in European demonological historiography for how different investigators with different institutional contexts could reach diametrically opposed conclusions about the same population.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "composite-witch-stereotype-formation",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "prosecuting_magistrate": "Pierre de Lancre (Bordeaux Parlement judge; royal commissioner 1609-1610)",
+    "royal_mandate": "Commission from Henri IV to investigate witchcraft in Labourd; de Lancre exceeded the scope of the original mandate",
+    "primary_document": "Tableau de l'inconstance des mauvais anges et démons (1612) — de Lancre's published account, literary as much as legal",
+    "basque_context": "The investigation targeted a non-French-speaking maritime community; de Lancre's cultural incomprehension shaped his prosecutorial interpretation",
+    "clerical_intervention": "Basque clergy, including priests accused of celebrating black masses, organized resistance to the investigation; their intervention contributed to its suspension",
+    "spanish_contrast": "Simultaneously, Alonso de Salazar Frías investigated the Spanish Basque country for the Spanish Inquisition and found no evidence of actual witchcraft, declining to prosecute further"
+  },
+
+  "scholarly_disagreement": "The degree to which de Lancre's sabbath descriptions reflect actual Basque folk practices, distorted through interrogation and cultural misunderstanding, versus pure literary-demonological invention is debated. Henningsen in The Witches' Advocate (1980) — primarily about the Spanish investigation — provides comparative context that suggests the Labourd prosecution was driven by prosecutorial imagination as much as by popular practice. De Lancre's own evident fascination with Basque women (the Tableau is also a kind of ethnographic erotica) complicates reading his account as straightforward documentation.",
+
+  "accused_persons": [],
+
+  "related_trials": [],
+
+  "source_method": "Pierre de Lancre, Tableau de l'inconstance des mauvais anges et démons (1612); Henningsen, The Witches' Advocate (1980); analyzed in Hutton, The Witch (2017) and Ankarloo/Clark Vol. 4 (2001)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

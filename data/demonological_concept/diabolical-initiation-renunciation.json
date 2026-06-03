@@ -1,0 +1,51 @@
+{
+  "id": "diabolical-initiation-renunciation",
+  "name": "Diabolical Initiation and Renunciation of Baptism",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Early Modern (c. 1430–1700)",
+  "primary_locale": "Continental Europe; particularly France, Germany, Scotland; partial presence in New England",
+
+  "scholarly_definition": "The diabolical initiation — the ceremony through which the new witch formally entered into compact with the devil and was inducted into the witch community — was a standard element of the developed composite sabbath stereotype from the mid-fifteenth century onward. Its defining acts, as described in demonological literature and confession testimony, included: the explicit renunciation of the Christian baptism received in infancy; the giving of a new name by the devil; the bodily mark impressed by the devil as a seal of compact; and in Continental tradition, sexual congress with the devil as the physical ratification of the new bond. The renunciation of baptism was theologically central: it inverted the foundational Christian sacrament and constituted the witch as an apostate — a baptized Christian who had formally rejected Christianity — rather than merely a pagan or heretic.",
+
+  "intellectual_genealogy": {
+    "theological_derivation": "The baptismal renunciation element derived from the theological analysis of heresy and apostasy: like heretics who denied Christian truth, witches were conceived as apostates whose rejection of baptism placed them outside the Christian community while retaining the corruption of their baptized souls — a theologically more serious condition than mere paganism.",
+    "early_documentation": "The renunciation of baptism appears in the earliest composite witch trial confessions in the Alpine records (Valais, 1427-1436) and in Nider's Formicarius (c. 1437), making it one of the earliest standardized elements of the composite stereotype.",
+    "scottish_specificity": "In the North Berwick and subsequent Scottish prosecutions, the renunciation of baptism was a particularly emphasized element: Agnes Sampson's confession described the North Berwick gathering as including formal renunciation; Isobel Gowdie's 1662 confession describes renouncing her baptism in considerable detail.",
+    "new-england_variant": "The New England witch-pact covenant described in Salem testimony was a Protestant variant of the diabolical initiation: accused persons confessed to signing the devil's book — a Protestant adaptation of the Continental baptismal-renunciation model, replacing the embodied sacramental ceremony with a written covenantal act consistent with Calvinist contractual theology."
+  },
+
+  "clark_intellectual_analysis": "For Clark, the baptismal renunciation is the theologically central act of the diabolical compact: it inverted the foundational Christian sacrament and constituted the witch as an apostate rather than a heretic, defining her spiritual condition in terms of the most fundamental Christian rite. The devil's counter-baptism (with his own mark replacing the baptismal seal) was the structural inversion that Clark's inversion-principle framework identifies as characteristic of the entire sabbath complex.",
+
+  "hutton_social_analysis": "Hutton notes that the baptismal renunciation element is almost entirely absent from English witch accusation, consistent with the broader pattern of English prosecution's resistance to the Continental sabbath stereotype. English prosecution focused on maleficium and the familiar relationship rather than formal apostasy, meaning that the theological drama of sacramental inversion that characterized Continental confession was not replicated in the English evidence base.",
+
+  "ginzburg_interrogation_analysis": "The formal baptismal renunciation in Continental confessions is, in Ginzburg's framework, primarily a product of inquisitorial questioning rather than popular belief: the question 'did you renounce your baptism at the sabbath?' shaped confessions toward the expected theological content. The element's consistency across diverse geographic and cultural contexts reflects the standardization of the inquisitorial questioning procedure rather than independent generation from popular experience.",
+
+  "actor_perspective": {
+    "accused_confessions": "Continental witch confessions routinely describe the renunciation of baptism in similar terms across diverse jurisdictions — renouncing 'in the name of the devil,' receiving a new name, receiving the devil's mark in exchange for the renounced baptismal seal",
+    "scottish_variation": "Isobel Gowdie's 1662 confession (voluntary, without torture) describes renouncing her baptism at a crossroads and placing one hand on the crown of her head and the other on the sole of her foot — an unusual specific gesture that Hutton notes as a possible survival of genuine folk ritual"
+  },
+
+  "distinctive_features": {
+    "theological_centrality": "The baptismal renunciation is the theologically most serious element of the diabolical compact — its inversion of the foundational Christian sacrament constitutes the witch as apostate, the gravest possible religious category",
+    "sacramental_counter-model": "The devil's counter-baptism (new name, physical mark, sexual ratification) constituted a systematic inversion of the Christian sacramental system that Clark identifies as the structural logic of the entire sabbath stereotype",
+    "protestant_adaptation": "The New England devil's book represents the Protestant adaptation of this element: a covenantal written document replacing the embodied sacramental ceremony, consistent with Reformed theology's emphasis on covenant over sacrament"
+  },
+
+  "geographic_distribution": "Continental European prosecution (France, Germany, Switzerland) and Scotland; partially adapted in New England; largely absent from English mainstream prosecution.",
+
+  "historiographical_significance": "The diabolical initiation and baptismal renunciation have been analyzed most extensively by Clark in Thinking with Demons as evidence of the theological sophistication of the composite witch stereotype — its systematic exploitation of Christian sacramental categories as the framework for the diabolical counter-system. Ginzburg's interrogation analysis treats the standardized content of initiation confessions as evidence of inquisitorial shaping. Norton's In the Devil's Snare analyzes the New England 'devil's book' as the Protestant variant that fits Salem's Calvinist cultural context.",
+
+  "source_method": "Witch trial confessions from Valais (1427-1436), Scotland (1590-91, 1662), and Salem (1692); analyzed in Clark, Thinking with Demons (1997); Ginzburg, Ecstasies (1991); Norton, In the Devil's Snare (2002); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "norton-in-devils-snare-2002"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

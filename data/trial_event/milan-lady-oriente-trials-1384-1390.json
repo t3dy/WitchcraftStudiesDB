@@ -1,0 +1,50 @@
+{
+  "id": "milan-lady-oriente-trials-1384-1390",
+  "name": "Milan Lady Oriente Trials",
+  "location_id": "milan",
+  "year_start": 1384,
+  "year_end": 1390,
+  "alleged_accused_count": 5,
+  "executed_count": 1,
+  "regional_context": "Duchy of Milan; Lombardy; northern Italy; under Dominican inquisitorial jurisdiction",
+
+  "summary": "The Milan Lady Oriente trials of 1384 and 1390 constitute the earliest documented prosecutions of individuals for participation in a night gathering under female leadership — what Ginzburg identifies as the precursor to the composite sabbath stereotype. In 1384, the Dominican inquisitor Fra Ruggero da Casale examined Sibillia of Mantua and Pierina de' Bugatis, both of whom confessed to attending nocturnal gatherings presided over by a female figure called 'Lady Oriente' (Madonna Oriente), where they received knowledge of healing and divination. Sibillia was released after abjuration. Pierina de' Bugatis was tried again in 1390, having relapsed into her original practice, and was this time burned at the stake — the only execution in the sequence. The confessions describe a ceremonial gathering of living and dead, presided over by a beneficent female figure, in which participants learned the properties of plants, the locations of lost objects, and the arts of healing. No sexual element, no sabbath blasphemy, and no pact with a male devil appear in the testimony — the confessions represent the pre-composite popular tradition that would later be transformed by the diabolical framework into the full sabbath stereotype.",
+
+  "historiographical_significance": "The Milan trials are central to Ginzburg's argument in Ecstasies (Italian 1989, English 1991) that the composite sabbath stereotype was formed by the learned diabolical overlay onto an earlier popular tradition of nocturnal gatherings under a female leader — the 'society of Diana' tradition that the Canon Episcopi had earlier mentioned. Ginzburg reads the Lady Oriente confessions as evidence of genuine popular belief practice, distinct from the inquisitorial stereotype that the confessions were being shaped toward: the absence of the diabolical elements (pact, explicit sabbath blasphemy, male devil) distinguishes these confessions from the later fully-formed stereotype and suggests they preserve something of the underlying popular practice before the inquisitorial reframing.\n\n  Cohn disputes the Ginzburg reading, arguing that the confessions reveal inquisitorial projection onto popular beliefs rather than genuine folk-practice documentation. Kieckhefer's two-tradition analysis locates the Milan trials at the boundary between the popular maleficium-and-healing tradition and the learned diabolical framework: the confessions show popular healing and divination practice being processed through an inquisitorial vocabulary that has not yet fully imposed the composite diabolical elements. The Milan trials are therefore a critical juncture in the formation of the composite witch stereotype — the moment when popular night-gathering beliefs first entered the formal prosecutorial record in a way that preserved enough of the original content to make the transformation legible.",
+
+  "demonological_framework": [
+    "followers-of-the-lady-night-ride",
+    "composite-witch-stereotype-formation",
+    "strix-figure"
+  ],
+
+  "key_details": {
+    "primary_inquisitor": "Fra Ruggero da Casale (Dominican inquisitor, Milan)",
+    "key_accused": "Sibillia of Mantua (1384, abjured); Pierina de' Bugatis (1384 abjured; 1390 relapsed and burned)",
+    "female_leader_figure": "Madonna Oriente / Lady Oriente — a female nocturnal gathering leader distinct from the male devil of later sabbath theology",
+    "confession_content": "Healing arts, divination, knowledge of plants, gatherings of living and dead — no diabolical pact or sexual congress with devil"
+  },
+
+  "scholarly_disagreement": "Whether the Lady Oriente confessions document genuine popular belief practices (Ginzburg) or are primarily inquisitorial constructions projected onto accused persons without meaningful popular-practice substrate (Cohn). Kieckhefer's two-tradition analysis occupies middle ground. The question of how much the inquisitorial procedure shaped versus preserved the confessions' content is methodologically irreducible.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "valais-witch-trials-1427-1436",
+    "todi-1428-witchcraft-trial"
+  ],
+
+  "source_method": "Archivio di Stato di Milano, Inquisizione records, 1384 and 1390; analyzed in Ginzburg, Ecstasies (1989/1991); Kieckhefer, European Witch Trials (1976); Hutton, The Witch (2017); Cohn, Europe's Inner Demons (1975)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "cohn-europes-inner-demons-1975",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

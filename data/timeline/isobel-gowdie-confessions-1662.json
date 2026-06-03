@@ -1,0 +1,25 @@
+{
+  "id": "isobel-gowdie-confessions-1662",
+  "event_name": "Isobel Gowdie's four confessions",
+  "event_type": "trial_event",
+  "date": "1662",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Auldearn, Moray Firth, Scotland",
+  "location_slug": null,
+  "significance": "Isobel Gowdie of Auldearn made four voluntary confessional statements in 1662 — the most richly detailed and internally elaborate witch confessions in the entire Scottish record, describing coven structure, sabbat meetings, shape-shifting, fairy court visits, and maleficium. Her testimony gave the word 'coven' to the vocabulary of witchcraft and has generated sustained scholarly debate about the relationship between genuine visionary experience and inquisitorial construction.",
+  "related_entities": [
+    "isobel-gowdie-auldearn-1662",
+    "witches-sabbath-collective",
+    "followers-of-the-lady-night-ride"
+  ],
+  "source_method": "Scottish Privy Council records (Auldearn trial proceedings, 1662); analyzed in Wilby, The Visions of Isobel Gowdie (2010); Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

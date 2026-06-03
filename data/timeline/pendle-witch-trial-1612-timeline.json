@@ -1,0 +1,25 @@
+{
+  "id": "pendle-witch-trial-1612-timeline",
+  "event_name": "Pendle witch trials, Lancaster Assizes",
+  "event_type": "trial_event",
+  "date": "1612",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Pendle Forest, Lancashire; tried at Lancaster",
+  "location_slug": null,
+  "significance": "Ten executions at the Lancaster Assizes following accusations against members of the Demdike and Chattox families in Pendle Forest — England's most documented witch trial outside Salem, recorded in Thomas Potts's Wonderfull Discoverie (1613), commissioned by the assize judges. Shows the English familiar-spirit tradition alongside a partial sabbat element at the Malkin Tower meeting.",
+  "related_entities": [
+    "pendle-witch-trial-1612",
+    "animal-familiar-english",
+    "maleficium-harmful-magic"
+  ],
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Lancaster Assize records; analyzed in Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mentally-ill-differently-abled",
+  "name": "Mentally Ill and Differently Abled Accused",
+  "category": "demographic",
+  "temporal_scope": "c. 1400–1700",
+  "primary_regions": ["england", "scotland", "colonial-new-england", "rhineland"],
+
+  "group_profile": "Persons whose behavior was unusual by early modern community standards — those exhibiting symptoms of what modern diagnosis would classify as mental illness, cognitive impairment, epilepsy, or other neurological conditions — appear in the witch trial records in roles that intersect complexly with prosecution. Some were accused as witches: behavior that modern observers would attribute to mental illness (speaking to invisible presences, making threatening or nonsensical statements, behaving in antisocial ways) could be interpreted by communities as evidence of diabolical compact or maleficium practice. Others were identified as bewitched victims rather than perpetrators: the category of diabolical possession was applied to individuals exhibiting symptoms of acute psychological disturbance, possession accusation serving as a cultural framework for interpreting unusual behavior.\n\n  The most historically significant cases involve child accusers and confessing accused whose testimony patterns suggest psychological distress or suggestibility rather than stable factual recall: Dorcas Good at Salem (accused at age four or five, imprisoned with her mother Sarah Good) and several Blåkulla child witnesses exhibited testimony patterns that later observers characterized as responses to trauma, suggestion, or social pressure rather than genuine witchcraft experience. The distinction between 'genuine' mental illness and performance of the expected cultural script under prosecution pressure is methodologically irreducible from the historical record.",
+
+  "persecution_rationale": "Early modern culture possessed multiple overlapping frameworks for interpreting unusual mental and physical states: natural illness, divine affliction, diabolical possession, and witchcraft bewitchment were all available explanations. The witch accusation framework was particularly likely to be invoked when: the unusual behavior had an identifiable onset coinciding with a suspected witch's actions; when it followed a pattern of apparent compulsion (fitting, convulsing, speaking in other voices) that matched the theological description of possession; or when the individual's own testimony, shaped by examination, produced diabolically-themed content. Levack's analysis of possession cases identifies the theological framework of diabolical possession as an explanation of last resort — applied when other explanations failed and the symptoms were dramatic enough to demand supernatural accounting.",
+
+  "structural_vulnerability": "Persons with mental illness or cognitive differences were structurally vulnerable to witch accusation through several mechanisms. Their social relationships were more likely to involve dependency on community charity and the resentment that dependency could generate — the Thomas-Macfarlane pattern. Their unusual behavior more easily attracted supernatural interpretation from observers seeking to explain misfortune or antisocial conduct. Their testimony, when they were themselves accused, was more susceptible to inquisitorial shaping: the cognitive impairment or suggestibility that made them vulnerable to false accusation also made them susceptible to confessing to things they had not done. Keith Thomas's analysis in Religion and the Decline of Magic documents several cases where persons whose behavior would today be recognized as symptomatic were prosecuted as witches.",
+
+  "historiographical_significance": "The relationship between mental illness and witch trial participation has been addressed from multiple scholarly directions. Thomas's Religion and the Decline of Magic provides several case studies of accused persons whose behavior patterns suggest recognizable clinical conditions. Lyndal Roper's psychoanalytic approach in Witch Craze (2004) is explicitly concerned with the psychological dimensions of witch confession — not as evidence of mental illness in a clinical sense but as evidence of the psychological dynamics of persecution, confession, and social identification. The possession-as-mental-illness interpretation — applied retrospectively to cases like the Salem afflicted girls or the Loudun nuns — has been persistent in popular literature but is rejected by most historians as anachronistic: the debate is not whether the Salem girls were 'really' ill but how the cultural framework of possession shaped their behavior and testimony.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "demonic-possession-eschatological",
+    "torture-confession-dynamic"
+  ],
+
+  "scholarly_disagreement": "Retrodiagnosis — the retrospective clinical diagnosis of historical figures as suffering from epilepsy, ergotism, Tourette syndrome, or other conditions — is methodologically rejected by most historians as anachronistic, though it remains persistent in popular accounts. Whether the Salem girls' behavior reflected deliberate fraud, genuine psychological crisis, social contagion, or some combination is still debated. Roper's psychoanalytic approach has been criticized by historians who question the applicability of modern psychological categories to early modern subjects.",
+
+  "source_method": "Thomas, Religion and the Decline of Magic (1971); Roper, Witch Craze (2004); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

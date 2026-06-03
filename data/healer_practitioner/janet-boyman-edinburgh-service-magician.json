@@ -1,0 +1,65 @@
+{
+  "id": "janet-boyman-edinburgh-service-magician",
+  "name": "Janet Boyman",
+  "status": "Prosecuted (c. 1572); outcome uncertain",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1572,
+  "age_at_trial": null,
+  "social_status": "Service magician, Edinburgh area; healer and diviner",
+  "gender": "Female",
+
+  "self_identification": "Healer who called up the 'good neighbours' (fairy folk) for assistance; learned her practice from another service magician",
+  "claimed_abilities": [
+    "Healing through supernatural assistance of the fairy folk",
+    "Divination and finding of hidden or lost things",
+    "Political prophecy"
+  ],
+
+  "biography": "Janet Boyman of Edinburgh, whose case dates to approximately 1572, is identified by historians of the Scottish witch-hunt as the first of the detailed Scottish witchcraft indictments — the earliest surviving record of the kind of detailed account of a Scottish service magician's practices that becomes more common in the 1580s-90s prosecutorial wave. She called up the 'good neighbours' — the standard Scottish colloquial term for the fairy folk — for assistance with healing and divination, and she had apparently learned her practice from another service magician, suggesting a transmission chain of some kind rather than a wholly individual development. The detail that she became involved in political prophecy is significant: like Ann Jeffries in England seven decades later, Boyman's drift into political prognostication brought her into contact with a more dangerous set of institutional concerns than healing practice alone would have generated. Julian Goodare, who has done the most systematic archival work on Scottish witch trials, identifies the Boyman case as important for establishing that the fairy-healer tradition was operative in Scotland by the early 1570s, predating the major prosecutorial waves of 1590-91 and 1597 by two decades.",
+
+  "interrogation_narrative": {
+    "circumstances": "Edinburgh area, c. 1572; exact institutional venue uncertain in surviving records",
+    "boyman_initial_claim": "The good neighbours taught me and assist me; I learned from another practitioner; I call them up for healing and divination",
+    "interrogator_response": "The fairy framework was treated as evidence of diabolical commerce under the theological categories available to Reformed Scottish ecclesiastical authority",
+    "boyman_adaptation": "Records too fragmentary to trace the full interrogation process"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Healing through fairy contact; divination; political prophecy",
+    "under_interrogation_pressure": "The record is insufficient to trace the interrogation dynamics in detail",
+    "final_confession": "The outcome of her trial is uncertain in surviving records"
+  },
+
+  "microhistorical_significance": "Boyman's case is the earliest anchor point for the Scottish fairy-healer tradition in the judicial record — the baseline against which the later and better-documented cases (Dunlop 1576, Pearson 1588, Man 1597) are measured. Her use of the term 'good neighbours' for the fairy folk is particularly revealing: it is the standard colloquial term used by ordinary Scots to avoid naming the fairy folk directly (a practice associated with the folk belief that naming them brought their attention). This suggests her framework was embedded in widespread Scottish popular culture rather than being an idiosyncratic personal mythology.",
+
+  "actor_vs_analyst_terminology": {
+    "boyman_language": [
+      "Good neighbours (fairy folk)",
+      "Healing through their assistance"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical practitioner"
+    ]
+  },
+
+  "practical_activities": "Healing, divination, finding lost goods; political prophecy (which brought her to prosecutorial attention).",
+
+  "interrogation_outcome": "Uncertain from surviving records.",
+
+  "historiographical_significance": "Hutton in The Witch (2017) cites Boyman as the earliest example of the Scottish fairy-healer type in the judicial record, establishing the tradition's documentary presence from the early 1570s. Goodare's archival research on Scottish witch trials situates her case within the longer institutional history of Scottish witch prosecution.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Edinburgh and Scottish ecclesiastical court records; analyzed in Hutton, The Witch (2017) and Goodare, The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "The fragmentary nature of the surviving record makes definitive conclusions about the case difficult; Goodare's identification of it as the 'first detailed Scottish indictment' is widely accepted but dependent on what counts as 'detailed' in this context.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

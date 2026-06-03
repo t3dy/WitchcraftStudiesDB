@@ -1,0 +1,45 @@
+{
+  "id": "henningsen-witches-advocate-1980",
+  "title": "The Witches' Advocate: Basque Witchcraft and the Spanish Inquisition (1609-1614)",
+  "author": "Gustav Henningsen",
+  "author_slug": "henningsen-gustav-b1934",
+  "year_published": 1980,
+  "original_year": 1980,
+  "original_title": "The Witches' Advocate",
+  "original_language": "English",
+  "original_publisher": "University of Nevada Press, Reno",
+  "publisher": "University of Nevada Press",
+  "text_type": "monograph",
+
+  "subject_focus": "Archival study of Alonso de Salazar Frías's Spanish Inquisition investigation of Basque witchcraft (1609-1614), demonstrating that systematic empirical investigation found no credible evidence of actual witch practice and resulting in effective termination of prosecution.",
+
+  "summary": "The Witches' Advocate is Henningsen's archival reconstruction of Spanish Inquisition commissioner Alonso de Salazar Frías's investigation of the Basque witch panic of 1609-1610 — the same panic that simultaneously drove Pierre de Lancre's mass prosecution on the French side of the border. Drawing on the Inquisition's internal files at the Archivo Histórico Nacional, Henningsen documented Salazar's systematic empirical methodology: the commissioner examined over 1,800 self-confessed witches and their alleged victims, subjected their claims to physical and documentary scrutiny, and found no credible evidence that any of the alleged witchcraft had actually occurred. Salazar's famous conclusion — 'there were neither witches nor bewitched until they were talked and written about' — is the most explicit formulation of the claim that witch prosecution created its subject rather than discovering it.",
+
+  "scholarly_significance": "The Witches' Advocate is the paradigm case study for the institutional analysis of witch prosecution. Henningsen's argument, grounded in exceptional archival research, demonstrates both why the Spanish Inquisition served as a restraining force on witch prosecution and how a systematic empirical investigation, conducted within the early seventeenth century's own evidential framework, could reach the conclusion that widespread confessions did not reflect actual practice.\n\n  The contrast between Salazar (Spanish Inquisition, procedural constraints, systematic empiricism, effective restraint of prosecution) and de Lancre (French secular magistrate, no oversight, cultural incomprehension, mass execution) is the primary comparative case study in the historiography for how institutional structure shapes prosecutorial outcomes from the same accusation material. This contrast is central to Levack's institutional analysis and to the database's inquisitorial_body entries.\n\n  The book also provides the most detailed treatment of the Basque witch prosecutions and the navarre/basque-country location entries draw directly on its findings.",
+
+  "key_arguments": [
+    {
+      "concept": "The Spanish Inquisition as restraining institution",
+      "claim": "The Spanish Inquisition's procedural constraints, central oversight from Madrid, and empirical orientation toward evidence-testing made it a substantially restraining force on witch prosecution in areas under its jurisdiction — contrary to popular mythology about the Inquisition as a driver of persecution."
+    },
+    {
+      "concept": "Systematic empirical investigation",
+      "claim": "Salazar subjected witch claims to systematic physical and documentary scrutiny — testing whether alleged victims showed marks of bewitchment, whether sabbath gatherings could have occurred as described, whether alleged magical objects were what confessors claimed. In case after case, physical investigation failed to confirm the confessional claims."
+    },
+    {
+      "concept": "Witchcraft created by discourse",
+      "claim": "Salazar's conclusion — 'there were neither witches nor bewitched until they were talked and written about' — articulates the argument that the witch-trial system created its own subjects through accusation, interrogation, and confession rather than identifying pre-existing practitioners."
+    }
+  ],
+
+  "relation_to_database": "Central to the spanish-inquisition inquisitorial_body entry and the navarre location entry. Henningsen is cited as the authority for the contrast between French and Spanish Basque prosecution. The de-lancre-labourd-investigation-1609 trial_event entry references it as the comparative context.",
+
+  "scholarly_disagreement": "The degree to which Salazar's investigation was representative of Spanish Inquisition practice generally (versus an exceptional exercise by an unusually empirically minded commissioner) is debated. Kamen and other historians of the Spanish Inquisition accept Henningsen's finding while noting that not all Inquisition commissioners were as rigorous as Salazar.",
+
+  "source_method": "Published text, University of Nevada Press 1980; based on Archivo Histórico Nacional, Inquisición files",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

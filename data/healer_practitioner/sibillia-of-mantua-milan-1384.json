@@ -1,0 +1,68 @@
+{
+  "id": "sibillia-of-mantua-milan-1384",
+  "name": "Sibillia of Mantua",
+  "status": "Abjured",
+  "trial_id": "milan-lady-oriente-trials-1384-1390",
+  "location_id": "milan",
+  "year_interrogated": 1384,
+  "age_at_trial": null,
+  "social_status": "Woman of Mantuan origin resident in Milan; social status otherwise unknown",
+  "gender": "Female",
+
+  "self_identification": "Follower of 'Madonna Oriente' (Lady Oriente) — a female gathering-leader she described as a beneficent nocturnal presider over assemblies of living and dead",
+  "claimed_abilities": [
+    "Attendance at nocturnal gatherings presided over by Madonna Oriente",
+    "Knowledge of healing properties of plants, received at the gatherings",
+    "Ability to learn the location of lost or stolen objects through the gathering's information",
+    "Communication with both living and dead participants in the nightly assembly"
+  ],
+
+  "biography": "Sibillia of Mantua was examined by the Dominican inquisitor Fra Ruggero da Casale in Milan in 1384 in what constitutes the earliest documented prosecutorial encounter with the 'followers of the Lady Oriente' tradition — the most important antecedent of the composite sabbath stereotype in the Italian records. Sibillia described attending gatherings on Thursday nights presided over by 'Madonna Oriente,' a female figure of beneficent authority who taught her followers healing arts, the properties of plants, and the location of lost objects. At these gatherings, participants encountered both living persons and the dead; the Lady Oriente presided over a complex ritual assembly that bore no sexual element, no male devil, and no explicit diabolical pact.\n\n  Sibillia's testimony is among the most important pre-composite-stereotype documents in the Italian witch-trial record. The Lady Oriente she describes is structurally continuous with the female nocturnal-gathering leader mentioned in the Canon Episcopi (c. 900) — the 'Diana' or 'Herodias' with whom women believed they rode by night — but her version is particularized and specific in ways that suggest genuine popular belief rather than inquisitorial projection. The gathering she describes serves recognizable practical functions (healing, divination, information about lost objects) that place it within the well-documented tradition of folk magical practitioners rather than the later theological conspiracy model.\n\n  Sibillia abjured at the 1384 trial and was released — the standard outcome for a first offense before the composite stereotype had hardened into the prosecutorial form that would make execution the normal response. She appears to have been one source from which the inquisitor learned of Pierina de' Bugatis, who was tried in the same sequence. Ginzburg, in Ecstasies (1991), reads the Sibillia testimony as among his primary pieces of evidence for the pre-diabolical layer of the composite witch stereotype — the folk-practice substrate that learned demonology would subsequently transform.",
+
+  "interrogation_narrative": {
+    "circumstances": "Dominican inquisition, Milan, 1384; Fra Ruggero da Casale, inquisitor",
+    "self_identification": "Follower of Lady Oriente; received healing knowledge and divination at nocturnal gatherings",
+    "interrogator_response": "No apparent attempt to impose the diabolical pact framework at this early date; the inquisitor appears to have recorded the testimony rather than systematically reformatting it into standard heresy categories",
+    "adaptation": "Sibillia's testimony was recorded as describing a benevolent gathering rather than a diabolical conspiracy; the absence of the diabolical elements is the historiographically significant feature"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Attendance at Thursday-night gatherings; Madonna Oriente as presiding female figure; healing and divination received there; encounters with living and dead",
+    "under_interrogation_pressure": "No evidence of significant modification under interrogation; the account appears relatively stable",
+    "final_confession": "Abjured and released after 1384 examination"
+  },
+
+  "microhistorical_significance": "Sibillia's testimony is one of Ginzburg's primary pieces of evidence in Ecstasies (1991) for his argument that the composite sabbath stereotype was formed by learned diabolical overlay onto an older popular tradition of nocturnal gatherings under female leadership. The absence from Sibillia's account of the fully-formed diabolical elements — the explicit pact with Satan, the sabbath blasphemy, the cold sex with the devil — that would characterize later Continental prosecution testimony is what Ginzburg reads as evidence of the pre-composite popular tradition. The Milan trials of 1384 and 1390 are therefore key documents in the formation-of-stereotype argument: they show the prosecutorial apparatus encountering the popular tradition at a moment before the full diabolical transformation had been imposed.",
+
+  "actor_vs_analyst_terminology": {
+    "sibillia_language": [
+      "Madonna Oriente / Lady Oriente",
+      "Gatherings on Thursday nights",
+      "The good society (buona società) — a phrase that suggests benevolent rather than diabolical association"
+    ],
+    "prosecution_categories": [
+      "Heresy",
+      "Diabolical association (implicit framework, though not fully developed in 1384 records)"
+    ]
+  },
+
+  "practical_activities": "Sibillia's claimed practice centered on healing and divination — she used knowledge received at the gatherings with Lady Oriente to heal illness and locate lost objects. This is the standard service-magic function that Hutton documents across multiple European traditions, here embedded in a specifically Italian nocturnal-gathering framework.",
+
+  "interrogation_outcome": "Abjured and released in 1384; not subsequently tried. Pierina de' Bugatis, associated with the same Lady Oriente tradition, was tried in 1390 and executed after relapsing.",
+
+  "historiographical_significance": "Sibillia's case is analyzed by Ginzburg in Ecstasies (1991) as founding evidence for the pre-composite popular tradition. Kieckhefer's European Witch Trials (1976) provides the broader context of Italian prosecution before the composite stereotype's formation. Hutton in The Witch (2017) situates the Milan Lady Oriente material within the broader tradition of 'followers of the lady' that he traces across European popular magical culture.",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "source_method": "Archivio di Stato di Milano, Inquisizione records (1384); analyzed in Ginzburg, Ecstasies: Deciphering the Witches' Sabbath (1991); Kieckhefer, European Witch Trials (1976); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether the Lady Oriente testimony preserves genuine popular belief (Ginzburg) or is substantially shaped by inquisitorial questioning about heretical associations (Cohn) is the foundational debate. Kieckhefer's two-tradition analysis occupies middle ground: both popular practice and learned framework contributed to what the testimony records.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

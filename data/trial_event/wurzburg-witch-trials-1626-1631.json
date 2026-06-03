@@ -1,0 +1,51 @@
+{
+  "id": "wurzburg-witch-trials-1626-1631",
+  "name": "Würzburg Mass Witch Trials",
+  "location_id": "wurzburg",
+  "year_start": 1626,
+  "year_end": 1631,
+  "alleged_accused_count": 900,
+  "executed_count": 300,
+  "regional_context": "Prince-Bishopric of Würzburg; Franconia; Holy Roman Empire; concurrent with Bamberg prosecution under different jurisdictional authority",
+
+  "summary": "The Würzburg witch trials of 1626-1631 rank among the largest German witch prosecutions of the period, conducted simultaneously with the Bamberg prosecution in the adjacent Prince-Bishopric under Prince-Bishop Philipp Adolf von Ehrenberg. Approximately 300 people were executed in nineteen recorded execution sessions, with the accused drawn from all social strata including members of cathedral chapters, prominent civic officials, university students, children (some as young as nine or ten), and the Prince-Bishop's own nephew. The Würzburg and Bamberg prosecutions together represent the peak of the German 'superhunt' dynamic: two adjacent ecclesiastical principalities with strong episcopal authority, no effective secular oversight, and the institutional capacity to sustain large-scale prosecution over multiple years.\n\n  The theological machinery sustaining the Würzburg prosecution was supplied partly by the broader demonological tradition (Del Rio's Disquisitiones Magicae was in circulation) and partly by the crimen exceptum doctrine that justified extraction of denunciations through torture. One witness list from Würzburg, the 'Würzburg witch list,' survives and documents 157 named individuals tried in a series of 'burnings'; a contemporary account identifies victims including schoolchildren, a page-boy, a blind girl, the prettiest girl in the town, and the city's fattest citizen — social details that communicate the prosecution's indiscriminate scope.",
+
+  "historiographical_significance": "Midelfort's Witch Hunting in Southwestern Germany (1972) provides the foundational analysis of the Würzburg trials within the comparative German pattern. Würzburg is significant in the comparative historiography as the closest parallel to Bamberg: two adjacent episcopal principalities running concurrent mass prosecutions using the same procedural mechanisms, the same demonological framework, and the same social dynamic of denunciation cascade. The comparison allows isolation of institutional variables: both prosecutions share the same formal structure (episcopal secular court, no effective external oversight, systematic torture, crimen exceptum doctrine) while their prosecution timelines are slightly offset, suggesting that local contingency — the personality of the presiding official, specific local trigger events — determined the timing and scale within a structural framework that made mass prosecution possible.\n\n  The Würzburg prosecution ended with the advance of Swedish forces during the Thirty Years' War, which disrupted the ecclesiastical principalities' institutional capacity to maintain prosecution — an externally-imposed terminus that illustrates Levack's point about the role of institutional disruption in ending mass prosecutions.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "torture-confession-dynamic",
+    "crimen-exceptum"
+  ],
+
+  "key_details": {
+    "presiding_authority": "Prince-Bishop Philipp Adolf von Ehrenberg (r. 1623–1631)",
+    "execution_record": "Würzburg witch list documents 157 named victims in nineteen execution series; estimated 300 total",
+    "notable_victims": "Cathedral canons; university students; children aged nine and ten; Prince-Bishop's nephew; a blind girl; civic officials",
+    "terminus": "Swedish invasion during Thirty Years' War (1631-32) interrupted prosecution and Prince-Bishop Ehrenberg died 1631"
+  },
+
+  "scholarly_disagreement": "The exact number of executions is uncertain: the figure of 300 is commonly cited but likely conservative given the fragmentary record survival. The degree to which Würzburg's prosecution was shaped by specific local factors versus the same structural conditions that produced Bamberg is a standard question in comparative German witch-hunt analysis.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution",
+    "trier-witch-trials-1581-1593"
+  ],
+
+  "source_method": "Würzburg Stadtarchiv; contemporary accounts; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Levack, The Witch-Hunt in Early Modern Europe (2006); Behringer, Witches and Witch-Hunts (2004); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

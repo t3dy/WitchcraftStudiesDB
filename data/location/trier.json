@@ -1,0 +1,69 @@
+{
+  "id": "trier",
+  "name": "Electorate of Trier",
+  "type": "Ecclesiastical State",
+  "region": "Western Holy Roman Empire / Rhine Valley",
+  "modern_location": "Rhineland-Palatinate, Germany",
+  "coordinates": {
+    "latitude": 49.749,
+    "longitude": 6.638
+  },
+  "hover_description": "Trier, 1581–1593: ~300–400 executions in Germany's first sustained superhunt. Archbishop Schoenenberg authorized prosecution against all social strata.",
+
+  "administrative_context": "The Electorate of Trier was one of the seven electoral states of the Holy Roman Empire, governed by an Archbishop-Elector who combined ecclesiastical and secular authority. Trier was an ancient episcopal seat with strong institutional apparatus for both canonical and secular prosecution.",
+
+  "witchcraft_trials_significance": "The Trier witch hunt of 1581–1593 was Germany's first sustained 'superhunt' — a mass prosecution extending across all social strata and consuming an estimated 300–400 lives. The hunt began with hailstorm disasters blamed on witchcraft and escalated through denunciation cascades. Its scale and duration established the template for the subsequent German superhunts at Würzburg and Bamberg. Burgomasters, cathedral canons, and secular officials were among those executed — demonstrating that the denunciation dynamic recognized no social ceiling.",
+
+  "trial_events": [
+    "trier-witch-trials-1581"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "Johann von Schoenenberg",
+      "role": "Archbishop-Elector of Trier (1581–1599)",
+      "contribution_to_trials": "Authorized and sustained the prosecution; created specialized witch tribunals; dismissed officials who raised objections"
+    },
+    {
+      "name": "Peter Binsfeld",
+      "role": "Suffragan Bishop of Trier",
+      "contribution_to_trials": "Theological architect of the prosecution; authored Tractatus de confessionibus maleficorum (1589) defending torture-derived confession and children's testimony against accused family members"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1581": "Initial prosecutions following crop failures and hailstorms; primarily rural accused",
+    "1582–1586": "Expansion through confession-and-denunciation spiral; several villages nearly depopulated",
+    "1587–1591": "Peak intensity; burgomasters of Trier and cathedral canons among the accused",
+    "1591–1593": "Prosecution continues but begins to moderate; regional resistance from imperial courts"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Electorate of Trier and surrounding territories along the Mosel and Rhine",
+    "social_reach": "All strata: rural peasants through urban elites; secular officials; clergy",
+    "mortality_impact": "Estimated 300–400 executions from several thousand accusations"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark uses Trier as a key case demonstrating that the German superhunts were products of the intersection of demonological theory (Binsfeld's systematic defense of procedure), institutional structures (the episcopal court), and specific social pressures (crop failures creating demand for explanation).",
+    "hutton_perspective": "Hutton identifies Trier as the prototype of the denunciation-spiral mechanism: once large-scale prosecution began, each confession generated new names until the process became self-sustaining.",
+    "ginzburg_perspective": "Ginzburg's interrogation analysis applies directly to Trier: the confession procedure systematically produced evidence of a diabolical conspiracy through exactly the mechanism he identifies — torture-shaped confessions feeding denunciation cascades."
+  },
+
+  "legacy_and_historiographical_importance": "The Trier hunt's scale across social strata — its most striking feature — generated direct contemporary critique from Friedrich Spee (who served as confessor to condemned Trier witches) and prompted the composition of the Cautio Criminalis (1631). Trier is therefore both a prosecution site and the indirect cause of the most important contemporary critique of witch prosecution.",
+
+  "primary_sources": "Trial records in the Trier episcopal archives; Binsfeld's Tractatus de confessionibus (1589); contemporary chronicles including those of Cornelius Loos (who was silenced for opposing the trials)",
+
+  "source_method": "Stuart Clark, Thinking with Demons (1997/2001); Brian Levack, The Witch-Hunt in Early Modern Europe (3rd ed., 2006); Wolfgang Behringer, Witches and Witch-Hunts (2004); primary sources via Binsfeld",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "binsfeld-tractatus-1589",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

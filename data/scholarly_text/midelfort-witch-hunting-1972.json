@@ -1,0 +1,45 @@
+{
+  "id": "midelfort-witch-hunting-1972",
+  "title": "Witch Hunting in Southwestern Germany, 1562–1684: The Social and Intellectual Foundations",
+  "author": "H.C. Erik Midelfort",
+  "author_slug": "midelfort-hans-c-erik-b1942",
+  "year_published": 1972,
+  "original_year": 1972,
+  "original_title": "Witch Hunting in Southwestern Germany, 1562–1684",
+  "original_language": "English",
+  "original_publisher": "Stanford University Press",
+  "publisher": "Stanford University Press (1972)",
+  "text_type": "monograph",
+
+  "subject_focus": "First systematic regional statistical analysis of German witch prosecution, establishing the institutional and social conditions enabling 'superhunt' mass prosecution in southwestern German ecclesiastical territories.",
+
+  "summary": "Midelfort's Witch Hunting in Southwestern Germany is the foundational quantitative study of German witch prosecution and the first systematic application of social history methodology to the German witch-hunt material. Drawing on archives of southwestern German ecclesiastical and secular courts, Midelfort constructed the first comprehensive statistical picture of German prosecution patterns, demonstrating that witch hunting occurred in waves, was concentrated in specific institutional contexts (episcopal secular courts), and escalated dramatically when the denunciation-cascade mechanism converted isolated accusations into mass prosecution. The book identified the conditions enabling the 'superhunt' (Hexenjagd): episcopal secular authority without effective external oversight, systematic use of torture, the crimen exceptum doctrine, and specific social trigger events (crop failure, epidemic) that created demand for diabolical explanation. Midelfort's quantitative findings — including the first reliable execution estimates for southwestern Germany — remain foundational for comparative analysis.",
+
+  "scholarly_significance": "Midelfort's book established the analytical framework for the German superhunt that all subsequent scholarship builds on. Its significance is both empirical (the first systematic quantitative study of any major European prosecution jurisdiction) and analytical (the identification of institutional enabling conditions). The book's comparative approach — analyzing multiple southwestern German jurisdictions against each other — allowed Midelfort to isolate the institutional variables that distinguished high-prosecution from low-prosecution contexts, anticipating Levack's later European-wide comparative synthesis.\n\n  Levack's Witch-Hunt in Early Modern Europe (1987, 3rd ed. 2006) explicitly synthesizes Midelfort's German findings with national-level studies from other countries. Behringer's subsequent work on Bavaria builds on and extends Midelfort's southwestern Germany analysis. The book's discussion of mass prosecution dynamics — how small-scale prosecution could escalate into the superhunt pattern — remains the most precise analysis of the cascade mechanism available for any specific regional case.",
+
+  "key_arguments": [
+    {
+      "concept": "Institutional enabling conditions for superhunt",
+      "claim": "Mass witch prosecution in Germany was enabled by the concentration of ecclesiastical and secular authority in episcopal rulers who could authorize and sustain prosecution without the checks provided by external oversight, legislative constraint, or appellate review."
+    },
+    {
+      "concept": "Denunciation cascade as escalation mechanism",
+      "claim": "Small-scale prosecution escalated into mass prosecution when systematic torture-based denunciation produced cascading accusations that the prosecution machinery could not contain: each accused person named multiple accomplices, whose arrest and torture produced further names."
+    },
+    {
+      "concept": "Regional and jurisdictional variation",
+      "claim": "Prosecution intensity varied dramatically across southwestern Germany depending on jurisdictional type, with episcopal secular courts consistently producing higher execution rates than imperial free cities or secular territorial courts with more balanced authority structures."
+    }
+  ],
+
+  "relation_to_database": "Midelfort's analysis is referenced in the trier-witch-trials-1581-1593, wurzburg-witch-trials-1626-1631, and bamberg-1626-mass-prosecution trial_event entries, and provides the institutional analysis underlying the crimen-exceptum and torture-confession-dynamic concept entries.",
+
+  "scholarly_disagreement": "Behringer's subsequent quantitative work on Bavaria has revised some of Midelfort's execution estimates upward; the exact magnitude of southern German witch execution remains debated. Midelfort's emphasis on institutional factors has been complemented but not superseded by cultural and intellectual analyses (Clark) and psychological analyses (Roper).",
+
+  "source_method": "Published text, Stanford University Press 1972; primary sources: southwestern German episcopal and secular court archives",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

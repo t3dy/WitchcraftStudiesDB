@@ -1,0 +1,50 @@
+{
+  "id": "spectral-evidence",
+  "name": "Spectral Evidence",
+  "category_type": "ANALYST_TERM",
+  "time_period": "1692 (Salem); analogous forms c. 1580–1700",
+  "primary_locale": "Colonial Massachusetts; analogous evidentiary debates in England and Continental Europe",
+
+  "scholarly_definition": "Spectral evidence was testimony, accepted as evidence in the 1692 Salem prosecutions, that the accused person's 'specter' or spirit-form had appeared to and tormented the witness in a dream or vision — evidence of supernatural harm that could not be independently verified and that depended entirely on the witness's report of an invisible experience. The Court of Oyer and Terminer admitted spectral testimony as primary evidence; the critical methodological question was whether the devil could assume the shape of an innocent person to torment victims — if so, a reported spectre proved nothing about the actual accused's involvement. The admission of spectral evidence was the most contested procedural issue at Salem and was ultimately identified by Samuel Willard, Increase Mather, and others as the primary evidentiary failing of the 1692 prosecutions.",
+
+  "intellectual_genealogy": {
+    "theological_background": "The question of whether the devil could assume the shape of an innocent person was an active theological debate in late seventeenth-century Puritan thought. Thomas Perkins's Discourse of the Damned Art of Witchcraft (1608) acknowledged the possibility; Cotton Mather initially supported admission of spectral evidence at Salem before reconsidering. The issue turned on whether God would permit Satan to use an innocent person's form to harm others — which seemed theologically implausible but could not be definitively ruled out.",
+    "continental_parallel": "Continental European prosecutions grappled with analogous evidentiary problems around torture-based denunciation: if a person named accomplices under torture, was that sufficient evidence of those accomplices' guilt? Friedrich Spee's Cautio Criminalis (1631) applied the same skeptical logic to torture-denunciation that Increase Mather applied to spectral evidence: the procedure could not reliably distinguish the guilty from the innocent.",
+    "formal_rejection": "Increase Mather's Cases of Conscience Concerning Evil Spirits Personating Men (1693) provided the formal theological argument against admitting spectral evidence, arguing that the devil could indeed assume innocent shapes and that spectral testimony therefore proved nothing about the accused."
+  },
+
+  "clark_intellectual_analysis": "For Clark, the spectral evidence debate exemplifies the engagement of learned Protestant theology with the epistemological problems of witch prosecution: it was not a debate about whether witches or the devil existed but about the specific evidentiary implications of Calvinist theology regarding divine permission and satanic capacity. The argument was conducted in the same formal theological idiom that characterized Continental demonological discourse.",
+
+  "hutton_social_analysis": "Hutton notes that the spectral evidence admission at Salem reflected a distinctive New England Puritan theological culture that had no precise European equivalent — the combination of intense providentialist theology, frontier anxiety, and the specific judicial culture of the Court of Oyer and Terminer produced a prosecutorial context in which spectral evidence could be admitted and acted upon in ways that would have been contested in most contemporary European jurisdictions.",
+
+  "ginzburg_interrogation_analysis": "The spectral evidence problem is structurally related to Ginzburg's analysis of inquisitorial confession: both involve the prosecution accepting as evidence testimony about invisible events (sabbath attendance in one case, spectral torment in the other) that the accused had no capacity to disprove and that the courts' procedural frameworks could not independently verify.",
+
+  "actor_perspective": {
+    "contemporary_defenders": "Cotton Mather's Wonders of the Invisible World (1693) defended the admission of spectral evidence at Salem, arguing that the devil could not have acted without the witches' complicity.",
+    "contemporary_critics": "Increase Mather, Thomas Brattle, Robert Calef, and Samuel Willard argued against spectral evidence, with Mather's Cases of Conscience providing the formal theological refutation."
+  },
+
+  "distinctive_features": {
+    "salem_specific": "Spectral evidence became a named controversy specifically in the Salem context; analogous issues existed elsewhere but were rarely debated under this terminological identity",
+    "epistemological_core": "The fundamental question was whether the supernatural experience of a witness (the spectre's appearance) could be treated as evidence of the accused's guilt — an epistemological problem that the court's own theological commitments prevented it from resolving consistently",
+    "post-salem_rejection": "After Salem, spectral evidence was explicitly excluded from prosecution in subsequent American and English cases, contributing to the effective end of witch prosecution"
+  },
+
+  "geographic_distribution": "Salem 1692 specifically; the underlying epistemological problem appeared in Continental debates about torture-based denunciation and English debates about 'common fame' evidence.",
+
+  "historiographical_significance": "Boyer and Nissenbaum's Salem Possessed (1974) and Norton's In the Devil's Snare (2002) both analyze the spectral evidence controversy as a key factor in the Salem prosecution's scale and ultimate collapse. The admission of spectral evidence enabled the prosecution to escalate rapidly (any accused spectre constituted sufficient evidence) and its rejection provided the mechanism for termination. Cotton Mather's defense of spectral evidence and Increase Mather's refutation represent the founding documents of the American witch-trial debate.",
+
+  "source_method": "Salem examination records; Cotton Mather, Wonders of the Invisible World (1693); Increase Mather, Cases of Conscience (1693); analyzed in Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-devils-snare-2002",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "alison-pearson-fife-fairy-healer",
+  "name": "Alison Pearson",
+  "status": "Executed (burned)",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1588,
+  "age_at_trial": null,
+  "social_status": "Healer and magical practitioner, Fife; clientele included high nobility",
+  "gender": "Female",
+
+  "self_identification": "Healer who learned her arts from green-clad supernatural beings and from her dead cousin Mr. William Simpson",
+  "claimed_abilities": [
+    "Healing of physical illness and injury",
+    "Recovery from conditions diagnosed as magical in origin",
+    "Divination and prediction of outcomes",
+    "Knowledge of medicinal herbs and cures"
+  ],
+
+  "biography": "Alison Pearson of Byrehill in Fife was tried for witchcraft around 1588 and provides one of the most socially striking examples in the Scottish fairy-healer tradition: her clients included Patrick Adamson, Archbishop of St Andrews, who is said to have sought her help for his health. That an archbishop of the national church sought the services of a woman the same church would prosecute and execute as a witch encapsulates the paradox Hutton identifies at the heart of the cunning-folk tradition — that these practitioners were socially embedded and valued even by those with institutional reasons to suppress them. According to her testimony, Pearson learned her healing arts by observing green-clad supernatural men and women, and received further knowledge from Mr. William Simpson, a male cousin who had died and whose spirit remained accessible to her. Like Elizabeth Dunlop, she operated within the Scottish fairy-contact cosmology rather than within any explicitly demonic framework. Her trial and execution demonstrated that the political enemies a successful healer inevitably made could overcome the social protection her client base provided.",
+
+  "interrogation_narrative": {
+    "circumstances": "Tried for witchcraft in Fife c. 1588; exact institutional venue not entirely clear in the surviving records",
+    "pearson_initial_claim": "Green-clad supernatural beings and my dead cousin William Simpson taught me healing arts; I learned from observation of and interaction with the fairy folk",
+    "interrogator_response": "Pressing toward standard demonological categories of demonic pact and sabbath attendance",
+    "pearson_adaptation": "Her testimony preserved elements of the fairy-healer cosmology throughout, though the prosecution framework imposed demonological interpretation"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Pearson acknowledged learning from green-clad supernatural beings and from her dead cousin; the fairy contact framework is central to her testimony",
+    "under_interrogation_pressure": "The supernatural beings she described were gradually identified with demonic forces by her interlocutors; her resistance to total reframing appears to have been only partial",
+    "final_confession": "Convicted on charges incorporating both maleficium and prohibited supernatural commerce; executed"
+  },
+
+  "microhistorical_significance": "The Alison Pearson case is significant for the social breadth it reveals in the healer's client base. The Archbishop of St Andrews's reported recourse to a woman later burned as a witch suggests that in practice the demonological condemnation of non-sacramental healing was observed more in theory than in the desperate moments of illness. The case also illustrates the mechanism by which success generated prosecution risk: a healer well-known enough to treat archbishops was well-known enough to acquire powerful enemies.",
+
+  "actor_vs_analyst_terminology": {
+    "pearson_language": [
+      "The green folk",
+      "Mr. William Simpson (dead cousin)",
+      "Fairy healing"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Familiar spirit dealings",
+      "Demonic commerce"
+    ]
+  },
+
+  "practical_activities": "Pearson's practice included healing of physical illness (including conditions attributed to magical causes), herbal medicine, and divination. The archbishop's use of her services suggests her reputation extended to treating difficult medical cases where conventional early modern medicine had not succeeded.",
+
+  "interrogation_outcome": "Tried and convicted; executed by burning c. 1588 in Fife.",
+
+  "historiographical_significance": "Alison Pearson is among the cases Hutton analyzes in The Witch (2017) as exemplifying the Scottish fairy-healer tradition — a population of service magicians who understood their practice through a cosmology of fairy contact and dead human intermediaries rather than through any demonic framework. Julian Goodare's work on Scottish witch trials situates Pearson within the social dynamics of the late sixteenth-century prosecutorial wave that followed James VI's accession and the intensification of Reformed ecclesiastical discipline. The archbishop's use of her services — and his subsequent failure to protect her — illustrates the social complexity of the cunning-folk tradition that simple 'persecution of healers' narratives miss.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Scottish trial records; Pitcairn, Criminal Trials in Scotland (1833); analyzed in Hutton, The Witch (2017) and Goodare, The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Emma Wilby in Cunning Folk and Familiar Spirits (2005) emphasizes the visionary and experiential dimension of Pearson's fairy contacts, arguing for genuine altered-state experiences rather than pure cultural construction. Hutton accepts the sincerity of the experience while questioning what tradition-historical conclusions can be drawn from it.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "trier-witch-trials-1581-1593",
+  "name": "Trier Electoral Witch Trials",
+  "location_id": "trier",
+  "year_start": 1581,
+  "year_end": 1593,
+  "alleged_accused_count": 1000,
+  "executed_count": 368,
+  "regional_context": "Electoral Archbishopric of Trier; Holy Roman Empire; Moselle valley",
+
+  "summary": "The Trier witch trials of 1581-1593 constitute one of the most intense witch-hunt episodes in German history, with approximately 368 documented executions across a twelve-year period in the Electoral Archbishopric of Trier. The prosecution was driven primarily by Dr. Dietrich Flade — Trier's leading secular judge and rector of the University of Trier — in his early career as a prosecutorial advocate, and then, in a profound reversal, destroyed him when he was himself accused, tortured, convicted, and executed in 1589. Flade's case is historiographically significant as one of the most dramatic examples of the prosecution's self-consuming character: the leading promoter of the Trier trials became its most prominent victim. The broader prosecution is associated with the auxiliary bishop Peter Binsfeld, whose Tractatus de confessionibus maleficorum (1589) — a major demonological text published at the height of the Trier trials — systematically defended torture-based confession evidence against skeptics.",
+
+  "historiographical_significance": "The Trier trials are significant in the comparative historiography for three reasons. First, the Flade case exemplifies the cascade mechanism's capacity to consume its own architects: Flade was named under torture by accused persons in the prosecutorial wave he had promoted, and despite his high status (University rector, leading judge) was unable to escape conviction. Second, Binsfeld's Tractatus — published at Trier in 1589 and directly shaped by the trials' proceedings — is a major demonological text that systematically addressed the evidential and procedural questions the trials raised about the reliability of torture-based confession. Third, the scale of the Trier prosecution — approximately 368 executions in a single archbishopric over twelve years — illustrates the institutional conditions (episcopal authority, secular judicial cooperation, demonological ideology, absence of effective external oversight) that Levack identifies as enabling mass prosecution.",
+
+  "demonological_framework": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "torture-confession-dynamic",
+    "crimen-exceptum"
+  ],
+
+  "key_details": {
+    "primary_promoter": "Dr. Dietrich Flade (leading judge; became accused and executed 1589)",
+    "demonological_theorist": "Peter Binsfeld (auxiliary bishop of Trier; Tractatus de confessionibus 1589)",
+    "prosecution_mechanism": "Episcopal secular court jurisdiction; systematic use of torture; cascade denunciation",
+    "collapse": "Flade's execution (1589) effectively ended the most intense phase; prosecution continued at lower intensity through 1593"
+  },
+
+  "scholarly_disagreement": "The exact number of executions is uncertain (estimates range from 306 to over 1,000); the figure of 368 is commonly cited but based on partial records. The degree to which the Trier prosecution was driven by genuine elite belief in diabolical conspiracy versus political and factional dynamics within the Trier archbishopric is debated.",
+
+  "accused_persons": [],
+
+  "related_trials": [
+    "bamberg-1626-mass-prosecution"
+  ],
+
+  "source_method": "Trier episcopal archives; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Levack, The Witch-Hunt in Early Modern Europe; Hutton, The Witch (2017); Behringer, Witches and Witch-Hunts (1998)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

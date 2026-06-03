@@ -1,0 +1,53 @@
+{
+  "id": "kilkenny-kyteler-trial-1324",
+  "name": "Kilkenny Kyteler Prosecution",
+  "location_id": "kilkenny",
+  "year_start": 1324,
+  "year_end": 1325,
+  "alleged_accused_count": 12,
+  "executed_count": 1,
+  "regional_context": "Kilkenny, Anglo-Norman Ireland, Diocese of Ossory",
+
+  "summary": "The Kilkenny prosecution of 1324-1325 — directed by Richard de Ledrede, Bishop of Ossory, against Lady Alice Kyteler and her associates — constitutes one of the earliest fully documented composite witchcraft prosecutions in European history, predating the Alpine trials conventionally identified as the origin of the composite stereotype by more than a century. The case arose from a family property dispute among English settler families in Anglo-Norman Ireland: Alice Kyteler's stepsons (children of her previous three husbands) alleged that she had poisoned three of their fathers and was ruining the health of her fourth husband, Sir John le Poer. Bishop de Ledrede, recently arrived from Avignon trained in the Continental heresy-inquisition framework, transformed what might have remained a civil property dispute into an accusation of satanic conspiracy, bringing charges that assembled the full range of elements that would later define the composite witch stereotype. Alice escaped to England with the assistance of powerful secular patrons; her servant Petronilla of Meath was tortured, confessed, and burned — becoming the first person executed for heresy in Ireland.",
+
+  "historiographical_significance": "The Kyteler case is significant in the historiography of witchcraft for three reasons: first, its remarkably early date demonstrates that composite witchcraft charges — demonic pact, familiar, sabbath-adjacent gatherings, diabolical apostasy — could be assembled a century before the Alpine trials; second, the case documents the mechanism by which a Continental-trained inquisitor (de Ledrede had Avignon connections) introduced demonological categories into a jurisdiction without an established prosecutorial tradition; third, the social dynamic in which the high-status primary defendant escaped while a low-status associate (Petronilla) absorbed the lethal force of the prosecution became a recurring pattern in later mass prosecution dynamics. Hutton in The Witch (2017) situates the case within his analysis of the composite stereotype's formation; Ankarloo and Clark's volume on the Middle Ages provides comparative analysis.",
+
+  "demonological_framework": [
+    "demonic-pact-early-modern",
+    "composite-witch-stereotype-formation",
+    "maleficium-harmful-magic"
+  ],
+
+  "key_details": {
+    "prosecuting_bishop": "Richard de Ledrede, Bishop of Ossory (Franciscan; arrived from Avignon c. 1317)",
+    "primary_target": "Alice, Lady Kyteler (Anglo-Norman moneylender; escaped to England)",
+    "secondary_targets": "Petronilla of Meath (servant; executed); Robin son of Art (demon familiar named in charges); associated household members",
+    "charges": "Demonic pact with 'Robert, son of Art'; nocturnal sacrifices of cocks at crossroads; preparation of magical potions in the skull of a decapitated criminal; sexual relations with a demon; heretical apostasy and renunciation of Christianity; organized membership in a satanic sect",
+    "evidence": "Confessions extracted from Petronilla through torture (described as 'six floggings' in the chronicle account); testimony from Alice's stepsons; letter allegedly found in Alice's home describing demonic rites",
+    "outcome": "Alice Kyteler fled to England before conviction; Petronilla of Meath burned at Kilkenny 1325; other associates received lesser penalties"
+  },
+
+  "scholarly_disagreement": "The degree to which the Kyteler prosecution represents the genuine emergence of the composite stereotype versus the idiosyncratic application of Avignon-trained demonological theory by a single zealous bishop is debated. Hutton emphasizes the case's place in the genealogy of the composite witch stereotype; other scholars note that de Ledrede's intervention was exceptional within the Irish context and that no comparable prosecution followed in Ireland for centuries. The property-dispute origins of the accusation — de Ledrede instrumentalizing family conflict for theological ends — complicates any simple reading of the case as a milestone in demonological history.",
+
+  "accused_persons": [
+    "alice-kyteler-kilkenny-1324",
+    "petronilla-of-meath-kilkenny-1325"
+  ],
+
+  "related_trials": [
+    "todi-1428-witchcraft-trial"
+  ],
+
+  "source_method": "Narrative chronicle (Narrative of the proceedings against Dame Alice Kyteler, attributed to contemporaries, edited by Thomas Wright, 1843); analyzed in Hutton, The Witch (2017) and Ankarloo/Clark Vol. 3 (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

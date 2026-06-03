@@ -1,0 +1,51 @@
+{
+  "id": "incubus-succubus-tradition",
+  "name": "Incubus and Succubus: Sexual Demons",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Medieval and Early Modern (c. 1100–1700)",
+  "primary_locale": "Broad European distribution; particularly theorized in medieval theology and early modern demonology",
+
+  "scholarly_definition": "The incubus (a male demon who copulated with sleeping women) and succubus (a female demon who collected semen from sleeping men to later deposit in women) were theological categories developed in medieval scholastic theology to explain nocturnal sexual experiences and illegitimate conceptions. By the early modern period, sexual intercourse with the devil — variously as incubus or as Satan in human form at the sabbath — had become a central element of the composite witch stereotype. The witch's sexual congress with the devil was described in detail in the Malleus Maleficarum (1487) and was standard in sabbath confessions across Continental Europe, though notably absent from English witch trial testimony, which retained the domestic familiar concept rather than developing the sexual-diabolical framework.",
+
+  "intellectual_genealogy": {
+    "medieval_theological_sources": "Incubus/succubus theology is traceable to the Commentary on Genesis by Augustine (citing the erotic dreams of hermits), through Aquinas's analysis in the Summa Theologica, and to Albertus Magnus's natural-philosophical discussion. The scholastic debate turned on the question of whether demons could have real sexual congress with humans or whether all such experiences were illusions.",
+    "aquinas_mechanism": "Aquinas proposed the semen-transfer mechanism: a succubus collected semen from a sleeping man, then an incubus deposited it in a sleeping woman, thereby producing real offspring (the half-demon 'cambion') while maintaining that demons themselves had no reproductive biology.",
+    "kramer_integration": "The Malleus Maleficarum (1487) integrated the incubus/succubus tradition into the composite witch stereotype by making sexual congress with the devil the primary content of the demonic pact: the witch surrendered her body to the devil in exchange for his service. Kramer described the devil's intercourse as physically cold — 'cold as ice' — a detail that became standard in confession testimony.",
+    "sabbath_extension": "In the developed sabbath stereotype, sexual congress with the devil (in his male humanoid form, or in the form of a large black goat) became a collective act at the sabbath gathering, extending the individual incubus tradition into a group ritual."
+  },
+
+  "clark_intellectual_analysis": "Clark analyzes the sexual-demonic tradition as theologically coherent rather than merely prurient: within the demonological system, the witch's sexual submission to the devil represented the inversion of the Christian marriage covenant (substituting Satan for God as the primary bond-partner), the deliberate rejection of procreative sexuality within marriage (demonic sex was described as infertile and pleasureless), and the embodiment of the sin of spiritual fornication — the idolatry condemned in the Old Testament prophets — in literal sexual terms.",
+
+  "hutton_social_analysis": "Hutton notes that the sexual content of Continental witch confessions — the descriptions of cold sex with the devil, demonic orgies at the sabbath, anointing with unguents — was dramatically absent from English prosecution, where the familiar-animal relationship was the primary magical connection. This divergence is further evidence against any common popular foundation for the sabbath stereotype: English popular culture did not apparently generate the sexual-demonic narrative that was so prominent in Continental testimony.",
+
+  "ginzburg_interrogation_analysis": "The sexual content of sabbath confessions is, in Ginzburg's analysis, primarily a product of inquisitorial interrogation rather than popular belief: the question 'did you have sex with the devil at the sabbath?' generated answers that were then taken as evidence of the sexual act. The absence of sexual-diabolical content from English familiar testimony (where the same inquisitorial pressure was not applied) supports this reading.",
+
+  "actor_perspective": {
+    "confession_content": "Continental European witch confessions routinely describe sexual intercourse with the devil as cold, painful, and joyless — the negation of pleasure that mirrored the theological claim that demonic sex was infertile and spiritually destructive.",
+    "medical_debates": "Contemporary physicians including Weyer (De praestigiis daemonum, 1563) argued that incubus experiences were natural phenomena — dreams, sleep paralysis, physiological events — rather than supernatural ones. The medical debate about incubus/succubus experiences was continuous with the broader debate about the reality of alleged supernatural events."
+  },
+
+  "distinctive_features": {
+    "gender_asymmetry": "The Malleus Maleficarum's emphasis on female witches' sexual submission to the devil was gendered in a specific direction: women's sexual weakness (in the misogynistic tradition traced to Eve's seduction) made them especially vulnerable to demonic sexual approach",
+    "cold_sex_motif": "The devil's physical coldness during intercourse is a recurring and apparently spontaneously consistent detail across multiple national traditions — whether reflecting a genuine popular belief, inquisitorial suggestion, or physiological associations with nocturnal cold is debated",
+    "english_absence": "The sexual-diabolical framework is largely absent from English witch prosecution — the familiar rather than the lover-devil is the primary supernatural relationship"
+  },
+
+  "geographic_distribution": "Dominant in Continental European prosecution, particularly France, Germany, and Scotland; substantially absent from England and New England.",
+
+  "historiographical_significance": "The sexual-demonic tradition has attracted sustained feminist historiographical attention. Karlsen's and Levack's analyses note that the construction of the witch as devil's sexual partner drew on and reinforced existing misogynistic stereotypes about female sexual weakness and susceptibility. Roper's Witch Craze (2004) analyzes the sexual content of witch confessions through a psychoanalytic lens, arguing that fantasies about illicit sexuality expressed deeper cultural anxieties about female sexuality and bodily boundaries that the prosecution framework gave form to.",
+
+  "source_method": "Kramer, Malleus Maleficarum (1487); Aquinas, Summa Theologica; analyzed in Clark, Thinking with Demons (1997); Levack, The Witch-Hunt in Early Modern Europe (2006); Roper, Witch Craze (2004); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "kramer-malleus-maleficarum-1486",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

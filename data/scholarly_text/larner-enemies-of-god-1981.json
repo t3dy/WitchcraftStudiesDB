@@ -1,0 +1,45 @@
+{
+  "id": "larner-enemies-of-god-1981",
+  "title": "Enemies of God: The Witch-Hunt in Scotland",
+  "author": "Christina Larner",
+  "author_slug": "larner-christina-b1934",
+  "year_published": 1981,
+  "original_year": 1981,
+  "original_title": "Enemies of God: The Witch-Hunt in Scotland",
+  "original_language": "English",
+  "original_publisher": "Johns Hopkins University Press, Baltimore",
+  "publisher": "Johns Hopkins University Press",
+  "text_type": "monograph",
+
+  "subject_focus": "Political-sociological analysis of Scottish witch prosecution arguing that it was institutionally connected to Calvinist state-building under James VI, combining statistical analysis of prosecution patterns with political history of the Scottish monarchy.",
+
+  "summary": "Enemies of God is the foundational scholarly study of Scottish witch prosecution and established the political-sociological framework for understanding Scotland's exceptionally high prosecution and execution rates. Larner argued that Scottish witch prosecution was not separable from the Calvinist state-building project of the Stuart monarchy: James VI's personal demonological investment (expressed in Daemonologie, 1597) combined with the Privy Council commission system to extend royal ideological reach into rural Scottish communities through the shared project of witch-hunting. The book provided the first systematic statistical analysis of Scottish prosecutions — approximately 3,000-4,000 accused — and analyzed the gender dimension with unusual care, concluding that witch-hunting was 'woman-related rather than woman-specific.'",
+
+  "scholarly_significance": "Enemies of God established the template for politically sophisticated analysis of witch prosecution and remains the essential starting point for Scottish witch trials scholarship. Its contributions are methodological as much as substantive: Larner demonstrated that witch prosecution could be analyzed as a political and sociological phenomenon through the same frameworks applied to other aspects of state formation, not merely as a product of demonological ideology or community superstition.\n\n  The state-building thesis — that prosecution served royal ideological and institutional interests — has been refined by Julian Goodare's subsequent archival work, which places greater weight on local community dynamics. But the political dimension Larner identified remains central to all subsequent analysis of why Scottish prosecution had the specifically politically-inflected character it did (royal personal participation, Privy Council institutional involvement, prosecution peaks in periods of royal demonological engagement).\n\n  The gender analysis — carefully distinguishing between the statistical over-representation of women among accused persons and the reductive claim that witch-hunting was simply misogynistic — remains a model of methodological rigor on a politically charged question.",
+
+  "key_arguments": [
+    {
+      "concept": "Witch prosecution as state-building",
+      "claim": "The Scottish commission system extended royal authority into rural communities through the shared project of witch prosecution; James VI's personal demonological commitment was not idiosyncratic but served the ideological project of Calvinist confessional monarchy."
+    },
+    {
+      "concept": "Woman-related rather than woman-specific",
+      "claim": "Women were disproportionately targeted in Scottish witch prosecution (approximately 85% of accused), but this reflected the intersection of demonological theory's emphasis on female susceptibility with specific social dynamics of accusation, not a simple program of misogynistic persecution."
+    },
+    {
+      "concept": "Statistical analysis of Scottish prosecution",
+      "claim": "Approximately 3,000-4,000 individuals were accused of witchcraft in Scotland between 1563 and 1736, with execution rates substantially higher than English equivalents — a disparity that reflects the structural differences between the Scottish commission system and the English assize system."
+    }
+  ],
+
+  "relation_to_database": "Central to the scottish-privy-council-commissions inquisitorial_body entry. Referenced in north-berwick-1590-trials, isobel-gowdie-auldearn-1662, agnes-sampson, and john-fian accused_person entries. Larner's state-building thesis is the political background for understanding James VI's personal demonological engagement.",
+
+  "scholarly_disagreement": "Goodare's archival work has qualified Larner's death toll figures (Levack's figure of approximately 1,500 executions is now more widely accepted than Larner's higher estimates) and complicated the state-building thesis by showing greater local community initiative in generating prosecution. Feminist critics have argued the gender analysis understates misogyny; others have found the state-building analysis overly functionalist.",
+
+  "source_method": "Published text, Johns Hopkins University Press 1981",
+  "review_status": "VERIFIED",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "monter-witchcraft-france-switzerland-1976",
+  "title": "Witchcraft in France and Switzerland: The Borderlands During the Reformation",
+  "author": "E. William Monter",
+  "author_slug": "monter-e-william-b1936",
+  "year_published": 1976,
+  "original_year": 1976,
+  "original_title": "Witchcraft in France and Switzerland",
+  "original_language": "English",
+  "original_publisher": "Cornell University Press",
+  "publisher": "Cornell University Press (1976)",
+  "text_type": "monograph",
+
+  "subject_focus": "Regional archival study of witch prosecution in the Franco-Swiss borderlands (Geneva, Jura, Franco-Comté), providing the first detailed analysis of the Alpine/Burgundian region where the composite witch stereotype is thought to have originated.",
+
+  "summary": "Monter's Witchcraft in France and Switzerland is the foundational archival study of witch prosecution in the Franco-Swiss Jura and Franco-Comté region — the Alpine borderlands that Ginzburg, Cohn, and others had identified as the probable geographical origin zone of the composite witch stereotype. Drawing on Geneva, Jura, and Franco-Comté court records, Monter analyzed prosecution patterns from the early fifteenth century through the seventeenth, providing the first systematic quantitative baseline for a region whose documented prosecutions (including the Valais trials of 1427-1436) were foundational in the historiographical literature. Monter's findings confirmed the Alpine origin thesis while adding detail about the specific institutional contexts (Geneva's Reformed city council, the Burgundian ducal courts, the Jura episcopal courts) within which prosecution occurred.",
+
+  "scholarly_significance": "Monter's work on the Franco-Swiss borderlands is an essential complement to Midelfort's southwestern Germany study, providing the Swiss and Burgundian regional data that complete the picture of Alpine witch prosecution in the formative period. Its significance is primarily empirical: the Geneva and Jura records that Monter analyzed were largely unexamined before his work, and his findings about the early fifteenth-century Alpine prosecution provided the archival foundation for the composite stereotype origin thesis.\n\n  Levack's European synthesis draws heavily on Monter's Franco-Swiss regional data alongside Midelfort's German data. Ginzburg's Ecstasies (1991) engages with the Alpine origin thesis that Monter's archival work supports. The book is less widely read than Midelfort's or Macfarlane's studies but is foundational for the Alpine and early prosecution period.",
+
+  "key_arguments": [
+    {
+      "concept": "Alpine borderland as stereotype origin zone",
+      "claim": "The Franco-Swiss Jura and Alpine borderlands were the primary geographical zone where the composite witch stereotype — combining maleficium, sabbath attendance, and diabolical pact — first crystallized in prosecution records in the early fifteenth century."
+    },
+    {
+      "concept": "Institutional variation in Alpine prosecution",
+      "claim": "Within the Alpine origin zone, different institutional contexts (Geneva's Reformed council versus Jura episcopal courts) produced significantly different prosecution patterns, demonstrating that institutional structure moderated prosecution intensity even where cultural context was similar."
+    }
+  ],
+
+  "relation_to_database": "Monter's analysis is foundational for the valais-witch-trials-1427-1436 trial_event entry and provides institutional context for the zurich-reformed-city-council inquisitorial_body entry.",
+
+  "scholarly_disagreement": "The degree to which the composite stereotype specifically originated in the Alps versus developing simultaneously across multiple zones is debated; Cohn's genealogy from heresy accusation suggests a longer and wider development, while Monter's and Ginzburg's arguments for Alpine specificity depend partly on the fragmentary survival of earlier records.",
+
+  "source_method": "Published text, Cornell University Press, 1976; primary sources: Geneva Staatsarchiv; Jura and Franco-Comté court records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

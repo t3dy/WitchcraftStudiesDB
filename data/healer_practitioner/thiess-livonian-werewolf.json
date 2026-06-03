@@ -1,0 +1,70 @@
+{
+  "id": "thiess-livonian-werewolf",
+  "name": "Thiess of Kaltenbrun",
+  "status": "Sentenced to flogging (not executed)",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1692,
+  "age_at_trial": 80,
+  "social_status": "Old peasant, Kaltenbrun (Jürgensburg parish), Livonia (present-day Latvia); aged subsistence farmer",
+  "gender": "Male",
+
+  "self_identification": "Werewolf (vilkacis in Latvian tradition) — a hound of God who descended to hell to fight devils and retrieve stolen grain, serving the community's fertility",
+  "claimed_abilities": [
+    "Transformation into a wolf-form for spirit journeys",
+    "Descent to hell three times yearly (at St Lucia's Night, Pentecost, and St John's Night) in wolf company",
+    "Combat against the devil and his agents to recover stolen grain and livestock",
+    "Protection of the community's harvest through these infernal battles"
+  ],
+
+  "biography": "Thiess of Kaltenbrun, an approximately eighty-year-old Livonian peasant, was tried before the Livonian court at Jürgensburg in 1692 for claiming to be a werewolf. His trial record is one of the most extraordinary documents in the entire European witch-trial corpus: rather than denying the accusation or confessing to diabolical alliance as the court expected, Thiess insisted positively that he was a werewolf and that this was a spiritually meritorious status — a vocation in service of God and the community. He described descending to hell three times a year with a company of other werewolves to fight the devil and his agents, who had stolen the community's grain and livestock. The werewolves fought with iron bars; the devils fought with brooms. If the werewolves won, the harvest was good; if they lost, it failed. He compared his role explicitly to that of a soldier of God against the devil.\n\n  Thiess was approximately eighty years old at his trial. He had apparently held and occasionally expressed these beliefs throughout his long life without prior serious prosecution, which suggests either remarkable tolerance or remarkable invisibility in his community. His nose had been broken by a man named Skeistan at a previous encounter at a hell-gate — a concrete physical detail that Ginzburg, following up on a reference in Ecstasies (1991), found remarkable as evidence of the tradition's material specificity.\n\n  The court was bewildered. The inquisitors expected either denial or diabolic confession; what they got was a cheerful, persistent old man explaining that his werewolf activities were a form of community service and that he expected to go to heaven when he died. Their attempts to get him to agree that he had pacted with the devil were unavailing. Thiess was eventually sentenced to ten strokes of the whip for superstitious beliefs and idolatry — a remarkably light sentence given the nominal gravity of the charges — and released.",
+
+  "interrogation_narrative": {
+    "circumstances": "Livonian court, Jürgensburg, 1692; conducted before local noble judges; records published in German",
+    "thiess_initial_claim": "I am a werewolf. Werewolves are hounds of God. We fight the devil in hell to recover stolen grain. This is meritorious service.",
+    "interrogator_response": "Persistent attempts to reframe Thiess's claims as diabolical compact; repeated questions about pacts with the devil; inability to elicit confession to standard witch categories",
+    "thiess_adaptation": "No accommodation to diabolical reframing; maintained the providential werewolf framework throughout; compared himself to soldiers of God; expected salvation, not damnation"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Werewolf identity; annual descents to hell; battles with devils for stolen grain; broken nose received at a hell-gate",
+    "under_interrogation_pressure": "No movement toward standard witch categories despite sustained pressure; maintained the community-protective function of his werewolf role",
+    "final_confession": "None in the standard sense; sentenced to flogging for superstition and idolatry; not executed"
+  },
+
+  "microhistorical_significance": "Thiess's trial record is one of Ginzburg's primary pieces of evidence in Ecstasies (1991) for his argument about a pan-European shamanic tradition of ecstatic night-battlers defending community fertility. The structural parallel with the Friulian benandanti — same logic (night-travelers who fight evil forces to protect the harvest), same outcome stakes (victory means good harvest, defeat means failure), same ambiguous relationship with inquisitorial categories — is what Ginzburg uses to support the argument for a coherent underlying tradition distributed across European folk culture from the Baltic to the Alps.\n\n  Hutton in The Witch (2017) engages critically with Ginzburg's use of the Thiess case, questioning whether the parallel with the benandanti is as close as Ginzburg argues and whether a single case from 1692 Latvia can bear the weight placed on it in the comparative argument. Hutton's criticism focuses partly on dating (Thiess is a century later than the Friulian benandanti) and partly on the different cultural context (Baltic Livonia versus north Italian Friuli).",
+
+  "actor_vs_analyst_terminology": {
+    "thiess_language": [
+      "Werewolf (his own term)",
+      "Hound of God",
+      "Fighter against devils in hell",
+      "Servant of the community's harvest"
+    ],
+    "prosecution_categories": [
+      "Werewolf (crime of lycanthropy)",
+      "Pact with the devil",
+      "Superstition and idolatry"
+    ]
+  },
+
+  "practical_activities": "Thiess does not appear to have operated as a service magician in the manner of the benandanti who also healed and diagnosed witchcraft. His primary claimed function was the annual descent to hell and the harvest-protecting battles — a purely cosmological and community-protective role, not a service function for individual clients.",
+
+  "interrogation_outcome": "Sentenced to ten strokes of the whip for superstition and idolatry; not executed. The lightness of the sentence may reflect the court's uncertainty about what exactly Thiess was guilty of, given that he refused to confess to anything conventionally prosecutable.",
+
+  "historiographical_significance": "Thiess's case is discussed extensively in Ginzburg, Ecstasies (1991) as part of the comparative argument for a pan-European ecstatic tradition of night-battlers. Hutton in The Witch (2017) engages with Ginzburg's interpretation, accepting the interest of the Thiess case while questioning the breadth of the comparative argument it is asked to support. The case also appears in Levack's comparative surveys of witch trial documentation as one of the clearest examples of a defendant who successfully resisted the inquisitorial framing rather than being absorbed by it.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "source_method": "Livonian court records, Jürgensburg, 1692; published in German academic edition; analyzed in Ginzburg, Ecstasies (1991); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Ginzburg argues Thiess represents authentic folk tradition of shamanic ecstatic night-travel, structurally parallel to the benandanti; Hutton accepts the interest of the Thiess case but questions whether it sustains the pan-European comparative argument; other scholars (Cohn, Briggs) are more skeptical of any generalization from individual cases to pan-European tradition.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

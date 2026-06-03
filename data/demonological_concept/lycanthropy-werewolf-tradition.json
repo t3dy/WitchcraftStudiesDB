@@ -1,0 +1,51 @@
+{
+  "id": "lycanthropy-werewolf-tradition",
+  "name": "Lycanthropy and the Werewolf Tradition",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Medieval and Early Modern (c. 1100–1700)",
+  "primary_locale": "France, Germany, Baltic region, Eastern Europe; with distinct regional traditions",
+
+  "scholarly_definition": "Lycanthropy — the transformation of a human being into a wolf — was a persistent element of both popular belief and learned demonological discussion throughout medieval and early modern Europe. In demonological theory, werewolf transformation was attributed to diabolical manipulation: the devil created the illusion of transformation (in the mainstream theological position) or literally changed the human body's form (in a minority opinion condemned by most theologians as impossible without divine intervention). In popular belief, the werewolf occupied a complex position: in most Western European contexts, a destructive figure associated with the devil; but in Baltic and Slavic traditions, a potentially protective figure — Thiess of Kaltenbrun being the paradigmatic example — whose transformation served community-protective rather than community-destructive functions.",
+
+  "intellectual_genealogy": {
+    "classical_sources": "Classical sources (Petronius's Satyricon, Ovid's Metamorphoses) provided narrative templates for werewolf transformation that medieval and early modern authors drew on, though they reinterpreted them within Christian theological frameworks.",
+    "augustinian_skepticism": "Augustine argued that lycanthropy was impossible — the devil could only create illusions of transformation, not actual bodily change — a position that most medieval theologians followed. Apparent transformations were either illusions sent to witnesses or illusions sent to the supposed werewolf himself.",
+    "bodin_and_natural_philosophy": "Jean Bodin in his Démonomanie des sorciers (1580) argued that some werewolf accounts documented genuine diabolical transformation of the human body, departing from the mainstream theological position and using natural-philosophical arguments about the malleability of matter.",
+    "france_1590s": "The French werewolf trials of the 1590s — including the case of Jean Grenier (1603) and the Gilles Garnier case — brought werewolf prosecution to a peak in southwestern France, with accused persons confessing to wolf-transformation and cannibalism."
+  },
+
+  "clark_intellectual_analysis": "For Clark, the lycanthropy debate exemplifies the demonological tradition's engagement with natural-philosophical questions about the boundaries of bodily identity: could a human body be genuinely transformed into an animal form? This was not a peripheral question but engaged directly with Aristotelian natural philosophy's accounts of substance, form, and the limits of change. The theological mainstream's insistence that only illusion was possible reflects the same concern with divine uniqueness (God alone can create or fundamentally transform substance) that underlies the orthodox position on miracles.",
+
+  "hutton_social_analysis": "Hutton distinguishes the Western European destructive-werewolf tradition (associated with cannibalism, child-eating, and diabolical service) from the Baltic protective-werewolf tradition exemplified by Thiess. The Western tradition was absorbed into the witch stereotype and produced prosecution; the Baltic tradition preserved a more ambiguous folk-religious framework in which animal-transformation served community-protective rather than destructive ends. This geographic-cultural variation is further evidence against any pan-European uniformity of folk belief underlying prosecution.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's treatment of lycanthropy in Ecstasies is primarily focused on the Thiess case and the Baltic protective-werewolf material, which he connects to the broader ecstatic night-traveler tradition. The Western European destructive werewolf confessions, obtained through prosecution procedures similar to witch-trial procedures, fit the standard pattern of inquisitorial construction; the Baltic protective-werewolf material (like the benandante and Thiess material) may preserve something of an underlying folk tradition.",
+
+  "actor_perspective": {
+    "confession_content": "Western European accused werewolves described transformation through the application of ointment or the donning of a wolf-skin; they described cannibalism, child-eating, and attack on livestock. These confessions were obtained through prosecution procedures similar to witch-trial procedures and fit the standard torture-shaped pattern.",
+    "thiess_variant": "Thiess's self-description was dramatically different: a hound of God who transformed to fight devils in hell, not a servant of the devil who harmed the community. The prosecutorial framework could not absorb this account, resulting in the anomalous sentence of flogging rather than execution."
+  },
+
+  "distinctive_features": {
+    "eastern-western_divergence": "The most significant scholarly finding about lycanthropy is the divergence between Western European destructive and Baltic/Slavic protective werewolf traditions — a divergence that suggests different underlying folk beliefs rather than a single pan-European werewolf concept",
+    "french_prosecution_concentration": "France, particularly the southwest, had a notable concentration of werewolf prosecutions in the late sixteenth and early seventeenth centuries; Jean Grenier's 1603 trial is the best-documented French case",
+    "medical_diagnosis": "Contemporary physicians including Weyer proposed that lycanthropy was a form of melancholic delusion — an application of natural causation to explain apparent transformation experiences"
+  },
+
+  "geographic_distribution": "Documented in France, Germany, and the Baltic region primarily; distinct regional traditions with different cultural meanings.",
+
+  "historiographical_significance": "The werewolf material is significant in the comparative historiography primarily through Ginzburg's use of it in Ecstasies (1991). Thiess's Livonian case is one of Ginzburg's primary pieces of evidence for his pan-European ecstatic tradition argument, and its structural parallel with the benandanti — community-protective night-fighters — is central to his thesis. Willem de Blécourt's research on the Dutch werewolf tradition provides additional comparative material. The French prosecutions are analyzed in Bouquet's historical studies of lycanthropy in early modern French courts.",
+
+  "source_method": "French werewolf trial records (Archives Départementales); Jean Bodin, Démonomanie (1580); Gilles Garnier trial records (1573); Jean Grenier examination (1603); Thiess of Kaltenbrun records (1692); analyzed in Ginzburg, Ecstasies (1991); Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "bodin-demonomanie-1580",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

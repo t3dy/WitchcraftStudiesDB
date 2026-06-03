@@ -1,0 +1,59 @@
+{
+  "id": "bideford-devon",
+  "name": "Bideford, Devon",
+  "type": "Borough",
+  "region": "South West England",
+  "modern_location": "Bideford, Devon, England",
+  "coordinates": {
+    "latitude": 51.017,
+    "longitude": -4.206
+  },
+  "hover_description": "Bideford, 1682: Site of the last judicial witch executions in England. Temperance Lloyd, Susanna Edwards, and Mary Trembles hanged at Exeter; tried on Bideford evidence.",
+
+  "administrative_context": "Bideford was a small port town in north Devon, and the last English witch executions arose from accusations and examinations conducted there. The three women tried were poor, elderly, and local to Bideford; they were tried at the Exeter Summer Assizes in 1682 on indictments from the Bideford borough court. Devon had seen relatively few witch prosecutions compared to Essex and the eastern counties, making the Bideford case a late provincial outlier rather than part of a sustained regional pattern.",
+
+  "witchcraft_trials_significance": "The Bideford executions of August 1682 are the last judicial witch executions in England — three poor elderly women, Temperance Lloyd, Susanna Edwards, and Mary Trembles, hanged at Exeter on charges of maleficium and diabolical compact. The trials occurred at a moment when elite judicial skepticism about witchcraft prosecution was increasing in England: they predated the formal repeal of the Witchcraft Act by only fifty-four years (1736), and the case was already controversial among educated contemporaries.\n\n  Gaskill's historical analysis notes that the Bideford case illustrates the gap between popular belief (the accused were genuinely feared in their community) and judicial opinion (several prominent observers expressed skepticism about the evidence). The case is also notable for the direct participation of the borough recorder and local magistrates in constructing the accusations, suggesting that the 1682 prosecutions reflected local community dynamics — neighbors with longstanding grievances against the accused — rather than any panic or institutional pressure from above.",
+
+  "trial_events": [],
+
+  "key_magistrates": [
+    {
+      "name": "Thomas Gist",
+      "role": "Recorder of Bideford",
+      "contribution_to_trials": "Presided over the borough examinations; conducted initial interrogations; forwarded the case to the Exeter Assizes"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1682": "Temperance Lloyd examined in July; confessions extracted from all three women; tried at Exeter Summer Assizes; Temperance Lloyd, Susanna Edwards, and Mary Trembles hanged 25 August 1682"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Bideford and surrounding north Devon community",
+    "social_reach": "Three elderly impoverished women; community with longstanding belief in their harmful practices",
+    "mortality_impact": "3 executions — the last in England"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark's analysis of the later English prosecutions notes the Bideford case as evidence that popular belief in maleficium persisted robustly in English communities long after elite skepticism had made prosecution increasingly rare.",
+    "hutton_perspective": "Hutton identifies the Bideford women as fitting the classic English accused profile: elderly, poor, with reputations for magical harm built up over years of community tension — the demographic modal type identified by Macfarlane and Thomas in the Essex material.",
+    "ginzburg_perspective": "The Bideford confessions, obtained through borough examination without formal torture, illustrate the examination-shaped testimony dynamic Ginzburg identifies: the accused women's statements about their diabolical involvement were structured by the categories supplied by their examiners."
+  },
+
+  "legacy_and_historiographical_importance": "The Bideford executions mark the effective close of English witch prosecution under the 1563/1604 Witchcraft Acts. Malcolm Gaskill's research on the case provides the most detailed modern analysis. A public memorial was erected in Bideford in 2008 commemorating the three women.",
+
+  "primary_sources": "Bideford Borough Court records; Exeter Assize records; contemporary pamphlet A True and Impartial Relation of the Informations Against Three Witches (1682)",
+
+  "source_method": "Bideford Borough Records; Devon Record Office; analyzed in Gaskill, 'Witchcraft in Early Modern Kent,' in Sharpe and Golden (eds.), Witchcraft in Early Modern England (2003); Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

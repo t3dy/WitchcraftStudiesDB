@@ -1,0 +1,67 @@
+{
+  "id": "edinburgh",
+  "name": "Edinburgh and Lothian",
+  "type": "Royal Burgh / Capital",
+  "region": "Central Lowlands of Scotland",
+  "modern_location": "Edinburgh, Scotland",
+  "coordinates": {
+    "latitude": 55.953,
+    "longitude": -3.188
+  },
+  "hover_description": "Edinburgh, 1563–1727: Scotland's judicial capital. Scottish Privy Council issued witch-trial commissions; ~1,500 executions nationally. James VI personally interrogated accused here.",
+
+  "administrative_context": "Edinburgh was the seat of the Scottish Privy Council, the central administrative body that issued commissions for local witch trial investigation across Scotland. The Privy Council functioned as the de facto regulatory authority for witch prosecution in Scotland under the 1563 Witchcraft Act, delegating investigative and sentencing authority to local commissions rather than maintaining a central court. Edinburgh's Tollbooth served as the principal detention facility for accused witches awaiting examination or execution, and the castle esplanade was a primary execution site.",
+
+  "witchcraft_trials_significance": "Edinburgh's significance in the witch-trial history is primarily administrative — as the source of Scottish Privy Council commissions — rather than representing a specific local prosecution concentration. The most historically significant Edinburgh-connected prosecution was the 1590-91 North Berwick trials, formally associated with North Berwick but tried in Edinburgh, where King James VI personally participated in examinations and torture sessions at Holyrood Palace. Agnes Sampson's examinations at Edinburgh are documented in the contemporary pamphlet Newes from Scotland (1591).\n\n  Scotland's national execution rate was approximately five times England's per-capita rate over the same period, and the Edinburgh-based commission system's lack of effective appellate review is the primary institutional explanation for this divergence. Christina Larner's Enemies of God (1981) — the foundational statistical and analytical study of Scottish witch prosecution — was based at the University of Glasgow but used Scottish Privy Council records centralized in Edinburgh.",
+
+  "trial_events": [
+    "north-berwick-1590-trials"
+  ],
+
+  "key_magistrates": [
+    {
+      "name": "James VI of Scotland",
+      "role": "King of Scotland; personally involved in North Berwick examinations",
+      "contribution_to_trials": "Direct participation in torture and examination of Agnes Sampson and other North Berwick accused; patron of the demonological tradition reflected in his Daemonologie (1597)"
+    }
+  ],
+
+  "persecution_timeline": {
+    "1563": "Scottish Witchcraft Act passed, establishing statutory basis for commission system",
+    "1590-91": "North Berwick trials; James VI personally involved; Agnes Sampson executed in Edinburgh",
+    "1597": "James VI's Daemonologie published",
+    "1597-1599": "Large-scale Scottish prosecution wave; several hundred executed",
+    "1661-62": "Post-Restoration panic: largest single-year prosecutions in Scottish history",
+    "1727": "Janet Horne, Dornoch — last judicial witch execution in Britain"
+  },
+
+  "affected_population": {
+    "geographic_extent": "Edinburgh as administrative center; commission system extended prosecution throughout Scotland",
+    "social_reach": "Primarily rural women; some men; occasional high-status figures (through political manipulation of witchcraft charge)",
+    "mortality_impact": "~1,500 estimated executions Scotland-wide; Edinburgh as administrative hub for commission issuance"
+  },
+
+  "scholarly_analysis": {
+    "clark_perspective": "Clark emphasizes Edinburgh as the site where James VI's personal demonological engagement translated into institutional prosecution machinery — the Scottish king who authored Daemonologie was also the king who personally supervised torture in Edinburgh in 1590.",
+    "hutton_perspective": "Hutton uses Larner's Edinburgh-based Privy Council records to analyze the distinctive institutional features of Scottish prosecution: the commission system's lack of appellate oversight as the primary explanation for Scotland's elevated execution rate.",
+    "ginzburg_perspective": "The North Berwick confessions, obtained through Edinburgh-based examination sessions, exemplify Ginzburg's torture-confession dynamic: testimony that transformed local healers and cunning folk into participants in a satanic conspiracy against the king, through a process of interrogation that systematically shaped the confessions toward the desired narrative."
+  },
+
+  "legacy_and_historiographical_importance": "Edinburgh's Privy Council records (now National Records of Scotland) are the primary administrative archive for the study of Scottish witch prosecution. Larner's computerized database of Scottish witchcraft cases, built from these records, is the foundation of Scottish witch-trial historiography.",
+
+  "primary_sources": "National Records of Scotland (former Scottish Privy Council records); Newes from Scotland (1591); analyzed in Larner, Enemies of God (1981); Goodare et al., Survey of Scottish Witchcraft (2003)",
+
+  "source_method": "Scottish Privy Council Records (NRS); analyzed in Larner, Enemies of God (1981); Hutton, The Witch (2017); Clark, Thinking with Demons (1997); James VI, Daemonologie (1597)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "larner-enemies-of-god-1981",
+    "clark-thinking-with-demons-2001",
+    "james-daemonologie-1597"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

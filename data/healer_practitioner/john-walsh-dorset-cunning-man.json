@@ -1,0 +1,70 @@
+{
+  "id": "john-walsh-dorset-cunning-man",
+  "name": "John Walsh of Netherbury",
+  "status": "Abjured (formal outcome uncertain)",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1566,
+  "age_at_trial": null,
+  "social_status": "Servant of a gentry household in Netherbury, Dorset; previously a servant to a priest; literate or semi-literate based on testimony content",
+  "gender": "Male",
+
+  "self_identification": "Cunning man with knowledge of remedies, identification of witchcraft, and consultation with fairies",
+  "claimed_abilities": [
+    "Identification of persons bewitched and their bewitchers",
+    "Healing of bewitched persons and animals through countering the maleficium",
+    "Consultation with fairies, particularly at fairy hills and crossroads at midnight",
+    "Knowledge of herbs and remedies received from fairy contacts",
+    "Ability to determine whether a sick person's illness was natural or caused by witchcraft"
+  ],
+
+  "biography": "John Walsh of Netherbury, Dorset, was examined before the Bishop of Exeter in 1566 — the same year as the Chelmsford trials — making his testimony one of the earliest documented English cunning man accounts and a crucial witness to the folk-magical world that the English witch trials were simultaneously prosecuting. Walsh had previously served a local priest (likely a pre-Reformation holdover) from whom he claimed to have received some of his cunning-craft knowledge, and at the time of his examination worked as a servant in a gentry household. His examination survives in a published pamphlet, The Examination of John Walsh (1566).\n\n  Walsh's testimony is extraordinary for its detail about fairy consultation — specifically, he described meeting fairies at fairy hills and earthworks, particularly at midnight and at crossroads, to ask questions about illness causation and bewitchment. He described three categories of fairies: some white, some green, some black — and characterized the black fairies as dangerous. He also described the Book of Moses as a magical text his priest-employer had used. Walsh's admitted practice was diagnostic and healing rather than harmful: clients came to him to identify whether their illness was natural or from witchcraft and, if the latter, who was responsible.\n\n  Keith Thomas analyzes Walsh's examination in Religion and the Decline of Magic (1971) as evidence of the survival of pre-Reformation popular magical traditions — the fairy consultation inherited from a priest who himself practiced cunning craft, using both Christian ritual materials and folk magical lore. Emma Wilby in Cunning Folk and Familiar Spirits (2005) reads Walsh's fairy-consultation description as evidence of genuinely held spirit-contact belief rather than purely instrumental magical performance.",
+
+  "interrogation_narrative": {
+    "circumstances": "Episcopal examination before the Bishop of Exeter, 1566; documented in The Examination of John Walsh (pamphlet, 1566)",
+    "self_identification": "Cunning man who healed and identified witchcraft through fairy consultation; received his craft from his priest-employer",
+    "interrogator_response": "The examination appears to have focused on eliciting the details of his practice rather than extracting a confession to diabolical compact; the examination record reads more as documentation of strange practices than as prosecution of a capital offense",
+    "adaptation": "Walsh's testimony is relatively stable in its description of fairy consultation; there is no evident systematic reformatting into standard diabolical categories"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Fairy consultation at hills and crossroads; receipt of healing and divination knowledge from fairies; diagnosis of bewitchment for clients; knowledge received from a priest",
+    "under_interrogation_pressure": "No evidence of significant modification toward diabolical framework under examination pressure",
+    "final_confession": "Formal outcome uncertain; Walsh was apparently examined and the pamphlet published but his legal fate is not clearly documented"
+  },
+
+  "microhistorical_significance": "Walsh's case is significant in the English cunning-folk tradition as one of the most detailed documented accounts of fairy consultation as a mechanism for acquiring magical knowledge and service-magic competence. His case illustrates: (1) the transmission of cunning craft through apprenticeship to a priest, suggesting continuity between pre-Reformation clerical magic and popular cunning craft; (2) the specific geography of fairy encounter (hills, crossroads, midnight) that Hutton traces as consistent across multiple English and Scottish accounts; (3) the diagnostic function that was the primary service offered by most English cunning folk. Thomas and Wilby both use Walsh as a key witness to pre-prosecution popular magical culture.",
+
+  "actor_vs_analyst_terminology": {
+    "walsh_language": [
+      "Fairies (three kinds: white, green, and black)",
+      "Fairy hills and earthworks",
+      "The Book of Moses",
+      "Cunning craft learned from his priest-master"
+    ],
+    "prosecution_categories": [
+      "Conjuration",
+      "Witchcraft (using supernatural means for healing and divination)"
+    ]
+  },
+
+  "practical_activities": "Walsh's practice centered on diagnosis and healing: he identified whether clients' illnesses were natural or from witchcraft, determined who the bewitcher was, and provided healing remedies. This is the standard English cunning man's service portfolio, delivered through fairy consultation rather than through the direct spirit-familiar contact of later English prosecution records.",
+
+  "interrogation_outcome": "Published as pamphlet in 1566; legal fate unclear from surviving records. Not executed.",
+
+  "historiographical_significance": "Walsh's case is analyzed in Thomas, Religion and the Decline of Magic (1971), as a key witness to the English cunning-man tradition. Wilby's Cunning Folk and Familiar Spirits (2005) gives it sustained attention as evidence for fairy-belief as a basis for service-magic practice. Hutton in The Witch (2017) situates Walsh within the broader tradition of fairy-contact practitioners documented across Scotland and England.",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+
+  "source_method": "The Examination of John Walsh (pamphlet, 1566); analyzed in Thomas, Religion and the Decline of Magic (1971); Wilby, Cunning Folk and Familiar Spirits (2005); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether Walsh's fairy-contact description documents genuine folk belief in spirit communication (Wilby) or represents a culturally available vocabulary for describing internal experiences or purely imagined encounters (the more skeptical reading) is contested.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

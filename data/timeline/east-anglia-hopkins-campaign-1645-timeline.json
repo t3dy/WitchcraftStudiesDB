@@ -1,0 +1,26 @@
+{
+  "id": "east-anglia-hopkins-campaign-1645-timeline",
+  "event_name": "Hopkins East Anglia witch hunt begins",
+  "event_type": "trial_event",
+  "date": "1645",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Manningtree, Essex; eastern England",
+  "location_slug": "essex",
+  "significance": "Matthew Hopkins's campaign across eastern England (1645-1647) produced approximately 300 executions — England's most intensive witch prosecution and its only episode approaching Continental mass-prosecution scale. Operating during Civil War disruption, Hopkins used swimming, watching, and witch's mark pricking to identify accused witches and submitted them to assizes that, under wartime conditions, lacked normal oversight.",
+  "related_entities": [
+    "east-anglia-hopkins-campaign-1645",
+    "essex",
+    "witch-mark-devils-mark",
+    "animal-familiar-english"
+  ],
+  "source_method": "Matthew Hopkins, The Discovery of Witches (1647); John Gaule, Select Cases of Conscience (1646); analyzed in Gaskill, Witchfinders (2005); Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

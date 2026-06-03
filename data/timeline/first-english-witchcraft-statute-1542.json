@@ -1,0 +1,24 @@
+{
+  "id": "first-english-witchcraft-statute-1542",
+  "event_name": "First English Witchcraft Statute enacted",
+  "event_type": "institutional_event",
+  "date": "1542",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Westminster, England",
+  "location_slug": null,
+  "significance": "Henry VIII's Witchcraft Act of 1542 — the first English statute criminalizing witchcraft as a felony — placed witch prosecution on a statutory basis under English common law. Though repealed in 1547, it established the legislative template for Elizabeth I's Act of 1563, which was in force during the Chelmsford trials and throughout the peak prosecution period.",
+  "related_entities": [
+    "maleficium-harmful-magic",
+    "witch-trial-skepticism"
+  ],
+  "source_method": "Statutes of the Realm (Henry VIII, 33 Hen. VIII c. 8); analyzed in Thomas, Religion and the Decline of Magic (1971); Macfarlane, Witchcraft in Tudor and Stuart England (1970)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

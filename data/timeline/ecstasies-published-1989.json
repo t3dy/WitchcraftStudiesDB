@@ -1,0 +1,25 @@
+{
+  "id": "ecstasies-published-1989",
+  "event_name": "Ginzburg Publishes Storia Notturna, 1989",
+  "event_type": "primary_source_publication",
+  "date": "1989",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Turin, Italy",
+  "location_slug": null,
+  "significance": "Carlo Ginzburg's Storia notturna: Una decifrazione del sabba (Einaudi, Turin, 1989) — English translation: Ecstasies: Deciphering the Witches' Sabbath (1991) — extended the benandante argument across Eurasian evidence to propose a pan-Eurasian shamanic substrate for the sabbath stereotype, generating the major historiographical debate of the 1990s about the relationship between learned and popular magical traditions.",
+  "related_entities": [
+    "ginzburg-carlo-b1939",
+    "ginzburg-ecstasies-1991",
+    "followers-of-the-lady-night-ride",
+    "witches-sabbath-collective"
+  ],
+  "source_method": "Ginzburg, Storia notturna (Einaudi, 1989); English translation: Ecstasies: Deciphering the Witches' Sabbath (Hutchinson Radius, 1991)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

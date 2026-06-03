@@ -1,0 +1,42 @@
+{
+  "id": "danish-royal-courts",
+  "name": "Danish Royal Courts",
+  "formal_name": "Herredsting (Hundred Courts) and Landsting (Provincial Courts) / Højesteret (Supreme Court, from 1661)",
+  "institutional_type": "secular_tribunal",
+  "founded": "Medieval",
+  "dissolved": null,
+
+  "jurisdiction_description": "Witch prosecution in Denmark-Norway proceeded through a two-tier secular court system: local hundred courts (herredsting) for initial prosecution and provincial courts (landsting) for appeal, with the Supreme Court (Højesteret, established 1661) providing a final appellate level after the absolutist reforms. Denmark saw substantial witch prosecution from the late sixteenth century through the mid-seventeenth century, with an estimated 1,000 executions, and then a rapid decline following the introduction of stricter appellate procedures under Frederick III's absolutist reforms of the 1660s.\n\n  Danish witch prosecution was concentrated in the Jutland peninsula and the island of Funen and Zealand, with significantly higher prosecution rates in rural Jutland than in the urbanized regions around Copenhagen. The Danish institutional pattern closely parallels the Scottish case: decentralized prosecution in local courts with limited oversight and high execution rates, followed by institutional centralization that rapidly reduced prosecution.",
+
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "Torture was used in Danish witchcraft prosecution, particularly in Jutland, and was a significant factor in confession cascade dynamics. Post-1660 appellate reforms imposed stricter oversight on torture use.",
+    "evidence_standards": "Local herredsting applied community-level evidentiary standards that were susceptible to neighborhood testimony about maleficium; appellate landsting and Højesteret applied more formal standards.",
+    "confession_policy": "Confessions obtained at local level were subject to appellate review; post-1660 Højesteret increasingly scrutinized confession evidence and reduced or overturned lower court capital sentences.",
+    "appeal_mechanism": "Post-1661 Højesteret provided centralizing appellate review that functioned similarly to the French Parlements as a prosecution-moderating mechanism; pre-1661 provincial courts provided less consistent oversight."
+  },
+
+  "role_in_witch_trials": "Danish courts were significant agents of witch prosecution through the mid-seventeenth century, with the Jutland courts especially active in pursuing maleficium accusations that arose from community conflicts. The institutional transition of the 1660s — absolutist centralization of judicial authority and the introduction of Højesteret review — is the primary explanation for the rapid decline in Danish prosecution in the second half of the seventeenth century. Danish witch prosecution illustrates the general pattern Levack identifies: institutional factors determining prosecution rate more than popular belief levels, since Danish popular belief in witchcraft did not obviously decline when prosecution did.",
+
+  "witch_trial_involvement_level": "high",
+
+  "key_trial_events": [],
+
+  "historiographical_significance": "Danish witch prosecution is analyzed primarily in Jens Christian V. Johansen's contribution to the Ankarloo-Clark volumes. The Danish case is significant in the comparative historiography as a northern European example of the decentralized-to-centralized institutional transition's effect on prosecution: high prosecution rates under fragmented local-court governance, rapidly moderated by appellate centralization. The comparison with Scotland (where centralization came later and more incompletely) and with Sweden (where the Svea Court played the moderating role from within the existing system) illustrates how different institutional pathways produced similar moderating effects.",
+
+  "scholarly_disagreement": "The degree to which Danish popular witch belief declined concurrently with prosecution decline (suggesting that institutional and cultural factors moved together) or whether prosecution declined while popular belief remained robust (suggesting institutional change as the primary driver) is debated in the Danish secondary literature.",
+
+  "source_method": "Danish Rigsarkivet; analyzed in Johansen, 'Denmark: The Sociology of Accusations', in Ankarloo and Henningsen, Early Modern European Witchcraft (1990); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

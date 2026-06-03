@@ -1,0 +1,37 @@
+{
+  "id": "accused-clergy-religious",
+  "name": "Clergy and Religious Figures Accused of Witchcraft",
+  "category": "occupational",
+  "temporal_scope": "c. 1300–1700",
+  "primary_regions": ["central-europe", "france", "scotland"],
+
+  "group_profile": "Clergy — priests, monks, nuns, and lay religious — appear in witch accusation in two distinct patterns that are historiographically significant precisely because they seem contradictory. In the first pattern, clergy were accused as the supposed leaders or organizers of witchcraft: the North Berwick trials included accusations against unnamed priests who allegedly said black masses; the Loudun possessions of 1632-1634 resulted in the torture and execution of Urbain Grandier, a parish priest; the Bamberg prosecution reached a suffragan bishop (Friedrich Förner was the prosecuting ecclesiastical officer, but accusations eventually targeted clergy of the prosecution's own hierarchy). In the second pattern, clergy were among the most energetic prosecutors rather than accused — de Ledrede at Kilkenny, Kramer at Innsbruck and the Alpine region, Binsfeld and Förner at Trier and Bamberg.\n\n  The dual role of clergy — as accusers and as accused — reflects the demonological logic that diabolical conspiracy, if real, would logically infiltrate even the institutions designed to combat it. If the devil could recruit judges' wives (as the Bamberg prosecution alleged), he could equally recruit priests. The prosecution of clergy was both a theological consistency requirement and a mechanism for eliminating internal enemies in jurisdictions where institutional politics shaped prosecution dynamics.",
+
+  "persecution_rationale": "The demonological case for accusing clergy was based on the logic of diabolical conspiracy. If witchcraft was an organized satanic cult, it would rationally attempt to recruit members of the Church who had access to sacraments and holy objects that could be desecrated in diabolical rites. Black mass confessions — descriptions of masses performed with consecrated hosts to honor the devil rather than Christ — were a recurring element in accusations against clergy and were used as evidence in prosecutions including Loudun. Nuns claiming diabolical possession, like the Loudun Ursulines or those at Aix-en-Provence (1611), provided institutional mechanisms through which accusations of witchcraft could be directed against clerical figures.",
+
+  "structural_vulnerability": "Clergy accused of witchcraft faced a distinctive structural vulnerability: their accusation brought into the prosecution a set of jurisdictional complications (clerical privilege, ecclesiastical courts, benefit of clergy) that made their cases more complex than laypersons'. In some jurisdictions, accusing a priest required papal dispensation; in others, ecclesiastical courts had to be involved alongside secular ones. These complications sometimes protected clergy and sometimes delayed prosecution in ways that increased rather than decreased its ultimate severity.\n\n  In political contexts — Loudun is the clearest example — clergy could be accused by fellow clergy or by secular authorities seeking to remove influential figures through the witchcraft accusation mechanism. Urbain Grandier's accusers included clerical rivals as well as the Richelieu administration, which had political reasons to want him removed. The witchcraft charge provided an accusatory vehicle that, in the hands of politically motivated prosecutors, was extremely difficult to defend against.",
+
+  "historiographical_significance": "The prosecution of clergy is analyzed in Briggs in Witches and Neighbours (1996) within his Lorraine study, where accusations against priests occurred occasionally in the broader pattern of community accusation. The Loudun case has generated its own substantial secondary literature — de Certeau's The Possession at Loudun (1970/2000) is the most sustained treatment — which reads the possession and prosecution through the lens of political and sexual dynamics rather than simple witchcraft belief.\n\n  Clark in Thinking with Demons (1997) discusses priestly involvement in witchcraft from the perspective of the demonological logic that made clerical targets theologically coherent: if demonic conspiracy was real and organized, the Church itself was its primary target, making clerical recruits both plausible and narratively significant within the demonological framework. Ginzburg's micro-historical attention to individual cases does not specifically address clerical accused as a category, but the interrogation dynamics he describes (the progressive assimilation of diverse self-accounts into demonological categories) applied to clergy as to laypersons.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective",
+    "inversion-principle"
+  ],
+
+  "scholarly_disagreement": "The relative weight of genuine popular belief in clerical witchcraft versus political instrumentalization of the witchcraft charge against specific clerical enemies is the primary analytical question for clerical accused persons. Loudun is the clearest case where political instrumentalization appears dominant; but Bamberg and other mass prosecutions show clergy caught in cascade denunciation that had no specific political target.",
+
+  "source_method": "Briggs, Witches and Neighbours (1996); de Certeau, The Possession at Loudun (1970/2000); Hutton, The Witch (2017); specific case sources as noted in individual entries",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

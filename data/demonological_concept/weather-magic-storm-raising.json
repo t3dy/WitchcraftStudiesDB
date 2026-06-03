@@ -1,0 +1,51 @@
+{
+  "id": "weather-magic-storm-raising",
+  "name": "Weather Magic and Storm-Raising (Maleficium Meteorologicum)",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Medieval and Early Modern (c. 900–1700)",
+  "primary_locale": "Broad European distribution; particularly documented in German, Swiss, Scottish, and Scandinavian prosecution records",
+
+  "scholarly_definition": "Weather magic — the claim that witches could cause harmful weather events including hailstorms, tempests, lightning, frost, and floods through diabolical means — was one of the oldest and most persistent forms of maleficium attribution, documented from the Carolingian period through the seventeenth century. The 'tempestarii' (Latin: storm-makers) appear in Carolingian sources as a category of magical practitioners believed to sell winds and raise storms; by the early modern period, storm-raising had become a standard element of the composite witch stereotype and a common triggering mechanism for mass prosecution (crop destruction by hail providing both the material harm and the diabolical attribution).",
+
+  "intellectual_genealogy": {
+    "carolingian_precedents": "Agobard of Lyon's De Grandine et Tonitruis (c. 815) described popular belief in storm-makers (tempestarii) who sold storms to others; Agobard himself was skeptical, arguing that only God controlled weather. This early skeptical tradition contrasts with the later demonological acceptance of weather magic as a genuine diabolical capacity.",
+    "canonical_attribution": "The Canon Episcopi (c. 900) mentioned women who believed they rode with Diana — but did not specifically address weather magic. The later medieval theological tradition increasingly accepted that demons could manipulate natural elements, providing the theoretical basis for weather magic within the demonological framework.",
+    "malleus_treatment": "The Malleus Maleficarum (Part I, Question 15) devoted substantial attention to weather magic, defending its reality against skeptics and providing theological mechanisms: demons could gather atmospheric vapors, conduct lightning, and concentrate weather effects through manipulation of natural secondary causes under divine permission.",
+    "north-berwick_connection": "The North Berwick trial testimony (1590) described witches raising storms at sea to sink James VI's fleet by casting wax effigies into the sea — an early modern Scottish instance of the weather-magic tradition entering royal prosecutorial context."
+  },
+
+  "clark_intellectual_analysis": "For Clark, weather magic attribution exemplifies the demonological framework's integration of natural philosophy: storm-raising was not pure supernaturalism but was theorized as demonic manipulation of natural secondary causes within divine permission. Demons could not violate natural laws but could work within them to produce extraordinary effects — a theologically precise position that distinguished diabolical weather magic from miracle and located it within the providential framework.",
+
+  "hutton_social_analysis": "Hutton notes that weather-magic attribution was particularly prevalent in agricultural societies where crop loss to hail or frost was catastrophically threatening and where human agency was culturally expected to explain major misfortunes. The correlation between harvest failure and witch prosecution waves — documented in Midelfort's analysis for southwestern Germany — suggests that weather-magic attribution functioned as the initial trigger that set prosecution dynamics in motion.",
+
+  "ginzburg_interrogation_analysis": "Weather magic confessions in Continental prosecution fit the standard pattern: they appear as standard elements of sabbath confessions elicited by questioning about what witches did at their gatherings. The consistency of weather magic as a sabbath activity across diverse geographic and temporal contexts reflects the standardization of inquisitorial questioning rather than independently generated popular testimony.",
+
+  "actor_perspective": {
+    "accusation_context": "Weather magic accusations typically followed specific meteorological events — a hailstorm that destroyed a particular field while sparing neighbors' could be attributed to a specific person believed to have caused the targeted damage through maleficium",
+    "scottish_context": "The North Berwick accused described raising storms through communal ritual action — the witches wading into the sea while performing incantations — giving the weather-magic attribution a specifically collective, conspiracy character that fit the sabbath framework"
+  },
+
+  "distinctive_features": {
+    "trigger_function": "Weather damage by hail or frost was a common prosecutorial trigger — the 1563 Trier prosecution, the Valais trials, and many others were explicitly initiated following crop-destroying weather events attributed to witchcraft",
+    "natural_philosophy_integration": "More than most maleficium types, weather magic was theorized within early modern natural philosophy — the mechanism (demonic manipulation of atmospheric vapors) was subjected to serious natural-philosophical analysis by demonologists",
+    "agricultural_calendar": "Weather-magic accusations showed seasonal concentration around planting and harvest periods — when weather threats were most consequential and when any unusual meteorological event had highest stakes"
+  },
+
+  "geographic_distribution": "Documented throughout Europe but particularly prominent in German, Swiss, and Scottish prosecution records where agricultural vulnerability and demonological culture intersected.",
+
+  "historiographical_significance": "Midelfort's quantitative analysis in Witch Hunting in Southwestern Germany (1972) documented the correlation between weather events and prosecution waves in the German material, providing empirical support for the weather-trigger hypothesis. Behringer's research on Bavarian witch prosecution confirmed this correlation and added detail about the specific kinds of weather events (hailstorm rather than flood, for example) most consistently associated with prosecution. Clark's analysis in Thinking with Demons provides the intellectual-historical context for how weather magic was theorized within the demonological tradition.",
+
+  "source_method": "Kramer, Malleus Maleficarum (1487); Agobard of Lyon, De Grandine et Tonitruis (c. 815); North Berwick examination records; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Clark, Thinking with Demons (1997); Behringer, Witches and Witch-Hunts (2004); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "kramer-malleus-maleficarum-1486",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

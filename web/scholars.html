@@ -283,6 +283,32 @@ p:last-child { margin-bottom: 0; }
 /* ── map placeholder ── */
 .map-container { background: var(--cream); border: 2px dashed var(--border); border-radius: var(--radius); padding: 60px 24px; text-align: center; color: var(--muted); font-style: italic; margin-bottom: 32px; }
 
+/* ── interactive map page ── */
+.map-page-layout { display: flex; gap: 0; align-items: flex-start; }
+#witch-map-wrap { flex: 1; min-width: 0; border: 2px solid var(--border); border-radius: var(--radius); overflow: hidden; background: #b8d4e8; position: relative; }
+#witch-map { display: block; width: 100%; height: auto; cursor: crosshair; }
+.map-land { fill: #e8dfc0; stroke: #b8a878; stroke-width: 0.8; }
+.map-loc { cursor: pointer; transition: r 0.15s; }
+.map-loc:hover .loc-circle { filter: brightness(1.2); }
+.loc-circle { transition: r 0.15s, opacity 0.15s; }
+.map-tooltip { pointer-events: none; }
+.map-tooltip rect { fill: rgba(26,18,8,0.88); rx: 4; }
+.map-tooltip text { font-family: Georgia, serif; font-size: 12px; fill: #f5deb3; }
+#loc-panel { width: 320px; min-width: 280px; flex-shrink: 0; background: var(--card-bg); border: 2px solid var(--border); border-radius: var(--radius); padding: 20px 22px; margin-left: 16px; display: none; position: sticky; top: 20px; max-height: 80vh; overflow-y: auto; }
+#loc-panel.visible { display: block; }
+#loc-panel h3 { font-size: 1.1rem; color: var(--accent2); margin-bottom: 4px; }
+#loc-panel .loc-type { font-size: .8rem; color: var(--muted); margin-bottom: 12px; }
+#loc-panel .loc-section { margin-top: 14px; }
+#loc-panel .loc-section h4 { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); border-bottom: 1px solid var(--border); padding-bottom: 3px; margin-bottom: 6px; }
+#loc-panel .loc-section p, #loc-panel .loc-section ul { font-size: .85rem; line-height: 1.55; }
+#loc-panel .loc-section ul { padding-left: 16px; }
+#loc-panel .loc-close { position: absolute; top: 10px; right: 14px; font-size: 1.2rem; cursor: pointer; color: var(--muted); background: none; border: none; }
+#loc-panel .loc-close:hover { color: var(--accent); }
+.map-legend { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px; font-size: .8rem; color: var(--muted); }
+.map-legend-item { display: flex; align-items: center; gap: 5px; }
+.map-legend-dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+@media (max-width: 700px) { .map-page-layout { flex-direction: column; } #loc-panel { width: 100%; margin-left: 0; margin-top: 12px; position: static; } }
+
 /* ── stats bar ── */
 .stats-grid { display: flex; gap: 16px; flex-wrap: wrap; margin-bottom: 32px; }
 .stat-box { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 16px 24px; text-align: center; flex: 1; min-width: 130px; }
@@ -309,7 +335,7 @@ footer { background: var(--accent2); color: #c8a96e; text-align: center; padding
     <span class="site-subtitle">A digital humanities knowledge portal for the history of European witch trials</span>
   </div>
 </header>
-<nav><div class="nav-inner"><a href="index.html">Home</a><a href="trials.html">Trials</a><a href="scholars.html" class="active">Scholars</a><a href="concepts.html">Concepts</a><a href="timeline.html">Timeline</a><a href="sources.html">Sources</a><a href="about.html">About</a></div></nav>
+<nav><div class="nav-inner"><a href="index.html">Home</a><a href="trials.html">Trials</a><a href="scholars.html" class="active">Scholars</a><a href="concepts.html">Concepts</a><a href="timeline.html">Timeline</a><a href="map.html">Map</a><a href="sources.html">Sources</a><a href="about.html">About</a></div></nav>
 
 <main>
 
