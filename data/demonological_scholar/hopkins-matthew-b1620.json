@@ -1,0 +1,59 @@
+{
+  "id": "hopkins-matthew-b1620",
+  "name": "Matthew Hopkins",
+  "birth_year": 1620,
+  "death_year": 1647,
+  "birth_place": "Great Wenham, Suffolk, England",
+  "academic_discipline": "Witch-finding; Common Law (minor legal training claimed)",
+  "primary_institution": "Self-employed; operated from Manningtree, Essex (1644–1647)",
+
+  "major_works": [
+    {
+      "title": "The Discovery of Witches",
+      "year": 1647,
+      "publisher": "London",
+      "significance": "A pamphlet defending Hopkins's witch-finding procedures against criticism, explaining his methods for identifying witches (watching, swimming, searching for witch-marks, interrogation) and arguing for their theological and legal legitimacy. The work was a response to his critics, primarily the clergyman John Gaule.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "ENGLISH WITCH-FINDER; PRIMARY ACTOR (NOT MODERN SCHOLAR)",
+
+  "core_argument": "Matthew Hopkins was the 'Witch-Finder General' of England — a title he gave himself — who with his associate John Stearne conducted the most intensive English witch prosecution of the entire period: approximately three hundred people were accused and roughly one hundred executed in East Anglia between 1645 and 1647. Hopkins was a minor gentleman from Manningtree, Essex, who began his witch-finding career in 1644 and within two years had transformed English prosecution from a modest common-law process into something approaching a Continental-style panic.\n\n  Hopkins's methods were distinct from normal English procedure: he used sleep deprivation ('watching'), swimming (the ducking test), and systematic physical examination for witch-marks to identify suspects, then interrogated them intensively over multiple sessions. The confessions he elicited followed a recognizable pattern — familiar spirits in animal form, diabolical compacts, nocturnal meetings — that owed something to Continental demonology but was also specifically English in its familiar-spirit emphasis.\n\n  Sharpe analyzes Hopkins within the context of the English Civil War's social disruption: the collapse of normal judicial oversight, the mobilization of Puritan religious anxiety, and the specific social tensions of East Anglian village communities created the conditions for the Hopkins campaign. The campaign ended abruptly; Hopkins died in 1647, and the renewed judicial oversight of the post-war period made his methods legally untenable.",
+
+  "key_contributions": [
+    {
+      "concept": "English mass witch prosecution methodology",
+      "claim": "Hopkins developed the first systematic English methodology for identifying witches across multiple communities simultaneously, moving from village to village in East Anglia with a retinue and a fee structure. His methods — watching, swimming, mark-searching — were adapted from Continental and Scottish precedents to the English common-law context.",
+      "implication": "The Hopkins campaign demonstrates that the structural conditions for mass prosecution could exist in England when normal institutional oversight broke down; the English absence of mass prosecution before and after Hopkins was not merely a matter of cultural skepticism but of functional appellate oversight."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Peter Binsfeld (both represent the prosecutorial intellectual tradition that Hopkins's methods enacted in practice, though Hopkins was less theoretically sophisticated)"
+    ],
+    "creative_tension_with": [
+      "John Gaule (the clergyman who publicly criticized Hopkins's methods in Select Cases of Conscience (1646))",
+      "John Stearne (Hopkins's associate who continued briefly after Hopkins's death — their relationship is debated)"
+    ]
+  },
+
+  "database_engagement": "Hopkins is the central actor in the east-anglia-hopkins-campaign-1645 trial_event entry. His methods are relevant to the witch-mark-devils-mark, animal-familiar-english, and torture-confession-dynamic demonological_concept entries. The English prosecution pattern he established differs from the Continental pattern in lacking sabbath confessions but emphasizing familiar spirits and physical marks.",
+
+  "scholarly_sources": [
+    "sharpe-instruments-of-darkness-1996",
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971"
+  ],
+
+  "source_method": "The Discovery of Witches (1647); analyzed in Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017); Macfarlane, Witchcraft in Tudor and Stuart England (1970)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Hopkins's precise death (reportedly of tuberculosis) and the circumstances of the campaign's end are not entirely clear. Whether Hopkins acted primarily from genuine witch belief, from profit motives (he charged fees per witch identified), or from some combination, is debated. Sharpe's analysis tends toward the genuine-belief interpretation while noting the profit dimension; Gaskill's recent work on Malcolm Gaskill's Witchfinders (2005) provides the most detailed modern account.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

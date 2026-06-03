@@ -1,0 +1,35 @@
+{
+  "id": "vagrant-wandering-poor",
+  "name": "Vagrant and Wandering Poor",
+  "category": "social_class",
+  "temporal_scope": "c. 1500–1700",
+  "primary_regions": ["german-states", "central-europe", "british-isles"],
+
+  "group_profile": "Among early modern Europe's most socially marginal populations, vagrant and wandering poor persons — those without fixed domicile, established household, or community membership — faced a specific cluster of prosecution vulnerabilities distinct from those of the settled poor. While the sedentary poor might accumulate the charity-refusal grudges and neighborhood reputation that Macfarlane documents as primary accusation generators, vagrants faced a different mechanism: their mobility and absence of community roots made them legible through the lens of suspicious social non-conformity rather than through accumulated community grievance.\n\n  In the German-speaking territories, vagrant populations — including seasonal workers, itinerant peddlers, mendicants, and discharged soldiers — were viewed through the framework of Vagabundentum (vagabondage), which early modern authorities associated with moral disorder, crime, and social threat. The application of witch-prosecution categories to such populations is documented most clearly in the Salzburg Zauberer-Jackl trials of 1675-90, where vagrant child beggars were accused of forming a traveling diabolical network. Behringer's analysis connects this prosecution to the broader social anxiety about vagabonds that characterized German territorial governance in the seventeenth century.\n\n  In England, Thomas's analysis identifies the Poor Law context as significant: vagrants who begged and cursed when refused were the most extreme form of the charity-refusal accusation pattern. Without the community relationships that made settled poor persons valuable neighbors (and thus somewhat protected from formal prosecution), vagrant strangers had no social capital to draw on in their defense.",
+
+  "persecution_rationale": "Early modern authorities associated vagabonds with crime, heresy, and social disorder across multiple institutional frameworks. The connection between vagabondage and witchcraft was made explicitly in some demonological texts that associated the witches' sabbath with the disorderly nocturnal assembly of social marginals — an association that reflected anxieties about actual populations of wandering poor who traveled at night and outside the surveillance of household-based social order. The vagrant's freedom from household governance was legible as the freedom from Christian social discipline that made diabolical compact possible.",
+
+  "structural_vulnerability": "The vagrant's structural vulnerability in witch prosecution derived from several compounding features. First, the absence of community membership meant no petition network, no accumulated reputation for good character, and no established relationships with powerful persons who might intercede. Second, the vagrant's mobility made them credible as participants in the nocturnal assemblies alleged in sabbath confessions: they actually traveled at night and passed through multiple communities, which could be reinterpreted as attending diabolical gatherings. Third, in mass prosecution contexts like the Salzburg Zauberer-Jackl trials, vagrant children could be pressured to testify against adult vagrants whom they knew, generating the same cascade dynamics that child testimony produced in the Swedish Blåkulla panic. Fourth, vagrant persons had no established domicile from which to have paid local taxes and maintained property, meaning that their arrest generated no fiscal cost to a community and no economic loss to local authorities through confiscation of nothing.",
+
+  "historiographical_significance": "The persecution of vagrant populations in witch-trial contexts has been analyzed by Behringer in the context of the Salzburg Zauberer-Jackl trials and more broadly in his Little Ice Age thesis, which correlates marginal population mobility with climatic stress and harvest failure creating both vagrant populations and community anxieties about social disorder. Levack's comparative analysis notes that the specifically vagrant accused represents a distinct demographic from the settled poor and elderly women who constitute the majority of European prosecution victims, suggesting that specific social contexts (Salzburg's particular governance anxieties, the Thirty Years War's displacement of populations) generated targeting of vagrant populations in specific times and places rather than as a general European pattern.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "witches-sabbath-collective",
+    "bewitchment-illness-attribution"
+  ],
+
+  "scholarly_disagreement": null,
+  "source_method": "Salzburg court records; analyzed in Behringer, Witches and Witch-Hunts (2004); Thomas, Religion and the Decline of Magic (1971); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "thomas-religion-decline-magic-1971",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

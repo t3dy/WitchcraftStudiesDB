@@ -1,0 +1,37 @@
+{
+  "id": "jewish-accused-medieval-heresy-witchcraft",
+  "name": "Jewish Communities — Medieval Heresy and Witchcraft Accusations",
+  "category": "religious_minority",
+  "temporal_scope": "c. 1300–1500",
+  "primary_regions": ["french-territories", "iberian-peninsula", "german-states"],
+
+  "group_profile": "Jewish communities in medieval and early modern Europe faced a distinctive and complex relationship to the prosecution machinery that would later be applied to accused witches. The two prosecution streams — anti-Jewish persecution and witch prosecution — were institutionally separate for most of this period, but shared a common structural logic: both were predicated on the belief that a conspiratorial group was engaged in diabolical rites that threatened Christian society from within. Norman Cohn's Europe's Inner Demons (1975) is the foundational analysis of how the stereotype of the diabolical conspiracy — elaborated against heretics and Jews in the thirteenth and fourteenth centuries — was later applied to accused witches, creating the sabbath stereotype.\n\n  Accusations against Jewish communities included host desecration — the alleged theft and profanation of eucharistic wafers — and the blood libel: the claim that Jews murdered Christian children in ritual contexts. Richard Kieckhefer's work on medieval magic establishes that Jews were accused of demonic conjuration and harmful magic in contexts that paralleled witch accusations. The Rhineland and Alsatian regions saw periodic violence against Jewish communities framed in these terms, with Jewish 'sorcery' functioning as one strand of a broader anti-Jewish theological and social hostility.\n\n  The institutional distinction matters: the Spanish and Portuguese Inquisitions prosecuted conversos (Jewish converts to Christianity) for Judaizing — covert continuation of Jewish practice — rather than for witchcraft as such. The connection between Jewish 'heresy' and the diabolical compact was made in theological argument but rarely translated into formal witchcraft prosecution. Cohn distinguishes carefully between the structural logic shared by anti-Jewish and anti-witch persecution and the institutional processes that were largely separate.",
+
+  "persecution_rationale": "Theological frameworks articulated against Jewish communities held that Jewish religious practice constituted a form of demonic service, since — in the mainstream medieval Christian interpretation — the rejection of Christ meant alignment with the adversary. The charge of host desecration was simultaneously a theological claim (that Jews recognized the presence of Christ in the eucharist, since they allegedly tortured the wafer) and a diabolical conspiracy charge. The blood libel, as analyzed by R. Po-chia Hsia in The Myth of Ritual Murder, was constructed as evidence of Jewish participation in anti-Christian ritual that paralleled the sabbath's alleged mockery of Christian worship. Demonological theorists who drew on anti-Jewish stereotypes — Cohn traces this in his analysis of the pre-history of the sabbath concept — treated Jewish and heretical conspiracy as structural antecedents of the diabolical witch conspiracy.",
+
+  "structural_vulnerability": "Cohn's genealogical analysis in Europe's Inner Demons is the most rigorous account of the structural vulnerability: the prosecution machinery developed to deal with heretical and Jewish conspiracy was available to be applied to witches, and the stereotype of the diabolical conspiracy derived in part from earlier stereotypes developed against Jews and heretics. The specific vulnerabilities of Jewish communities — minority status without full legal standing, periodic legal exposure to property confiscation, exclusion from normal legal protections, and the availability of Christian theological hostility as justification — meant that economic and political motives for persecution could be expressed through theological accusation without institutional resistance. Levack's comparative analysis notes that the formal institution of witch prosecution was largely a product of learned legal culture that developed separately from the periodic pogroms against Jewish communities.",
+
+  "historiographical_significance": "The relationship between anti-Jewish persecution and witch prosecution is a contested question in the historiography of early modern persecutions. Cohn's genealogy in Europe's Inner Demons argues for a direct structural inheritance: the sabbath stereotype was built from earlier stereotypes used against heretics and Jews, making the witch trials in part a secularized or Christianized extension of older conspiracy-persecution frameworks. Briggs and others have questioned the directness of this genealogical claim, noting that the institutional development of witch prosecution in the fifteenth century involved distinct legal and theological mechanisms that cannot be reduced to anti-Jewish precedents. The broader significance of the debate concerns the question of whether witch prosecution was a specific early modern phenomenon or a manifestation of a deeper and more persistent structure of conspiracy-persecution in Western Christian culture. For this database, the Jewish-witchcraft connection must be approached with precision: the two streams intersected at the level of shared stereotypical logic, not at the level of shared institutional processes.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "witches-sabbath-collective",
+    "demonic-pact-early-modern",
+    "diabolical-initiation-renunciation"
+  ],
+
+  "scholarly_disagreement": "Cohn (Europe's Inner Demons) argues for a direct structural genealogy linking anti-Jewish and anti-heretical persecution to the witch trials through the shared diabolical conspiracy stereotype, and that the sabbath concept was assembled from stereotypes developed against both groups. Kieckhefer and others argue that the institutional and theological development of witch prosecution was sufficiently distinct from anti-Jewish persecution to make the genealogical connection less direct than Cohn claims. Levack (The Witch-Hunt in Early Modern Europe) situates the Jewish connection as one factor among several in the formation of the cumulative witch concept, without privileging it over learned demonological developments within the prosecution tradition itself.",
+  "source_method": "Cohn, Europe's Inner Demons (1975); Kieckhefer, Magic in the Middle Ages (1989); Levack, The Witch-Hunt in Early Modern Europe (2006); Behringer, Witches and Witch-Hunts (2004); R. Po-chia Hsia, The Myth of Ritual Murder (1988)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "cohn-europes-inner-demons-1975",
+    "levack-witch-hunt-early-modern-2006",
+    "behringer-witches-witch-hunts-2004",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

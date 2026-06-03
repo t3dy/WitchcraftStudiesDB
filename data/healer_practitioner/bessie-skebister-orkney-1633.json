@@ -1,0 +1,69 @@
+{
+  "id": "bessie-skebister-orkney-1633",
+  "name": "Bessie Skebister",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "scotland",
+  "year_interrogated": 1633,
+  "age_at_trial": null,
+  "social_status": "Widow; resident of Orkney; locally known as a healer and wise woman; service magician with a reputation for folk healing and access to supernatural knowledge",
+  "gender": "Female",
+
+  "self_identification": "Healer who had visited the 'good neighbors' — the fairy folk — and received healing knowledge from a specific fairy woman who taught her cures and revealed the causes and remedies of illness",
+  "claimed_abilities": [
+    "Healing of the sick through knowledge received from the fairy folk",
+    "Diagnosis of illness through fairy-granted insight into causes",
+    "Knowledge of cures communicated by a named fairy woman",
+    "Service-magic consultation for neighbors seeking healing"
+  ],
+
+  "biography": "Bessie Skebister was an Orkney widow tried and executed in 1633 as part of a cluster of prosecutions in the Northern Isles that targeted practitioners of the specifically Orcadian variant of the Scottish fairy-healer tradition. Her case closely resembles those of Elizabeth Dunlop of Ayrshire (executed 1576) and Alison Pearson of Fife (executed c. 1588) in its central framework: healing powers received through direct contact and communication with the fairy folk, described as the 'good neighbors,' rather than through any explicitly demonic agency.\n\nSkebister described encountering a specific fairy woman who had instructed her in cures and provided her with knowledge about the causes of illness and their remedies. This pattern of a named or individuated fairy instructor — parallel to Dunlop's Tom Reid and Pearson's dead cousin Mr. William Simpson — is what Hutton in The Witch (2017) identifies as structurally characteristic of the Scottish fairy-healer type: the practitioner does not simply claim general fairy powers but describes a specific relationship with a particular supernatural being whose identity and communications are documented in testimony.\n\nUnder interrogation, Skebister's fairy contacts were reinterpreted through the standard demonological framework: supernatural beings from whom a practitioner received knowledge and power were treated by prosecutors as diabolical by categorical definition, regardless of how the practitioner understood them. The Orcadian prosecutions of 1633 — which included Isobel Sinclair in the same cluster — represent the prosecution framework's extension to the Northern Isles and demonstrate the geographic reach of both the fairy-healer tradition and the prosecutorial apparatus that targeted it.\n\nSkebister's case is less individually documented than those of Dunlop or Pearson but is cited by Hutton as evidence of the tradition's distribution and by Wilby as part of the broader British fairy-contact and familiar-spirit tradition.",
+
+  "interrogation_narrative": {
+    "circumstances": "Orkney, 1633; part of a cluster of prosecutions targeting fairy-healer practitioners in the Northern Isles; tried before secular authorities",
+    "skebister_initial_claim": "I had visited the good neighbors and received healing knowledge from a fairy woman who taught me cures and showed me the causes and remedies of sickness",
+    "interrogator_response": "Fairy contacts reframed as diabolical; the supernatural beings Skebister described were treated as demons by the prosecution regardless of her own explanatory framework",
+    "adaptation": "Limited documentation of how fully Skebister adapted to or resisted the demonological reframing under interrogation; the prosecution's outcome (execution) suggests the standard conversion of fairy-contact testimony into actionable witchcraft charges"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Contact with the fairy folk ('good neighbors'); instruction by a specific fairy woman; receipt of healing knowledge through this fairy relationship",
+    "under_interrogation_pressure": "Documentation is limited; the prosecution's trajectory suggests the fairy-contact admissions were treated as sufficient for conviction without necessarily requiring a full diabolical-pact confession",
+    "final_confession": "Convicted and executed; exact final confession not preserved in detail in surviving records"
+  },
+
+  "microhistorical_significance": "Bessie Skebister's case is significant within Ginzburg's comparative framework in Ecstasies (1991) as a point of potential comparison with the benandanti and other ecstatic traditions: the Scottish fairy-healer who receives knowledge and healing power through supernatural encounter shares the structural logic of the practitioner who operates at the boundary between the human world and a spirit world, mediating between them for community benefit. Ginzburg's framework emphasizes the widespread distribution of such intermediary figures across European folk cultures; the Orkney cases extend that distribution to the geographical margins of the British Isles.\n\nHutton's analysis in The Witch (2017) is more cautious about pan-European generalizations but documents the fairy-healer cases from across Scotland — Ayrshire, Fife, Aberdeen, Orkney — as evidence of a coherent tradition with recognizable structural features: the individuated fairy contact, the healing function, the diagnosis of illness through supernatural insight, and the community service role that provided social value while simultaneously generating prosecution vulnerability. Wilby's work on the familiar-spirit tradition in Cunning Folk and Familiar Spirits (2005) situates the Orkney cases within the broader British framework of service magicians and their supernatural helpers.",
+
+  "actor_vs_analyst_terminology": {
+    "skebister_language": [
+      "The good neighbors (fairy folk)",
+      "A fairy woman (her supernatural instructor)",
+      "Knowledge of cures received through fairy contact"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical compact (prosecutorial reinterpretation of fairy contact)",
+      "Supernatural consultation with demonic beings"
+    ]
+  },
+
+  "practical_activities": "Healing of the sick through knowledge received from fairy contacts; diagnosis of illness through fairy-granted insight into causes and remedies; service-magic consultation for Orcadian neighbors. Her practice was oriented toward healing and helpful divination rather than maleficium, consistent with the fairy-healer type Hutton documents across Scotland.",
+
+  "interrogation_outcome": "Tried and executed in Orkney, 1633, as part of the same prosecution cluster that included Isobel Sinclair.",
+
+  "historiographical_significance": "Hutton in The Witch (2017) documents Bessie Skebister alongside other Scottish fairy-healer cases as evidence of the tradition's geographic distribution from the Lowlands to the Northern Isles. Her case demonstrates that the Orcadian variant of Scottish fairy-healer practice shared the essential structural features — fairy contact, individuated supernatural instructor, healing function — documented in the better-known Ayrshire and Fife cases. Wilby's Cunning Folk and Familiar Spirits (2005) engages with the Scottish fairy-contact cases as evidence for the experiential dimension of service-magic practice, arguing that the encounter narratives reflect genuine visionary or altered-state experiences shaped by available cultural frameworks. Larner's Enemies of God (1981) provides the broader Scottish prosecution context within which the Orkney 1633 cluster must be situated.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "wilby-cunning-folk-2005",
+    "larner-enemies-of-god-1981"
+  ],
+
+  "source_method": "Scottish witch trial records, Orkney 1633; documented in Hutton, The Witch (2017) and Wilby, Cunning Folk and Familiar Spirits (2005); Larner, Enemies of God (1981) provides Scottish prosecution context",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Hutton in The Witch (2017) accepts the fairy-healer cases as evidence of a recognizable Scottish tradition while cautioning against over-generalization from fragmentary individual records. Wilby in Cunning Folk and Familiar Spirits (2005) argues for the experiential reality of the fairy encounters as genuine visionary experiences, closer to Ginzburg's shamanic interpretation than Hutton's more cautious cultural-constructivist position. The limited documentation of Skebister's case relative to Dunlop or Pearson means that specific details of her testimony cannot be pressed beyond the general fairy-healer pattern.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

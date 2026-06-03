@@ -1,0 +1,57 @@
+{
+  "id": "aix-en-provence-possessions-1611",
+  "name": "Aix-en-Provence Possession Cases, 1610–1611",
+  "location_id": "loudun",
+  "start_year": 1610,
+  "end_year": 1611,
+  "duration_months": 18,
+  "approximate_executions": 1,
+  "approximate_accused": 2,
+  "type": "Possession prosecution",
+
+  "historical_context": "The Aix-en-Provence possession cases of 1610-11 preceded the more famous Loudun possessions by twenty years and established key elements of the French diabolical possession prosecution template. The primary accused was Louis Gaufridy, a Marseille parish priest accused by Madeleine de Demandolx de la Palud, an Ursuline novice at Aix who claimed Gaufridy had seduced her through a demonic pact and sent demons into her body. The case combined the sexual-seduction narrative, the priest-as-diabolical-agent figure, and the convent-possession dynamic that would all reappear at Loudun in 1632-34.",
+
+  "prosecution_mechanism": {
+    "institutional_structure": "Secular parlement of Aix-en-Provence with ecclesiastical involvement; Gaufridy was tried and convicted of witchcraft and sorcery; Capuchin exorcists performed exorcism on the possessed nuns",
+    "evidence_standard": "Testimony of possessed nuns during exorcism sessions; devil's mark evidence (physical marks on Gaufridy's body); confession under examination pressure",
+    "geographic_spread": "Localized to Aix and Marseille; no spread beyond the convent community"
+  },
+
+  "notable_accused": [
+    "Louis Gaufridy (priest) — executed by burning April 30, 1611; confessed under torture to having made a diabolical compact and seduced Madeleine through it",
+    "Louise Capeau — another possessed Ursuline who also gave testimony"
+  ],
+
+  "accused_persons": [],
+
+  "resolution": "Gaufridy's execution on April 30, 1611 terminated the specific prosecution. Madeleine de Demandolx de la Palud later recanted her accusations (in 1642) and declared that she had falsely accused Gaufridy, but he had been dead for thirty years by then.",
+
+  "key_scholars": [
+    "D.P. Walker (Unclean Spirits, 1981) — analysis of the Aix possession case in its intellectual-historical context",
+    "Michel de Certeau (The Possession at Loudun, 2000) — Certeau's analysis of the Loudun case provides comparative framework for the earlier Aix case",
+    "Brian Levack (The Devil Within, 2013) — comparative analysis of French possession cases"
+  ],
+
+  "demonological_concepts_present": [
+    "diabolical-possession-exorcism",
+    "diabolical-initiation-renunciation",
+    "incubus-succubus-tradition"
+  ],
+
+  "linked_inquisitorial_bodies": [],
+
+  "historiographical_significance": "The Aix-en-Provence case is analyzed by Walker in Unclean Spirits (1981) as the precursor to the Loudun possessions and as an instance of the possession-case type in which a male priest is accused by a possessed nun of supernatural seduction. Walker's analysis identifies the specific dynamics: the sexually charged accusation narrative, the institutional convent context, the Capuchin exorcists' role in shaping and validating the possession testimony, and the parlement's willingness to convict on the basis of exorcism-session evidence. The subsequent recantation by Madeleine de Demandolx (1642) provides one of the clearer post-facto indications that the accusation was false, though historians differ on whether to treat the recantation as reliable. The Aix case's similarity to the Loudun prosecution twenty years later suggests a recognized template for French convent possession prosecutions rather than a series of independent events.",
+
+  "source_method": "Aix parlement records; exorcism documentation; analyzed in Walker, Unclean Spirits (1981); Levack, The Devil Within (2013); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The reliability of Madeleine de Demandolx's 1642 recantation — and therefore the degree to which the original 1611 accusation was false — is debated. Walker accepts the recantation as evidence of false accusation; others note that recantations under different circumstances may be equally unreliable as the original accusations.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

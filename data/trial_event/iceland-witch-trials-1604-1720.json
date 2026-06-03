@@ -1,0 +1,43 @@
+{
+  "id": "iceland-witch-trials-1604-1720",
+  "name": "Icelandic Witch Trials",
+  "location_id": "iceland",
+  "date_range": "1604–1720",
+  "approximate_executions": 21,
+  "approximate_accused": 120,
+  "jurisdiction": "Icelandic district courts (alþingi); under Danish-Norwegian crown oversight",
+  "legal_framework": "Danish-Norwegian law (Christian V's Law, 1683); local district court jurisdiction",
+
+  "overview": "The Icelandic witch trials of 1604–1720 produced approximately twenty-one executions and approximately one hundred and twenty accusations over a century-long period, making Iceland a modest prosecution zone by European standards. Iceland's significance in comparative witch-trial historiography derives from an anomaly that sets it apart from almost all other European prosecution areas: approximately eighty percent of the accused were male — the highest male proportion in Europe and a near-inversion of the typical pattern in which women comprised seventy-five to ninety percent of the accused.\n\n  The Icelandic male majority has attracted significant scholarly attention as evidence against simplistic explanations of witch prosecution as primarily expressing misogyny. The explanation offered by scholars including Hutton is structural: Icelandic witch prosecution focused primarily on the crime of galdur — rune magic, the manipulation of written or carved symbols for harmful purposes — and the practice of galdur was culturally associated with men rather than women in Icelandic and Old Norse tradition. A man who could write runic characters could use them for harmful magic; the accusation pattern followed the cultural association between masculine literacy-in-runes and magical practice.\n\n  Icelandic cases show accused men who allegedly used rune staves to harm livestock, affect weather, and injure enemies. The sabbath narrative — a central element of Continental and Scottish witch prosecution — is largely absent from Icelandic confessions; the offense was specific maleficium through runic writing, not diabolical conspiracy.",
+
+  "historiographical_analysis": "Hutton's The Witch (2017) provides the most accessible treatment of the Icelandic anomaly, using it as one of several European 'exceptional cases' (alongside Finland and Russia) that demonstrate the regional specificity of prosecution patterns. The Icelandic evidence is also discussed in Ankarloo and Henningsen's Early Modern European Witchcraft (1990), which includes specialist chapters on the Nordic prosecution patterns. Terry Gunnell's work on Icelandic magical practice provides the folkloric and cultural context for galdur tradition.",
+
+  "accusation_patterns": {
+    "primary_targets": "Men accused of galdur (rune magic); approximately 80% male accused — the highest male proportion in Europe",
+    "geographic_spread": "Distributed across Iceland's regional district courts; no single mass panic comparable to German superhunts",
+    "confession_characteristics": "Focused on specific maleficium through runic writing and staves; diabolical pact elements present but less central than in Continental confessions; sabbath narrative largely absent"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "maleficium-harmful-magic",
+    "weather-magic-storm-raising"
+  ],
+
+  "primary_sources": "Icelandic district court records; analyzed in Hutton, The Witch (2017); Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990)",
+  "source_method": "Icelandic alþingi and district court records; analyzed in Hutton, The Witch (2017); Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "scholarly_disagreement": "The precise execution and accusation count varies between studies; approximately twenty-one executions is the widely cited figure but some studies give slightly different numbers. Whether the male majority reflects primarily the cultural association between rune literacy and galdur (Hutton's explanation) or other structural factors specific to Icelandic society (legal, economic, social) is the main analytical debate. There is consensus that the Icelandic pattern demonstrates that the gender distribution of witch prosecution was not uniformly female across Europe.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

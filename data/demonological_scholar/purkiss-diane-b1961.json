@@ -1,0 +1,99 @@
+{
+  "id": "purkiss-diane-b1961",
+  "name": "Diane Purkiss",
+  "birth_year": 1961,
+  "death_year": null,
+  "birth_place": "Australia",
+  "academic_discipline": "English Literature; Early Modern Studies; Cultural History",
+  "primary_institution": "Keble College, Oxford (Professor of English Literature)",
+  "specialization": "Literary and cultural representations of witches; the witch as cultural construct in early modern English literature; gender and fantasy in witch representations; fairy belief and its literary history; feminist literary history",
+
+  "major_works": [
+    {
+      "title": "The Witch in History: Early Modern and Twentieth-Century Representations",
+      "year": 1996,
+      "publisher": "Routledge, London",
+      "significance": "Major argument that witch representations in literature, social memory, and feminist historiography must be analyzed as cultural constructions — including a critical reading of feminist historians' use of the witch as an empowerment figure",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "At the Bottom of the Garden: A Dark History of Fairies, Hobgoblins, and Other Troublesome Things",
+      "year": 2000,
+      "publisher": "New York University Press",
+      "significance": "Cultural history of fairy belief in British tradition, arguing that fairy belief and witch belief are deeply intertwined and must be analyzed together; extends Purkiss's interest in fantasy and the supernatural beyond witch prosecution specifically",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Troublesome Things: A History of Fairies and Fairy Stories",
+      "year": 2000,
+      "publisher": "Allen Lane, London",
+      "significance": "British edition of At the Bottom of the Garden; traces fairy belief from medieval sources to Victorian fairy tales",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "LITERARY AND CULTURAL CRITIC / FEMINIST HISTORIOGRAPHY CRITIC",
+
+  "core_argument": "Purkiss's central and most influential argument is the critique of the feminist historiography of witch prosecution — particularly Barstow and similar scholars — for treating the witch figure as a transparent historical victim rather than as a cultural construction that requires analysis as such. In The Witch in History (1996), Purkiss argues that feminist historians who celebrate the witch as an empowered symbol of resistance are projecting contemporary concerns onto the historical record rather than analyzing what the historical evidence actually reveals. The women accused of witchcraft in early modern trials were not proto-feminist resisters or representatives of an autonomous female culture — they were caught within cultural and social frameworks that bear no straightforward relationship to contemporary feminist politics. Purkiss also develops a close reading of witch representations in early modern literature, analyzing how Shakespeare, Middleton, and other dramatists constructed the witch figure as a site for the cultural management of anxieties about gender, sexuality, and social order.",
+
+  "methodological_approach": {
+    "primary_materials": "Early modern English literary texts (drama, poetry, prose); witch-trial pamphlet literature; feminist historical scholarship as an object of analysis",
+    "analysis_target": "The cultural construction of the witch figure in literature; the political uses of witch imagery in contemporary culture; feminist historiography's methodological problems",
+    "evidence_type": "Literary-critical close reading; cultural analysis; historiographical critique",
+    "explanatory_level": "Literary and cultural history: Purkiss analyzes witch representations as cultural constructions that reveal anxieties about gender, sexuality, and social order rather than transparent evidence of either historical victims or genuine practitioners"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Critique of feminist martyrology",
+      "claim": "Feminist historians who treat accused witches as martyred representatives of an alternative female culture impose contemporary values on historical figures who operated within entirely different cultural frameworks, producing a politically motivated historical distortion.",
+      "implication": "Witch prosecution must be analyzed as a complex historical phenomenon, not as a morality tale whose victims are available for contemporary appropriation as symbols of feminist resistance."
+    },
+    {
+      "concept": "Witch as cultural construct",
+      "claim": "The witch figure in early modern literature and culture is a cultural construction that reveals cultural anxieties about gender, sexuality, maternity, and social disorder, and must be analyzed as such — not treated as a transparent representation of real historical practitioners.",
+      "implication": "Literary representations of witches require separate analysis from the historical prosecution record; what early modern drama tells us about the witch is not the same as what prosecution documents tell us."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Purkiss engages with trial records less as a primary researcher and more as a critical reader, analyzing the cultural assumptions embedded in the prosecution narrative; her primary empirical work is in literary texts."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Roper (both bring psychoanalytic and cultural-theoretical frameworks to witch prosecution; both critique naive historical empiricism)",
+      "Clark (shared attention to the witch figure as a cultural and intellectual construction rather than a transparent social phenomenon)"
+    ],
+    "creative_tension_with": [
+      "Barstow (Purkiss explicitly critiques Barstow's feminist martyrology approach)",
+      "Karlsen (similar critique applies to Karlsen's feminist framework, though less explicitly directed)",
+      "Ginzburg (Purkiss is more skeptical than Ginzburg about reading through prosecution documents for genuine popular experience)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Purkiss's critique of feminist historiography informs the scholarly_disagreement fields in persecuted_group entries on elderly-women-accused and property-holding-women, and her cultural analysis of witch representations provides context for demonological_concept entries on the composite witch stereotype.",
+    "analytical_weight": "Purkiss provides the literary-critical and historiographical-critical perspective that complicates both the social-history and the feminist frameworks for witch prosecution."
+  },
+
+  "historiographical_significance": "The Witch in History (1996) generated significant controversy within feminist historical scholarship because of its critique of the martyrology tradition in feminist witch historiography. Purkiss's argument that Barstow and similar scholars impose contemporary political frameworks on historical evidence has been accepted, in qualified form, by most subsequent scholars — the witch-as-feminist-hero thesis is no longer defensible in professional historical scholarship. Her literary-historical work on the cultural construction of the witch figure opened a productive line of research on the relationship between literary representation and historical prosecution that Clark's intellectual history tradition does not address. Her work on fairy belief complements Hutton's and Wilby's attention to the overlap between fairy cosmology and witch belief.",
+
+  "scholarly_disagreement": "Purkiss's critique of feminist historiography has been criticized by some feminist scholars as dismissive of the genuine gendered dimensions of prosecution, privileging methodological sophistication over political commitment. The degree to which the witch figure in literary representation bears relationship to the historical prosecution record — and what that relationship is — remains debated between the literary-cultural and social-historical approaches.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "roper-witch-craze-2004",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Primary works: The Witch in History (Routledge, 1996); At the Bottom of the Garden (NYU Press, 2000); early modern English literary texts and pamphlet literature",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

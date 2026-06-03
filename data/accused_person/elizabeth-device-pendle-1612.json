@@ -1,0 +1,75 @@
+{
+  "id": "elizabeth-device-pendle-1612",
+  "name": "Elizabeth Device",
+  "status": "Executed",
+  "trial_id": "pendle-witch-trial-1612",
+  "location_id": "lancashire",
+  "year_accused": 1612,
+  "year_executed": 1612,
+  "age_at_trial": 45,
+  "social_status": "Daughter of Old Demdike (Elizabeth Southerns); poor woman; member of the Device family of Malkin Tower; mother of Alizon, James, and Jennet Device",
+  "gender": "Female",
+
+  "biography": "Elizabeth Device was the daughter of Elizabeth Southerns (Old Demdike) and the mother of Alizon Device, James Device, and Jennet Device, making her the central generational link in the Device family prosecution at Pendle in 1612. She was executed at the Lancaster Summer Assizes on August 20, 1612, alongside her daughter Alizon, her son James, her mother's rival Anne Whittle (Old Chattox), and other Pendle accused.\n\n  Elizabeth Device's prosecution is marked by one of the most painful elements of the Pendle documentation: her daughter Jennet Device, approximately nine years old, gave testimony against her mother at the Lancaster assizes in a courtroom exchange that Potts records as explicitly harrowing. When Elizabeth Device was brought into the court, Jennet was placed on a table to give testimony; Elizabeth screamed curses at her daughter, and the child had to be taken from the room before the testimony could be taken. The testimony Jennet provided — about the Malkin Tower meeting on Good Friday 1612 and about her mother's witchcraft activities — was a primary element in securing conviction.\n\n  Elizabeth Device had herself attended the Malkin Tower gathering on Good Friday 1612, which Roger Nowell identified as the conspiracy meeting at the center of the Pendle prosecution. Her familiar spirit, described as a brown dog named Ball, provided the standard animal-familiar element of the English prosecution pattern. Her confession covered maleficium against several local men whose deaths she attributed to familiar spirit agency.",
+
+  "arrest_narrative": "Elizabeth Device was arrested following the cascade initiated by Alizon Device's examination and by Old Demdike's examination in March-April 1612. The Good Friday meeting at Malkin Tower, which Roger Nowell identified as a conspirators' gathering, provided the specific event around which the prosecution organized its case for coordinated diabolical conspiracy rather than merely individual maleficium. Elizabeth's attendance at that meeting, combined with her family's known cunning-folk practice tradition and her own confession, made her conviction essentially certain.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1612-04",
+      "method": "Examination before Roger Nowell, Justice of the Peace; imprisoned at Lancaster Castle; examination techniques as documented in Potts's account",
+      "initial_response": "Confessed to familiar spirit (brown dog Ball), to maleficium against specific victims, and to attendance at the Malkin Tower meeting",
+      "duration": "Examination transcript preserved and published by Potts (1613)"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "Described her familiar spirit Ball as a brown dog that had aided her in working maleficium; the familiar-reception narrative follows the English pattern documented by Wilby.",
+    "sabbath_activities": "Described the Good Friday meeting at Malkin Tower as a gathering of the Pendle accused; Nowell interpreted this as an organized conspiracy meeting. No Continental-style diabolical sabbath narrative.",
+    "maleficium_claimed": "Attributed deaths of John and James Robinson to familiar spirit action; attributed death of Henry Mitton to witchcraft; other maleficium against local families.",
+    "accomplices_named": [
+      "Named other Pendle accused in the conspiracy narrative"
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Elizabeth Device's confession followed an examination procedure that Potts documents without explicit reference to physical torture, but which involved extended imprisonment and the examination pressure applied to someone whose mother and daughter were already implicated. The cascade mechanism — the Device family's collective prosecution — created a social context in which individual resistance to confession was extremely difficult regardless of any physical coercion.",
+    "plausibility": "The Device family's practice of service magic, well established through Old Demdike's forty-year career documented by Nowell, makes it plausible that Elizabeth Device participated in the family's magical practice tradition. The specific maleficium charges — naming specific victims and attributing their deaths to familiar spirit action — are more difficult to evaluate.",
+    "social_vulnerability": "Elizabeth Device's vulnerability was overdetermined by her family position: daughter of the prosecuted Old Demdike, mother of two prosecuted children, living at the center of the Device family's network that Nowell's investigation had targeted from the start. Her poverty, her family association, and her participation in the documented magical-practice tradition of the Device household combined to leave her no viable exit from the prosecution once it had been initiated."
+  },
+
+  "execution_details": {
+    "date": "1612-08-20",
+    "method": "Hanged at Lancaster",
+    "location": "Lancaster, Lancashire",
+    "witnesses": "Court officials, public; hanged alongside other Pendle condemned including her daughter Alizon and son James",
+    "final_statement": "No specific final statement preserved for Elizabeth Device."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and maleficium through familiar spirit (brown dog Ball)",
+    "Contributing to the deaths of John Robinson, James Robinson, and Henry Mitton",
+    "Attendance at the Malkin Tower conspiracy meeting on Good Friday 1612"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "None; the Device family's poverty and social position precluded organized defense.",
+    "defense_arguments": "None effective; her confession and the testimony of her own daughter Jennet Device secured conviction."
+  },
+
+  "historiographical_significance": "Elizabeth Device's case is most analyzed for the Jennet Device testimony: the nine-year-old child's testimony against her mother at the Lancaster assizes is one of the most documented instances of child testimony in English witch prosecution and raises sharp questions about the reliability of child witnesses in prosecution contexts where family members could be set against each other through examination pressure. Sharpe in Instruments of Darkness (1996) and Hutton in The Witch (2017) both discuss the Device family prosecution as the clearest example of a service-magic family prosecution that moved through family networks through cascade dynamics. Jennet Device's later appearance as an accused person herself (1634) adds an ironic coda: the child who testified against her family was herself prosecuted for witchcraft two decades later.",
+
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Roger Nowell's examinations; analyzed in Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017); Macfarlane, Witchcraft in Tudor and Stuart England (1970)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "sharpe-instruments-of-darkness-1996",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613)",
+  "scholarly_disagreement": "The degree to which the Malkin Tower meeting was an actual gathering of the Device family's magical-practice network versus a meeting with an innocent explanation that Nowell reinterpreted as conspiracy is debated. Potts's account is the only surviving documentation and was shaped by the prosecution's narrative requirements."
+}

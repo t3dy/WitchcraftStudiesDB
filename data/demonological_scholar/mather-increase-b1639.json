@@ -1,0 +1,66 @@
+{
+  "id": "mather-increase-b1639",
+  "name": "Increase Mather",
+  "birth_year": 1639,
+  "death_year": 1723,
+  "birth_place": "Dorchester, Massachusetts Bay Colony",
+  "academic_discipline": "Puritan Theology; Church History; Natural History",
+  "primary_institution": "Second Church (Old North Church), Boston (1664–1723); Harvard College (President, 1685–1701)",
+
+  "major_works": [
+    {
+      "title": "An Essay for the Recording of Illustrious Providences",
+      "year": 1684,
+      "publisher": "Boston",
+      "significance": "A collection of providentialist narratives including accounts of witchcraft and diabolical apparitions in New England; established the format that his son Cotton Mather would elaborate in Memorable Providences (1689).",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Cases of Conscience Concerning Evil Spirits Personating Men",
+      "year": 1693,
+      "publisher": "Boston",
+      "significance": "An analysis of the evidentiary standards appropriate for witch trials, arguing that spectral evidence alone was insufficient for conviction; appeared as the Salem crisis was collapsing and contributed to the intellectual framework for ending the trials. Endorsed by fourteen Massachusetts ministers.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "NEW ENGLAND PURITAN PROVIDENTIALIST / SPECTRAL EVIDENCE SKEPTIC",
+
+  "core_argument": "Increase Mather presents a nuanced case in Salem historiography: more theologically senior than his son Cotton and ultimately more cautious about spectral evidence, his Cases of Conscience (1693) represents an attempt to articulate prosecutorial restraint from within the providentialist framework rather than from outside it. Mather did not doubt that witches existed or that the Salem crisis represented diabolical assault on New England; he doubted whether the evidence standards the court had applied were sufficient to convict specific individuals.\n\n  His argument in Cases of Conscience — that 'it were better that ten suspected witches should escape than that one innocent person should be condemned' — used the common law's precautionary principle within a witch prosecution context, producing an internal critique that was more practically effective than external skepticism. The book appeared in October 1693, endorsed by fourteen Massachusetts ministers, just as Governor Phips was halting the prosecutions. Norton's analysis situates the work within the larger ministerial response to Salem's collapse.",
+
+  "key_contributions": [
+    {
+      "concept": "Spectral evidence insufficiency",
+      "claim": "The devil may impersonate innocent persons, therefore spectral evidence — testimony that the accused person's specter appeared and tormented witnesses — cannot alone establish guilt; additional corroborating physical evidence was required for conviction.",
+      "implication": "By accepting the devil's-impersonation possibility that earlier demonological theory had sometimes questioned, Mather provided a theologically orthodox framework for rejecting spectral evidence without abandoning witch belief."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Cotton Mather (shared the providentialist framework; differed on the sufficiency of spectral evidence)",
+      "Thomas Brattle (whose 1692 letter criticizing the Salem court expressed similar evidentiary concerns from a more secular standpoint)"
+    ],
+    "creative_tension_with": [
+      "William Stoughton (the chief judge of the Salem court, who accepted spectral evidence as sufficient and whose judicial behavior Mather's Cases of Conscience implicitly criticized)"
+    ]
+  },
+
+  "database_engagement": "Increase Mather's Cases of Conscience is referenced in the context of Salem prosecution's collapse; it documents the internal ministerial debate about evidentiary standards that contributed to ending the trials. His earlier Essay for the Recording of Illustrious Providences is relevant to the background of providentialist thinking that shaped the Salem crisis.",
+
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Cases of Conscience (1693); analyzed in Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The relative weight of Increase Mather's Cases of Conscience in ending the Salem prosecutions versus the structural collapse of the accusatory dynamic (declining credibility of accusers, social status of new accused) is debated. Boyer and Nissenbaum give more weight to social dynamics; Norton gives more weight to the ministerial intellectual response.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

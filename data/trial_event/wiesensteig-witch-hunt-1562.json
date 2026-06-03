@@ -1,0 +1,44 @@
+{
+  "id": "wiesensteig-witch-hunt-1562",
+  "name": "Wiesensteig Witch Hunt, 1562–1563",
+  "location_id": "germany",
+  "date_range": "1562–1563",
+  "approximate_executions": 63,
+  "approximate_accused": 70,
+  "jurisdiction": "County of Württemberg; seigneurial jurisdiction of Count Ulrich von Württemberg; secular territorial lordship in what is now Baden-Württemberg, southwestern Germany",
+  "legal_framework": "Imperial criminal law (Carolina, 1532); territorial seigneurial jurisdiction; Count Ulrich von Württemberg commissioned the proceedings",
+
+  "overview": "The Wiesensteig witch hunt of 1562–1563 is among the earliest and most intensive German mass witch prosecutions, predating the great trials of Trier, Bamberg, and Würzburg by several decades. Approximately sixty-three persons — the majority women — were executed by burning in and around the small town of Wiesensteig in what is now Baden-Württemberg, in a territory under the jurisdiction of Count Ulrich von Württemberg. The proximate trigger was a harvest failure and series of storms in 1562 that devastated crops and prompted popular and official attribution of the disaster to maleficent weather magic; accused persons confessed under torture to raising storms and hailstorms through diabolical agency, destroying the harvest and causing the famine conditions.\n\nThe scale and intensity of the Wiesensteig prosecution make it a landmark in the history of European witch trials: it represents the earliest well-documented instance of a large-scale German mass execution based on the fully developed composite witch stereotype — sabbath attendance, demonic pact, and weather-working maleficium operating in combination. The 1562 timing is also significant because it precedes by only one year Johann Weyer's De praestigiis daemonum (1563), the era's most important sceptical treatise on witch prosecution, and some scholars have suggested the Wiesensteig events contributed to the intellectual climate that prompted Weyer's intervention.\n\nThe hunt demonstrates the lethal combination of climatic crisis and institutional willingness to prosecute: Count Ulrich's active commissioning of the trials, coinciding with popular demand for explanation of the harvest disaster, produced the conditions for rapid escalation that H. C. Erik Midelfort identifies as characteristic of the southwestern German prosecution pattern.",
+
+  "historiographical_analysis": "H. C. Erik Midelfort's Witch Hunting in Southwestern Germany, 1562–1684 (1972) treats Wiesensteig as its chronological and analytical starting point, the first case in the nearly 120-year arc of southwestern German prosecution that Midelfort surveys. For Midelfort, Wiesensteig exemplifies the structural conditions enabling large-scale prosecution: a small jurisdiction under autonomous seigneurial control without the moderating oversight of a larger appellate court, a triggering crisis (harvest failure), and a magistrate willing to commission prosecution. Midelfort's analysis emphasises structural institutional factors — the absence of appellate review, the autonomy of seigneurial jurisdiction — as the primary explanatory variables.\n\nWolfgang Behringer's work on weather magic and crisis prosecution, synthesised in Witches and Witch-Hunts: A Global History (2004) and his earlier articles, argues that the connection between the 1562 famine and the hunt is not merely incidental but causal: popular demand for explanation of the climatic disaster generated pressure for prosecution that seigneurial authorities channelled through the courts. Behringer emphasises popular agency in this demand as a counterweight to elite-initiative models. Brian Levack's comparative framework accepts both Midelfort's structural analysis and Behringer's crisis-causation argument, while noting that Wiesensteig's scale relative to its small population (the sixty-three executions in a territory of a few thousand people) makes it proportionally among the most intensive European prosecutions.",
+
+  "accusation_patterns": {
+    "primary_targets": "Women of middling social status in and around Wiesensteig; accused persons confessed to storm-raising and harvest destruction through diabolic agency; weather workers rather than obstetric maleficiants",
+    "geographic_spread": "Concentrated in Wiesensteig and surrounding villages of the county; the prosecution was locally bounded by seigneurial jurisdiction rather than spreading through external commission networks",
+    "confession_characteristics": "Confessions under torture centred on storm-raising, hailstorm generation, and destruction of crops and livestock; diabolic pact and sabbath attendance present; the confessions directly addressed the famine crisis that triggered the hunt"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "weather-magic-storm-raising",
+    "little-ice-age-crisis-prosecution",
+    "denunciation-cascade-mechanism"
+  ],
+
+  "primary_sources": "Württemberg territorial records; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004)",
+  "source_method": "Württemberg territorial court records; analyzed in Midelfort, Witch Hunting in Southwestern Germany, 1562–1684 (1972); Behringer, Witches and Witch-Hunts: A Global History (2004); Hutton, The Witch: A History of Fear (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004",
+    "hutton-the-witch-2017"
+  ],
+
+  "scholarly_disagreement": "The causal relationship between the 1562 harvest crisis and the Wiesensteig hunt is accepted by both Midelfort and Behringer, but the two scholars disagree on the mechanism. Behringer emphasises popular pressure — that communities experiencing famine demanded explanation and judicial action, pressing magistrates toward prosecution — while Midelfort emphasises structural institutional factors, arguing that the absence of appellate oversight and the autonomy of Count Ulrich's seigneurial jurisdiction were the enabling conditions without which popular demand would not have translated into mass execution. The debate maps onto a broader methodological tension between bottom-up explanations privileging popular agency and top-down explanations privileging state and elite initiative. The connection to Weyer's De praestigiis (1563) — whether the Wiesensteig events directly prompted Weyer's intervention — remains a matter of inference rather than documented fact, with Midelfort cautiously accepting proximity without asserting direct causation.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

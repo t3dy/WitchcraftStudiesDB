@@ -1,0 +1,42 @@
+{
+  "id": "trier-electoral-archbishopric-court",
+  "name": "Trier Electoral Archbishopric Court",
+  "formal_name": "Kurfürstentum Trier — ecclesiastical and secular criminal jurisdiction under Johann von Schöneberg and Peter Binsfeld",
+  "institutional_type": "episcopal_secular_court",
+  "founded": null,
+  "dissolved": null,
+
+  "jurisdiction_description": "The Electoral Archbishopric of Trier was one of the seven imperial electors of the Holy Roman Empire, its Archbishop holding both spiritual authority over a large diocesan territory in the Moselle valley and secular criminal jurisdiction over the electoral principality. The archbishopric's territory extended through much of the middle Moselle region, including numerous dependent lordships and suffragan jurisdictions. Like the Franconian episcopal principalities of Bamberg and Würzburg, Trier combined episcopal and secular authority in a single ruler who could direct prosecution without external judicial oversight from Rome or from a secular appellate body.\n\n  The most documented Trier witch panic ran from approximately 1581 to 1593 under Archbishop Johann von Schöneberg, with the auxiliary bishop and suffragan Peter Binsfeld playing a central prosecutorial and theoretical role. Binsfeld's Tractatus de Confessionibus Maleficorum et Sagarum (1589), written in direct connection with the Trier prosecution and drawing on its testimony, became one of the most influential demonological treatises of the period, specifically defending the evidentiary value of confessions obtained under torture and the validity of testimony naming accomplices.",
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "Torture was applied in the Trier prosecution and its evidentiary value was explicitly defended by Binsfeld's 1589 treatise, which argued against the skeptical position of Johann Weyer and others that confession under torture was unreliable. Binsfeld specifically addressed the objection that the devil could induce false confessions, arguing that divine providence would not permit the innocent to be falsely convicted — a theological position that functioned to remove procedural caution about tortured testimony.",
+    "evidence_standards": "Binsfeld's treatise made the evidentiary case for accepting the testimony of witches against their accomplices, directly in the context of the Trier prosecution's cascade denunciation pattern. His argument was that witches' testimony against each other, though the testimony of persons convicted of a capital crime, was admissible because the conspiracy being prosecuted was of exceptional severity. This was the crimen exceptum doctrine applied to witchcraft.",
+    "confession_policy": "Confession under torture was the primary basis for conviction. The Trier records document the cascade mechanism: each confession produced denunciations of accomplices, and the prosecution expanded accordingly. Approximately 368 documented executions resulted from the 1581–1593 prosecution; some contemporary accounts suggest higher totals.",
+    "appeal_mechanism": "No effective external review from Rome or a secular imperial court is documented as having moderated the Trier prosecution. The prosecution wound down through a combination of social exhaustion and, in some accounts, growing resistance from accused persons of sufficiently high social status to mount effective resistance."
+  },
+
+  "role_in_witch_trials": "The Trier electoral archbishopric court is historically significant both for the scale of its prosecution — approximately 368 documented executions, with some contemporary sources suggesting totals exceeding 1,000 — and for its direct connection to major demonological theory production. Peter Binsfeld, auxiliary bishop of Trier, was both a prosecution participant and a systematic theorist whose 1589 Tractatus directly addressed and rebutted the skeptical arguments of Johann Weyer. The Trier case is therefore a site where the relationship between institutional prosecution and demonological theory-building can be documented precisely: Binsfeld's treatise is applied theology, not abstract speculation, generated in the context of active prosecution and designed to defend its procedures.",
+
+  "witch_trial_involvement_level": "high",
+  "key_trial_events": [
+    "trier-witch-trials-1581-1593"
+  ],
+
+  "historiographical_significance": "The Trier prosecution and Binsfeld's theoretical response to Weyer constitute one of the most important case studies for Stuart Clark's intellectual-historical framework in Thinking with Demons (1997). Clark's analysis demonstrates that Binsfeld's demonology was coherent within its theological premises: the crimen exceptum doctrine, the defense of tortured testimony, and the rejection of Weyer's medical skepticism all follow from a specific understanding of demonic conspiracy's exceptional character. Clark argues that this theoretical coherence must be taken seriously rather than dismissed as motivated rationalization.\n\n  Levack's comparative account in The Witch-Hunt in Early Modern Europe uses the Trier prosecution as part of the broader argument that mass prosecution occurred where institutional conditions permitted cascade denunciation to operate without restraint. The Trier case combines both elements Levack identifies as necessary: institutional authority consolidated in a single actor without external oversight, and a theoretical framework legitimating testimony obtained under torture.\n\n  Behringer's Witches and Witch-Hunts (2004) situates the Trier prosecution within the pattern of German episcopal principality prosecutions. The Trier panic preceded the Bamberg and Würzburg prosecutions by several decades and provided the theoretical ammunition — Binsfeld's treatise — that subsequent prosecutors could cite as authority.",
+
+  "scholarly_disagreement": "The precise death toll for the Trier prosecution is debated. Contemporary accounts suggesting totals exceeding 1,000 are generally regarded as inflated by specialist historians; Levack and Behringer work with the lower documented figure. Whether the Trier prosecution was driven primarily by Binsfeld's theological convictions or by social dynamics of accusation independent of demonological theory is a question the sources do not permit definitive resolution.",
+  "source_method": "Binsfeld, Tractatus de Confessionibus Maleficorum et Sagarum (1589); Trier archiepiscopal records; analyzed in Clark, Thinking with Demons (1997); Levack, The Witch-Hunt in Early Modern Europe; Behringer, Witches and Witch-Hunts (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-2006",
+    "behringer-witches-witch-hunts-2004",
+    "midelfort-witch-hunting-1972"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

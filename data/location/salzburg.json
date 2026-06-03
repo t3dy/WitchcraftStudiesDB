@@ -1,0 +1,28 @@
+{
+  "id": "salzburg",
+  "name": "Prince-Archbishopric of Salzburg",
+  "modern_country": "Austria",
+  "latitude": 47.809,
+  "longitude": 13.055,
+  "location_type": "territory",
+
+  "hover_description": "Salzburg, 1675–1690: Zauberer-Jackl mass trials. ~130 executions of vagrant child beggars accused of forming a diabolical beggar network. Connected to German superhunt pattern.",
+
+  "panel_description": "The Prince-Archbishopric of Salzburg experienced a mass prosecution in the 1670s-1680s that was distinctive for the demographic profile of its victims: the 'Zauberer-Jackl' trials (named for the alleged ringleader, a young beggar known as 'Magic Jack') targeted vagrant child beggars and young people, producing approximately 130 executions of individuals many of whom were adolescent or younger. The social profile — poor vagrant children rather than elderly women — reflects the prosecution's specific framing: the accused were alleged to form a traveling diabolical network that disrupted the social order through coordinated magical crime.\n\n  The Zauberer-Jackl prosecution represents an intersection of the diabolical-conspiracy prosecution model with anxieties about vagrancy and social disorder. The vagrant child beggars were not the elderly marginalized women typical of many European prosecution contexts but mobile, economically marginal young people whose social position was threatening to the stable household-based society of the archbishopric. The application of the witch-prosecution framework to this population demonstrates the flexibility of the composite stereotype: it could be adapted to fit anxieties about different social threats in different contexts.\n\n  Behringer's comparative analysis includes the Salzburg case as evidence for the range of social groups that prosecution could target when the institutional and ideological conditions were present. The Salzburg prosecution, along with the Scandinavian cases in which children's testimony drove panic, illustrates that the demographic profile of prosecution was not fixed but responsive to local social anxieties and the specific narrative of conspiracy available in a given context.\n\n  Salzburg's location in the Alpine region also connects it to the broader geography of Central European mass prosecution: its neighbor territories (Bavaria, Bishopric of Würzburg, Bamberg) had experienced or were experiencing intense prosecution, and the regional prosecution culture created conditions favorable to new initiatives.",
+
+  "key_trial_events": [],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "source_method": "Salzburg court records; analyzed in Behringer, Witches and Witch-Hunts (2004); Levack, The Witch-Hunt in Early Modern Europe; Monter, Witchcraft in France and Switzerland (1976) for regional context",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

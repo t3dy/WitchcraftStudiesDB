@@ -1,0 +1,43 @@
+{
+  "id": "medieval-papal-inquisition",
+  "name": "Medieval Papal Inquisition",
+  "formal_name": "Inquisitio haereticae pravitatis — itinerant papal inquisitors delegated under Gregory IX and successors (1231–1542)",
+  "institutional_type": "medieval_papal_inquisition",
+  "founded": "1231",
+  "dissolved": "1542",
+
+  "jurisdiction_description": "The medieval papal inquisition was not a fixed institution with permanent territorial courts but a commission of authority: the delegation by successive popes of extraordinary inquisitorial powers to individual Dominican and Franciscan friars operating as itinerant judges in regions where episcopal authority was deemed insufficient to suppress heresy. Gregory IX's bull Ille humani generis (1231) and related instruments established the legal basis for this delegation; the inquisitors operated under papal authority that in principle superseded local episcopal jurisdiction. In practice, the institution's reach was uneven, concentrated in regions of active heterodoxy — southern France (Languedoc against Cathars), northern Italy, and parts of the Rhineland — and largely absent from areas without significant heretical movements.\n\n  The institution lacked the permanent bureaucratic structure of the later Roman Inquisition (established 1542) or the Spanish Inquisition (established 1478). Its procedural features — the adoption of inquisitorial (as opposed to accusatorial) procedure, the role of the inquisitor as both investigator and judge, the use of torture authorized by Innocent IV's bull Ad extirpanda (1252), and the crimen exceptum doctrine treating heresy as a crime of exceptional severity requiring exceptional procedure — were inherited and adapted by the later institutional inquisitions and, in modified form, by secular courts prosecuting witchcraft.",
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "Innocent IV's Ad extirpanda (1252) authorized torture in heresy prosecutions for the first time in papal law, establishing the legal precedent that the later Roman Inquisition and secular courts would inherit. Procedural constraints theoretically limited torture to one application without permanent injury; in practice, the constraints were variably observed by itinerant inquisitors operating without close metropolitan oversight.",
+    "evidence_standards": "Inquisitorial procedure — in which the judge investigates on the basis of public infamy or denunciation, without requiring a formal accuser — was the defining procedural innovation. This removed the evidentiary floor that accusatorial procedure provided (where a false accuser bore the defendant's penalty) and shifted the process toward confession-seeking. Two witnesses or one uncoerced confession were the standard of proof; circumstantial evidence and interrogation under torture fed the confession-production process.",
+    "confession_policy": "Confession and reconciliation were the formal goals of the inquisitorial process; execution was the punishment only for relapsed or impenitent heretics. Confessed and repentant heretics could receive penance and re-enter the Church. This structure distinguished inquisitorial procedure from secular capital prosecution, though in practice 'relaxation to the secular arm' (transfer for capital punishment) was the outcome for impenitent defendants.",
+    "appeal_mechanism": "Appeal to Rome was technically available, though its practical accessibility depended on the defendant's resources and the inquisitor's cooperation. The absence of fixed courts and regular supervision created significant variation in procedural observance across regions and individual inquisitors."
+  },
+
+  "role_in_witch_trials": "The medieval papal inquisition's direct role in witchcraft prosecution is limited and primarily concentrated in the earliest documented mass witch trials: the Valais and alpine region prosecutions of the 1420s-1430s, where inquisitors operating in the Savoy-Swiss border regions encountered what they characterized as a new diabolical sect. The institution's primary significance for witch trial history is procedural inheritance rather than direct prosecution. The inquisitorial procedure it developed — the role of the inquisitor as investigator-judge, torture authorization, confession-seeking as the process goal, crimen exceptum doctrine — was the procedural template adapted by later secular and episcopal courts for witchcraft cases. The Malleus Maleficarum (1487), though authored by a Dominican inquisitor, was directed primarily at persuading secular and episcopal courts to adopt inquisitorial procedure for witchcraft prosecution.",
+
+  "witch_trial_involvement_level": "low",
+  "key_trial_events": [
+    "valais-witch-trials-1427-1436"
+  ],
+
+  "historiographical_significance": "Norman Cohn's Europe's Inner Demons (1975) provides the foundational analysis of the medieval papal inquisition's role in constructing the composite stereotype of the witch as sabbath-attending diabolist. Cohn's argument — that the witch as a conceptual category was a construction of inquisitorial interrogation rather than a recovery of pre-existing folk belief — drew extensively on inquisitorial records from southern France and northern Italy. Cohn's account was challenged by Carlo Ginzburg, whose Night Battles (1966, English 1983) and Ecstasies (1989, English 1991) argued that inquisitorial records, read against the grain, preserve evidence of genuine folk belief traditions that predate and partly determine the confessional material. This Cohn-Ginzburg methodological disagreement about the relationship between inquisitorial procedure and the content of interrogated confessions is one of the central historiographical disputes in the field.\n\n  Richard Kieckhefer's Magic in the Middle Ages (1989) and his earlier studies of medieval heresy prosecution provide the most careful institutional history of the medieval inquisition's actual operation, distinguishing between the theoretical scope of papal inquisitorial authority and its variable practical implementation. The Ankarloo-Clark series, particularly the volumes on the Middle Ages, situates the early alpine witch trials in the context of the inquisitorial procedural inheritance.",
+
+  "scholarly_disagreement": "Whether the alpine witch trials of the 1420s-1440s represent inquisitorial construction of a new category, the discovery of pre-existing folk practices, or some combination of both is the central methodological question for this institutional context. Cohn's constructivist account and Ginzburg's folk-belief recovery account represent the poles of this debate; most current scholarship occupies a middle position acknowledging both inquisitorial shaping and pre-existing cultural substrate.",
+  "source_method": "Gregory IX, Ille humani generis (1231); Innocent IV, Ad extirpanda (1252); trial records from southern France and northern Italy; Cohn, Europe's Inner Demons (1975); Ginzburg, Night Battles (1983) and Ecstasies (1991); Kieckhefer, Magic in the Middle Ages (1989)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "cohn-europes-inner-demons-1975",
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "levack-witch-hunt-early-modern-2006",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

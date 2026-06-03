@@ -1,0 +1,44 @@
+{
+  "id": "warboys-witch-trial-1593",
+  "name": "Warboys Witch Trial",
+  "location_id": "england",
+  "date_range": "1589–1593",
+  "approximate_executions": 3,
+  "approximate_accused": 3,
+  "jurisdiction": "Huntingdon Assizes; English common law",
+  "legal_framework": "Elizabethan Witchcraft Act (1563)",
+
+  "overview": "The Warboys witch trial of 1589–1593 resulted in the execution of John Samuel, Alice Samuel, and their daughter Agnes Samuel, of Warboys in Huntingdonshire, England, on charges of bewitching the five daughters of Robert Throckmorton, a prominent local gentleman, and of causing the death of Lady Cromwell. The case is historiographically significant for several reasons: the accusers were gentry rather than peasants, reversing the usual English social dynamics of accusation; the accused were a respectable family rather than the typical marginal elderly widow; and the case attracted attention from the highest levels of English society, including contact with the Cromwell family.\n\n  The trial followed a long development: the Throckmorton daughters' afflictions began in November 1589 and continued for more than three years before the Samuels were finally arrested and charged in 1592-1593. During this period, Alice Samuel made an ill-advised confession-like statement and retracted it, providing the primary prosecution evidence. The trial concluded with all three Samuels convicted and hanged at Huntingdon on April 7, 1593.\n\n  The case attracted attention partly because Lady Cromwell — grandmother of the future Oliver Cromwell — was allegedly bewitched by Alice Samuel during a visit and subsequently died; this gave the prosecution a high-profile victim beyond the original afflicted children. The trial was documented in a pamphlet, The Most Strange and Admirable Discoverie of the Three Witches of Warboys (1593), which was widely read and influenced later discussions of witchcraft evidence.",
+
+  "historiographical_analysis": "Macfarlane's Witchcraft in Tudor and Stuart England (1970) analyzed the case as an example of the charity-refusal dynamic applied to a gentry household; the Throckmorton family's wealth and social position made the Samuel family's dependence relationship unusual but not unprecedented. Thomas's Religion and the Decline of Magic (1971) documents the case as evidence of the range of English accusation patterns beyond the standard elderly-widow template. Sharpe's Instruments of Darkness (1996) analyzes the case in the context of the developing English witchcraft discourse and notes its specific influence on the passage of the 1604 Witchcraft Act under James I, for whose court the Warboys precedent was cited.",
+
+  "accusation_patterns": {
+    "primary_targets": "A single family: John Samuel (yeoman farmer), his wife Alice, and their daughter Agnes; not the typical marginal elderly widow but a respectable rural family",
+    "geographic_spread": "Confined to Warboys village and Huntingdon; no cascade dynamic",
+    "confession_characteristics": "Alice Samuel's retracted statement was the primary prosecution evidence; confessions under pressure rather than through sustained inquisitorial interrogation"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "charity-refusal-accusation-model",
+    "maleficium-harmful-magic",
+    "bewitchment-illness-attribution"
+  ],
+
+  "primary_sources": "The Most Strange and Admirable Discoverie of the Three Witches of Warboys (London, 1593); Huntingdon assize records; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Sharpe, Instruments of Darkness (1996)",
+  "source_method": "The Most Strange and Admirable Discoverie of the Three Witches of Warboys (1593); analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Sharpe, Instruments of Darkness (1996); Thomas, Religion and the Decline of Magic (1971)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971",
+    "sharpe-instruments-of-darkness-1996"
+  ],
+
+  "scholarly_disagreement": "Whether the Warboys case should be classified as a 'charity refusal' case (given the gentry-yeoman relationship between the Throckmortons and the Samuels) or as a distinct accusation type is debated. Macfarlane's charity-refusal model fits imperfectly: the usual pattern involved destitute accusers seeking charity from richer neighbors, while Warboys reverses the social direction. Thomas addresses this complexity.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

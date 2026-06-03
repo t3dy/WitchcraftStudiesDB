@@ -1,0 +1,32 @@
+{
+  "id": "norway",
+  "name": "Norway",
+  "modern_country": "Norway",
+  "latitude": 64.560,
+  "longitude": 17.886,
+  "location_type": "nation",
+
+  "hover_description": "Norway, 1560–1692: ~350 executions. Finnmark district had highest European per-capita rate. Sámi noaidi tradition specifically targeted. Danish-Norwegian crown jurisdiction.",
+
+  "panel_description": "Norway's witch prosecution occurred within the legal framework of the Danish-Norwegian crown, whose law codes increasingly criminalized magical practice from the mid-sixteenth century onward. Norway produced approximately 350 executions across the full prosecution period, with the most intensive prosecution occurring in Finnmark, the northernmost Norwegian district.\n\n  Finnmark's prosecution was quantitatively remarkable: approximately 91 executions from a population of roughly 3,000 persons over the period 1620-1692 gave it the highest per-capita execution rate in Europe. The prosecution there had a specifically ethnic dimension: the Sámi noaidi practitioners — shamans who used drum-based trance journeys to contact spirit helpers for healing, divination, and community protection — were specifically targeted as practitioners of an incompatible spirit-contact tradition. Ginzburg analyzes the Finnmark noaidi cases in Ecstasies (1991) as evidence for his pan-Eurasian ecstatic-tradition thesis.\n\n  The Norwegian prosecution also had a notable gender inversion in Finnmark compared to southern Norway: Sámi noaidi were predominantly male, and the targeting of their tradition produced a higher proportion of male accused in Finnmark than in the southern districts, where the female-majority pattern typical of Western European prosecution prevailed.\n\n  The main prosecution wave in southern Norway was distinct from the Finnmark pattern: it followed the general Western European pattern of female accused in community disputes, with accusation dynamics similar to those documented in English and Scottish contexts.",
+
+  "key_trial_events": [
+    "finnmark-witch-trials-norway-1620-1692"
+  ],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "Norwegian court records (Statsarkivet); analyzed in Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Ginzburg, Ecstasies (1991); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

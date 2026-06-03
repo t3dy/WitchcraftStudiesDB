@@ -1,0 +1,82 @@
+{
+  "id": "broedel-hans-peter",
+  "name": "Hans Peter Broedel",
+  "birth_year": null,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "History; Medieval and Early Modern European History; History of Religion",
+  "primary_institution": "University of North Dakota",
+  "specialization": "The Malleus Maleficarum and its intellectual context; Heinrich Kramer's theology and demonological arguments; the construction of the composite witch stereotype in the late fifteenth century",
+
+  "major_works": [
+    {
+      "title": "The Malleus Maleficarum and the Construction of Witchcraft: Theology and Popular Belief",
+      "year": 2003,
+      "publisher": "Manchester University Press",
+      "significance": "The most comprehensive scholarly analysis of the Malleus Maleficarum's theology, sources, and arguments; demonstrates that Kramer's text was attempting a serious theological argument about demonic power and human vulnerability rather than simply systematizing persecution",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "MALLEUS MALEFICARUM SPECIALIST / INTELLECTUAL HISTORIAN",
+
+  "core_argument": "Broedel's central argument is that the Malleus Maleficarum must be taken seriously as a theological argument rather than dismissed as pathological misogyny or as a simple persecution manual. His analysis demonstrates that Kramer was working within the tradition of scholastic theology and attempting to answer genuine questions about the limits of demonic power, the vulnerability of human beings to demonic attack, and the specifically gendered character of that vulnerability as he understood it. Broedel argues that the Malleus's misogyny was not gratuitous but was theologically grounded in Kramer's specific claims about female nature and its relationship to demonic susceptibility — claims that made internal sense within his theological framework even if the framework's premises are unacceptable. This approach aligns Broedel with Clark's insistence that demonological theory be taken seriously as a theological system rather than treated as evidence of irrationality.",
+
+  "methodological_approach": {
+    "primary_materials": "Malleus Maleficarum (1487); Kramer's other theological writings; scholastic theological tradition relevant to Kramer's arguments",
+    "analysis_target": "The specific theological arguments of the Malleus; its sources in scholastic tradition; the logic connecting its premises to its conclusions about witchcraft and women",
+    "evidence_type": "Textual analysis; intellectual history; theological-historical analysis",
+    "explanatory_level": "Intellectual history: Broedel explains the Malleus within its specific theological context rather than as a symptom of social pathology"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Malleus as serious theology",
+      "claim": "The Malleus Maleficarum was a serious theological argument about demonic power, human vulnerability, and gender, operating within the conventions of scholastic theology and attempting to answer genuine intellectual questions raised by the witch trial evidence Kramer had encountered.",
+      "implication": "Understanding witch prosecution requires engaging with the theological seriousness of texts like the Malleus rather than dismissing them as irrational or purely misogynist."
+    },
+    {
+      "concept": "Gendered vulnerability as theological claim",
+      "claim": "Kramer's arguments about women's specific vulnerability to demonic attack were not gratuitous additions to the text but were central to his theological claims about the nature of human weakness and its relationship to demonic power.",
+      "implication": "The Malleus's misogyny must be analyzed within its theological logic to understand why it was persuasive to its original audience, not simply condemned from outside that logic."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Broedel's primary engagement is with the Malleus text itself and with Kramer's other theological writings, situating the Malleus in its intellectual-historical context rather than in trial documentation."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Clark (shared insistence that demonological texts must be taken seriously as theology)",
+      "Kieckhefer (shared attention to the learned tradition and its development)"
+    ],
+    "creative_tension_with": [
+      "Barstow (Broedel's theological reading of the Malleus's misogyny versus Barstow's feminist political critique)",
+      "Thomas/Macfarlane (Broedel's intellectual-history approach versus their social-history methodology)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Broedel's analysis is the primary scholarly source for the deep reading of the Malleus Maleficarum beyond its standard summary treatment, providing context for the kramer-heinrich-b1430 demonological_scholar entry and for the composite-witch-stereotype demonological_concept entry.",
+    "analytical_weight": "Broedel provides the most sustained theological analysis of the Malleus as an intellectual document, complementing the biographical entries for Kramer and Sprenger."
+  },
+
+  "historiographical_significance": "The Malleus Maleficarum and the Construction of Witchcraft (2003) is the most thorough scholarly analysis of Kramer's text available and has substantially advanced understanding of the Malleus's specific theological arguments. Broedel's contribution is the demonstration that the Malleus's positions on women and demonic power were the product of a coherent theological logic operating within the conventions of late medieval scholasticism — a demonstration that both explains the text's influence (it made sense within its intellectual context) and complicates simple dismissals of it as mere misogyny. The book complements Clark's broader analysis of demonological theory as serious theology.",
+
+  "scholarly_disagreement": "The degree to which taking Kramer's theology seriously as an intellectual system requires suspending or qualifying moral judgment about the Malleus's misogyny has been a point of debate. Some scholars argue that Broedel's intellectual-history approach understates the human cost of the theology; Broedel and Clark both argue that understanding is analytically distinct from endorsement.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "kieckhefer-magic-middle-ages-1989",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "source_method": "Primary works: The Malleus Maleficarum and the Construction of Witchcraft (Manchester UP, 2003); the Malleus Maleficarum (1487) as primary text",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

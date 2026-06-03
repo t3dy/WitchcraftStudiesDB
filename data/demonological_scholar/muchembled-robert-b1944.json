@@ -1,0 +1,108 @@
+{
+  "id": "muchembled-robert-b1944",
+  "name": "Robert Muchembled",
+  "birth_year": 1944,
+  "death_year": null,
+  "birth_place": "France",
+  "academic_discipline": "History; Early Modern French and European History; Cultural History",
+  "primary_institution": "Université Paris XIII (Paris Nord) (Emeritus Professor)",
+  "specialization": "Popular culture and elite culture in early modern France; the devil and diabolic culture; witch prosecution in the northern French territories (Artois, Cambrésis); Christianization and cultural repression",
+
+  "major_works": [
+    {
+      "title": "Popular Culture and Elite Culture in France 1400-1750",
+      "year": 1985,
+      "publisher": "Louisiana State University Press (original French: 1978)",
+      "significance": "Major argument for the thesis that witch prosecution was primarily a tool of cultural repression through which educated elites imposed their religious and moral norms on popular culture; foundational for the acculturation interpretation",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "A History of the Devil: From the Middle Ages to the Present",
+      "year": 2003,
+      "publisher": "Polity Press (original French: 2000)",
+      "significance": "Cultural history of the devil as a figure in Western imagination from the medieval period to modernity; relates the learned demonological tradition to its broader cultural context",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Une Histoire du Diable: XIIe–XXe siècle",
+      "year": 2000,
+      "publisher": "Éditions du Seuil, Paris",
+      "significance": "French-language original of A History of the Devil; traces the cultural role of Satanic imagery across seven centuries",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Le Roi et la sorcière: L'Europe des bûchers (XVe–XVIIIe siècle)",
+      "year": 1993,
+      "publisher": "Desclée de Brouwer, Paris",
+      "significance": "Study of the relationship between monarchical authority and witch prosecution in France and northern Europe; argues for the central role of state-formation in generating prosecution",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "FRENCH CULTURAL HISTORIAN / ACCULTURATION THESIS PROPONENT",
+
+  "core_argument": "Muchembled's central argument is the 'acculturation thesis': that witch prosecution in early modern France and northern Europe was primarily a mechanism of cultural imperialism through which educated elite culture — clerical, noble, and later bourgeois — imposed its norms on popular culture, suppressing the autonomous popular cosmology that included magical practice, carnivalesque inversion, and pre-Christian survivals. Where Thomas and Macfarlane analyze prosecution through community-level social dynamics, and Clark through intellectual history, Muchembled interprets prosecution as a dimension of the broader Christianization and civilization process by which popular culture was brought under elite control. The witch was, in this reading, primarily the representative of a popular culture threatened by elite disciplines, and prosecution was the mechanism by which that threat was suppressed. This framework connects witch prosecution to the broader history of the Counter-Reformation, state-formation, and the disciplining of popular mores documented by Michel Foucault.",
+
+  "methodological_approach": {
+    "primary_materials": "Artois and Cambrésis archival records; northern French village and town records; church visitation records; inquisitorial registers",
+    "analysis_target": "The relationship between elite and popular culture in France; the role of prosecution in the Christianization and disciplining of popular behavior; the geographic concentration of north French prosecution in Catholic border territories",
+    "evidence_type": "Archival legal and ecclesiastical records; demographic analysis; sociological cultural analysis",
+    "explanatory_level": "Structural cultural analysis: Muchembled explains prosecution as the product of a long-term structural conflict between elite and popular culture rather than specific community dynamics or individual learned systems"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Acculturation thesis",
+      "claim": "Witch prosecution was primarily a tool through which educated and ecclesiastical elites imposed their moral and religious norms on popular culture, suppressing the autonomous popular cosmological system that included magical practice.",
+      "implication": "Prosecution intensity correlates with the degree of elite-popular cultural conflict in a given region and period, rather than with specific popular belief systems or specific social dynamics."
+    },
+    {
+      "concept": "North French prosecution as border phenomenon",
+      "claim": "The concentration of intense prosecution in Artois, Cambrésis, and other northern French territories reflects their position as Catholic-Protestant border zones where Counter-Reformation disciplining of popular culture was most intense.",
+      "implication": "Regional variation in prosecution intensity reflects the geography of religious conflict and Counter-Reformation effort rather than purely local social conditions."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Muchembled's empirical work is grounded in Artois and Cambrésis archival records, providing a specifically French-northern territorial base that differs from both the English and German-speaking cases dominant in the Anglophone literature."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Ginzburg (popular culture as a legitimate subject; prosecution as suppression of genuine popular practice)",
+      "Briggs (French-territory focus; attention to multi-causal prosecution dynamics)"
+    ],
+    "creative_tension_with": [
+      "Thomas/Macfarlane (Muchembled's structural-cultural framework versus their community-dynamics analysis)",
+      "Clark (Muchembled's cultural-power analysis versus Clark's intellectual-history approach to demonology as a genuine system of thought)",
+      "Hutton (Hutton is skeptical of acculturation thesis's implication that popular culture contained coherent survivals requiring suppression)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Muchembled's acculturation thesis provides interpretive context for the de-lancre-labourd-investigation-1609 trial_event entry and for French entries in the demonological_concept schema; his framework represents the French contribution to the prosecution-as-social-control interpretation.",
+    "analytical_weight": "Muchembled offers the specifically French cultural history perspective that complements the Anglo-German-dominated Anglophone literature and situates prosecution within the broader Counter-Reformation disciplining of popular culture."
+  },
+
+  "historiographical_significance": "Muchembled's acculturation thesis was one of the major interpretive frameworks for witch prosecution in the 1970s-1990s and remains influential in French historiography, though it has been substantially modified by subsequent comparative work. Levack's comparative synthesis accepts elements of the acculturation model while qualifying its claim that prosecution primarily served elite cultural control. Briggs's Lorraine study found the north French/Belgian prosecution pattern more complex than Muchembled's framework implied. Clark's intellectual-history approach argues that reading demonology as purely a cultural-control instrument misunderstands its theological seriousness. Muchembled's contribution is the placing of French prosecution within the broader history of elite-popular cultural relations and Counter-Reformation disciplining — a perspective that remains essential for understanding the French context specifically.",
+
+  "scholarly_disagreement": "The acculturation thesis has been criticized by Hutton, Briggs, and Clark for overstating the degree to which prosecution was organized as a deliberate tool of cultural repression rather than arising from the specific community dynamics, theological anxieties, and legal institutional factors that other scholars emphasize. The degree to which popular culture contained coherent pre-Christian survivals that required suppression — the premise of the acculturation thesis — is contested by Cohn and others who emphasize elite construction of the witch stereotype.",
+
+  "scholarly_sources": [
+    "briggs-witches-neighbours-1996",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "source_method": "Primary works: Popular Culture and Elite Culture in France 1400-1750 (LSU Press, 1985); A History of the Devil (Polity Press, 2003); Artois and Cambrésis archival records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

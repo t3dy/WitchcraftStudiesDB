@@ -1,0 +1,42 @@
+{
+  "id": "cunning-folk-prosecuted-maleficium",
+  "name": "Cunning Folk Prosecuted for Maleficium",
+  "category": "occupational",
+  "temporal_scope": "c. 1450–1700",
+  "primary_regions": ["english-territories", "scandinavian-north", "german-states"],
+
+  "group_profile": "Cunning folk — service magicians who sold healing, divination, counter-magic, and recovery-of-stolen-goods services to their communities — were vulnerable to witch prosecution not primarily through their acknowledged magical practice (which was widespread and to some degree tolerated) but through the dynamics of client relationships that could turn adversarial. The prosecution of cunning folk for maleficium represents a specific pathway into witch accusation that is distinct from the broader patterns of elderly-woman prosecution or charity-refusal accusation: the cunning practitioner was targeted not because of poverty or marginality but because their professional role placed them at the intersection of community need, expectation, and potential disappointment.\n\n  Thomas's Religion and the Decline of Magic (1971) documents the English cunning folk tradition comprehensively and notes the dual nature of the practitioner's community role: the same person identified as a healer could be suspected of causing the illness they were later called to cure. A client who paid for a healing and did not recover had grounds for grievance; a practitioner who had a reputation for both helping and harming — the 'good witch' who could also be a malevolent one — was structurally exposed to accusation by disappointed clients. Macfarlane's Essex analysis shows that some of the most detailed English familiar-spirit confessions came from persons who had practiced as cunning folk before being accused.\n\n  Emma Wilby's Cunning Folk and Familiar Spirits (2005) offers the most detailed recent analysis of the relationship between cunning-folk practice and witch prosecution in England, arguing that the familiar-spirit tradition in English confessions reflected genuine elements of practitioner belief rather than entirely interrogation-imposed content. This category is analytically distinct from cunning-folk-wise-women (which focuses on the gender dimension of this persecution pattern) by emphasizing the occupational-role vulnerability mechanism that applied across genders.",
+
+  "persecution_rationale": "Demonological theory created a specific problem for cunning folk: the efficacy of their services required explanation, and the only explanations available within the demonological framework were divine grace (an implausible attribution for professional magical practitioners) and demonic compact. The Malleus Maleficarum and Continental demonological tradition held that beneficial magic no less than harmful magic required demonic assistance — the 'good witch' was a witch none the less. In the English context, the good-witch-beneficial-magic-problem was articulated differently: English prosecution focused more on the familiar-spirit as the mechanism of magical assistance, and the familiar was explicitly a demonic entity in theological interpretation. The cunning folk who used a familiar spirit for beneficial purposes was, within this framework, in compact with a demon regardless of the service's beneficial intent.",
+
+  "structural_vulnerability": "Thomas's analysis identifies the structural vulnerability precisely: the cunning practitioner occupied a position of community authority based on claimed magical competence, and any failure of that competence — a sick person who died despite treatment, a stolen object not recovered, a curse not successfully countered — created a disappointed client who now had both a grievance and a suspicion. The practitioner's claim to magical efficacy, which was the foundation of their professional standing, simultaneously established the plausibility of their capacity for maleficium. Macfarlane's Essex data show that accused persons with prior reputations as cunning practitioners tended to face accusation from within the client population rather than from outside it — the neighbor who had paid for services was more likely to accuse than the neighbor who had never sought them. Wilby's analysis of the familiar-spirit tradition suggests that the most detailed confessions from cunning-folk accused reflected genuine elements of practitioner self-understanding, which made them more elaborate and more credible to prosecution authorities than simple denials.",
+
+  "historiographical_significance": "The prosecution of cunning folk for maleficium sits at the center of an important historiographical problem: the degree to which folk magical practice and witch accusation were continuous phenomena or distinct ones. Thomas's interpretation treats them as distinct — cunning folk were practitioners of a different kind of magic than that alleged against witches — but acknowledges that prosecution could collapse the distinction. Hutton's The Witch (2017) argues for a stronger version of continuity: the cunning folk and the accused witch were both embedded in the same folk magical culture, and the distinction between beneficial and harmful practice was a practical rather than categorical one. Wilby's detailed analysis of familiar-spirit confessions argues that accused cunning folk brought genuine elements of their practice into the confession, making witch trial confessions from this group a partial window onto actual folk magical tradition. The significance for the broader historiography is the question of what witch trial confessions document: if cunning-folk accused contributed genuine practitioner material to their confessions, then the sabbath confessions of other accused persons may also contain genuine belief elements, supporting Ginzburg's argument.",
+
+  "exemplary_accused_persons": [
+    "isobel-gowdie-auldearn-1662",
+    "elspeth-reoch-orkney-1616"
+  ],
+  "related_demonological_concepts": [
+    "cunning-folk-service-magic",
+    "good-witch-beneficial-magic-problem",
+    "animal-familiar-english"
+  ],
+
+  "scholarly_disagreement": "Thomas (Religion and the Decline of Magic) and Macfarlane (Witchcraft in Tudor and Stuart England) treat cunning-folk prosecution as a secondary pathway into witch accusation, less statistically significant than the elderly-woman charity-refusal pattern. Hutton (The Witch) argues for greater continuity between cunning-folk practice and witch accusation, making the prosecution of practitioners more central to the overall pattern. Wilby (Cunning Folk and Familiar Spirits) argues, against both Thomas and the stronger scepticism of Roper, that familiar-spirit testimony in cunning-folk confessions preserves genuine practitioner belief material rather than being entirely interrogation-imposed. Ginzburg's argument in Night Battles and Ecstasies supports the genuine-belief-content position and finds structural parallels between English cunning-folk and Italian benandanti.",
+  "source_method": "Essex assize records analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Thomas, Religion and the Decline of Magic (1971); Wilby, Cunning Folk and Familiar Spirits (2005); Hutton, The Witch (2017); Ginzburg, Night Battles (1983)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "wilby-cunning-folk-2005",
+    "hutton-the-witch-2017",
+    "ginzburg-night-battles-1983",
+    "sharpe-instruments-of-darkness-1996"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

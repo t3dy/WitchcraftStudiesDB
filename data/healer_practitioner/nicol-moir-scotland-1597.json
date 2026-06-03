@@ -1,0 +1,68 @@
+{
+  "id": "nicol-moir-scotland-1597",
+  "name": "Nicol Moir",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "scotland",
+  "year_interrogated": 1597,
+  "age_at_trial": null,
+  "social_status": "Scottish cunning man; male service-magic practitioner of divination and healing through supernatural means; tried and executed during the 1597 Scottish witch hunt, one of the major waves of prosecution in the reign of James VI",
+  "gender": "Male",
+
+  "self_identification": "Practitioner of divination and healing through supernatural knowledge; his self-presentation within the surviving record reflects the service-magic framework of the Scottish cunning man rather than any explicitly diabolical identification",
+  "claimed_abilities": [
+    "Divination about health, welfare, and the causes of illness",
+    "Healing through supernatural means",
+    "Service consultation for clients seeking knowledge of hidden or future matters"
+  ],
+
+  "biography": "Nicol Moir is documented in the Survey of Scottish Witchcraft database (compiled by Goodare, Martin, Miller, and Yeoman) as a male practitioner tried and executed during the 1597 Scottish witch hunt. The 1597 wave was one of the most significant episodes of Scottish witch prosecution under James VI, occurring in the same period as James's own intense engagement with demonology and witchcraft belief that would culminate in his Daemonologie (1597).\n\nMoir's case represents the male cunning-man type in Scottish prosecution — a demographic minority among the accused, since Scottish witch trials, like those elsewhere in Europe, predominantly targeted women. His practice of divination and healing through supernatural means placed him in the service-magic tradition that Hutton analyzes in The Witch (2017) as the population of practitioners who were genuinely embedded in their communities as providers of practical magical services, valued by neighbors for their abilities, and periodically prosecuted when their community relationships broke down or when they fell within the expanding net of a general hunt.\n\nThe 1597 wave created prosecution pressure that affected practitioners who might otherwise have operated for years without formal challenge. Service-magic practitioners — men and women who healed, divined, and provided practical magical assistance — were vulnerable during periods of intensified prosecution because their practice was well-known to neighbors and their reputations made them identifiable targets once accusations began circulating. The expansion of the 1597 hunt drew in practitioners like Moir whose beneficial practice had not previously attracted sustained prosecutorial attention.\n\nLarner's analysis in Enemies of God (1981) documents the 1597 wave as part of the cyclical pattern of Scottish witch prosecution, driven by a combination of royal enthusiasm, ecclesiastical pressure, and local accusation networks.",
+
+  "interrogation_narrative": {
+    "circumstances": "Scottish secular court, 1597, during the major wave of witch prosecution associated with James VI's intensified engagement with demonology",
+    "moir_initial_claim": "Practice of divination and healing through supernatural knowledge; service-magic functions for community clients",
+    "interrogator_response": "Service-magic practice was processed through the demonological framework; beneficial practice was converted into evidence of diabolical compact by the standard prosecutorial logic",
+    "adaptation": "Limited documentation of the specific interrogation proceedings; the 1597 wave generated confessions conforming to the diabolical template under pressure consistent with other Scottish prosecutions of the period"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Practice of divination and healing through supernatural means",
+    "under_interrogation_pressure": "The 1597 Scottish prosecution context typically involved sustained interrogation aimed at producing confessions conforming to the diabolical sabbath template; Moir's specific testimony is not preserved in detail",
+    "final_confession": "Executed; conviction on charges incorporating both his service-magic practice and whatever diabolical confession the interrogation produced"
+  },
+
+  "microhistorical_significance": "Nicol Moir's case illustrates the specific vulnerability of male service-magic practitioners during periods of intensified Scottish witch prosecution. Hutton in The Witch (2017) documents male cunning men in Scotland as a distinct category whose prosecution followed different social dynamics from those of the female majority: male practitioners' visibility as service providers — their professional reputation — made them identifiable targets, while their gender provided somewhat less structural vulnerability than women faced in normal times but did not protect them during major hunt waves.\n\nGinzburg's framework for reading prosecution records against the grain applies here in a limited way: the service-magic practice that brought Moir to prosecution was the same community-embedded healing and divination function that, in Ginzburg's analysis, represents a surviving pre-prosecution tradition of popular magical practice. The 1597 prosecution converted that practice into evidence of diabolical compact, but the underlying function — healing and divination for community clients — is recoverable through the prosecution record.",
+
+  "actor_vs_analyst_terminology": {
+    "moir_language": [
+      "Divination (his service function as he would have described it)",
+      "Healing through supernatural knowledge",
+      "Service to community clients"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical compact",
+      "Consultation with evil spirits",
+      "Maleficium"
+    ]
+  },
+
+  "practical_activities": "Divination about health and welfare; healing through supernatural means; service-magic consultation for community clients. His practice was oriented toward beneficial service functions, consistent with the cunning-man role documented across Scotland and England by Hutton, Thomas, and Wilby.",
+
+  "interrogation_outcome": "Tried and executed during the 1597 Scottish witch hunt wave.",
+
+  "historiographical_significance": "Hutton's The Witch (2017) discusses male Scottish practitioners as a distinct category within the broader witch-trial record, noting that men constituted a minority of Scottish accused but a higher proportion than in some other European jurisdictions. Nicol Moir represents the male service-magic practitioner whose vulnerability increased dramatically during major prosecution waves like 1597. Larner's Enemies of God (1981) provides the essential contextual analysis of the 1597 Scottish witch hunt as a cyclical episode driven by royal, ecclesiastical, and local pressures, within which practitioners of established community reputation were swept up by the expanding prosecution network. The Survey of Scottish Witchcraft (Goodare et al.) is the primary reference for basic documentation of Moir's case.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "larner-enemies-of-god-1981"
+  ],
+
+  "source_method": "Survey of Scottish Witchcraft database (Goodare, Martin, Miller, Yeoman); Scottish criminal court records; Larner, Enemies of God (1981); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "The limited individual documentation of Nicol Moir's case means that his specific practice, testimony, and the circumstances of his prosecution cannot be analyzed with the precision available for better-documented cases. Hutton and Larner agree on the broad dynamics of the 1597 Scottish hunt but the specific mechanisms by which individual male practitioners like Moir were drawn into prosecution are not fully recoverable from the surviving record.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

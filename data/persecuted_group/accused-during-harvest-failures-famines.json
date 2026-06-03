@@ -1,0 +1,37 @@
+{
+  "id": "accused-during-harvest-failures-famines",
+  "name": "Accused Persons During Harvest Failures and Famines",
+  "category": "social_class",
+  "temporal_scope": "c. 1560–1650",
+  "primary_regions": ["german-states", "french-territories", "scandinavian-north"],
+
+  "group_profile": "Persons accused of weather-magic, storm-raising, and agricultural maleficium — the destruction of crops, death of livestock, and spoiling of harvests through magical means — were particularly targeted during periods of harvest failure, unusual weather, and community subsistence crisis. Behringer's Little Ice Age thesis, developed in Witches and Witch-Hunts (2004) and in earlier work on Bavarian witchcraft, connects the intensification of witch prosecution in the late sixteenth and early seventeenth centuries to the climate deterioration documented by climatologists: the period from approximately 1560 to 1650 saw a series of exceptionally bad harvests across central and northern Europe, associated with volcanic cooling and the broader temperature decline of the Little Ice Age.\n\n  The accused during crisis prosecution tended not to be random community members: they were persons with existing reputations for weather-magic or agricultural maleficium, with documented community conflicts over agricultural resources (disputed field boundaries, water-use conflicts, cattle-cursing accusations), or with the general social marginality that made them available for accusation. Behringer documents specific correlations between bad harvest years and prosecution intensity in the Bavarian records: the years of the worst harvests correspond to peaks in witch prosecution, with the accused frequently charged with the specific act of weather-magic that had ruined the harvest.\n\n  Levack's synthesis in The Witch-Hunt in Early Modern Europe situates the harvest-failure accusation pattern within the broader analysis of crisis as a driver of prosecution: famines, epidemics, and military conflicts all produced elevations in prosecution intensity in the jurisdictions where these crises occurred, suggesting that communities under subsistence stress were more likely to seek human agents for divinely or diabolically caused catastrophe.",
+
+  "persecution_rationale": "Demonological theory explicitly incorporated the power of witches to control weather and destroy harvests: the Malleus Maleficarum devoted substantial attention to weather-magic as a primary form of maleficium, and Continental demonological tradition consistently held that witches at the sabbath received diabolic instruction in storm-raising and agricultural destruction as acts of service to the devil. The theological framework for weather-magic was precise: since God permitted natural disasters as punishment for human sin, a witch who raised a storm was acting as an instrument of diabolic rebellion against the divine order, participating in the inversion of creation that the sabbath represented. The accused weather-magician was thus not merely a criminal but a participant in cosmic warfare against the community's relationship with God.",
+
+  "structural_vulnerability": "Behringer's Little Ice Age thesis is the primary analytical framework: the correlation between climate deterioration and prosecution intensity suggests that communities experiencing repeated harvest failures responded by seeking human agents for what contemporaries understood as diabolically caused catastrophe. The structural vulnerability of accused persons in this context was partly prior-reputation (those already known as practitioners of weather-magic were the obvious first targets) and partly the cascade dynamics that famine-driven prosecution could activate. Persons who had made agricultural threats — curses directed at a neighbor's crops or livestock during a dispute — were especially vulnerable once a bad harvest provided the occasion for accusation. The Little Ice Age thesis has been criticized by historians who argue that the correlation between climate and prosecution, while real, was mediated by political, institutional, and social factors rather than being a direct causal relationship.",
+
+  "historiographical_significance": "Behringer's Little Ice Age thesis is one of the most influential recent explanatory frameworks for the timing of the witch-hunt's most intense phase (c. 1580–1650). The thesis connects the history of climate science to the social history of witch prosecution and offers an explanation for why prosecution peaked in specific decades rather than being evenly distributed across the early modern period. The major debate concerns the degree to which climate stress was a direct cause of increased prosecution versus a permissive factor that interacted with institutional, political, and ideological conditions already in place. Levack and Briggs both argue that the climate correlation, while real, cannot explain the geographic distribution of prosecution intensity — some regions experiencing the same climate stress had low prosecution rates, while some regions with lighter climate stress had high rates — suggesting that climate was a contributing factor in a multi-causal model rather than the primary driver. The broader significance is for the question of what historians are explaining when they explain the witch-hunt: if climate stress was a significant driver, then prosecution reflects communities' rational (within their framework) response to genuine crisis rather than primarily elite ideological projection or social-conflict displacement.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "little-ice-age-crisis-prosecution",
+    "maleficium-harmful-magic",
+    "witches-sabbath-collective"
+  ],
+
+  "scholarly_disagreement": "Behringer (Witches and Witch-Hunts, and earlier Bavarian research) argues for a direct causal relationship between Little Ice Age climate deterioration and prosecution peaks, with the accused weather-magician as the primary target of crisis-driven prosecution. Levack (The Witch-Hunt in Early Modern Europe) accepts the correlation but argues that institutional and political factors were necessary conditions for prosecution elevation, and that climate alone cannot explain the geographic distribution of prosecution intensity. Briggs (Witches and Neighbours) situates harvest-failure accusations within the broader community-conflict framework without privileging the climate factor, arguing that disputes over agricultural resources were ongoing and that crisis years provided occasions rather than causes for accusations already embedded in community relationships.",
+  "source_method": "Bavarian witchcraft records analyzed in Behringer, Witches and Witch-Hunts (2004); Levack, The Witch-Hunt in Early Modern Europe (2006); Briggs, Witches and Neighbours (1996); climatological data synthesized in Behringer's Little Ice Age thesis",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "levack-witch-hunt-early-modern-2006",
+    "briggs-witches-neighbours-1996",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "lorraine-witch-trials-remy-1576-1606",
+  "name": "The Lorraine Witch Trials under Nicolas Remy, 1576–1606",
+  "location_id": "lorraine",
+  "start_year": 1576,
+  "end_year": 1606,
+  "duration_months": 360,
+  "approximate_executions": 800,
+  "approximate_accused": 900,
+  "type": "Sustained regional prosecution",
+
+  "historical_context": "The Duchy of Lorraine in the late sixteenth and early seventeenth centuries experienced one of the most intensive periods of witch prosecution in France, driven substantially by the judicial activity of Nicolas Remy, who served as criminal judge and later chief justice of Lorraine. Remy claimed responsibility for approximately 900 convictions during his judicial career and published his demonological compendium Daemonolatreiae (1595) as a synthesis of the evidence he had gathered in his prosecutions. Robin Briggs's Witches and Neighbours (1996) provides the most detailed modern analysis of Lorraine prosecution, using the surviving trial records to reconstruct the community dynamics, social profiles, and accusation patterns in detail.",
+
+  "prosecution_mechanism": {
+    "institutional_structure": "Secular ducal courts presided over by Nicolas Remy; the Parlement of Nancy as appellate court; secular prosecution without Inquisition involvement. Remy conducted his prosecutions through the normal criminal procedure of the Lorraine ducal courts rather than through any exceptional judicial framework.",
+    "evidence_standard": "Confession under torture; physical marks; community testimony about maleficium; denunciation of accomplices under examination; Remy's interrogation practice drew on his demonological framework to elicit sabbath testimony",
+    "geographic_spread": "Throughout the Duchy of Lorraine, including villages and towns across the region; Briggs's study covers multiple village communities in detail"
+  },
+
+  "notable_accused": [
+    "Hundreds of named individuals in Remy's records; Briggs's study reconstructs individual community histories from the surviving trial records"
+  ],
+
+  "accused_persons": [],
+
+  "resolution": "Prosecution gradually declined after Remy's retirement and death (c. 1612). Briggs's analysis shows that prosecution continued at lower levels into the seventeenth century before ending. No single institutional act terminated the Lorraine prosecution.",
+
+  "key_scholars": [
+    "Robin Briggs (Witches and Neighbours, 1996) — primary modern analysis using the surviving Lorraine trial records to reconstruct community dynamics and prosecution patterns",
+    "Nicolas Remy himself (Daemonolatreiae, 1595) — primary source as both judge and demonologist",
+    "Brian Levack (comparative synthesis) — situates Lorraine within European prosecution pattern"
+  ],
+
+  "demonological_concepts_present": [
+    "witches-sabbath-collective",
+    "maleficium-harm-magic",
+    "diabolical-initiation-renunciation",
+    "bewitchment-illness-attribution",
+    "charity-refusal-accusation-model"
+  ],
+
+  "linked_inquisitorial_bodies": [
+    "lorraine-ducal-courts"
+  ],
+
+  "historiographical_significance": "The Lorraine prosecution is central to Briggs's argument in Witches and Neighbours (1996) that witch prosecution arose from genuinely multi-causal community dynamics rather than from any single mechanism. Briggs's detailed analysis of the Lorraine trial records reveals that the Thomas-Macfarlane charity-refusal pattern was present but one element among many: accusers had multiple types of grievance against the accused, prosecution spread through multiple community networks, and the accused themselves represented a variety of social positions rather than a uniform demographic profile. The Lorraine evidence thus provides one of the primary empirical arguments against any single-mechanism explanation. Nicolas Remy's Daemonolatreiae is also significant as a regional demonological treatise by a judge-practitioner who combined theoretical knowledge with extensive prosecution experience — unlike Kramer (a preacher-inquisitor) or Bodin (a jurist-theorist), Remy was both theorist and active judge.",
+
+  "source_method": "Lorraine ducal court records; Nicolas Remy, Daemonolatreiae libri tres (1595); analyzed in Briggs, Witches and Neighbours (1996); Levack, The Witch-Hunt in Early Modern Europe (1987); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The exact number of Remy's convictions — he himself claimed approximately 900 — may be inflated; Briggs's archival work suggests the surviving records do not fully support the claimed number. The degree to which the Lorraine prosecution was driven by Remy personally versus by pre-existing community dynamics that he facilitated and amplified is debated.",
+
+  "scholarly_sources": [
+    "briggs-witches-neighbours-1996",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

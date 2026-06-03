@@ -1,0 +1,29 @@
+{
+  "id": "denmark",
+  "name": "Denmark",
+  "modern_country": "Denmark",
+  "latitude": 56.263,
+  "longitude": 9.502,
+  "location_type": "nation",
+
+  "hover_description": "Denmark, 1540–1693: ~1,000 executions. Lutheran state prosecution; rapid decline after 1661 absolutist centralization. Connected to North Berwick trials through James VI's 1590 Danish marriage.",
+
+  "panel_description": "Denmark experienced approximately 1,000 witch executions between the mid-sixteenth century and the late seventeenth century, with prosecution concentrated primarily in Jutland and Funen. Danish prosecution was organized through the traditional herredsret (district courts) and landsting (regional courts) before the centralization of Danish judicial authority following the establishment of royal absolutism in 1661.\n\n  The distinctive features of Danish prosecution include its institutional devolution before 1661 and its rapid decline after centralization. The herredsret system allowed local prosecution initiatives with limited central oversight, similar in some respects to the Scottish Privy Council commission system — and produced similar waves of intense local prosecution. After 1661, the introduction of a supervisory appellate structure analogous to the French parlements' role imposed skeptical evidentiary review that rapidly reduced conviction rates and terminated mass prosecution.\n\n  Danish prosecution is connected to the broader North Atlantic prosecution context through the James VI marriage: James VI traveled to Denmark to collect his bride Anne of Denmark in 1589-90, and the storm encounters during the voyage contributed to the North Berwick prosecution narrative. Witches in North Berwick were alleged to have worked weather magic against the royal couple in collaboration with Danish accomplices — a claim that reflects the diplomatic and cultural connections between Scottish and Danish prosecution.\n\n  Behringer's comparative analysis places Danish prosecution within the northern Lutheran pattern, noting that Lutheran theology provided doctrinal foundations for witch prosecution similar to those in Reformed (Calvinist) territories despite theological differences. Ankarloo's Scandinavian research places Denmark within the broader Nordic prosecution pattern that included Sweden's Blåkulla panic and the Norwegian Finnmark prosecutions.",
+
+  "key_trial_events": [],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "behringer-witches-witch-hunts-2004",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Danish herredsret and landsting records; analyzed in Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Behringer, Witches and Witch-Hunts (2004); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

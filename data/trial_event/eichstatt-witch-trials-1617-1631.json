@@ -1,0 +1,59 @@
+{
+  "id": "eichstatt-witch-trials-1617-1631",
+  "name": "Eichstätt Witch Trials, 1617–1631",
+  "location_id": "bamberg",
+  "start_year": 1617,
+  "end_year": 1631,
+  "duration_months": 168,
+  "approximate_executions": 274,
+  "approximate_accused": 300,
+  "type": "Mass prosecution",
+
+  "historical_context": "The Prince-Bishopric of Eichstätt in Bavaria experienced a major witch prosecution parallel to the neighboring Bamberg and Würzburg trials, with approximately 274 executions between 1617 and 1631. Bishop Johann Christoph von Westerstetten, who had previously served as a cathedral canon at Ellwangen where he had presided over earlier mass prosecution, brought the superhunt dynamic with him when he became bishop of Eichstätt in 1612. The Eichstätt prosecution is Behringer's documentation alongside Bamberg as the archetypical German Catholic ecclesiastical-territorial superhunt: a prince-bishop with both spiritual and secular jurisdiction, motivated by Counter-Reformation religious intensity, directing a prosecution whose cascade mechanism consumed hundreds of victims.",
+
+  "prosecution_mechanism": {
+    "institutional_structure": "Episcopal secular court under Bishop von Westerstetten; combination of ecclesiastical and secular territorial jurisdiction typical of German prince-bishoprics; no appellate court capable of restraining the prosecution",
+    "evidence_standard": "Confession under torture; denunciation of accomplices; devil's mark pricking; the same institutional framework as Bamberg and Würzburg",
+    "geographic_spread": "Throughout the Prince-Bishopric of Eichstätt; urban and rural communities"
+  },
+
+  "notable_accused": [
+    "Numerous victims documented in Behringer's research; individual records survive for many cases"
+  ],
+
+  "accused_persons": [],
+
+  "resolution": "The Eichstätt prosecution ended primarily due to the disruption of the Thirty Years War (1618-48), which destroyed the institutional stability required for sustained mass prosecution. The political and military disruption of the war created conditions in which local courts could no longer function as effective prosecution machines. Behringer identifies this connection between the Thirty Years War and prosecution termination as significant for the broader chronology of the German superhunts.",
+
+  "key_scholars": [
+    "Wolfgang Behringer (Witches and Witch-Hunts, 2004; Hexen und Hexenprozesse in Deutschland) — primary scholarly documentation of Eichstätt within the Bavarian superhunt pattern",
+    "Hans-Christof Rublack and other German historians — archival work in Eichstätt diocesan records"
+  ],
+
+  "demonological_concepts_present": [
+    "witches-sabbath-collective",
+    "devil-mark-witch-mark",
+    "diabolical-initiation-renunciation",
+    "denunciation-cascade-mechanism"
+  ],
+
+  "linked_inquisitorial_bodies": [
+    "augsburg-episcopal-court"
+  ],
+
+  "historiographical_significance": "The Eichstätt prosecution is part of the cluster of Central Franconian and Bavarian superhunts (Bamberg, Würzburg, Eichstätt, Ellwangen) that Behringer analyzes as the core of the German witch-trial peak and which Midelfort's earlier analysis had identified as the defining institutional pattern. Behringer's comparative documentation demonstrates that the superhunt pattern — mass prosecution driven by ecclesiastical-territorial courts with combined spiritual and secular jurisdiction, no effective appellate oversight, and cascade confession dynamics — was not a deviation from normal governance but an intensification of existing institutional tendencies. The Thirty Years War's role in terminating the Eichstätt prosecution provides evidence for Behringer's argument that political and military disruption — not primarily intellectual or theological change — ended the German superhunts.",
+
+  "source_method": "Eichstätt diocesan court records; analyzed in Behringer, Witches and Witch-Hunts (2004); Behringer, Hexen und Hexenprozesse in Deutschland (1987); Midelfort, Witch Hunting in Southwestern Germany (1972)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The exact number of Eichstätt executions varies in different accounts; Behringer's figure of approximately 274 is the most carefully documented estimate but remains subject to the limitations of partial archive survival.",
+
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "midelfort-witch-hunting-1972",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

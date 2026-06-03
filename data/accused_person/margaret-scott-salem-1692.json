@@ -1,0 +1,73 @@
+{
+  "id": "margaret-scott-salem-1692",
+  "name": "Margaret Scott",
+  "status": "Executed",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 77,
+  "social_status": "Elderly widow of Rowley, Massachusetts; living in poverty; no surviving family members in a position to mount a defense; among the most socially marginal of the Salem executed",
+  "gender": "Female",
+
+  "biography": "Margaret Scott of Rowley, Massachusetts, was one of eight persons hanged on September 22, 1692 — the final and largest execution day of the Salem crisis. She was an elderly widow estimated at approximately seventy-seven years of age, living in poverty in Rowley without the family support or community standing that might have generated a defense. Almost nothing is known of her life before the 1692 accusation: no pre-existing formal complaint survives, no earlier legal record, and no family members or community advocates appear in the trial documents.\n\n  Scott's case is historiographically notable precisely for the absence of documentation. Unlike Mary Easty (whose pre-execution petition survives as a major primary document), Martha Corey (whose church membership is well recorded), or Samuel Wardwell (whose confession and recantation are detailed in the Salem Witchcraft Papers), Scott left almost no personal record in the proceedings. She was convicted by the Court of Oyer and Terminer on evidence that the surviving documents do not preserve in detail, and was hanged alongside seven other condemned persons.\n\n  Norton in In the Devil's Snare (2002) identifies Scott as among the most socially vulnerable of the Salem executed. Her case represents the extreme end of the social-vulnerability spectrum that social historians of Salem have analyzed: aged, widowed, impoverished, and apparently without the community relationships that provided some accused persons with at least informal support. Hutton's comparative framework for early modern witch prosecution assigns particular vulnerability to women who combined age, widowhood, and poverty with geographic marginality — a combination Scott exemplifies.",
+
+  "arrest_narrative": "Scott was arrested and examined as the Salem accusation network reached Rowley in the summer of 1692. The mechanism of her specific accusation — whether through afflicted-persons testimony, community denunciation, or cascade naming — is not preserved in surviving documents with the detail available for better-documented Salem accused. Norton notes her among the Rowley-area accused whose prosecution reflects the geographic expansion of the crisis. No pre-existing formal complaint or established witch reputation is documented for her, though the absence of documentation should not be read as evidence of its absence.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692",
+      "method": "Examination before magistrates; spectral evidence procedure; no physical torture documented",
+      "initial_response": "Denied all charges; maintained innocence",
+      "duration": "Examination and formal trial before Court of Oyer and Terminer; specific dates not preserved in surviving documents with certainty"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "None confessed; maintained innocence.",
+    "sabbath_activities": "None confessed.",
+    "maleficium_claimed": "None confessed.",
+    "accomplices_named": [
+      "None."
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "The structural coercion of the Salem process operated in Scott's case, as in others, through the institutional framework of spectral evidence and public examination rather than physical torture. What is historiographically significant about her case is less the specific coercive mechanism — which followed the standard Salem pattern — than the total absence of the personal documentation (petitions, family letters, detailed examination transcripts) that humanizes other Salem cases. Scott's erasure from the record is itself a form of evidence about the social position of the most marginal accused.",
+    "plausibility": "No independent evidence supports any charge against Scott. The absence of surviving documentation of the specific charges and evidence against her makes independent assessment impossible, but no historian has proposed any basis for the accusations beyond the standard Salem afflicted-persons testimony. Her 1711 inclusion in the Massachusetts legislature exoneration and compensation acts confirms official recognition that her conviction was wrongful.",
+    "social_vulnerability": "Scott represents the intersection of the multiple vulnerability factors that social historians of Salem have documented as placing individuals at highest risk: female, elderly (approximately seventy-seven), widowed, poor, without surviving close family, and geographically peripheral to the original Salem Village community. Norton, Karlsen, and Hutton all analyze how these factors compounded to produce near-certain conviction once accusation was lodged, because the structural resources for mounting a defense — family advocates, community standing, economic resources — were absent."
+  },
+
+  "execution_details": {
+    "date": "1692-09-22",
+    "method": "Hanged at Gallows Hill, Salem",
+    "location": "Gallows Hill, Salem Town, Massachusetts",
+    "witnesses": "Court officials, public; seven others executed on the same day",
+    "final_statement": "No surviving statement documented."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and diabolical allegiance",
+    "Spectral appearances tormenting afflicted persons"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "No surviving petition or documented community support. No family members appear in the trial records as advocates.",
+    "defense_arguments": "Consistent denial; no surviving written defense document."
+  },
+
+  "historiographical_significance": "Margaret Scott's case documents the extreme of social erasure within the Salem crisis: she is among the least documented of the executed, and the near-total absence of personal records is itself significant evidence of how marginal social position affected both the prosecution's targeting and the historical record's capacity to reconstruct individual experience. Norton's In the Devil's Snare (2002) identifies her among the most socially vulnerable of the executed. The contrast with Mary Easty — whose eloquent petition, family connections, and community standing generated extensive documentation — illustrates how access to the rhetorical and social resources needed to leave a personal record in the proceedings was itself structured by social position. Scott's inclusion in the 1711 exoneration acts confirms that the legislature recognized her conviction as wrongful, but the compensation to her heirs was minimal given the absence of surviving family. Her case is a primary example for Hutton's and Karlsen's arguments about the compounding vulnerability of elderly, poor, widowed women in early modern witch prosecution.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia edition; Norton, In the Devil's Snare (2002); Massachusetts legislature exoneration and compensation acts (1711); Boyer and Nissenbaum, Salem Possessed (1974)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "hutton-the-witch-2017"
+  ],
+  "scholarly_disagreement": "The basic facts of Scott's 1692 accusation, conviction, and execution are not contested; the sparse documentation means there is little primary material about which scholarly disagreement could arise. Norton and Boyer and Nissenbaum agree on her social marginality but differ in their primary frameworks for explaining the Salem crisis as a whole. No historian has proposed any specific account of the personal dynamics of Scott's accusation beyond the general Salem prosecution pattern.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": null
+}

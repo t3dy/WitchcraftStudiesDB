@@ -1,0 +1,51 @@
+{
+  "id": "roper-oedipus-devil-1994",
+  "title": "Oedipus and the Devil: Witchcraft, Sexuality, and Religion in Early Modern Europe",
+  "author": "Lyndal Roper",
+  "author_slug": "roper-lyndal-b1956",
+  "year_published": 1994,
+  "edition_year": 1994,
+  "publisher": "Routledge",
+  "text_type": "monograph",
+  "pages": 267,
+
+  "subject_focus": "A collection of interconnected essays developing Roper's psychoanalytic and feminist approach to early modern religious culture, arguing that the body, sexuality, and gender were central to Protestant and Catholic religious experience and that witch prosecution expressed specific anxieties about maternal and female sexuality.",
+
+  "summary": "Oedipus and the Devil assembles a series of essays that collectively build Roper's psychoanalytic and feminist framework for understanding early modern religious culture in Augsburg and the wider German context. The essays move through the reformations' regulation of gender and sexuality, the body's role in Protestant religious experience, the material culture of piety, and — in the final sections — the prosecution of witches in Augsburg. Roper argues that anxiety about the body, maternal power, and female sexuality was not incidental but structurally central to early modern religion: the bodily disciplines of confession, the regulation of marriage and sexuality through the Reformation, and the identification of the witch with an inversion of maternal nurturance all express the same underlying dynamic. The work draws on archival research in Augsburg's civic and ecclesiastical records and engages explicitly with psychoanalytic theory as a hermeneutic framework. It represents the methodological laboratory from which Witch Craze (2004) later emerged.",
+
+  "scholarly_significance": "Oedipus and the Devil is a foundational text for the psychoanalytic and psychosocial tradition in witch-prosecution historiography. Its significance is partly prospective — the essays are the working-out of the methodology that Roper would apply fully in Witch Craze (2004) — and partly substantive: the analysis of gender, sexuality, and bodily anxiety in early modern religious culture remains one of the most sophisticated available. By demonstrating that psychoanalytic concepts (projection, the fantasy of the bad mother, anxieties about bodily borders) could be applied to archival research on specific prosecution cases, Roper made this methodology viable for historians who had previously dismissed it as anachronistic. The essays on Augsburg witch prosecution specifically anticipate the case-study approach of Witch Craze and provided early evidence for the argument that prosecution targeted older women precisely because of their association with maternal feeding and nurturance. Database entries drawing on Roper's framework — particularly `accused_person` entries involving older women and `demonological_concept` entries on the witch-as-bad-mother archetype — use the analytical vocabulary developed here. The work also represents a sustained engagement with Clark's intellectual-history approach from a position that insists subjective, embodied, and unconscious dimensions cannot be reduced to intellectual framework.",
+
+  "key_arguments": [
+    {
+      "concept": "Body and religion",
+      "claim": "The body and its regulation — through confession, fasting, sexual discipline, childbirth — were not peripheral but structurally central to early modern Protestant and Catholic religious experience. Religious reform was experienced as bodily discipline."
+    },
+    {
+      "concept": "Maternal anxiety and witch prosecution",
+      "claim": "The witch figure in early modern prosecution crystallized anxieties about maternal power and the failure of maternal nurturance: the witch was imagined as the bad mother who poisons instead of feeding, harms children instead of protecting them. This fantasy was psychically real for the accusers."
+    },
+    {
+      "concept": "Psychoanalytic methodology in history",
+      "claim": "Psychoanalytic concepts can be applied rigorously to archival historical materials without imposing modern individual psychology anachronistically, provided the analysis attends to the specific cultural forms through which unconscious conflicts were expressed."
+    },
+    {
+      "concept": "Gender and the Reformation",
+      "claim": "The Protestant Reformation did not simply liberate women from Catholic institutional constraints; rather, it reorganized gender relations in ways that simultaneously elevated the married household and intensified the regulation of female sexuality and maternal role."
+    },
+    {
+      "concept": "Augsburg as case",
+      "claim": "Augsburg's unique confessional history — as a biconfessional city after the Peace of Augsburg — makes it an especially revealing case for understanding how gender, religion, and sexuality intersected, because the same dynamics can be compared across Catholic and Protestant populations."
+    }
+  ],
+
+  "relation_to_database": "The psychoanalytic framework for understanding accusation dynamics developed in this collection informs `accused_person` entries involving older women accused of harming children and infants. The analysis of maternal anxiety and bodily inversion informs `demonological_concept` entries on the witch's power over reproduction and children. The work's methodology frames the `roper-lyndal-b1956` entry in `demonological_scholar`.",
+
+  "scholarly_disagreement": "Clark's intellectual-history approach and Roper's psychoanalytic approach represent different methodological commitments about what fundamentally drives prosecution: for Clark, the coherence of theological tradition explains why learned men prosecuted; for Roper, unconscious anxieties about gender and the body explain why specific individuals were targeted. These frameworks are not mutually exclusive but the emphasis is different, and Clark's defenders have noted that psychoanalytic interpretation risks substituting modern theoretical categories for the categories contemporaries actually used. Hutton has observed that the psychoanalytic framework works best in the specific Augsburg context Roper studied, where the prosecution record is rich enough to support close psychological reading, and is less applicable to England and northern Europe where prosecution patterns differed substantially and where the accused's identities and confessions were differently structured.",
+
+  "source_method": "Published text; Routledge 1994",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "benandante-fertility-cult",
+  "name": "The Benandanti (Fertility-Cult Spirit Warriors)",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Early Modern (c. 1575–1650)",
+  "primary_locale": "Friuli, northeast Italy (primary documentation); comparatively, Baltic, Alpine, and Scandinavian regions",
+
+  "scholarly_definition": "The benandanti (singular: benandante, 'good walker') were Friulian men and women who claimed to leave their bodies on spirit journeys on the Ember Days four times a year to do battle with malefic witches ('streghe' and 'stregoni') who threatened the community's harvest and fertility. They understood themselves as defenders of the community's crops and children, fighting with fennel stalks against witches armed with sorghum stalks. As a hybrid term, 'benandante' names both the practitioners' own self-identification and the modern scholarly category through which Ginzburg analyzed them. The tradition is Ginzburg's primary evidence in Night Battles (1983) for his argument that witch prosecution overlaid a genuine popular spirit-contact substratum antedating the fully elaborated sabbath stereotype. Critically, the benandanti's own understanding of their practice was protective and providential — they served God, fought the devil's agents, and were rewarded for their service. The Inquisition's interrogation of benandante suspects across the period 1575–1650 progressively shaped their self-descriptions toward the sabbath-attendance narrative expected by demonological doctrine: the 'good walkers' who had described themselves as fighting against witches were gradually, over decades of questioning, transformed in the trial record into witches who attended the sabbath. The 1575 trial of Paolo Gasparutto and Battista Moduco preserves the tradition closest to its pre-inquisitorial form; by the 1640s, confessions had substantially converged with standard sabbath accounts. This documentary arc is Ginzburg's primary evidence for the mechanism by which popular traditions were absorbed into the prosecutorial framework.",
+
+  "intellectual_genealogy": {
+    "ginzburg_night_battles_1966": "Ginzburg's I Benandanti (1966; English translation Night Battles, 1983) discovered the Friulian Inquisition records documenting the benandanti tradition and constituted the first systematic analysis, arguing that the tradition preserved remnants of an older agricultural fertility-cult with origins predating Christian demonological elaboration.",
+    "ginzburg_ecstasies_1991": "Ecstasies: Deciphering the Witches' Sabbath (1991) extended the benandanti evidence into a pan-Eurasian comparative argument, situating the benandanti within a broader ecstatic tradition that Ginzburg traced from Siberian shamanism to Celtic fairy beliefs.",
+    "pocs_extension": "Éva Pócs, Between the Living and the Dead (1999), extended Ginzburg's framework to Hungarian táltos, Romanian căluşari, and south Slavic night-battle traditions that parallel the benandante pattern, providing additional regional evidence for the broader ecstatic-tradition thesis.",
+    "hutton_critical_engagement": "Ronald Hutton, The Witch (2017), accepts the benandanti material as genuine documented tradition while questioning whether Ginzburg's pan-Eurasian comparative synthesis can bear the weight of the evidence assembled."
+  },
+
+  "clark_intellectual_analysis": "Clark reads the benandanti tradition as demonstrating how popular cosmologies were systematically absorbed into the demonological framework through inquisitorial questioning. The benandanti's own cosmology — in which night-battle spirit warriors served God — was not irrationally held; it was a coherent popular theology whose logic Inquisition-trained examiners were equipped to reframe within the learned diabolical framework by applying questions about demonic pact and sabbath attendance.",
+
+  "hutton_social_analysis": "Hutton accepts Ginzburg's evidence for the benandanti as documentation of a genuine and distinctive local tradition while arguing that the transition in testimony across the inquisitorial period reflects the specific dynamics of the Friulian cases rather than a universal pattern applicable across Europe. He questions whether the tradition can support Ginzburg's broader claim for a pan-European shamanic substratum.",
+
+  "ginzburg_interrogation_analysis": "The benandanti are Ginzburg's primary documentary case for his central methodological argument: that inquisitorial interrogation systematically transformed pre-existing popular traditions into the expected demonological form. Night Battles traces the decades-long process by which benandante self-descriptions were reshaped through questioning, with each successive trial generation's testimony moving closer to sabbath orthodoxy, providing the fullest available documentation of the distortion mechanism that operated across European prosecution.",
+
+  "actor_perspective": {
+    "benandanti_self_identification": "Practitioners identified themselves as 'benandanti' — 'good walkers' or 'those who go well' — emphasizing the protective and providential character of their spirit journeys. They described going out 'in spirit' while their bodies remained behind, fighting with fennel stalks against the 'streghe' who threatened the harvest.",
+    "divine_sanction": "Benandanti consistently insisted that their activities served God and the community: they were summoned by an angel or a captain to fight for the faith and the harvest. This theological self-presentation — protective, divinely authorized, anti-diabolical — stands in direct contrast to the sabbath framework in which they were eventually prosecuted.",
+    "inquisitorial_reframing": "Under sustained interrogation, benandante testimony progressively converged toward sabbath attendance narrative, with practitioners eventually adopting the vocabulary of the demonic gathering rather than the fertility-battle. The documentary record of this transformation is the core of Ginzburg's methodological argument."
+  },
+
+  "geographic_distribution": "Primary documentation from Friuli (Udine and Aquileia Inquisition records, 1575–1650); structural parallels proposed by Ginzburg in Baltic werewolf traditions (Thiess, Livonia, 1692), Hungarian táltos, and Romanian căluşari; Hutton accepts the Friulian evidence while questioning the comparative synthesis.",
+
+  "historiographical_significance": "The benandanti are the single most important documented case study in the historiographical debate between Ginzburg and his critics about what witch prosecution records can tell us about popular belief. For Ginzburg, the benandanti demonstrate that the prosecution record can be read 'against the grain' to recover traces of genuine popular traditions that the inquisitorial framework distorted but could not entirely erase. For critics following Norman Cohn, the benandanti tradition may be a specifically Friulian local phenomenon without the broader comparative significance Ginzburg assigned to it. Hutton's position — accepting the local evidence, questioning the pan-European synthesis — represents the current scholarly consensus. The benandanti also raise fundamental questions about historical agency: the practitioners who described themselves as God's warriors were gradually, through iterative legal encounters, transformed into standard sabbath witches in the documentary record, illustrating the power of the prosecutorial framework to reshape not merely the record but potentially the self-understanding of the accused.",
+
+  "source_method": "Friulian Inquisition records (Archivio della Curia Arcivescovile di Udine), principally the trial records of Paolo Gasparutto and Battista Moduco (1575–1580) and subsequent benandante trials through 1650; analyzed in Ginzburg, Night Battles (1966/1983) and Ecstasies (1991); Hutton, The Witch (2017); Pócs, Between the Living and the Dead (1999)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Ginzburg argues the benandanti represent genuine survivals of a pan-European, possibly Eurasian, shamanic ecstatic tradition predating Christian demonological elaboration. Norman Cohn (Europe's Inner Demons, 1975) is skeptical of any claim that prosecution records preserve evidence of genuine popular practices, viewing sabbath confessions primarily as inquisitorial constructions. Hutton occupies the middle position: accepting the Friulian benandante tradition as genuine and well-documented, but rejecting Ginzburg's pan-Eurasian comparative synthesis as overextending the evidence. Éva Pócs supports Ginzburg's comparative framework for eastern and central European parallels while acknowledging regional variation.",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

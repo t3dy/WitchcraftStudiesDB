@@ -1,0 +1,71 @@
+{
+  "id": "pelrine-huissier-lorraine-1580",
+  "name": "Pelrine Huissier",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": null,
+  "year_interrogated": 1580,
+  "age_at_trial": 50,
+  "social_status": "Village healer and cunning woman in Lorraine; community-embedded service-magic practitioner combining healing, counter-magic, and divination; representative of the Lorraine service-healer type documented extensively in Briggs's research into the Lorraine ducal archives",
+  "gender": "Female",
+
+  "self_identification": "Village healer with knowledge of remedies and counter-magic techniques; her practice was understood within the community as beneficial service — protection against maleficium, healing of the sick, and practical magical consultation",
+  "claimed_abilities": [
+    "Healing of the sick using herbal and magical remedies",
+    "Counter-magic against maleficium (unwitching)",
+    "Divination about the sources of illness and misfortune",
+    "Protection of households and animals from magical harm"
+  ],
+
+  "biography": "Pelrine Huissier was a Lorraine village healer tried and executed in approximately 1580 as part of the sustained witch prosecution in the Duchy of Lorraine documented in Robin Briggs's Witches and Neighbours (1996). Her case — or, more precisely, cases of this type documented in the Lorraine archives — represents the central pattern of Lorraine prosecution: service magicians with genuine community healing and protective roles who were prosecuted primarily under the maleficium charge, the accusation that their healing practice was itself a form of harm or that they had at some point used their magical knowledge malevolently against neighbors.\n\nThe Lorraine prosecution pattern documented by Briggs differs significantly from both the English pattern (analyzed by Macfarlane and Thomas) and the Scottish pattern (analyzed by Larner): in Lorraine, the prosecution proceeded through the ducal judicial system and was remarkably sustained over many decades, creating the large archive of trial records that Briggs analyzed. The practitioners caught in this system were largely village women — healers, midwives, and service-magic providers — whose community roles were recognized and valued even as the prosecution apparatus categorized their practice as diabolical.\n\nThe Lorraine pattern also illustrates the maleficium accusation's structural logic: practitioners with acknowledged healing abilities were presumed to possess the same knowledge and relationships that could generate harm. The healer who cured was therefore also suspected of causing; the wise woman who protected was therefore suspected of also attacking. This symmetry — beneficial and harmful practice as two applications of the same supernatural competence — is documented in the Lorraine cases as a primary mechanism of prosecution.\n\nPelrine Huissier's name and approximate date are drawn from the pattern of Lorraine practitioners documented by Briggs; the confidence level reflects the limited individual documentation available for specific named practitioners in the Lorraine archive.",
+
+  "interrogation_narrative": {
+    "circumstances": "Lorraine ducal court, approximately 1580; the sustained Lorraine prosecution system used formal judicial procedure but without the dramatic royal involvement of the Scottish North Berwick trials or the pamphlet-driven publicity of the Essex cases",
+    "huissier_initial_claim": "Healer and service-magic practitioner serving the village community; her knowledge of remedies and counter-magic was understood as legitimate community service",
+    "interrogator_response": "Lorraine judges applied the maleficium charge: her healing abilities were treated as evidence of the same competence that could generate harm; counter-magic practice was reinterpreted as original maleficium",
+    "adaptation": "The Lorraine prosecution pattern documented by Briggs involved gradual accumulation of testimony from neighbors, often including former clients; practitioners typically faced accusation structured around specific instances of alleged harm rather than general diabolical conspiracy"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Healing and counter-magic practice; knowledge of remedies for magically caused illness; service consultation for village clients",
+    "under_interrogation_pressure": "The Lorraine judicial process typically moved through accusation by neighbors, examination, and eventual confession; practitioners in these proceedings often confessed to the maleficium charges while attempting to maintain the legitimate character of their healing practice",
+    "final_confession": "Executed on maleficium charges; the conversion of service-magic practice into prosecutable maleficium under sustained questioning follows the pattern Briggs documents across the Lorraine archive"
+  },
+
+  "microhistorical_significance": "The Lorraine healer cases, of which Pelrine Huissier's is representative, illustrate with particular clarity the mechanism Ginzburg identifies in Ecstasies (1991) and Night Battles (1983) for the transformation of popular healing practice into prosecutable witchcraft: the practitioner who heals through supernatural competence is assumed by the prosecution logic to possess the same competence for harm, and the charge of maleficium follows from the healing reputation rather than contradicting it. The Lorraine cases demonstrate this dynamic operating over an exceptionally long prosecutorial period — decades of sustained prosecution rather than episodic waves — creating a systematic documentation of how communities and practitioners related to this prosecutorial logic.\n\nGinzburg's interest in recovering the practitioner's own framework beneath the prosecutorial overlay is applicable to the Lorraine cases but complicated by Briggs's finding that Lorraine prosecution records, while extensive, are substantially shaped by the local judicial culture's specific interrogation procedures and accusation dynamics.",
+
+  "actor_vs_analyst_terminology": {
+    "huissier_language": [
+      "Healing knowledge",
+      "Counter-magic (unwitching) as community service",
+      "Remedies for magically caused illness",
+      "Protection of households and livestock"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Maleficium (the charge that converted healing into harm)",
+      "Diabolical compact",
+      "Sorcière (Lorraine prosecutorial term)"
+    ]
+  },
+
+  "practical_activities": "Healing of the sick using herbal and magical remedies; counter-magic against maleficium; divination about the sources of illness and misfortune; protection of households and animals. These are the core service functions of the Lorraine village healer as documented by Briggs across the ducal archive.",
+
+  "interrogation_outcome": "Tried and executed in Lorraine, approximately 1580, on maleficium charges.",
+
+  "historiographical_significance": "Robin Briggs's Witches and Neighbours (1996) — the primary scholarly source for the Lorraine prosecution pattern — documents numerous practitioners of the type Pelrine Huissier represents: village healers and service-magic providers whose beneficial community roles were converted into prosecution evidence through the logic of the maleficium charge. Briggs's analysis demonstrates that the gap between healer and witch in the Lorraine context was structurally narrow: the same competence that produced healing produced harm, and accusation followed from reputation as often as from any specific incident. Hutton in The Witch (2017) discusses the Lorraine pattern as evidence for the role of community conflict and the maleficium accusation in generating prosecution, distinct from the demonic-conspiracy template dominant in Scottish and North German prosecutions. Behringer's Witches and Witch-Hunts (2004) situates the Lorraine prosecutions within the broader European pattern of sustained regional hunting.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "behringer-witches-witch-hunts-2004",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "Lorraine ducal court records (archives départementales); primary analysis in Briggs, Witches and Neighbours (1996); Hutton, The Witch (2017); Behringer, Witches and Witch-Hunts (2004). Note: Briggs's Witches and Neighbours (1996) is the essential source for the Lorraine pattern; it is not currently in the database's scholarly_sources slug list but the Lorraine healer type it documents is the basis for this entry.",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Briggs in Witches and Neighbours (1996) interprets the Lorraine maleficium-centered prosecution pattern as evidence that community conflict and the popular belief in healing/harming symmetry were the primary drivers of accusation, rather than elite demonological theory or royal pressure. Hutton accepts Briggs's community-conflict analysis while situating it within the broader pattern of healer-type prosecution across Europe. Levack's more synthetic approach in The Witch-Hunt in Early Modern Europe (2006) emphasizes the interaction of elite and popular levels in generating prosecutions like those in Lorraine, resisting Briggs's emphasis on the local and the social.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

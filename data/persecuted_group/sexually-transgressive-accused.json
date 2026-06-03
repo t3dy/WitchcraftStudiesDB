@@ -1,0 +1,36 @@
+{
+  "id": "sexually-transgressive-accused",
+  "name": "Sexually Transgressive Women and Gendered Norm Violation",
+  "category": "demographic",
+  "temporal_scope": "c. 1430–1700",
+  "primary_regions": ["german-states", "france", "british-isles"],
+
+  "group_profile": "Roper's psychoanalytic cultural history of witch prosecution, developed in Witch Craze (2004) and in her earlier essays, identifies the accused woman's alleged violation of gendered sexual and reproductive norms as a recurrent structural feature of the prosecution record. The accused witch in Continental demonological theory and in the confession record was constructed as sexually voracious, diabolically promiscuous, and reproductively destructive: the sabbath was characterized by sexual congress with the devil; the witch's maleficium was particularly directed at fertility, pregnancy, and infant life; the accused was imagined as the inverse of the ideal Christian wife and mother. Roper argues that this construction was not merely an elite theological projection but reflected deep anxieties in early modern culture about women's sexuality, reproductive power, and the maternal body.\n\n  The women prosecuted in Roper's Augsburg cases were disproportionately older women accused by young mothers whose infants had died in the accused's care. The specifically obstetric character of the alleged maleficium — attacks on pregnancy, parturient women, and newborns — Roper reads as projecting onto the accused witch the community's unresolved anxieties about the danger of childbirth and infant death. The accused woman, typically a lying-in maid or older neighbor who had been present during difficult births or infant deaths, became the vessel for the accusing mother's rage, grief, and guilt.\n\n  The category is distinct from midwives-obstetric-healers (which focuses on occupational targeting) and from property-holding-women (which focuses on economic position): the focus here is on the gendered construction of the accused as a violator of reproductive and sexual norms.",
+
+  "persecution_rationale": "The demonological tradition's construction of the female witch as sexually diabolical and reproductively destructive provided the theological framework within which accusations about gendered norm violation were processed. The Malleus Maleficarum (1487) devoted substantial attention to witches' attacks on male sexuality and reproductive capacity, while Continental sabbath confessions routinely included sexual congress with the devil and maleficium specifically targeting pregnant women, newborns, and infants. For contemporaries, the connection between witch accusation and gendered sexual violation was not a modern analytical projection but a theologically explicit element of the witch stereotype.",
+
+  "structural_vulnerability": "Roper identifies the structural vulnerability of women accused in obstetric contexts as arising from the conjunction of the accused's practical presence at vulnerable moments (birth, postpartum illness, infant death) and the cultural expectation that women should be held responsible for reproductive outcomes in their care. The lying-in maid who attended a difficult birth, the neighbor who visited the postpartum mother, the older woman whose presence correlated with infant illness — each of these figured as the plausible agent of harm when the cultural framework provided a causal account. Levack's comparative analysis notes that obstetric maleficium accusations were particularly prevalent in German-speaking territories, less common in England, and absent from many other prosecution contexts — suggesting that the Roper framework applies most directly to the specific German cultural milieu she documents.",
+
+  "historiographical_significance": "Roper's Witch Craze (2004) and her earlier essay collection Oedipus and the Devil (1994) constitute the most developed psychoanalytic analysis of gendered prosecution dynamics in the field. Her argument that the accused witch's construction as reproductively destructive reflected deeper cultural anxieties about maternal power and female bodily danger has been influential but also contested. Hutton accepts the obstetric-maleficium pattern as genuine in the German material Roper documents while questioning whether the psychoanalytic framework is the only or best explanation for it. Briggs's Lorraine study finds a less obstetric-specific maleficium pattern, suggesting the Roper framework may be specifically Bavarian rather than generally European. The broader feminist argument — that gender and sexuality were central to prosecution dynamics — is accepted by most scholars while the specifically psychoanalytic mechanism Roper proposes remains more debated.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "incubus-succubus-tradition",
+    "witches-sabbath-collective",
+    "maleficium-harm-magic"
+  ],
+
+  "scholarly_disagreement": "Roper's psychoanalytic framework (projection of maternal anxiety onto the accused witch through an obstetric maleficium narrative) has been accepted as illuminating the Augsburg-Bavarian material while being questioned as a general explanation for European prosecution. Hutton and Briggs accept the pattern while questioning the psychoanalytic mechanism. The specific claim that accused women represented culturally projected anxieties about reproductive danger rather than simply convenient targets with presence at vulnerable moments involves interpretive claims about unconscious motivation that historians without psychoanalytic commitments find difficult to evaluate empirically.",
+  "source_method": "Augsburg city archive; Bavarian court records; analyzed in Roper, Witch Craze (2004); Roper, Oedipus and the Devil (1994); Briggs, Witches and Neighbours (1996); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "roper-witch-craze-2004",
+    "hutton-the-witch-2017",
+    "briggs-witches-neighbours-1996"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

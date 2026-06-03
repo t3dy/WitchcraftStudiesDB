@@ -1,0 +1,47 @@
+{
+  "id": "larner-witchcraft-religion-1984",
+  "title": "Witchcraft and Religion: The Politics of Popular Belief",
+  "author": "Christina Larner",
+  "author_slug": "larner-christina-b1934",
+  "year_published": 1984,
+  "edition_year": 1984,
+  "publisher": "Blackwell",
+  "text_type": "article_collection",
+  "pages": 186,
+
+  "subject_focus": "A posthumously published collection of essays developing the political and religious dimensions of Scottish witch prosecution, arguing that witch-hunting served the agenda of confessionalising state formation by disciplining popular culture and eliminating alternative authority structures.",
+
+  "summary": "Witchcraft and Religion is a posthumously published collection of essays by Christina Larner, who died in 1983, gathered and edited after her death to complement her major monograph Enemies of God (1981). The essays develop the theoretical and comparative dimensions of Larner's argument about witch prosecution in ways that the monograph's Scottish focus did not fully pursue. The central thesis — carried through multiple essays — is that witch-hunting was a form of social control that served the agenda of confessionalising state formation: it disciplined popular culture, enforced orthodox religious practice, eliminated cunning folk and other alternative authority structures that competed with the emerging nation-state, and served notice that religious heterodoxy would be treated as a political crime. The essays engage with feminist and Marxist frameworks, developing a position that recognizes the gendered character of prosecution while insisting on its primarily political character. Several essays address the comparative question — why Scotland prosecuted so intensely compared to England — through the lens of the different trajectories of state formation and ecclesiastical discipline in the two countries.",
+
+  "scholarly_significance": "Witchcraft and Religion extends Larner's state-formation thesis into theoretical territory and is an important complement to Enemies of God for understanding Larner's full analytical framework. The connection between state formation, confessionalisation, and witch prosecution — now a central analytical framework in the field — was developed most fully in Larner's combined body of work; the essays here provide the theoretical scaffolding that the archivally grounded monograph presupposed. Larner's engagement with Marxist and feminist frameworks is historically important as a moment when the field was developing its theoretical self-consciousness: the essays represent a careful negotiation between different explanatory traditions that subsequent scholars have found productive. The state-formation thesis has been particularly influential for understanding why prosecution was geographically and temporally uneven — it concentrated in regions and periods of intense state-building — and for connecting witch prosecution to the broader process of early modern political and religious discipline. Database entries for Scottish trial events, `demonological_scholar/larner-christina-b1934.json`, and the state-formation `demonological_concept` draw on this collection alongside Enemies of God.",
+
+  "key_arguments": [
+    {
+      "concept": "Witch-hunting as social control",
+      "claim": "Witch-hunting served the social-control function of disciplining popular culture and enforcing orthodox religious behaviour; it was a tool of the confessionalising state, not simply the product of superstition or mass hysteria."
+    },
+    {
+      "concept": "Confessionalisation and prosecution",
+      "claim": "The intensity of witch prosecution correlated with the intensity of confessionalisation — the programme of enforcing specific religious orthodoxy and practice on entire populations — because both served the same agenda of creating the disciplined, religiously uniform subjects that early modern states required."
+    },
+    {
+      "concept": "Alternative authority structures",
+      "claim": "Cunning folk, healers, and other practitioners of informal magic represented alternative authority structures that competed with the church and state for popular loyalty; their prosecution as witches served the political agenda of eliminating this competition."
+    },
+    {
+      "concept": "Gender and politics",
+      "claim": "The gendered character of witch prosecution — the targeting of women — cannot be explained by gender dynamics alone but must be understood within the political context of state formation and social control; women's specific social vulnerabilities made them the most accessible targets for the confessionalising programme."
+    }
+  ],
+
+  "relation_to_database": "Extends and theorises the analytical framework applied in all Scottish `trial_event` entries. The state-formation thesis provides an interpretive framework for `demonological_concept` entries on the political theology of witch prosecution. The confessionalisation argument informs `demonological_scholar` entries for Reformed theologians involved in Scottish prosecution.",
+
+  "scholarly_disagreement": "The state-formation thesis has been widely accepted for the Scottish case but has been questioned for territories where prosecution occurred under decentralised authority or without a clear state-building agenda: Briggs's study of Lorraine emphasises community dynamics and interpersonal conflict as the primary drivers, which the state-formation model alone cannot account for. Monter's Swiss and French evidence and Midelfort's south-western German evidence both suggest that decentralised, fragmented jurisdictions could produce intense prosecution without the centralising state that Larner's model foregrounds. The Marxist elements of Larner's framework have attracted less scholarly engagement than her empirical and institutional arguments.",
+
+  "source_method": "Published text; Blackwell 1984",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ulrich-molitor-de-lamiis-1489",
+  "event_name": "Molitor's De Lamiis published with witch woodcuts",
+  "event_type": "primary_source_publication",
+  "date": "1489",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Constance",
+  "location_slug": null,
+  "significance": "Ulrich Molitor's De Lamiis et Pythonicis Mulieribus (1489) was a skeptical legal-theological treatise that denied the physical reality of the witches' flight and sabbath while affirming the reality of demonic deception; the work is significant for its illustrated woodcuts — the first visual representations of the witch sabbath — and for representing a moderate skeptical position within the demonological mainstream.",
+  "related_entities": [
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "cohn-europes-inner-demons-1975"
+  ],
+  "source_method": "Published primary source; modern analysis in Ankarloo and Clark, Witchcraft and Magic in Europe: The Middle Ages (2002) and Clark, Thinking with Demons (1997)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "cohn-europes-inner-demons-1975"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

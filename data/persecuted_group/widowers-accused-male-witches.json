@@ -1,0 +1,38 @@
+{
+  "id": "widowers-accused-male-witches",
+  "name": "Widowers and Solitary Men Accused of Witchcraft",
+  "category": "demographic",
+  "temporal_scope": "c. 1430–1700",
+  "primary_regions": ["english-territories", "scandinavian-north", "german-states"],
+
+  "group_profile": "Men who had lost their wives and lived alone — outside the normal household structures of early modern society — were more vulnerable to witch accusation than married men embedded in intact household configurations. Early modern household structure was a central axis of social legibility: a man who headed a household in which women were absent was anomalous in ways that attracted community attention and suspicion. Hutton's analysis of male accused persons in The Witch (2017) notes that men prosecuted for witchcraft in England showed some demographic parallels to the female accused — the elderly man living without a wife, outside normal mechanisms of social integration, appeared in English prosecution statistics alongside the more numerous elderly female accused.\n\n  The widower's vulnerability was structurally distinct from the broader men-accused-of-witchcraft pattern (which encompasses a wider range of social positions) by focusing specifically on the household-structure dimension: the absence of a wife, and the consequent absence of normal feminine household management, made a man socially anomalous in a way that accumulated community suspicion over time. In Scandinavian prosecution contexts, solitary men with reputations for magical practice — particularly weather-magic and agricultural maleficium — appeared in trial records with some regularity, though the gender distribution of accused persons in Scandinavia was more even than in southern and western Europe.\n\n  Levack's quantitative synthesis notes that male accused across Europe as a whole constituted roughly 20-25% of total accused persons, with significant regional variation: Scotland showed higher male prosecution rates than England, and Scandinavia and Iceland showed proportions approaching gender parity. The widower/solitary-man pattern is one of several pathways into male prosecution, distinct from the cascade pathway (accused-men-german-superhunts) and the occupation pathway (male-cunning-folk-prosecuted).",
+
+  "persecution_rationale": "Demonological theory did not require any particular household configuration for witch accusation, but the popular and communal dynamics of accusation did favor social anomaly as a trigger for suspicion. A man without a wife was, like a woman without a husband, outside the normal social configurations that provided both community integration and community accountability. In the English context, the charity-refusal dynamic could operate for solitary men as for solitary women: an older man dependent on neighborhood goodwill, lacking the household resources of his earlier life, might curse a neighbor who had refused him and be accused when misfortune followed. The familiar-spirit tradition in England was not exclusively female: some male accused in English records possessed familiars, and the familiar-as-demonic-companion was available as an explanatory framework for solitary men's magical practice.",
+
+  "structural_vulnerability": "Hutton's analysis is the most relevant here: he finds that the demographic profile of English male accused, while less clearly concentrated than the female accused profile, shows some concentration in older age groups and among men without normal household support structures. The widower and solitary man lacked the social integration that marriage provided, and that integration was a practical source of defense: a wife could provide alibi testimony, manage relationships with the neighbors who might accuse, and maintain the daily household operations that made a family appear normal and unthreatening. Sharpe's Instruments of Darkness (1996) notes that English male accused tended to appear either through the cascade mechanisms of group trials or through the same community-conflict dynamics that produced female accused — the solitary man without household support was vulnerable to both pathways. In Scandinavian contexts, Ankarloo and Henningsen's Early Modern Witchcraft documents male accused patterns that include solitary male practitioners with reputations for weather-magic and agricultural maleficium.",
+
+  "historiographical_significance": "The widower-accused pattern sits within the broader historiographical question of why male prosecution rates varied so significantly across European regions. Levack's comparative analysis shows that the roughly 20-25% European average conceals enormous variation: Iceland had a majority male accused population, Finland and Estonia showed high male prosecution rates, while England, France, and the Holy Roman Empire showed predominantly female accused populations. Hutton's interpretation in The Witch is that gender ideology — the association of witchcraft with female susceptibility — was a powerful filter in some jurisdictions but was overridden by local social dynamics and prosecution patterns in others. The widower-accused pattern in English and German records suggests that the same logic of household-structure anomaly that made widows vulnerable could make widowers vulnerable in a more limited way, but that male household anomaly was less salient than female household anomaly within the gender ideologies of these specific prosecution contexts.",
+
+  "exemplary_accused_persons": [
+    "giles-corey-salem-1692"
+  ],
+  "related_demonological_concepts": [
+    "maleficium-harmful-magic",
+    "female-susceptibility-theory"
+  ],
+
+  "scholarly_disagreement": "Hutton (The Witch) argues that the overrepresentation of elderly and socially isolated men among male accused reflects the same household-anomaly dynamics that produced female accused, but that gender ideology prevented this logic from producing as concentrated a male accused profile as the female one. Levack's comparative work suggests that the widower/solitary-man pattern is most visible in jurisdictions with high overall male prosecution rates and that in predominantly female prosecution jurisdictions the male accused population was more strongly shaped by cascade dynamics than by household-anomaly mechanisms. Sharpe (Instruments of Darkness) focuses primarily on the English pattern and does not engage the comparative dimension systematically.",
+  "source_method": "Hutton, The Witch (2017), demographic analysis of male accused; Levack, The Witch-Hunt in Early Modern Europe (2006), quantitative synthesis; Sharpe, Instruments of Darkness (1996), English cases; Ankarloo and Henningsen, Early Modern Witchcraft (1990), Scandinavian cases",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006",
+    "sharpe-instruments-of-darkness-1996",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

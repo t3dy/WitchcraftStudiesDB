@@ -1,0 +1,25 @@
+{
+  "id": "cotton-mather-wonders-invisible-world-1693",
+  "event_name": "Cotton Mather's Wonders of Invisible World published",
+  "event_type": "primary_source_publication",
+  "date": "1693",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Boston, Massachusetts",
+  "location_slug": null,
+  "significance": "Cotton Mather's Wonders of the Invisible World (1693) was the most prominent intellectual defense of the Salem witch trials, defending the court's use of spectral evidence after the executions; the work became the primary target of Robert Calef's rebuttal and has been analyzed as the Salem prosecutorial community's theological self-justification, representing the last major Puritan defense of aggressive witch prosecution.",
+  "related_entities": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974"
+  ],
+  "source_method": "Published primary source (Boston, 1693); analyzed in Boyer and Nissenbaum, Salem Possessed (1974) and Norton, In the Devil's Snare (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "karlsen-devil-shape-woman-1987"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

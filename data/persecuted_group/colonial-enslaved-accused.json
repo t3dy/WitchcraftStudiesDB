@@ -1,0 +1,37 @@
+{
+  "id": "colonial-enslaved-accused",
+  "name": "Enslaved and Colonially Subjected Accused",
+  "category": "social_class",
+  "temporal_scope": "c. 1650–1750",
+  "primary_regions": ["colonial-new-england", "caribbean", "latin-america"],
+
+  "group_profile": "In the colonial contexts where European witch prosecution operated alongside slavery, indentured servitude, and the subordination of indigenous populations, enslaved and colonially subjected persons occupied a distinctive prosecution vulnerability position that differed structurally from the European patterns analyzed by Thomas, Macfarlane, Ginzburg, and Hutton. The colonial prosecution context introduced variables absent from the European homeland: racial hierarchy that stripped accused persons of any residual social capital; legal frameworks that denied enslaved persons the legal standing to testify on their own behalf; and the attribution of African and Caribbean magical knowledge to diabolical origin by a Christian colonial culture that had no framework for understanding non-Christian religious practice except through the devil-compact lens.\n\n  Tituba's case at Salem is the paradigmatic example in the English colonial context: an enslaved woman of Caribbean origin, without legal standing, social network, or community ties, occupying the lowest conceivable position in the social hierarchy of Salem Village. Her vulnerability was qualitatively distinct from that of even the most socially marginal free English poor women in the same prosecution. The Latin American and Caribbean inquisition records analyzed by Behringer and other scholars document similar patterns of specifically racial and colonial targeting in Spanish colonial contexts: African and indigenous religious practices were systematically prosecuted as diabolical by the Spanish Inquisition in its colonial operations, though with less lethal outcomes than the European mainland prosecutions.",
+
+  "persecution_rationale": "European colonial Christianity had no analytical framework for non-Christian religious practice except through the inherited demonological categories: spirits other than God's angels were identified as demons; ritual practices outside Christian liturgy were identified as diabolical compact; healing and divination through non-Christian means were identified as maleficium. This categorical imposition meant that genuine traditional religious and medical practices of enslaved and indigenous populations were systematically reinterpreted as diabolical without any analytical distinction between the practice's own cultural context and the Christian prosecution framework applied to it. The colonial version of the actor/analyst distinction is particularly sharp: what practitioners understood as legitimate spiritual or healing practice was processed through a prosecution framework that had no capacity to recognize its legitimacy.",
+
+  "structural_vulnerability": "The structural vulnerability of colonially subjected and enslaved accused operated at every level. Legally, enslaved persons could not testify on their own behalf in most colonial jurisdictions; their testimony against others was accepted, but self-defense was institutionally foreclosed. Socially, the absence of community membership, kin networks, and accumulated reputation that protected some European accused was absolute rather than partial. Economically, their position as property rather than property-holders inverted the Karlsen analysis: they could not use property as social capital. The racial hierarchy of colonial society added a dimension of categorical social exclusion that exceeded the class-based vulnerability of even the most marginal European accused. Norton's analysis identifies Tituba's case as evidence that the Salem prosecution's social floor had no bottom: when enslaved persons were accusable, no social position was protective.",
+
+  "historiographical_significance": "The colonial dimension of witch prosecution has been analyzed most thoroughly by Norton in In the Devil's Snare (2002), which situates Tituba and other Salem accused within the colonial context of Massachusetts. Behringer's Witches and Witch-Hunts (2004) includes material on colonial prosecution in Latin America and the Caribbean. Karlsen's analysis of gender and property at Salem explicitly notes that Tituba does not fit her framework — she was property rather than a property-holder — and acknowledges the limitation of a gender-and-property analysis that cannot fully account for the racially specific vulnerability of enslaved accused. The colonial dimension of prosecution has received less systematic comparative attention than the European homeland patterns, and remains a productive area for future scholarship.",
+
+  "exemplary_accused_persons": [
+    "tituba-salem-1692"
+  ],
+  "related_demonological_concepts": [
+    "spectral-evidence",
+    "bewitchment-illness-attribution"
+  ],
+
+  "scholarly_disagreement": "The degree to which colonial prosecution of enslaved and indigenous persons should be analyzed through the same frameworks as European prosecution (Thomas/Macfarlane community dynamics, Ginzburg's ecstatic tradition) versus through specifically colonial analytical frameworks is methodologically debated. The specific content of non-European traditional practice that was targeted differs enough from the European service-magic tradition that direct comparisons require careful qualification.",
+  "source_method": "Salem Witchcraft Papers; colonial inquisition records (Spanish Americas); analyzed in Norton, In the Devil's Snare (2002); Behringer, Witches and Witch-Hunts (2004); Karlsen, The Devil in the Shape of a Woman (1987)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "behringer-witches-witch-hunts-2004",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

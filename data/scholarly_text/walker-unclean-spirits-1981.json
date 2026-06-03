@@ -1,0 +1,47 @@
+{
+  "id": "walker-unclean-spirits-1981",
+  "title": "Unclean Spirits: Possession and Exorcism in France and England in the Late Sixteenth and Early Seventeenth Centuries",
+  "author": "Daniel P. Walker",
+  "author_slug": "walker-daniel-p-b1914",
+  "year_published": 1981,
+  "edition_year": 1981,
+  "publisher": "Scolar Press",
+  "text_type": "monograph",
+  "pages": 125,
+
+  "subject_focus": "A study of major possession and exorcism cases in late sixteenth- and early seventeenth-century France and England, arguing that each confessional party deployed possession episodes as theatrical evidence for supernatural reality in the context of Protestant-Catholic competition.",
+
+  "summary": "Unclean Spirits examines the major demonic possession and exorcism episodes of the late sixteenth and early seventeenth centuries, including the Nicole Obry case in Laon (1565–1566), the William Sommers case in Nottingham (1597), and the Loudun possessions that produced the execution of the priest Urbain Grandier in 1634. Walker's central argument is that possession cases were understood by contemporaries as decisive empirical demonstrations of the supernatural realm's reality: if a demon could be seen publicly possessing and departing from a human body, this constituted proof that the spiritual world existed. Each confessional party — Protestant and Catholic — therefore used possession cases as propaganda: Catholic exorcists demonstrated the Church's power over demons (which Protestants could not match), while Protestant authorities investigated and exposed alleged possessions as fraudulent (demonstrating Catholic credulity). Walker analyzes the cases as episodes in confessional argument rather than as expressions of individual psychology, showing how the theatrical format of public exorcism served the apologetic needs of both parties.",
+
+  "scholarly_significance": "Walker's work provides the standard analytical framework for understanding possession cases within their confessional context and is the essential reference for the intersection of demonic possession, exorcism, and Reformation-era confessional competition. The Loudun case — the most intensively prosecuted possession episode in French history, resulting in Grandier's execution as a witch — is Walker's primary analysis case, and his account of how the confessional and political dimensions of the case drove the prosecution complements the more psychologically oriented accounts. The work is important for the database because possession cases occupied a specific position within the broader prosecution history: they provided dramatic public demonstrations of the reality of diabolical power that reinforced the intellectual case for witch prosecution while generating their own specific dynamics of accusation and counter-accusation. Walker's framework — that possession was deployed as confessional argument — complements Clark's intellectual-history approach by showing how supernatural events functioned rhetorically within the debates Clark's work analyzes doctrinally. Database entries for possession-connected trial events and for `demonological_concept` entries on demonic possession draw on Walker's analytical vocabulary.",
+
+  "key_arguments": [
+    {
+      "concept": "Possession as confessional evidence",
+      "claim": "Demonic possession cases were understood by contemporaries as empirical demonstrations of the supernatural realm's reality; each confessional party deployed possession episodes as evidence for its theological claims and against its rivals."
+    },
+    {
+      "concept": "Exorcism as theatre",
+      "claim": "Public exorcism was a theatrical format in which the power of the Church over demonic forces was demonstrated before audiences; the theatrical character was not fraudulent but was constitutive of the apologetic purpose."
+    },
+    {
+      "concept": "Loudun and political prosecution",
+      "claim": "The Loudun possessions of 1632–1634 combined genuine confessional competition with political machinations against Urbain Grandier by his enemies; the prosecution's success depended on the mobilisation of political as well as confessional support at the level of Cardinal Richelieu's government."
+    },
+    {
+      "concept": "Protestant scepticism as apologetics",
+      "claim": "Protestant authorities' tendency to investigate and expose alleged possessions as fraudulent was not simply rationalist scepticism but a confessional strategy: by demonstrating that Catholic exorcisms were fraudulent, Protestants undermined one of Catholicism's major apologetic claims."
+    }
+  ],
+
+  "relation_to_database": "Directly relevant to `trial_event` entries for possession-related prosecutions, including the Loudun case. `Demonological_concept` entries on demonic possession draw on Walker's framework. The confessional-competition analysis provides context for `demonological_scholar` entries for early modern clergymen engaged in possession debates.",
+
+  "scholarly_disagreement": "Whether possession cases should be analyzed primarily through confessional competition (Walker) or through other mechanisms is contested. Michel de Certeau's analysis of Loudun in The Possession at Loudun (1970, English 2000) foregrounds the institutional and discursive dimensions of possession rather than the confessional-propaganda function. Moshe Sluhovsky's work on early modern possession emphasizes the gender dimensions — most possessed persons were women in institutional religious settings — that Walker's framework addresses only partially. Isabelle Poutrin and others have emphasized the medical and institutional control dimensions of possession diagnosis.",
+
+  "source_method": "Published text; Scolar Press 1981",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

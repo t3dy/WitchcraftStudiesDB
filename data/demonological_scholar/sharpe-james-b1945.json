@@ -1,0 +1,109 @@
+{
+  "id": "sharpe-james-b1945",
+  "name": "James Sharpe",
+  "birth_year": 1945,
+  "death_year": null,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "History; Early Modern English History; Social and Cultural History",
+  "primary_institution": "University of York (Emeritus Professor of History)",
+  "specialization": "English witch prosecution; crime and society in early modern England; popular culture and belief; instrument of darkness theme in English prosecutions",
+
+  "major_works": [
+    {
+      "title": "Instruments of Darkness: Witchcraft in Early Modern England",
+      "year": 1996,
+      "publisher": "Hamish Hamilton, London",
+      "significance": "The most widely used synthesis of English witch-trial history, combining regional survey, social analysis, and accessible narrative; standard university teaching text",
+      "pages": null,
+      "database_entry": "sharpe-instruments-of-darkness-1996"
+    },
+    {
+      "title": "Crime in Early Modern England 1550-1750",
+      "year": 1984,
+      "publisher": "Longman, London",
+      "significance": "Foundational study of crime as a social institution in early modern England, providing the broader criminological context for witch prosecution as one dimension of the legal system's operation",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Witchcraft in Early Modern England",
+      "year": 2001,
+      "publisher": "Longman, Harlow",
+      "significance": "Shorter student-focused synthesis providing an up-to-date scholarly overview of English witch prosecution for teaching purposes",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Remember Remember: A Cultural History of Guy Fawkes Day",
+      "year": 2005,
+      "publisher": "Harvard University Press",
+      "significance": "Study of the cultural memory of the Gunpowder Plot; shows Sharpe's broader interest in how communities remember and commemorate dangerous events",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "ENGLISH SPECIALIST / SOCIAL AND CULTURAL HISTORIAN",
+
+  "core_argument": "Sharpe's central contribution to witch-trial historiography is the synthesis and integration of the various strands of English witchcraft scholarship — the Thomas-Macfarlane community-dynamics tradition, the regional case studies, the demonological intellectual history, and the individual case analyses — into an accessible and reliable survey of English prosecution as a whole. Unlike Thomas's Religion and the Decline of Magic, which embedded witchcraft within a broader history of popular belief, or Macfarlane's Witchcraft in Tudor and Stuart England, which focused specifically on Essex, Sharpe's Instruments of Darkness provides a national synthesis addressing regional variation, prosecution dynamics, and the relationship between popular and learned witchcraft traditions. His core argument is that English prosecution, while less catastrophic than Continental practice in terms of death toll, was nonetheless a serious social phenomenon whose analysis requires attention to both the community-level dynamics Thomas and Macfarlane identified and the intellectual and legal context that shaped the prosecution process.",
+
+  "methodological_approach": {
+    "primary_materials": "Assize records; quarter sessions records; pamphlet literature; ecclesiastical court records; pamphlet demonological literature",
+    "analysis_target": "Regional variation in English prosecution; the relationship between popular witch belief and formal legal prosecution; the role of the pamphlet press in shaping public understanding of witch prosecution",
+    "evidence_type": "Archival legal records; contemporary print material; demographic and statistical analysis; case studies",
+    "explanatory_level": "Synthetic integration: Sharpe draws on existing specialized scholarship and integrates it into a coherent national picture rather than proposing a single new explanatory model"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Regional variation as primary English pattern",
+      "claim": "English witch prosecution was profoundly regional, with the eastern counties following the Thomas-Macfarlane pattern, the north and west showing different dynamics, and Scotland operating under a substantially distinct legal and cultural framework.",
+      "implication": "No single explanation of English prosecution can account for all regional evidence; the search for a single explanatory model is methodologically mistaken."
+    },
+    {
+      "concept": "Pamphlet literature as historical source",
+      "claim": "The English witchcraft pamphlet press — more developed than in any other European country — both documented specific prosecutions and shaped subsequent public understanding of what witch prosecution looked like, creating a feedback between popular belief and formal prosecution narrative.",
+      "implication": "The pamphlet record must be used as a shaped cultural product, not as transparent documentation, while still being recognized as the primary surviving evidence for many cases."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Sharpe worked with assize records and quarter sessions records for multiple English counties, providing broader geographic coverage than Macfarlane's Essex focus while less intensive archival depth."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Thomas (foundational intellectual tradition on popular belief)",
+      "Macfarlane (community-dynamics analysis)",
+      "Hutton (attention to regional variation; acceptance of popular magical belief as real historical phenomenon)",
+      "Gaskill (English specialist tradition)"
+    ],
+    "creative_tension_with": [
+      "Ginzburg (Sharpe's social-historical synthesis contrasts with Ginzburg's microhistorical methodology)",
+      "Clark (Sharpe's social history emphasis complements but differs methodologically from Clark's intellectual history approach)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Sharpe's Instruments of Darkness is the primary synthetic source for English trial_event entries including pendle-witch-trial-1612, chelmsford-witch-trials-1566, and east-anglia-hopkins-campaign-1645, and is cited in multiple accused_person entries for English cases.",
+    "analytical_weight": "Sharpe provides the regional synthesis and accessible scholarly context that situates individual English cases within the national prosecution pattern."
+  },
+
+  "historiographical_significance": "Instruments of Darkness (1996) is the most widely used English-language synthesis of English witch prosecution and has defined the field's accessible presentation to undergraduate audiences for three decades. Its achievement is integration rather than innovation: it brings together the Thomas-Macfarlane community-dynamics tradition, the demonological intellectual history, regional case studies, and the pamphlet literature into a coherent national picture. Sharpe's broader career in crime history provides a methodological context that situates witch prosecution within the larger history of early modern English criminal justice rather than treating it as an exceptional or uniquely irrational phenomenon.",
+
+  "scholarly_disagreement": "Sharpe's synthetic approach necessarily smooths some of the tensions between competing explanatory models that more specialized scholars emphasize; critics note that the integration of Thomas's sociological framework with the intellectual-history approach produces occasional theoretical inconsistencies. His acceptance of the Thomas-Macfarlane charity-refusal model has been qualified by subsequent scholars following Briggs's multi-causal approach.",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Primary works: Instruments of Darkness (Hamish Hamilton, 1996); Witchcraft in Early Modern England (Longman, 2001); Crime in Early Modern England (Longman, 1984)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

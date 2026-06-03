@@ -1,0 +1,39 @@
+{
+  "id": "parlement-of-toulouse",
+  "name": "Parlement of Toulouse",
+  "formal_name": "Parlement de Toulouse — sovereign appellate court for Languedoc and associated territories",
+  "institutional_type": "secular_tribunal",
+  "founded": "1420",
+  "dissolved": "1790",
+
+  "jurisdiction_description": "The Parlement of Toulouse was the sovereign appellate court for southern France — the pays de droit écrit territories of Languedoc, Gascony, and parts of Provence — and one of the eight provincial parlements of France outside Paris. Like the Parlement of Paris, which exercised appellate jurisdiction over northern France, the Toulouse parlement reviewed capital convictions from inferior courts within its jurisdiction, including witchcraft convictions appealed from local and seigneurial courts. Its appellate review function gave it the structural capacity to serve as a restraining force on witch prosecution: convictions that reached the parlement on appeal could be affirmed, reduced, or reversed.\n\n  The Toulouse parlement's geographic jurisdiction was relevant to southern French witch prosecution because the most intensively studied southwestern French region — Beam, the Basque territories, and the areas adjacent to the Spanish frontier — fell partially under its oversight, though the precise jurisdictional boundaries between Toulouse and the specialized courts of Navarre and Béarn were contested in practice.",
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "The Parlement of Toulouse, like all French parlements, operated under French royal ordinances governing torture, which permitted it in capital cases subject to procedural constraints. In its appellate review capacity, the parlement scrutinized whether torture had been applied with proper procedure in the inferior courts below. Its review function thus served as an indirect check on torture abuse at the local level, though less systematic than it might appear: the parlement's primary concern was procedural regularity rather than substantive skepticism about the allegations.",
+    "evidence_standards": "On appeal, the Toulouse parlement applied the standard French evidentiary requirements for capital conviction — two witnesses or confession not obtained under torture, with torture-obtained confessions requiring ratification — and reversed or reduced convictions where these standards had not been met by inferior courts. This appellate review function explains its moderating statistical effect on the regional conviction rate.",
+    "confession_policy": "The parlement's review of confession evidence on appeal followed the French royal ordinance requirements: confessions obtained under torture required free ratification to be probative; the parlement reversed convictions where ratification had not followed or where the original confession was procedurally irregular.",
+    "appeal_mechanism": "The Parlement of Toulouse served as the appellate body for capital witch convictions within its jurisdiction. The automatic appeal mechanism — in which convicted persons could appeal to the parlement, or in which the parlement could evoke cases from below on its own initiative — was the structural moderating force. The system depended on cases actually reaching the parlement; prosecutions that were locally resolved without formal execution or where the inferior court's decision was not appealed could escape parlement scrutiny."
+  },
+
+  "role_in_witch_trials": "The Parlement of Toulouse functioned as a restraining appellate force on witch prosecution within its southern French jurisdiction, parallel to the Parlement of Paris's restraining role in northern France. Like Paris, Toulouse frequently reduced capital witch convictions on appeal to lesser punishments or reversed acquittals; the aggregate effect was to lower the execution rate within its jurisdiction relative to territories outside French parlement oversight. The Toulouse parlement's regional significance is partly defined by contrast with the adjacent territories — particularly Lorraine, which lay outside Parlement jurisdiction and had dramatically higher execution rates, and the Basque territories where local prosecution pressures were intermittently more intense. Levack and Briggs both use the Parlement oversight regions as comparative evidence for the institutional-structure argument.",
+
+  "witch_trial_involvement_level": "low",
+  "key_trial_events": [],
+
+  "historiographical_significance": "The Parlement of Toulouse's role in witch trial historiography is primarily comparative and structural rather than case-specific. Levack's The Witch-Hunt in Early Modern Europe uses the pattern of French parlement oversight — both Paris and Toulouse — as evidence for the institutional-structure argument: regions within parlement jurisdiction had substantially lower execution rates than structurally comparable regions outside it. The comparison between Lorraine (outside parlement oversight) and French territories under parlement review provides some of the strongest quantitative evidence for the claim that institutional form, not cultural or theological factors, was the primary determinant of prosecution intensity.\n\n  Robin Briggs's analysis in Witches and Neighbours (1996), while focused primarily on the Lorraine evidence, addresses the southern French context and the Toulouse parlement's role as a moderating force. W. Monter's Witchcraft in France and Switzerland (1976) provides the most focused analysis of French regional prosecution patterns, including the southwestern territories under Toulouse jurisdiction.\n\n  The historiographical significance of the Toulouse parlement is methodological as much as empirical: it is one of the cleaner test cases for institutional-structure explanations precisely because the territories under its jurisdiction shared culture, religion, and social structure with adjacent territories not under its oversight, allowing something approaching controlled comparison.",
+
+  "scholarly_disagreement": "The precise moderating effect of Toulouse parlement oversight, versus other regional factors (population density, confessional distribution, presence or absence of local demonological preachers), is difficult to isolate statistically. Monter's regional analysis identifies variation within the Toulouse jurisdiction that the simple oversight model does not fully explain.",
+  "source_method": "Parlement de Toulouse registers (Archives Départementales de la Haute-Garonne); Monter, Witchcraft in France and Switzerland (1976); Briggs, Witches and Neighbours (1996); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "briggs-witches-neighbours-1996",
+    "levack-witch-hunt-early-modern-2006",
+    "behringer-witches-witch-hunts-2004"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

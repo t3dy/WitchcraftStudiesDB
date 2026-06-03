@@ -1,0 +1,43 @@
+{
+  "id": "aberdeen-witch-hunt-1596-1597",
+  "name": "Aberdeen Witch Hunt",
+  "location_id": "scotland",
+  "date_range": "1596–1597",
+  "approximate_executions": 24,
+  "approximate_accused": 26,
+  "jurisdiction": "Aberdeen Burgh Court; Scottish secular courts with Privy Council oversight",
+  "legal_framework": "Scottish Witchcraft Act (1563)",
+
+  "overview": "The Aberdeen witch hunt of 1596–1597 was one of the most significant Scottish regional prosecutions, distinct from the North Berwick episode (1590–1591) in its character as a burgh prosecution driven by local town council authorities rather than by royal intervention. Approximately twenty-four persons were executed in Aberdeen and the surrounding area in 1596–1597, with the prosecution targeting a network of supposed witches identified through accumulative testimony.\n\n  The Aberdeen trials occurred at the height of the second wave of Scottish prosecution under James VI, following the 1597 witchcraft panic that affected Aberdeen, Fife, and other regions simultaneously. Unlike the 1590-1591 North Berwick prosecutions, which were directly connected to James VI's personal involvement and concerned a supposed conspiracy against the king, the Aberdeen trials appear to have been driven by local burgh anxieties and community-level accusation dynamics.\n\n  Goodare's analysis in The Scottish Witch-Hunt in Context (2002) situates the Aberdeen trials within the broader pattern of Scottish prosecution, noting that burgh prosecutions like Aberdeen's were distinct from the great national panics and reflected local social tensions in an urbanizing merchant community. The Aberdeen trial records have been analyzed in detail by Scottish local historians and provide good evidence for the social dynamics of late sixteenth-century Scottish witch prosecution.",
+
+  "historiographical_analysis": "Julian Goodare's work on Scottish witch prosecution — especially The Scottish Witch-Hunt in Context (2002) and Survey of Scottish Witchcraft (online database) — provides the most detailed analysis of the Aberdeen trials within the broader Scottish pattern. Larner's Enemies of God (1981) includes Aberdeen within its regional analysis. The trial is significant as evidence that the state-formation dynamics Larner identified operated at the burgh level as well as the national level, with local magistrates enforcing confessional orthodoxy through witch prosecution.",
+
+  "accusation_patterns": {
+    "primary_targets": "Women, primarily from the lower social orders of Aberdeen; several 'reputation' witches with prior histories of suspicion in the community",
+    "geographic_spread": "Aberdeen burgh and surrounding parishes; not a cascade expanding to distant communities",
+    "confession_characteristics": "Sabbath confessions with the Devil described; accomplice-naming that identified a local witch network; consistent with late sixteenth-century Scottish confession format"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "denunciation-cascade-mechanism",
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+
+  "primary_sources": "Aberdeen Council Register; Justiciary Court records; analyzed in Goodare (ed.), The Scottish Witch-Hunt in Context (2002); Larner, Enemies of God (1981)",
+  "source_method": "Aberdeen burgh court records; analyzed in Larner, Enemies of God (1981); Goodare, The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017"
+  ],
+
+  "scholarly_disagreement": "The precise execution count for Aberdeen varies between 23 and 25 depending on the sources consulted. Whether the Aberdeen prosecution was primarily driven by local council anxieties about community order, by popular pressure from below, or by the royal witch-hunting impulse filtering down from the 1597 national panic is not definitively established.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

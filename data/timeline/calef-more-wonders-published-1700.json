@@ -1,0 +1,24 @@
+{
+  "id": "calef-more-wonders-published-1700",
+  "event_name": "Calef's More Wonders of Invisible World published",
+  "event_type": "primary_source_publication",
+  "date": "1700",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "London",
+  "location_slug": null,
+  "significance": "Robert Calef's More Wonders of the Invisible World (1700) was a Boston merchant's systematic critique of the Salem trials and of Cotton Mather's defense of them, documenting procedural irregularities and attacking the validity of spectral evidence; the work contributed to the reputation revision of the Salem proceedings in the eighteenth century and represents a lay voice challenging clerical authority over witchcraft prosecution.",
+  "related_entities": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974"
+  ],
+  "source_method": "Published primary source (London, 1700); analyzed in Boyer and Nissenbaum, Salem Possessed (1974) and Norton, In the Devil's Snare (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

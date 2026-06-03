@@ -1,0 +1,34 @@
+{
+  "id": "ireland",
+  "name": "Ireland",
+  "modern_country": "Republic of Ireland; Northern Ireland (UK)",
+  "latitude": 53.142,
+  "longitude": -7.692,
+  "location_type": "nation",
+
+  "hover_description": "Ireland, 1324–1711: Very few documented trials. Kilkenny 1324 (Alice Kyteler, first recorded Irish witch trial) and Florence Newton 1661 the main cases. Colonial legal framework.",
+
+  "panel_description": "Ireland stands at the extreme low-prosecution end of the European spectrum, with only a handful of documented witch trials across the entire period — a pattern that makes it an important comparative case for understanding what conditions suppressed prosecution elsewhere.\n\n  The Alice Kyteler trial at Kilkenny in 1324 is the first documented Irish witch prosecution and one of the earliest documented anywhere with the composite witch stereotype (diabolical compact, sabbath-like elements). Kyteler herself fled to England; her servant Petronilla of Meath was executed in her place — the first person burned for heresy and witchcraft in Ireland. The case is analyzed by Kieckhefer and by the Ankarloo-Clark series as an early example of inquisitorial-framework prosecution in a peripheral jurisdiction.\n\n  The Florence Newton trial at Cork in 1661 is the only other well-documented Irish prosecution and follows a pattern more similar to English cases — familiar spirit, afflicted accusers — than to the Kilkenny precedent. The near-absence of prosecution between 1324 and 1661 is itself historiographically significant.\n\n  The most persuasive explanation for Ireland's low prosecution rate is institutional: the absence of functioning inquisitorial machinery, the disruption of ecclesiastical administration by the Reformation and colonial conflicts, and the dominance of English common law (which had the same structural restraints on prosecution that limited English prosecution generally) combined to suppress the conditions for mass prosecution.",
+
+  "key_trial_events": [
+    "kilkenny-kyteler-trial-1324"
+  ],
+
+  "key_accused_persons": [
+    "alice-kyteler-kilkenny-1324",
+    "petronilla-of-meath-kilkenny-1325"
+  ],
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+
+  "source_method": "Bishop's court records (Kilkenny 1324); analyzed in Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe; Ankarloo and Clark (eds.), Witchcraft and Magic in Europe Vol. 3",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

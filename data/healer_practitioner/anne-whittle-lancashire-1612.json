@@ -1,0 +1,71 @@
+{
+  "id": "anne-whittle-lancashire-1612",
+  "name": "Anne Whittle (Old Chattox)",
+  "status": "Executed",
+  "trial_id": "pendle-witch-trial-1612",
+  "location_id": "england",
+  "year_interrogated": 1612,
+  "age_at_trial": 80,
+  "social_status": "Elderly widow; cunning woman and service-magic practitioner operating in the Pendle Forest area of Lancashire; rival to Elizabeth Southerns (Old Demdike) and the Device family for local magical business",
+  "gender": "Female",
+
+  "self_identification": "An old woman with knowledge of healing charms, counter-magic, and maleficium who had operated in the Pendle area for decades; she acknowledged a familiar and prior practice but contested many of the specific charges against her",
+  "claimed_abilities": [
+    "Healing by charms and spoken formulas",
+    "Counter-magic and unwitching",
+    "Maleficium when wronged or unpaid",
+    "Familiar spirit communication"
+  ],
+
+  "biography": "Anne Whittle, known locally as 'Old Chattox,' was a widow of approximately eighty years from the Pendle area of Lancashire, tried and executed at Lancaster Assizes in August 1612 as one of the principal figures in the Pendle witch trial. Her case is documented in Thomas Potts's account The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613), the pamphlet record of the trial commissioned by the judge, which is the primary source for the Pendle prosecution.\n\n  Old Chattox and Old Demdike (Elizabeth Southerns) were the rival heads of two family networks of service magicians in the Pendle Forest area. According to Potts's account, Old Demdike had long regarded Chattox as a rival who used her magical reputation to extort payments from her neighbors. The prosecution of 1612 swept up both networks together. Chattox was described as having become a witch some fourteen years earlier — around 1598 — when she made a compact with a familiar spirit, whom she described as 'Fancie.'\n\n  Macfarlane's analysis in Witchcraft in Tudor and Stuart England (1970) situates the Pendle case within the broader pattern of Lancashire service magic, noting that both Old Demdike and Old Chattox represented the type of established community cunning woman whose long-standing practice and extensive local networks made them central nodes in the rural magical economy. The specific rivalry between the two families — each accusing the other's members — demonstrates how the prosecution's cascade mechanism operated within existing community tensions.\n\n  Chattox reportedly confessed before trial — making her testimony a key source for the prosecution's case against other members of the Pendle group, though as with all torture-adjacent confession in this period, its reliability as evidence of her own practice versus pressure-shaped testimony is contested.",
+
+  "interrogation_narrative": {
+    "circumstances": "Lancaster Assizes, August 1612; pre-trial examination before Justice Roger Nowell in April 1612; confessed at both pre-trial examination and trial",
+    "whittle_initial_claim": "She had made compact with a familiar ('Fancie') approximately fourteen years before; had engaged in healing and maleficium; acknowledged responsibility for some deaths",
+    "interrogator_response": "Her confessions were used as prosecution evidence against herself and other members of the Pendle accused; the examination was conducted before a justice of the peace without judicial torture (English common law), but elderly women in extended custody faced severe informal pressure",
+    "adaptation": "Chattox's confessions followed the expected structure of familiar compact and maleficium; her confession to having practiced maleficium against specific persons provided the specific charges required for conviction"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Compact with familiar spirit 'Fancie'; prior practice of healing charms and maleficium; extortion of money and goods from neighbors using magical threats",
+    "under_interrogation_pressure": "Extended confession covering many of the expected elements of the English familiar-spirit tradition: the compact, the familiar's appearance, specific maleficia; much of this was used as evidence against other accused persons",
+    "final_confession": "Convicted and hanged at Lancaster, August 20, 1612"
+  },
+
+  "microhistorical_significance": "Old Chattox's case illustrates several features of Hutton's analysis of the English cunning woman type in The Witch (2017): the established local practitioner with decades of community service, the rival networks of service magicians in a single area, and the way in which the prosecution cascade drew on and amplified pre-existing community tensions. Her description of her familiar 'Fancie' is one of the documented English familiar names in the tradition Wilby analyzes in Cunning Folk and Familiar Spirits (2005).\n\n  The rivalry with Old Demdike's family — each network accusing the other under examination — demonstrates the social mechanism by which denunciation cascades drew on genuine community conflicts and social knowledge rather than being purely imposed from above. Macfarlane's charity-refusal model finds specific illustration in Old Chattox: her extortion of payment (specifically food, from the Device family) under threat of magical harm is documented in the trial record and fits the pattern of the service magician who shaded into threat when denied payment.",
+
+  "actor_vs_analyst_terminology": {
+    "whittle_language": [
+      "Fancie (her familiar spirit)",
+      "Compact made 'under the Devil' (as reported in Potts)",
+      "Charming and cursing as distinct practices"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical familiar compact",
+      "Maleficium causing death",
+      "Member of a witch conspiracy (the 'coven')"
+    ]
+  },
+
+  "practical_activities": "Healing by spoken charms and counter-magic for neighbors; maleficium used against those who wronged her or refused payment; extortion using magical threats; service magic consultation within the Pendle area cunning-folk economy.",
+
+  "interrogation_outcome": "Convicted and hanged at Lancaster, August 20, 1612, along with nine other members of the Pendle accused.",
+
+  "historiographical_significance": "Old Chattox is discussed by Macfarlane in Witchcraft in Tudor and Stuart England (1970) within the Lancashire context of service magic and its prosecution. Hutton in The Witch (2017) engages with the Pendle case as primary evidence for the English cunning-woman type. Wilby in Cunning Folk and Familiar Spirits (2005) uses Old Chattox's familiar 'Fancie' as one of the documented English familiar names. Potts's Wonderfull Discoverie (1613) is both the primary source and itself a document in the history of witch-trial pamphlet literature — a genre through which prosecution narratives were constructed for public consumption. The rivalry between Old Chattox and Old Demdike illustrates the social dynamics through which service-magic networks competed and through which prosecution cascades could draw on existing community tensions.",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "hutton-the-witch-2017",
+    "wilby-cunning-folk-2005",
+    "sharpe-instruments-of-darkness-1996"
+  ],
+
+  "source_method": "Lancaster Assizes records, 1612; Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (London 1613); analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Hutton, The Witch (2017); Sharpe, Instruments of Darkness (1996)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Macfarlane's charity-refusal model finds support in Old Chattox's documented extortion of the Device family, but Sharpe in Instruments of Darkness notes that the Pendle trial also involved elements beyond simple charity-refusal — family networks, rivalry, and the specific role of Thomas Potts's pamphlet in constructing the prosecution narrative. Whether Old Chattox's confessions reflect genuine practice, community reputation attributed to her, or pressure-shaped testimony is not resolvable; the trial pamphlet's role in constructing a coherent prosecution narrative around confessional fragments is itself a methodological problem Macfarlane acknowledges.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

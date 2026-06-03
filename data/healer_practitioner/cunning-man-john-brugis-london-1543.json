@@ -1,0 +1,69 @@
+{
+  "id": "cunning-man-john-brugis-london-1543",
+  "name": "John Brugis",
+  "status": "Imprisoned (briefly)",
+  "trial_id": null,
+  "location_id": "england",
+  "year_interrogated": 1543,
+  "age_at_trial": null,
+  "social_status": "London service magician; practitioner of angelic invocation and crystal gazing for the recovery of stolen goods and for divination; operated within the large class of urban cunning men documented in the ecclesiastical and secular records of early Tudor London",
+  "gender": "Male",
+
+  "self_identification": "Practitioner of angelic invocation and crystal gazing — learned-magic operations understood as legitimate means of accessing supernatural knowledge for practical client service",
+  "claimed_abilities": [
+    "Angelic invocation using ritual procedures and books of magic",
+    "Crystal gazing for the location of stolen goods",
+    "Divination about the whereabouts of lost property",
+    "Service consultation for London clients"
+  ],
+
+  "biography": "John Brugis was a London practitioner brought before church authorities in 1543 for his practice of angelic invocation and crystal gazing, primarily in service of clients seeking the recovery of stolen goods. Thomas documents his case in Religion and the Decline of Magic (1971) as representative of the substantial London service-magic community that operated in the capital throughout the sixteenth century.\n\nBrugis's practice combined learned-magic elements — specifically the ritual invocation of angels using books of magic — with the practical service function of finding stolen property that was one of the standard offerings of the English cunning-man tradition. This combination of learned procedure and popular service function represents the hybrid character of English urban service magic that Thomas identifies: practitioners in London had access to books, networks, and clients unavailable in rural contexts, and their practice often incorporated learned-magic elements alongside the pragmatic service functions that defined the cunning-man role in any location.\n\nHis encounter with church authorities resulted in brief imprisonment rather than execution or sustained criminal prosecution, illustrating the still-mild institutional response available to service magicians in the pre-Elizabethan period — a situation that would change substantially after the 1563 Witchcraft Act made such practice subject to secular criminal jurisdiction. The case is not extensively documented but contributes to the pattern Thomas traces: a large, largely unrecorded community of London practitioners, occasionally visible in church and secular records, who served an established urban clientele seeking practical magical assistance.\n\nBrugis's use of angelic invocation connects him to the broader tradition of angel magic and necromancy documented in fifteenth- and sixteenth-century learned magical manuscripts, a tradition that survived in practical service-magic form among practitioners who may or may not have had access to the full learned-magic apparatus.",
+
+  "interrogation_narrative": {
+    "circumstances": "London church authorities, 1543; ecclesiastical rather than secular proceedings in the pre-1563 context",
+    "brugis_initial_claim": "Angelic invocation and crystal gazing were his methods for finding stolen goods and serving clients with divination",
+    "interrogator_response": "Church authorities treated angelic invocation as unauthorized and forbidden practice; brief imprisonment followed",
+    "adaptation": "The pre-criminal institutional context limited the interrogation to a disciplinary encounter; detailed confession to a criminal charge was not required or sought"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Angelic invocation using magical books; crystal gazing for the location of stolen goods; service practice for London clients",
+    "under_interrogation_pressure": "Ecclesiastical proceedings did not involve the coercive interrogation of secular witchcraft prosecution; admissions were practical statements of practice",
+    "final_confession": "Brief imprisonment; ecclesiastical censure; no sustained criminal prosecution"
+  },
+
+  "microhistorical_significance": "Brugis's case, though individually thin in documentation, contributes to the important picture Thomas assembles of London as a center of service-magic practice where learned-magic elements — angelic invocation, ritual books, formal procedures — were in active use for practical client service. The gap between the learned-magic tradition as found in manuscript and the street-level urban practice represented by Brugis illustrates the social percolation of magical knowledge that Thomas identifies as characteristic of Tudor England.\n\nGinzburg's methodological concern with recovering practitioners' own frameworks is relevant here: Brugis's identification of his practice as angelic invocation — a learned-magic category with a long theological and philosophical pedigree — rather than as witchcraft or demonic commerce is precisely the kind of actor/analyst distinction that prosecution records systematically efface. His case survives as a data point precisely because the institutional response was mild enough not to generate an extensive confession document.",
+
+  "actor_vs_analyst_terminology": {
+    "brugis_language": [
+      "Angelic invocation (his own characterization of his spirit-calling)",
+      "Crystal gazing (scrying for practical service)",
+      "Books of magic (his learned instruments)",
+      "Recovery of stolen goods (his primary service function)"
+    ],
+    "prosecution_categories": [
+      "Unauthorized and superstitious practice",
+      "Forbidden invocation (ecclesiastical category)",
+      "Conjuration (church discipline terminology)"
+    ]
+  },
+
+  "practical_activities": "Angelic invocation using ritual procedures and books of magic; crystal gazing for the location of stolen property; divination for London clients. His practice was primarily service-oriented — finding stolen goods — rather than healing, distinguishing his primary function from the healer-type cunning folk. The learned-magic apparatus of his invocation practice was instrumental in service of practical client needs.",
+
+  "interrogation_outcome": "Briefly imprisoned; ecclesiastical censure; not executed. The pre-1563 institutional context meant this level of response was the norm rather than the exception for discovered service magicians.",
+
+  "historiographical_significance": "Thomas's Religion and the Decline of Magic (1971) documents John Brugis as part of the large category of London service magicians whose practice combined learned and popular elements. His case contributes to Thomas's argument that the gap between learned and popular magic in Tudor England was substantially smaller than the academic/popular binary suggests: practitioners like Brugis used books and ritual procedures associated with the learned tradition in the service of the practical magical needs of ordinary clients. Hutton's The Witch (2017) discusses the urban service-magic tradition as a distinct variant of the broader cunning-folk phenomenon, with London's scale and diversity creating a more complex and documented practitioner community than rural areas.",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "London ecclesiastical records, 1543; documented in Thomas, Religion and the Decline of Magic (1971)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Thomas in Religion and the Decline of Magic (1971) interprets cases like Brugis's as evidence of a living London service-magic community in which learned and popular magical elements freely mixed. Later scholars have debated how much of the 'angelic invocation' element represents genuine engagement with the learned magic tradition versus borrowing of prestigious learned-magic vocabulary to describe simpler practical operations. The limited documentation of Brugis's specific case does not allow this question to be resolved.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

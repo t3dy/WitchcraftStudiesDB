@@ -1,0 +1,24 @@
+{
+  "id": "great-scottish-witch-hunt-begins-1661",
+  "event_name": "Great Scottish witch hunt of 1661-1662 begins",
+  "event_type": "trial_event",
+  "date": "1661",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Scotland",
+  "location_slug": "scotland",
+  "significance": "The great Scottish witch hunt of 1661-1662 began with the Restoration government's re-establishment of witch prosecution commissions, resulting in approximately 660 accused and roughly 300 executed in about eighteen months — the most intensive period of Scottish witch prosecution — and confirming Scotland's uniquely high per-capita rate of witch execution relative to English-speaking jurisdictions.",
+  "related_entities": [
+    "larner-enemies-of-god-1981"
+  ],
+  "source_method": "Scottish Privy Council records and presbytery archives; analyzed in Larner, Enemies of God (1981)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "levack-witch-hunt-early-modern-2006",
+    "behringer-witches-witch-hunts-2004"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "isobel-sinclair-orkney-1633",
+  "name": "Isobel Sinclair",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "scotland",
+  "year_interrogated": 1633,
+  "age_at_trial": null,
+  "social_status": "Widow; resident of Orkney; local healer; service magician with a reputation grounded in contact with the fairy folk; tried in the same 1633 cluster as Bessie Skebister",
+  "gender": "Female",
+
+  "self_identification": "Healer who derived her knowledge and abilities from encounters with the fairy folk — the 'good neighbors' of Orcadian folk belief — rather than from any diabolical source",
+  "claimed_abilities": [
+    "Healing through supernatural knowledge received from fairy beings",
+    "Diagnosis of illness through fairy-granted insight",
+    "Service-magic consultation drawing on fairy-contact knowledge",
+    "Knowledge of natural and supernatural remedies"
+  ],
+
+  "biography": "Isobel Sinclair was tried and executed in Orkney in 1633, in the same cluster of prosecutions that targeted the Orcadian fairy-healer tradition and in which Bessie Skebister was also tried and executed. The two cases represent what Hutton in The Witch (2017) documents as the Northern Isles variant of the Scottish fairy-healer type — a geographically peripheral but structurally coherent expression of the tradition best-documented in the mainland Scottish cases of Elizabeth Dunlop (Ayrshire, 1576) and Alison Pearson (Fife, c. 1588).\n\nLike Skebister, Sinclair described encounters with fairy beings — the 'good neighbors' — as the source of her healing knowledge and practical abilities. This framework, in which a community healer understood her competence as derived from supernatural beings who inhabited a recognizable if alternative social world, was characteristic of Scottish service-magic practice across the sixteenth and early seventeenth centuries.\n\nThe 1633 Orkney prosecutions represent the extension of the Scottish witch-prosecution apparatus to the Northern Isles — islands whose incorporation into the Scottish kingdom had been completed only in 1468 and whose legal and religious institutions retained some distinctive features. The cluster targeting fairy-healer practitioners in particular suggests either an intensification of prosecution pressure on this specific type or the visibility of practitioners whose reputations had accumulated over long careers.\n\nIndividual documentation of Sinclair's case is limited relative to the more fully recorded mainland Scottish cases. Hutton documents her alongside Skebister as part of the evidence for the tradition's geographic spread; Wilby's analysis of the familiar-spirit and fairy-healer traditions extends to the Orkney cases as part of the broader British picture.",
+
+  "interrogation_narrative": {
+    "circumstances": "Orkney, 1633; part of the same prosecution cluster as Bessie Skebister; tried before the secular authorities responsible for Scottish criminal jurisdiction in Orkney",
+    "sinclair_initial_claim": "Healing knowledge and ability derived from encounters with the good neighbors — the fairy folk of Orcadian tradition",
+    "interrogator_response": "Fairy contacts reinterpreted through the standard demonological framework; the supernatural beings from whom Sinclair derived her knowledge were categorized as diabolical regardless of her own identification of them",
+    "adaptation": "Detailed documentation of how Sinclair responded to prosecutorial reframing is not preserved; the execution outcome indicates the prosecution proceeded to conviction on the basis of the fairy-contact testimony"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Contact with fairy beings as the source of healing knowledge; service-magic practice grounded in this fairy-contact framework",
+    "under_interrogation_pressure": "Limited documentary record; the fairy-contact framework appears to have been sufficient for conviction without requiring a diabolical-pact confession conforming fully to the learned demonological template",
+    "final_confession": "Convicted and executed; specific details of final confession not preserved in available documentation"
+  },
+
+  "microhistorical_significance": "The 1633 Orkney cluster, of which Sinclair's and Skebister's cases are the primary instances, represents a moment when the prosecution apparatus reached the geographical margins of the Scottish kingdom and targeted a tradition of fairy-healer practice that had apparently continued into the 1630s with some resilience. Ginzburg's framework in Ecstasies (1991) for reading prosecution records against the grain — attending to the practitioner's own cosmological framework where it survives beneath the prosecutorial overlay — is applicable to the Orkney cases even where documentation is thin: the fairy-contact framework visible in Sinclair's and Skebister's testimony represents a genuine folk cosmology, not a prosecutorial invention.\n\nThe co-occurrence of the two cases in 1633 raises the question — unanswerable from surviving records — of whether Sinclair and Skebister knew each other, shared a community of practice, or were associated through the prosecution's networking of accusations. The structural parallels between their cases may reflect common tradition, mutual influence, or the prosecution's tendency to find clusters once the first accusation had been made.",
+
+  "actor_vs_analyst_terminology": {
+    "sinclair_language": [
+      "The good neighbors (fairy folk)",
+      "Fairy-derived healing knowledge",
+      "Encounter with fairy beings"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical compact (prosecutorial reinterpretation of fairy contact)",
+      "Forbidden supernatural commerce"
+    ]
+  },
+
+  "practical_activities": "Healing of the sick through knowledge derived from fairy contacts; service-magic consultation for neighbors seeking healing and advice. Her practice was beneficial in orientation — the fairy-healer tradition in which she operated was defined by the community-protective and healing function, not by maleficium.",
+
+  "interrogation_outcome": "Tried and executed in Orkney, 1633, in the same prosecution cluster as Bessie Skebister.",
+
+  "historiographical_significance": "Hutton in The Witch (2017) documents Isobel Sinclair alongside Bessie Skebister as evidence of the Scottish fairy-healer tradition's geographic distribution into the Northern Isles. The Orkney 1633 cases extend the documented range of this tradition — previously best-documented in Ayrshire and Fife — to the geographical margins of the Scottish kingdom, suggesting a broader distribution than the best-known individual cases would indicate. Wilby's Cunning Folk and Familiar Spirits (2005) situates the Orkney cases within her broader analysis of British service-magic and familiar-spirit traditions. Larner's Enemies of God (1981) provides the institutional and social context of Scottish witch prosecution within which the 1633 Orkney cluster must be understood.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "wilby-cunning-folk-2005",
+    "larner-enemies-of-god-1981"
+  ],
+
+  "source_method": "Scottish witch trial records, Orkney 1633; documented in Hutton, The Witch (2017) and Wilby, Cunning Folk and Familiar Spirits (2005); Larner, Enemies of God (1981) provides Scottish prosecution context",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Hutton and Wilby agree on the broad characterization of the Orkney fairy-healer cases but differ in emphasis: Hutton maintains caution about deriving strong tradition-historical claims from limited documentation, while Wilby presses further toward arguing for genuine experiential content in the fairy-contact narratives. Given the limited individual documentation of Sinclair's case relative to Dunlop or Pearson, neither interpretation can be pressed with great specificity.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

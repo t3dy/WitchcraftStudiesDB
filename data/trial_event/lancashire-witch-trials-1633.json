@@ -1,0 +1,43 @@
+{
+  "id": "lancashire-witch-trials-1633",
+  "name": "Lancashire Witch Trials, 1633–1634",
+  "location_id": "england",
+  "date_range": "1633–1634",
+  "approximate_executions": 0,
+  "approximate_accused": 17,
+  "jurisdiction": "Lancashire Assizes; English common-law secular jurisdiction with review by Privy Council and royal physicians",
+  "legal_framework": "English common law; Witchcraft Act 1604 (Jacobean statute); Privy Council review on appeal",
+
+  "overview": "The Lancashire witch trials of 1633–1634 are among the most significant English witch prosecutions for what they reveal about the limits of prosecution rather than its success. Approximately seventeen persons were convicted at the Lancaster Assizes in August 1633 on accusations made by a ten-year-old boy, Edmund Robinson of Pendle Forest, who claimed to have witnessed a sabbath-like gathering and identified its participants. The region was primed for renewed accusation: the Pendle trials of 1612 remained a living memory, and the same landscape — the Forest of Pendle in Lancashire — provided the accusation's social geography.\n\nThe convictions did not stand. The case was reviewed in London at the instigation of sceptical officials, and four of the accused were sent to London where they were examined by royal physicians and King Charles I himself. The physicians reported no witch's marks sufficient to sustain conviction. Edmund Robinson, under questioning, confessed that his entire account was a fabrication: he had invented the sabbath story after a quarrel with a woman who refused to give him food. Most of the accused were eventually released, though several died in gaol before release could take effect.\n\nThe Lancashire 1633 proceedings are consequently a case study in the mechanisms by which English prosecution was checked — by central review, medical examination, and the capacity of the accused to contest testimony — in contrast to the more autonomous local jurisdictions that drove Continental mass prosecutions.",
+
+  "historiographical_analysis": "Alan Macfarlane's Witchcraft in Tudor and Stuart England (1970) situates the 1633 trials within the broader English pattern of community-level accusation mediated by the tension between neighbourly obligation and refusal — the 'charity refused' model in which accusers who had denied hospitality projected guilt onto the alleged witch. The Robinson case inverts this: Robinson's own account centred on his refusal of assistance rather than the accused's. James Sharpe's Instruments of Darkness (1996) analyses the 1633 proceedings as evidence that English institutions had developed review mechanisms that consistently moderated prosecution relative to the Continent. The contrast with Scottish or German practice is implicit in Sharpe's argument and explicit in Hutton's The Witch (2017), which uses Lancashire 1633 to illustrate the institutional divergence between English and Continental witch prosecution by the mid-seventeenth century.\n\nThe Robinson confession is also analytically significant for spectral-evidence debates: Robinson's initial testimony relied heavily on his claimed ability to identify witches by sight in public places — a form of evidence whose vulnerability to fabrication the 1633 case exposed.",
+
+  "accusation_patterns": {
+    "primary_targets": "Local women of Pendle Forest, a region already marked by the 1612 trials; social profile similar to 1612 accused — older women, economically marginal, known to their accusers",
+    "geographic_spread": "Confined to Pendle Forest and the immediate Lancashire vicinity; the accusations did not cascade into neighbouring parishes",
+    "confession_characteristics": "No sustained confessions under torture; the accused maintained innocence and were eventually vindicated; Robinson's fabricated testimony was the sole source of the sabbath narrative"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "maleficium-harmful-magic",
+    "spectral-evidence"
+  ],
+
+  "primary_sources": "Lancaster Assizes records, 1633; Privy Council review documents; physicians' reports, 1634; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Sharpe, Instruments of Darkness (1996)",
+  "source_method": "English assize records and Privy Council correspondence; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Sharpe, Instruments of Darkness: Witchcraft in England 1550–1750 (1996); Hutton, The Witch: A History of Fear (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "sharpe-instruments-of-darkness-1996",
+    "hutton-the-witch-2017"
+  ],
+
+  "scholarly_disagreement": "Macfarlane's 'charity refused' model has been influential but contested: Sharpe and others argue it overfits English accusation patterns to the village-level tension model and underweights elite and institutional agency. The 1633 case sits awkwardly within Macfarlane's framework because the accuser was a child using spectral testimony rather than a neighbour translating personal grievance. Hutton accepts the broad contrast between English and Continental prosecution but cautions against treating English institutional moderation as evidence of English scepticism, distinguishing moderation of procedure from disbelief in witchcraft.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

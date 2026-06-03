@@ -1,0 +1,30 @@
+{
+  "id": "hungary",
+  "name": "Hungary and Transylvania",
+  "modern_country": "Hungary; Romania (Transylvania)",
+  "latitude": 47.162,
+  "longitude": 19.503,
+  "location_type": "region",
+
+  "hover_description": "Hungary/Transylvania, c. 1700–1756: Late prosecution under Habsburg consolidation. Szeged burning 1728. Táltos tradition. Pócs and Klaniczay's primary territory.",
+
+  "panel_description": "Hungary and Transylvania produced a distinctive late prosecution pattern, with the most intensive witch trials occurring in the early eighteenth century — well after the main western European prosecution wave had ended — under the Habsburg consolidation of the region following the Ottoman withdrawal. The Szeged burning of 1728, in which approximately thirteen persons were executed for witchcraft, is the most-documented Hungarian mass prosecution.\n\n  Eva Pócs's Between the Living and the Dead (1999) and Gábor Klaniczay's The Uses of Supernatural Power (1990) are the foundational English-language studies of Central European, and specifically Hungarian and Balkan, prosecution patterns. Their work is essential for understanding the táltos tradition — a Hungarian shaman-like figure whose spirit-battle tradition parallels the Friulian benandanti and the Sámi noaidi — which Ginzburg incorporates into his pan-Eurasian ecstatic-tradition thesis.\n\n  The late timing of Hungarian prosecution (relative to western Europe) reflects the region's different political history: Ottoman occupation had disrupted normal ecclesiastical and secular court functioning, and the Habsburg legal integration of the reconquered territories in the 1690s-1700s brought with it prosecution frameworks that were already becoming obsolete in western Europe. Hungary thus serves as a kind of temporal experiment: prosecution occurring under the same ideological framework but in different political circumstances.\n\n  Habsburg Empress Maria Theresa's decree of 1758 officially ended witch prosecution in the Habsburg territories, including Hungary, through a centralizing reform that required imperial review of all witchcraft convictions.",
+
+  "key_trial_events": [],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "pocs-between-living-dead-1999",
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "Hungarian state archives; analyzed in Pócs, Between the Living and the Dead (1999); Klaniczay, The Uses of Supernatural Power (1990); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

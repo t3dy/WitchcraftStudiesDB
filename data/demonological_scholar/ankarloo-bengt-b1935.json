@@ -1,0 +1,97 @@
+{
+  "id": "ankarloo-bengt-b1935",
+  "name": "Bengt Ankarloo",
+  "birth_year": 1935,
+  "death_year": 2011,
+  "birth_place": "Sweden",
+  "academic_discipline": "History; Early Modern Scandinavian History; Social History",
+  "primary_institution": "Lund University (Sweden) (Professor of History)",
+  "specialization": "Scandinavian witch prosecution; Swedish mass trials (Blåkulla panic 1668-1676); comparative European witchcraft; organization of the Witchcraft and Magic in Europe series",
+
+  "major_works": [
+    {
+      "title": "Trolldomsprocesserna i Sverige (Witch Trials in Sweden)",
+      "year": 1971,
+      "publisher": "Scandinavian University Press, Lund",
+      "significance": "Foundational study of Swedish witch prosecution, documenting the Blåkulla mass panic (1668-1676) and its institutional context; established the quantitative and analytical baseline for Scandinavian prosecution scholarship",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Early Modern European Witchcraft: Centres and Peripheries",
+      "year": 1990,
+      "publisher": "Clarendon Press, Oxford",
+      "significance": "Landmark comparative anthology co-edited with Gustav Henningsen; first major English-language collection presenting national case studies side by side; set the standard for comparative approach to European prosecution",
+      "pages": null,
+      "database_entry": "ankarloo-henningsen-early-modern-witchcraft-1990"
+    },
+    {
+      "title": "Witchcraft and Magic in Europe: The Period of the Witch Trials (Vol. 4 of series)",
+      "year": 2002,
+      "publisher": "Athlone Press / University of Pennsylvania Press",
+      "significance": "Co-edited with Stuart Clark; volume 4 of the six-volume Witchcraft and Magic in Europe series covering the critical early modern period of mass prosecution; multi-authored scholarly reference",
+      "pages": null,
+      "database_entry": "ankarloo-clark-vol4-witch-trials-2001"
+    }
+  ],
+
+  "historiographical_position": "SCANDINAVIAN SPECIALIST / COMPARATIVE EUROPEAN HISTORIAN",
+
+  "core_argument": "Ankarloo's central contribution is twofold: his foundational empirical work on Swedish prosecution, particularly the Blåkulla mass panic of 1668-1676, and his organizational role in establishing the comparative European framework for witch-trial scholarship through the Ankarloo-Henningsen anthology (1990) and the six-volume Witchcraft and Magic in Europe series. On the Swedish material specifically, Ankarloo documented that the Blåkulla panic was driven substantially by children's testimony — children claimed adults had taken them to the witches' sabbath at Blåkulla — and that the state's eventual resolution of the crisis came through the Svea Court of Appeal's skeptical evidentiary review rather than through community desensitization or theological reorientation. The comparative framework Ankarloo helped establish demonstrated that prosecution intensity, timing, and character varied dramatically across European jurisdictions, undermining any single-cause explanation of 'the witch hunt' as a uniform phenomenon.",
+
+  "methodological_approach": {
+    "primary_materials": "Swedish provincial court records; Royal Commission records (1669-70); Svea Court of Appeal records; Scandinavian parish records",
+    "analysis_target": "The institutional mechanics of the Swedish mass panic; the role of children's testimony; the resolution of the Blåkulla panic through skeptical appellate review",
+    "evidence_type": "Archival court records; demographic analysis; institutional history of prosecution and its termination",
+    "explanatory_level": "Institutional and social history: Ankarloo explains prosecution dynamics through the specific institutional and social conditions of the Swedish case rather than through general models"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Children's testimony as panic accelerator",
+      "claim": "The Blåkulla mass panic was uniquely driven by children's testimony that adults had taken them to the sabbath, creating a dynamic in which adult suspects could only escape by naming others who had allegedly been present with them, generating exponential cascade.",
+      "implication": "Children's testimony created a structurally distinct prosecution dynamic from adult accusation patterns, with specific social vulnerability and specific resolution problems for authorities."
+    },
+    {
+      "concept": "Appellate review as panic terminator",
+      "claim": "The Blåkulla panic was ultimately resolved not by community exhaustion or theological reorientation but by the Svea Court of Appeal's imposition of skeptical evidentiary standards that blocked the children's testimony from generating further convictions.",
+      "implication": "Institutional appellate skepticism was one of the primary mechanisms by which mass panics were terminated, a finding applicable beyond the Swedish case to Continental prosecution termination dynamics."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Ankarloo's work on the Swedish Blåkulla trials is based on systematic survey of provincial court records and Svea Court of Appeal case files, establishing the quantitative baseline (approximately 280 executions, 1668-1676) for subsequent scholarship."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Henningsen (co-edited the comparative anthology; shared commitment to national case-study approach)",
+      "Clark (Ankarloo-Clark series collaboration)",
+      "Levack (shared comparative European framework)",
+      "Ginzburg (shared attention to popular belief systems underlying prosecution)"
+    ],
+    "creative_tension_with": []
+  },
+
+  "database_engagement": {
+    "integration": "Ankarloo's work is the primary scholarly source for the sweden-blakulla-mass-trials-1668-1676 trial_event entry and the svea-court-of-appeal-sweden inquisitorial_body entry; the Ankarloo-Henningsen anthology (1990) and the Ankarloo-Clark series are cited as scholarly_sources across multiple database entries.",
+    "analytical_weight": "Ankarloo provides the foundational Scandinavian documentation and the comparative institutional framework that situates Swedish prosecution within the broader European pattern."
+  },
+
+  "historiographical_significance": "Ankarloo's contribution to witch-trial scholarship operates at two levels: the empirical documentation of Swedish prosecution and the organizational establishment of the comparative European field through the Ankarloo-Henningsen anthology and the six-volume Witchcraft and Magic in Europe series. The 1990 anthology, bringing together national case studies from across Europe in a single accessible volume, established the scholarly infrastructure for comparative prosecution research in the Anglophone academic world. His Swedish empirical work demonstrated that the Blåkulla panic — one of the most intense mass prosecutions in terms of per-capita execution rates — was specifically driven by children's testimony and resolved by institutional appellate skepticism, providing a model for understanding panic dynamics and termination that has been applied to other cases.",
+
+  "scholarly_disagreement": "The relative weight of children's testimony versus adult community dynamics in driving the Blåkulla panic has been debated; some scholars emphasize the adult suspects' cascade-naming as the primary mechanism while others, following Ankarloo, emphasize the children's testimony as the distinctive feature of the Swedish case.",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-europe-1987",
+    "hutton-the-witch-2017",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "source_method": "Primary works: Trolldomsprocesserna i Sverige (1971); Early Modern European Witchcraft (Clarendon, 1990, co-edited with Henningsen); Witchcraft and Magic in Europe Vol. 4 (Athlone/Penn, 2002, co-edited with Clark); Swedish provincial court records and Svea Court of Appeal records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

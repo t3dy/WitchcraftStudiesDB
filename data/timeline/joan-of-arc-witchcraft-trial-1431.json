@@ -1,0 +1,25 @@
+{
+  "id": "joan-of-arc-witchcraft-trial-1431",
+  "event_name": "Joan of Arc tried and executed for witchcraft",
+  "event_type": "trial_event",
+  "date": "1431",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Rouen, Normandy",
+  "location_slug": null,
+  "significance": "Joan of Arc was tried and executed for heresy and witchcraft by the English-allied Burgundian ecclesiastical court at Rouen, with charges including communication with demonic spirits and cross-dressing as inversion of natural order; the case illustrates the instrumentalization of witchcraft charges in political persecution and the flexibility of the heresy-witchcraft conflation.",
+  "related_entities": [
+    "cohn-europes-inner-demons-1975",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "source_method": "Trial records published in Jules Quicherat, Procès de condamnation et de réhabilitation de Jeanne d'Arc (1841-1849); analyzed in Cohn, Europe's Inner Demons (1975)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "cohn-europes-inner-demons-1975",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

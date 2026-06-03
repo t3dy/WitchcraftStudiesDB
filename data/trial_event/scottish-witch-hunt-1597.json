@@ -1,0 +1,43 @@
+{
+  "id": "scottish-witch-hunt-1597",
+  "name": "Scottish Witch Hunt, 1597",
+  "location_id": null,
+  "date_range": "1597",
+  "approximate_executions": null,
+  "approximate_accused": 400,
+  "jurisdiction": "Scotland — Privy Council commissions; multiple regional courts operating under national commission; secular jurisdiction with strong ecclesiastical coordination",
+  "legal_framework": "Scottish Witchcraft Act 1563; Privy Council commissions of justiciary; ad hoc local commission panels",
+
+  "overview": "The Scottish witch hunt of 1597 constitutes the second major nationwide Scottish witch prosecution, following the North Berwick panic of 1590–1591 that had drawn King James VI's personal involvement. In 1597 the Privy Council issued a series of commissions across Scotland authorising local gentlemen and ministers to try accused witches; the resulting prosecutions spread through Aberdeen, the north-east, the central Lowlands, and other regions. Approximately four hundred persons are estimated to have been suspected or accused, though the fragmented documentary record makes precise figures uncertain. The hunt coincided with renewed concern at the centre of Scottish government: James VI had published Daemonologie in 1597, articulating a theological and philosophical defence of witch prosecution that drew directly on his North Berwick experience.\n\nThe Aberdeen component of the 1597 hunt is among its best-documented elements, with the Aberdeen witch trials of 1596–1597 running in parallel with the broader national wave. The Privy Council eventually recalled many of the outstanding commissions in mid-1597, which Christina Larner interprets as a central government checking the momentum of local prosecution before it became uncontrollable — a pattern she identifies as characteristic of Scottish witch prosecution more broadly. The 1597 hunt thus illustrates both the top-down mobilisation capacity of the Scottish state and its capacity for judicial restraint when the commissions threatened to proliferate beyond manageable bounds.\n\nThe hunt was also distinctive for the role of denunciation cascades: accused persons, under torture, named accomplices who were then arrested and themselves subjected to examination, generating chains of accusation that spread prosecution across parish boundaries.",
+
+  "historiographical_analysis": "Christina Larner's Enemies of God: The Witch-Hunt in Scotland (1981) remains the foundational analysis of the 1597 hunt, situating it within her broader argument that Scottish witch prosecution was state-driven and ideologically coherent — a 'crime against God' prosecuted by a confessional state with theological seriousness, rather than simply an eruption of popular superstition. Larner emphasises James VI's direct theological contribution through Daemonologie and argues the 1597 hunt represents the consolidation of the North Berwick template into a replicable national pattern.\n\nJulian Goodare's The Scottish Witch-Hunt in Context (2002) revises Larner in important respects, giving greater weight to local initiative and popular participation in the commission structure and arguing that the Privy Council's control over the hunts was less complete than Larner suggested. Goodare's analysis of the 1597 commissions shows that local gentlemen and ministers often drove prosecution independently of central direction. Brian Levack's comparative analysis in The Witch-Hunt in Early Modern Europe (2006) places the 1597 hunt within a Europe-wide pattern of chain-reaction prosecutions, noting the role of torture-induced denunciation in extending the network of accusation.",
+
+  "accusation_patterns": {
+    "primary_targets": "Women of middling social status; disproportionate representation of women across all Scottish trials documented by Larner; some men accused in denunciation chains originating from female accused",
+    "geographic_spread": "Nationwide: Aberdeen, the north-east, the central Lowlands, Fife; commissions issued for multiple sheriffdoms; the prosecution spread through the commission structure rather than through social networks alone",
+    "confession_characteristics": "Confessions extracted under torture and sleep deprivation; sabbath attendance, demonic pact, and maleficium all present; denunciation of accomplices central — the cascade mechanism generated new accused from existing confessions"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "denunciation-cascade-mechanism",
+    "demonic-pact-early-modern"
+  ],
+
+  "primary_sources": "Scottish Privy Council records, Register of the Privy Council of Scotland; Aberdeen burgh records; analyzed in Larner, Enemies of God (1981); Goodare, The Scottish Witch-Hunt in Context (2002)",
+  "source_method": "Scottish Privy Council records and burgh court records; analyzed in Larner, Enemies of God: The Witch-Hunt in Scotland (1981); Goodare (ed.), The Scottish Witch-Hunt in Context (2002); Levack, The Witch-Hunt in Early Modern Europe, 3rd ed. (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "goodare-scottish-witch-hunt-2002",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "scholarly_disagreement": "Larner and Goodare disagree on the degree of central state control over the 1597 hunt: Larner's model of a top-down, ideologically unified state prosecution has been qualified by Goodare's demonstration of substantial local autonomy in commission execution. The precise death toll for 1597 cannot be established from surviving records, and estimates of those accused (ranging from around 200 to 400) reflect the fragmentary survival of commission records rather than genuine scholarly disagreement about the hunt's scale. Levack accepts the broad Larner framework while incorporating Goodare's revisions on local agency.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "augsburg",
+  "name": "Augsburg",
+  "modern_country": "Germany (Bavaria)",
+  "latitude": 48.371,
+  "longitude": 10.898,
+  "location_type": "city",
+
+  "hover_description": "Augsburg, 1580s–1670s: Free imperial city; Lyndal Roper's primary research territory. Obstetric maleficium pattern; midwife accusations; psychoanalytic interpretation.",
+
+  "panel_description": "Augsburg, the free imperial city in Swabia, is the primary research territory of Lyndal Roper, whose Witch Craze (2004) and Oedipus and the Devil (1994) develop the psychoanalytic interpretation of witch prosecution through detailed analysis of Augsburg's council records and trial documentation.\n\n  Augsburg's prosecution was moderate by German standards — a city council governed by Protestant (Lutheran) patricians exercised more procedural caution than episcopal territories like nearby Bamberg and Würzburg — but its trial records are unusually rich and have been extensively analyzed. The Augsburg cases Roper analyzes are characterized by their focus on obstetric maleficium: accusations centered on harm to newborns and post-partum mothers, implicating midwives, lying-in maids, and neighbors with access to the birthing chamber.\n\n  Roper's argument about Augsburg is that the confession content reflects unconscious anxieties about maternal ambivalence, dependency, and the vulnerability of new life: mothers who had lost infants projected their grief and guilt onto figures who had been present at the death, whose access to the vulnerable body made them plausible as malevolent agents. The midwife who handled the infant was simultaneously the person most trusted to protect it and the person whose failure or malevolence would explain its death.\n\n  Augsburg's prosecution thus provides Roper with evidence for the gendered and psychological dimensions of witch prosecution that Clark's intellectual-history approach and Macfarlane's social-history approach both underexamine.",
+
+  "key_trial_events": [],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "roper-witch-craze-2004",
+    "hutton-the-witch-2017",
+    "midelfort-witch-hunting-1972"
+  ],
+
+  "source_method": "Augsburg Stadtarchiv; analyzed in Roper, Witch Craze (2004); Roper, Oedipus and the Devil (1994); Midelfort, Witch Hunting in Southwestern Germany (1972)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,92 @@
+{
+  "id": "wilby-emma-b1964",
+  "name": "Emma Wilby",
+  "birth_year": 1964,
+  "death_year": null,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "History; Early Modern British History; Cultural History",
+  "primary_institution": "University of Exeter (Associate Professor)",
+  "specialization": "English familiar spirits; cunning folk and their spirit companions; the relationship between folk magic and witch prosecution in England; Isobel Gowdie and Scottish fairy belief; Ginzburgian methodology applied to English sources",
+
+  "major_works": [
+    {
+      "title": "Cunning Folk and Familiar Spirits: Shamanistic Visionary Traditions in Early Modern British Witchcraft and Magic",
+      "year": 2005,
+      "publisher": "Sussex Academic Press",
+      "significance": "Major argument that English cunning folk's familiar spirit relationships represent the English-language parallel to the continental ecstatic tradition documented by Ginzburg; applies Ginzburgian methodology to English sources",
+      "pages": null,
+      "database_entry": "wilby-cunning-folk-2005"
+    },
+    {
+      "title": "The Visions of Isobel Gowdie: Magic, Witchcraft and Dark Shamanism in Seventeenth-Century Scotland",
+      "year": 2010,
+      "publisher": "Sussex Academic Press",
+      "significance": "Detailed study of the 1662 Isobel Gowdie confessions, reading them as evidence of genuine visionary experiences within a Scottish folk cosmology rather than purely inquisitorial construction",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "ENGLISH-SCOTTISH FAMILIAR TRADITION SPECIALIST / GINZBURGIAN METHODOLOGIST",
+
+  "core_argument": "Wilby's central argument is that the English and Scottish familiar spirit tradition — documented in witch-trial testimony and cunning folk examinations across the sixteenth and seventeenth centuries — represents the English-language parallel to the continental ecstatic tradition that Ginzburg identified in the benandanti and other practices. Where Continental accused described ecstatic spirit journeys to supernatural assemblies, English and Scottish practitioners described individuated named familiar spirits that served as personal magical assistants — animals, imps, and fairy-like figures that entered into specific working relationships with their human contacts. Wilby argues, following Ginzburg's methodology, that this material should be read as evidence of genuine popular visionary experience and belief rather than as purely inquisitorial construction or as straightforward confession to the stereotyped demonic familiar of demonological theory. The familiar spirit relationship, Wilby argues, preserved elements of a shamanic-shamanistic visionary tradition that had been suppressed elsewhere on the Continent through more thorough demonological reframing, surviving in England precisely because English prosecution was less intensive in its theological reinterpretation of popular testimony.",
+
+  "methodological_approach": {
+    "primary_materials": "English familiar spirit testimonies from witch trials (Essex, East Anglia, other counties); Scottish fairy-healer examinations; cunning folk examination records; English witchcraft pamphlet literature",
+    "analysis_target": "The structural features of familiar spirit narratives across English and Scottish sources; the relationship between familiar spirit beliefs and continental ecstatic tradition; Isobel Gowdie's confessions as evidence of genuine visionary experience",
+    "evidence_type": "Witness examination transcripts; confessional testimonies; pamphlet accounts; cross-cultural comparative analysis with shamanic traditions",
+    "explanatory_level": "Microhistorical and comparative: Wilby reads individual examination testimonies closely for evidence of genuine popular experience, then situates the pattern within Ginzburg's comparative ecstatic framework"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "English familiar as ecstatic tradition parallel",
+      "claim": "The named, individuated familiar spirit of English witch testimony — received at a specific location, entering into a personal named relationship, serving as a working magical assistant — is structurally equivalent to the spirit-helper in continental ecstatic tradition, preserved in different cultural form due to different prosecutorial pressures.",
+      "implication": "English witch testimony should be read, like the benandanti confessions, as partially evidence of genuine popular visionary experience and partly the product of interrogation reframing of that experience into demonological categories."
+    },
+    {
+      "concept": "Isobel Gowdie's visions as genuine experience",
+      "claim": "The detailed and internally consistent visionary content of Isobel Gowdie's 1662 voluntary confessions reflects genuine visionary experience within a Scottish folk cosmological framework, not simply inquisitorial construction or deliberate fabrication.",
+      "implication": "The Gowdie confessions are among the most significant surviving documents of Scottish popular cosmology and should be read as revealing the content of that cosmology rather than purely the techniques of Scottish inquisitorial procedure."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Wilby conducted extensive work with English and Scottish examination transcripts, reading familiar spirit testimonies systematically across multiple counties and periods to identify structural regularities that support the ecstatic tradition argument."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Ginzburg (direct application of Ginzburgian methodology to English and Scottish material)",
+      "Hutton (accepted by Hutton as demonstrating the English parallel to the ecstatic tradition, though Hutton qualifies the breadth of the comparative claim)",
+      "Pócs (parallel extension of the ecstatic tradition framework to different geographic area)"
+    ],
+    "creative_tension_with": [
+      "Cohn (Wilby's reading of testimony as genuine popular experience versus Cohn's elite-construction skepticism)",
+      "Macfarlane/Thomas (Wilby's spiritual-experience reading of familiar testimony versus Thomas/Macfarlane's social-dynamics analysis)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Wilby's Cunning Folk and Familiar Spirits is cited in multiple healer_practitioner entries (elizabeth-dunlop-ayrshire-cunning-woman, old-demdike-lancashire-cunning-woman, john-walsh-dorset-cunning-man, thiess-livonian-werewolf) and provides the framework for the animal-familiar-english-witch demonological_concept entry.",
+    "analytical_weight": "Wilby provides the scholarly framework for reading English and Scottish familiar spirit testimony as evidence of genuine popular visionary tradition rather than purely as prosecution construction."
+  },
+
+  "historiographical_significance": "Cunning Folk and Familiar Spirits (2005) is the most significant recent application of Ginzburg's ecstatic tradition methodology to English and Scottish material, and has substantially shaped the current scholarly understanding of the English familiar spirit tradition. Hutton's The Witch (2017) engages extensively with Wilby's work, accepting her argument that the familiar spirit testimonies preserve evidence of genuine popular belief while questioning some of the broader comparative claims. Wilby's subsequent study of Isobel Gowdie (2010) developed the Scottish dimension of the argument, providing the most detailed reading of the Gowdie confessions available in the scholarly literature.",
+
+  "scholarly_disagreement": "The extent to which familiar spirit testimonies preserve genuine popular experience versus being substantially shaped by examination pressure is debated; Hutton accepts the evidence for genuine belief while questioning some of Wilby's specific readings of individual testimonies. Cohn's position — that confession testimony primarily reflects inquisitorial construction — represents the strongest counter-position to Wilby's Ginzburgian reading.",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "pocs-between-living-dead-1999"
+  ],
+
+  "source_method": "Primary works: Cunning Folk and Familiar Spirits (Sussex Academic Press, 2005); The Visions of Isobel Gowdie (Sussex Academic Press, 2010); English and Scottish examination transcripts and pamphlet literature",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

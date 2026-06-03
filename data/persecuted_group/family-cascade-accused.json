@@ -1,0 +1,40 @@
+{
+  "id": "family-cascade-accused",
+  "name": "Family Members of the Accused — Cascade Prosecution",
+  "category": "social_class",
+  "temporal_scope": "c. 1430–1700",
+  "primary_regions": ["central-europe", "british-isles", "colonial-new-england"],
+
+  "group_profile": "One of the most consistent structural patterns across diverse witch prosecution contexts was the implication of family members — spouses, children, parents, siblings — once a primary accused had confessed and named associates. This 'cascade by family association' produced prosecutions in which individuals had no independent accusation against them but were targeted because their kinship relationship to an already-convicted witch made them credible as fellow participants in the alleged diabolical compact. The mechanism was explicitly theological: if witchcraft was a compact transmitted through the devil's instruction and community, then family members who had lived in intimate proximity to a convicted witch were presumed to have been recruited or taught.\n\n  The pattern appears across virtually all intensively studied prosecution contexts. In the Bamberg mass prosecution (1626-31), the cascade spread through both family networks and social networks of the accused, with husband-wife pairs and parent-child pairs appearing in the prosecution record. At Pendle (1612), the Device family prosecution drew in Alizon Device, James Device, Elizabeth Device, and other family members once Old Demdike's examination had initiated the process. At Salem (1692), spouses and children of accused persons faced accusation, though the Salem pattern shows somewhat more resistance to pure family-cascade than the German or French mass prosecutions. In the German superhunts analyzed by Midelfort, entire families were sometimes exterminated through cascade prosecution.\n\n  The vulnerability was structurally distinct from that of the primary accused: these individuals did not necessarily have any prior reputation for magical practice, any prior disputes with accusers, or any of the social characteristics typically associated with witch accusation. Their sole vulnerability was their kinship relationship.",
+
+  "persecution_rationale": "The demonological framework made family-cascade prosecution theoretically coherent: witchcraft was understood as a practice transmitted through instruction and initiation, and the diabolic compact, once entered, was understood as generating a community of co-conspirators. If a convicted witch had attended sabbaths with others, it was natural to examine their household members who had been in closest contact. The specific claim that witchcraft was taught by parents to children, or that husbands and wives shared diabolical practices, appeared in Continental demonological theory and in the examination questions that shaped confession content. The Malleus Maleficarum's treatment of witchcraft as heresy encouraged treating family members as presumptively suspect once one household member had been convicted.",
+
+  "structural_vulnerability": "The structural vulnerability of family members of the accused derived from the cascade logic of confession-based prosecution. Once a convicted witch named family members as fellow participants in the diabolical conspiracy under examination, those named faced arrest regardless of any independent evidence against them. The arrest itself placed them in a position from which self-defense was structurally difficult: any contact with the convicted witch could be reinterpreted as participation in diabolical activities; the credibility of a tortured confessor's testimony was treated as sufficient basis for initiating proceedings against the named. Midelfort's analysis of the German superhunts demonstrates that cascade prosecution through family networks was one of the primary mechanisms by which small prosecutions became mass prosecutions: each conviction generated new accusations that extended the prosecution's reach through kinship networks.",
+
+  "historiographical_significance": "The cascade prosecution of family members is central to Midelfort's analysis of the German superhunts in Witch Hunting in Southwestern Germany (1972): Midelfort identifies the cascade mechanism as the primary structural feature distinguishing small-scale prosecution (which could stay within a few cases) from mass prosecution (which could expand indefinitely through cascade dynamics). Once the cascade mechanism was activated through an initial set of convictions that generated confessions naming others, the prosecution could only end when either the authorities consciously shut it down, ran out of resources, or the cascade had consumed all plausible targets within the community network. Behringer's Bavaria research confirms the family-network cascade as a critical pathway for prosecution escalation. At Salem, Boyer and Nissenbaum identify the spread of accusation through social networks, including family networks, as part of the community-conflict dynamics; Norton's frontier thesis interprets the same spreading pattern as reflecting the crisis atmosphere that suspended normal evidentiary limits.",
+
+  "exemplary_accused_persons": [
+    "philip-fuchs-bamberg-1628",
+    "anne-redferne-pendle-1612",
+    "dorcas-good-salem-1692"
+  ],
+  "related_demonological_concepts": [
+    "witches-sabbath-collective",
+    "bewitchment-illness-attribution"
+  ],
+
+  "scholarly_disagreement": "The degree to which family members named by convicted witches were genuinely implicated in the accused's practice versus being entirely innocent persons caught in cascade dynamics is debated. In some cases (Old Demdike/Device family at Pendle), the family appears to have participated in a shared magical practice tradition; in others (Bamberg cascade victims), the named family members had no prior accusation history. The distinction between genuine practitioner families and innocent cascade victims matters for the interpretation of popular magical belief but does not affect the structural analysis of cascade vulnerability.",
+  "source_method": "German superhunt records (Bamberg, Würzburg, Eichstätt); Pendle trial records; Salem Witchcraft Papers; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004); Boyer and Nissenbaum, Salem Possessed (1974); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004",
+    "hutton-the-witch-2017",
+    "boyer-nissenbaum-salem-possessed-1974"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

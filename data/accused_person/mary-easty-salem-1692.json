@@ -1,0 +1,75 @@
+{
+  "id": "mary-easty-salem-1692",
+  "name": "Mary Easty",
+  "status": "Executed",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 58,
+  "social_status": "Wife of Isaac Easty; established farm household in Topsfield; sister of Rebecca Nurse and Sarah Cloyce (both accused); respected community member of fifty-eight years; member of the church",
+  "gender": "Female",
+
+  "biography": "Mary Easty was the fifty-eight-year-old wife of a Topsfield farmer and one of three sisters from the Towne family — along with Rebecca Nurse (executed July 19, 1692) and Sarah Cloyce (imprisoned but survived) — targeted in the Salem prosecutions. Her case is most analyzed for the petition she wrote shortly before her execution on September 22, 1692: a remarkable document that is one of the most eloquent surviving pieces of writing from any Salem accused, asking not for her own life but for the court to reform its procedures so that subsequent innocents might be saved.\n\n  Easty was initially arrested in late April 1692, when the expanding circle of accusation reached her through the afflicted persons' testimony. She was briefly released in May when the accusations against her appeared insufficient, but was re-arrested within days when the afflicted persons intensified their testimony. This sequence — arrest, brief release, re-arrest on intensified accusation — reflects the dynamics of the Salem crisis in which release was treated by the afflicted persons as itself evidence of the accused witch's power to manipulate the proceedings.\n\n  She was convicted and executed on September 22, 1692, hanged alongside seven other condemned persons. Her pre-execution petition — addressed to the Court of Oyer and Terminer and to the ministers — did not ask for personal reprieve but argued carefully that the court's procedures were producing wrongful convictions, and requested specifically that confessors be separately examined to test whether their testimony was consistent. The Massachusetts legislature's 1711 exoneration and compensation acts included the Easty family.",
+
+  "arrest_narrative": "Easty was first arrested in late April 1692 on accusations by the afflicted persons including Mercy Lewis. Her release in May 1692 produced intensified afflicted-persons complaints that she was tormenting them still from outside prison; she was re-arrested within days. Boyer and Nissenbaum identify her Topsfield associations as connecting her to the network of accused persons targeted by the Village accusers. Norton's frontier analysis situates her arrest within the broader conspiracy narrative.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-04-22",
+      "method": "Examination before magistrates; no physical torture documented; spectral evidence procedure",
+      "initial_response": "Denial throughout; maintained innocence at examination and at execution",
+      "duration": "Multiple examinations and appearances; formal trial before Court of Oyer and Terminer"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "None confessed; maintained complete innocence.",
+    "sabbath_activities": "None confessed.",
+    "maleficium_claimed": "None confessed.",
+    "accomplices_named": [
+      "None; refused to name others."
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Easty's case illustrates the structural coercion of Salem that operated without physical torture: the threat of execution for those who denied, the intensification of accusation upon release, and the court's acceptance of afflicted-person testimony as sufficient basis for conviction. Her re-arrest after brief release demonstrates the mechanism by which the Salem accusatory process made release difficult: the afflicted persons' intensified testimony upon her release effectively made freedom impossible without either confession or death.",
+    "plausibility": "No independent evidence supports any charge against Easty. Her petition's analytical clarity — she understood the structural problem with confession-based accusation and articulated a specific procedural remedy — provides extraordinary evidence of a condemned person's capacity for clear analysis of the process that was killing her. The 1711 exoneration and compensation acts confirm official recognition that her conviction was wrongful.",
+    "social_vulnerability": "Easty's vulnerability followed the pattern Boyer and Nissenbaum identify for her sister Rebecca Nurse: not social marginality but specific community association with the network targeted by the Village accusers. Her established social position was no protection once the accusatory process had reached her family network through her sister Rebecca's prior conviction."
+  },
+
+  "execution_details": {
+    "date": "1692-09-22",
+    "method": "Hanged at Gallows Hill, Salem",
+    "location": "Gallows Hill, Salem Town, Massachusetts",
+    "witnesses": "Court officials, public; seven others executed on the same day",
+    "final_statement": "Maintained innocence; wrote pre-execution petition asking the court to reform its procedures to save subsequent innocents."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and diabolical allegiance",
+    "Spectral appearances tormenting afflicted persons, particularly Mercy Lewis",
+    "Continued tormenting of afflicted persons after brief release from prison"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "Her husband Isaac Easty submitted a petition on her behalf; family support was present but insufficient to prevent execution. Her sister Rebecca Nurse's conviction had exhausted the family's protective resources.",
+    "defense_arguments": "Consistent denial; her pre-execution petition articulated a systematic procedural critique of the court's evidentiary standards."
+  },
+
+  "historiographical_significance": "Mary Easty's pre-execution petition is the most analytically sophisticated document written by any Salem condemned person and has attracted sustained scholarly attention as evidence of how the condemned understood and responded to the process that was killing them. Boyer and Nissenbaum in Salem Possessed (1974) analyze her case within the community-conflict framework that connects her, her sister Rebecca Nurse, and the broader Topsfield network to the Village-Town factional dynamics. Norton's In the Devil's Snare (2002) situates her among the accused whose prosecution reflects the broader conspiracy narrative. Her petition's specific procedural argument — that confessors should be separately examined to test consistency — was both analytically astute and practically prescient: the collapse of the crisis in autumn 1692 was partly triggered by exactly the kind of careful examination of confessor testimony that she called for.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia edition; Mary Easty's pre-execution petition (preserved in SWP); Massachusetts legislature compensation acts (1711); analyzed in Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Rosenthal, Salem Story (1993)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Mary Easty's pre-execution petition (September 1692); Salem Witchcraft Papers",
+  "scholarly_disagreement": "Boyer and Nissenbaum's community-conflict model and Norton's frontier-trauma model both account for Easty's accusation but through different primary mechanisms. The basic factual record of her trial, execution, and the survival of her petition is not contested."
+}

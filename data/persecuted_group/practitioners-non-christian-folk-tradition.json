@@ -1,0 +1,37 @@
+{
+  "id": "practitioners-non-christian-folk-tradition",
+  "name": "Practitioners of Non-Christian or Para-Christian Folk Traditions",
+  "category": "religious_minority",
+  "temporal_scope": "c. 1400–1700",
+  "primary_regions": ["scandinavian-north", "celtic-fringe", "eastern-europe"],
+
+  "group_profile": "In regions where Christian conversion was relatively recent or incomplete, or where indigenous religious traditions had been superficially Christianized rather than displaced, practitioners of pre-Christian or para-Christian ritual traditions faced a specific prosecution vulnerability: their practice was legible through the demonological framework as diabolical engagement, regardless of their own understanding of what they were doing. This category includes the Sámi noaidi practitioners of northern Scandinavia whose drum-based shamanic practice was targeted in the Finnmark trials; the Finnish tietäjä practitioners whose spirit-contact tradition Ginzburg analyzes within the ecstatic-tradition framework; the Swedish practitioners of seiðr magic documented in Old Norse sources; and the Sicilian donas de fuera (ladies from outside) tradition documented in Inquisition records from the late sixteenth century.\n\n  What united these traditions was their practitioners' engagement with non-Christian (or at best superficially Christianized) spirit worlds that the prosecution framework categorized as demonic. Unlike cunning folk who worked within a Christian cosmological framework (using prayers, sacred names, holy water alongside their charms), these practitioners operated in traditions that made no claim to Christian legitimacy. Their prosecution represented the boundary between Christianized popular magic (which could be prosecuted as unauthorized but was culturally legible) and genuinely non-Christian practice (which was categorically alien to the prosecution framework and could only be processed through the demonological lens).",
+
+  "persecution_rationale": "The demonological framework had no category for non-diabolical spirit contact: any spirit that was not a Christian angel or saint was, by definition, a demon. The noaidi's helper spirits, the tietäjä's spirit contacts, the donas de fuera's fairy company were all processed through the prosecution framework as demonic forces, with the practitioner classified as diabolically contracted regardless of their own understanding of what their spirits were. The canon law tradition's treatment of Diana and Herodias as demonic deceptions — documented in the canon Episcopi (c. 900) and referenced throughout the demonological tradition — provided the specific precedent for classifying non-Christian female spirit leaders as diabolical deceptions.",
+
+  "structural_vulnerability": "The structural vulnerability of non-Christian folk tradition practitioners was categorical rather than social: the absence of a Christian legitimating framework for their practice meant that any prosecution framework would interpret their work as diabolically contracted. This vulnerability was independent of their social position, community standing, or the beneficial character of their practice. The Sámi noaidi who healed the sick and the Sicilian donna de fuera who provided community healing were equally vulnerable once the prosecution framework was applied to their practice. Ginzburg's analysis of the ecstatic tradition specifically tracks how this categorical vulnerability operated: the practitioner's description of spirit travel and encounter was systematically transformed by interrogation into the expected sabbath-attendance narrative.",
+
+  "historiographical_significance": "The prosecution of non-Christian folk tradition practitioners is central to Ginzburg's ecstatic tradition thesis in Ecstasies (1991): his argument that the composite witch stereotype overlay a genuine substratum of popular spirit-contact practice depends on identifying cases where the underlying practice is partially visible through the prosecution record's distortions. The Finnish tietäjä tradition, the Sámi noaidi tradition, the Sicilian donas de fuera, and the Hungarian táltos are the non-central-European cases that Ginzburg deploys to support his pan-Eurasian distribution argument. Hutton in The Witch (2017) accepts the evidence for these traditions while questioning whether Ginzburg's comparative framework correctly identifies them as part of a single coherent tradition. Pócs's Between the Living and the Dead (1999) provides the eastern European extension of this analysis, documenting the Hungarian and Balkan cases in detail.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "ecstatic-tradition-night-journey",
+    "followers-of-the-lady-night-ride",
+    "witch-apostasy-heresy-doctrine"
+  ],
+
+  "scholarly_disagreement": "Whether the non-Christian folk traditions Ginzburg documents constitute evidence of a single coherent pan-Eurasian ecstatic tradition (Ginzburg's position), or represent independent convergent developments (the position of scholars skeptical of the comparative reach of his argument), is the central methodological debate. Hutton accepts the individual case evidence while questioning the comparative synthesis.",
+  "source_method": "Finnmark court records; Sicilian Inquisition records; Hungarian court records; Finnish ethnographic documentation; analyzed in Ginzburg, Ecstasies (1991); Pócs, Between the Living and the Dead (1999); Hutton, The Witch (2017); Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "pocs-between-living-dead-1999",
+    "hutton-the-witch-2017",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

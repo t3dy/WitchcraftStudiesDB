@@ -1,0 +1,47 @@
+{
+  "id": "kieckhefer-magic-middle-ages-1989",
+  "title": "Magic in the Middle Ages",
+  "author": "Richard Kieckhefer",
+  "author_slug": "kieckhefer-richard-b1947",
+  "year_published": 1989,
+  "edition_year": 1989,
+  "publisher": "Cambridge University Press",
+  "text_type": "monograph",
+  "pages": 219,
+
+  "subject_focus": "A survey of magical practices and beliefs in medieval Europe (c. 600–1500), distinguishing between common magic, ceremonial magic, and natural magic, and arguing that the witch-prosecution composite stereotype emerged from the fusion of popular maleficium charges with learned demonology's sabbath narrative.",
+
+  "summary": "Magic in the Middle Ages provides the standard scholarly introduction to medieval magical practices and beliefs, covering approximately nine centuries from the early medieval period to the eve of the main witch-prosecution era. Kieckhefer distinguishes three analytically distinct but overlapping traditions: common magic (folk practices shared across social levels, including healing, divination, love magic, and maleficium); ceremonial magic (a learned tradition drawing on Arabic, Jewish, and Neoplatonic sources, practised by educated men and documented in the manuscript tradition of grimoires); and natural magic (the quasi-scientific manipulation of hidden properties in natural substances and celestial influences, associated with university natural philosophy). His central argument about witch prosecution is the 'fusion' thesis: the early modern prosecution composite — the witch who makes a diabolical pact, attends the sabbath, and performs maleficium — emerged from the grafting of learned demonological theory (the pact, the sabbath, the demonic assembly) onto the pre-existing popular tradition of maleficium charges. Neither element alone produced the prosecution wave; the synthesis did.",
+
+  "scholarly_significance": "Magic in the Middle Ages became the standard introduction to medieval magic for scholarly audiences and provided the chronological and typological framework within which early modern witch prosecution is situated by most subsequent scholarship. Kieckhefer's fusion thesis — the most widely cited explanatory account of how the prosecution stereotype emerged — set the terms of debate for subsequent work by Cohn, Ginzburg, Hutton, and others on the origins of the sabbath concept. His distinction between learned ceremonial magic and popular common magic challenged earlier approaches that treated magic as a unified phenomenon and made visible the social stratification of magical practice. The work is also important for establishing the long medieval background to early modern prosecution, countering the tendency to treat the trials as an event of the sixteenth century without roots in earlier belief and practice. Database entries on demonological concepts — particularly those tracing the development of the sabbath, the diabolical pact, and maleficium — draw directly on Kieckhefer's fusion model for the medieval-period sections of their `historical_development` fields.",
+
+  "key_arguments": [
+    {
+      "concept": "Fusion thesis",
+      "claim": "The early modern witch-prosecution composite stereotype emerged not from a single source but from the fusion of popular maleficium charges (harm done by magic) with learned demonological theory (the diabolical pact and the sabbath assembly). Neither tradition alone produced the prosecutorial wave."
+    },
+    {
+      "concept": "Three traditions of medieval magic",
+      "claim": "Medieval magic is not a unified phenomenon but comprises at least three distinct traditions — common magic, ceremonial magic, and natural magic — which had different social locations, different textual traditions, and different relationships to ecclesiastical authority."
+    },
+    {
+      "concept": "Ceremonial magic and the learned tradition",
+      "claim": "Ceremonial magic was a learned, manuscript-based tradition practised primarily by educated men and involving elaborate ritual, demonological theory, and the invocation of spirits; it was categorically different from popular folk magic and had a distinct social history."
+    },
+    {
+      "concept": "Natural magic and natural philosophy",
+      "claim": "Natural magic — the manipulation of hidden natural properties — occupied a disputed boundary between legitimate natural philosophy and illegitimate demonic invocation, a boundary that shaped university debates about magic and that Clark's later work on demonology's integration with natural philosophy extends."
+    }
+  ],
+
+  "relation_to_database": "The fusion thesis informs `demonological_concept` entries tracing the development of the sabbath and the diabolical pact from medieval antecedents. The typology of magical practice (common/ceremonial/natural) frames `demonological_concept` entries on maleficium and folk healing. The medieval background is referenced in `timeline` entries covering the pre-1428 period.",
+
+  "scholarly_disagreement": "The degree to which the fusion model correctly describes stereotype formation is contested. Cohn in Europe's Inner Demons (1975) argued for a more purely learned invention — that the sabbath was essentially created by inquisitorial imagination and learned demonological elaboration, with little genuine popular substratum. Ginzburg argued the reverse: that a genuine popular substratum of ecstatic tradition was transformed by learned prosecution into the sabbath concept. Kieckhefer's fusion model occupies the middle ground and has been widely accepted, but the relative weight of learned versus popular contributions remains disputed.",
+
+  "source_method": "Published text; Cambridge University Press 1989",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

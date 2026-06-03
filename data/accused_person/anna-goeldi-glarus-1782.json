@@ -1,0 +1,78 @@
+{
+  "id": "anna-goeldi-glarus-1782",
+  "name": "Anna Göldi",
+  "status": "Executed",
+  "trial_id": "glarus-witch-trial-1782",
+  "location_id": "valais-vaud",
+  "year_accused": 1782,
+  "year_executed": 1782,
+  "age_at_trial": 48,
+  "social_status": "Domestic servant; employed by physician Johann Jakob Tschudi in Glarus, Canton Glarus, Switzerland; no social standing; single woman without family protection",
+  "gender": "Female",
+
+  "biography": "Anna Göldi was hanged at Glarus in the Canton of Glarus, Switzerland on June 13, 1782, in what is generally considered the last judicially ordered witch execution in Western and Central Europe. She was a domestic servant in the household of Johann Jakob Tschudi, a physician and local councillor, and was accused of bewitching his daughter Anna Maria by allegedly causing her to vomit needles, pins, and hair — the classic evidence of bewitchment through image magic or ingested materials.\n\n  The execution is remarkable for its late date: it occurred ninety years after the Salem executions and a full century after the Bideford executions in England, at a time when Enlightenment skepticism had long since ended judicial witch prosecution in most of Europe. The Swiss confession was technically framed not as 'witchcraft' (which the Glarus authorities recognized as legally and intellectually problematic in 1782) but as 'poisoning' — an expedient legal relabeling that allowed execution to proceed while acknowledging the impossibility of openly prosecuting for witchcraft in the Enlightenment period.\n\n  Göldi's case attracted immediate criticism from Enlightenment commentators, including an anonymous article in the Zurich newspaper the Schlotzer's Briefwechsel that described the execution as a disgrace to the age. The Swiss federal government formally rehabilitated her in 2007 — the canton of Glarus voting to officially recognize the 1782 execution as judicial murder — making her the subject of official postmortem rehabilitation more than two centuries after her death.",
+
+  "arrest_narrative": "Göldi fled the Tschudi household when the accusations began and sought refuge with family in another village, but was arrested and returned to Glarus for examination. The flight was itself treated as evidence of guilt. She was imprisoned, reportedly tortured, and eventually produced a confession to having used 'roots and powers' to harm the Tschudi child. The technical framing of her crime as poisoning rather than witchcraft allowed the Glarus magistrates to proceed to execution while avoiding the explicit witchcraft charge.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1782-01",
+      "method": "Extended imprisonment and reported torture; confession eventually produced describing the use of 'roots and powers' to harm the Tschudi child",
+      "initial_response": "Fled before initial examination; arrested on the road",
+      "duration": "Several months of imprisonment before execution in June 1782"
+    },
+    "torture_sessions": [
+      {
+        "date": "1782",
+        "method": "Reported leg-squeezing torture (the specifics are partially documented); torture had already been officially restricted in much of Europe but was still used in this case",
+        "result": "Confession to harmful use of 'roots and powers'"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "No explicit diabolical compact described; the confession was legally framed as poisoning rather than diabolical witchcraft, reflecting the authorities' need to avoid openly prosecuting for a crime they knew was juridically indefensible in 1782.",
+    "sabbath_activities": "None described; the confession's content was limited to the specific bewitchment of Anna Maria Tschudi.",
+    "maleficium_claimed": "Causing Anna Maria Tschudi to vomit needles, pins, and hair through the use of 'roots and powers'; harming the child through magical-material means.",
+    "accomplices_named": []
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Göldi's confession was almost certainly produced through the coercive pressure of extended imprisonment and reported torture, consistent with Ginzburg's analysis of how confession procedure shaped confessional content. The confession's specific content — roots and powers rather than diabolical compact — reflects the 1782 legal context: the examiners needed a confession that could be prosecuted under available criminal law without explicit witchcraft charges, and the confession was shaped to fit that requirement.",
+    "plausibility": "The physical symptoms attributed to Anna Maria Tschudi — vomiting needles, pins, and hair — are physiologically impossible through normal means and were not independently verified. Levack's comparative analysis notes that this type of accusation (bewitchment through ingested objects causing vomiting of foreign materials) was a standard element of the popular bewitchment-attribution tradition and not unique to the Tschudi case. No independent evidence supports any charge against Göldi.",
+    "social_vulnerability": "Göldi's vulnerability was the classic domestic servant's combination: employed in the accusing household, with no independent social capital, single and without family protection, and dependent entirely on her employer's goodwill. The specific accusation — that she had harmed her employer's child — could not be neutralized by any community defense; her flight made her guilty in the community's eyes before any formal examination. That the prosecution proceeded to execution in 1782 reflects the persistence of popular witch belief in local communities even when elite Enlightenment opinion had abandoned it."
+  },
+
+  "execution_details": {
+    "date": "1782-06-13",
+    "method": "Beheaded with sword (officially 'decapitation' as was customary for certain crimes; some accounts say hanged)",
+    "location": "Glarus, Canton Glarus, Switzerland",
+    "witnesses": "Court officials, public",
+    "final_statement": "No specific final statement preserved; she maintained the limited confession of using roots and powers."
+  },
+
+  "accusations_against_her": [
+    "Causing Anna Maria Tschudi to vomit needles, pins, and hair through the use of magical 'roots and powers'",
+    "Bewitchment and poisoning (the formal legal charge) of the Tschudi child"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "Enlightenment journalists criticized the execution publicly, but this external commentary did not reach the Glarus magistracy in time to prevent execution. The canton of Glarus formally rehabilitated her in 2007.",
+    "defense_arguments": "No effective legal defense; her flight was treated as evidence of guilt; the Glarus magistracy was not accessible to the Enlightenment criticism that appeared in Zurich journals."
+  },
+
+  "historiographical_significance": "Anna Göldi's 1782 execution is the terminal marker of European witch prosecution and is analyzed by Levack and Hutton as evidence of the persistence of popular witch belief in local communities even when elite intellectual opinion had abandoned the prosecution framework. The technical legal relabeling as 'poisoning' rather than 'witchcraft' demonstrates the complex relationship between popular belief and judicial practice at the end of the prosecution era: the Glarus magistracy could not openly prosecute for witchcraft without inviting Enlightenment ridicule, but could not entirely suppress the community's demand for prosecution of an alleged bewitcher. The Switzerland parliament's 2007 formal rehabilitation — passed unanimously — reflects the exceptional cultural significance that Anna Göldi has acquired in Swiss memory as the last witch of Europe. Her case is analyzed in the context of prosecution termination by Behringer and Levack, who note that Enlightenment opinion was not uniformly skeptical in all European communities even at the date of her execution.",
+
+  "source_method": "Glarus cantonal court records (1782); Schlotzer's Briefwechsel (1782) contemporary criticism; analyzed in Levack, The Witch-Hunt in Early Modern Europe; Behringer, Witches and Witch-Hunts (2004); Hutton, The Witch (2017); Switzerland federal rehabilitation debate (2007)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-europe-1987",
+    "behringer-witches-witch-hunts-2004",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Glarus cantonal court records, 1782; formal rehabilitation act, Canton Glarus, 2007",
+  "scholarly_disagreement": "The method of execution (beheading versus hanging) is reported differently in different sources; the Glarus court records are not universally accessible to English-language scholarship. The characterization of the 1782 execution as the 'last witch execution in Europe' requires the qualifier 'judicial' — mob violence against suspected witches continued in some areas into the nineteenth century."
+}

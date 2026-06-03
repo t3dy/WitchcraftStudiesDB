@@ -1,0 +1,51 @@
+{
+  "id": "broedel-malleus-construction-2003",
+  "title": "The Malleus Maleficarum and the Construction of Witchcraft: Theology and Popular Belief",
+  "author": "Hans Peter Broedel",
+  "author_slug": "broedel-hans-peter",
+  "year_published": 2003,
+  "edition_year": 2003,
+  "publisher": "Manchester University Press",
+  "text_type": "monograph",
+  "pages": 224,
+
+  "subject_focus": "A scholarly study of the Malleus Maleficarum as a serious theological and intellectual text, situating Kramer's construction of witchcraft within Dominican scholastic theology and analyzing how the work synthesized learned demonological theory with popular narratives about female malevolence.",
+
+  "summary": "Broedel's work is the most rigorous available scholarly analysis of the Malleus Maleficarum as intellectual document. Rather than treating the Malleus as aberrant, misogynist, or irrational — the standard popular and much of the earlier scholarly reception — Broedel situates it within its Dominican intellectual context and argues that Kramer was engaged in a genuine theological enterprise: constructing a coherent account of witchcraft that would hold within the frameworks of scholastic theology, canon law, and Aristotelian natural philosophy. He demonstrates that Kramer drew systematically on Thomas Aquinas and the Dominican theological tradition, on the tradition of canon law regarding heresy, and on popular narratives about female malevolence that he reinterpreted within a theological frame. The work's notorious gender doctrine — the claim that women's sexual susceptibility made them disproportionately vulnerable to demonic seduction — is analyzed not as simple misogyny but as a theologically structured argument within the Aristotelian framework of female imperfection. Broedel shows both the intellectual coherence and the specific innovations of the Malleus within the demonological tradition.",
+
+  "scholarly_significance": "Broedel's work substantially advances the Clark-influenced project of reading demonological texts as serious intellectual documents, applied specifically to the most important single text in the witch-prosecution tradition. Before Broedel, the Malleus was most often treated either as a founding document of misogyny (the feminist historiographical tradition) or as an eccentric product of Kramer's personal pathologies (historians noting the papal repudiation of Kramer). Broedel's demonstration that the text has a genuine Dominican theological logic — that its arguments about women, demons, and sexuality follow from identifiable intellectual commitments rather than from simple prejudice — is the most significant advance in Malleus scholarship since the text became an object of systematic historical study. His analysis of the gender-specific content is especially important: by demonstrating that Kramer's arguments about female susceptibility draw on Aristotelian and Thomist frameworks, Broedel allows comparison with other demonological texts and shows that the Malleus is more extreme in degree than most, but not categorically different in kind. Database entries for the Malleus Maleficarum as primary source, for Kramer's `demonological_scholar` entry, and for `demonological_concept` entries on the diabolical pact and female susceptibility draw on this analysis.",
+
+  "key_arguments": [
+    {
+      "concept": "Malleus as serious theology",
+      "claim": "The Malleus Maleficarum was a genuine theological construction engaging with real problems in Dominican scholasticism, not an aberrant or irrational text; Kramer's arguments about witchcraft follow from his theological premises and should be analyzed as intellectual history."
+    },
+    {
+      "concept": "Dominican intellectual context",
+      "claim": "Kramer drew systematically on Thomas Aquinas, the Dominican theological tradition, and Aristotelian natural philosophy in constructing his account of witchcraft; the Malleus makes sense within its intellectual context in ways that earlier scholarship missed by treating it as outside the mainstream."
+    },
+    {
+      "concept": "Gender doctrine and Aristotelian framework",
+      "claim": "The Malleus's notorious argument that women are more susceptible to demonic seduction draws on Aristotelian frameworks of female intellectual and moral weakness; it is extreme in degree compared to most demonological texts but not categorically different from the broader tradition of gendered theological anthropology."
+    },
+    {
+      "concept": "Popular narrative incorporation",
+      "claim": "Kramer incorporated popular narratives about female malevolence, sexual transgression, and maleficium into a theological frame that gave them new meaning and new prosecution implications; the Malleus is thus a site of fusion between learned and popular traditions."
+    },
+    {
+      "concept": "Innovation within tradition",
+      "claim": "The Malleus innovated within the demonological tradition primarily in its systematic focus on female witchcraft and its detailed procedural guidance for prosecution; these innovations, not merely its theological content, explain its outsized influence."
+    }
+  ],
+
+  "relation_to_database": "The analysis directly informs the `kramer-malleus-maleficarum-1486` scholarly_text entry and the `demonological_scholar` entry for Kramer. `Demonological_concept` entries on the diabolical pact, female susceptibility, and maleficium draw on Broedel's analysis of how these concepts are constructed in the Malleus. The intellectual-history framing is consistent with the Clark framework used throughout the database.",
+
+  "scholarly_disagreement": "Broedel's argument that the Malleus was intellectually serious within its Dominican context has been widely accepted and represents the current scholarly consensus. Debate continues on two points: whether the Malleus's gender-specific content was unusual relative to the broader demonological tradition (Broedel argues it was more extreme than most; other scholars see it as more representative) and whether Kramer's personal psychology or his institutional context (the conflict with the Innsbruck bishop) shaped the text's specific emphases. Barstow's feminist analysis in Witchcraze (1994) treats the Malleus's misogyny as the defining feature; Broedel does not dispute the misogyny but insists on understanding its theological structure.",
+
+  "source_method": "Published text; Manchester University Press 2003",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

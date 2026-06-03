@@ -1,0 +1,24 @@
+{
+  "id": "ad-extirpanda-torture-authorized-1252",
+  "event_name": "Ad extirpanda authorizes torture in heresy trials",
+  "event_type": "institutional_event",
+  "date": "1252",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Rome",
+  "location_slug": null,
+  "significance": "Pope Innocent IV's bull Ad extirpanda authorized secular authorities to use judicial torture in heresy proceedings, providing the procedural framework that was later adapted wholesale for witch trials, in which confession under torture became the primary evidentiary standard.",
+  "related_entities": [
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "source_method": "Published primary source; analyzed in Ankarloo and Clark, Witchcraft and Magic in Europe: The Middle Ages (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "levack-witch-hunt-early-modern-2006",
+    "cohn-europes-inner-demons-1975"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,75 @@
+{
+  "id": "martha-corey-salem-1692",
+  "name": "Martha Corey",
+  "status": "Executed",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 72,
+  "social_status": "Wife of Giles Corey (pressed to death September 19, 1692); full communicant member of Salem Village church; established farm household; socially integrated community member before accusation",
+  "gender": "Female",
+
+  "biography": "Martha Corey was a full communicant member of Salem Village's church when she was arrested for witchcraft on March 19, 1692 — one of the earliest accusation-cycle targets who held formal church membership, a status that proved to offer no protection. Her husband Giles Corey, notably, was not a church member at the time of their arrests. Martha Corey is the first accused person in the Salem crisis whose active skepticism about the proceedings preceded and may have contributed to her prosecution: she expressed open doubt about the afflicted persons' testimony before her arrest, reportedly advising her husband not to attend the examinations, and the afflicted persons claimed she had appeared spectrally to torment them before she was formally named — the accusation itself apparently triggered by community knowledge of her skeptical statements.\n\n  Corey maintained her innocence through examination, imprisonment, and trial. She was convicted by the Court of Oyer and Terminer and hanged on September 22, 1692, alongside Mary Easty, Samuel Wardwell, Alice Parker, Ann Pudeator, Wilmot Redd, Margaret Scott, and Mary Parker — the largest single execution day in the Salem crisis. She was excommunicated from Salem Village church on the day of her execution, a formal ecclesiastical act that preceded the hanging.\n\n  Boyer and Nissenbaum's community-conflict model in Salem Possessed (1974) identifies Corey's church membership as significant to understanding the accusation: she represented the faction of established church members whose community standing did not insulate them from the expanding prosecutorial circle. Norton, in In the Devil's Snare (2002), situates her accusation within the frontier-conspiracy narrative that shaped the crisis. The drama of her husband Giles Corey's subsequent decision to stand mute and be pressed to death on September 19, 1692 — three days before Martha's execution — has sometimes overshadowed the independent significance of Martha's case, but her own refusal to confess was equally absolute.",
+
+  "arrest_narrative": "Martha Corey came to the authorities' attention through the afflicted persons' testimony, which named her spectrally before any formal accusation had been lodged — testimony they attributed to her power to interfere with the proceedings even before being arrested. Her expressed skepticism about the trials, which had circulated within Salem Village in early March 1692, provided the social context in which the accusation crystallized. She was arrested on March 19, 1692, examined by magistrates Hathorne and Corwin, and held for trial. Boyer and Nissenbaum note that her church membership made her accusation a significant escalation in the crisis, as the prosecutorial circle had moved from socially marginal figures (Tituba, Sarah Good) to a respected communicant.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-03-21",
+      "method": "Public examination before magistrates Hathorne and Corwin; afflicted persons present and performing fits; spectral evidence procedure; no physical torture documented",
+      "initial_response": "Denied all charges throughout; maintained complete innocence at examination",
+      "duration": "Multiple examination sessions; formal trial before Court of Oyer and Terminer in September 1692"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "None confessed; maintained innocence throughout.",
+    "sabbath_activities": "None confessed.",
+    "maleficium_claimed": "None confessed.",
+    "accomplices_named": [
+      "None; refused to name others."
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Corey's case illustrates the Salem accusation mechanism that Ginzburg's framework illuminates as structurally coercive without requiring physical torture: the public examination procedure, in which the afflicted persons performed fits and named the accused as causing them, created a theatrical evidentiary environment in which denial itself appeared as evidence of guilt. Her pre-accusation skepticism was incorporated into the prosecution framework as 'evidence' that she was attempting to obstruct the proceedings — demonstrating how any form of resistance, including verbal skepticism before arrest, could be retrospectively transformed into incriminating behavior.",
+    "plausibility": "No independent evidence supports any charge against Corey. Hutton's analysis of how church membership and social integration failed to protect accused persons is directly applicable: her case demonstrates that the Salem crisis, in its expanded phase, was no longer operating on the social-marginality targeting pattern that characterizes many earlier English prosecutions. Her church membership — which might have been expected to constitute a strong character defense — was countered by the spectral-evidence framework that the court treated as independent of such social standing.",
+    "social_vulnerability": "Corey's vulnerability, as Boyer and Nissenbaum analyze it, did not derive from social marginality but from community factional positioning: her church-member status connected her to the network being targeted in the Village-Town divisions the Salem prosecution reflected. Her expressed skepticism about the proceedings made her a specific threat to the prosecution's evidentiary framework and likely accelerated her accusation. The excommunication on the day of her execution — stripping her of the church membership that had been central to her social identity — represents the community's formal institutional withdrawal of the standing that had failed to protect her."
+  },
+
+  "execution_details": {
+    "date": "1692-09-22",
+    "method": "Hanged at Gallows Hill, Salem",
+    "location": "Gallows Hill, Salem Town, Massachusetts",
+    "witnesses": "Court officials, clergy, and public; seven others executed on the same day",
+    "final_statement": "Maintained innocence. Excommunicated from Salem Village church on the day of her execution before the hanging was carried out."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and diabolical allegiance",
+    "Spectral appearances tormenting the afflicted persons before formal accusation was lodged",
+    "Attempting to interfere with the trial proceedings through skeptical statements"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "Her husband Giles Corey was initially present at her examination; his subsequent own accusation removed him as a potential defender. No surviving formal petition by supporters is documented for Martha Corey.",
+    "defense_arguments": "Consistent denial at examination and trial; invocation of her church membership as evidence of Christian character. No formal written petition survives comparable to Mary Easty's."
+  },
+
+  "historiographical_significance": "Martha Corey's case is central to the scholarly debate about whether Salem prosecutions targeted social outsiders or were capable of consuming established, integrated community members. Boyer and Nissenbaum's community-conflict analysis in Salem Possessed (1974) uses her case to argue that the prosecutorial circle ultimately transcended social-marginality targeting and reflected factional Village-Town dynamics in which church membership was no insulation. Norton's In the Devil's Snare (2002) integrates her accusation into the broader frontier-conspiracy framework. Her case is also significant as evidence that active skepticism about the proceedings constituted a prosecution risk: the mechanism by which her expressed doubts preceded and apparently triggered the spectral accusations against her illustrates how the Salem crisis became self-reinforcing, making criticism of the process itself into evidence of guilt. The excommunication on her execution day — reversed posthumously — documents the institutional depth of her community's formal rejection before rehabilitation.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia edition; examination records for Martha Corey; Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Massachusetts legislature exoneration and compensation acts (1711)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+  "scholarly_disagreement": "Boyer and Nissenbaum's community-conflict model situates Corey's accusation within Village-Town factional dynamics; Norton's frontier-trauma model emphasizes the broader conspiracy narrative's role. Both agree that her church membership failed to protect her; they differ on the primary mechanism that drove the accusation cycle to reach her. The basic factual record of her arrest, trial, excommunication, and execution is not contested.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Salem Witchcraft Papers: examination of Martha Corey, March 21, 1692"
+}

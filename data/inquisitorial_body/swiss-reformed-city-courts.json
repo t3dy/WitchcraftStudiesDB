@@ -1,0 +1,42 @@
+{
+  "id": "swiss-reformed-city-courts",
+  "name": "Swiss Reformed City Courts",
+  "formal_name": "Reformed city councils exercising criminal jurisdiction in the Swiss Confederation — Bern, Basel, Geneva, and associated cantons",
+  "institutional_type": "secular_tribunal",
+  "founded": null,
+  "dissolved": null,
+
+  "jurisdiction_description": "The Reformed city councils of the Swiss Confederation — principally Bern, Basel, Geneva, and Zürich (separately catalogued in this database) — exercised criminal jurisdiction over witchcraft prosecutions within their respective urban territories and subject rural cantons. Unlike the episcopal principalities of the Holy Roman Empire, these city-states had replaced episcopal criminal authority with secular council authority through the Reformation; witchcraft prosecution was accordingly conducted by secular magistrates rather than ecclesiastical courts. The Confederation's fragmented sovereignty meant that each major city controlled its own judicial practice independently, with no Switzerland-wide appellate oversight.\n\n  The relationship between the Swiss Reformed city courts and witch prosecution is complex and not uniform across the Confederation. The major alpine prosecution cluster of the 1420s-1440s predated the Reformation and occurred primarily in episcopal territories (Savoy, Valais) rather than in the subsequently Reformed cities. Post-Reformation prosecution in Bern, Basel, and Geneva was conducted by secular councils that brought their own Reformed theological assumptions to bear, including in some cases greater skepticism about certain demonological claims, though this skepticism was by no means consistent.",
+  "jurisdiction_territories": ["swiss-confederation"],
+
+  "procedural_features": {
+    "torture_policy": "Swiss city council courts permitted torture in capital cases under procedures derived from the Carolina (the Holy Roman Empire's 1532 criminal code), which the Swiss Confederation formally did not adopt but which influenced surrounding practice. The application and regulation of torture varied significantly between cantons: Bern's council records show systematic torture in witchcraft prosecutions; Geneva's Calvin-era prosecutions used torture but Calvin himself expressed skepticism about some demonological claims. The absence of a unified Swiss procedure created significant inter-cantonal variation.",
+    "evidence_standards": "Evidence standards varied by canton but generally followed the Roman-canon law two-witness or confession standard adapted to secular council procedure. The Reformed theological context introduced specific considerations: whether spectral evidence (the devil's ability to impersonate the innocent) was credible was debated by Reformed theologians, and the debate affected evidentiary practice in some jurisdictions.",
+    "confession_policy": "Confession under torture, with formal ratification required before the council, was the standard conviction basis. The cascade denunciation mechanism operated in some Swiss prosecutions — particularly the larger Bernese territorial prosecutions — producing chain-reaction patterns similar to those in episcopal courts, though generally at smaller scale.",
+    "appeal_mechanism": "No unified Swiss appellate court existed for these cases. City councils served as their own courts of final review within their territories. The fragmentation of Swiss sovereignty meant that there was no structural equivalent to the French parlement or the imperial Reichskammergericht available to moderate prosecution from above."
+  },
+
+  "role_in_witch_trials": "The Swiss Reformed city courts collectively represent a significant prosecution context that is often overshadowed in historiography by the more spectacular German episcopal prosecutions. The Reformed city courts prosecuted witchcraft throughout the sixteenth and seventeenth centuries, with the Bernese territorial prosecutions being among the most quantitatively significant in the Swiss context. The Reformed city courts' significance is partly in the contrast they provide: Reformed theology did not systematically produce lower prosecution rates than Catholic episcopal courts, complicating simple confessional explanations of the witch hunt. Monter's regional study documents Reformed city-state prosecution in detail and uses it to undermine both Protestant and Catholic claims to special moderation.",
+
+  "witch_trial_involvement_level": "moderate",
+  "key_trial_events": [
+    "valais-witch-trials-1427-1436"
+  ],
+
+  "historiographical_significance": "E. William Monter's Witchcraft in France and Switzerland (1976) provides the foundational quantitative and institutional analysis of the Reformed Swiss city courts' prosecution record. Monter's comparison between Reformed cantons and Catholic episcopal territories within the Swiss region demonstrates that confession does not reliably predict prosecution intensity: Reformed city courts prosecuted at comparable rates to some Catholic episcopal courts, and Reformed theological skepticism about certain demonological claims did not translate consistently into lower execution rates.\n\n  The Swiss evidence is significant for the broader historiographical debate about confessional determinants of witch prosecution. Clark's analysis in Thinking with Demons (1997) demonstrates that Reformed and Catholic demonological writing shared a common intellectual structure, which Monter's prosecution statistics corroborate: institutional form and oversight structure mattered more than theological confession in determining outcomes.\n\n  The Zurich Reformed city council is documented separately in this database; the current entry covers the broader pattern of Swiss Reformed city-state jurisdiction. Hutton's comparative analysis in The Witch (2017) situates the Swiss evidence within the pan-European demographic and regional pattern.",
+
+  "scholarly_disagreement": "The degree to which Reformed theology produced meaningful skepticism about demonological claims, as opposed to simply varying the institutional context of prosecution, is debated. Some scholars (following Thomas) have argued that Reformed emphasis on providential causation over magical causation reduced belief in the efficacy of witchcraft; others (Monter, Levack) find this distinction does not reliably predict lower prosecution rates in the Swiss evidence.",
+  "source_method": "Bern, Basel, and Geneva council records; Monter, Witchcraft in France and Switzerland (1976); Levack, The Witch-Hunt in Early Modern Europe; Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-2006",
+    "hutton-the-witch-2017",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

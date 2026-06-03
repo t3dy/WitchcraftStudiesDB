@@ -1,0 +1,62 @@
+{
+  "id": "connecticut-witch-trials-1647-1663",
+  "name": "Connecticut Witch Trials, 1647–1663",
+  "location_id": "salem",
+  "start_year": 1647,
+  "end_year": 1663,
+  "duration_months": 192,
+  "approximate_executions": 11,
+  "approximate_accused": 34,
+  "type": "Colonial prosecution",
+
+  "historical_context": "Connecticut Colony conducted the earliest documented witch trials in New England, beginning in 1647 with the hanging of Alse Young at Windsor — the first documented judicial witch execution in the American colonies. Between 1647 and 1663, Connecticut executed approximately eleven persons for witchcraft in multiple separate cases, establishing the prosecution pattern that John Demos analyzes as the structural baseline for New England prosecution before Salem. The Connecticut trials preceded Massachusetts's Puritan witch prosecution by decades and demonstrate that the legal and theological framework for witch prosecution was present in New England before the more famous Salem crisis.",
+
+  "prosecution_mechanism": {
+    "institutional_structure": "Connecticut General Court and New Haven Colony courts; standard colonial criminal procedure; no special court or commission; the same courts that handled other capital crimes",
+    "evidence_standard": "Witness testimony about maleficium; physical marks; confession; standard English witchcraft evidentiary practice without the spectral evidence innovations of 1692",
+    "geographic_spread": "Multiple Connecticut towns including Windsor, Hartford, Wethersfield, New Haven; separate prosecutions driven by local community dynamics rather than coordinated investigation"
+  },
+
+  "notable_accused": [
+    "Alse Young of Windsor (1647) — first documented witch execution in New England",
+    "Mary Johnson of Wethersfield (1648) — confessed to diabolic compact; executed",
+    "John and Joan Carrington of Hartford (1651) — executed together",
+    "Goodwife Bassett of Stratford (1651) — executed",
+    "Goodwife Knapp of Fairfield (1653) — executed",
+    "Goody Ayres (1662) — fled before trial"
+  ],
+
+  "accused_persons": [],
+
+  "resolution": "Individual prosecutions ended without formal institutional termination. The series of prosecutions ended by the early 1660s, with no further Connecticut executions until well after Salem. Demos's analysis does not identify a specific trigger for the end of Connecticut prosecution.",
+
+  "key_scholars": [
+    "John Demos (Entertaining Satan, 1982) — the foundational analysis of pre-Salem New England witch prosecution, documenting Connecticut trials as establishing the regional baseline",
+    "Brian Levack (comparative synthesis) — situates Connecticut within colonial American prosecution pattern"
+  ],
+
+  "demonological_concepts_present": [
+    "maleficium-harm-magic",
+    "bewitchment-illness-attribution",
+    "charity-refusal-accusation-model"
+  ],
+
+  "linked_inquisitorial_bodies": [
+    "general-court-massachusetts"
+  ],
+
+  "historiographical_significance": "The Connecticut trials are central to Demos's argument in Entertaining Satan (1982) that New England witch prosecution was a coherent regional tradition predating Salem by half a century. His analysis of the Connecticut accused demonstrates consistent patterns: most were middle-aged women with histories of community conflict, aggressive behavior, and prior reputation for malevolent magic. The social profile Demos documents for Connecticut is consistent with the Thomas-Macfarlane English pattern and with later Salem accused (modifying for the communal dynamics that Boyer and Nissenbaum identify as Salem-specific). The absence of spectral evidence in the pre-1692 Connecticut trials means that the convictions were based on more standard evidentiary grounds, making the cases in some respects legally cleaner than Salem while still demonstrating the prosecution mechanism in operation.",
+
+  "source_method": "Connecticut Colony court records; New Haven Colony court records; analyzed in Demos, Entertaining Satan (1982); Levack, The Witch-Hunt in Early Modern Europe (1987); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The exact number of Connecticut executions is not fully established from surviving records; Demos's figures are based on partial record survival. The first documented execution (Alse Young, 1647) is sometimes challenged because the records are incomplete.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "gilles-de-rais-trial-1440",
+  "event_name": "Gilles de Rais tried for heresy and demonology",
+  "event_type": "trial_event",
+  "date": "1440",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Nantes, Brittany",
+  "location_slug": null,
+  "significance": "Gilles de Rais, Marshal of France and former companion-in-arms of Joan of Arc, was tried by ecclesiastical and ducal courts on charges of heresy, sodomy, and invocation of demons; the case illustrates the extension of witchcraft-adjacent charges to elite male figures with political vulnerability and the overlap between demonological prosecution and factional power struggles.",
+  "related_entities": [
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "source_method": "Trial records in Georges Bataille, Le Procès de Gilles de Rais (1959); analyzed in Ankarloo and Clark, Witchcraft and Magic in Europe: The Middle Ages (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "cohn-europes-inner-demons-1975",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

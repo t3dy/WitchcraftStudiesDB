@@ -1,0 +1,29 @@
+{
+  "id": "netherlands",
+  "name": "The Netherlands (Dutch Republic)",
+  "modern_country": "Netherlands",
+  "latitude": 52.132,
+  "longitude": 5.291,
+  "location_type": "nation",
+
+  "hover_description": "Dutch Republic, 1590s–1610: ~180 executions. Among Europe's earliest and most decisive endings of prosecution. Last execution 1608; legal prohibition 1610. Skeptical legal culture.",
+
+  "panel_description": "The Dutch Republic occupies a distinctive position in the European witch-prosecution record: it was among the first territories to end prosecution definitively, with the last Dutch judicial execution in 1608 and a formal legal prohibition on witch prosecution in 1610. This early termination, in a territory that had experienced modest but real prosecution in the late sixteenth century, makes the Netherlands a key test case for understanding what institutional and cultural conditions enabled the ending of prosecution.\n\n  Dutch prosecution was concentrated in the northern provinces (Gelderland, Overijssel) and in the period c. 1590-1608, with approximately 180 executions over the full period. The numbers were modest compared to neighboring territories; the Dutch Republic never developed the cascade superhunt dynamics that characterized German territorial prosecution. Several factors contributed to early termination: the development of a relatively skeptical and commercially oriented civic culture in the major urban centers; the influence of humanist legal scholarship (notably the Jan van der Goes case in 1613, in which a witchcraft accusation was prosecuted as defamation against the accuser); and the institutional capacity of the provincial courts to impose evidentiary review.\n\n  The Dutch case is relevant to the debate about what explains prosecution termination. Behringer's Little Ice Age thesis, which correlates prosecution intensity with climatic stress, has limited applicability to a commercially diversified economy like the Dutch Republic where crop failure would not have the same community-level impact as in subsistence-agriculture territories. The Dutch evidence supports instead an explanation based on legal-cultural change and institutional development rather than climatic or economic factors alone.",
+
+  "key_trial_events": [],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "levack-witch-hunt-early-modern-europe-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Dutch provincial court records; analyzed in Levack, The Witch-Hunt in Early Modern Europe; Behringer, Witches and Witch-Hunts (2004); Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

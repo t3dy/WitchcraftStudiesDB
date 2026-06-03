@@ -1,0 +1,48 @@
+{
+  "id": "st-osyth-witch-trials-1582",
+  "name": "St Osyth Witch Trials",
+  "location_id": "essex",
+  "date_range": "1582",
+  "approximate_executions": 2,
+  "approximate_accused": 14,
+  "jurisdiction": "Essex Assizes (Chelmsford); English common law",
+  "legal_framework": "Elizabethan Witchcraft Act (1563)",
+
+  "overview": "The St Osyth witch trials of 1582 were the most intensively documented early English witch prosecution and the foundation of Alan Macfarlane's Essex witch trial analysis. Conducted under Brian Darcy, a local justice of the peace who prepared extensive examination records, the trials accused fourteen residents of St Osyth (and neighboring villages) of witchcraft. At least two persons were executed, and several more were imprisoned.\n\n  The trial is most significant for Ursula Kemp, a local cunning woman who confessed to using familiar spirits — named Tittey, Jack, Pygine, and Tyffin — for both service magic and maleficium, and who named Grace Thurlow and other neighbors as fellow practitioners. Kemp's confession is a paradigm case of the charity-refusal model: she had provided service-magic services to the Thurlow family, including nursing Grace Thurlow's child, and the accusation followed a dispute when her services were no longer wanted. The familiars' names and the detailed confession about their activities provided Macfarlane with primary evidence for his analysis of the English familiar tradition.\n\n  The trial records were published in detail in a pamphlet, A True and Just Recorde (1582), attributed to Brian Darcy, which preserves the examination records in unusual completeness. Thomas Wilby analyzed Kemp's confession in Cunning Folk and Familiar Spirits (2005) as primary evidence for the transmission of familiar spirits within community networks.",
+
+  "historiographical_analysis": "Macfarlane's Witchcraft in Tudor and Stuart England (1970) uses the St Osyth trials as the primary evidence for the charity-refusal model and as a case study in the social dynamics of Essex witch accusation. Thomas's Religion and the Decline of Magic (1971) draws on the trial extensively for the English familiar tradition. Wilby's Cunning Folk and Familiar Spirits (2005) provides the most detailed analysis of Kemp's familiar-transmission testimony. The trial is one of the most analyzed English witch cases precisely because of the detail preserved in the 1582 pamphlet.",
+
+  "accusation_patterns": {
+    "primary_targets": "Women in the community with reputations for magical practice; Ursula Kemp and others from the lower social strata of the village",
+    "geographic_spread": "St Osyth village and neighboring communities; not a cascade prosecution but a simultaneous examination of a pre-existing network of suspected practitioners",
+    "confession_characteristics": "Detailed familiar-spirit confessions; specific named animals; service-magic and maleficium use described; neighbors named as fellow practitioners"
+  },
+
+  "key_accused_persons": [
+    "ursula-kemp-st-osyth-1582"
+  ],
+
+  "related_demonological_concepts": [
+    "animal-familiar-english",
+    "charity-refusal-accusation-model",
+    "maleficium-harmful-magic",
+    "cunning-folk-service-magic"
+  ],
+
+  "primary_sources": "A True and Just Recorde of the Information, Examination, and Confession of All the Witches Taken at St Oses in the Countie of Essex (London, 1582); analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Wilby, Cunning Folk and Familiar Spirits (2005)",
+  "source_method": "A True and Just Recorde (1582); Essex Assize records; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Thomas, Religion and the Decline of Magic (1971); Wilby, Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971",
+    "wilby-cunning-folk-2005",
+    "sharpe-instruments-of-darkness-1996"
+  ],
+
+  "scholarly_disagreement": "Whether Ursula Kemp's detailed familiar confession reflects genuine folk belief about spirits she had internalized, or was constructed through Darcy's leading examination questions, is debated. Wilby's analysis argues for a genuine familiar-spirit tradition underlying the testimony; Macfarlane and Thomas are more agnostic about the relationship between the confession's content and actual practice. The number of executions (2 confirmed; possibly more) is uncertain from the surviving record.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

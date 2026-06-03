@@ -1,0 +1,45 @@
+{
+  "id": "nördlingen-witch-trials-1590-1598",
+  "name": "Nördlingen Witch Trials",
+  "location_id": "bavaria",
+  "date_range": "1590–1598",
+  "approximate_executions": 33,
+  "approximate_accused": 100,
+  "jurisdiction": "Nördlingen City Council (free imperial city in Swabia); secular civic jurisdiction",
+  "legal_framework": "Imperial criminal law (Carolina, 1532); city council jurisdiction",
+
+  "overview": "The Nördlingen witch trials of 1590–1598 are the primary case study in Lyndal Roper's Witch Craze (2004) and among the most intensively analyzed German city witch prosecutions. Nördlingen was a free imperial city in Swabia that experienced a series of prosecutions over approximately eight years, resulting in approximately thirty-three executions and involving approximately one hundred accused persons. Roper's analysis focuses on the specific social and psychological dynamics of these trials rather than their quantitative scale.\n\n  Roper's contribution to the historiography of the Nördlingen trials is methodological: using the detailed trial records preserved in Nördlingen's municipal archive, she reconstructs the psychological terrain of the accusations, arguing that anxieties about maternal malevolence, obstetric danger, and the magical threat to newborns and infants were central to the accusation dynamics. The Nördlingen evidence shows women accusing other women, midwives implicated in infanticide-magic, and confessions that center on harm to vulnerable bodies — infants, nursing mothers, the lying-in bed — rather than on storm-raising or agricultural maleficium.\n\n  The women most prominently accused in Nördlingen were midwives, lying-in maids, and women associated with obstetric care — the social category whose access to vulnerable bodies (newborns, post-partum mothers) made them plausible in Roper's analytical framework as objects of projected maternal anxiety.",
+
+  "historiographical_analysis": "Roper's Witch Craze (2004) devotes extended analysis to Nördlingen, arguing that the prosecution's specific obstetric and maternal focus reflects psychological anxieties about vulnerability, dependency, and death that were specifically triggered by the lying-in period of early modern reproduction. Clark's framework would situate the same confessions within the demonological tradition of maleficium directed at the most vulnerable members of the community. Midelfort's Witch Hunting in Southwestern Germany (1972) provides the regional quantitative context within which Nördlingen's prosecution is situated.",
+
+  "accusation_patterns": {
+    "primary_targets": "Women associated with obstetric care — midwives, lying-in maids, neighbors who attended childbirths; unusually, accusation came primarily from other women (mothers who had lost children) rather than from men",
+    "geographic_spread": "Confined to Nördlingen and immediate surroundings; not a cascade extending to distant communities",
+    "confession_characteristics": "Confessions centered on harm to infants and lying-in mothers; harm to the lying-in bed; application of ointments to newborns; infanticide-magic; sabbath confessions present but secondary to the obstetric maleficium"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "obstetric-maleficium-birth-magic",
+    "maleficium-harmful-magic",
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective"
+  ],
+
+  "primary_sources": "Nördlingen municipal archive (Stadtarchiv Nördlingen); analyzed in Roper, Witch Craze (2004); Midelfort, Witch Hunting in Southwestern Germany (1972)",
+  "source_method": "Stadtarchiv Nördlingen trial records; analyzed in Roper, Witch Craze: Terror and Fantasy in Baroque Germany (2004); Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "roper-witch-craze-2004",
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004"
+  ],
+
+  "scholarly_disagreement": "Roper's psychoanalytic interpretation of the Nördlingen trials — that obstetric maleficium confessions express unconscious anxieties about maternal ambivalence and the vulnerability of new life — has been accepted as analytically productive but questioned as unfalsifiable. Clark's intellectual-history approach would analyze the same confessions as reflecting the demonological tradition's specific focus on attacking life at its most vulnerable; the psychological versus intellectual-history debate maps onto the Roper-Clark methodological tension generally.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

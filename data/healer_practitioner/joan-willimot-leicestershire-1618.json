@@ -1,0 +1,70 @@
+{
+  "id": "joan-willimot-leicestershire-1618",
+  "name": "Joan Willimot",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "england",
+  "year_interrogated": 1618,
+  "age_at_trial": null,
+  "social_status": "Cunning woman and herbalist of Goodby, Leicestershire; described in trial records as a known practitioner of service magic who gave familiar spirits to other practitioners, including Margaret and Philippa Flower (the 'Witches of Belvoir')",
+  "gender": "Female",
+
+  "self_identification": "Cunning woman whose familiar spirits taught her knowledge of plants and healing; she described herself as having received a fairy-like spirit through the mouth from her master William Berry, who told her it would do her good and enable her to help others",
+  "claimed_abilities": [
+    "Herbalism and healing using knowledge from familiar spirits",
+    "Transmission of familiar spirits to other practitioners",
+    "Divination and diagnosis of illness using familiar spirit assistance",
+    "Service magic consultation for neighbors"
+  ],
+
+  "biography": "Joan Willimot of Goodby, Leicestershire was tried in 1618 in connection with the 'Witches of Belvoir' case — the trial of Anne Baker, Joan Flower, Margaret Flower, and others accused of bewitching the sons of Francis Manners, sixth Earl of Rutland, causing their deaths. Willimot's case is distinctive within the English familiar-spirit tradition documented by Sharpe and Hutton for the specific claim she made about receiving her familiar: she described her former master William Berry breathing a fairy spirit into her mouth and commanding her to open it. This transmission mechanism — the familiar spirit breathed from master to practitioner rather than appearing independently — represents one of the documented variants of the familiar-spirit acquisition narrative in English service magic.\n\n  The Belvoir connection demonstrates another characteristic feature of the English service magic network: established practitioners like Willimot were described as transmitting their familiar spirits or their knowledge to other practitioners, creating what Wilby identifies as networks of familiar-spirit transmission in which a named experienced practitioner served as a teacher or supplier to other practitioners or to persons seeking magical assistance. Willimot was said to have given a familiar spirit to one of the Flower women.\n\n  Willimot's trial belongs to the cluster of Leicestershire and Lincolnshire cases of 1618-1619 analyzed by Sharpe in Instruments of Darkness (1996) as evidence for the English service magic network in the Midlands. Her case demonstrates the overlap between cunning-woman service practice and prosecution vulnerability: the same networks through which she provided magical assistance to clients also connected her to persons accused of maleficium.",
+
+  "interrogation_narrative": {
+    "circumstances": "Leicestershire, 1618; examined in connection with the Belvoir witch trial accusations; her testimony about familiar spirits and her connections to the Flower family connected her to the prosecution of the Earl of Rutland's alleged bewitchers",
+    "willimot_initial_claim": "A fairy spirit had been given to her through the mouth by her former master William Berry; this spirit taught her knowledge of plants and enabled her to help those who consulted her",
+    "interrogator_response": "The familiar spirit received through the mouth was treated as a diabolical familiar; her connections to the accused Flower family were used to implicate her in the alleged bewitching of the Earl's sons",
+    "adaptation": "Her testimony about familiar-spirit transmission was given in the framework of her own service-magic understanding; the prosecution framing converted the fairy-spirit transmission into a diabolical compact"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Receipt of a fairy spirit breathed into her by her former master William Berry; use of this spirit for healing and service magic; connections to other practitioners",
+    "under_interrogation_pressure": "The fairy-spirit framework of her practice was converted into a diabolical familiar narrative; her connections to the Flower family provided the specific maleficium charge",
+    "final_confession": "Tried and executed in 1618 in the Belvoir witch proceedings"
+  },
+
+  "microhistorical_significance": "Willimot's case is significant within Wilby's analysis in Cunning Folk and Familiar Spirits (2005) for the documented familiar-spirit transmission mechanism: the spirit breathed from master to practitioner. Wilby identifies this transmission narrative as one of several documented modes by which service magicians acquired their spirit helpers, alongside the spontaneous encounter and the inherited family spirit. The transmission through a human intermediary (Berry) rather than directly from a supernatural source represents a specific social structure of service-magic practice — the apprenticeship or training relationship in which an established practitioner initiated a new one.\n\n  Sharpe's analysis in Instruments of Darkness (1996) situates Willimot within the network of Midlands service magic practitioners whose prosecution he documents as evidence for the connected character of the English cunning-folk community. Hutton in The Witch (2017) discusses the Belvoir cases as part of his broader documentation of familiar-spirit tradition in English prosecution records.",
+
+  "actor_vs_analyst_terminology": {
+    "willimot_language": [
+      "A fairy spirit (received through the mouth from William Berry)",
+      "Knowledge of plants and healing from spirit assistance",
+      "Service magic for neighbors and clients"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical familiar compact",
+      "Conspiracy to bewitch the Earl of Rutland's family"
+    ]
+  },
+
+  "practical_activities": "Herbalism and healing using knowledge from her familiar spirit; divination and diagnosis; consultation service for Leicestershire neighbors. Her network of connections with the Flower women demonstrates the socially embedded character of Midlands service magic practice.",
+
+  "interrogation_outcome": "Tried and executed at Leicester, 1618, as part of the Belvoir witch proceedings.",
+
+  "historiographical_significance": "Willimot's case is cited by Wilby in Cunning Folk and Familiar Spirits (2005) as evidence for the social transmission mechanisms of familiar-spirit practice and the connected networks through which service magic practitioners operated. Sharpe in Instruments of Darkness (1996) situates her within the Midlands prosecution cluster of 1618-1619. Hutton in The Witch (2017) documents her case as part of the English familiar-spirit evidence. The specific detail of the spirit breathed through the mouth is one of the most clearly attested transmission mechanisms in the English record.",
+
+  "scholarly_sources": [
+    "wilby-cunning-folk-2005",
+    "sharpe-instruments-of-darkness-1996",
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+
+  "source_method": "Leicestershire assize records, 1618; trial pamphlet The Wonderful Discoverie of the Witchcrafts of Margaret and Philippa Flower (1619); analyzed in Wilby, Cunning Folk and Familiar Spirits (2005); Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Wilby argues for the experiential reality of the familiar-spirit transmission narrative — that the spirit breathed through the mouth represents a genuine visionary or altered-state experience shaped by available cultural frameworks rather than simple invention for the prosecution audience. Hutton in The Witch (2017) is more cautious about drawing strong conclusions from individual testimony fragments. The exact nature of Willimot's connections to the Flower women and the evidential basis for her conviction are not fully reconstructible from surviving records.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

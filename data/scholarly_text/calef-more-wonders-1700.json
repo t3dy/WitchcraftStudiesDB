@@ -1,0 +1,42 @@
+{
+  "id": "calef-more-wonders-1700",
+  "title": "More Wonders of the Invisible World, or The Wonders of the Invisible World Display'd in Five Parts",
+  "author": "Robert Calef",
+  "author_slug": "calef-robert-b1648",
+  "year_published": 1700,
+  "original_year": 1700,
+  "publisher": "Nath. Hillar and Joseph Collier, London (published in London because Boston authorities prevented local publication; burned in Harvard College yard by order of Increase Mather)",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "A systematic lay critique of the Salem witch trials and of Cotton Mather's role in them, assembling trial documents, correspondence, and narratives to attack the prosecution's evidential basis and clerical defenders.",
+
+  "summary": "Robert Calef's More Wonders of the Invisible World (1700) is the most important early lay critique of the Salem witch trials and the primary anti-Mather document in the Salem literature. Written by a Boston cloth merchant who had attended some of the Salem hearings and who had conducted a running correspondence with Cotton Mather about the 1693 case of Margaret Rule (a Boston woman Mather believed afflicted), the work assembled primary documents — trial records, letters, accounts of the Rule case — alongside Calef's own commentary to argue that the prosecution had been driven by credulous clergy, unreliable spectral evidence, and judicial error. The title directly parodies Cotton Mather's Wonders of the Invisible World (1692). The book's London publication was necessitated by the Mather family's opposition, and it was publicly burned in the Harvard College yard by order of Increase Mather. Despite (or because of) this opposition, it became the most influential early document for those who sought to condemn the Salem prosecution as a miscarriage of justice.",
+
+  "scholarly_significance": "Boyer and Nissenbaum in Salem Possessed (1974) analyze More Wonders within the context of the post-Salem social renegotiation of clerical authority in Boston, arguing that the Mather-Calef controversy was a proxy for broader class and political tensions between the Puritan ministerial establishment and the emerging merchant class. Norton in In the Devil's Snare (2002) notes that Calef's polemical presentation distorted some documents and that his anti-Mather narrative, while influential, requires critical scrutiny as a primary source rather than reliable historiography. Demos in Entertaining Satan (1982) uses More Wonders as part of the New England primary source base while acknowledging Calef's partiality. The work is both a primary source for Salem events (containing documents not preserved elsewhere) and itself a document in the post-Salem controversy over the prosecution's legitimacy.",
+
+  "key_arguments": [
+    {
+      "concept": "Spectral evidence as legally and theologically unsound",
+      "claim": "Calef argued that spectral evidence — testimony about the accused's apparition tormenting the witness — could not be reliable grounds for capital conviction, since all orthodox demonologists acknowledged that the devil could impersonate the innocent; conviction on such evidence was therefore always potentially unjust."
+    },
+    {
+      "concept": "Mather's behavior in the Margaret Rule case",
+      "claim": "Calef's detailed and polemically charged account of Cotton Mather's handling of the Rule case in 1693 — his physical proximity to the young woman, his recording of her symptoms — was presented as evidence of improper conduct that Mather vigorously denied."
+    },
+    {
+      "concept": "Lay critique of clerical prosecution authority",
+      "claim": "More Wonders represents a challenge to the Puritan clerical establishment's claimed authority to interpret supernatural events; Calef's merchant-class standing and his willingness to publish outside Boston's clerical consensus signaled the limits of that authority in post-Salem Massachusetts."
+    }
+  ],
+
+  "relation_to_database": "More Wonders is the primary anti-prosecution document cited in the calef-robert-b1648 scholar entry. It represents the lay critique of spectral-evidence doctrine documented in the spectral-evidence concept entry. The relationship between More Wonders and Cotton Mather's Wonders of the Invisible World — the same events from prosecution and critic perspectives — is the core primary source controversy for Salem historiography.",
+
+  "scholarly_disagreement": "Boyer and Nissenbaum find the Mather-Calef controversy primarily a social and political conflict rather than a theological one; Calef's merchant-class perspective shaped his critique as much as any principled objection to spectral evidence. Norton argues that Calef's documentary selections were polemically motivated and that his account of some events diverges from other primary sources in ways that require critical evaluation. Whether Calef preserved documents that would otherwise be lost (making More Wonders essential to Salem historiography) or systematically distorted the record he assembled is debated.",
+  "source_method": "Published primary source; London edition Nath. Hillar and Joseph Collier 1700; reprinted in George Lincoln Burr, ed., Narratives of the Witchcraft Cases 1648-1706 (New York 1914)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

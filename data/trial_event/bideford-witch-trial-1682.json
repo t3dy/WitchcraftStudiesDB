@@ -1,0 +1,61 @@
+{
+  "id": "bideford-witch-trial-1682",
+  "name": "The Bideford Witch Trials, 1682",
+  "location_id": "bideford-devon",
+  "start_year": 1682,
+  "end_year": 1682,
+  "duration_months": 8,
+  "approximate_executions": 3,
+  "approximate_accused": 3,
+  "type": "Small prosecution",
+
+  "historical_context": "The Bideford trials of 1682 produced the last judicial witch executions in England: Temperance Lloyd, Susanna Edwards, and Mary Trembles were hanged at Exeter on August 25, 1682, following their conviction at the Devon Assizes on evidence gathered in Bideford. The prosecutions occurred in a period when skepticism about witch prosecution was already widespread in the educated elite — Joseph Glanvill's Saducismus Triumphatus (1681) had just argued for the reality of witchcraft in explicit response to what Glanvill saw as growing rationalist denial — but had not yet fully penetrated the assize court process. The Bideford cases were the last in England in which a judge permitted conviction on the available evidence.",
+
+  "prosecution_mechanism": {
+    "institutional_structure": "Devon Quarter Sessions initiated the investigations; the accused were then bound over to the Devon Assizes where the trial took place before Judge Thomas Raymond. The prosecution record was published by a Bideford clergyman shortly after the executions.",
+    "evidence_standard": "Spectral affliction testimony; physical marks interpreted as witch marks; neighborhood testimony about prior maleficium; confessional elements from Temperance Lloyd",
+    "geographic_spread": "Localized entirely to Bideford and immediate surroundings; no spread or cascade beyond the three accused"
+  },
+
+  "notable_accused": [
+    "Temperance Lloyd — aged approximately 70; the primary accused and the one who confessed; described meetings with a black man interpreted as the devil",
+    "Susanna Edwards — poor widow; accused in association with Lloyd",
+    "Mary Trembles — poor woman; accused in association with Lloyd and Edwards"
+  ],
+
+  "accused_persons": [],
+
+  "resolution": "All three were convicted and executed at Exeter on August 25, 1682. No further witch prosecutions resulted in execution in England thereafter, though accusations and trials continued for several decades. The execution was widely noted as an anachronism by contemporaries, and subsequent English witch trials produced no further convictions resulting in execution.",
+
+  "key_scholars": [
+    "James Sharpe (Instruments of Darkness, 1996) — analysis of the Bideford cases as the terminal point of English execution",
+    "Ronald Hutton (The Witch, 2017) — contextual analysis of the Bideford executions within the trajectory of English prosecution decline",
+    "Ian Bostridge (Witchcraft and Its Transformations, 1997) — analysis of the elite intellectual context in which English prosecution ended"
+  ],
+
+  "demonological_concepts_present": [
+    "bewitchment-illness-attribution",
+    "devil-mark-witch-mark",
+    "animal-familiar-english-witch"
+  ],
+
+  "linked_inquisitorial_bodies": [
+    "english-assize-courts"
+  ],
+
+  "historiographical_significance": "The Bideford executions mark the terminal point of English witch execution and have attracted scholarly attention for what they reveal about the conditions of prosecution's end rather than its beginning. Sharpe's analysis in Instruments of Darkness (1996) notes that the Bideford cases were prosecuted in a period when growing elite skepticism was reducing conviction rates elsewhere; the Devon Assizes proceeded to conviction despite this context. The three accused — all elderly, poor women with reputations for malevolent magical practice — fit the Thomas-Macfarlane profile precisely, suggesting that the underlying community-level accusation dynamic remained intact even as the institutional willingness to convict was collapsing elsewhere. The absence of any subsequent English execution demonstrates that the terminal point was genuine: after 1682, English juries and judges consistently failed to convict even in the presence of community-level witch belief.",
+
+  "source_method": "Bideford prosecution pamphlet (1682); Devon Assize records; analyzed in Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017); Bostridge, Witchcraft and Its Transformations (1997)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether the 1682 executions represent the last English witch executions or whether any subsequent cases resulted in death (through imprisonment or lynching) has been a minor scholarly question; the 1682 hanging is secure as the last judicial execution. The question of whether Jane Wenham's 1712 conviction (subsequently reprieved) represents a near-miss for a later execution has been discussed.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "sharpe-instruments-of-darkness-1996",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

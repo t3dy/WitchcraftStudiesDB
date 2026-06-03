@@ -1,0 +1,42 @@
+{
+  "id": "accused-men-german-superhunts",
+  "name": "Men Accused in German Mass Prosecutions",
+  "category": "demographic",
+  "temporal_scope": "c. 1590–1640",
+  "primary_regions": ["german-states", "franconia", "swabia"],
+
+  "group_profile": "The German mass prosecutions of the late sixteenth and early seventeenth centuries — Bamberg (1626–1631), Würzburg (1626–1631), Ellwangen (1611–1618), and the Trier trials of the 1580s–90s — produced a distinctive pattern that distinguished them from earlier small-scale prosecution: the denunciation cascade eventually implicated men of high social standing, including some of the very magistrates and officials responsible for conducting the prosecutions. This upward cascade into male elites is documented by Midelfort as a structural feature of mass prosecutions and has been analyzed by Behringer as evidence that once the cascade mechanism was activated, it followed social network logic rather than gender logic.\n\n  The proportion of male accused in German trials increased as prosecutions intensified, reversing the usual demographic pattern. Midelfort's Witch Hunting in Southwestern Germany (1972) quantifies this: early prosecutions within a given hunt were predominantly female, but as cascade dynamics expanded the accusation pool through repeated interrogation, the accused increasingly included men — first marginal men such as the elderly and poor, then men of substance. Johannes Junius, Bürgermeister of Bamberg, was arrested in 1628 after being named in cascading denunciations; his letter to his daughter, written from prison, is among the most detailed surviving firsthand accounts of a witch trial from the accused's perspective. Dietrich Flade, a leading jurist and official of the Trier Electorate, was convicted and executed in 1589 after years of involvement in prosecutions — having allegedly been denounced by persons he had helped condemn. Philip Fuchs, a Bamberg master builder and chandler, was accused in 1628.\n\n  Behringer's comprehensive analysis in Witches and Witch-Hunts (2004) situates the German male accusation pattern within the broader European context: the German superhunts were exceptional in scale, and the implication of male elites was a function of their exceptional intensity rather than a feature of German demonological culture as such.",
+
+  "persecution_rationale": "Demonological theory did not restrict the diabolical compact to women: Continental demonologists including Bodin and Del Rio explicitly held that men could make pacts with the devil and attend the sabbath. In the context of mass prosecutions, the theological framework supporting prosecution explicitly extended to powerful men: if the diabolical conspiracy was real and large-scale, it would naturally recruit persons of influence who could serve the devil's purposes more effectively than social marginals. The prosecution of Dietrich Flade was explicitly framed in terms of this logic: a leading jurist's involvement in witch prosecution could be reinterpreted as evidence of diabolical infiltration of the prosecution apparatus itself, the most frightening implication of the conspiracy theory. Johannes Junius's examination followed standard interrogation procedures developed for female accused, applied without modification to the city's chief magistrate.",
+
+  "structural_vulnerability": "The structural vulnerability of men in German mass prosecutions was primarily a product of cascade dynamics rather than any prior social characteristic. Midelfort's analysis identifies two pathways into prosecution for men: the first pathway implicated men who had already attracted community suspicion through prior disputes or marginal social positions; the second pathway, specific to mass prosecutions, implicated men through cascade denunciation alone — they were named by already-convicted witches under examination, arrested, tortured until they confessed, and then required to name additional accomplices. The second pathway could reach any person within a social network connected to the prosecution, regardless of prior reputation. Behringer's analysis shows that the Bamberg prosecution implicated the Bamberg prince-bishop's own officials and councillors through this mechanism, ultimately threatening the institutional apparatus conducting the prosecution itself. This self-undermining quality of the cascade mechanism is analyzed by Midelfort as one of the primary reasons mass prosecutions ended: the cascade eventually implicated persons whose arrest was institutionally impossible.",
+
+  "historiographical_significance": "The implication of high-status men in German mass prosecutions is central to Midelfort's argument in Witch Hunting in Southwestern Germany that mass prosecutions were structurally distinct from ordinary small-scale prosecutions. The key debate concerns the relationship between gender and prosecution intensity: Midelfort's analysis suggests that gender was a primary filter in small prosecutions but became secondary to cascade network dynamics in mass prosecutions, with the cascade eventually consuming male elites. Behringer's research broadly confirms Midelfort's structural analysis while emphasizing the role of specific institutional and political factors — the prince-bishoprics' combination of secular and ecclesiastical authority, the absence of effective external oversight — in enabling prosecutions to escalate beyond the points where external legal institutions would normally have intervened. The Bamberg and Würzburg cases are thus not simply examples of misogynistic persecution: they represent the expansion of a primarily gender-targeted practice into a general mechanism of social destruction, with implications for how the relationship between gender ideology and witch prosecution is theorized.",
+
+  "exemplary_accused_persons": [
+    "dietrich-flade-trier-1589",
+    "johannes-junius-bamberg-1628",
+    "philip-fuchs-bamberg-1628"
+  ],
+  "related_demonological_concepts": [
+    "denunciation-cascade-mechanism",
+    "torture-confession-dynamic",
+    "witches-sabbath-collective",
+    "crimen-exceptum"
+  ],
+
+  "scholarly_disagreement": "Midelfort (Witch Hunting in Southwestern Germany) argues that gender remained the primary category of suspicion but was overridden by cascade dynamics in mass prosecutions, making male implication a by-product of escalation rather than a feature of prosecution norms. Behringer (Witches and Witch-Hunts) emphasizes the role of specific political and institutional contexts in enabling the cascade to reach male elites, suggesting that the German pattern was not generalizable. Roper (Witch Craze) argues that the psychological dynamics of mass prosecution — not merely institutional logic — produced the expansion into male victims, and that the Nördlingen materials show elite men constructing psychological frameworks that made them vulnerable to accusation in ways that were not purely institutional.",
+  "source_method": "Bamberg episcopal archives; Würzburg trial records; Trier prosecution records; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004); Roper, Witch Craze (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004",
+    "roper-witch-craze-2004",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

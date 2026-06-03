@@ -1,0 +1,99 @@
+{
+  "id": "monter-e-william-b1936",
+  "name": "E. William Monter",
+  "birth_year": 1936,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "History; Early Modern European History; Social History",
+  "primary_institution": "Northwestern University (Professor Emeritus of History)",
+  "specialization": "Franco-Swiss borderlands witch prosecution; Geneva and Jura trials; early modern European heresy and inquisition; comparative European witch prosecution; quantitative historical methods",
+
+  "major_works": [
+    {
+      "title": "Witchcraft in France and Switzerland: The Borderlands during the Reformation",
+      "year": 1976,
+      "publisher": "Cornell University Press",
+      "significance": "First systematic quantitative study of the Franco-Swiss Alpine borderlands prosecution (Geneva, Jura, Franco-Comté); documented the Alpine origin zone hypothesis and the comparative prosecution statistics for the region where the composite witch stereotype first crystallized",
+      "pages": null,
+      "database_entry": "monter-witchcraft-france-switzerland-1976"
+    },
+    {
+      "title": "Ritual, Myth and Magic in Early Modern Europe",
+      "year": 1983,
+      "publisher": "Ohio University Press",
+      "significance": "Broader synthesis of magic and ritual in early modern Europe, extending Monter's comparative approach beyond the Franco-Swiss evidence base",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Frontiers of Heresy: The Spanish Inquisition from the Basque Lands to Sicily",
+      "year": 1990,
+      "publisher": "Cambridge University Press",
+      "significance": "Comparative study of the Spanish Inquisition in peripheral territories, including the Basque Country and Navarre; provides institutional context for the relatively restrained Spanish prosecution pattern",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "FRANCO-SWISS SPECIALIST / QUANTITATIVE SOCIAL HISTORIAN",
+
+  "core_argument": "Monter's central contribution is the systematic quantitative documentation of witch prosecution in the Franco-Swiss borderlands — Geneva, Jura, Franco-Comté, and neighboring territories — the region where the composite witch stereotype first developed in the 1420s-1430s and where the Alpine origin hypothesis locates the beginning of mass prosecution. His Witchcraft in France and Switzerland (1976) provided the first thorough quantitative baseline for this critical region, documenting the number of trials and executions, the gender composition of the accused, the temporal distribution of prosecution, and the institutional and jurisdictional factors that shaped it. His comparative approach situates the Franco-Swiss evidence within the broader European pattern and supports the argument that regional variation was fundamental rather than epiphenomenal. Monter also contributed to the debate about the Spanish Inquisition's role, providing evidence for the restraining effect of the Inquisition on prosecution in the Iberian territories.",
+
+  "methodological_approach": {
+    "primary_materials": "Geneva consistory and criminal records; Jura and Franco-Comté court archives; Parlement of Dole and Besançon records; Spanish Inquisition records",
+    "analysis_target": "Quantitative prosecution statistics for the Franco-Swiss region; the comparative demography of accusation; the institutional factors shaping prosecution intensity in different jurisdictions",
+    "evidence_type": "Archival criminal and ecclesiastical records; systematic quantitative analysis; comparative statistics",
+    "explanatory_level": "Institutional and demographic history: Monter explains prosecution variation through specific institutional, jurisdictional, and demographic variables"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Alpine origin zone documentation",
+      "claim": "The Franco-Swiss Alpine borderlands were the geographic origin zone of the composite witch stereotype and mass prosecution, with the Valais, Geneva, and neighboring territories showing the earliest concentrated prosecution in the 1420s-1430s.",
+      "implication": "The spatial-temporal origin of the composite witch stereotype is traceable to specific Alpine territories, not to a general European development — providing a specific historical genesis for the broader prosecution pattern."
+    },
+    {
+      "concept": "Comparative quantitative baseline",
+      "claim": "Systematic quantitative analysis of Franco-Swiss prosecution records provides the demographic evidence for comparing regional prosecution intensity, gender composition, and temporal patterns across different jurisdictions.",
+      "implication": "Comparison requires data; Monter's quantitative work enables comparison of the Franco-Swiss pattern with Midelfort's German data, Macfarlane's English data, and Levack's European synthesis."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Monter conducted systematic archival research in Geneva, Jura, and Franco-Comté criminal and ecclesiastical records, providing the demographic baseline for the Franco-Swiss region that had been lacking in earlier scholarship."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Midelfort (shared quantitative approach; parallel German Southwest study published same period)",
+      "Levack (comparative synthesis draws heavily on Monter's Franco-Swiss data)",
+      "Kieckhefer (shared attention to Alpine origin hypothesis)"
+    ],
+    "creative_tension_with": [
+      "Ginzburg (Monter's institutional quantitative approach differs from Ginzburg's microhistorical methodology)",
+      "Thomas/Macfarlane (Franco-Swiss prosecution pattern differs substantially from English community-dynamics pattern)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Monter's Witchcraft in France and Switzerland is the primary scholarly source for valais-witch-trials-1427-1436 trial_event entry and provides the quantitative framework for analyzing Franco-Swiss prosecution generally. His work on the Spanish Inquisition's restraining role informs the inquisitorial_body entries for Spanish inquisition.",
+    "analytical_weight": "Monter provides the essential quantitative documentation for the Alpine origin zone and the Franco-Swiss prosecution pattern."
+  },
+
+  "historiographical_significance": "Witchcraft in France and Switzerland (1976) appeared at approximately the same time as Midelfort's German study and Macfarlane's Essex study, and the three together established the quantitative social-historical approach to witch prosecution as a serious academic enterprise. Monter's documentation of the Franco-Swiss borderlands addressed the critical Alpine origin zone that Kieckhefer's Magic in the Middle Ages (1989) would later analyze as the crucible of the composite stereotype. His comparative quantitative work provided data that Levack's European synthesis drew on extensively. The restraining role of the Spanish Inquisition that Monter documents in Frontiers of Heresy (1990) is one of the most important correctives to the popular myth that the Inquisition drove European witch prosecution.",
+
+  "scholarly_disagreement": "Some scholars debate whether the Alpine origin hypothesis is as specific as Monter's documentation implies — whether the composite stereotype crystallized uniquely in the Franco-Swiss borderlands or whether parallel developments occurred simultaneously elsewhere. The role of the Savoyard and Valais trials in the 1420s-1430s as the unique origin point has been questioned by scholars who note that some composite elements appeared earlier in other contexts.",
+
+  "scholarly_sources": [
+    "kieckhefer-magic-middle-ages-1989",
+    "levack-witch-hunt-early-modern-europe-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Primary works: Witchcraft in France and Switzerland (Cornell UP, 1976); Frontiers of Heresy (Cambridge UP, 1990); Geneva, Jura, and Franco-Comté archival records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

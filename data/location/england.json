@@ -1,0 +1,39 @@
+{
+  "id": "england",
+  "name": "England",
+  "modern_country": "United Kingdom (England)",
+  "latitude": 52.355,
+  "longitude": -1.174,
+  "location_type": "nation",
+
+  "hover_description": "England, 1542–1682: ~500 executions. Hanging (not burning). Familiar spirit tradition unique to England. Last executions at Bideford, 1682.",
+
+  "panel_description": "England's witch prosecution pattern differed markedly from Continental Europe in several structural features that historians have used to illuminate what drove prosecution elsewhere. English law required jury conviction, prohibited torture for witchcraft charges, and produced hanging rather than burning — all features that moderated prosecution compared to inquisitorial Continental jurisdictions.\n\n  Macfarlane's Witchcraft in Tudor and Stuart England (1970) established the foundational analysis of English prosecution through systematic quantification of Essex assize records, arguing that the charity-refusal model — in which persons who denied charity to a poor neighbor and subsequently experienced misfortune accused the neighbor of maleficium — was the primary social mechanism. Thomas's Religion and the Decline of Magic (1971) provided the broader cultural context, situating witch prosecution within the transformation of popular religious practice in the Reformation era.\n\n  The English familiar spirit tradition — named animal companions who assisted practitioners in maleficium — is documented with particular richness in English trial records, from the Chelmsford trials of 1566 (Agnes Waterhouse's familiar Sathan) through the Hopkins campaign of 1645-1647. Wilby's Cunning Folk and Familiar Spirits (2005) analyzes this tradition as a distinctively English form of the spirit-contact tradition documented by Ginzburg in Continental contexts.\n\n  Prosecution was heaviest in the Home Circuit counties of Essex, Kent, Sussex, and Hertfordshire. The East Anglian campaign of Matthew Hopkins and John Stearne (1645-1647) produced approximately 100 executions in roughly two years — the closest England came to a Continental-style panic. The last English executions were at Exeter in 1682; the Witchcraft Act was repealed in 1736.",
+
+  "key_trial_events": [
+    "chelmsford-witch-trials-1566",
+    "st-osyth-witch-trials-1582",
+    "warboys-witch-trial-1593",
+    "east-anglia-hopkins-campaign-1645",
+    "bideford-witch-trial-1682"
+  ],
+
+  "key_accused_persons": [
+    "elizabeth-sawyer-edmonton-1621"
+  ],
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971",
+    "sharpe-instruments-of-darkness-1996",
+    "hutton-the-witch-2017",
+    "wilby-cunning-folk-2005"
+  ],
+
+  "source_method": "English assize records; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Thomas, Religion and the Decline of Magic (1971); Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

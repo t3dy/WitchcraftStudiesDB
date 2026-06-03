@@ -1,0 +1,70 @@
+{
+  "id": "pierina-de-bugatis-milan-1390",
+  "name": "Pierina de' Bugatis",
+  "status": "Executed",
+  "trial_id": "milan-lady-oriente-trials-1384-1390",
+  "location_id": "milan",
+  "year_interrogated": 1390,
+  "age_at_trial": 40,
+  "social_status": "Laundrywoman; lower artisan class in Milan; no social standing; neighbor community integrated despite magical practice",
+  "gender": "Female",
+
+  "self_identification": "Follower of Madonna Oriente, a supernatural lady who held nocturnal gatherings at which the followers learned healing knowledge, divination, and the ability to revive the dead animals they had consumed; identified her practice as beneficent and her leader as a healing figure",
+  "claimed_abilities": [
+    "Healing of persons and animals through knowledge received at nocturnal gatherings with Madonna Oriente",
+    "Divination and identification of stolen goods through the same knowledge",
+    "Revival of animals whose bones had been preserved after the nocturnal feasts",
+    "Participation in the nocturnal society of Oriente, described as consisting of a community of followers"
+  ],
+
+  "biography": "Pierina de' Bugatis was a laundrywoman interrogated by the Dominican inquisitor Fra Ruggieri da Casale at Milan in 1390, six years after the first documented Milan trial of this type in which Sibillia of Mantua had confessed to following Madonna Oriente. Pierina's confession, recorded in the inquisitorial register preserved in the Ambrosiana library in Milan and analyzed by Ginzburg in Night Battles (1966) and Ecstasies (1991), is one of the primary documents Ginzburg uses to reconstruct the pre-composite-stereotype layer of popular magical belief in northern Italy.\n\n  Pierina described attending nocturnal gatherings of Madonna Oriente — a supernatural female figure who presided over assemblies at which followers consumed animals, danced, and received healing knowledge. After the feast, the animals' bones were collected and Oriente revived the animals intact. This narrative pattern — the nocturnal society, the revived animals, the supernatural female leader — Ginzburg connects to a deep stratum of European folk belief about the nocturnal journeys of the soul, related to the cult of the dead and to widespread traditions about supernatural female leaders of nocturnal processions (the Lady Oriente, Diana, Herodias, Perchta).\n\n  Pierina was executed following her 1390 interrogation. Her case was preceded by Sibillia of Mantua's trial in 1384, in which similar material appears; together the two Milan cases provide Ginzburg's primary Italian evidence for the pre-diabolical folk-practice layer underlying the composite witch stereotype that was developing elsewhere in the Alps at the same period.",
+
+  "interrogation_narrative": {
+    "circumstances": "Interrogated by Fra Ruggieri da Casale, Dominican inquisitor, at Milan, 1390; torture was a standard element of inquisitorial procedure at this period; inquisitorial register preserved in the Ambrosiana, Milan",
+    "self_identification": "Follower of Madonna Oriente; participant in the nocturnal society of healing and divination; did not describe her practice in diabolical terms — the diabolical reframing was imposed by the inquisitorial questioning",
+    "interrogator_response": "Fra Ruggieri progressively reframed the nocturnal society testimony toward the diabolical interpretation: questioning about the identity of Oriente's followers, about whether they denied Christian faith, about whether Oriente herself was a diabolical figure. Ginzburg traces this reframing as the transformation of folk belief testimony into proto-sabbath confession.",
+    "adaptation": "Pierina's testimony represents an early stage in the process Ginzburg documents in the benandanti cases: the inquisitor's progressive transformation of folk-belief testimony into the categories of heresy and diabolism"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Attendance at the nocturnal gatherings of Madonna Oriente; healing and divination practice through knowledge received from Oriente; revival of consumed animals",
+    "under_interrogation_pressure": "Progressive admission of anti-Christian elements under the inquisitor's reframing: denial of Christian faith at the gatherings, recognition of Oriente as a supernatural figure whose authority conflicted with the Church",
+    "final_confession": "Convicted of heresy and executed, 1390; the precise final confession content is preserved in the Ambrosiana register analyzed by Ginzburg"
+  },
+
+  "microhistorical_significance": "Pierina de' Bugatis's case is Ginzburg's primary Italian evidence for the transition between folk healing practice and inquisitorially imposed heresy charge at the pre-composite-stereotype stage. The Madonna Oriente tradition she describes — nocturnal gatherings, supernatural female leader, revival of consumed animals — predates the developed composite witch stereotype of the Alpine trials of the 1420s-1430s and reveals the popular substratum that later inquisitorial procedure would transform into the diabolical sabbath. The parallel between Pierina's Oriente gatherings and the benandanti's nocturnal assemblies, and between both and the shamanic traditions Ginzburg documents across Eurasia, is the central comparative evidence for his ecstatic tradition thesis.",
+
+  "actor_vs_analyst_terminology": {
+    "pierina_language": [
+      "Madonna Oriente (her supernatural female leader)",
+      "The society of Oriente (the nocturnal assembly)",
+      "Followers who attended the gatherings",
+      "The revival of animals from preserved bones"
+    ],
+    "prosecution_categories": [
+      "Heresy",
+      "Diabolical compact (imposed progressively through inquisitorial reframing)",
+      "Anti-Christian practice"
+    ]
+  },
+
+  "practical_activities": "Pierina's documented practice included healing and divination carried out through knowledge she described as received at the nocturnal gatherings of Oriente. Whether she actually conducted healing practice in her community or whether the healing-knowledge claim was purely a narrative framework for the nocturnal gatherings is not determinable from the surviving record.",
+
+  "interrogation_outcome": "Executed following the 1390 interrogation; death method not specified in Ginzburg's analysis of the Ambrosiana register.",
+
+  "historiographical_significance": "Pierina de' Bugatis's 1390 testimony is one of Ginzburg's primary documents in both Night Battles (1966) and Ecstasies (1991). Her Madonna Oriente confession provides the Italian parallel to the Friulian benandanti material — both involve nocturnal assemblies, a supernatural leader or organizing principle, and a beneficial rather than harmful framework that was progressively reframed through inquisitorial questioning. The revived-animals motif in her testimony connects to a wide range of European folk beliefs about the nocturnal processions of the dead and the ritual consumption and restoration of animals, which Ginzburg traces across multiple European traditions. Her case, alongside Sibillia of Mantua's 1384 case, represents the earliest documented Italian evidence for the type of folk belief underlying the composite witch stereotype.",
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Inquisitorial register, Ambrosiana library, Milan; analyzed in Ginzburg, Night Battles (1966/1983), pp. 40-42 and following; Ginzburg, Ecstasies (1991); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Ginzburg interprets the Oriente testimony as evidence of a genuine popular folk-practice tradition involving ecstatic trance and nocturnal travel; Cohn and his followers read the same testimony primarily as evidence of inquisitorial construction, arguing that the nocturnal-society narrative reflects inquisitorial questions as much as genuine popular belief. The degree to which the testimony reflects Pierina's actual practice versus the inquisitor's reframing is not fully resolvable from the surviving document.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "mather-cotton-b1663",
+  "name": "Cotton Mather",
+  "birth_year": 1663,
+  "death_year": 1728,
+  "birth_place": "Boston, Massachusetts Bay Colony",
+  "academic_discipline": "Puritan Theology; Natural History; Church History",
+  "primary_institution": "Second Church (Old North Church), Boston (1685–1728); Harvard College (Fellow)",
+
+  "major_works": [
+    {
+      "title": "Memorable Providences, Relating to Witchcrafts and Possessions",
+      "year": 1689,
+      "publisher": "Boston",
+      "significance": "A pre-Salem account of the Goodwin children's affliction in Boston, which Mather attributed to the Irish laundress Goody Glover; the account prepared both Salem's accusers and Boston's ministerial and judicial community for the spectral evidence procedure and the afflicted-persons testimony format.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Wonders of the Invisible World",
+      "year": 1693,
+      "publisher": "Boston",
+      "significance": "A defense of the Salem Court of Oyer and Terminer's proceedings written after the executions but defending the court's handling of spectral evidence and the reality of the conspiracy alleged; the primary intellectual justification for Salem prosecution; became the target of Robert Calef's rebuttal.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SALEM PROSECUTION DEFENDER / NEW ENGLAND PURITAN PROVIDENTIALIST",
+
+  "core_argument": "Cotton Mather occupies an unusual position in witch trial historiography: he is a historical actor rather than a modern historian, but his intellectual production — his theological account of Salem — is itself a primary historical object requiring analysis. As the son of Increase Mather and the most prominent minister of his generation in Massachusetts, he was the primary theological interpreter of the Salem crisis for the ministerial community and for posterity.\n\n  Mather's pre-Salem Memorable Providences (1689) established the spectral evidence framework that the Salem court would use in 1692: his account of the Goodwin children's affliction described how the afflicted persons' testimony about spectral apparitions could be used to identify their tormentors. His presence at the execution of George Burroughs — his mounted intervention to prevent the crowd from being swayed by Burroughs's recitation of the Lord's Prayer — is one of the most-analyzed moments in Salem historiography. His Wonders of the Invisible World (1693) defended the court's evidentiary standards as the crisis was collapsing, making him the primary object of Robert Calef's sustained critique.\n\n  Boyer and Nissenbaum analyze Mather's role as that of a minister whose theological framework — New England as a covenanted community under diabolical assault — provided the interpretive lens that made the Salem conspiracy narrative credible to educated observers.",
+
+  "key_contributions": [
+    {
+      "concept": "Providentialist framework for witch prosecution",
+      "claim": "In Mather's framework, the Salem crisis was a providential event — God permitting diabolical assault on the New England covenant community as punishment for religious declension — rather than a judicial matter alone. This theological framing made the prosecution appear not merely legally justified but spiritually urgent.",
+      "implication": "The providentialist framework meant that skepticism about the proceedings was not merely legally doubtful but spiritually dangerous — it aligned the skeptic with the devil's interests against the community's covenantal obligations."
+    },
+    {
+      "concept": "Spectral evidence framework",
+      "claim": "In Memorable Providences (1689), Mather established that the afflicted persons' reports of spectral apparitions were reliable indicators of the identity of witches, despite the theological caveat that the devil might impersonate innocent people. The Salem court's use of spectral evidence followed Mather's pre-established framework.",
+      "implication": "Mather's 1689 account functioned as a precedent and template that the 1692 accusers — including the Parris household — had access to and could follow."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Increase Mather (his father, whose Cases of Conscience expressed more caution about spectral evidence while sharing the providentialist framework)",
+      "Samuel Parris (Parris's household was the epicenter of Salem accusation; he shared the diabolical-conspiracy framework with Cotton Mather)"
+    ],
+    "creative_tension_with": [
+      "Robert Calef (whose More Wonders of the Invisible World (1700) systematically attacked Mather's Salem defense)",
+      "Thomas Brattle and other Salem critics whose letters expressed skepticism while the trials were ongoing"
+    ]
+  },
+
+  "database_engagement": "Cotton Mather appears in the salem-1692-trials trial_event entry and is referenced in the accused_person entries for George Burroughs and other Salem executed persons. His theological framework (diabolical-conspiracy-new-england) is relevant to the spectral-evidence demonological_concept entry. His Wonders of the Invisible World is the primary prosecution-intellectual document for Salem.",
+
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Memorable Providences (1689); Wonders of the Invisible World (1693); analyzed in Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The degree to which Cotton Mather was the primary driver of Salem prosecution versus a participant who was following rather than leading the accusatory dynamic is debated. Boyer and Nissenbaum's community-conflict model gives relatively less weight to individual intellectual actors; Norton's frontier-trauma model gives more weight to Mather's providentialist framework as the interpretive lens that made the crisis cognitively intelligible. The precise causal weight of his Memorable Providences in shaping the 1692 accusers' expectations is uncertain.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

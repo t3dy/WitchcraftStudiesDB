@@ -1,0 +1,41 @@
+{
+  "id": "repeat-accused-chronic-suspects",
+  "name": "Repeat-Accused Individuals with Established Witch Reputations",
+  "category": "demographic",
+  "temporal_scope": "c. 1450–1700",
+  "primary_regions": ["british-isles", "german-states", "france"],
+
+  "group_profile": "A significant proportion of persons eventually prosecuted for witchcraft had accumulated witch reputations over years or decades before formal prosecution occurred. This pattern — documented by Macfarlane for Essex, by Briggs for Lorraine, and by Hutton in his comparative synthesis — challenges any model of witch prosecution as primarily a sudden external imposition and instead reveals the gradual, community-embedded nature of the accusation process. Individuals acquired witch reputations through a consistent set of mechanisms: their presence when misfortune occurred; their practice of service magic (healing and counter-magic) that made their alleged power credible; the cumulative effect of informal accusations and verbal confrontations; and sometimes through family association with previously suspected practitioners.\n\n  The Essex records Macfarlane analyzed show multiple cases where formal prosecution followed a period of informal suspicion spanning ten, fifteen, or even twenty years. The accused individual was often known in the community as a 'witch' long before any formal complaint was made: neighbors avoided crossing them, attributed misfortunes to their malevolence, but did not bring formal complaints until the social conditions (a specific acute grievance, the presence of a sympathetic magistrate, a cluster of misfortunes attributable to the same person) made prosecution viable. Old Demdike's forty-year career as a cunning woman that ended in prosecution exemplifies this pattern at the extended end, though her status was more service-magical than purely reputed harmful.\n\n  This pattern has implications for understanding prosecution triggers: the question is often not why a community accused someone of witchcraft for the first time, but what changed in the conditions that converted long-established informal suspicion into formal legal action.",
+
+  "persecution_rationale": "Communities that tolerated informal witch reputations for years without formal prosecution were not unaware of the implications — they were navigating a practical calculation about the costs and risks of prosecution compared to accommodation. Misfortune could be avoided by placating the suspected witch, by not crossing her in charity refusals, by maintaining careful social relationships. The decision to prosecute represented a breakdown of this accommodation strategy: either the suspected witch's behavior had escalated, the specific misfortune was too severe to accommodate, or a supportive magistrate had arrived who made prosecution viable. From the perspective of the accused, a long-established reputation meant that neighbors had accumulated years of attributed misfortunes waiting to be presented as testimony once formal proceedings began.",
+
+  "structural_vulnerability": "The structural vulnerability of long-suspected individuals was paradoxical: their established reputations made them simultaneously powerful within community relations (neighbors would not cross them) and maximally exposed to prosecution once the accommodation strategy broke down. Macfarlane's Essex analysis demonstrates that the length of informal accusation history was positively correlated with conviction rates — witnesses had years of attributed misfortunes to present, and the cumulative testimony was more credible than any single incident. Briggs's Lorraine work shows that in communities where a witch reputation existed, any new misfortune that could plausibly be attributed to the known suspect would be so attributed regardless of any independent evidence. The reputation itself generated further evidence.",
+
+  "historiographical_significance": "The phenomenon of long-established witch reputations is central to Macfarlane's and Thomas's community-level analysis of English prosecution. Macfarlane's Witchcraft in Tudor and Stuart England (1970) systematically documents the time elapsed between first recorded suspicion and formal prosecution in Essex cases, finding that the median interval was substantial — many cases showed years between initial reputation and formal trial. This finding argues against models of prosecution as sudden external imposition and for models in which prosecution emerged from within community dynamics that had been developing over time. Briggs's Lorraine analysis similarly finds that most accused persons had established dispute histories with neighbors before prosecution, suggesting that formal prosecution represented the culmination of ongoing community conflict rather than a bolt from the blue. Hutton's synthesis accepts this pattern as a consistent feature of prosecution across European jurisdictions.",
+
+  "exemplary_accused_persons": [
+    "old-demdike-lancashire-cunning-woman",
+    "anne-whittle-pendle-1612",
+    "ursula-kemp-st-osyth-1582"
+  ],
+  "related_demonological_concepts": [
+    "bewitchment-illness-attribution",
+    "charity-refusal-accusation-model",
+    "counter-magic-unwitching"
+  ],
+
+  "scholarly_disagreement": null,
+  "source_method": "Essex Assize records; Lorraine trial records; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Briggs, Witches and Neighbours (1996); Thomas, Religion and the Decline of Magic (1971); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "briggs-witches-neighbours-1996",
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

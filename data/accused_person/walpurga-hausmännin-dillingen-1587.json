@@ -1,0 +1,85 @@
+{
+  "id": "walpurga-hausmännin-dillingen-1587",
+  "name": "Walpurga Hausmännin",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "bavaria",
+  "year_accused": 1587,
+  "year_executed": 1587,
+  "age_at_trial": 65,
+  "social_status": "Licensed midwife of Dillingen, Bavaria; widowed; had practiced midwifery for approximately seventeen years under civic license; a professional woman with formal occupational standing",
+  "gender": "Female",
+
+  "biography": "Walpurga Hausmännin was a licensed midwife of Dillingen, Bavaria, who was arrested in 1587, confessed under torture to an extraordinary accumulation of crimes, and was executed on September 20, 1587, in a staged public execution whose detailed record survives as one of the most extensively documented German witch-trial terminations of the sixteenth century. She had practiced as a civic midwife in Dillingen for approximately seventeen years before her arrest, holding a formal professional license that gave her privileged access to birthing households and the vulnerable bodies of women in labor and their newborn children.\n\n  Her confession, as recorded in the executioner's report, covered twenty-two counts including: sexual congress with the devil (whom she described as identifying himself to her as a spirit named 'Federlin'); systematic infanticide and harm to lying-in women committed under cover of her professional attendance; maleficium against named community members; and sabbath attendance. The specificity of the confession — naming particular victims, particular acts, particular circumstances — is characteristic of the German confessional record analyzed by both Roper and Midelfort, and reflects the detailed interrogation procedure that sought to build a comprehensive case from each accused person's testimony.\n\n  Roper's Witch Craze (2004) analyzes Hausmännin's case as one of the primary examples of what she terms the obstetric-maleficium pattern: the midwife accused of attacking the bodies she was professionally trusted to protect, confessing to having committed under cover of her professional attendance precisely the harms against mothers and infants that the community most feared. Roper argues that this pattern reflects the projection onto midwives of the community's anxieties about birth, infant mortality, and the vulnerability of the transitional bodily moment — anxieties that structured the confessional content the interrogators sought and found.",
+
+  "arrest_narrative": "Hausmännin was arrested in Dillingen in 1587; the mechanism of her initial accusation is not preserved in detail in the available scholarly sources, though it occurred in the context of Bavarian witch prosecution that Behringer documents in Witches and Witch-Hunts (2004) as part of the broader wave of German prosecutions in the 1580s and 1590s. As a midwife with professional access to vulnerable households, she represented a particularly feared category of potential malefactor: someone whose legitimate professional role gave her unmonitored access to newborns and laboring women, making the diabolical-midwife accusation pattern immediately credible to communities that already feared infant mortality.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1587",
+      "method": "Interrogation under torture; the executioner's report documenting the torture and execution survives and has been analyzed by Roper; specific torture methods consistent with German contemporaneous practice",
+      "initial_response": "Not documented in available scholarship; the surviving record is the confession and executioner's report rather than an initial denial",
+      "duration": "Extended interrogation producing a detailed twenty-two-count confession"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1587",
+        "method": "Torture methods consistent with documented Bavarian practice of the period; executioner's report documents the execution but the specific torture record is less detailed in available scholarship",
+        "duration": "Multiple sessions producing the twenty-two-count confession",
+        "outcome": "Confession to twenty-two counts including infanticide, maleficium, diabolical congress, and sabbath attendance"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Confessed to sexual congress with a spirit she identified as 'Federlin,' who promised her assistance in exchange for renunciation of her Christian faith. The pact included the specific professional dimension: the devil allegedly directed her to commit harm under cover of her midwifery work.",
+    "sabbath_activities": "Confessed to sabbath attendance; specific content consistent with the German confessional pattern documented by Midelfort and Roper.",
+    "maleficium_claimed": "Confessed to systematic infanticide and harm to lying-in women committed during professional midwifery attendance; harm to additional named community members through other maleficium.",
+    "accomplices_named": [
+      "Multiple Dillingen community members named under torture; specific names not reproduced in the available scholarly sources analyzed for this entry."
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Roper's analysis of Hausmännin's case focuses on the obstetric-maleficium pattern as a structural feature of the confession-production process: the interrogators sought, and through torture obtained, a confession structured around the accused's professional role and the community's specific fears. Ginzburg's framework for how institutional interrogation reshapes testimony to fit expected categories is directly applicable — the twenty-two-count confession reads as a systematic iteration of the confessional template the court sought, mapped onto the specific vulnerabilities of her professional position.",
+    "plausibility": "No independent evidence supports the twenty-two counts against Hausmännin. Roper argues that the confession content reflects the projection of community anxieties about birth and infant mortality onto the professional figure with greatest access to the vulnerable birthing moment — the midwife. The specificity of the confession (named victims, named acts) reflects the detailed interrogation procedure documented by Midelfort for German trials, not the presence of genuine evidence. Infant mortality in early modern Bavaria was high and largely unexplained; Hausmännin's prosecution channeled this ambient anxiety into a specific culpable individual.",
+    "social_vulnerability": "Hausmännin's case challenges simple social-marginality models: as a licensed civic midwife of seventeen years' standing, she was professionally integrated rather than marginal. Roper identifies a specific professional vulnerability: the midwife's unique access to birthing households made her simultaneously trusted and feared, and the diabolical-midwife stereotype documented in demonological literature (including the Malleus Maleficarum's obsession with midwives as particularly dangerous witches) provided an established confessional template. Behringer's broader analysis of German witch prosecution contextualizes her case within the Bavarian prosecution wave of the 1580s."
+  },
+
+  "execution_details": {
+    "date": "1587-09-20",
+    "method": "Public execution following torture; the executioner's report documents the staged procedure, which included mutilation with hot pincers before the terminal act, consistent with the extreme measures applied in German cases understood as particularly aggravated; burned at the stake following preceding punishments",
+    "location": "Dillingen, Bavaria",
+    "witnesses": "Public execution; civic officials; the executioner whose report constitutes the primary surviving document",
+    "final_statement": "Not preserved as a personal statement separate from the confession record; the executioner's report is the primary narrative."
+  },
+
+  "accusations_against_her": [
+    "Systematic infanticide and harm to lying-in women committed under cover of professional midwifery attendance",
+    "Sexual congress with the devil ('Federlin')",
+    "Diabolical compact involving renunciation of Christian faith",
+    "Maleficium against named community members",
+    "Sabbath attendance"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "No documented community defense; her professional integration did not generate advocates once prosecution was under way.",
+    "defense_arguments": "None documented in available scholarship; the surviving record is the confession and executioner's report."
+  },
+
+  "historiographical_significance": "Walpurga Hausmännin's case is one of Roper's central examples in Witch Craze (2004) for the obstetric-maleficium pattern — the prosecution of midwives as the diabolical inverse of their legitimate professional function. Roper's analysis situates the case within her broader argument about the psychosexual dimensions of German witch prosecution and the role of bodily anxiety, particularly around birth and infant death, in structuring both the accusations brought and the confessions extracted. Midelfort's Witch Hunting in Southwestern Germany (1972) provides the regional and statistical context. The executioner's report is an unusually detailed surviving document of the prosecution's terminal procedure and has been used as evidence for the staging of public executions in German witch cases as rituals of communal purification. Behringer's comparative framework in Witches and Witch-Hunts (2004) situates her case within the broader pattern of Bavarian prosecutions. Demonological theory took midwives' access to unbaptized infants as a specific theological danger — the claim appears in the Malleus Maleficarum — and Hausmännin's confession maps directly onto this established scholarly template, illustrating Clark's argument that demonological theory and trial procedure were in continuous productive dialogue.",
+
+  "source_method": "Executioner's report of Walpurga Hausmännin's torture and execution, Dillingen, September 20, 1587 (translated and analyzed in Roper, Witch Craze 2004); Roper, Witch Craze (2004); Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "roper-witch-craze-2004",
+    "behringer-witches-witch-hunts-2004",
+    "midelfort-witch-hunting-1972"
+  ],
+  "scholarly_disagreement": "Roper's psychoanalytic interpretation of the obstetric-maleficium pattern — emphasizing the role of communal fantasy about birth and infant mortality in structuring the confessional content — is influential but not universally adopted; social historians who prefer structural or institutional accounts of confession dynamics note that the interrogation procedure itself is sufficient to explain the confessional content without invoking psychoanalytic frameworks. Behringer and Midelfort provide complementary institutional and regional analyses. The basic facts of Hausmännin's arrest, confession, and execution are not contested.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Executioner's report of the torture and execution of Walpurga Hausmännin, Dillingen, September 20, 1587; translated and analyzed in Roper, Witch Craze (2004)"
+}

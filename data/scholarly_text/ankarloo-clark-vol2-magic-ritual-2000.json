@@ -1,0 +1,47 @@
+{
+  "id": "ankarloo-clark-vol2-magic-ritual-2000",
+  "title": "Witchcraft and Magic in Europe: Volume 2 — Ancient Greece and Rome",
+  "author": "Bengt Ankarloo and Stuart Clark (eds.)",
+  "author_slug": null,
+  "year_published": 1999,
+  "edition_year": 1999,
+  "publisher": "University of Pennsylvania Press",
+  "text_type": "edited_volume",
+  "pages": 302,
+
+  "subject_focus": "The second volume of the six-volume Athlone History of Witchcraft and Magic in Europe series, covering magical practices in ancient Greece and Rome through specialist essays on curse tablets, binding spells, pharmakeia, and Roman legal treatment of maleficium.",
+
+  "summary": "Volume 2 of the Athlone History of Witchcraft and Magic in Europe covers the ancient Greek and Roman world as the chronological and legal foundation for medieval and early modern European witch prosecution. Essays by leading specialists in classical studies and ancient religion examine the full range of ancient magical practice: the Greek tradition of binding spells and curse tablets (katadesmoi, defixiones), the role of pharmakeia (poison and magic as overlapping categories in Greek thought), ancient literary representations of the witch figure (particularly Thessalian witches in Latin poetry), and the legal treatment of harmful magic in Roman law. The volume's importance for the witch-prosecution field rests primarily on its analysis of Roman legal traditions: the lex Cornelia de sicariis et veneficis (81 BCE), which treated harmful magic and poisoning under the same statute, and its interpretive history in late antique and early medieval legal scholarship, established the maleficium concept and its legal treatment that medieval canon law and secular law subsequently inherited. The essays synthesise classical scholarship for an audience primarily interested in the pre-history of early modern prosecution.",
+
+  "scholarly_significance": "The Athlone series (six volumes, Ankarloo and Clark general editors) is the standard scholarly reference for European witch prosecution and magic across the full historical period from antiquity to the end of the main prosecution era; individual volumes provide specialist syntheses not available elsewhere in a single English-language work. Volume 2 is specifically important for establishing the Roman legal precedents for maleficium prosecution that were transmitted to medieval canon law. The Roman legal framework — treating harmful magic as equivalent to poisoning, subjecting it to capital punishment, and defining it as a crime against the community rather than merely against individuals — is the foundational legal tradition within which medieval and early modern prosecution operated. Understanding the Roman maleficium concept in its original context is essential for tracking how it was transformed, extended, and fused with Christian demonology to produce the early modern witch-prosecution composite. Database entries tracing the `historical_development` of `demonological_concept` entries on maleficium and the `timeline` entries for legal precedents draw on this volume. The series as a whole is the reference framework for the database's periodisation and regional organisation.",
+
+  "key_arguments": [
+    {
+      "concept": "Roman maleficium and legal tradition",
+      "claim": "The Roman lex Cornelia de sicariis et veneficis treated harmful magic and poisoning under the same statute, establishing the maleficium concept as a legal category that was transmitted through late antique jurisprudence to medieval canon and secular law."
+    },
+    {
+      "concept": "Defixiones and binding spells",
+      "claim": "The ancient Mediterranean tradition of curse tablets (defixiones/katadesmoi) provides evidence for a continuous popular practice of harmful magic that predates and underlies the learned demonological tradition, and that finds parallels in the maleficium charges that drove early modern prosecution."
+    },
+    {
+      "concept": "Pharmakeia ambiguity",
+      "claim": "The Greek category of pharmakeia — encompassing both poison and magical harm, both healing and harm — illustrates the fundamental ambiguity of magical practice that recurs throughout European history and that shaped how cunning folk and healers could be reconceived as harmful witches."
+    },
+    {
+      "concept": "Literary witch figure",
+      "claim": "Ancient literary representations of the witch (particularly in Horace, Lucan, and Apuleius) established the stock features of the witch figure — night-flight, transformation, malevolent power — that filtered into medieval literary and eventually demonological tradition."
+    }
+  ],
+
+  "relation_to_database": "Provides the ancient background for `demonological_concept` entries tracing the historical development of maleficium, the witch figure, and harmful magic. `Timeline` entries for the pre-medieval period draw on this volume. The Roman legal framework informs entries discussing the legal basis for prosecution.",
+
+  "scholarly_disagreement": "The series represents the state of scholarship at the turn of the millennium (late 1990s to early 2000s); some subsequent discoveries — particularly in papyrology for the ancient period and in the analysis of binding spell corpora — are not incorporated, and the series would benefit from supplementation with more recent scholarship. The selection of what counts as relevant ancient evidence for the pre-history of witch prosecution reflects the series editors' primarily continuity-oriented approach; scholars more sceptical of long-run continuities (Cohn, for the medieval-early modern transition) would select differently.",
+
+  "source_method": "Published text; University of Pennsylvania Press 1999",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

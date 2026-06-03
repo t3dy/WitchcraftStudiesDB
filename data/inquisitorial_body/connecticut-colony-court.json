@@ -1,0 +1,41 @@
+{
+  "id": "connecticut-colony-court",
+  "name": "Connecticut Colony Court",
+  "formal_name": "General Court of the Connecticut Colony and appointed judicial commissions for capital cases",
+  "institutional_type": "secular_tribunal",
+  "founded": "1636",
+  "dissolved": "1665",
+
+  "jurisdiction_description": "The General Court of the Connecticut Colony served as the supreme judicial authority in the Connecticut Colony until the merger of Connecticut Colony and New Haven Colony under the 1662 Charter. For capital cases, including witchcraft prosecutions, the General Court appointed special judicial commissions or exercised jurisdiction directly. The colony's legal framework derived from English common law adapted to Puritan theological understandings of civil authority; witchcraft was a capital offense under English statute (the 1604 Act of James I) and was understood by Connecticut magistrates as a form of covenant with the devil constituting apostasy and a capital spiritual crime.\n\n  Connecticut Colony was the site of the first documented witch execution in North America: Alse Young was hanged at Windsor on May 26, 1647, a date recorded in John Winthrop Jr.'s diary. Between 1647 and 1663 Connecticut conducted approximately eleven witch trials resulting in eleven executions — a per-capita prosecution rate that exceeded the Massachusetts Bay Colony's pre-Salem record. The New Haven Colony (not yet merged with Connecticut) conducted independent prosecutions during the same period. The Connecticut pattern preceded and in several respects anticipated the dynamics later visible at Salem.",
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "English common law prohibited judicial torture for ordinary felonies; witchcraft was prosecuted under English common law procedure in Connecticut. The absence of judicial torture distinguished Connecticut and other English colonial courts from Continental inquisitorial and episcopal courts. Evidence gathering relied on accusation, witness testimony, and confession rather than systematic coercive interrogation.",
+    "evidence_standards": "Connecticut witch prosecutions relied on testimony of witnesses, accused confessions, and in some cases the 'swimming test' (the ordeal of water), though the legal admissibility of the swimming test was uncertain. Spectral evidence — testimony about the accused's apparition visiting and afflicting the witness — was used at Salem in 1692 but was epistemologically contested; its status in the earlier Connecticut prosecutions was less systematically theorized.",
+    "confession_policy": "Confession was accepted as conclusive evidence. Several Connecticut executions rested on confession; others proceeded on witness testimony alone. Without judicial torture, Connecticut confession practice differed structurally from the cascade-torture system of the German episcopal courts: confessions were more likely to be products of community pressure, social dynamics of accusation, and the accused's own genuine beliefs than of physical coercion.",
+    "appeal_mechanism": "The General Court served as both trial court and appellate authority in Connecticut colonial governance; no external English appellate review was available or exercised for these cases. The absence of external oversight from England, combined with the absence of inquisitorial procedure, created a distinctive institutional context in which local community dynamics of accusation operated without the moderating effects of metropolitan review."
+  },
+
+  "role_in_witch_trials": "The Connecticut Colony Court is historically significant as the institutional vehicle for the earliest North American witch prosecutions and for a per-capita prosecution rate that exceeded Massachusetts before 1692. Its trials demonstrate that the Salem outbreak was not an aberration in New England colonial judicial practice but an intensification of a pre-existing pattern. John Demos's Entertaining Satan (1982) provides the most systematic analysis of the Connecticut and broader New England witch trial pattern before Salem, using the Connecticut evidence to develop a social-psychological account of the accusation dynamics. Norton's In the Devil's Snare (2002) situates Salem within a longer New England colonial history that includes the Connecticut prosecutions.",
+
+  "witch_trial_involvement_level": "moderate",
+  "key_trial_events": [
+    "connecticut-witch-trials-1647-1663"
+  ],
+
+  "historiographical_significance": "John Demos's Entertaining Satan (1982) is the foundational scholarly analysis of the Connecticut colonial witch trials and of the New England pre-Salem pattern. Demos's approach combined social history, community-level demographic analysis, and psychoanalytic interpretation to identify the structural conditions — anxiety, social conflict, specific intergenerational dynamics — that produced accusations in the Connecticut context. His work established the social-historical framework against which Boyer and Nissenbaum's community-conflict account of Salem was subsequently developed and tested.\n\n  Richard Godbeer's The Devil's Dominion (1992) situates Connecticut witchcraft prosecutions within the broader religious culture of New England Puritanism, arguing that magical belief was widespread among both accused and accusers and that the prosecutions represented one expression of a wider providentialist worldview. Norton's In the Devil's Snare (2002), while focused on Salem, discusses the Connecticut precedents in establishing the long New England context.\n\n  The Connecticut pattern is comparatively significant because it demonstrates that mass prosecution was not a feature of New England colonial jurisprudence — the Connecticut trials were prosecutions of individuals rather than chain-reaction cascades — and raises the question of what institutional and social conditions distinguished the individuated Connecticut pattern from the cascade pattern at Salem.",
+
+  "scholarly_disagreement": "The precise count of Connecticut executions is uncertain; figures vary between eleven and sixteen depending on how New Haven Colony trials (before the 1665 merger) are counted and on whether documented trials without confirmed execution outcomes are included. Demos and subsequent scholars have worked with the lower bound.",
+  "source_method": "Connecticut colonial records; General Court records; John Winthrop Jr. diary (1647 entry); Demos, Entertaining Satan (1982); Norton, In the Devil's Snare (2002); Godbeer, The Devil's Dominion (1992)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

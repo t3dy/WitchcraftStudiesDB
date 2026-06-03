@@ -1,0 +1,26 @@
+{
+  "id": "warboys-witch-trial-1593",
+  "event_name": "Warboys witch trial executes Samuel family",
+  "event_type": "trial_event",
+  "date": "1593",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Huntingdon, England",
+  "location_slug": "england",
+  "significance": "The Warboys witch trial of 1593 resulted in the execution of John Samuel, Alice Samuel, and their daughter Agnes Samuel for bewitching the five daughters of gentleman Robert Throckmorton; the case attracted considerable attention because the accusers were gentry rather than peasants, prefiguring the social dynamics of elite-sponsored prosecution seen later at Salem.",
+  "related_entities": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "sharpe-instruments-of-darkness-1996",
+    "thomas-religion-decline-magic-1971"
+  ],
+  "source_method": "Contemporary pamphlet The Most Strange and Admirable Discoverie of the Three Witches of Warboys (1593); analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "sharpe-instruments-of-darkness-1996",
+    "thomas-religion-decline-magic-1971"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,99 @@
+{
+  "id": "demos-john-b1937",
+  "name": "John Demos",
+  "birth_year": 1937,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "History; American Social and Cultural History; Psychohistory",
+  "primary_institution": "Yale University (Samuel Knight Professor of American History, Emeritus)",
+  "specialization": "New England colonial social history; Salem and pre-Salem witch prosecution in Massachusetts; psychohistorical analysis of witchcraft belief; family and community in early New England",
+
+  "major_works": [
+    {
+      "title": "Entertaining Satan: Witchcraft and the Culture of Early New England",
+      "year": 1982,
+      "publisher": "Oxford University Press",
+      "significance": "Comprehensive social and psychohistorical analysis of witch prosecution in New England, covering the period before Salem (1630s-1692) as well as Salem; argues for deep-rooted structural anxieties in New England Puritan culture as the driver of prosecution",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "The Enemy Within: 2,000 Years of Witch-Hunting in the Western World",
+      "year": 2008,
+      "publisher": "Viking, New York",
+      "significance": "Broader comparative synthesis of witch prosecution history in Europe and America, situating New England within the long European tradition",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "A Little Commonwealth: Family Life in Plymouth Colony",
+      "year": 1970,
+      "publisher": "Oxford University Press",
+      "significance": "Foundational social history of the Plymouth Colony family using combined archival and psychohistorical methodology; established Demos as a major figure in colonial American social history",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "NEW ENGLAND COLONIAL SPECIALIST / PSYCHOHISTORIAN",
+
+  "core_argument": "Demos's central argument in Entertaining Satan (1982) is that New England witch prosecution before and during the Salem crisis reflected deeply structured psychological and social anxieties within Puritan colonial culture — anxieties about aggression, dependency, envy, and authority that could not be expressed directly within the community's moral framework and were instead projected onto the accused witch as a vessel for culturally unacceptable impulses. Drawing on psychoanalytic concepts (projection, displacement) alongside archival social history, Demos traces the pre-Salem prosecution pattern in New England and argues that the accused witch typically embodied the qualities that accusers feared in themselves: aggressive autonomy, refusal of dependency, challenge to community authority. His synthesis preceded Boyer and Nissenbaum's community-conflict model and Norton's frontier thesis, and both of those subsequent works engaged with and qualified Demos's framework.",
+
+  "methodological_approach": {
+    "primary_materials": "Massachusetts Bay Colony court records; Plymouth Colony records; Connecticut Colony witch trial records; church records; family history documentation",
+    "analysis_target": "The social and psychological profile of New England's accused witches in the pre-Salem period; the patterns of accusation and community dynamics; the psychosocial anxieties expressed in witch belief",
+    "evidence_type": "Archival court records; biographical reconstruction; psychohistorical analysis of cultural patterns",
+    "explanatory_level": "Psychosocial structural analysis: Demos explains prosecution through the intersection of specific psychoanalytic patterns and the specific social structure of Puritan New England"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Pre-Salem New England prosecution pattern",
+      "claim": "Witch prosecution in New England began decades before Salem and followed a consistent pattern: accused were typically middle-aged women with a history of aggressive behavior, difficult community relationships, and association with disrupting community norms; accusers were typically younger women with dependent relationships to the accused.",
+      "implication": "Salem was not an aberration but an intensification of a long-established New England prosecution pattern; understanding Salem requires understanding the pre-1692 baseline."
+    },
+    {
+      "concept": "Projection as accusation mechanism",
+      "claim": "The witch accusation was a mechanism of projection: accusers attributed to the accused witch the aggressive, autonomous, and socially disruptive qualities that Puritan culture forbade in themselves, allowing the community to expel the externalized representation of its own forbidden impulses.",
+      "implication": "The accused witch's social characteristics — aggressive, demanding, difficult — reflect not random targeting but the specific qualities that made a person usable as a projection target for community anxieties."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Demos conducted systematic research in Massachusetts Bay, Plymouth, and Connecticut colonial court records, providing the quantitative baseline for pre-Salem New England prosecution that established it as a coherent pattern rather than a series of isolated incidents."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Boyer and Nissenbaum (shared colonial New England focus; Entertaining Satan precedes Salem Possessed and provides the broader pre-Salem context)",
+      "Norton (shared New England focus; Norton's frontier thesis engages with Demos's framework)"
+    ],
+    "creative_tension_with": [
+      "Ginzburg (psychohistorical approach versus Ginzburg's microhistorical methodology)",
+      "Clark (psychosocial framework versus intellectual-history approach)",
+      "Thomas/Macfarlane (New England-specific focus versus comparative European approach)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Demos's work provides the pre-Salem New England prosecution context that situates the salem-1692-trials within a longer regional pattern; his psychosocial framework provides interpretive context for the accused_person entries on Rebecca Nurse, Tituba, George Burroughs, and others.",
+    "analytical_weight": "Demos provides the social and psychosocial context for understanding New England witch prosecution as a coherent regional tradition rather than an isolated 1692 event."
+  },
+
+  "historiographical_significance": "Entertaining Satan (1982) was the definitive social history of pre-Salem New England witch prosecution and remained the standard reference for the pre-1692 pattern until Norton's In the Devil's Snare (2002) proposed the frontier-trauma framework for Salem specifically. Demos's contribution is twofold: his documentation of the pre-Salem prosecution pattern and his application of psychohistorical methodology to witch prosecution. The psychohistorical methodology has been less influential in subsequent scholarship — the field has generally moved toward more strictly historical and sociological explanatory frameworks — but the empirical documentation of the pre-Salem pattern remains foundational. Boyer and Nissenbaum's Salem Possessed (1974) addressed Salem specifically and preceded Demos's broader synthesis; the two works together established the social-historical approach to New England prosecution.",
+
+  "scholarly_disagreement": "Demos's psychohistorical methodology has been criticized by historians skeptical of applying psychoanalytic concepts to historical actors, who question whether projection and displacement are analytically applicable to seventeenth-century New Englanders whose psychological framework was entirely different from the twentieth-century psychoanalytic model. Norton's frontier thesis provides an alternative explanation for Salem that does not require the psychosocial dynamics Demos emphasizes.",
+
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Primary works: Entertaining Satan (Oxford UP, 1982); Massachusetts Bay, Plymouth, and Connecticut colonial court records; church and town records",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

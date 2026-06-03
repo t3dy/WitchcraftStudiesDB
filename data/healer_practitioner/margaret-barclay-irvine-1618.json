@@ -1,0 +1,67 @@
+{
+  "id": "margaret-barclay-irvine-1618",
+  "name": "Margaret Barclay",
+  "status": "Executed",
+  "trial_id": "irvine-witch-trial-1618",
+  "location_id": "edinburgh",
+  "year_interrogated": 1618,
+  "age_at_trial": 35,
+  "social_status": "Wife of Andrew Tran, a burgess of Irvine, Ayrshire; lower-middling social position; in dispute with her brother-in-law John Dein over a ship voyage",
+  "gender": "Female",
+
+  "self_identification": "Practitioner who had worked maleficium through clay images with the help of a familiar spirit; confessed under examination to having made clay images of the ship and crew of the Margaret of Ayr to cause their drowning",
+  "claimed_abilities": [
+    "Clay image magic to work maleficium against ships and crews",
+    "Working with a familiar spirit (iron bar that entered her body during the examination)",
+    "Causing death through image magic"
+  ],
+
+  "biography": "Margaret Barclay of Irvine in Ayrshire was executed for witchcraft in 1618 following her confession to working maleficium against a ship, the Margaret and Bessie of Ayr, whose crew was drowned during a voyage. She was the wife of a Irvine burgess and had been in a long-running feud with her brother-in-law John Dein, who had sailed on the ill-fated voyage. Her case illustrates the interpersonal-dispute origin of maleficium accusation — the feud with her brother-in-law, and her alleged curses against him, provided the social context within which the ship's loss was attributed to her witchcraft.\n\n  The examination of Margaret Barclay, documented in the Ayrshire records and analyzed by Larner in Enemies of God (1981), is notable for two features. First, the method of confession extraction: she was subjected to the iron bars (a form of pressing or crushing) and confessed to having made clay images of the ship and its crew with the assistance of a spirit. Second, the familiar spirit's physical manifestation during the examination: the examination record describes an 'iron bar' entering her body — an unusual element that Hutton and Larner both note as a distinctive feature of the case.\n\n  She recanted her confession before execution but was executed nonetheless in 1618.",
+
+  "interrogation_narrative": {
+    "circumstances": "Examined before the Ayrshire commission (a standard Scottish local commission granted by the Privy Council); subjected to pressing with iron bars to extract confession; imprisoned at Irvine",
+    "self_identification": "Initially denied; under torture admitted to clay image maleficium against the ship and crew; described making clay images with a companion (Isobell Crawford) and casting them into the sea to cause the ship's drowning",
+    "interrogator_response": "The commission used pressing (iron bars) as the torture method; confession produced; Barclay recanted before execution but this did not prevent her execution",
+    "adaptation": "Her confession, produced under torture, followed the Scottish maleficium template of physical image magic rather than the elaborate sabbath-testimony pattern of the North Berwick trials"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Under pressing, admitted to clay image magic against the ship; named her companion Isobell Crawford; described the clay images of the ship and crew being cast into the sea",
+    "under_interrogation_pressure": "Full confession to maleficium; named Isobell Crawford as co-participant; described the spirit assistance",
+    "final_confession": "Recanted all confessions before execution; executed 1618 at Irvine"
+  },
+
+  "microhistorical_significance": "Margaret Barclay's case illustrates the Scottish commission system's operation in a localized maleficium prosecution outside the mass-prosecution pattern of the 1661-62 hunt. The interpersonal dispute origin (her feud with John Dein), the specific attributable harm (a named ship's drowning), and the physical-image-magic confession pattern are characteristic of the localized Scottish maleficium prosecution rather than the diabolical-sabbath template. Larner's Enemies of God (1981) analyzes her case within the broader Scottish prosecution pattern; Hutton's The Witch (2017) uses her case as an example of the Scottish maleficium tradition.",
+
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "Clay images of the ship and crew (the material of her maleficium)",
+      "The spirit (her supernatural helper)",
+      "The casting into the sea (the ritual act)"
+    ],
+    "prosecution_categories": [
+      "Witchcraft by image magic (the Scottish legal charge)",
+      "Diabolical compact (implied by the spirit assistance)",
+      "Maleficium causing death"
+    ]
+  },
+
+  "practical_activities": "Barclay's documented practice was maleficium through clay image magic rather than the healing and service magic typical of cunning folk. Her case represents the harmful-magic end of the Scottish practitioner spectrum: the accused as malefactor rather than as community healer.",
+
+  "interrogation_outcome": "Executed at Irvine, 1618. Pre-execution recantation did not prevent execution under the Scottish commission system.",
+
+  "historiographical_significance": "Margaret Barclay's case is documented in Larner's Enemies of God (1981) as part of the broader Scottish prosecution record and has been used by Hutton in The Witch (2017) as an example of the Scottish maleficium prosecution pattern outside the mass-trial context. The combination of interpersonal dispute, attributed maritime disaster, and image-magic confession makes her case representative of a Scottish prosecution type that differs from both the English familiar-spirit pattern and the German sabbath-confession pattern. Her pre-execution recantation is also analytically significant: it demonstrates that Scottish convictions proceeded to execution even when the convicted person withdrew their tortured confession.",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Ayrshire commission records (1618); analyzed in Larner, Enemies of God (1981); Hutton, The Witch (2017); Henderson and Goodare (eds.), Scottish Witches and Witch-Hunters (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The 'iron bar' element of the examination record — described as entering her body during the examination — has been variously interpreted as a torture instrument, a hallucination, or a confusion in the record. Its precise meaning in the examination context is not fully resolved.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

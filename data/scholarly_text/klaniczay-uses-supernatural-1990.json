@@ -1,0 +1,47 @@
+{
+  "id": "klaniczay-uses-supernatural-1990",
+  "title": "The Uses of Supernatural Power: The Transformation of Popular Religion in Medieval and Early-Modern Europe",
+  "author": "Gábor Klaniczay",
+  "author_slug": "klaniczay-gabor-b1950",
+  "year_published": 1990,
+  "edition_year": 1990,
+  "publisher": "Princeton University Press",
+  "text_type": "monograph",
+  "pages": 252,
+
+  "subject_focus": "A comparative historical study of supernatural power as cultural resource in medieval and early modern Central Europe, examining the transformation of concepts of sainthood, miracle, and demonic possession through the interaction of elite ecclesiastical and popular religious practice, with special attention to the Hungarian táltos tradition.",
+
+  "summary": "The Uses of Supernatural Power is a comparative study of the ways in which concepts of supernatural power — holy and diabolical, healing and harmful — functioned as cultural resources in medieval and early modern Central European religious life. Klaniczay's essays examine how concepts of sainthood and royal sanctity, miracle and healing, and demonic possession and trance were shaped by the interaction between elite ecclesiastical culture and popular religious practice in Hungary, Bohemia, and the Carpathian Basin more broadly. A central focus is the Hungarian táltos tradition: practitioners who claimed to fight in trance or spirit form against demonic forces for the protection of community and harvest. Klaniczay situates the táltos within the ecstatic-tradition framework developed by Ginzburg, showing how this Central European tradition parallels the Friulian benandanti and the Sicilian donas de fuera while also displaying regional specificities rooted in Hungarian and Transylvanian folk culture. The work combines intellectual history, anthropological theory, and archival research in Hungarian and Central European sources.",
+
+  "scholarly_significance": "Klaniczay's work is essential for the Central European dimension of witch prosecution and is the primary scholarly source for the Hungarian táltos tradition and its relationship to the broader ecstatic-shamanic framework that Ginzburg, Pócs, and Behringer developed from Italian, Sicilian, and Bavarian evidence respectively. The Central European material Klaniczay documents significantly strengthens the case that Ginzburg's ecstatic-tradition thesis describes a genuinely pan-European phenomenon rather than an Italian regional curiosity: the structural parallels between the táltos and the benandanti — both are community defenders fighting in trance for fertility and against witches and demons — are close enough to require a comparative explanation. Klaniczay's framework extends the ecstatic-tradition debate to new evidence while also demonstrating the regional specificities that Hutton emphasises as correctives to over-unified comparative models. The work's analysis of royal sanctity and sainthood in Central Europe also provides context for understanding how supernatural legitimacy was constructed and contested in the political cultures within which witch prosecution occurred. Database entries for Central European trial events, `healer_practitioner` entries for táltos-tradition practitioners, and `demonological_concept` entries on spirit battles and the benandanti parallel draw on this work.",
+
+  "key_arguments": [
+    {
+      "concept": "Táltos tradition",
+      "claim": "The Hungarian táltos — practitioners who fought in trance or animal form against witches and demons for the protection of community and harvest — represents a Central European parallel to Ginzburg's benandanti, providing evidence for the broader ecstatic-tradition thesis."
+    },
+    {
+      "concept": "Supernatural power as cultural resource",
+      "claim": "Supernatural power — including both saintly healing and diabolical harm — was a cultural resource that different social groups deployed for different purposes: ecclesiastical legitimation, community protection, political authority, and resistance to outside control."
+    },
+    {
+      "concept": "Elite-popular interaction",
+      "claim": "Medieval and early modern popular religious practice was not simply derivative of elite ecclesiastical culture: the interaction was genuinely two-directional, with popular practices shaping official religion as well as being shaped by it."
+    },
+    {
+      "concept": "Regional specificities within comparative framework",
+      "claim": "The Central European ecstatic traditions display both the structural features that Ginzburg identifies across European cases and specific regional features rooted in Hungarian, Slovak, and Transylvanian cultural history; the comparative framework and regional specificity are complementary, not opposed."
+    }
+  ],
+
+  "relation_to_database": "Directly informs `healer_practitioner` entries for Central European táltos and related practitioners. `Demonological_concept` entries on spirit battles, the benandanti parallel, and ecstatic traditions draw on the comparative framework. `Trial_event` entries for Hungarian prosecution draw on Klaniczay's archival analysis. The `klaniczay-gabor-b1950` `demonological_scholar` entry uses this work as the primary source.",
+
+  "scholarly_disagreement": "The comparative framework that Klaniczay shares with Ginzburg has been questioned by scholars sceptical of pan-Eurasian ecstatic-tradition claims: Hutton accepts the Central European evidence while questioning whether the 'shamanic' label and the claim of deep historical continuity from Eurasian origins are warranted; the structural parallels might reflect independent convergence rather than historical connection. Pócs's Between the Living and the Dead (1999) provides the most detailed Central European evidence alongside Klaniczay's work, sometimes reaching different conclusions about specific traditions.",
+
+  "source_method": "Published text; Princeton University Press 1990",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

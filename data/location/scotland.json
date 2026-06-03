@@ -1,0 +1,34 @@
+{
+  "id": "scotland",
+  "name": "Scotland",
+  "modern_country": "United Kingdom (Scotland)",
+  "latitude": 56.490,
+  "longitude": -4.202,
+  "location_type": "nation",
+
+  "hover_description": "Scotland, 1563–1727: ~3,837 accused, ~1,500 executed. Scotland's per-capita execution rate was among Europe's highest. James VI personally interrogated accused after the 1590 North Berwick trials.",
+
+  "panel_description": "Scotland was one of the most intensively prosecuted territories in Europe, with approximately 3,837 named accused and an estimated 1,500 executions between the Witchcraft Act of 1563 and the last Scottish execution in 1727. Scotland's per-capita execution rate was substantially higher than England's and comparable to the most intense German prosecution territories.\n\n  Several features distinguished Scottish prosecution from the English pattern. The 1563 Witchcraft Act made witchcraft capital; the Privy Council's commission system devolved prosecution authority to local landowners and magistrates, creating prosecution clusters driven by local initiative with limited central oversight. The North Berwick trials of 1590-91, in which James VI personally participated in the examination of accused persons, established the king's direct engagement with witch prosecution and influenced his Daemonologie (1597). The Great Scottish Hunt of 1661-62, producing approximately 660 executions, was Scotland's most intensive prosecution wave.\n\n  Goodare's Survey of Scottish Witchcraft database (2003), the most comprehensive quantitative record of any European prosecution, documents 3,837 named accused across the full period. Larner's Enemies of God (1981) provided the foundational analysis of Scottish prosecution as a specifically Calvinist phenomenon, arguing that the Presbyterian theological framework — with its intense focus on the covenant relationship between Scotland and God, and the corresponding threat of diabolical conspiracy — drove prosecution more intensively than in other Reformed territories.\n\n  Scotland's fairy-healer tradition, documented by Goodare, Henderson, and Hutton, produced numerous documented cunning folk cases — Elizabeth Dunlop, Alison Pearson, Andrew Man, Bessie Skebister — whose spirit-contact testimonies Wilby analyzes as evidence of the ecstatic tradition in its Scottish form.",
+
+  "key_trial_events": [
+    "north-berwick-1590-trials",
+    "great-scottish-witch-hunt-1661-1662"
+  ],
+
+  "key_accused_persons": [
+    "agnes-sampson-north-berwick-1591",
+    "isobel-gowdie-auldearn-1662"
+  ],
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Survey of Scottish Witchcraft database (Goodare et al., 2003); analyzed in Larner, Enemies of God (1981); Levack, The Witch-Hunt in Early Modern Europe; Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

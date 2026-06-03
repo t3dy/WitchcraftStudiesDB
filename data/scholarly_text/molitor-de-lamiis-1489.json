@@ -1,0 +1,42 @@
+{
+  "id": "molitor-de-lamiis-1489",
+  "title": "De lamiis et pythonicis mulieribus (On Witches and Soothsaying Women)",
+  "author": "Ulrich Molitor",
+  "author_slug": "molitor-ulrich-b1442",
+  "year_published": 1489,
+  "original_year": 1489,
+  "publisher": "Conrad Dinkmut, Ulm (first edition); numerous subsequent illustrated editions through the early sixteenth century",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "A dialogue-form partial skeptic's treatment of witchcraft, addressed to Archduke Sigmund of Austria, affirming the demonic pact while questioning the physical reality of witches' flight and shape-shifting.",
+
+  "summary": "Ulrich Molitor's De lamiis et pythonicis mulieribus (1489) is a Latin witchcraft treatise in dialogue form, addressed to Sigmund, Archduke of Austria, and featuring three speakers — Molitor, Sigmund, and the magistrate Conrad Schatz. Published in the same year as the Malleus Maleficarum, De lamiis represents a partially skeptical counterpoint: Molitor argued that witches could not literally fly through the air or transform into animals, since these claimed activities were demonic illusions rather than physical realities. The Canon Episcopi tradition, which held that night-flight was a dream caused by the devil, undergirds this position. Crucially, Molitor maintained full prosecutorial intent: the demonic pact was real, maleficium was genuinely efficacious through diabolic assistance, and witches deserved death. The partial skepticism was thus compatible with prosecution. De lamiis was one of the first witch-trial texts to include woodcut illustrations depicting witches flying, brewing potions, and consorting with demons; these images entered the wider visual iconography of the witch stereotype through repeated reproduction in subsequent editions.",
+
+  "scholarly_significance": "De lamiis occupies a specific position in the history of early witch-prosecution literature as a representative of the moderate skeptical tradition that acknowledged the canon episcopi position — demonic illusion rather than physical reality for flight and shape-shifting — while fully endorsing prosecution. Clark in Thinking with Demons analyzes this middle position as ultimately compatible with the prosecutorial consensus: what mattered theologically was the demonic pact, and Molitor affirmed its reality completely. The wood-cut illustrations are historically significant independent of the textual argument: they contributed to the visual standardization of the witch stereotype alongside Kramer's textual standardization. Cohn in Europe's Inner Demons situates De lamiis within the early phase of the composite witch stereotype's development. Hutton in The Witch notes the important qualification that Molitor's partially skeptical position did not prevent prosecution — the partial skeptic tradition was absorbed into the prosecutorial mainstream rather than arresting it.",
+
+  "key_arguments": [
+    {
+      "concept": "Demonic illusion of flight",
+      "claim": "Witches cannot literally fly through the air; what they experience is a demonic delusion sent to deceive them into believing they have traveled to the sabbath. This follows the Canon Episcopi tradition and distinguishes Molitor from Kramer's affirmation of physical flight."
+    },
+    {
+      "concept": "Reality of the demonic pact",
+      "claim": "Despite his skepticism about physical flight, Molitor fully affirmed that the demonic pact was real and efficacious: witches genuinely contracted with the devil and performed genuine maleficium through diabolic assistance."
+    },
+    {
+      "concept": "Visual iconography of the witch",
+      "claim": "The woodcut illustrations in De lamiis — showing flight, the sabbath, and demonic encounters — contributed to the visual standardization of the composite witch stereotype across European print culture."
+    }
+  ],
+
+  "relation_to_database": "De lamiis is cited in the composite-witch-stereotype-formation concept entry as an early illustrated source. The canon-episcopi concept entry references Molitor's position as a partial skeptic working within the Canon Episcopi tradition. The molitor-ulrich-b1442 scholar entry covers Molitor's intellectual biography and the reception of this text.",
+
+  "scholarly_disagreement": "Whether Molitor's partial skepticism had any moderating influence on actual prosecutorial practice — as opposed to remaining a theoretical position within demonological discourse — is debated. Clark argues the position was absorbed into the prosecutorial mainstream; Levack accepts it as one strand of a varied early prosecutorial literature. The relationship between De lamiis and the Malleus Maleficarum (both 1489) — whether Molitor knew Kramer's work — is uncertain.",
+  "source_method": "Published primary source; first edition Conrad Dinkmut, Ulm 1489; illustrated editions subsequently published in Reutlingen, Strasbourg, and other German cities through c. 1520",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

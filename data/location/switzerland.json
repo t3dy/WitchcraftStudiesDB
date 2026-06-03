@@ -1,0 +1,34 @@
+{
+  "id": "switzerland",
+  "name": "Swiss Confederation",
+  "modern_country": "Switzerland",
+  "latitude": 46.818,
+  "longitude": 8.228,
+  "location_type": "nation",
+
+  "hover_description": "Switzerland, c. 1427–1782: Among the earliest documented large-scale trials (Valais, 1427). Monter's primary territory. Last European execution here (Anna Goeldi, Glarus, 1782).",
+
+  "panel_description": "The Swiss Confederation has a unique double significance in European witch trial history: it was the site of some of the earliest documented mass witch prosecutions (the Valais trials of 1427-1436, which are among the first to exhibit the composite witch stereotype) and of the last documented judicial execution for witchcraft in Europe (Anna Goeldi, Glarus, 1782).\n\n  Monter's Witchcraft in France and Switzerland (1976) established the foundational quantitative analysis of Swiss prosecution. His Franco-Swiss cross-border study documented that the most intensive Swiss prosecution occurred in the western Francophone territories (Pays de Vaud, Fribourg, Valais) rather than in the German-speaking Reformed cities of the north. This regional variation within the Confederation illustrates the importance of specific legal and religious structures: the Reformed city councils of Zurich and Bern, which exercised civic rather than episcopal jurisdiction, were more procedurally cautious than the mixed episcopal-secular jurisdictions of the western territories.\n\n  The Valais-Vaud cluster of the 1420s-1430s predates the Malleus Maleficarum (1487) and has been central to the historiographical debate about when and where the composite witch stereotype first formed. Cohn and Kieckhefer both analyze the Alpine cases as the critical zone where the transition from heresy prosecution (Waldensians in the Alpine valleys) to witch prosecution occurred, with the sabbath stereotype emerging from the fusion of heresy-conspiracy prosecution with maleficium accusation.\n\n  Anna Goeldi's execution in Glarus in 1782 — officially as a 'poisoner' but understood by contemporaries as a de facto witch execution — marks the chronological terminus of the European prosecution era.",
+
+  "key_trial_events": [
+    "valais-witch-trials-1427-1436"
+  ],
+
+  "key_accused_persons": [
+    "anna-goeldi-glarus-1782"
+  ],
+
+  "scholarly_sources": [
+    "monter-witchcraft-france-switzerland-1976",
+    "cohn-europes-inner-demons-1975",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "Swiss cantonal archives; analyzed in Monter, Witchcraft in France and Switzerland (1976); Cohn, Europe's Inner Demons (1975); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "state-formation-witch-prosecution",
+  "name": "State Formation and Witch Prosecution (Confessionalization Thesis)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Early Modern (c. 1560–1720)",
+  "primary_locale": "Scotland (primary case); extends to German-speaking territories, New England, and other confessional state contexts",
+
+  "scholarly_definition": "The state-formation thesis is the modern analytical framework arguing that witch prosecution was functionally connected to the emergence of the early modern confessional state — specifically, that the disciplining of heterodox religious practice, the enforcement of orthodox communal norms, and the demonstration of sovereign authority over diabolical conspiracy all served the interlocking agendas of confessionalization and state formation. The thesis exists in multiple versions across different national historiographical traditions. Christina Larner's Enemies of God: The Witch-Hunt in Scotland (1981) is the foundational statement for Scotland: she argued that Scottish prosecution was specifically and intensively Calvinist — that Presbyterian covenant theology provided the ideological framework within which witch prosecution appeared as the defense of Scotland's covenanted relationship with God against diabolical assault. On this account, the Scottish witch-hunt was not only a legal or theological phenomenon but a nation-building exercise: the identification and destruction of the devil's agents was simultaneously the affirmation of Scotland's covenanted identity as God's people. Larner's thesis connects to the broader 'confessionalization' model developed by Heinz Schilling and Wolfgang Reinhard for German history, which argues that the post-Reformation formation of distinct confessional churches (Lutheran, Reformed, Catholic) was inseparable from the parallel process of state building, with each confession imposing its own standard of orthopraxy and orthodoxy on subject populations through a range of disciplinary mechanisms — witch prosecution among them.",
+
+  "intellectual_genealogy": {
+    "larner_scotland": "Christina Larner, Enemies of God (1981), provides the most theoretically explicit state-formation argument applied to witch prosecution, connecting Scottish prosecution to the specifically Calvinist covenantal framework and arguing that prosecution served the confessional nation-building project of the Reformation church-state.",
+    "confessionalization_model": "The broader 'confessionalization' thesis (Heinz Schilling, Wolfgang Reinhard, c. 1980s) provided the theoretical framework connecting religious standardization, social disciplining, and state formation in the post-Reformation period, within which witch prosecution can be situated as one disciplinary mechanism.",
+    "midelfort_german_context": "H.C. Erik Midelfort's Witch-Hunting in Southwestern Germany (1972) documented the institutional dimensions of German prosecution — the role of territorial courts, the legal frameworks of the Carolina (1532), and the relationship between political authority and prosecution — providing empirical grounding for the state-formation argument in the German context.",
+    "norton_new_england_application": "Mary Beth Norton's In the Devil's Snare (2002) implicitly applies a state-formation-adjacent analysis to New England by connecting the Salem crisis to the fragility of the Massachusetts Bay Colony's Puritan covenanted polity under frontier assault."
+  },
+
+  "clark_intellectual_analysis": "Clark's analysis of the political theology of witch prosecution is broadly compatible with the state-formation thesis at the level of ideas: Thinking with Demons includes sustained analysis of the political dimensions of demonological thought, showing how witchcraft doctrine was integrated with theories of sovereignty, legitimate authority, and the monarch's obligation to defend his kingdom against diabolical conspiracy. The connection between confessional political theology and witch prosecution that Larner identifies politically, Clark illuminates theologically.",
+
+  "hutton_social_analysis": "Hutton accepts state formation as a contributing factor in Scottish prosecution and acknowledges Larner's analysis as a major contribution, but questions whether the state-formation model applies equally to territories with different political structures — German free cities, English counties under common law, Italian urban republics — where the relationship between civic authority and prosecution followed different institutional patterns. He also notes that some of the most intensive prosecution occurred in politically fragmented regions (southwestern Germany) rather than in areas of strong centralized state formation.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's microhistorical approach tends to see state-formation as the institutional infrastructure within which the popular traditions he recovers were suppressed and transformed. The Friulian Inquisition that interrogated the benandanti was a specific institutional actor within the broader Catholic confessionalization process; understanding its institutional character helps explain why and how it interrogated practitioners in the ways it did.",
+
+  "actor_perspective": {
+    "calvinist_covenant_language": "Scottish prosecution documents employ the language of covenantal theology: witches are described as breaking the nation's covenant with God, as agents of the devil's assault on the elect community, and as threats to Scotland's special relationship with God. This specifically covenantal framing — in which national identity and religious orthodoxy are inseparable — is absent from non-Reformed jurisdictions and distinguishes Scottish prosecution rhetoric.",
+    "official_prosecution_framing": "Secular and ecclesiastical authorities in confessional states framed prosecution as defense of the godly commonwealth against diabolical infiltration — a specifically political-theological formulation that connected individual guilt to collective covenantal standing. The monarch's personal engagement (James VI of Scotland) reflects the specifically political dimension of covenantal prosecution."
+  },
+
+  "geographic_distribution": "Scotland provides the primary documented case (Larner); southwestern and central German territories provide parallel documentation (Midelfort, Behringer); New England provides the Reformed Protestant colonial application (Karlsen, Norton); Calvinist territories in France (some prosecution) and the Dutch Republic (relatively restrained prosecution despite strong confessional apparatus) offer comparative evidence.",
+
+  "historiographical_significance": "The state-formation thesis is one of the major structural explanations for the timing and distribution of European witch prosecution. By connecting prosecution to confessionalization and state formation, it explains why prosecution intensified in the period c. 1560–1650 — precisely the period of most intensive post-Reformation state and church building across Europe — and why it declined as the confessional states consolidated and the mechanisms of orthodoxy enforcement were routinized. The thesis also explains regional variation: the most intensive prosecution occurred in territories where state formation was most contested, most recently achieved, or most dependent on confessional identity maintenance. Its limitations include the difficulty of explaining why witch prosecution, specifically, served state-formation rather than other available disciplinary mechanisms, and the challenge of demonstrating causal connection rather than correlation between state-building and prosecution intensity.",
+
+  "source_method": "Christina Larner, Enemies of God (1981); Stuart Clark, Thinking with Demons (1997/2001); Brian Levack, The Witch-Hunt in Early Modern Europe (2006); H.C. Erik Midelfort, Witch-Hunting in Southwestern Germany (1972); Ronald Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Christina Larner's formulation of the state-formation thesis has been broadly accepted for Scotland but is debated in its application to other territories. Levack accepts state formation as one of several explanatory variables in a multi-causal framework. Hutton questions whether the model applies across the full range of prosecution contexts, noting that some of the most intensive prosecution occurred in politically fragmented regions rather than areas of strong centralized state formation. Behringer's popular pressure thesis complicates the state-formation model by demonstrating that prosecution was often demanded from below rather than imposed from above. The relationship between confessionalization and prosecution is accepted as genuine but historians disagree about whether it was primary, instrumental, or coincidental.",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "levack-witch-hunt-early-modern-2006",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

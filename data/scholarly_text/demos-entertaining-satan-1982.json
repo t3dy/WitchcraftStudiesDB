@@ -1,0 +1,47 @@
+{
+  "id": "demos-entertaining-satan-1982",
+  "title": "Entertaining Satan: Witchcraft and the Culture of Early New England",
+  "author": "John Demos",
+  "author_slug": "demos-john-b1937",
+  "year_published": 1982,
+  "edition_year": 1982,
+  "publisher": "Oxford University Press",
+  "text_type": "monograph",
+  "pages": 543,
+
+  "subject_focus": "A comprehensive study of New England witch prosecution in the century before Salem (c. 1620–1692), combining social history, quantitative analysis, and psychohistorical interpretation to document approximately 93 cases and develop a psychosocial model of accusation.",
+
+  "summary": "Entertaining Satan is the foundational demographic and social-historical study of New England witch prosecution before Salem. Demos documents approximately 93 witch cases in colonial New England between c. 1620 and 1692 and analyzes this corpus using quantitative methods to establish the social profile of accused and accusers — finding that the typical accused was a middle-aged or older woman, frequently at the margins of community life, often involved in prior social conflicts with her accusers. The book's second major dimension is psychohistorical: drawing on psychoanalytic and social-psychological concepts, Demos argues that accusation processes expressed unconscious projections of aggression and anxiety onto community scapegoats. The third dimension is cultural: Demos reconstructs the New England mental world within which witch prosecution was intelligible, including Puritan theology, providentialist cosmology, and the specific tensions of colonial life. The work is essential reading for understanding Salem (1692) as the culmination of a century-long prosecution pattern rather than as an isolated episode.",
+
+  "scholarly_significance": "Entertaining Satan established the baseline demographic and sociological profile of New England witch prosecution and remains the standard reference for pre-Salem cases. Demos's quantitative work demonstrated that Salem was an outlier in scale — the compression of accusations, the youth of many accused, the role of the afflicted girls — rather than unique in character, since the same underlying social and psychological dynamics had produced individual prosecutions throughout the colonial period. The psychohistorical framework is Demos's distinctive methodological contribution and also his most controversial: by bringing psychoanalytic concepts to bear on seventeenth-century New England cases he opened a line of interpretation that Roper would develop more rigorously for European material, but he also exposed himself to the charge that psychoanalytic interpretation is unfalsifiable. The work's demographic sections have proven most durable, and its case files remain the essential finding aid for pre-Salem New England prosecution. Database entries for New England trial events and accused persons draw primarily on Demos's case documentation, while the psychohistorical framework informs the interpretive sections of `trial_event` entries.",
+
+  "key_arguments": [
+    {
+      "concept": "Pre-Salem prosecution pattern",
+      "claim": "Salem (1692) was not an anomaly but the intensified culmination of a century-long pattern of individual witch prosecutions driven by consistent social and psychological dynamics across New England communities."
+    },
+    {
+      "concept": "Social profile of the accused",
+      "claim": "Accused persons in New England were disproportionately older women, frequently widows or women without male protectors, often involved in prior property or social disputes with their accusers, and positioned at the margins of community social networks."
+    },
+    {
+      "concept": "Psychosocial projection",
+      "claim": "Witch accusation served as a socially legitimate mechanism for projecting unconscious aggression and anxiety onto marginal community figures, releasing social tensions that could not otherwise be openly expressed in the tightly controlled Puritan community context."
+    },
+    {
+      "concept": "Puritan cosmology and prosecution",
+      "claim": "New England prosecution was intelligible within Puritan providentialism and covenant theology: witchcraft was a real theological threat to the godly community, and prosecution was a community defence of the covenant."
+    }
+  ],
+
+  "relation_to_database": "Provides case documentation for `accused_person` and `trial_event` entries relating to pre-Salem New England prosecution. The demographic analysis informs `persecuted_group` entries for widow and older-women categories in the New England context. The psychosocial model provides one interpretive framework for accusation dynamics in `trial_event` entries.",
+
+  "scholarly_disagreement": "The psychohistorical framework (drawing on Eriksonian psychoanalytic concepts) has been criticized as anachronistic — imposing twentieth-century psychological categories onto seventeenth-century individuals — and as unfalsifiable, since psychoanalytic interpretation is not subject to the same evidentiary tests as social-historical claims. Norton's work on Salem in In the Devil's Snare (2002) extended the pre-Salem context through a different analytical framework — frontier trauma and the Maine wars — rather than adopting Demos's psychohistory. Boyer and Nissenbaum's Salem Possessed (1974) addressed Salem specifically through community factionalism rather than psychological projection.",
+
+  "source_method": "Published text; Oxford University Press 1982",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

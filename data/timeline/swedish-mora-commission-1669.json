@@ -1,0 +1,24 @@
+{
+  "id": "swedish-mora-commission-1669",
+  "event_name": "Mora royal commission executes twenty-three witches",
+  "event_type": "trial_event",
+  "date": "1669",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Mora, Dalarna, Sweden",
+  "location_slug": "sweden",
+  "significance": "A royal commission convened at Mora, Sweden, in 1669 accepted the testimony of approximately three hundred children reporting mass abductions to the Blåkulla sabbath and resulted in twenty-three executions, triggering the broader Swedish witch panic of 1668-1676 and representing the most intense use of child testimony as the primary prosecutorial mechanism in European witch-hunting.",
+  "related_entities": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+  "source_method": "Royal commission records; analyzed in Ankarloo and Henningsen, Early Modern European Witchcraft (1990) and Behringer, Witches and Witch-Hunts (2004)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "behringer-witches-witch-hunts-2004",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

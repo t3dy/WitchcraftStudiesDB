@@ -1,0 +1,43 @@
+{
+  "id": "new-england",
+  "name": "New England (British North America)",
+  "modern_country": "United States (Massachusetts, Connecticut, New Hampshire)",
+  "latitude": 42.407,
+  "longitude": -71.382,
+  "location_type": "region",
+
+  "hover_description": "New England, 1647–1693: ~36 executions. Connecticut first (Alse Young, 1647). Salem 1692 the climax (~19 executed). Puritan covenant theology shaped prosecution framework.",
+
+  "panel_description": "New England's witch prosecution was embedded in the specific theological and social context of Puritan colonial settlement, and has attracted the most intensive historiographical attention of any non-European prosecution territory. From the first documented American witch execution (Alse Young, Hartford, Connecticut, 1647) through the Salem crisis of 1692, approximately 36 persons were executed for witchcraft in New England — a modest absolute number by European standards, but producing an intense and enduring scholarly literature.\n\n  Demos's Entertaining Satan (1982) established the pre-Salem baseline: approximately 93 witch cases in colonial New England before 1692, with 11 executions. The cases documented the operation of community accusation dynamics — social conflict, marginality, gender — without the mass-panic dimension of Salem. Karlsen's The Devil in the Shape of a Woman (1987) demonstrated the specific vulnerability of women who stood to inherit property in a society with ambiguous laws about female inheritance.\n\n  Salem's crisis of 1692 — approximately 156 accused, 19 hanged, 1 pressed to death, several dying in prison — has generated the richest historiographical literature of any single witch trial. Boyer and Nissenbaum's Salem Possessed (1974) established the community-conflict framework; Norton's In the Devil's Snare (2002) developed the frontier-trauma thesis; Rosenthal's Salem Story (1993) provided methodological critique of both.\n\n  The specifically Puritan theological framework — New England as a covenanted community under diabolical assault, whose survival depended on identifying and expelling the devil's agents — shaped Salem's prosecution in ways that connect it to Clark's analysis of witchcraft as cosmic political theology.",
+
+  "key_trial_events": [
+    "salem-1692-trials",
+    "connecticut-witch-trials-1647-1663"
+  ],
+
+  "key_accused_persons": [
+    "tituba-salem-1692",
+    "rebecca-nurse-salem-1692",
+    "george-burroughs-salem-1692",
+    "giles-corey-salem-1692",
+    "mary-easty-salem-1692",
+    "john-proctor-salem-1692",
+    "sarah-good-salem-1692",
+    "bridget-bishop-salem-1692",
+    "dorcas-good-salem-1692"
+  ],
+
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-devils-snare-2002",
+    "karlsen-devil-shape-woman-1987",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Salem Witchcraft Papers (SWP); Massachusetts court records; analyzed in Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Karlsen, The Devil in the Shape of a Woman (1987)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

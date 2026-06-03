@@ -1,0 +1,42 @@
+{
+  "id": "guazzo-compendium-maleficarum-1608",
+  "title": "Compendium Maleficarum (A Summary of Witchcraft)",
+  "author": "Francesco Maria Guazzo",
+  "author_slug": "guazzo-francesco-b1570",
+  "year_published": 1608,
+  "original_year": 1608,
+  "publisher": "Agostino Tradate, Milan (first edition 1608; revised edition 1626; modern English translation by E.A. Ashwin, ed. Montague Summers, 1929)",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "A systematic Catholic demonological treatise organized in three books, covering the demonic pact, the range of maleficia, and countermeasures; notable for detailed woodcut illustrations of the sabbath and diabolical operations.",
+
+  "summary": "Francesco Maria Guazzo's Compendium Maleficarum (1608) is the most comprehensive Italian contribution to the late demonological tradition and one of the most widely circulated Catholic demonological texts of the early seventeenth century. A Milanese Barnabite friar with claimed personal experience of possession cases, Guazzo organized his treatise into three books covering the demonic pact and its terms; the full range of maleficia witches could perform (weather magic, harm to persons and animals, sexual maleficia); and the means of combating witchcraft through prayer, sacraments, and judicial prosecution. The Compendium drew heavily on the accumulated demonological literature — Kramer, Bodin, Remy, Del Rio — while adding illustrative cases from Italian pastoral experience. Its distinctive contribution to witch-prosecution culture was visual: the detailed woodcuts engraved by Cristoforo Guarienti are among the most systematic visual representations of the sabbath in early modern European print culture, depicting each stage of the sabbath ceremony and a range of diabolic operations.",
+
+  "scholarly_significance": "Clark in Thinking with Demons situates the Compendium as a representative of what he calls the 'systematic' phase of demonological writing — the early seventeenth-century compilation tradition that organized the accumulated century's demonological knowledge into a comprehensive theological reference. The Compendium's value to modern historiography lies in its comprehensiveness as a synthesis: it reflects the full development of the composite witch stereotype in its mature Catholic Counter-Reformation form. Ginzburg's analysis of Italian prosecution in Ecstasies (1991) uses texts like the Compendium as evidence for the learned demonological framework within which Italian inquisitors and secular courts processed folk practices; the Compendium represents the elite theological layer that transformed indigenous Italian practices. The visual material — the Guarienti woodcuts — are cited in analyses of how the witch stereotype's iconographic conventions were standardized across European print culture. Levack uses the Compendium as a primary document for the mature prosecutorial consensus.",
+
+  "key_arguments": [
+    {
+      "concept": "Systematic sabbath ceremony",
+      "claim": "The Compendium provides the most detailed systematic account of the sabbath's stages — arrival by flight, renewal of homage to the devil, diabolical banquet, dancing, sexual congress, and return — organizing the accumulated sabbath testimony into a coherent ceremonial sequence."
+    },
+    {
+      "concept": "Comprehensive maleficia taxonomy",
+      "claim": "Book II covers the full range of maleficia the devil enables witches to perform: weather magic, harm to persons through image magic and poison, harm to animals, obstruction of sexuality and fertility, causing illness and death."
+    },
+    {
+      "concept": "Counter-measures through sacramental and judicial means",
+      "claim": "Book III argues that witchcraft can be defeated through prayer, sacraments, blessed objects, and judicial prosecution, presenting prosecution as a theological duty rather than a legal option."
+    }
+  ],
+
+  "relation_to_database": "The Compendium is the primary source for the witches-sabbath-collective concept entry's account of the mature sabbath stereotype. The guazzo-francesco-b1570 scholar entry covers Guazzo's intellectual biography. The diabolical-initiation-renunciation concept entry draws on the Compendium's systematic account of the pact ceremony.",
+
+  "scholarly_disagreement": "The extent of the Compendium's originality versus its synthesizing function is a secondary question; most scholars treat it as a comprehensive compilation rather than an innovative work. The relationship between Guazzo's claimed personal pastoral experience and the text's theoretical framework — whether the Compendium reflects genuine empirical pastoral encounters or theoretical elaboration — is not resolvable from the text alone.",
+  "source_method": "Published primary source; first edition Agostino Tradate, Milan 1608; modern scholarly edition: E.A. Ashwin translation, ed. Montague Summers (London 1929)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

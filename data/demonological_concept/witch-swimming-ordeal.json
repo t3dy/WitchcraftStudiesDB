@@ -1,0 +1,47 @@
+{
+  "id": "witch-swimming-ordeal",
+  "name": "The Swimming Test (Water Ordeal for Witch Identification)",
+  "category_type": "ACTOR_TERM",
+  "time_period": "Early Modern (c. 1590–1712)",
+  "primary_locale": "England (primary documentation); some Continental parallels in the Dutch Republic and Low Countries",
+
+  "scholarly_definition": "Early modern sources use the term 'swimming' (also called 'trying by water', 'cucking', 'the water ordeal', or in Latin 'judicium aquae') to describe a popular method for identifying witches in which the accused was bound — thumbs tied to opposite toes in the 'cross bound' position — and thrown into water. The theological logic of the test operated on the premise that water, as a pure element sanctified in baptism, would reject the body of a person who had renounced their baptismal covenant through diabolical compact: floating was interpreted as evidence of guilt (the water repelled the witch's corrupted body) and sinking as evidence of innocence (the water received the innocent person). The test had no standing in formal English law and was explicitly criticized by Matthew Hopkins's opponents as illegal popular self-help, but it was practiced informally and referenced repeatedly in witch prosecution discourse and pamphlet literature. James VI of Scotland and I of England discussed the swimming test in Daemonologie (1597) as one of the proofs of witchcraft, lending it a degree of royal endorsement. Its use is documented in English pamphlets from the 1590s through the early eighteenth century, with a concentration of documented uses during the Hopkins campaigns in East Anglia (1645–1647). The test illustrates the tension between popular self-help witch-detection logic and formal legal procedure: communities that believed a neighbor was a witch and could not obtain official prosecution might resort to informal swimming as a community-administered ordeal. The last documented English swimming of a suspected witch occurred at Oakley, Bedfordshire, in 1712, resulting in the victim's death by drowning.",
+
+  "intellectual_genealogy": {
+    "medieval_water_ordeal_background": "The swimming test drew on the much older tradition of judicial ordeal by water (judicium aquae), which had been officially prohibited by the Fourth Lateran Council (1215) but survived in informal popular use. The specifically anti-witch logic of the swimming test — connecting floating to diabolical compact rather than to divine judgment — was a post-Malleus innovation.",
+    "james_vi_endorsement": "James VI's discussion of the swimming test in Daemonologie (1597) provided it with learned endorsement, situating it within the broader demonological argument that the witch's body bore physical marks of her diabolical covenant, of which the water's rejection was one manifestation.",
+    "hopkins_campaigns": "Matthew Hopkins's witch-finding campaigns in East Anglia (1645–1647) extensively used the swimming test alongside watch procedures and witch-mark examination, and the Hopkins pamphlet literature provides the richest English documentation of the test's practical operation.",
+    "critics_and_defenders": "The swimming test was debated in seventeenth-century witchcraft literature: opponents argued it was illegal and theologically unsound; defenders argued it was one of several 'popular' proofs that supplemented formal legal evidence."
+  },
+
+  "clark_intellectual_analysis": "Clark analyzes the swimming test as a specific application of the demonological theological premise that diabolical compact had corrupted the witch's body and altered her relationship to natural substances and elements. The test's logic was not arbitrary but derived from coherent demonological premises about the physical effects of the demonic pact — the same premises that underlay the witch-mark examination — making it intellectually continuous with the learned demonological tradition even when applied outside formal legal settings.",
+
+  "hutton_social_analysis": "Hutton notes that the swimming test was practiced primarily outside formal legal proceedings, representing popular witch-detection logic operating alongside or in tension with official judicial procedure. Its persistence in informal use long after formal prosecution had declined reflects the depth of popular belief in witch-detection techniques and the community's desire for practical means of identifying harmful neighbors independent of official legal channels.",
+
+  "ginzburg_interrogation_analysis": "The swimming test is a form of bodily ordeal whose logic — that the accused's body is physically marked by diabolical covenant in ways detectable through physical testing — operates at the same ontological level as the witch-mark examination Ginzburg analyzes in formal inquisitorial contexts. Both the witch mark and the water ordeal presuppose that the diabolical compact leaves legible physical traces; both are methods for reading the body as evidence of spiritual guilt.",
+
+  "actor_perspective": {
+    "popular_practice_terminology": "Contemporaries called the procedure 'swimming', 'trying by water', 'the water ordeal', or 'cucking'. The term 'swimming' derived from the expected behavior of the guilty witch, who would float rather than sink. Pamphlet accounts used 'swimming' as a straightforward descriptive term without the irony that modern readers might attribute to it.",
+    "community_administration": "The swimming test was typically administered by community members rather than by official legal personnel — conducted by neighbors, constables, or informal community leaders rather than by magistrates or their appointed officers. This community-administered character distinguished it from the formal witch-mark examinations conducted by court-appointed searchers.",
+    "theological_popular_logic": "The theological logic of the test — that baptismal water rejects the body that has renounced its baptismal covenant — was understood by participants in popular theological terms, not as superstition but as a logical application of Christian sacramental theology to the detection of apostasy. James VI's endorsement indicated that educated authorities could share this logic."
+  },
+
+  "geographic_distribution": "Primary documentation from England (pamphlet literature, assize records, and informal accounts from the 1590s through 1712); some parallel documentation from the Dutch Republic (Bekker discusses the practice) and the Low Countries. Scotland, despite strong witch prosecution, shows less documented use of the swimming test as a formal procedure. The Continental equivalents of the water ordeal were applied differently in inquisitorial contexts.",
+
+  "historiographical_significance": "The swimming test is historiographically significant for several reasons. It illustrates the gap between elite demonological theory — which provided the theological rationale for the test — and popular self-help prosecution practice, which operated outside formal legal channels while drawing on the same theological premises. The test's persistence in informal English use from the 1590s to 1712, well after formal prosecution had declined, demonstrates that popular belief in witch detection techniques outlasted institutional prosecution. It also illustrates the role of the printed pamphlet in disseminating and normalizing witch-detection practice: Hopkins's campaigns generated pamphlet literature that documented and implicitly endorsed the swimming test for a popular audience. The test's legal ambiguity — neither officially authorized nor consistently suppressed — reflects the broader relationship between formal legal procedure and popular community practice in English witch prosecution.",
+
+  "source_method": "English witchcraft pamphlet literature (1590s–1712); James VI, Daemonologie (1597); Matthew Hopkins, The Discovery of Witches (1647); analyzed in Alan Macfarlane, Witchcraft in Tudor and Stuart England (1970); Keith Thomas, Religion and the Decline of Magic (1971); James Sharpe, Instruments of Darkness (1996); Ronald Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The main historiographical debate about the swimming test concerns its theological logic and legal status. Thomas and Macfarlane treat it primarily as evidence of popular superstition operating outside official sanction. Sharpe's analysis in Instruments of Darkness gives more weight to the test's operation within the broader context of English witch prosecution culture, including its engagement with officially sanctioned demonological premises. Clark would emphasize that the test's logic was intellectually derived from the same theological premises as elite demonological procedure, not simply a product of popular ignorance. The degree to which the test reflects genuine popular theology versus popular appropriation of learned demonological ideas is debated.",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971",
+    "sharpe-instruments-of-darkness-1996",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

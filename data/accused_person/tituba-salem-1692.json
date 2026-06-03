@@ -1,0 +1,70 @@
+{
+  "id": "tituba-salem-1692",
+  "name": "Tituba",
+  "status": "Imprisoned",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": null,
+  "age_at_trial": null,
+  "social_status": "Enslaved woman; Caribbean origin (likely Barbados); owned by Reverend Samuel Parris of Salem Village; no social standing, legal protection, or community network of any kind",
+  "gender": "Female",
+
+  "biography": "Tituba was the first person to confess to witchcraft during the Salem crisis of 1692, and her confession established the conspiracy narrative that governed every subsequent Salem examination. An enslaved woman of uncertain origin — the court records identify her as 'Indian,' the Parris family records connect her to Barbados, and the actual ethnic origin remains a subject of scholarly debate — she was owned by Reverend Samuel Parris, minister of Salem Village, whose household was the origin point of the crisis. Tituba occupied the lowest conceivable position in Salem Village society: enslaved, racially marked, without kin network, legal standing, or community credit, and directly implicated by the afflictions of Parris's daughter Betty and niece Abigail Williams, both members of her household.\n\n  Her examination on March 1, 1692 — before magistrates John Hathorne and Jonathan Corwin — produced one of the most elaborated and narratively rich confessions in Salem scholarship. Where Sarah Good had denied the charges and Sarah Osborne had deflected, Tituba — in what Norton characterizes as a calculated survival strategy — confirmed the existence of a diabolical conspiracy, described the devil's book signed by nine persons including Good and Osborne, detailed spectral shapes she had seen tormenting the afflicted children, and constructed a narrative involving a tall man from Boston, four women riding sticks to meetings, red cats, yellow birds, and a hairy creature with a long nose. This imaginative framework established the vocabulary within which subsequent confessors would construct their own accounts.\n\n  Tituba was never tried and never executed. When the Salem crisis ended, Parris declined to pay the prison fees required for her release; she was eventually sold to an unknown buyer to cover those fees. Her survival — purchased at the cost of her confession and her permanent transformation into property again — is consistent with Norton's analysis of the structural logic of Salem's confession procedure: confession and naming others created the cooperating-witness status that exempted confessors from immediate execution.",
+
+  "arrest_narrative": "Tituba came to authority's attention as a resident of the Parris household when Betty Parris and Abigail Williams began displaying the 'afflicted' behavior in January-February 1692. She was examined on March 1, 1692, in one of the first three examinations of the Salem crisis. Boyer and Nissenbaum note that her complete social vulnerability — enslaved, owned by the minister whose household generated the accusations, without community network or legal standing — left her no resources from which to sustain a denial. Her confession transformed the crisis's social dynamics: once a confessor named co-conspirators and described a diabolical organization, the Salem examinations shifted from isolated accusations to a coordinated conspiracy investigation that spread through the community.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-03-01",
+      "method": "Examination before magistrates Hathorne and Corwin; no physical torture documented; spectral evidence procedure; social coercion from complete structural vulnerability",
+      "initial_response": "Brief denial followed by elaborated confession describing the devil's book, spectral shapes tormenting the children, and co-conspirators Good and Osborne",
+      "duration": "Examination transcript preserved in the Salem Witchcraft Papers; more extensive than either Good's or Osborne's"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "Described signing the devil's book, in which she saw nine names including Good and Osborne; described a tall man from Boston who came to her house at night and instructed her to hurt the children; described being threatened with harm if she refused to comply.",
+    "sabbath_activities": "Described riding on a stick to gatherings with four other women; spectral shapes at multiple locations; meetings involving the tall man from Boston and the other accused women.",
+    "maleficium_claimed": "Described being compelled to hurt the children by spectral forces under the tall man's direction; described spectral attacks on the afflicted.",
+    "accomplices_named": [
+      "Sarah Good",
+      "Sarah Osborne"
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Tituba's confession was produced without documented physical torture — the coercive mechanism was structural rather than physical. Her complete social vulnerability left her no resource from which to sustain denial: enslaved and owned by the accusing minister, she could not mobilize community support, family networks, or legal standing. Norton interprets her elaborated confession as a calculated survival strategy: by confessing and naming others, Tituba shifted from accused to cooperating witness and thereby escaped the immediate execution that followed from denial. The narrative richness of the confession — its specificity of detail, the imaginative construction of the tall man and the spectral meetings — suggests active construction of a satisfying testimony rather than passive response to leading questions.",
+    "plausibility": "Tituba's confession contains no independent evidence of actual harmful activity. Boyer and Nissenbaum's Salem Possessed (1974) focuses on her structural position as the explanation for her early identification as accused and her subsequent confession strategy. Her survival is consistent with Norton's analysis: those who confessed and named others at Salem survived; those who denied were executed. The elaborated quality of her confession, and its foundational role in establishing the Salem conspiracy narrative, suggests it was shaped as much by Tituba's survival calculations as by any genuine experience or the examiners' questions.",
+    "social_vulnerability": "Tituba represents the extreme end of Salem's social vulnerability spectrum: enslaved, of non-European origin, owned by the minister whose household was the prosecution's origin point, without kin network, legal standing, or community credit. Karlsen's analysis of gender and property at Salem does not directly apply — Tituba was not a property-holding woman whose inheritance disrupted patrilineal expectation, but a woman who was herself property. Her vulnerability was qualitatively different from that of most other Salem accused: she could not be protected by the social credit that, however insufficiently, had supported Rebecca Nurse's petition."
+  },
+
+  "execution_details": null,
+
+  "accusations_against_her": [
+    "Witchcraft and diabolical compact",
+    "Involvement in a conspiracy with Sarah Good and Sarah Osborne to torment the afflicted children of the Parris household",
+    "Signing the devil's book and attending the devil's meetings"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "No community members came forward in Tituba's defense. Her complete social isolation — enslaved, without kin network, owned by the accusatory minister himself — meant she had no network capable of mounting a petition comparable to that organized for Rebecca Nurse.",
+    "defense_arguments": "None; she confessed. Her survival depended on the confession-and-cooperation strategy rather than on any community defense."
+  },
+
+  "historiographical_significance": "Tituba's 1692 confession is foundational to Salem scholarship because of its structural role: her elaborated account established the conspiracy narrative and the imaginative vocabulary — the devil's book, the tall man from Boston, the spectral meetings — that governed all subsequent Salem examinations. Norton's In the Devil's Snare (2002) analyzes her confession both as a survival strategy and as evidence for Norton's frontier thesis: the tall man 'from Boston' connects the Salem conspiracy to the frontier war that Norton identifies as Salem's primary contextual crisis. Boyer and Nissenbaum's Salem Possessed (1974) situates Tituba within the community-conflict framework, emphasizing her structural position in the Parris household. The question of Tituba's ethnic origin — Caribbean Indian, African, or South American Arawak — has generated specialized scholarship reflecting broader questions about racial dynamics in colonial Massachusetts. Her complete absence of social capital, and the confession strategy her position made necessary, make her case the clearest Salem instance of Ginzburg's principle that interrogation procedure shapes confession content: Tituba had every incentive to produce the narrative the examiners needed.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia edition; examination transcript preserved therein; analyzed in Norton, In the Devil's Snare (2002); Boyer and Nissenbaum, Salem Possessed (1974); Karlsen, The Devil in the Shape of a Woman (1987); Rosenthal, Salem Story (1993)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Examination transcript, Salem Witchcraft Papers, 1 March 1692",
+  "scholarly_disagreement": "The debate over Tituba's ethnic origin — Caribbean Indian, African, or South American Arawak — remains unresolved. The court records identify her as 'Indian'; Parris family records connect her to Barbados; the actual ethnic background is uncertain. Norton and Boyer/Nissenbaum accept the uncertain origin while differing on the primary analytical framework for her confession: Norton emphasizes survival strategy in a frontier-crisis context; Boyer and Nissenbaum emphasize community structural position."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "first-american-witch-execution-1647",
+  "event_name": "Alse Young hanged — first American witch execution",
+  "event_type": "trial_event",
+  "date": "1647",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Hartford, Connecticut",
+  "location_slug": null,
+  "significance": "Alse (Alice) Young of Windsor, Connecticut, was hanged for witchcraft on May 26, 1647, making her the first person executed for witchcraft in British colonial America; her case preceded the Salem trials by forty-five years and was part of approximately eleven witch executions in Connecticut before 1663, demonstrating that colonial American witch prosecution was not a Salem-specific anomaly.",
+  "related_entities": [
+    "norton-in-devils-snare-2002"
+  ],
+  "source_method": "Connecticut colonial court records; analyzed in Norton, In the Devil's Snare (2002) and Demos, Entertaining Satan (1982)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "karlsen-devil-shape-woman-1987"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

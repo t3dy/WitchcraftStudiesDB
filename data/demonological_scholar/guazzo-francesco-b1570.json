@@ -1,0 +1,65 @@
+{
+  "id": "guazzo-francesco-b1570",
+  "name": "Francesco Maria Guazzo",
+  "birth_year": 1570,
+  "death_year": 1640,
+  "birth_place": "Milan, Duchy of Milan",
+  "academic_discipline": "Catholic Theology; Demonology",
+  "primary_institution": "Order of Saint Ambrose (Ambrosian Barnabites); Milan",
+
+  "major_works": [
+    {
+      "title": "Compendium Maleficarum (A Summary of Witchcraft)",
+      "year": 1608,
+      "publisher": "Agostino Tradate, Milan (first edition); revised edition 1626",
+      "significance": "A comprehensive Catholic demonological treatise, notable for its systematic organization and for its illustrated woodcuts depicting the sabbath, the demonic pact, and the range of maleficia; one of the most widely circulated demonological texts of the early seventeenth century and the most comprehensive Italian-language contribution to the genre.",
+      "pages": null,
+      "database_entry": "guazzo-compendium-maleficarum-1608"
+    }
+  ],
+
+  "historiographical_position": "SYSTEMATIC DEMONOLOGIST / LATE WITCH-PROSECUTION THEORIST",
+
+  "core_argument": "Francesco Maria Guazzo's Compendium Maleficarum (1608) is the most comprehensive Italian contribution to the demonological literature of witch prosecution and a primary representative of what Clark terms the 'systematic' phase of demonological writing — the early seventeenth-century compilation tradition that sought to organize the accumulated demonological knowledge of the previous century into a comprehensive reference work. Guazzo was a Milanese Barnabite friar with personal experience of possession cases and claimed direct knowledge of diabolical manifestations through his pastoral work.\n\n  The Compendium is organized into three books covering the demonic pact and its terms; the range of maleficia witches could perform; and the means of combating witchcraft through prayer, sacraments, and judicial prosecution. It drew heavily on the established demonological literature — Kramer, Bodin, Remy, Del Rio — while adding illustrative cases from Guazzo's own Italian experience. The text's distinctive feature is its accompanying woodcut illustrations, engraved by Cristoforo Guarienti, which are among the most detailed and systematic visual representations of the sabbath and diabolical activities in the witch-trial literature. These illustrations — of the pact-signing ceremony, night flight, sabbath banquet, and maleficium operations — became widely reproduced and had significant influence on the iconography of the witch stereotype.\n\n  Clark's analysis in Thinking with Demons situates the Compendium within the systematic demonological tradition: it articulates a coherent, internally consistent theology of witchcraft in which every element of the witch stereotype serves as the inversion of Christian virtue, the sabbath as the anti-church, and the witch as the anti-Christian.",
+
+  "key_contributions": [
+    {
+      "concept": "Systematic sabbath iconography",
+      "claim": "Guazzo's Compendium provided the most systematically illustrated account of the sabbath's constituent ceremonies — arrival, homage to the devil, pact renewal, banquet, dancing — with woodcuts for each stage. This visual systematic treatment helped standardize the sabbath stereotype across Catholic Europe.",
+      "implication": "The Compendium's illustrations contributed to the standardization of the witch stereotype's visual form as much as its text contributed to its theological form."
+    },
+    {
+      "concept": "Italian demonological synthesis",
+      "claim": "The Compendium synthesized the northern European demonological tradition (Kramer, Bodin, Remy) with Italian cases and Guazzo's pastoral experience, producing a comprehensive reference that could be applied across Catholic Europe.",
+      "implication": "The Compendium demonstrates that the Italian demonological tradition was not merely receptive of northern European witch prosecution theory but contributed its own systematic articulation, rooted in the Counter-Reformation religious context."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Heinrich Kramer, Jean Bodin, Nicolas Remy, Martín del Río (the tradition of systematic Catholic demonology he synthesized and extended)",
+      "Counter-Reformation theological tradition (the Compendium operates within the theological framework of the Roman Catholic response to the Reformation)"
+    ],
+    "creative_tension_with": [
+      "Reginald Scot and Johann Weyer (whose skeptical arguments Guazzo directly refuted)",
+      "The Italian Roman Inquisition's restraining stance on mass prosecution (which Guazzo's systematic prosecution theology implicitly challenged)"
+    ]
+  },
+
+  "database_engagement": "Guazzo's Compendium is a primary source for the witches-sabbath-collective and demonic-pact-early-modern concept entries. The systematic visual iconography of the sabbath in the Compendium's woodcuts illustrates the composite-witch-stereotype-formation entry. The Compendium's Italian provenance makes it relevant to the italy location entry's analysis of how demonological theory circulated despite the Roman Inquisition's restraining role.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006",
+    "ginzburg-ecstasies-1991"
+  ],
+
+  "source_method": "Compendium Maleficarum (1608), first edition Agostino Tradate, Milan; analyzed in Clark, Thinking with Demons (1997); Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The Compendium's intellectual originality relative to the tradition it synthesizes is a secondary question: most scholars treat it as a comprehensive compilation rather than an innovative work, its value lying in its systematic organization and illustrations rather than novel theological argument. The relationship between Guazzo's pastoral experience of possession cases and his demonological theory — whether the Compendium reflects genuine empirical pastoral encounters or theoretical elaboration — is not resolvable from the text alone. Clark situates it as representative of the mature systematic tradition; Ginzburg is less interested in the systematic demonological synthesis than in what Italian prosecution records reveal about popular traditions beneath it.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

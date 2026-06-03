@@ -1,0 +1,76 @@
+{
+  "id": "george-burroughs-salem-1692",
+  "name": "George Burroughs",
+  "status": "Executed",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 42,
+  "social_status": "Ordained minister; Harvard graduate (class of 1670); former minister of Salem Village (1680-82); minister at Casco Bay (Maine) at the time of his arrest; educated professional with clerical standing",
+  "gender": "Male",
+
+  "biography": "George Burroughs, a Harvard-educated minister who had previously served Salem Village and was serving a Maine frontier congregation at the time of his arrest, was the only ordained minister executed during the Salem crisis and the figure whom the Salem confessors identified as the ringleader of the diabolical conspiracy. His execution on August 19, 1692 was among the most charged moments of the crisis: when he recited the Lord's Prayer perfectly at the gallows — a feat that popular belief held witches incapable of performing — the crowd wavered and Cotton Mather intervened from horseback to insist the execution proceed, arguing that the devil could enable such performance to deceive.\n\n  Burroughs's specific role in the Salem accusations reflected the logic Norton identifies as central to her frontier-trauma thesis. He had served at Casco Bay (Falmouth, Maine) during the Indian frontier wars and was in Wells, Maine when the Salem accusations against him began. Multiple confessors and afflicted persons named him as the leader of the witch conspiracy — the 'black minister' who had presided over the diabolical covenant meetings. Norton argues that his identification as the conspiracy's mastermind reflected the interconnection between the Salem crisis and the frontier war: accused persons from Salem Village who had connections to Maine refugees displaced by Indian attacks identified Burroughs as the demonic figure who linked Salem's crisis to the frontier catastrophe.\n\n  Burroughs denied all charges throughout. He was brought from Wells, Maine under arrest to Salem, tried by the Court of Oyer and Terminer, convicted on the testimony of afflicted persons and confessors who named him as the conspiracy's leader, and executed on August 19, 1692. The Massachusetts legislature's 1711 acts posthumously exonerated him, and compensation was paid to his descendants.",
+
+  "arrest_narrative": "Burroughs was accused in the expanding circle of Salem conspiracy confessions in April 1692, when multiple confessors — including some who had been in Maine — identified him as the black minister who led the diabolical sabbath. A warrant was issued and he was arrested in Wells, Maine, where he had taken a new ministerial position after leaving Salem Village in 1682. His arrest required special warrant execution outside the normal Salem jurisdiction. Norton identifies his Maine location as significant: he was the most prominent individual named as a conspirator who connected Salem's crisis to the frontier war zone.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-05-09",
+      "method": "Examination before magistrates; no physical torture documented; multiple afflicted persons displayed spectral evidence behaviors during the examination",
+      "initial_response": "Denial throughout; maintained innocence at examination, at trial, and at execution; recited the Lord's Prayer perfectly at the gallows",
+      "duration": "Multiple examinations; formal trial before Court of Oyer and Terminer"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "None confessed; Burroughs maintained complete innocence.",
+    "sabbath_activities": "None confessed; confessors named him as presiding minister at diabolical meetings.",
+    "maleficium_claimed": "None confessed; accusers attributed extraordinary physical strength to him as evidence of diabolical assistance.",
+    "accomplices_named": [
+      "None; refused to name others."
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Burroughs's case illustrates how the confession-and-accusation dynamic at Salem could produce conviction without physical torture and without any confession from the accused: multiple confessors named him as conspiracy leader, and the Court admitted this confessional testimony as evidence against him. His extraordinary physical strength — he was said to be able to lift a rifle with one finger and carry a full barrel of molasses — was presented as evidence of diabolical enhancement rather than simply unusual physical capability. Norton analyzes his case as the clearest evidence of the frontier connection in the Salem crisis: his Maine frontier ministry made him the ideal figure around whom to construct a narrative linking Salem's domestic crisis to the existential threat of the Indian wars.",
+    "plausibility": "No independent evidence supports any charge against Burroughs. His execution despite his flawless recitation of the Lord's Prayer — and Cotton Mather's intervention to proceed despite the crowd's wavering — represents the moment at which the Salem crisis's internal logic most clearly overrode popular tests of guilt. The crowd's reaction, documented in multiple contemporaneous accounts, indicates that by August 1692 some community members were questioning the reliability of the accusatory procedure; the execution was completed only through Mather's authoritative intervention.",
+    "social_vulnerability": "Burroughs's case inverts the typical Salem vulnerability pattern: he was educated, ordained, professionally established, and male. His vulnerability was specific to his position: as a former Salem Village minister with disputed history in that community, and as a frontier minister directly connected to the Maine crisis, he occupied a position that made him the logical candidate for the role confessors needed him to fill — the conspiracy's clerical leader whose authority would explain how the diabolical covenant had spread through the community."
+  },
+
+  "execution_details": {
+    "date": "1692-08-19",
+    "method": "Hanged at Gallows Hill, Salem",
+    "location": "Gallows Hill, Salem Town, Massachusetts",
+    "witnesses": "Court officials, large public crowd; Cotton Mather present on horseback",
+    "final_statement": "Recited the Lord's Prayer perfectly at the gallows — a performance that caused the crowd to waver; Cotton Mather intervened from horseback to insist the execution proceed."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and leadership of the diabolical conspiracy",
+    "Serving as the 'black minister' who presided over the diabolical covenant meetings named by multiple confessors",
+    "Extraordinary physical strength attributed to diabolical assistance",
+    "Spectral tormenting of afflicted persons"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "Several of Burroughs's ministerial colleagues submitted testimony on his behalf; Thomas Brattle's letter (October 1692) later identified his case as one of the most obviously unjust convictions. His family eventually received compensation under the 1711 acts.",
+    "defense_arguments": "Denial throughout; recitation of the Lord's Prayer at execution; ministerial character testimony from colleagues."
+  },
+
+  "historiographical_significance": "George Burroughs's case is central to Norton's frontier-trauma thesis in In the Devil's Snare (2002): his identification as the conspiracy's leader by Maine refugees and others with frontier connections reflects the larger argument that the Salem crisis cannot be understood without the context of the catastrophic Second Indian War (1689-97). Norton argues that the overlay of the diabolical conspiracy narrative on the frontier trauma was not coincidental — accused persons named Burroughs because he was the figure who, in the imaginative logic of the crisis, could explain how supernatural evil had organized against the New England colonies. His execution, and Cotton Mather's role in ensuring it proceeded despite the crowd's hesitation, also marks the moment at which the Salem crisis's internal momentum was most clearly overriding the ordinary tests of guilt that colonists applied to witchcraft accusations.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia edition; Cotton Mather, Wonders of the Invisible World (1693); Calef, More Wonders of the Invisible World (1700); analyzed in Norton, In the Devil's Snare (2002); Boyer and Nissenbaum, Salem Possessed (1974); Rosenthal, Salem Story (1993)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Salem Witchcraft Papers; Cotton Mather's account in Wonders of the Invisible World (1693)",
+  "scholarly_disagreement": "Norton's frontier thesis, which makes Burroughs's Maine connection and frontier-minister role central to his identification as conspiracy leader, is the dominant current interpretation but represents a specific claim about causation that not all Salem scholars accept in its strongest form. Boyer and Nissenbaum's earlier community-conflict framework also accounts for his accusation through his disputed history in the Salem Village parish."
+}

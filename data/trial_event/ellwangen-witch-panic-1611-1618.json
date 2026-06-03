@@ -1,0 +1,44 @@
+{
+  "id": "ellwangen-witch-panic-1611-1618",
+  "name": "Ellwangen Witch Panic",
+  "location_id": "bavaria",
+  "date_range": "1611–1618",
+  "approximate_executions": 450,
+  "approximate_accused": 450,
+  "jurisdiction": "Imperial Abbey of Ellwangen, Württemberg (secular jurisdictions of Swabia)",
+  "legal_framework": "Imperial criminal law (Carolina, 1532); episcopal-chapter secular jurisdiction",
+
+  "overview": "The Ellwangen witch panic of 1611–1618 was one of the most intensive German mass witch prosecutions of the early seventeenth century, producing approximately 450 executions in the Swabian imperial abbey and surrounding territories over approximately seven years. The prosecution began with the arrest of an elderly woman for suspected maleficium and rapidly escalated through the cascade mechanism: each suspect under torture named accomplices who were arrested, interrogated, and in turn named further accomplices, producing an exponential expansion of the accused network.\n\n  Ellwangen's prosecution was distinguished by its speed and intensity: unlike Bamberg and Würzburg, which were episcopal territories whose prosecutions were driven in part by Prince-Bishops, Ellwangen was governed by an imperial abbey whose secular jurisdiction was exercised by a chapter of canons. The prosecution thus occurred under a collegial authority structure rather than a single ruler — a pattern that Behringer analyzes as evidence that mass prosecution required not just authoritative sanction but a specific kind of institutional responsiveness to popular pressure.\n\n  The Ellwangen trials are the subject of one of the most important primary-source collections for German witch prosecution: the Ellwangen trial records survive in unusually complete form and have been analyzed in detail by German regional historians. The prosecution ended circa 1618 with the outbreak of the Thirty Years' War and the consequent disruption of normal judicial activity.",
+
+  "historiographical_analysis": "Behringer analyzes Ellwangen in Witches and Witch-Hunts (2004) as part of the Swabian-Franconian regional cluster, connecting it to the earlier Wiesensteig panic (1562) and the later Bamberg and Würzburg prosecutions (1626-1631). Midelfort's Witch Hunting in Southwestern Germany (1972) provides the foundational quantitative analysis of Swabian prosecution and situates Ellwangen within the pattern. The popular pressure thesis is particularly relevant here: the prosecution was not driven primarily by a single powerful individual (as in Bamberg by the Prince-Bishop, or in Trier by Binsfeld) but appears to have been sustained by a community dynamic in which each arrest validated the next.",
+
+  "accusation_patterns": {
+    "primary_targets": "Initial target profile: elderly women suspected of maleficium; expanded through the cascade to include men, children, and persons of higher social standing as the prosecution intensified",
+    "geographic_spread": "Originated in Ellwangen; spread to surrounding villages in the imperial abbey's territory",
+    "confession_characteristics": "Confessions followed the Continental sabbath pattern: nocturnal gatherings, ointment application, devil worship, accomplice naming; produced under interrogation procedures that included torture"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "denunciation-cascade-mechanism",
+    "demonic-pact-early-modern",
+    "witches-sabbath-collective",
+    "crimen-exceptum"
+  ],
+
+  "primary_sources": "Ellwangen chapter court records (Württembergisches Landesarchiv); analyzed in Behringer, Witches and Witch-Hunts (2004); Midelfort, Witch Hunting in Southwestern Germany (1972)",
+  "source_method": "Württemberg state archives; documented in Behringer, Witches and Witch-Hunts (2004); Midelfort, Witch Hunting in Southwestern Germany (1972)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "midelfort-witch-hunting-1972"
+  ],
+
+  "scholarly_disagreement": "The precise execution count for Ellwangen varies between estimates of 300 and 450; Midelfort's regional analysis provides the most systematic quantification. Whether the collegiate authority structure of the imperial abbey was a facilitating or an inhibiting factor compared to episcopal courts is a secondary question.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

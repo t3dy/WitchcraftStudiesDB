@@ -1,0 +1,43 @@
+{
+  "id": "wurzburg-episcopal-court",
+  "name": "Würzburg Episcopal Court",
+  "formal_name": "Hochstift Würzburg — witchcraft jurisdiction under Johann Gottfried von Aschhausen and Philipp Adolf von Ehrenberg",
+  "institutional_type": "episcopal_secular_court",
+  "founded": null,
+  "dissolved": "1631",
+
+  "jurisdiction_description": "The Prince-Bishopric of Würzburg was an ecclesiastical principality of the Holy Roman Empire in Franconia in which the Prince-Bishop held both spiritual authority over the diocese and secular criminal jurisdiction over the territory's subjects. Like its neighbor Bamberg, the Würzburg court that prosecuted the mass witch trials was not the Roman or papal Inquisition but the Prince-Bishop's own secular criminal court, operating without inquisitorial canon law protections and without effective Roman oversight. The absence of such oversight is a structurally significant feature shared with Bamberg and Eichstätt, the other major Franconian episcopal prosecution centers.\n\n  The most intensive prosecution occurred under Prince-Bishop Philipp Adolf von Ehrenberg (r. 1623-1631), though earlier prosecutions under Johann Gottfried von Aschhausen (r. 1617-1622) established the precedent. The Würzburg trials are documented in the Errores Haereticorum (the compilation of Würzburg trial records) and in the detailed contemporary account published in 1629, which lists 157 named victims in a single year. The prosecution was terminated by a combination of Thirty Years' War disruption and, as at Bamberg, the advancing Swedish military presence that destabilized the entire Franconian episcopal principality structure.",
+  "jurisdiction_territories": ["bavaria"],
+
+  "procedural_features": {
+    "torture_policy": "Torture was applied without the procedural constraints that inquisitorial canon law would have required. Systematic and repeated application is documented in surviving trial records. As at the neighboring Bamberg episcopal court, confessions obtained under torture were recorded as voluntary in the formal record, and the cascade mechanism requiring each accused to name accomplices operated as the primary engine of prosecution expansion.",
+    "evidence_standards": "Confession under torture was the primary evidentiary basis. Denunciation by co-accused persons served as the initiating cause for new arrests; no independent corroboration was required. The prosecution's scope — extending to clergy, noble officials, and children as young as seven — reflects the absence of any evidentiary barrier to accusation once the cascade mechanism was activated.",
+    "confession_policy": "Confession was the prosecution's goal and was obtained through torture. The formal record characterized confessions as freely given; no effective provision for recantation operated in practice. The 1629 list of victims records the charges attributed to each person at confession, including sabbath attendance, sexual congress with the devil, and the names of other sabbath participants, reflecting the standardized content of tortured confessions.",
+    "appeal_mechanism": "No effective internal appeal mechanism existed within the Würzburg episcopal jurisdiction. External appeal to the imperial Reichskammergericht was in principle available and was used in the Bamberg prosecution; the Würzburg prosecution was effectively terminated by external military-political disruption rather than by judicial review."
+  },
+
+  "role_in_witch_trials": "The Würzburg episcopal court conducted one of the largest and most intensively documented mass witch prosecutions in European history, executing approximately 400 persons in the territory between 1626 and 1631. The prosecution's significance lies in several features: its geographic and institutional proximity to the simultaneous Bamberg prosecution, demonstrating a regional cluster of episcopal-court mass prosecutions in Franconia; its social reach, extending from peasants through clergy, university students, and the Prince-Bishop's own family members; and the survival of the 1629 victim list, which provides an unusually detailed demographic record. The Würzburg trials are the paradigm case alongside Bamberg in Midelfort's analysis of the southwestern German witch-hunting pattern and in Levack's comparative institutional account.",
+
+  "witch_trial_involvement_level": "high",
+  "key_trial_events": [
+    "wurzburg-witch-trials-1626-1631"
+  ],
+
+  "historiographical_significance": "H.C. Erik Midelfort's Witch Hunting in Southwestern Germany 1562–1684 (1972) provides the foundational quantitative and institutional analysis of the Würzburg prosecution in its Franconian regional context. Midelfort's comparative analysis of the southwestern German territorial pattern — documenting the clustering of mass prosecutions in episcopal principalities with undivided secular and spiritual authority — established the institutional-structural explanation for prosecution intensity that Levack later systematized comparatively.\n\n  Lyndal Roper's Witch Craze (2004) engages the Würzburg material through the lens of psychoanalytic microhistory, examining how the prosecution's extension to children and the elderly reflects the particular anxieties of the early modern German body. Roper's interpretation has been debated: while her attention to the embodied and psychological dimensions of the accusations has been recognized as a methodological contribution, critics including Hutton have questioned whether psychoanalytic frameworks can be applied to historical subjects without anachronism.\n\n  Wolfgang Behringer's work on the broader Bavarian and Franconian prosecution context, particularly in Witches and Witch-Hunts (2004), situates the Würzburg trials within a longer regional pattern. The parallel between Würzburg and Bamberg — simultaneous prosecutions in neighboring episcopal principalities with similar institutional structures and similarly undivided authority — serves as comparative evidence for the claim that institutional form, not individual episcopal personality, was the primary determinant of prosecution scale.",
+
+  "scholarly_disagreement": "Whether the Würzburg prosecution was driven primarily by institutional structure (Midelfort, Levack) or by individual episcopal agency and demonological conviction (older biographical approaches) remains a point of emphasis in the scholarship. Roper's psychoanalytic approach represents a third interpretive axis that has not been fully integrated with the institutional account.",
+  "source_method": "Würzburg episcopal records; 1629 victim list (published in primary source collections); Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004",
+    "roper-witch-craze-2004",
+    "levack-witch-hunt-early-modern-2006",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

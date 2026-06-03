@@ -1,0 +1,41 @@
+{
+  "id": "germany",
+  "name": "Germany (Holy Roman Empire)",
+  "modern_country": "Germany",
+  "latitude": 51.165,
+  "longitude": 10.452,
+  "location_type": "nation",
+
+  "hover_description": "Germany (HRE), c. 1560–1660: ~40,000–50,000 executions (est.). Highest absolute European toll. Decentralized jurisdiction enabled superhunts. Bamberg, Würzburg, Trier, Ellwangen.",
+
+  "panel_description": "The Holy Roman Empire's German-speaking territories produced the largest absolute number of witch executions in European history — estimated at between 40,000 and 50,000 out of a continental total of approximately 50,000-60,000 — making the understanding of German prosecution central to the entire historiography of the witch trials.\n\n  The key structural feature identified by historians as explaining German prosecution's unique scale is the Empire's political fragmentation: hundreds of independent territorial jurisdictions — imperial cities, prince-bishoprics, secular principalities, landed knight territories — each possessed autonomous criminal justice authority with no effective centralizing appellate oversight comparable to the French Parlements or the English assize circuit. This meant that a local authority who wanted to prosecute could do so without metropolitan review, and that the cascade mechanism — each confession producing new denunciations — could run to its extreme without institutional interruption.\n\n  Midelfort's Witch Hunting in Southwestern Germany (1972) established the foundational quantitative and regional analysis. Behringer's Bavarian and broader comparative work identified the 'popular pressure' mechanism and the role of climate crisis. Roper's Nördlingen and Augsburg studies developed the psychoanalytic and gender analysis. The three great episcopal superhunts — Bamberg (~400 executions, 1626-1631), Würzburg (~400, 1626-1631), and Trier (~368, 1581-1593) — are the most intensively studied single prosecution episodes.\n\n  The Thirty Years' War (1618-1648) effectively ended the German mass prosecution wave, disrupting the social conditions that had sustained the cascade mechanism.",
+
+  "key_trial_events": [
+    "bamberg-1626-mass-prosecution",
+    "wurzburg-witch-trials-1626-1631",
+    "trier-witch-trials-1581-1593",
+    "ellwangen-witch-panic-1611-1618",
+    "eichstatt-witch-trials-1617-1631"
+  ],
+
+  "key_accused_persons": [
+    "dietrich-flade-trier-1589",
+    "johannes-junius-bamberg-1628",
+    "margaretha-binder-bamberg-1626"
+  ],
+
+  "scholarly_sources": [
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004",
+    "roper-witch-craze-2004",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "German territorial archives; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004); Roper, Witch Craze (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

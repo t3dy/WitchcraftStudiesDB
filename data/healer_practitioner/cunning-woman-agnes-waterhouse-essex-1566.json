@@ -1,0 +1,69 @@
+{
+  "id": "cunning-woman-agnes-waterhouse-essex-1566",
+  "name": "Agnes Waterhouse",
+  "status": "Executed",
+  "trial_id": "chelmsford-witch-trials-1566",
+  "location_id": "essex",
+  "year_interrogated": 1566,
+  "age_at_trial": 63,
+  "social_status": "Poor widow; resident of Hatfield Peverel, Essex; socially marginal; known in her community for suspected magical practice",
+  "gender": "Female",
+
+  "self_identification": "Admitted to possession of and working with a familiar spirit (a cat called Sathan) originally given to her by fellow accused Elizabeth Francis; described using the familiar for both service-magic and maleficium",
+  "claimed_abilities": [
+    "Working with familiar spirit Sathan (originally a cat, later a toad) for maleficium",
+    "Causing the death of her husband through familiar spirit agency",
+    "Causing illness and death of neighbors through the familiar",
+    "The familiar originally came from Elizabeth Francis and had been used for service magic including healing and recovering lost goods"
+  ],
+
+  "biography": "Agnes Waterhouse of Hatfield Peverel in Essex was the first woman judicially executed for witchcraft in England, hanged at Chelmsford on July 29, 1566. She was one of three women tried in the Chelmsford assizes of 1566 — the others being Elizabeth Francis and Agnes's daughter Joan Waterhouse — in the first major English witch trial under the Witchcraft Act of 1563. The trial was documented in a pamphlet, The Examination and Confession of certaine Wytches at Chelmsforde (1566).\n\n  Agnes Waterhouse's case is significant for the evidence it provides about the transmission of magical practice through community networks. According to the confessions recorded in the pamphlet, Elizabeth Francis had originally possessed the familiar spirit Sathan — received from her grandmother — and had passed him to Agnes Waterhouse, who kept him (apparently having transformed him from a cat into a toad) and used him for maleficium. The transmission narrative suggests that familiar spirits in the English tradition were understood as transferable resources within networks of practitioners — not permanently bound to a single person but capable of passing between practitioners.\n\n  Agnes Waterhouse's confession covered the use of Sathan to kill her husband and to harm neighbors with whom she had disputes. The case exemplifies the English prosecution pattern: an elderly poor widow with a history of community disputes who confessed to having used a familiar spirit to harm those who crossed her.",
+
+  "interrogation_narrative": {
+    "circumstances": "Examined before the Chelmsford assizes, July 1566; the 1566 proceedings were conducted under the newly passed Witchcraft Act of 1563; no detailed torture documented",
+    "self_identification": "Admitted to possession and use of familiar spirit Sathan; described the familiar's received character (from Elizabeth Francis); maintained the familiar-spirit framework throughout",
+    "interrogator_response": "The examination elicited detailed testimony about the familiar's history, capabilities, and use; the 1566 trial is notable for the relatively full confessional record preserved in the pamphlet",
+    "adaptation": "Waterhouse's confession appears relatively consistent and detailed, suggesting she had internalized the familiar-spirit framework as a genuine description of her practice rather than adopting it under interrogation pressure"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Possession of familiar spirit Sathan; using him for maleficium against her husband (killing him) and against neighbors",
+    "under_interrogation_pressure": "Named Elizabeth Francis as the source of the familiar; described the familiar's history and his transformation from cat to toad",
+    "final_confession": "Full confession to familiar-spirit maleficium; executed July 29, 1566"
+  },
+
+  "microhistorical_significance": "Agnes Waterhouse's case is the founding document of English witch prosecution under the 1563 Act and provides primary evidence for the English familiar-spirit transmission network documented by Wilby in Cunning Folk and Familiar Spirits (2005). The familiar Sathan's passage from Elizabeth Francis to Agnes Waterhouse to (apparently) Agnes's daughter Joan suggests a community network of familiar transmission rather than individually and independently received spirit helpers. Macfarlane's Witchcraft in Tudor and Stuart England (1970) analyzes the 1566 trial as the first systematic English prosecution documentation and Thomas's Religion and the Decline of Magic (1971) uses the trial as primary evidence for the English familiar tradition.",
+
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "Sathan (her familiar spirit, named — following the English tradition of named individuated familiars)",
+      "The familiar given to her by Elizabeth Francis",
+      "Use of the familiar for 'work' (maleficium)"
+    ],
+    "prosecution_categories": [
+      "Witchcraft under the 1563 Act (first major English prosecution under the statute)",
+      "Familiar spirit (the prosecution's category for her named spirit helper)",
+      "Maleficium causing death (her husband, neighbors)"
+    ]
+  },
+
+  "practical_activities": "Waterhouse's practice, as documented in her confession, was primarily maleficium rather than service magic: she used Sathan to kill her husband and harm enemies. The familiar had originally been received by Elizabeth Francis for service-magic purposes (recovery of goods, obtaining a husband), suggesting the dual-use character of the English familiar tradition documented by Thomas and Wilby.",
+
+  "interrogation_outcome": "Executed at Chelmsford, July 29, 1566. First English woman judicially executed for witchcraft.",
+
+  "historiographical_significance": "Agnes Waterhouse's 1566 case is the foundational document of English witch prosecution and the primary evidence for the English familiar-spirit tradition in its earliest prosecutorial form. Macfarlane's Witchcraft in Tudor and Stuart England (1970) places the 1566 Chelmsford trial as the starting point of his Essex prosecution analysis. Thomas's Religion and the Decline of Magic (1971) uses the Waterhouse familiar testimony as primary evidence for the English tradition. Wilby's Cunning Folk and Familiar Spirits (2005) analyzes the Sathan transmission narrative as evidence for community familiar-spirit networks rather than individually received spirit helpers. Her case establishes the pattern that subsequent English prosecution would follow: a poor elderly widow with community disputes, a named familiar spirit in animal form, maleficium against specific victims, and confession without elaborate Continental sabbath narrative.",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "The Examination and Confession of certaine Wytches at Chelmsforde (1566); analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Thomas, Religion and the Decline of Magic (1971); Wilby, Cunning Folk and Familiar Spirits (2005); Sharpe, Instruments of Darkness (1996)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether the familiar-transmission narrative (Francis → Waterhouse → Joan Waterhouse) reflects genuine community networks of familiar transmission or is a product of examination-driven construction — with the examiners connecting the three cases through a single narrative — is not fully resolvable from the pamphlet record.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

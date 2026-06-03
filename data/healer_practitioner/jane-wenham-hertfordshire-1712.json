@@ -1,0 +1,66 @@
+{
+  "id": "jane-wenham-hertfordshire-1712",
+  "name": "Jane Wenham",
+  "status": "Acquitted",
+  "trial_id": "walkern-witch-trial-1712",
+  "location_id": "essex",
+  "year_interrogated": 1712,
+  "age_at_trial": 70,
+  "social_status": "Aged, poor widow; resident of Walkern, Hertfordshire; known locally as a witch; had prior history of disputes with neighbors and informal witch accusations",
+  "gender": "Female",
+
+  "self_identification": "Not self-identified as a practitioner in the surviving record; denied witchcraft throughout; known in the community as 'the Wise Woman of Walkern' and locally suspected of magical practice",
+  "claimed_abilities": [
+    "Community knowledge attributed to her: healing and divination as a wise woman",
+    "Accused abilities: bewitching young women; causing fits; transforming herself into a cat"
+  ],
+
+  "biography": "Jane Wenham of Walkern in Hertfordshire was convicted of witchcraft by the Hertford assizes in March 1712, becoming the last person convicted (as opposed to executed) for witchcraft in England under the 1604 Witchcraft Act. The conviction was immediately reprieved by the presiding judge, Justice John Powell, who expressed skepticism about the evidence and effectively refused to allow the sentence to be carried out. She was subsequently pardoned and lived under the protection of patrons until her death around 1730.\n\n  Wenham had long been locally known as a suspected witch — the 'Wise Woman of Walkern' — and had prior informal accusations stretching back years before her formal prosecution. The immediate trigger for the 1712 prosecution was the affliction of Anne Thorn, a sixteen-year-old servant girl who experienced fits attributed to Wenham's witchcraft. The case attracted significant contemporary attention because it occurred at a time when educated opinion had largely rejected the reality of witchcraft, and the trial generated a pamphlet debate between those who defended the conviction as evidence of genuine witchcraft and those who attacked it as a disgraceful anachronism.\n\n  The case's significance lies partly in what it reveals about the gap between popular belief and elite legal culture in early eighteenth-century England: the Walkern community continued to credit witch accusations while the judiciary had effectively withdrawn its support for prosecution.",
+
+  "interrogation_narrative": {
+    "circumstances": "Examined in connection with Anne Thorn's affliction; admitted to the magistrate to being a witch ('I can do no more than a cat') in what appears to have been a confused response to examination pressure rather than a genuine admission; tried at Hertford Assizes, March 1712",
+    "self_identification": "Denied formal witchcraft while the community attributed wise-woman powers to her; her examination admission about the cat was ambiguous and possibly ironic",
+    "interrogator_response": "Justice Powell reportedly asked, of evidence that she had transformed into a cat, 'Is there any law against flying?' — indicating his skepticism; he subsequently reprieved the convicted Wenham",
+    "adaptation": "Wenham's case illustrates the Enlightenment period's judicial withdrawal from witch prosecution even when the popular and prosecutorial apparatus continued to function"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Ambiguous examination statement ('I can do no more than a cat'); did not produce a formal detailed confession",
+    "under_interrogation_pressure": "Limited admission under examination; formal conviction followed from witness testimony about affliction rather than from confession",
+    "final_confession": "Reprieved; survived; no execution"
+  },
+
+  "microhistorical_significance": "Jane Wenham's case is the terminal instance of the English cunning-woman prosecution pattern: an aged poor widow, locally known as a wise woman and suspected witch, whose community knowledge and dispute history made her an obvious target when a young woman in the village began experiencing afflictions. The case's outcome — conviction but judicial reprieve — documents the gap between popular witch belief (which remained capable of generating prosecution machinery) and judicial practice (which had effectively withdrawn from witch execution). Sharpe in Instruments of Darkness (1996) and Hutton in The Witch (2017) both analyze her case as a marker of the prosecution's terminal phase in England.",
+
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "Wise woman (the community's positive-valence description of her practice)",
+      "Witch (the prosecution's and community's negative category applied to the same practice)"
+    ],
+    "prosecution_categories": [
+      "Witchcraft under the 1604 Act",
+      "Bewitchment of Anne Thorn",
+      "Physical transformation (cat) attributed to her"
+    ]
+  },
+
+  "practical_activities": "Wenham's documented wise-woman practice is less detailed in the surviving record than her role as the object of accusation. Her community reputation as a wise woman suggests service-magic practice of some kind — the same dual reputation (healer/witch) documented in earlier English cases — but the 1712 prosecution focused on the harmful-magic side rather than documenting her practice in the way Goodcole's account documented Elizabeth Sawyer or Potts's account documented Old Demdike.",
+
+  "interrogation_outcome": "Convicted by Hertford assizes, March 1712; immediately reprieved by Justice Powell; subsequently pardoned; lived under patronage until approximately 1730.",
+
+  "historiographical_significance": "Jane Wenham's case is analyzed by Sharpe in Instruments of Darkness (1996) and Hutton in The Witch (2017) as the terminal marker of English witch prosecution — the last formal conviction, even if not the last execution (that had been 1682). Her case also generated a significant contemporary pamphlet debate that documents the intellectual transition: contributors to the debate included those defending the conviction's validity (demonstrating that belief in witch prosecution had not entirely collapsed even among educated commentators in 1712) and those attacking it (demonstrating that the intellectual climate had shifted decisively against prosecution). Ian Bostridge's Witchcraft and Its Transformations (1997) analyses this pamphlet debate in detail as evidence of the transition from a culture that could produce formal witch prosecutions to one that could not.",
+
+  "scholarly_sources": [
+    "sharpe-instruments-of-darkness-1996",
+    "hutton-the-witch-2017",
+    "thomas-religion-decline-magic-1971"
+  ],
+
+  "source_method": "Hertford Assize records (1712); contemporary pamphlet literature; analyzed in Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017); Bostridge, Witchcraft and Its Transformations (1997)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The exact meaning of Wenham's examination admission ('I can do no more than a cat') is debated — was it an accidental admission, a confused response, or an ironic dismissal of the examination? Justice Powell's skepticism is well documented, but the degree to which Wenham herself was a genuine service-magic practitioner is uncertain.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

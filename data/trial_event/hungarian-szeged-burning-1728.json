@@ -1,0 +1,44 @@
+{
+  "id": "hungarian-szeged-burning-1728",
+  "name": "Szeged Witch Trials, 1728",
+  "location_id": "hungary",
+  "date_range": "1728",
+  "approximate_executions": 13,
+  "approximate_accused": 15,
+  "jurisdiction": "Szeged municipal court; Habsburg jurisdictional framework; secular civic authority under Habsburg imperial administration",
+  "legal_framework": "Habsburg imperial law; municipal court of Szeged; the prosecution preceded Empress Maria Theresa's mid-eighteenth-century reforms that effectively ended Hungarian witch prosecution",
+
+  "overview": "The Szeged witch trials of 1728 produced the largest single cluster of witch executions in eighteenth-century Hungary, with thirteen persons burned following conviction on charges that included causing drought and famine through weather magic. Szeged, Hungary's major southern city on the Tisza River, was at the time under Habsburg administration following the Ottoman withdrawal, and the trials took place in the context of a drought that had devastated agricultural production in the region. The accused — men as well as women, unusually for a European witch trial — were charged with raising storms and suppressing rain through diabolical agency, explanations that mapped the climatic crisis onto a maleficent conspiracy.\n\nThe Szeged trials are frequently described as among the last major European mass witch executions: they occurred more than a generation after the Salem trials (1692) and more than half a century after the great German and Scottish panics. That they occurred at all at so late a date is analytically significant, and Central European historians — particularly Gábor Klaniczay and Éva Pócs — have traced the distinctive features of late Hungarian and Central European prosecution that allowed trials to continue after they had effectively ceased in Western Europe. The Habsburg administration would move decisively to end witch prosecution in the mid-eighteenth century, with Empress Maria Theresa ordering central review of witch trials in 1755 and effectively prohibiting execution for witchcraft.\n\nThe inclusion of male accused in significant numbers at Szeged is a feature Klaniczay connects to the specific cultural context of Hungarian folk belief systems, in which male magical practitioners played a more prominent role than in Western European tradition.",
+
+  "historiographical_analysis": "Gábor Klaniczay's The Uses of Supernatural Power (1990) analyses the Szeged trials as a late instance of Central European witch prosecution shaped by the region's distinctive folk belief traditions, including Hungarian táltos (shamanic practitioner) figures whose characteristics partially overlapped with the accused witch. Klaniczay situates the Szeged case within a Central European pattern in which the composite witch stereotype derived partly from indigenous belief systems concerning magical combat and the control of weather and fertility — traditions Éva Pócs analyses in Between the Living and the Dead (1999) as evidence that Hungarian folk belief preserved archaic elements absent from Western European tradition.\n\nPócs's analysis of the Szeged trial records identifies confessions that blend the imported Continental sabbath template with indigenous Hungarian elements, producing a hybrid demonological profile that reflects both the penetration of learned witch theory into provincial prosecution and the persistence of local magical traditions. Brian Levack's The Witch-Hunt in Early Modern Europe (2006) contextualises Szeged within the comparative geography of late prosecution, noting that Central European trials continued later than Western European ones partly because of the slower penetration of Enlightenment scepticism into Habsburg provincial administration and partly because of the distinct intellectual and religious climate of post-Ottoman Hungary.",
+
+  "accusation_patterns": {
+    "primary_targets": "Mixed gender — men as well as women accused, reflecting the Hungarian folk belief context in which male magical practitioners were recognised; accused persons included figures with pre-existing reputations for supernatural knowledge",
+    "geographic_spread": "Szeged and its surrounding region; the trials were locally contained without generating the commission-based cascade dynamics seen in earlier German or Scottish prosecutions",
+    "confession_characteristics": "Weather magic — drought causation and storm suppression — central to the accusations; diabolic pact and sabbath elements present alongside indigenous Hungarian folk belief elements; Klaniczay and Pócs identify hybrid confessional profiles blending Continental and indigenous templates"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "weather-magic-storm-raising",
+    "maleficium-harmful-magic",
+    "denunciation-cascade-mechanism"
+  ],
+
+  "primary_sources": "Szeged municipal court records, 1728; analyzed in Klaniczay, The Uses of Supernatural Power (1990); Pócs, Between the Living and the Dead (1999)",
+  "source_method": "Szeged municipal court records; analyzed in Klaniczay, The Uses of Supernatural Power: The Transformation of Popular Religion in Medieval and Early Modern Europe (1990); Pócs, Between the Living and the Dead: A Perspective on Witches and Seers in the Early Modern Age (1999); Levack, The Witch-Hunt in Early Modern Europe, 3rd ed. (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "klaniczay-uses-supernatural-power-1990",
+    "pocs-between-living-dead-1999",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "scholarly_disagreement": "The Szeged trials are frequently cited as among the last major European mass witch executions, but Levack notes the absence of reliable comparative statistics for late eighteenth-century Central European prosecution, which makes it difficult to determine with certainty that Szeged was the largest single event of its kind in the region at that period. Klaniczay and Pócs agree on the importance of indigenous Hungarian folk belief elements in shaping the confessional profile of the Szeged accused, but differ in emphasis: Klaniczay focuses on the structural transformation of popular religion under Christianity and the ways táltos traditions were assimilated to the witch stereotype, while Pócs gives more weight to the autonomous persistence of folk belief systems as independent variables. The relative weight of Habsburg institutional failure versus popular belief dynamics in enabling the late date of the prosecution is not settled in the literature.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

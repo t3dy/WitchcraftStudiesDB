@@ -1,0 +1,47 @@
+{
+  "id": "barstow-witchcraze-1994",
+  "title": "Witchcraze: A New History of the European Witch Hunts",
+  "author": "Anne Llewellyn Barstow",
+  "author_slug": "barstow-anne-llewellyn-b1935",
+  "year_published": 1994,
+  "edition_year": 1994,
+  "publisher": "Pandora/HarperCollins",
+  "text_type": "monograph",
+  "pages": 256,
+
+  "subject_focus": "A feminist synthesis arguing that the European witch hunts constituted fundamentally gender-based violence targeting women who represented independent power, sexuality, or knowledge, with particular emphasis on the misogynist dimensions of demonological theory.",
+
+  "summary": "Witchcraze is the most widely read feminist synthesis of the European witch hunts and the work that most forcefully articulated the argument that the trials constituted a systematic persecution of women as women. Barstow draws on the full European record to argue that the witch hunts were not primarily about heresy, social control, or theological anxiety but about the suppression of female power: healers, midwives, women with property, women with sexual autonomy. Her analysis emphasizes the misogynist dimensions of demonological theory — especially the Malleus Maleficarum's doctrines about female susceptibility — and the torture and sexual humiliation that characterized prosecution. Barstow estimates approximately 100,000 executions, with 85% of victims female. The work is written for a general as well as scholarly audience and has been far more widely read than most specialist monographs. It synthesizes an enormous range of European regional evidence while maintaining a consistent interpretive framework: that gender was the primary variable determining who was accused, prosecuted, and executed.",
+
+  "scholarly_significance": "Witchcraze performed important service for the historiography by insisting that gender must be treated as a primary analytical variable and by making the feminist case accessible to a broad audience. Its influence extended well beyond academic historiography, shaping public understanding of the witch trials and providing the most commonly cited feminist framework for their interpretation. As scholarship, it represents the fullest development of the feminist martyrology model that Purkiss subsequently critiqued: the narrative in which the witch trials represent a coherent campaign of gender-based violence and the accused women are understood as proto-feminist victims of patriarchal suppression. The work's most influential and most contested contribution is its execution estimate and female-proportion figure. Barstow's estimate of 100,000 executions and 85% female victims made the feminist case in statistical form; both figures have been substantially revised downward by subsequent demographic historians. Database entries for `persecuted_group` entries relating to female accused draw on Barstow's framework while noting the statistical revisions; her insistence on gendered analysis informs the `gender_analysis` sections of relevant entries.",
+
+  "key_arguments": [
+    {
+      "concept": "Gender as primary variable",
+      "claim": "Gender was the primary variable in witch prosecution: women were targeted because of anxieties about female power, sexuality, and independence, not merely because women happened to be overrepresented in the social categories that attracted accusation."
+    },
+    {
+      "concept": "Demonological misogyny",
+      "claim": "The Malleus Maleficarum and related demonological texts provided the theological justification for gendered prosecution by constructing women as inherently susceptible to demonic seduction due to their intellectual and moral weakness."
+    },
+    {
+      "concept": "Scale of persecution",
+      "claim": "The witch hunts resulted in approximately 100,000 executions across Europe, with approximately 85% of victims female; this scale and this gender proportion constitute a pattern of systematic gender-based violence."
+    },
+    {
+      "concept": "Torture and sexual humiliation",
+      "claim": "The forms of torture and bodily examination used in witch prosecution — including the search for the devil's mark on intimate body parts — constituted forms of sexual violence that were integral to the prosecution process, not incidental to it."
+    }
+  ],
+
+  "relation_to_database": "Barstow's gender analysis framework informs `persecuted_group` entries covering female accused and `demonological_concept` entries on female susceptibility. Her work is noted in the `scholarly_disagreement` sections of entries whose demographic evidence challenges her estimates. The feminist martyrology framework that Barstow represents is one of the positions the database maps in its historiographical_significance sections.",
+
+  "scholarly_disagreement": "Hutton's demographic analysis in The Witch (2017) argues that Barstow's figure of 100,000 executions is approximately double the best current estimate (which Hutton places at around 40,000–50,000), and that the pattern of female predominance was not universal — Iceland and Finland had majority male accused, and the Normandy prosecution targeted primarily men. Levack's revised estimates similarly fall substantially below Barstow's figure. Purkiss in The Witch in History (1996) criticized the feminist martyrology model as distorting the historical record by retroactively imposing a modern framework of gendered victimhood onto women who did not understand themselves in those terms, and by treating the accused as passive victims rather than agents in their own social worlds. Briggs in Witches and Neighbours (1996) argued that community dynamics and interpersonal conflict — not a top-down patriarchal campaign — drove most individual accusations, and that the gendered dimensions, while real, are better understood locally than as a continental program.",
+
+  "source_method": "Published text; Pandora/HarperCollins 1994",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

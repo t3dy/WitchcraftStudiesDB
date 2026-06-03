@@ -1,0 +1,43 @@
+{
+  "id": "augsburg-witch-trials-1586-1591",
+  "name": "Augsburg Witch Trials, 1586–1591",
+  "location_id": "augsburg",
+  "date_range": "1586–1591",
+  "approximate_executions": 10,
+  "approximate_accused": 10,
+  "jurisdiction": "Augsburg City Council (free imperial city); secular civic jurisdiction; biconfessional city with Lutheran and Catholic populations after 1555 Peace of Augsburg",
+  "legal_framework": "Imperial criminal law (Carolina, 1532); Augsburg city council jurisdiction; the city's biconfessional governance structure shaped the political context of prosecution",
+
+  "overview": "The Augsburg witch trials of 1586–1591 are significant less for their scale — approximately ten accused, a modest number by German standards — than for the analytical attention Lyndal Roper has devoted to them in Oedipus and the Devil (1994) as a window into the obstetric maleficium accusations that characterised southern German prosecution. Augsburg was a major free imperial city of the Holy Roman Empire, prosperous and culturally sophisticated, and its city council exercised considerable autonomous judgment in managing prosecution. The council's civic humanist tradition and its experience governing a biconfessional population under the terms of the 1555 Peace of Augsburg produced an institutional culture that tempered the intensity of prosecution relative to more vulnerable jurisdictions such as the ecclesiastical principalities.\n\nRoper's archival work in Augsburg's Stadtarchiv reconstructed individual trial records in detail sufficient to analyse the psychological and social texture of the accusations. The Augsburg cases share with the Nördlingen trials — the other major case study in Roper's subsequent Witch Craze (2004) — a concentration of accusation around obstetric care, maternal anxiety, and the vulnerability of newborns. Midwives, lying-in maids, and women who attended childbirths were disproportionately accused, and confessions centered on harm allegedly done to infants and post-partum mothers rather than on storm-raising or agricultural maleficium.\n\nThe relatively contained scale of the Augsburg prosecution reflects the city council's capacity to manage the trials institutionally, reviewing evidence with a degree of scepticism and declining to extend commission powers that might have generated the cascade dynamics observable in more vulnerable jurisdictions.",
+
+  "historiographical_analysis": "Lyndal Roper's Oedipus and the Devil: Witchcraft, Sexuality and Religion in Early Modern Europe (1994) provides the most detailed analysis of the Augsburg trials, arguing that the obstetric maleficium accusations reflect psychological dynamics of maternal ambivalence, projective anxiety, and the terror of the early modern lying-in period. Roper reads the confessions not as evidence of what accused women actually did but as evidence of what accusers feared — the destruction of new life by women whose access to vulnerable bodies made them plausible vehicles for projected dread. Wolfgang Behringer's Witchcraft Persecutions in Bavaria (English translation 1997; German original 1987) provides the regional quantitative framework within which Augsburg sits, noting that Bavarian and Swabian prosecution was less intensive than the imperial ecclesiastical principalities, partly because city councils and ducal administration exercised moderating oversight.\n\nStuart Clark's Thinking with Demons (1997) offers an implicit counterpoint: where Roper analyses obstetric maleficium through a psychoanalytic lens, Clark would situate the same material within the demonological tradition's systematic concern with attacking life at its most vulnerable — the theological rationale for diabolical interest in newborns, lying-in chambers, and the transitional moment of birth. The debate between Roper and Clark over interpretive framework is particularly vivid when applied to Augsburg because the archival record there is rich enough to sustain both readings.",
+
+  "accusation_patterns": {
+    "primary_targets": "Midwives, lying-in maids, and women associated with obstetric care; women with established reputations in childbirth assistance; accusations came primarily from mothers and families who had lost infants",
+    "geographic_spread": "Confined to Augsburg and its immediate environs; the city council's jurisdiction did not extend into the surrounding countryside, limiting cascade potential",
+    "confession_characteristics": "Confessions focused on infanticide-magic, application of harmful substances to newborns, harm to lying-in mothers; sabbath confessions present but secondary; the obstetric focus is more concentrated here than in generalist prosecution"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "obstetric-maleficium-birth-magic",
+    "maleficium-harmful-magic"
+  ],
+
+  "primary_sources": "Stadtarchiv Augsburg, trial records; analyzed in Roper, Oedipus and the Devil (1994); Behringer, Witchcraft Persecutions in Bavaria (1987/1997)",
+  "source_method": "Stadtarchiv Augsburg trial records; analyzed in Roper, Oedipus and the Devil: Witchcraft, Sexuality and Religion in Early Modern Europe (1994); Behringer, Witchcraft Persecutions in Bavaria: Popular Magic, Religious Zealotry and Reason of State in Early Modern Europe (1997); Hutton, The Witch: A History of Fear (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "roper-oedipus-and-the-devil-1994",
+    "behringer-witchcraft-persecutions-bavaria-1997",
+    "hutton-the-witch-2017"
+  ],
+
+  "scholarly_disagreement": "Roper's psychoanalytic framework for interpreting the Augsburg obstetric maleficium evidence — that confessions express projective maternal anxiety and unconscious ambivalence — is analytically productive but methodologically contested. Clark's intellectual-history approach would reread the same confessions as reflecting the demonological tradition's coherent theological reasoning about diabolical attack on life at its most vulnerable, without requiring the psychoanalytic mediation Roper employs. The Roper-Clark methodological tension is unfalsifiable at the level of individual case analysis: both readings are consistent with the evidence, and the choice between them depends on prior theoretical commitments. Behringer's quantitative framework is generally accepted but his emphasis on popular pressure as a driver of prosecution is contested by scholars who weight elite and institutional initiative more heavily.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

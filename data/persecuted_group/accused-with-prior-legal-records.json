@@ -1,0 +1,37 @@
+{
+  "id": "accused-with-prior-legal-records",
+  "name": "Persons with Prior Criminal or Moral Records",
+  "category": "demographic",
+  "temporal_scope": "c. 1450–1700",
+  "primary_regions": ["british-isles", "french-territories", "german-states"],
+
+  "group_profile": "A consistent feature of the accused witch's profile across diverse prosecution contexts was a prior history of legal or moral irregularity: previous prosecutions for theft, fornication, scolding, or other offenses; ecclesiastical court appearances for moral violations; or community reputation for moral disorder. Macfarlane's Essex analysis documents that accused witches frequently had prior appearances before secular and ecclesiastical courts for offenses unrelated to witchcraft, and that this prior record served as both practical evidence of disreputable character and as accumulated institutional record making prosecution administratively easier.\n\n  The connection operated in both directions. A prior record of immoral conduct made a person a credible target for witch accusation: community members who already knew someone as a scold, thief, or loose woman could readily extend that existing negative evaluation to include witchcraft. At the same time, a prior record provided the prosecuting magistrate with an established case file and with witnesses who had already testified against the accused person in another context. The transformation of an existing 'bad character' file into a witch prosecution was institutionally smoother than initiating an entirely new inquiry.\n\n  Briggs's Lorraine analysis finds that many of the accused in the Lorraine records had ongoing or prior disputes with neighbors that included previous formal or informal complaints — not necessarily criminal prosecutions but records of neighborhood conflict that served the same function of establishing credibility for witch accusation.",
+
+  "persecution_rationale": "Contemporary moral theology and social practice established a clear connection between moral disorder and vulnerability to diabolical influence: the person who had previously sinned (as evidenced by their prior record) had demonstrated weakness of will and susceptibility to temptation, making the further step of diabolical compact more plausible. For community members making the accusation, the prior record confirmed that the accused was already known to be a person of bad character; for the prosecutor, it provided additional witnesses familiar with the accused's 'disorderly' conduct; for the court, it established that the accused was not a community member whose long record of good behavior deserved the benefit of the doubt.",
+
+  "structural_vulnerability": "The structural vulnerability of persons with prior legal or moral records derived from the cumulative character of reputation in small community contexts: once a person had appeared in court or been censured by the church, they carried that mark indefinitely in communities where information circulated through neighbor networks. Macfarlane's Essex study documents that prior court appearances could be retrieved and cited years later in witch prosecutions, creating a ratchet effect in which each additional legal encounter increased long-term prosecution vulnerability. The absence of any formal mechanism for clearing one's record meant that even minor past offenses remained permanent features of one's community standing.",
+
+  "historiographical_significance": "The role of prior criminal or moral records in facilitating witch prosecution is documented by Macfarlane for Essex, by Briggs for Lorraine, and acknowledged in Levack's comparative synthesis. Thomas's broader analysis of the relationship between moral reform and witch prosecution in Reformation England provides the theological context: both projects — moral discipline through ecclesiastical courts and witch prosecution through secular courts — targeted similar populations of social non-conformists, and the populations overlapped substantially. The specific connection between ecclesiastical court appearances (for sexual offenses, scolding, nonconformity) and subsequent witch accusation in the same community has been quantified by Macfarlane for Essex, suggesting that the ecclesiastical court process itself served as a social marking mechanism that increased subsequent witch accusation vulnerability.",
+
+  "exemplary_accused_persons": [
+    "ursula-kemp-st-osyth-1582"
+  ],
+  "related_demonological_concepts": [
+    "bewitchment-illness-attribution",
+    "charity-refusal-accusation-model"
+  ],
+
+  "scholarly_disagreement": null,
+  "source_method": "Essex Assize and Quarter Sessions records; ecclesiastical court records; Lorraine court records; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Briggs, Witches and Neighbours (1996); Thomas, Religion and the Decline of Magic (1971)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "briggs-witches-neighbours-1996",
+    "thomas-religion-decline-magic-1971"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

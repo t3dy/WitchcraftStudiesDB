@@ -1,0 +1,70 @@
+{
+  "id": "joan-tyrry-somerset-1555",
+  "name": "Joan Tyrry",
+  "status": "Imprisoned",
+  "trial_id": "somerset-cunning-woman-1555",
+  "location_id": "essex",
+  "year_interrogated": 1555,
+  "age_at_trial": 50,
+  "social_status": "Lower-status woman; Taunton area, Somerset; practiced cunning craft involving fairy encounter and healing knowledge; economic position dependent partly on payment for magical services",
+  "gender": "Female",
+
+  "self_identification": "Cunning woman who had received her healing knowledge from the fairies; described specific fairy encounter at a crossroads where she had been visited by a supernatural company and subsequently learned to heal through their instruction",
+  "claimed_abilities": [
+    "Healing of sick persons through knowledge and materials received from the fairies",
+    "Recovery of stolen goods through fairy assistance",
+    "Identification of thieves and malefactors through supernatural knowledge",
+    "Working with fairy-given herbs and materials for healing purposes"
+  ],
+
+  "biography": "Joan Tyrry of the Taunton area in Somerset was interrogated in 1555 before the diocese of Bath and Wells on charges related to her magical practice, which she described as rooted in a fairy encounter. Thomas documents her case in Religion and the Decline of Magic (1971) as one of the clearest English examples of the fairy-healer type: a practitioner who attributed her knowledge and abilities to a supernatural encounter rather than to human teaching, and who used that supernaturally derived knowledge for community benefit.\n\n  Tyrry's self-described practice followed the fairy-healer pattern documented by Hutton and Wilby across Scottish and English sources: she had encountered a company of fairies at a crossroads, been instructed by them, and subsequently used the knowledge and materials they provided for healing and recovery of stolen goods. The crossroads location of the encounter is significant — crossroads were culturally marked as liminal spaces where the fairy world intersected with the ordinary world, and the encounter at this location was consistent with the broader geography of fairy-contact practice documented across the British Isles.\n\n  Thomas analyzes her case as evidence that the fairy-encounter framework for cunning-folk knowledge was present in the west of England as well as in the better-documented Scottish cases. Her interrogation before the bishop of Bath and Wells rather than a secular criminal court reflects the mid-Tudor ecclesiastical jurisdiction over magical practice before the 1563 Witchcraft Act transferred primary jurisdiction to secular courts.",
+
+  "interrogation_narrative": {
+    "circumstances": "Interrogated before the diocese of Bath and Wells, 1555; ecclesiastical rather than criminal proceeding; the proceedings reflect pre-1563 Act jurisdiction over magical practice",
+    "self_identification": "Cunning woman receiving knowledge from the fairies; described the fairy encounter at the crossroads as the origin of her practice; maintained the fairy-healer framework throughout the examination",
+    "interrogator_response": "The ecclesiastical court applied the standard framework of unauthorized magical practice; the fairy-encounter narrative was processed through available categories of unauthorized engagement with spirits",
+    "adaptation": "Tyrry's testimony appears to reflect genuine belief in the fairy-healer framework rather than strategic adaptation to examination pressure — the consistency and specificity of her account suggests she was describing what she actually believed had happened to her"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Healing practice based on fairy-received knowledge; recovery of stolen goods; use of fairy-given materials",
+    "under_interrogation_pressure": "Maintained the fairy-healer narrative; did not substantially transform her account into the demonic-compact template that later examinations would impose",
+    "final_confession": "Case outcome uncertain from Thomas's documentation; apparently imprisoned rather than executed; the ecclesiastical court's jurisdiction typically resulted in penance rather than capital punishment"
+  },
+
+  "microhistorical_significance": "Joan Tyrry's case is significant as a west-English instance of the fairy-healer type in its pre-1563-Act, ecclesiastical-court form. Thomas's analysis in Religion and the Decline of Magic (1971) uses her case to demonstrate the geographic distribution of fairy-healer belief across the English countryside, while Hutton's broader comparative work in The Witch (2017) situates the Somerset case within the British Isles pattern of fairy-encounter cunning practice. The case predates the statutory criminalization of witchcraft in 1563 and thus represents the ecclesiastical-court phase of magical practice prosecution, which typically imposed penance and community reconciliation rather than execution.",
+
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "The fairies (her supernatural instructors)",
+      "Fairy-given herbs and materials",
+      "The crossroads encounter",
+      "Healing through fairy-received knowledge"
+    ],
+    "prosecution_categories": [
+      "Unauthorized magical practice",
+      "Engagement with spirits (the ecclesiastical court's category)",
+      "Cunning woman practices"
+    ]
+  },
+
+  "practical_activities": "Tyrry's documented practice included healing (of whom and what conditions is not fully specified in the surviving record), recovery of stolen goods, and possibly identification of malefactors. The fairy-received knowledge framework provided both the authority for her practice (supernaturally derived) and the materials she used (fairy-given herbs and remedies).",
+
+  "interrogation_outcome": "Ecclesiastical court proceeding; outcome was likely penance rather than execution; Thomas's account does not document a capital outcome.",
+
+  "historiographical_significance": "Joan Tyrry's case is documented primarily through Thomas's Religion and the Decline of Magic (1971) and represents one of the clearest pre-1563-Act English cunning woman cases with explicit fairy-encounter content. Hutton's The Witch (2017) and Wilby's Cunning Folk and Familiar Spirits (2005) situate her case within the broader analysis of how fairy-healer practice operated across the British Isles. Her case demonstrates that the Somerset west-country tradition of fairy-encounter cunning practice was present before the statutes and before the documented Scottish cases that Goodare and Henderson have analyzed in detail.",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017",
+    "wilby-cunning-folk-2005"
+  ],
+
+  "source_method": "Bath and Wells diocesan records (1555); analyzed in Thomas, Religion and the Decline of Magic (1971); Hutton, The Witch (2017); Wilby, Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Thomas's documentation of Tyrry's case is relatively brief, and the full record of her examination is not published in extenso; the details of her case are therefore known through Thomas's summary rather than through the primary document. The MEDIUM confidence reflects this documentation gap rather than any doubt about her existence or the basic character of her practice.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

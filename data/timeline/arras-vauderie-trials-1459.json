@@ -1,0 +1,25 @@
+{
+  "id": "arras-vauderie-trials-1459",
+  "event_name": "Arras vauderie mass witch prosecution begins",
+  "event_type": "trial_event",
+  "date": "1459",
+  "date_precision": "circa",
+  "circa_range": "1459-1460",
+  "location": "Arras, Artois",
+  "location_slug": null,
+  "significance": "The Arras vauderie of 1459-1460 was an early French mass prosecution targeting a group accused of attending sabbaths ('vauderies') with Satan, resulting in approximately twelve persons burned and many more accused; the trial is significant as an early documented instance of the composite witch stereotype applied in urban prosecution, prefiguring the pattern of chain-reaction denunciations under torture.",
+  "related_entities": [
+    "cohn-europes-inner-demons-1975",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "source_method": "Primary chronicle sources analyzed in Cohn, Europe's Inner Demons (1975) and Ankarloo and Clark, Witchcraft and Magic in Europe: The Middle Ages (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "cohn-europes-inner-demons-1975",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

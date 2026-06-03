@@ -1,0 +1,34 @@
+{
+  "id": "bavaria",
+  "name": "Bavaria",
+  "modern_country": "Germany (Bavaria)",
+  "latitude": 48.135,
+  "longitude": 11.582,
+  "location_type": "region",
+
+  "hover_description": "Bavaria, 1580s–1630s: German superhunt cluster. Behringer's primary research territory. Includes Ellwangen (~450), Eichstätt (~274), Oberstdorf shaman case 1587.",
+
+  "panel_description": "Bavaria and the broader Swabian-Franconian region of the Holy Roman Empire produced some of the most intensively analyzed European witch prosecutions, and is the primary research territory of Wolfgang Behringer, whose Bavarian archival work transformed the historiography of German persecution. The region produced multiple sequential mass prosecution clusters spanning roughly 1560-1640.\n\n  The Wiesensteig panic of 1562-1563 (~70 executions) was one of the first large-scale German prosecutions, followed by the Oberstdorf case of Chonrad Stoeckhlin (1587) — a horse wrangler who claimed to travel with the 'Phantoms of the Night' and whose case Behringer analyzed as the Bavarian parallel to Ginzburg's benandanti. The Ellwangen panic (1611-1618) produced approximately 450 executions in a Swabian imperial abbey; the Eichstätt prosecution (1617-1631) approximately 274 under Bishop von Westerstetten.\n\n  Behringer's most important historiographical contribution from the Bavarian material is the 'popular pressure' argument: his archival research demonstrated that Bavarian communities frequently petitioned for witch prosecution rather than having it imposed from above. Communities who believed themselves under diabolical attack demanded action from episcopal and secular authorities, sometimes overcoming official reluctance. This reversal of the assumed prosecution direction (elite imposition onto resistant communities) has been widely influential.\n\n  Lyndal Roper's work on Nördlingen and Augsburg within the broader Swabian-Bavarian context developed the obstetric maleficium analysis: the targeting of midwives and lying-in maids for alleged attacks on newborns and post-partum mothers.",
+
+  "key_trial_events": [
+    "eichstatt-witch-trials-1617-1631",
+    "ellwangen-witch-panic-1611-1618",
+    "nördlingen-witch-trials-1590-1598"
+  ],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "midelfort-witch-hunting-1972",
+    "roper-witch-craze-2004",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Bavarian state archives; analyzed in Behringer, Witches and Witch-Hunts (2004); Midelfort, Witch Hunting in Southwestern Germany (1972); Roper, Witch Craze (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

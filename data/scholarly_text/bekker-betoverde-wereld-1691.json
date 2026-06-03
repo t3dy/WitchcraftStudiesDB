@@ -1,0 +1,42 @@
+{
+  "id": "bekker-betoverde-wereld-1691",
+  "title": "De Betoverde Wereld (The World Bewitched / The Enchanted World)",
+  "author": "Balthasar Bekker",
+  "author_slug": "bekker-balthasar-b1634",
+  "year_published": 1691,
+  "original_year": 1691,
+  "publisher": "Daniel van Dalen, Amsterdam (4 vols., 1691–1693; Dutch original; translated into French, English, and German within a decade of publication)",
+  "series": null,
+  "text_type": "primary_source",
+
+  "subject_focus": "A systematic Cartesian-Reformed argument that Scripture correctly understood did not support the reality of diabolical compacts or Satan's physical action in the world; the most comprehensive intellectual challenge to the theological foundations of witch prosecution from within Protestant orthodoxy.",
+
+  "summary": "Balthasar Bekker's De Betoverde Wereld (1691–1693) is the most systematic intellectual challenge to witch-prosecution theology from within mainstream Reformed Protestantism. Published in four volumes in Amsterdam, it argued on two parallel fronts: first, that Cartesian natural philosophy — specifically the strict separation of mind and matter — made it philosophically impossible for immaterial spirits, including Satan, to act directly on material bodies; second, that careful biblical criticism revealed the proof-texts cited in support of witch prosecution had been systematically misinterpreted. The work generated an enormous public controversy: the Amsterdam consistory suspended Bekker from his ministry in 1692, but popular support sustained his salary by subscription and the book became a bestseller, going through multiple editions in Dutch and translations into French, English, and German. The work's combination of Cartesian physics and Reformed biblical criticism made it the landmark text of the intellectual movement away from witch prosecution theology in the Dutch Republic and Protestant Europe generally.",
+
+  "scholarly_significance": "Clark in Thinking with Demons provides the most important modern analysis, situating De Betoverde Wereld within the broader history of demonological criticism and demonstrating that Bekker's argument operated from within Reformed theological premises rather than from outside them — he was not a skeptic about Scripture but a rigorous interpreter of it. The significance Clark attributes to De Betoverde Wereld is as evidence for the moment at which Cartesian natural philosophy and Reformed biblical scholarship became available as internal resources for challenging prosecution theology. Levack in The Witch-Hunt in Early Modern Europe uses Bekker as a key text in documenting the intellectual transition away from prosecution in the late seventeenth century. Hutton in The Witch situates Bekker within the broader European pattern of prosecution decline, noting the Dutch Republic's exceptional early cessation of witch execution.",
+
+  "key_arguments": [
+    {
+      "concept": "Cartesian argument against diabolical physical action",
+      "claim": "If mind and matter are strictly separated (Cartesian dualism), then immaterial spirits cannot directly act on material bodies; therefore all alleged physical effects of diabolical compacts — storms, illness, harm to livestock — are philosophically impossible. Bekker was among the first to draw explicitly anti-prosecution implications from Cartesian physics."
+    },
+    {
+      "concept": "Biblical criticism of proof-texts",
+      "claim": "The witch of Endor (1 Samuel 28) and related Old Testament passages cited in support of prosecution had been systematically misinterpreted; careful exegesis showed that the beings evoked were not literally demons but either natural phenomena or divine interventions under God's direct control."
+    },
+    {
+      "concept": "Satan's power circumscribed by Reformed theology",
+      "claim": "Reformed biblical interpretation, properly applied, showed that Satan was bound and his physical powers circumscribed; the prosecutorial theology that gave the devil vast autonomous power to contract with witches was both philosophically impossible (Cartesian) and theologically unsound (Reformed)."
+    }
+  ],
+
+  "relation_to_database": "De Betoverde Wereld is the primary source for the bekker-balthasar-b1634 scholar entry's account of Cartesian anti-prosecution theology. The witch-trial-skepticism concept entry draws on Bekker's argument as the culminating statement of the Reformed skeptical tradition. The judicial-skepticism-prosecution-decline concept entry cites De Betoverde Wereld as marking the intellectual transition in Dutch and broader Protestant prosecution culture.",
+
+  "scholarly_disagreement": "The precise causal weight of Bekker's work in ending Dutch and broader European prosecution is debated; Levack and Hutton see it as part of a broader intellectual and institutional transformation rather than a single decisive cause. Whether Bekker's Cartesian argument or his biblical criticism was the more influential strand — for his contemporaries and for the longer intellectual history — is a secondary scholarly question. Clark notes that the controversy around the book's condemnation may have amplified its influence through publicity.",
+  "source_method": "Published primary source; Dutch original Daniel van Dalen, Amsterdam 1691–1693 (4 vols.); French translation Abrégé du Monde Enchanté (Amsterdam 1694); English selections published 1695; modern scholarly editions available in Dutch and German",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

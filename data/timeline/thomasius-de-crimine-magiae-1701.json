@@ -1,0 +1,24 @@
+{
+  "id": "thomasius-de-crimine-magiae-1701",
+  "event_name": "Thomasius argues witchcraft prosecution legally invalid",
+  "event_type": "primary_source_publication",
+  "date": "1701",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Halle, Prussia",
+  "location_slug": null,
+  "significance": "Christian Thomasius's De Crimine Magiae (On the Crime of Magic, 1701) argued that witchcraft prosecutions were legally invalid because witchcraft was an impossible crime and confessions produced under torture were evidentially worthless; the work is credited with accelerating the end of witch prosecution in German territories and represents the most systematic natural-law critique of the entire prosecutorial tradition.",
+  "related_entities": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "source_method": "Published primary source (Halle, 1701); analyzed in Clark, Thinking with Demons (1997) and Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

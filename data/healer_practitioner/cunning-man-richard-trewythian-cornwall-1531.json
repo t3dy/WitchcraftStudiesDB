@@ -1,0 +1,70 @@
+{
+  "id": "cunning-man-richard-trewythian-cornwall-1531",
+  "name": "Richard Trewythian",
+  "status": "Not prosecuted",
+  "trial_id": null,
+  "location_id": "england",
+  "year_interrogated": 1531,
+  "age_at_trial": null,
+  "social_status": "Cunning man of Bodmin, Cornwall; mid-level practitioner of divination, healing, and recovery of stolen goods; sufficiently established to seek informal ecclesiastical recognition; brought to the attention of the Bishop of Exeter's visitation rather than secular courts",
+  "gender": "Male",
+
+  "self_identification": "Practitioner of divination and healing using a book of palmistry and crystal gazing; his practice was oriented toward legitimate service functions including finding lost goods and diagnosing illness",
+  "claimed_abilities": [
+    "Divination using a book of palmistry",
+    "Crystal gazing for divinatory purposes",
+    "Recovery of stolen or lost goods",
+    "Healing and health consultation"
+  ],
+
+  "biography": "Richard Trewythian of Bodmin, Cornwall is documented in the records of the Bishop of Exeter's visitation of 1531 as a cunning man whose practice combined palmistry, crystal gazing, and the service-magic functions standard across the English tradition: divination, recovery of lost and stolen goods, and healing consultation. His case is one of the earliest documented named cunning-man cases in the English southwest, and Thomas's Religion and the Decline of Magic (1971) uses it as evidence for the widespread geographic distribution of cunning practice and for the range of institutional responses it encountered.\n\nTrewythian's case came before the Bishop of Exeter's visitation — a church disciplinary mechanism — rather than a secular witchcraft prosecution, illustrating the institutional spectrum available for handling service magicians in the pre-Elizabethan period before the 1563 Witchcraft Act gave secular courts primary jurisdiction. Church visitation typically aimed at discipline and correction rather than capital punishment; the result in Trewythian's case was ecclesiastical censure rather than criminal prosecution.\n\nThe use of a 'book of palmistry' is significant: it places Trewythian within the tradition of practitioners who used printed or manuscript books of popular magic as instruments of their practice, a category Thomas documents extensively as evidence for the percolation of learned magical texts into vernacular service-magic use. Crystal gazing similarly connects his practice to the ceremonial magic tradition of scrying, widely practiced across the social spectrum in this period.\n\nHis location in Cornwall — the westernmost region of England, relatively remote from centers of ecclesiastical and secular authority — may partly explain both his survival as a practitioner and the relatively mild institutional response when his practice came to attention.",
+
+  "interrogation_narrative": {
+    "circumstances": "Bishop of Exeter's visitation of 1531; ecclesiastical rather than criminal proceedings; Cornwall",
+    "trewythian_initial_claim": "He practiced divination using a book of palmistry and crystal gazing to assist clients in finding lost goods and obtaining health guidance",
+    "interrogator_response": "The visitation authorities recorded his practice as a matter requiring ecclesiastical correction; the response was disciplinary rather than prosecutorial, reflecting the pre-1563 institutional framework",
+    "adaptation": "No criminal interrogation in the standard sense; the visitation context produced a disciplinary encounter rather than an adversarial examination aimed at producing confession to a capital charge"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Practice of palmistry and crystal gazing for divination; service-magic functions of finding lost goods and health consultation",
+    "under_interrogation_pressure": "Ecclesiastical visitation did not involve the sustained interrogation pressure of secular criminal proceedings; his admissions are recorded as factual statements of practice rather than coerced confessions",
+    "final_confession": "Ecclesiastical censure; not prosecuted criminally; practice presumably continued in some form after the visitation encounter"
+  },
+
+  "microhistorical_significance": "Trewythian's case illustrates the pre-persecution institutional landscape that Thomas documents in Religion and the Decline of Magic (1971): before the Elizabethan witchcraft legislation, service magicians in England occupied a legally ambiguous position in which ecclesiastical discipline was the primary — and relatively mild — institutional response to discovered practice. The visitation encounter rather than a capital prosecution represents the normal outcome for a cunning man in 1531.\n\nGinzburg's framework for reading practitioner testimony is less directly applicable here than in cases where criminal interrogation produced detailed confessional documents, but the Trewythian case contributes to the picture of what practitioners actually did — the practical activities of a working cunning man — before prosecutorial pressure transformed service-magic into witchcraft. The books and crystal that constituted his working instruments appear here in their authentic service context rather than as prosecution evidence reconstructed through hostile reframing.",
+
+  "actor_vs_analyst_terminology": {
+    "trewythian_language": [
+      "Book of palmistry (his divination instrument)",
+      "Crystal gazing (his scrying practice)",
+      "Finding lost and stolen goods",
+      "Health consultation"
+    ],
+    "prosecution_categories": [
+      "Superstitious practice (ecclesiastical category)",
+      "Unauthorized divination",
+      "Forbidden magical arts (church discipline)"
+    ]
+  },
+
+  "practical_activities": "Divination using a book of palmistry and crystal gazing; recovery of stolen or lost goods; health consultation. These are the standard functions of the English cunning-man tradition as documented by Thomas and Hutton. His use of a printed palmistry book connects him to the tradition of learned-text use in popular service magic.",
+
+  "interrogation_outcome": "Ecclesiastical censure from the Bishop of Exeter's visitation of 1531; not prosecuted criminally; no recorded execution or imprisonment.",
+
+  "historiographical_significance": "Thomas's Religion and the Decline of Magic (1971) uses Richard Trewythian's case as evidence for the widespread geographic distribution of cunning practice in early sixteenth-century England and for the range of social legitimation strategies practitioners employed — including, in Trewythian's case, a sufficiently public profile that he came to the attention of a bishop's visitation. Macfarlane's Witchcraft in Tudor and Stuart England (1970) provides the broader Essex-focused framework for English service-magic prosecution within which Cornwall's different trajectory (ecclesiastical rather than criminal) is significant. Hutton's The Witch (2017) discusses early documented English cunning-folk cases as evidence for the service-magic tradition's continuity and geographic range before the Elizabethan witchcraft laws transformed the institutional context.",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+
+  "source_method": "Bishop of Exeter's visitation records, 1531; documented in Thomas, Religion and the Decline of Magic (1971); Macfarlane, Witchcraft in Tudor and Stuart England (1970) provides broader context",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Thomas in Religion and the Decline of Magic (1971) emphasizes the continuity and geographic breadth of English cunning-folk practice, using cases like Trewythian's as evidence for a widespread tradition operating within recognizable social and institutional boundaries. Macfarlane's analysis concentrates more heavily on the Essex prosecution record and the breakdown of community relations; the southwest English pattern Trewythian represents, with its lighter institutional response, is not the subject of extended debate but its different character relative to the Essex pattern is implicitly significant for assessing how regional institutional context shaped outcomes for service magicians.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

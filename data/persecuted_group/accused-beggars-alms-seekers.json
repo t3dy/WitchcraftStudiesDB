@@ -1,0 +1,41 @@
+{
+  "id": "accused-beggars-alms-seekers",
+  "name": "Beggars and Alms-Seekers",
+  "category": "social_class",
+  "temporal_scope": "c. 1550–1700",
+  "primary_regions": ["english-territories", "german-states", "scandinavian-north"],
+
+  "group_profile": "The specific vulnerability of persons who sought alms — the destitute poor who depended on neighborhood charity rather than institutional poor relief — is documented with particular clarity in the Thomas-Macfarlane charity-refusal model. The model identifies a characteristic sequence: a person known to be dependent on alms-giving came to a neighbor's door, was refused, expressed resentment (through a verbal curse or merely in a hostile departure), and the neighbor subsequently experienced misfortune. The neighbor's guilt at having refused the moral obligation of charity — a deeply rooted obligation in both medieval Catholic and reformed Protestant culture, though differently articulated — was displaced onto the person refused, who was then accused of causing the harm through maleficium.\n\n  Thomas's Religion and the Decline of Magic (1971) situates this mechanism within the broad social transformation of the sixteenth century: the dissolution of the monastic poor-relief network, the shift in Protestant theology toward selective charity based on the worthiness of recipients, and the emergence of the Elizabethan Poor Law system created a period in which traditional charitable obligations were disrupted and the destitute poor were simultaneously more numerous and less institutionally supported. The guilt of the individual who refused a beggar's request was thus heightened by the disruption of the institutional mechanisms that had formerly processed charitable obligation collectively.\n\n  Macfarlane's quantitative analysis of Essex cases in Witchcraft in Tudor and Stuart England (1970) provides the empirical foundation: he documents that a significant proportion of Essex witch accusations followed the charity-refusal sequence, with the accuser able to identify a specific incident of refusal or conflict that preceded the subsequent misfortune attributed to maleficium. Elizabeth Sawyer of Edmonton, whose case was dramatized by William Rowley, Thomas Dekker, and John Ford in The Witch of Edmonton (1621), exhibits several features of the charity-refusal pattern.",
+
+  "persecution_rationale": "At the actor level, the accusation was framed in terms of maleficium: the beggar who had been refused had caused specific harm through magical means, typically expressed through a verbal curse. The curse was understood as a performative magical act — not merely an expression of anger but an operative mechanism through which the witch's will was imposed on the victim. Demonological theory provided the ultimate framework: the witch's maleficium operated through demonic assistance, so the beggar's resentful curse worked because a demonic compact amplified the natural (and potentially lethal) force of a morally wronged person's expressed anger. The English familiar-spirit tradition added a specific mechanism: the beggar's familiar spirit carried out the maleficium on the witch's behalf, materializing the curse into an operative attack on the victim's household or body.",
+
+  "structural_vulnerability": "Thomas's structural analysis identifies the alms-seeking poor as the intersection of two forms of social vulnerability: the objective poverty that made them dependent on charity, and the subjective guilt they generated in persons who refused them. The displacement of that guilt onto accusation was facilitated by the wide cultural availability of witchcraft as an explanatory framework for misfortune: the combination of prior resentment and subsequent harm made a causal inference not irrational within the belief framework available to early modern communities. Macfarlane's quantitative work shows that the inference was not random — accusers identified specific prior refusals, not arbitrary targets — indicating that the mechanism was not purely projectional but reflected genuine sequences of interaction. The alms-seeking person's legal vulnerability compounded their structural exposure: they typically lacked the resources to mount a defense, had no land or property at stake that might motivate institutional protection, and could not call on a patron network of the kind available to higher-status accused persons.",
+
+  "historiographical_significance": "The Thomas-Macfarlane charity-refusal model is one of the most influential explanatory frameworks in the social history of English witch prosecution, and the alms-seeking poor are its central subjects. The model has been influential but also controversial: critics have argued that it is too specific to English social conditions to explain the European witch-hunt generally, and that even within England it cannot explain all prosecution patterns. Briggs's Witches and Neighbours is the most sustained comparative critique: while Lorraine shows similar prior-conflict patterns, the specific charity-refusal mechanism — with its reliance on the Protestant transformation of charitable practice — does not map onto Lorraine in the same way. The broader significance is for the question of whether witch prosecution was primarily driven by elite demonological theory or by community-level social dynamics. The alms-seeker pattern firmly supports community-level dynamics, but the precise mechanism — Thomas's guilt-displacement versus a more straightforward attribution of misfortune to a known malevolent person — remains debated.",
+
+  "exemplary_accused_persons": [
+    "elizabeth-sawyer-edmonton-1621",
+    "sarah-good-salem-1692"
+  ],
+  "related_demonological_concepts": [
+    "charity-refusal-accusation-model",
+    "maleficium-harmful-magic",
+    "animal-familiar-english"
+  ],
+
+  "scholarly_disagreement": "Thomas (Religion and the Decline of Magic) argues that the charity-refusal mechanism was specifically a product of the Reformation's disruption of traditional poor relief, making it a historically specific English phenomenon tied to the sixteenth century. Macfarlane (Witchcraft in Tudor and Stuart England) endorses the structural analysis while remaining somewhat more cautious about the specific charitable-disruption thesis. Briggs (Witches and Neighbours) argues that Continental cases show prior-conflict patterns that parallel the English data without exhibiting the specific charity-refusal mechanism, suggesting that the Thomas model captures one version of a broader prior-conflict dynamic rather than the general explanation for accusation. Levack questions whether the correlation between charity-refusal and accusation establishes causation or merely reflects that persons in ongoing conflict were likely to have multiple points of friction including charitable refusals.",
+  "source_method": "Essex assize records analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Thomas, Religion and the Decline of Magic (1971); Lorraine depositions analyzed in Briggs, Witches and Neighbours (1996); Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "briggs-witches-neighbours-1996",
+    "levack-witch-hunt-early-modern-2006",
+    "sharpe-instruments-of-darkness-1996"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

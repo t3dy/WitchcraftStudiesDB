@@ -1,0 +1,24 @@
+{
+  "id": "finnmark-witch-panic-begins-1620",
+  "event_name": "Finnmark witch prosecution begins at Vardø",
+  "event_type": "trial_event",
+  "date": "1620",
+  "date_precision": "approximate",
+  "circa_range": null,
+  "location": "Finnmark, Norway",
+  "location_slug": "norway",
+  "significance": "Systematic witch prosecution began in Finnmark, Norway, around 1620 with major trials at Vardø, continuing until 1692 and resulting in approximately 91 executions from a population of roughly 3,000 — the highest per-capita execution rate in Europe; the prosecution specifically targeted Sámi noaidi tradition alongside Norwegian-speaking communities, making it a distinctive case of colonially inflected witch-hunting.",
+  "related_entities": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+  "source_method": "Finnmark county court records; analyzed in Ankarloo and Henningsen, Early Modern European Witchcraft (1990) and Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "levack-witch-hunt-early-modern-2006",
+    "behringer-witches-witch-hunts-2004"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

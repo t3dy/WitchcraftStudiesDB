@@ -1,0 +1,92 @@
+{
+  "id": "barstow-anne-llewellyn-b1935",
+  "name": "Anne Llewellyn Barstow",
+  "birth_year": 1935,
+  "death_year": null,
+  "birth_place": "United States",
+  "academic_discipline": "History; Women's History; Religious Studies",
+  "primary_institution": "State University of New York, Old Westbury (Professor Emerita)",
+  "specialization": "Feminist analysis of witch prosecution; gender and the witch hunt; women's history of the early modern period; religious violence against women",
+
+  "major_works": [
+    {
+      "title": "Witchcraze: A New History of the European Witch Hunts",
+      "year": 1994,
+      "publisher": "HarperSanFrancisco",
+      "significance": "Feminist synthesis arguing that the European witch hunts were a coordinated gendered attack on women and women's independence, deploying the demographic evidence of female predominance in prosecution to support a misogyny-driven explanatory framework",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Married Priests and the Reforming Papacy: The Eleventh-Century Debates",
+      "year": 1982,
+      "publisher": "Edwin Mellen Press",
+      "significance": "Barstow's earlier work in medieval religious history; provides the background for her understanding of how Christian institutional structures shaped attitudes toward gender and sexuality",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "FEMINIST HISTORIAN / GENDERED-PERSECUTION THESIS PROPONENT",
+
+  "core_argument": "Barstow's core argument in Witchcraze (1994) is that the European witch hunts constituted a specifically gendered attack on women — a systematic campaign whose primary function was the control and terrorization of women's social autonomy, sexual independence, and traditional expertise (midwifery, healing). She calculates total European executions as higher than many contemporary scholars accept (claiming approximately 100,000 executions, of whom around 80% were women) and argues that the concentration of prosecution on women cannot be explained by the Thomas-Macfarlane community-dynamics model or by Clark's intellectual history of demonology alone, but requires acknowledgment of the specifically misogynistic structures of early modern patriarchal culture as the primary explanatory factor. The witch, in Barstow's analysis, was targeted because she represented female independence — sexual, economic, and spiritual — that patriarchal church and civic structures found threatening.",
+
+  "methodological_approach": {
+    "primary_materials": "Published trial records; demographic data from European witchcraft scholarship; secondary literature synthesis",
+    "analysis_target": "The gendered character of prosecution; female predominance in accusation and execution; the role of patriarchal structures in generating and sustaining prosecution",
+    "evidence_type": "Demographic statistics; feminist historiographical analysis; synthesis of the scholarly literature",
+    "explanatory_level": "Structural gender analysis: Barstow explains prosecution primarily through the structural features of early modern patriarchy and misogyny rather than through specific community dynamics or individual theological systems"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Witch hunt as coordinated gendered attack",
+      "claim": "The female predominance in witch prosecution — approximately 75-80% female across Europe — reflects a coordinated cultural and institutional attack on female independence, traditional expertise, and sexual autonomy rather than the accidental product of community dynamics that happened to target women.",
+      "implication": "Explaining witch prosecution requires central attention to patriarchal structures and misogyny, not merely to community social dynamics or learned demonological theory."
+    },
+    {
+      "concept": "Midwives as targeted specialists",
+      "claim": "Midwives and female healers were disproportionately targeted because their expertise and social role constituted a form of female authority threatening to medical and religious male professionals.",
+      "implication": "The prosecution of midwives reflects the broader displacement of female expertise by emerging male professional medicine, not merely the application of a general witch-stereotype."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Barstow's work is primarily synthetic rather than archivally based; she draws on the demographic data assembled by Levack, Monter, Midelfort, and other scholars rather than conducting original archival research, which has been a point of critique."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Karlsen (shared feminist approach to witch prosecution; similar analysis of gender as the primary variable)",
+      "Purkiss (shared feminist attention to gender, though different methodological approach)"
+    ],
+    "creative_tension_with": [
+      "Hutton (Hutton accepts female predominance as real but questions the coordinated-misogyny explanation, offering demographic and social explanations for the pattern instead)",
+      "Macfarlane (charity-refusal model explains female predominance through community dynamics without requiring a misogyny-coordination thesis)",
+      "Clark (intellectual history of demonology is not primarily a history of misogyny in Clark's analysis)",
+      "Levack (comparative synthesis accepts gender as a variable while offering a more multi-causal framework)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Barstow's feminist framework provides interpretive context for persecuted_group entries on elderly-women-accused, property-holding-women, and midwives-obstetric-healers, and represents the feminist historiographical tradition that must be engaged in any comprehensive account of the gendered dimensions of prosecution.",
+    "analytical_weight": "Barstow represents the gendered-persecution thesis in its strongest form and provides the feminist historiographical position against which more nuanced multi-causal explanations of female predominance are developed."
+  },
+
+  "historiographical_significance": "Witchcraze (1994) was the most widely read feminist synthesis of witch-trial historiography in the 1990s and brought the gendered dimensions of prosecution to a broader public audience. Its impact on popular understanding of the witch hunts was substantial. Among professional historians, its reception has been more critical: Hutton, Levack, and others have accepted the demographic evidence of female predominance while questioning Barstow's calculation of total execution numbers (now considered an overestimate) and her explanation of the pattern through coordinated misogyny rather than the intersection of community dynamics, social vulnerability, and demographic patterns. The midwife-targeting thesis has been specifically critiqued by Harley and others who find no statistical evidence that midwives were disproportionately prosecuted. Barstow's work nevertheless remains a necessary reference point in the historiography, both for its demographic compilation and for its articulation of the feminist explanatory framework.",
+
+  "scholarly_disagreement": "The total execution number Barstow advances (approximately 100,000) is now generally considered an overestimate; current scholarship places the total lower, with Levack's synthesis suggesting approximately 40,000-60,000 executions. The coordinated-misogyny explanation for female predominance has been qualified by Hutton's demographic analysis, which identifies specific social vulnerability factors (widowhood, poverty, dispute history) that explain female predominance without requiring a coordination thesis. The midwife-targeting claim is contested by Harley's archival research finding no statistical evidence of disproportionate midwife prosecution.",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-europe-1987",
+    "hutton-the-witch-2017",
+    "karlsen-devil-shape-woman-1987"
+  ],
+
+  "source_method": "Primary works: Witchcraze: A New History of the European Witch Hunts (HarperSanFrancisco, 1994); synthesis of published European witchcraft scholarship",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

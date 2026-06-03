@@ -1,0 +1,36 @@
+{
+  "id": "accused-in-confessional-conflict",
+  "name": "Accused Persons in Confessional Conflict Zones",
+  "category": "religious_minority",
+  "temporal_scope": "c. 1520–1700",
+  "primary_regions": ["german-states", "french-territories", "british-isles"],
+
+  "group_profile": "In territories where Protestant-Catholic confessional competition was intense — border zones between Reformed, Lutheran, and Catholic territories; territories undergoing forced confessional change; mixed confessional communities — witch prosecution acquired a specifically confessional dimension not present in more religiously homogeneous territories. Persons identified with a religious minority within the dominant confessional framework faced a specific additional vulnerability: their non-conformity to the dominant religious culture was legible through the demonological category of diabolical deviation.\n\n  The pattern operated in multiple directions. Catholics accused in newly Protestant territories could be targeted as adherents of a 'false religion' that critics associated with magical practice and idolatry; Protestants in Catholic territories could be identified as instruments of the devil's assault on the true Church. Anabaptists and other radical reformers were particularly vulnerable, as their rejection of infant baptism was theologically interpretable through the lens of the witch's renunciation of baptism. In the French religious wars context, confessional violence created conditions of social disruption in which witch prosecution was one element of a broader crisis of community order.\n\n  The specific vulnerability differed from the more general social marginality of foreigners or the destitute: the accused in confessional conflict zones could be established community members whose religious difference, rather than social marginality, provided the prosecution's initial framing.",
+
+  "persecution_rationale": "Reformed and Catholic demonological theory both connected heresy and witchcraft as species of the same diabolic deviation from true Christianity. Protestant reformers identified Catholic practice — images, relics, sacramental magic — as forms of diabolically empowered false religion; Catholic authorities identified Protestant rejection of sacramental efficacy as opening a gap through which diabolical power could enter. In both framings, the other confession's adherents were persons whose religious practice placed them in proximity to diabolical influence and therefore made them plausible as actual diabolical agents.",
+
+  "structural_vulnerability": "The structural vulnerability of confessional minorities in prosecution zones derived from the convergence of general prosecution mechanisms with a specifically religious marker. A neighbor's misfortune attributed to witchcraft was especially credible when attributed to the heretic neighbor rather than to the coreligionist; the confessional difference provided an explanatory logic for why this particular person would have commerce with the devil. Levack's comparative analysis notes that confessional-frontier zones produced some of the most intensive prosecution in Europe: the Lorraine-German border, the Swiss-German borderlands, the Scottish-English borders — all zones where confessional competition was sustained and intense. The connection between confessional competition and prosecution is, however, not mechanical; many confessional frontier zones did not produce intense prosecution, and the precise relationship between confessional conflict and prosecution intensity remains a subject of scholarly analysis.",
+
+  "historiographical_significance": "The connection between confessional competition and witch prosecution has been analyzed by Levack in The Witch-Hunt in Early Modern Europe (multiple editions) and by Walker in Unclean Spirits (1981) for the possession-case dimension of confessional competition. Clark's Thinking with Demons (1997) analyzes the specifically Protestant and Catholic versions of demonological theory that emerged from the Reformation context, showing how each confession elaborated the theological framework for witch prosecution in ways specific to their theological commitments. Muchembled's acculturation thesis situates much of French and Franco-Belgian prosecution in the context of Counter-Reformation disciplining of popular culture — an argument that connects confessional imperialism to prosecution in a specific regional framework. The degree to which confessional competition specifically drove prosecution, versus being one element in a multi-causal complex, is the central scholarly debate.",
+
+  "exemplary_accused_persons": [],
+  "related_demonological_concepts": [
+    "witch-apostasy-heresy-doctrine",
+    "diabolical-initiation-renunciation",
+    "confessional-competition-witch-prosecution"
+  ],
+
+  "scholarly_disagreement": "Levack identifies confessional frontiers as a contributing factor in prosecution intensity while resisting the claim that confessional competition was the primary driver. Muchembled's acculturation thesis argues for a stronger causal role of Counter-Reformation religious imperialism. The degree to which prosecution in specific confessional-conflict territories was primarily driven by religious competition versus community social dynamics is debated case by case.",
+  "source_method": "German territorial court records; French Huguenot-Catholic zone records; analyzed in Levack, The Witch-Hunt in Early Modern Europe; Walker, Unclean Spirits (1981); Clark, Thinking with Demons (1997); Muchembled, Popular Culture and Elite Culture in France 1400-1750 (1985)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "levack-witch-hunt-early-modern-europe-1987",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

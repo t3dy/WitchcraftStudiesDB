@@ -1,0 +1,73 @@
+{
+  "id": "anne-redferne-pendle-1612",
+  "name": "Anne Redferne",
+  "status": "Executed",
+  "trial_id": "pendle-witch-trial-1612",
+  "location_id": "lancashire",
+  "year_accused": 1612,
+  "year_executed": 1612,
+  "age_at_trial": 40,
+  "social_status": "Daughter of Anne Whittle (Old Chattox); poor woman; associated with the Chattox family's cunning-folk practice network in the Forest of Pendle",
+  "gender": "Female",
+
+  "biography": "Anne Redferne was the daughter of Anne Whittle, known as Old Chattox, and was executed alongside her mother at the Lancaster Summer Assizes on August 20, 1612. She is the most legally complex of the Pendle accused, having been tried twice: acquitted in a first trial and then convicted and executed in a second trial on a different charge. Her case illustrates the determination of the prosecution once the Pendle investigation had been set in motion by Roger Nowell's examinations.\n\n  The primary accusation against Anne Redferne concerned the making of clay images ('pictures') intended to work maleficium against the Nutter family of Pendle. James Device's testimony described her as having made such images at Malkin Tower; Old Demdike's confession also implicated the Chattox family in clay-image practice used against Robert Nutter, who had died after a dispute with Old Chattox. Whether Anne herself or her mother was primarily responsible for the clay images is not clearly established by the testimony, which involved multiple family members.\n\n  Her first trial, on a charge related to the death of Robert Nutter through witchcraft, resulted in acquittal. The prosecution then brought a second indictment, for the bewitchment of Christopher Nutter's death, on which she was convicted and executed. The double-trial structure — unusual in the Pendle proceedings — suggests a prosecutorial determination to secure conviction that went beyond the normal assizes procedure.",
+
+  "arrest_narrative": "Anne Redferne was implicated in Roger Nowell's investigation through testimony from her mother Anne Whittle and from members of the Device family about Chattox family practice at Malkin Tower. She was arrested in April 1612 along with the primary Pendle accused and imprisoned at Lancaster Castle. Her association with clay-image manufacture and with the Nutter family deaths provided the specific charges brought against her at the August assizes.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1612-04",
+      "method": "Examination before Roger Nowell; imprisoned at Lancaster Castle; no detailed surviving examination transcript for Anne Redferne herself",
+      "initial_response": "Examination records less detailed than those of Old Demdike or Alizon Device; she was primarily implicated through others' testimony rather than her own confession",
+      "duration": "Examination details incomplete in Potts's account"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "No detailed confession attributed to Anne Redferne herself in the surviving record; she was primarily accused through the testimony of others.",
+    "sabbath_activities": "The Pendle proceedings did not develop elaborate sabbath testimony; James Device testified to a gathering at Malkin Tower on Good Friday 1612 but Anne Redferne's role therein is not separately documented.",
+    "maleficium_claimed": "Clay image manufacture attributed to her and her mother; linked to deaths in the Nutter family through image-magic.",
+    "accomplices_named": []
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Anne Redferne's case demonstrates the cascade dynamic by which family association could generate prosecution independently of any direct confession: she was convicted substantially on the testimony of others rather than through her own confession. Her first acquittal and subsequent second trial reflect the prosecution's capacity, in 1612 Lancashire, to pursue conviction through multiple indictments when initial charges failed. The scarcity of detailed confession testimony attributed to her specifically (compared to Old Demdike or Alizon Device) suggests she may have been less cooperative with the examination procedure than other Pendle accused.",
+    "plausibility": "The clay image practice attributed to the Chattox family — including Anne Redferne — is consistent with the physical maleficium tradition documented by Thomas and Macfarlane in English witch prosecution: image magic as a materially enacted form of hostile magic. Whether Anne Redferne herself made the images or participated in the practice attributed to her family is not determinable from the surviving evidence.",
+    "social_vulnerability": "Anne Redferne's position as daughter of the locally notorious Old Chattox placed her within the prosecuted cunning-folk network from the start of the investigation. The Chattox-Device family rivalry documented in Potts's account — the two families competing for the same service-magic clientele — generated testimony between them that proved fatal. Her poverty and her family's known magical practice left her with no social resources to resist once the prosecution was underway."
+  },
+
+  "execution_details": {
+    "date": "1612-08-20",
+    "method": "Hanged at Lancaster",
+    "location": "Lancaster, Lancashire",
+    "witnesses": "Court officials, public; executed alongside her mother Anne Whittle and other Pendle condemned",
+    "final_statement": "No specific final statement preserved for Anne Redferne."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and maleficium through clay image manufacture",
+    "Contributing to the bewitchment death of Robert Nutter (first trial: acquitted)",
+    "Contributing to the bewitchment death of Christopher Nutter (second trial: convicted and executed)"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "No organized community defense; the Device-Chattox families had no social resources to mount petitions or formal defense.",
+    "defense_arguments": "Her first acquittal implies that some doubts existed about the sufficiency of the evidence against her, but the second trial overcame those doubts through different charges."
+  },
+
+  "historiographical_significance": "Anne Redferne's double trial — acquitted in the first, convicted in the second — is the clearest procedural irregularity in the Pendle prosecutions and has attracted attention as evidence of the determination to secure conviction once a prosecution was under way. The device of bringing multiple indictments when initial charges failed demonstrates the prosecutorial leverage available in assizes procedure. Sharpe's Instruments of Darkness (1996) notes the Pendle trials generally as evidence of how community dynamics — the Chattox-Device rivalry, the Roger Nowell examination pressure, the Jennet Device child-witness testimony — combined to produce a mass prosecution from what might otherwise have been an isolated accusation. Her case also illustrates the family-network vulnerability that Macfarlane identifies as central to the English prosecution pattern: once one member of a known cunning-folk family came under examination, family associations made other members vulnerable to cascade implication.",
+
+  "source_method": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613); Roger Nowell's examinations; Lancaster Assize records; analyzed in Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "sharpe-instruments-of-darkness-1996"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Thomas Potts, The Wonderfull Discoverie of Witches in the Countie of Lancaster (1613)",
+  "scholarly_disagreement": "The extent to which Anne Redferne practiced the clay-image magic attributed to her, as opposed to being implicated through family association and others' testimony, is not determinable from the surviving evidence. Her first acquittal suggests the initial evidence was insufficient; her subsequent conviction on different charges raises questions about how much the second trial reflected additional evidence versus prosecutorial persistence."
+}

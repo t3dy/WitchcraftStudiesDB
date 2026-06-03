@@ -1,0 +1,90 @@
+{
+  "id": "walker-daniel-p-b1914",
+  "name": "D. P. Walker",
+  "birth_year": 1914,
+  "death_year": 1985,
+  "birth_place": "United Kingdom",
+  "academic_discipline": "History of Ideas; Music History; Renaissance and Early Modern Intellectual History",
+  "primary_institution": "Warburg Institute, University of London",
+  "specialization": "Spiritual and demonic magic in Renaissance thought; demonic possession and exorcism in France and England; Neoplatonism and occult philosophy; music and the occult in Renaissance culture",
+
+  "major_works": [
+    {
+      "title": "Spiritual and Demonic Magic from Ficino to Campanella",
+      "year": 1958,
+      "publisher": "Warburg Institute, London",
+      "significance": "Foundational study of the learned magical tradition in Renaissance philosophy; traces the development of spiritual and demonic magic theory from Marsilio Ficino through Giambattista della Porta and Tommaso Campanella",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Unclean Spirits: Possession and Exorcism in France and England in the Late Sixteenth and Early Seventeenth Centuries",
+      "year": 1981,
+      "publisher": "Scholar Press, London; University of Pennsylvania Press",
+      "significance": "Definitive study of the major possession and exorcism cases in France and England, covering the Loudun possessions, the Denise de la Caille case, the Darrell exorcism controversy in England, and others; analyzes possession as a site of theological and confessional competition",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "INTELLECTUAL HISTORIAN / POSSESSION AND EXORCISM SPECIALIST",
+
+  "core_argument": "Walker's contribution to witch-trial historiography comes primarily through his work on demonic possession, which he analyzes as a phenomenon located at the intersection of Catholic-Protestant theological competition, learned demonological theory, and individual psychology. Unclean Spirits (1981) examines the major French and English possession cases of the late sixteenth and early seventeenth centuries and argues that possession and exorcism were sites of confessional controversy: both Catholic and Protestant authorities used possession cases as evidence for their theological claims, and the theological investment of both sides in producing credible possession narratives shaped both the experience of the possessed and the theological interpretation applied to it. Walker's Warburg Institute background places his analysis firmly in the intellectual-history tradition — he reads possession case documents as evidence of ideas and their institutional expression rather than as evidence of social or community dynamics.",
+
+  "methodological_approach": {
+    "primary_materials": "Primary texts of possession cases (Loudun inquisition records, Darrell controversy pamphlets, French possession case documentation); Renaissance learned magical texts (Ficino, della Porta, Campanella)",
+    "analysis_target": "The theological and philosophical ideas expressed in possession cases; the confessional competition between Catholic and Protestant accounts of possession and exorcism; the learned magical tradition's relationship to demonological theory",
+    "evidence_type": "Textual analysis; intellectual history; primary documents of possession controversies",
+    "explanatory_level": "Intellectual history: Walker explains possession cases as expressions of learned ideas and institutional theological competition rather than as social phenomena"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Possession as confessional competition",
+      "claim": "The major French and English possession cases were sites of Catholic-Protestant theological competition: each side used possession and exorcism as evidence for its theological claims, with Catholic authorities demonstrating the reality of exorcism (which Protestant theology rejected) and Protestant authorities demonstrating Catholic fraud.",
+      "implication": "The specific content and character of major possession cases cannot be understood without the confessional-competition context in which both the experience and the interpretation were embedded."
+    },
+    {
+      "concept": "Renaissance learned magic and demonic theory",
+      "claim": "The learned magical tradition from Ficino onward developed a sophisticated theory of spiritual and demonic forces that provided the intellectual framework for both 'high' ritual magic and the demonological theory that informed witch prosecution.",
+      "implication": "Demonological theory is continuous with the Renaissance learned magic tradition rather than being a separate or opposed tradition; the same natural-philosophical assumptions about demonic agency underlie both."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "trial_records": "Walker worked extensively with the primary documentation of major possession cases, particularly the Loudun records, and with the primary texts of the learned magical tradition."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Clark (shared intellectual-history approach; Clark's Thinking with Demons extends Walker's analysis of learned demonology)",
+      "De Certeau (both work on the Loudun possessions as a site of cultural analysis)"
+    ],
+    "creative_tension_with": [
+      "Thomas/Macfarlane (Walker's intellectual-history approach contrasts with their social-history methodology)",
+      "Ginzburg (different analytical focus: learned tradition versus popular substratum)"
+    ]
+  },
+
+  "database_engagement": {
+    "integration": "Walker's Unclean Spirits provides scholarly context for the loudun-possessions-1634 trial_event entry and for the diabolical-possession-exorcism demonological_concept entry; his Spiritual and Demonic Magic provides the intellectual-history background for understanding how learned demonological theory developed from Renaissance natural philosophy.",
+    "analytical_weight": "Walker provides the intellectual-history analysis of the possession tradition that complements Clark's broader treatment of demonological theory in Thinking with Demons."
+  },
+
+  "historiographical_significance": "Walker's Unclean Spirits (1981) remains the most thorough intellectual history of the major French and English possession cases and provided the scholarly foundation on which subsequent work — including de Certeau's The Possession at Loudun (1970/2000) and Levack's The Devil Within (2013) — built. His Spiritual and Demonic Magic established the continuity between Renaissance learned magic and early modern demonological theory, a connection that Clark's Thinking with Demons developed in greater detail. Walker's Warburg Institute training made him one of the few scholars to combine rigorous intellectual history of the learned magical tradition with close analysis of specific possession and exorcism cases.",
+
+  "scholarly_disagreement": "Walker's intellectual-history approach, which prioritizes the ideas expressed in possession cases over their social or community dynamics, has been complemented but also complicated by subsequent social-historical and psychoanalytic approaches (de Certeau, Roper) that read the same cases for different kinds of evidence.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "source_method": "Primary works: Unclean Spirits (Scholar Press, 1981); Spiritual and Demonic Magic from Ficino to Campanella (Warburg Institute, 1958); Loudun and Darrell controversy primary documents",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

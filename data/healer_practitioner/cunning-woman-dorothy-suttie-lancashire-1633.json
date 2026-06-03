@@ -1,0 +1,66 @@
+{
+  "id": "cunning-woman-dorothy-suttie-lancashire-1633",
+  "name": "Dorothy Suttie (of Thornton-in-Lonsdale)",
+  "status": "Acquitted",
+  "trial_id": "lancashire-witch-trials-1633",
+  "location_id": "england",
+  "year_interrogated": 1633,
+  "age_at_trial": null,
+  "social_status": "Cunning woman of Thornton-in-Lonsdale, Lancashire; practitioner of service magic and healing; accused as part of the 1633 Lancashire witch trial cluster triggered by the boy Edmund Robinson's false testimony",
+  "gender": "Female",
+
+  "self_identification": "A woman with knowledge of healing practices and service magic whose practice was understood locally as legitimate beneficial magic rather than harmful witchcraft",
+  "claimed_abilities": [
+    "Healing by traditional methods and charms",
+    "Service magic consultation for neighbors",
+    "Counter-magic and protective charms"
+  ],
+
+  "biography": "Dorothy Suttie of Thornton-in-Lonsdale was one of the persons accused in the 1633 Lancashire witch trials, the second major witch prosecution in the Pendle area following the 1612 Pendle witch trial. The 1633 accusations were initiated by Edmund Robinson, a ten-year-old boy who claimed to have witnessed a sabbath gathering; his accusations eventually named approximately seventeen persons who were tried at Lancaster. However, the King's Privy Council ordered an investigation, and Robinson eventually confessed that he had invented his testimony. The accused, including Suttie, were examined by royal physicians who reported finding no witch's marks; most were ultimately released.\n\n  Suttie's case is representative of the type of local cunning woman whose established practice and community reputation for service magic made her a plausible target when a sweeping accusation required local suspects. The 1633 case demonstrates an important feature of the English trial pattern that Macfarlane and Sharpe analyze: the role of prior community reputation in determining who was accused when witch-finding commenced. Established practitioners like Suttie, whose magical services were locally known, provided Robinson or his family with the names needed to substantiate a broad accusation.\n\n  The 1633 case is significant precisely because it failed: the Privy Council investigation, the medical examination, and ultimately Robinson's confession all operated as the moderating mechanisms that Levack identifies as characteristic of the English common-law system at its most functional. Suttie's acquittal, alongside most of the other accused, demonstrates the English system's capacity for self-correction through appellate and investigative mechanisms.",
+
+  "interrogation_narrative": {
+    "circumstances": "Lancaster Assizes, 1633; accused by Edmund Robinson's testimony; subject to the Privy Council investigation commissioned to examine the accusations",
+    "suttie_initial_claim": "Denied the specific charges in Robinson's testimony; her service-magic practice, if any, was framed as legitimate healing rather than diabolical witchcraft",
+    "interrogator_response": "The Privy Council investigation sought physical evidence (witch's marks) and ultimately found Robinson's testimony unreliable; no forced confession was obtained in the English common-law framework",
+    "adaptation": "The absence of judicial torture meant Suttie was not subject to the pressure that would have compelled Continental-style confession; her case ended in acquittal following the investigation's findings"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "The record for Suttie specifically is limited; no confession to witchcraft is documented; the charges rested on Robinson's testimony",
+    "under_interrogation_pressure": "Medical examination found no witch's mark; Robinson's eventual confession to fabricating testimony undermined all the accusations",
+    "final_confession": "Acquitted; released following the investigation"
+  },
+
+  "microhistorical_significance": "Suttie's case illustrates Ginzburg's analytical point about the gap between the practitioner's own self-understanding and the prosecution's diabolical framework: her service-magic practice, if locally established, was understood within the community as beneficial rather than harmful. The accusation mechanism — Robinson's fabricated testimony drawing on community knowledge of who practiced magic locally — demonstrates how prosecution cascades could target established practitioners even when the specific charges were invented. The 1633 case's failure also illustrates the English procedural constraints that Sharpe identifies as distinguishing the English pattern from Continental mass prosecution.",
+
+  "actor_vs_analyst_terminology": {
+    "suttie_language": [
+      "Healing and service magic as understood practice",
+      "Denial of the specific accusations"
+    ],
+    "prosecution_categories": [
+      "Witch (accused by Edmund Robinson's testimony)",
+      "Sabbath participant (Robinson's specific charge)"
+    ]
+  },
+
+  "practical_activities": "Healing and service magic practice in the Thornton-in-Lonsdale area; the specific details of her practice are not preserved in surviving documentation, but her accusation in a witch-finding sweep suggests a community reputation for magical services.",
+
+  "interrogation_outcome": "Acquitted following the Privy Council investigation of 1633-1634 and Edmund Robinson's confession to fabricating his accusations.",
+
+  "historiographical_significance": "The 1633 Lancashire case is analyzed by Macfarlane in Witchcraft in Tudor and Stuart England (1970) and by Sharpe in Instruments of Darkness (1996) as a case study in the English system's moderating mechanisms. Hutton in The Witch (2017) discusses the case as evidence for the varied trajectory of English witch accusation — not all accusation cascades resulted in execution, and the English common-law system contained internal corrections that could identify false accusation. Suttie's acquittal, alongside most of the 1633 accused, is one of the cleaner English examples of prosecution failure through institutional self-correction rather than individual skepticism.",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "sharpe-instruments-of-darkness-1996",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Lancaster Assizes records, 1633; Privy Council investigation documents; analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Sharpe, Instruments of Darkness (1996); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "The individual record for Dorothy Suttie specifically is limited in surviving documentation; her inclusion here draws on the general record of the 1633 Lancashire accusations and the pattern of what types of persons were accused. Macfarlane and Sharpe both discuss the 1633 case at the level of the general accusation pattern rather than individual accused persons; the specific details of Suttie's practice are not recoverable from current sources with HIGH confidence.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

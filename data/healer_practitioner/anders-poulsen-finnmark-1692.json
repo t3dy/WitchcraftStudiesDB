@@ -1,0 +1,72 @@
+{
+  "id": "anders-poulsen-finnmark-1692",
+  "name": "Anders Poulsen",
+  "status": "Executed",
+  "trial_id": "finnmark-witch-trials-norway-1620-1692",
+  "location_id": "norway",
+  "year_interrogated": 1692,
+  "age_at_trial": null,
+  "social_status": "Sámi elder; owner and user of a traditional shaman's drum (runebomme); traditional noaidi practitioner in the Finnmark region; among the last documented Sámi shamans formally prosecuted under Norwegian witchcraft law",
+  "gender": "Male",
+
+  "self_identification": "Practitioner of the traditional Sámi noaidi vocation — a hereditary shamanic role involving drum-use, spirit mediation, and community service including healing, divination, and protection against harmful forces",
+  "claimed_abilities": [
+    "Drum-assisted divination and spirit communication using the traditional Sámi runebomme",
+    "Healing through shamanic intervention and spirit mediation",
+    "Knowledge of illness causes through shamanic diagnosis",
+    "Protection of the community through traditional noaidi practice",
+    "Spirit travel facilitated by drum use"
+  ],
+
+  "biography": "Anders Poulsen was an elderly Sámi man from the Finnmark region of northern Norway, tried and executed in 1692 as one of the last persons prosecuted in the Finnmark witch trials — one of the most intensive regional witch-persecution campaigns in Scandinavian history, which had run from approximately 1620 and disproportionately targeted the Sámi population as well as Norwegian women. Poulsen's case is distinctive and particularly significant because the central piece of evidence against him was his possession and use of a traditional Sámi shaman's drum (the runebomme or noaidi-goavddis), which was submitted to the court as a material exhibit.\n\nThe drum's images and symbols — characteristic markings representing the Sámi cosmological world, its three levels, its spirit figures, and the paths between them — were interpreted by the prosecution as diabolical iconography: a catalogue of demonic associates and a manual of satanic practice. This interpretive transformation of Sámi cosmological art into prosecution evidence is documented as a primary instance of the mechanism by which indigenous shamanic material culture was processed through the diabolical witch stereotype.\n\nPoulsen was described as elderly, likely in his eighties, and represented the survival into the late seventeenth century of a traditional Sámi shamanic vocation that colonial and ecclesiastical pressure had been suppressing for generations. His execution in 1692 coincided chronologically with the Salem trials and came at the end of the Finnmark prosecutorial wave, making it one of the last instances of formal noaidi prosecution.\n\nGinzburg discusses the Finnmark noaidi cases in Ecstasies (1991) as evidence of the Sámi shamanic tradition's encounter with the witch-prosecution apparatus, noting the structural affinities between noaidi practice and the ecstatic traditions he traces across Eurasia.",
+
+  "interrogation_narrative": {
+    "circumstances": "Norwegian court, Finnmark, 1692; the drum was submitted as physical evidence and its symbols interpreted by prosecution authorities as indices of diabolical practice",
+    "poulsen_initial_claim": "The drum and its practice represent traditional noaidi vocation — inherited Sámi shamanic knowledge used for community healing, divination, and protection",
+    "interrogator_response": "The drum's iconography was read as a diabolical catalogue; prosecution authorities applied the composite witch stereotype to Sámi shamanic practice, treating the noaidi's spirit helpers as demons and drum-use as a form of diabolic compact",
+    "adaptation": "Documentation suggests Poulsen did not abandon his identification as a traditional noaidi practitioner; the prosecution proceeded on the evidence of the drum rather than requiring a confession conforming to the full diabolical template"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Ownership and use of the shaman's drum; practice of traditional noaidi functions including healing and divination",
+    "under_interrogation_pressure": "The drum itself served as confessional evidence; the prosecution's interpretation of the drum's symbols provided the substance of the charges without requiring detailed autobiographical confession",
+    "final_confession": "Executed on the basis of the drum evidence and associated charges; details of any final confession not fully preserved"
+  },
+
+  "microhistorical_significance": "Poulsen's case exemplifies what Ginzburg identifies in Ecstasies (1991) as the systematic misrecognition of shamanic traditions by the prosecution apparatus. The noaidi's drum was a cosmological map — a representation of the three-tiered Sámi universe and the practitioner's relationships with its inhabitants. In prosecutorial hands it became evidence of diabolical pact. This transformation illustrates Ginzburg's central argument: that prosecution records must be read against the grain to recover the practitioner's own cosmological framework beneath the demonological overlay.\n\nThe late date (1692) is also significant: Poulsen's execution occurred at a moment when witch-prosecution was declining or ending in most European jurisdictions, suggesting that the Finnmark prosecution of Sámi practitioners was driven by the particular dynamics of colonial and religious pressure on indigenous practice as much as by the general witch-hunting impulse. Ankarloo and Henningsen's analysis in Early Modern European Witchcraft (1990) situates the Finnmark trials within the broader Scandinavian prosecution context and notes the specific vulnerability of Sámi practitioners whose material culture made the shamanic role impossible to conceal.",
+
+  "actor_vs_analyst_terminology": {
+    "poulsen_language": [
+      "Noaidi (traditional Sámi shamanic practitioner)",
+      "Runebomme (the drum and its traditional cosmological iconography)",
+      "Spirit helpers in the Sámi cosmological framework",
+      "Traditional healing and divination practice"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical iconography (prosecutorial reading of drum symbols)",
+      "Demonic compact",
+      "Superstitious and heretical practice"
+    ]
+  },
+
+  "practical_activities": "Traditional Sámi noaidi practice encompassing healing of the sick through shamanic intervention, divination about health and communal welfare, drum-assisted spirit communication, and the community-protective functions characteristic of the noaidi role. The drum was the central instrument of this practice, encoding the cosmological knowledge through which the noaidi operated.",
+
+  "interrogation_outcome": "Tried and executed in Finnmark, 1692; one of the last executions in the Finnmark witch-trial series.",
+
+  "historiographical_significance": "Anders Poulsen's case is discussed by Ginzburg in Ecstasies (1991) as part of the broader evidence for Eurasian shamanic traditions and their prosecution under the witch stereotype. Ankarloo and Henningsen's Early Modern European Witchcraft (1990) provides essential context for the Finnmark trials and the specific dynamics of Sámi prosecution within the Norwegian judicial system. Hutton in The Witch (2017) engages with the Finnmark noaidi cases as evidence of the prosecution apparatus's encounter with living shamanic traditions substantially different from the cunning-folk service-magic model common in western European jurisdictions. Poulsen's case is particularly significant because the drum's survival as physical evidence — and the prosecution's documented interpretation of its iconography — provides an unusually direct window onto the moment of translation between Sámi shamanic cosmology and European demonological category.",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Norwegian court records, Finnmark, 1692; the drum and trial documentation preserved in Norwegian archives; analyzed in Ginzburg, Ecstasies (1991); Ankarloo and Henningsen, Early Modern European Witchcraft (1990); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Ginzburg in Ecstasies (1991) treats the Finnmark noaidi cases as evidence for the widespread distribution of Eurasian shamanic traditions across the prosecution record, consistent with his comparative argument. Hutton in The Witch (2017) accepts the reality of Sámi shamanic practice while questioning how much of the prosecution record can be used to reconstruct the tradition before prosecutorial intervention. The specific details of Poulsen's case — his age, exact charges, and trial procedure — are documented at varying levels of precision in different secondary sources.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

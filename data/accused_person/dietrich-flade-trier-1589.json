@@ -1,0 +1,82 @@
+{
+  "id": "dietrich-flade-trier-1589",
+  "name": "Dietrich Flade",
+  "status": "Executed",
+  "trial_id": "trier-witch-trials-1581-1593",
+  "location_id": "trier",
+  "year_accused": 1588,
+  "year_executed": 1589,
+  "age_at_trial": 55,
+  "social_status": "Electoral councillor of Trier; former mayor; chief justice; among the highest-ranking administrative officials in the Electorate of Trier; educated jurist; presided over witch trials himself before his own accusation",
+  "gender": "Male",
+
+  "biography": "Dietrich Flade was one of the highest-ranking officials in the Electorate of Trier — serving as electoral councillor, former mayor, and at one point the territory's chief justice — when he was accused of witchcraft in 1588 and executed in 1589. His case is the most prominent example in the scholarly literature of the 'judge turned accused' dynamic: a senior official who had himself presided over witch trials became a victim of the prosecution mechanism he had helped operate.\n\n  Flade's position in the Trier prosecution structure was complex. He had participated in the administration of witch prosecutions in Trier during the early 1580s, though historians debate whether he was an enthusiastic promoter of prosecution or a more cautious voice. The accusation against him came from Anna Papius, a convicted witch who named him under torture as a fellow participant in the diabolical assembly. This cascade mechanism — a tortured confessor naming a prominent official — illustrates the structural instability of confession-based prosecution: once the cascade was operating, it could reach anyone, regardless of social standing or institutional position.\n\n  Flade was arrested in 1588, tortured, and executed by burning on September 18, 1589. The combination of his elite status and the specific evidence — a named accusation from a convicted witch, then his own tortured confession — demonstrates both the reach of the Trier superhunt and the degree to which cascade prosecution through confession could consume the institutional structures designed to contain it.",
+
+  "arrest_narrative": "Flade was accused by Anna Papius, a convicted witch who named him under torture as a fellow participant in the diabolical assembly. The accusation was taken seriously by the Trier prosecution apparatus despite — or because of — his high official status. His earlier position in the prosecution structure may have made him politically exposed: accusations that a prominent official was himself a witch served to explain the continued persistence of witchcraft despite ongoing prosecution (the witches' confederates were protecting themselves from within the administration). He was arrested, imprisoned, subjected to torture, and executed.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1588",
+      "method": "Formal judicial examination under torture; standard Trier prosecution procedure; the same procedure he had administered to others",
+      "initial_response": "Initial denial under examination; confession produced under torture",
+      "duration": "Extended interrogation process over months before execution in September 1589"
+    },
+    "torture_sessions": [
+      {
+        "date": "1588-1589",
+        "method": "Standard judicial torture; strappado and related techniques standard in Trier prosecutions",
+        "result": "Confession to sabbath attendance, diabolical compact, and identification of co-conspirators"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Under torture, confessed to attending the witches' sabbath and entering into diabolical compact; the specific content of his confession followed the Trier prosecution's standard sabbath template.",
+    "sabbath_activities": "Confessed to sabbath attendance following the standard elements of the Trier prosecution confessional template.",
+    "maleficium_claimed": "Confessed to maleficium consistent with the prosecution's expected narrative.",
+    "accomplices_named": [
+      "Named others under torture, contributing to the cascade that consumed dozens of Trier officials and professionals"
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Flade's case is the paradigmatic instance of the cascade mechanism consuming the prosecution's own administrative apparatus. The sequence is documented by Midelfort and Levack: a tortured confessor names a prominent official; the official is arrested, tortured, and produces his own confession naming others; the cascade extends further through the elite networks that had previously been conducting the prosecution. Ginzburg's framework — that torture-shaped confession reflects the institutional requirements of the interrogation procedure rather than genuine practice — is clearly applicable here: the specific content of Flade's confession followed the Trier template regardless of his actual conduct.",
+    "plausibility": "No independent evidence supports any of the charges against Flade beyond the tortured testimony of Anna Papius and his own confession produced under torture. Levack's comparative analysis identifies the Trier superhunt as the clearest European example of cascade prosecution reaching into the official administrative structure, with the confession-and-denunciation mechanism operating as a self-consuming dynamic once set in motion.",
+    "social_vulnerability": "Flade's vulnerability was paradoxical: his high status offered no protection once he had been named by a tortured confessor and once the prosecution apparatus had shifted toward consuming its own participants. The political context of the Trier prosecution — the driving role of Archbishop Johann von Schönenberg and the aggressive prosecutorial posture of the court — created conditions in which the normal protections of high office were insufficient. Midelfort's analysis identifies this as the defining feature of the superhunt dynamic: the cascade could consume anyone, and the destruction of elite figures was both evidence of the conspiracy's extent and a mechanism for redistributing wealth through confiscation."
+  },
+
+  "execution_details": {
+    "date": "1589-09-18",
+    "method": "Burned at Trier",
+    "location": "Trier, Electorate of Trier",
+    "witnesses": "Court officials, public",
+    "final_statement": "No specific final statement preserved in the scholarly record."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and attendance at the diabolical sabbath",
+    "Diabolical compact; named by convicted witch Anna Papius",
+    "Participation in the diabolical conspiracy alleged to be responsible for Trier's ongoing misfortunes"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "His elite status should have provided institutional support, but the prosecution's momentum and the Archbishop's personal involvement overcame any protective network he might have had.",
+    "defense_arguments": "His prior service in the prosecution administration was not exculpatory; the accusation that a senior official was himself a witch served the prosecution's narrative of a hidden conspiracy within the administration."
+  },
+
+  "historiographical_significance": "Dietrich Flade's case is central to the analysis of what made the Trier superhunt specifically catastrophic — the cascade mechanism's capacity to reach into and consume the official administrative apparatus. Midelfort's Witch Hunting in Southwestern Germany (1972) analyzes his case within the broader German superhunt pattern; Levack's comparative synthesis treats it as the clearest example of cascade prosecution consuming its own institutional participants. The specific trajectory — judge presides over witch trials, convicted witch names the judge, judge is tortured and executed — demonstrates Ginzburg's principle that confession-based prosecution was structurally self-destabilizing: there was no principled stopping point determined by the evidence, only the practical limits of the prosecution's appetite and resources. Behringer's comparison of German prosecution dynamics places Flade's case in the context of the broader German superhunt pattern driven by ecclesiastical territorial rulers.",
+
+  "source_method": "Trier court records; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972); Levack, The Witch-Hunt in Early Modern Europe (1987); Behringer, Witches and Witch-Hunts (2004); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "midelfort-witch-hunting-1972",
+    "levack-witch-hunt-early-modern-europe-1987",
+    "behringer-witches-witch-hunts-2004",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Trier court records, 1588-1589",
+  "scholarly_disagreement": "The extent to which Flade was a reluctant prosecutor before his own accusation — potentially providing some protection to accused persons — versus an enthusiastic participant in the Trier prosecution has been debated. His motives and prior conduct within the prosecution apparatus are not fully recoverable from the surviving record."
+}

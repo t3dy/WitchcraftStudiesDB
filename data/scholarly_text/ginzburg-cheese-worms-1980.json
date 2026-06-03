@@ -1,0 +1,47 @@
+{
+  "id": "ginzburg-cheese-worms-1980",
+  "title": "The Cheese and the Worms: The Cosmos of a Sixteenth-Century Miller",
+  "author": "Carlo Ginzburg",
+  "author_slug": "ginzburg-carlo-b1939",
+  "year_published": 1976,
+  "edition_year": 1980,
+  "publisher": "Johns Hopkins University Press",
+  "text_type": "monograph",
+  "pages": 177,
+
+  "subject_focus": "A microhistorical study of Menocchio, a Friulian miller executed for heresy in 1599, reconstructing through his trial records a remarkable materialist cosmology and arguing for the existence of an autonomous popular culture distinct from both elite and officially mediated forms.",
+
+  "summary": "The Cheese and the Worms reconstructs the intellectual world of Domenico Scandella, called Menocchio, a miller from the Friulian village of Montereale who was tried twice by the Inquisition for heresy and executed in 1599. Through close analysis of his two trial records and the books he read, Ginzburg reconstructs Menocchio's extraordinary cosmological system — a materialist, pantheist worldview in which the universe originated like cheese fermenting from primordial chaos, and angels emerged like worms from the cheese. This system, Ginzburg argues, is not merely eccentric or confused: it combines elements drawn from printed books (including the Decameron, the Koran in translation, and apocalyptic texts) with a deep oral-cultural tradition of peasant materialism that predates and underlies the printed sources. The work develops the methodological principles of Italian microhistory — reading against the grain of judicial records, focusing on a single individual as a window onto a larger cultural world, reconstructing the specific within the general — that became paradigmatic for subsequent microhistorical practice.",
+
+  "scholarly_significance": "The Cheese and the Worms is the founding document of Italian microhistory and one of the most influential works in twentieth-century historiography. It established the methodological principles that Ginzburg applied to witch prosecution in Night Battles and Ecstasies: the trial record as primary source for recovering subaltern voices; the technique of reading against the grain to separate the accused's self-presentation from the inquisitorial framework imposed on it; and the argument that exceptional individuals could illuminate general cultural patterns rather than being dismissed as aberrations. For the witch-studies field, The Cheese and the Worms matters primarily as the methodological foundation for Ginzburg's later work, but also as evidence for the richness of Friulian popular culture in the period when the benandanti were prosecuted: Menocchio and the benandanti inhabited the same cultural world, and both cases illustrate the tension between popular belief systems and the inquisitorial categories that transformed them. The work also represents the most accessible statement of Ginzburg's broader theoretical position about the relationship between elite and popular culture. Database entries using Ginzburg's microhistorical methodology explicitly — particularly `accused_person` entries attempting to recover individual voices from trial records — draw on the analytical vocabulary and practice demonstrated in The Cheese and the Worms.",
+
+  "key_arguments": [
+    {
+      "concept": "Microhistory as method",
+      "claim": "An individual case — studied in sufficient depth, with attention to both the individual's specific situation and the cultural structures within which they operated — can illuminate general historical patterns more effectively than aggregate statistical analysis."
+    },
+    {
+      "concept": "Autonomous popular culture",
+      "claim": "Menocchio's cosmological system represents an autonomous stratum of popular culture — a peasant oral tradition of materialism — that exists independently of elite culture and cannot be reduced to a distortion or misunderstanding of it."
+    },
+    {
+      "concept": "Reading against the grain",
+      "claim": "Judicial records, including inquisition trial records, can be read against their own grain to recover the accused's self-presentation and cultural world, even when the record systematically distorts that world by imposing inquisitorial categories and confessional templates."
+    },
+    {
+      "concept": "Oral and print culture interaction",
+      "claim": "Menocchio's worldview emerged from the interaction between a deep oral-cultural tradition and selective engagement with printed texts, demonstrating that early modern popular culture was neither purely oral nor simply derivative of print culture."
+    }
+  ],
+
+  "relation_to_database": "Establishes the methodological foundation for all microhistorical `accused_person` entries. The technique of reading Inquisition records against the grain — distinguishing the accused's self-presentation from inquisitorially imposed frameworks — is applied throughout the database's analysis of individual accused persons. The Friulian context is shared with the benandanti entries and the `ginzburg-night-battles-1983` entry.",
+
+  "scholarly_disagreement": "Giovanni Levi and other Italian microhistorians within the school have questioned whether the 'popular culture' Ginzburg reconstructs is genuinely autonomous or whether it is already shaped by the textual and elite mediations Ginzburg himself acknowledges: if Menocchio's cosmology was formed partly through his reading of Boccaccio and other printed texts, the claim to authentic popular autonomy is complicated. The representativeness of Menocchio as a 'typical' sixteenth-century peasant is disputed: his literacy, his volubility, and his remarkable intellectual independence may make him exceptional rather than exemplary. Roger Chartier and others in the cultural-history tradition have questioned whether 'popular culture' and 'elite culture' are sufficiently distinct categories to bear the weight Ginzburg places on them.",
+
+  "source_method": "Published text; Johns Hopkins University Press 1980 (English translation of Il formaggio e i vermi, 1976)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

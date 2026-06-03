@@ -1,0 +1,45 @@
+{
+  "id": "scottish-burgh-courts",
+  "name": "Scottish Burgh Courts",
+  "formal_name": "Burgh courts and burgh commissions for witchcraft in Scottish royal burghs",
+  "institutional_type": "secular_tribunal",
+  "founded": null,
+  "dissolved": null,
+
+  "jurisdiction_description": "Scottish witch prosecution operated through a layered jurisdictional structure in which the Privy Council, the Court of Justiciary, sheriff courts, and burgh courts all participated at different levels. The burgh courts of Scottish royal burghs — including Edinburgh, Aberdeen, Dundee, St Andrews, Ayr, and other towns — prosecuted witchcraft cases under commissions of justiciary issued by the Privy Council, which delegated prosecution authority to local magistrates, heritors (landowners), and ministers for specific accused persons. These local commissions authorized burgh authorities to try and execute without further appeal to Edinburgh.\n\n  The burgh court system was institutionally distinct from the Court of Justiciary (already documented separately in the database) and from the sheriff courts. Its significance lies precisely in the localized, delegated character of the prosecution authority it exercised: Privy Council commissions made local burgh magistrates and heritors the effective prosecution and adjudication mechanism for the majority of Scottish witch trials, enabling prosecution to proceed at the initiative of local communities without requiring cases to travel to Edinburgh. This structure, Christina Larner argues, is the primary institutional explanation for the wave-like, geographically clustered pattern of Scottish prosecution.",
+
+  "jurisdiction_territories": ["scotland"],
+
+  "procedural_features": {
+    "torture_policy": "Scottish criminal procedure permitted torture, and burgh courts operating under Privy Council commissions employed it, most commonly in the form of sleep deprivation (watching and warding) administered by local jailers under the supervision of burgh ministers and magistrates. The thumbscrew (pilliwinks) and the boot were also documented in Scottish witch prosecution contexts. Local burgh courts operating under commission had less formal oversight of their torture practice than the central Court of Justiciary in Edinburgh, which meant that local application was less procedurally constrained. Ministers played a significant role in the interrogation of accused persons in burgh courts, often conducting repeated examination sessions designed to obtain confession to the standard charges of demonic pact and sabbath attendance.",
+    "evidence_standards": "Denunciation by co-accused persons, followed by confession, was the operative standard in burgh commission proceedings. The commission structure gave local courts authority to arrest, try, and execute based on accusations brought by community members and confessions extracted through watching and examination. The pricking for witch's marks was also practiced in Scottish burgh proceedings, with professional witch-prickers (like John Kincaid) employed to provide physical evidence. The combination of pricking evidence, spectral testimony from afflicted persons, and confession under watching typically constituted the evidential basis for conviction.",
+    "confession_policy": "Confession to the demonic pact, sabbath attendance, and specific acts of harm was required and routinely obtained through watching and extended examination. The confessional template in Scottish burgh proceedings was relatively uniform and reflected the theological categories provided by the Kirk's ministers who participated in examination: the devil's mark, the renunciation of baptism, the sexual relationship with the devil, the sabbath meeting with named companions. Confession also included naming of accomplices, generating the cascade pattern that characterized Scottish prosecution waves.",
+    "appeal_mechanism": "Privy Council commissions issued to burgh authorities typically granted authority to try and execute without further appeal — the commission itself was the authorizing instrument, and convictions under a commission were legally complete. This is the structural feature that most distinguished burgh court proceedings from English assize proceedings, where professional royal judges exercised independent judgment. The absence of professional judicial oversight in burgh commission proceedings meant that local social dynamics, ministerial enthusiasm for prosecution, and community pressure operated with minimal institutional check."
+  },
+
+  "role_in_witch_trials": "The Scottish burgh courts, operating under Privy Council commissions, were the primary first-instance prosecution mechanism for the majority of documented Scottish witch trials. Christina Larner's foundational analysis in Enemies of God (1981) demonstrates that most Scottish executions occurred under local burgh commissions rather than before the central Court of Justiciary in Edinburgh. The commission system's ability to delegate prosecution authority to local magistrates and heritors enabled the geographically clustered, wave-like prosecution pattern that characterizes Scottish witch prosecution: communities with an active prosecutorial initiative, a willing minister, and a Privy Council commission in hand could prosecute rapidly and execute without appeal, producing localized high-intensity prosecution that could spread to neighboring communities through accomplice denunciation.",
+
+  "witch_trial_involvement_level": "high",
+  "key_trial_events": [
+    "aberdeen-witch-hunt-1596-1597",
+    "scottish-witch-hunt-1597",
+    "great-scottish-witch-hunt-1661-1662"
+  ],
+
+  "historiographical_significance": "Christina Larner's Enemies of God (1981) is the foundational analysis of the Scottish burgh commission system and its role in enabling wave prosecutions. Larner's argument that the Privy Council's commission-granting practice — delegating prosecution authority to local magistrates without requiring central oversight of specific proceedings — was the primary institutional enabler of Scottish mass prosecution has been the framework within which all subsequent Scottish witchcraft historiography operates.\n\n  Julian Goodare's The Scottish Witch-Hunt in Context (2002) builds on Larner while complicating the narrative: Goodare analyzes the role of the General Assembly of the Kirk of Scotland in applying pressure on the Privy Council to issue commissions, and the role of local ministers in driving prosecution initiatives within the burgh court framework. Goodare's work situates the burgh commission system within the broader context of the Scottish Reformation's disciplinary project, in which the witch was a target precisely because witch prosecution served the Kirk's interest in demonstrating the reality of diabolical opposition to godly society.\n\n  The Scottish burgh commission system is also significant for comparative institutional analysis because it represents the opposite of the French parlement model: where the French system centralized capital sentencing review and thereby moderated prosecution, the Scottish Privy Council system decentralized prosecution authority to local communities and thereby enabled it. Levack's comparative account in The Witch-Hunt in Early Modern Europe (2006) uses this contrast explicitly as evidence for the relationship between appellate structure and prosecution intensity.",
+
+  "scholarly_disagreement": "The relative weight of the Privy Council's commission-granting initiative versus local community demand in driving Scottish prosecution waves is debated between Larner (who emphasized elite and state initiative) and Goodare (who provides more analysis of community and Kirk-level initiative). Whether the wave pattern reflects primarily the rhythm of Privy Council commission-granting or primarily the dynamics of accusation and denunciation at the local level is not finally resolved. Larner's earlier work also emphasized the role of King James VI's personal interest in demonology as a driver of the 1590 prosecution; Goodare and Stuart MacDonald have argued for more structural explanations that do not depend on James's personal initiative.",
+  "source_method": "Larner, Enemies of God (1981); Goodare, The Scottish Witch-Hunt in Context (2002); Levack, The Witch-Hunt in Early Modern Europe (2006); Scottish Privy Council records and burgh court records as analyzed in published secondary sources",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "goodare-scottish-witch-hunt-2002",
+    "levack-witch-hunt-early-modern-2006",
+    "larner-witchcraft-religion-1984"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

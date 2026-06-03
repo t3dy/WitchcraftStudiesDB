@@ -1,0 +1,32 @@
+{
+  "id": "spain",
+  "name": "Spain",
+  "modern_country": "Spain",
+  "latitude": 40.416,
+  "longitude": -3.703,
+  "location_type": "nation",
+
+  "hover_description": "Spain, 1480s–1700s: Spanish Inquisition's skepticism restrained prosecution. Basque panic 1609 halted by Salazar investigation. ~300 total executions. A restraint case study.",
+
+  "panel_description": "Spain presents a counterintuitive case in European witch trial history: the country with the most famous inquisition also had one of the lowest per-capita prosecution rates in Catholic Europe, because the Spanish Inquisition's institutional skepticism about witchcraft systematically suppressed prosecution that would otherwise have occurred.\n\n  The Spanish Inquisition, established in 1478 and operating through a network of regional tribunals, was skeptical of witchcraft charges from an early date. The Inquisitor General's instructions to regional tribunals consistently required careful examination of evidence and expressed doubt about the reality of alleged sabbath attendance. This institutional skepticism is documented by Henningsen's The Witches' Advocate (1980), which traces the Inquisition's restraining role through the correspondence between the central Suprema and regional tribunals.\n\n  The Basque witch panic of 1609-1610 provides the clearest demonstration. Local secular courts and some ecclesiastical authorities were willing to prosecute; the Spanish Inquisition sent Alonso de Salazar Frías to investigate. His meticulous investigation — examining physical evidence for thousands of alleged sabbath participants, testing the marks on accused bodies, interrogating confessors and recantors — produced a report concluding that there was no credible evidence that any alleged witchcraft had actually occurred. His report is one of the most important documents in the history of prosecutorial skepticism.\n\n  The Spanish Inquisition's restraining role is a critical piece of evidence in Levack's comparative analysis, which uses variation in institutional structure to explain variation in prosecution intensity.",
+
+  "key_trial_events": [
+    "zugarramurdi-basque-trials-1609",
+    "de-lancre-labourd-investigation-1609"
+  ],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "henningsen-witches-advocate-1980",
+    "levack-witch-hunt-early-modern-2006",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Spanish Inquisition archives (Archivo Histórico Nacional, Madrid); analyzed in Henningsen, The Witches' Advocate (1980); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

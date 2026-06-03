@@ -1,0 +1,69 @@
+{
+  "id": "ursula-kemp-st-osyth-1582",
+  "name": "Ursula Kemp",
+  "status": "Executed",
+  "trial_id": "chelmsford-witch-trials-1566",
+  "location_id": "essex",
+  "year_interrogated": 1582,
+  "age_at_trial": 55,
+  "social_status": "Poor widow; worked as an unlicensed nurse and healer; received payment for healing services; St Osyth, Essex; client relationships with multiple neighbors who later testified against her",
+  "gender": "Female",
+
+  "self_identification": "Healer who could both 'unwitch' (remove maleficium) and occasionally 'witch' (work maleficium) using familiar spirits; described her familiars by name and function; did not deny the practice but drew a distinction between her legitimate healing services and the harmful use she sometimes made of the same familiars",
+  "claimed_abilities": [
+    "Healing of bewitched persons and animals through familiar spirit agency",
+    "Diagnosis of bewitchment and identification of the responsible witch",
+    "Removal of maleficium (unwitching) as a paid service",
+    "Working maleficium against persons who had crossed or underpaid her through the same familiar spirits"
+  ],
+
+  "biography": "Ursula Kemp was a widow of approximately fifty-five who practiced unlicensed healing and nursing at St Osyth, Essex, in the early 1580s. Her case, documented in the 1582 St Osyth witch trials and published as a pamphlet by W.W. in 1582 (A True and Just Record), is one of the most extensively documented single-practitioner cases in the Macfarlane-Thomas tradition and provides crucial evidence for understanding how the dual role of healer and witch was maintained within the same practitioner in the English context.\n\n  Kemp's familiar spirits were central to both her healing and her harm-working practice. She described four familiars: Tittey (a grey cat for causing illness slowly), Jack (a black cat for illness in males), Pygine (a black toad for harm generally), and Tyffin (a white lamb for damage to goods and cattle). This specificity of named familiars with differentiated functions is characteristic of the English familiar tradition that Wilby analyzes, and the precise record of names and functions in Kemp's testimony makes her case one of the primary documents for the English familiar tradition.\n\n  Kemp's prosecution arose through the Macfarlane charity-refusal pattern in a more complex form. Grace Thurlow had employed Kemp to nurse her child and then refused further payment and declined to continue the employment; her child fell ill and Kemp was accused of bewitching it. Kemp's own counter-diagnosis — that Grace Thurlow's own aunt was responsible for the bewitchment — generated additional conflict. The prosecution eventually gathered multiple accusers from among her former clients and neighbors whose relationships with her had soured. She confessed to the use of her familiars both for healing and for maleficium and was executed at Chelmsford in 1582.",
+
+  "interrogation_narrative": {
+    "circumstances": "Examined before Brian Darcy, Justice of the Peace, at St Osyth, Essex, 1582; Darcy's examination technique involved promising lenience in exchange for confession — a technique whose coercive quality Macfarlane and Thomas analyze; proceedings documented in the W.W. pamphlet",
+    "self_identification": "Admitted to familiar spirit use for both healing and harm; maintained the distinction between her legitimate healing service (unwitching) and the maleficium she worked against enemies; named her familiars precisely",
+    "interrogator_response": "Brian Darcy was an active and experienced magistrate whose examination technique elicited detailed testimony by exploiting community conflicts — Kemp named multiple neighbors as fellow practitioners in exchange for the promised (and not delivered) lenience",
+    "adaptation": "Kemp's willingness to confess to familiar use while distinguishing healing from harm-working suggests she may have believed her healing practice was legitimate and legally defensible; the examination progressively eliminated that distinction"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Possession of four familiar spirits (Tittey, Jack, Pygine, Tyffin) used both for healing service and for maleficium; specific maleficium against the Thurlow and Letherdall households",
+    "under_interrogation_pressure": "Named multiple neighbors as fellow practitioners, including her own illegitimate son Thomas Rabbet and other St Osyth women; the naming generated a cascade prosecution of additional accused",
+    "final_confession": "Full confession to familiar-spirit use for both healing and maleficium; executed at Chelmsford Assizes 1582"
+  },
+
+  "microhistorical_significance": "Ursula Kemp's case is central to Macfarlane's Witchcraft in Tudor and Stuart England (1970) as one of the most fully documented Essex healer-turned-witch prosecutions. Macfarlane analyzes her community relationships, the charity-refusal dynamics with Grace Thurlow and other former clients, and the cascade effect of her naming of neighbors. Thomas in Religion and the Decline of Magic (1971) uses her familiar-spirit testimony as primary evidence for the English familiar tradition. Wilby in Cunning Folk and Familiar Spirits (2005) analyzes the named, differentiated familiars as evidence of the English tradition's specific character: individuated spirit helpers with specific functions, received and retained in a personal working relationship.",
+
+  "actor_vs_analyst_terminology": {
+    "kemp_language": [
+      "Tittey, Jack, Pygine, Tyffin (her familiar spirits)",
+      "Unwitching (her healing service)",
+      "The practice she had received and used"
+    ],
+    "prosecution_categories": [
+      "Witchcraft under the 1563 Witchcraft Act",
+      "Familiar spirits (prosecutorial identification of her named helpers as demonic)",
+      "Maleficium against specific victims"
+    ]
+  },
+
+  "practical_activities": "Kemp's documented practice combined legitimate service (healing and nursing for payment) with the capacity for maleficium through the same familiar-spirit resources. Her client network was extensive enough that when relationships broke down, multiple accusers were available. The nursing relationship with Grace Thurlow — and its breakdown over payment — is the most fully documented instance of the charity-refusal pattern Macfarlane identifies.",
+
+  "interrogation_outcome": "Executed at Chelmsford Assizes, 1582. Her skeleton, reportedly found at St Osyth in 1921, was displayed for many years in a local collection, though the identification is not archaeologically secure.",
+
+  "historiographical_significance": "Ursula Kemp's case has been extensively analyzed by Macfarlane in Witchcraft in Tudor and Stuart England (1970) as the paradigm case of the Essex charity-refusal pattern in a healer-practitioner context: the breakdown of a healing relationship, the counter-accusation by the healer, and the cascade prosecution generated by naming under examination pressure. Thomas's Religion and the Decline of Magic (1971) uses her familiar testimony as primary documentation for the English familiar tradition. Wilby's Cunning Folk and Familiar Spirits (2005) provides the most detailed analysis of her named familiars within the broader English-Scottish service-magic tradition. The case exemplifies the dual character of English cunning folk documented by Thomas and Hutton: the same practitioner who healed could harm, the same familiar spirits used for unwitching could work maleficium, and this dual capacity was both the source of the practitioner's social value and the mechanism of prosecution vulnerability.",
+
+  "scholarly_sources": [
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "W.W., A True and Just Record of the Information, Examination and Confession of all the Witches taken at St Oses in the County of Essex (1582); analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Thomas, Religion and the Decline of Magic (1971); Sharpe, Instruments of Darkness (1996); Wilby, Cunning Folk and Familiar Spirits (2005)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether Brian Darcy's promise of lenience (which he did not honor) constitutes a coercive examination technique that shaped Kemp's confession, or whether her confessions reflect genuine practice accurately reported, has been debated. Macfarlane tends toward the latter; scholars following Cohn's skeptical position on confession documents would emphasize the examination context more heavily.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

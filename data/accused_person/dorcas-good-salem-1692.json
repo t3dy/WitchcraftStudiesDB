@@ -1,0 +1,66 @@
+{
+  "id": "dorcas-good-salem-1692",
+  "name": "Dorcas Good",
+  "status": "Imprisoned",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": null,
+  "age_at_trial": 5,
+  "social_status": "Child; daughter of Sarah Good (executed) and William Good; vagrants; among the most socially destitute households in Salem Village",
+  "gender": "Female",
+
+  "biography": "Dorcas Good — recorded in some documents as Dorothy Good — was approximately four or five years old at the time of her imprisonment in the spring of 1692, making her the youngest person jailed during the Salem crisis. She was the daughter of Sarah Good, executed at Salem on July 19, 1692, and Sarah Good's husband William. The family's destitution was extreme: Sarah Good had been reduced to begging, and her social position was at the absolute margin of Salem Village community life.\n\n  Dorcas was examined in late March 1692, shortly after her mother's arrest. The afflicted persons testified that Dorcas's specter had bitten them, and a red mark was found on Dorcas's hand that the examiners interpreted as the wound left when an afflicted person had bitten her specter. Dorcas herself apparently confirmed, in whatever terms a child of four or five could confirm, that she had a 'little snake' that nursed from her finger — testimony the examiners interpreted as an animal familiar received from her mother.\n\n  She was imprisoned in Salem's jail from late March 1692 through the resolution of the crisis — a period of approximately eight or nine months. Her father William Good later attested in a petition that the imprisonment had left Dorcas 'bereft of reason' — that she had emerged from prison with lasting psychological damage from the experience of imprisonment at that age, with chains, in conditions of mid-seventeenth-century imprisonment, having seen her mother executed. She was never tried, never convicted, and never executed; the case against her was dropped when the crisis ended. She was eventually released upon payment of prison fees, like other surviving accused.",
+
+  "arrest_narrative": "Dorcas Good was examined on or around March 24, 1692, following her mother Sarah Good's examination. The afflicted girls' accusation of her specter, combined with the 'familiar' narrative her own childish testimony apparently produced, provided the basis for her imprisonment. Her case illustrates the zero social threshold for accusation that characterized the Salem crisis at its peak: once the accusatory machinery was in motion, no age or social position was protective. Her father's poverty meant he could not pay the prison fees required to secure her release even after the crisis ended.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-03-24",
+      "method": "Examination by magistrates; a child of approximately four or five years; no physical torture; the examination of a child involved suggesting narrative to her that she may have then repeated",
+      "initial_response": "Childish testimony apparently describing a 'little snake' that nursed from her finger, interpreted by examiners as evidence of a familiar spirit received from her mother",
+      "duration": "Single formal examination; preserved in Salem Witchcraft Papers"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "No confession of explicit demonic pact; childish testimony describing a 'little snake' familiar received from her mother was interpreted by the court as evidence of diabolical compact.",
+    "sabbath_activities": "None confessed.",
+    "maleficium_claimed": "Spectral evidence: afflicted persons testified her specter bit them; a mark on her hand was interpreted as corresponding injury from the biting of the specter.",
+    "accomplices_named": []
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Dorcas Good's case illustrates the extreme end of Salem's evidentiary spectrum: a child's suggestible responses to examination questions produced 'testimony' that was then interpreted as confession. The 'little snake' familiar narrative is almost certainly a product of leading examination questions being answered in whatever way the child calculated was wanted or expected. Norton analyzes the Salem use of child testimony as part of the crisis's suspension of normal evidentiary constraints: the same crisis atmosphere that admitted spectral evidence also enabled the interpretation of a four-year-old's examination responses as valid confession material.",
+    "plausibility": "No independent evidence supports any charge against Dorcas Good. Her imprisonment was a function entirely of her mother's accused status and the willingness of the Court of Oyer and Terminer to imprison even young children as part of the conspiracy narrative. William Good's post-crisis petition documenting her resulting mental damage is the most significant piece of evidence from her case: it establishes that the imprisonment itself — not any execution — produced lasting harm, and that the Salem crisis's casualties included individuals who were never convicted.",
+    "social_vulnerability": "Dorcas Good represents the absolute extreme of Salem's social vulnerability spectrum: the child of a family that was already at the community's margin, accused while a toddler, imprisoned for months in conditions that caused lasting psychological damage, with a father too poor to pay the prison fees required for release. Her case, more than any other, demonstrates that there was no lower bound of age or social position below which the Salem accusatory process would not reach once the conspiracy narrative was operating."
+  },
+
+  "execution_details": null,
+
+  "accusations_against_her": [
+    "Witchcraft; spectral appearances biting the afflicted",
+    "Possession of a familiar spirit (a snake) said to have been given to her by her mother Sarah Good"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "Her father William Good, completely impoverished, could not organize effective defense. No community petition was mounted.",
+    "defense_arguments": "William Good later filed a petition documenting the lasting psychological damage done to Dorcas by her imprisonment, as part of the post-crisis compensation proceedings."
+  },
+
+  "historiographical_significance": "Dorcas Good's case is analyzed by Norton in In the Devil's Snare (2002) and appears in Boyer and Nissenbaum's Salem Possessed (1974) as the extreme illustration of the Salem crisis's suspension of normal limits on prosecution. The imprisonment of a child of four or five — and the lasting damage documented by her father — demonstrates that the social floor below which the accusatory process would not descend was effectively nonexistent during the 1692 crisis. Her mother Sarah Good's execution while pregnant (with a second child who died in prison shortly after birth), combined with Dorcas's psychological damage, makes the Good family the case that most clearly exhibits the human cost of the crisis at its most extreme. William Good's petition seeking compensation for his daughter's damage was part of the broader post-crisis legislative recognition that the trials had produced profound wrong, documented in the Massachusetts legislature's 1711 acts.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia edition; examination transcript; William Good's petition (post-1692); analyzed in Norton, In the Devil's Snare (2002); Boyer and Nissenbaum, Salem Possessed (1974); Karlsen, The Devil in the Shape of a Woman (1987)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Salem Witchcraft Papers, examination of Dorothy Good; William Good's post-crisis petition",
+  "scholarly_disagreement": "The question of whether Dorcas was four or five years old at the time of her imprisonment depends on uncertain birth records; the Salem Witchcraft Papers use both 'Dorothy' and 'Dorcas' as her name. The basic factual record of her imprisonment and the lasting damage documented by her father is not contested."
+}

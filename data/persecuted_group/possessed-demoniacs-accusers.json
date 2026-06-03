@@ -1,0 +1,41 @@
+{
+  "id": "possessed-demoniacs-accusers",
+  "name": "Possessed Demoniacs as Accusers",
+  "category": "demographic",
+  "temporal_scope": "c. 1560–1700",
+  "primary_regions": ["french-territories", "english-territories", "german-states", "new-england"],
+
+  "group_profile": "The 'demoniacs' — persons believed to be possessed by demons who named their supposed tormentors during episodes of possession — occupied a structurally paradoxical position in early modern witch prosecution: they were simultaneously victims (suffering demonic torment attributed to named witches), witnesses whose testimony was uniquely credible (the possessed person was assumed to have supernatural insight into the identity of their tormentor), and, in some cases, subsequently accused persons themselves. The Salem afflicted girls, the Loudun Ursuline nuns, the Labourd possessed cases analyzed by Lancre, and the Elizabethan possession cases analyzed by Thomas Darling and William Sommers represent the major documented possession-accusation sequences in the period.\n\n  Possession events in this period were frequently embedded in institutional and confessional contexts that shaped their dynamics. The Loudun case of 1634, in which the Ursuline nuns of Loudun accused Urbain Grandier of bewitching them through a demonic pact, took place against a background of political and ecclesiastical conflict involving Richelieu's court. The English possession cases of the late sixteenth century analyzed by D. P. Walker in Unclean Spirits (1981) were often staged as demonstrations of Protestant or Catholic credibility in the confessional competition. The Salem possessed accusers of 1692 operated within a crisis of colonial authority analyzed by Norton in In the Devil's Snare.\n\n  This category is analytically distinct from young-women-possession-cases, which focuses on the gender and age dimensions of the possessed person's social position. The present category focuses on the functional role of demoniacs as accusers within the prosecution process, applicable across genders and ages, though the majority of possessed accusers in the historical record were young women.",
+
+  "persecution_rationale": "Demonological theory held that a person possessed by a demon was in involuntary communion with the devil's domain and, through that communion, had access to information not normally available to human perception — including the identity of the witch whose maleficium had caused the possession. The possessed person's testimony was therefore treated as having a quasi-supernatural evidentiary status: the demon speaking through the possessed person was not lying about the witch's identity (since the demon's testimony incriminated a servant of the devil it supposedly served) even though demons were in general considered unreliable. This reasoning, elaborated by demonologists including Del Rio and examined skeptically by Johann Weyer, made possessed accusers' testimony structurally more credible than ordinary testimony within the prosecution framework.",
+
+  "structural_vulnerability": "Walker's analysis in Unclean Spirits is foundational: possession events were frequently staged or managed by clerical figures for confessional competition purposes, making the possessed person simultaneously a subject of institutional manipulation and a powerful agent whose testimony could end another person's life. De Certeau's The Possession at Loudun situates the Loudun demoniacs within the specific power structures of the Ursuline convent and the Richelieu court, showing that the possessed nuns had real agency within the possession event while also being institutionally constrained and manipulated. Norton's analysis of Salem places the afflicted girls within the frontier crisis context, arguing that the specific social and political pressures of colonial Massachusetts produced the conditions under which the demoniacs' testimony was given credibility it might not have received in other circumstances. The possessed accuser was thus doubly vulnerable: susceptible to the initial charge of possession (which required explanation through witchcraft accusation) and, once the prosecution they had initiated began to unravel, potentially liable to accusations of fraud or even diabolical complicity.",
+
+  "historiographical_significance": "The major historiographical debate concerning possessed demoniacs as accusers concerns the degree to which possession was experienced genuinely versus performed strategically, and how this distinction maps onto the question of the accusers' culpability for the prosecutions they initiated. Boyer and Nissenbaum's Salem Possessed argues that the Salem accusers reflected genuine community conflicts whose social tensions found expression in accusation; they do not treat the afflicted girls as purely cynical manipulators but as persons whose experiences reflected real social pressures. Norton's In the Devil's Snare argues that the specific crisis conditions of King William's War created an atmosphere of genuine terror in which the accusers' experiences cannot be reduced to social conflict alone. The question of possessed accusers' agency — how much they controlled the prosecution process, how much they were instruments of clerical or judicial authorities, and how much their testimony reflected genuine experience versus performance — has no consensus resolution in the current historiography.",
+
+  "exemplary_accused_persons": [
+    "urbain-grandier-loudun-1634"
+  ],
+  "related_demonological_concepts": [
+    "spectral-evidence",
+    "torture-confession-dynamic",
+    "denunciation-cascade-mechanism",
+    "confessional-competition-witch-prosecution"
+  ],
+
+  "scholarly_disagreement": "Boyer and Nissenbaum (Salem Possessed) treat the Salem accusers primarily as expressing community social tensions, framing the possession events as real experiences shaped by genuine conflict. Norton (In the Devil's Snare) argues for the centrality of the frontier war crisis context. Walker (Unclean Spirits) emphasizes the institutional staging of possession events for confessional competition purposes, reducing the 'genuine experience' element. De Certeau (The Possession at Loudun) offers a structuralist analysis of the Loudun event that resists reduction to either genuine experience or pure manipulation, finding the possessed subject at the intersection of multiple institutional discourses.",
+  "source_method": "Salem Witchcraft Papers analyzed in Boyer and Nissenbaum, Salem Possessed (1974) and Norton, In the Devil's Snare (2002); Loudun records analyzed in De Certeau, The Possession at Loudun; English possession cases analyzed in Walker, Unclean Spirits (1981); Clark, Thinking with Demons (1997)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-devils-snare-2002",
+    "clark-thinking-with-demons-2001",
+    "levack-witch-hunt-early-modern-2006",
+    "cohn-europes-inner-demons-1975"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

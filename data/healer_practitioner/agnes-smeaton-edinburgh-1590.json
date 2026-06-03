@@ -1,0 +1,68 @@
+{
+  "id": "agnes-smeaton-edinburgh-1590",
+  "name": "Agnes Smeaton",
+  "status": "Executed",
+  "trial_id": "north-berwick-1590-trials",
+  "location_id": "edinburgh",
+  "year_interrogated": 1590,
+  "age_at_trial": null,
+  "social_status": "Edinburgh-area woman; service-magic background; associated with the network of practitioners drawn into the North Berwick prosecution cluster of 1590-1591; known locally for healing and service-magic activities",
+  "gender": "Female",
+
+  "self_identification": "Healer and service-magic practitioner; her self-identification within the North Berwick prosecution context was progressively shaped by the inquisitorial framework that surrounded the principal accused",
+  "claimed_abilities": [
+    "Healing of the sick",
+    "Service-magic consultation for Edinburgh-area clients",
+    "Knowledge of remedies and counter-magic"
+  ],
+
+  "biography": "Agnes Smeaton was among the Edinburgh-area women connected to the North Berwick witch prosecution cluster of 1590-1591 — the most politically significant Scottish witch prosecution of the sixteenth century, driven by James VI's personal involvement following the storms that had threatened his return voyage with his new queen, Anne of Denmark. She was executed as part of the expanding prosecution that began with the accusations around the king's marriage voyage and grew to encompass a wide network of accused persons in the Edinburgh area.\n\nThe North Berwick prosecutions are among the best-documented Scottish witch trials and represent a distinctive type: a prosecution driven by royal concern and explicitly political accusations, in which the standard service-magic practitioners known in their communities as healers and wise women were absorbed into a narrative of organized diabolical conspiracy against the king. Smeaton's case represents this absorption — a woman with a healing and service-magic reputation whose prosecution arose not from community breakdown of the charity-refusal type Macfarlane documents, but from the expansion of an accusation network centered on the politically charged North Berwick events.\n\nShe is less individually documented than the principal accused in the North Berwick trials — Agnes Sampson, whose detailed confession is preserved and has been extensively analyzed — but her case represents the broader network of women with healing and service-magic reputations who were drawn into the prosecution's expanding circle. Larner in Enemies of God (1981) documents the Edinburgh-area accused as a category, noting that the North Berwick prosecution drew its numbers partly from this population of service-magic practitioners already known to authorities and neighbors.",
+
+  "interrogation_narrative": {
+    "circumstances": "North Berwick prosecution cluster, 1590-1591; Edinburgh-area; James VI personally involved in interrogations of principal accused; expanding prosecution network gathered in women with existing service-magic reputations",
+    "smeaton_initial_claim": "Service-magic practice — healing and consultation for Edinburgh-area clients; her initial self-presentation reflected her community service role",
+    "interrogator_response": "The North Berwick prosecution imposed the diabolical-conspiracy template; service-magic practitioners drawn into the network were examined for connections to the alleged demonic gatherings and anti-royal maleficium",
+    "adaptation": "As with other peripheral accused in the North Berwick cluster, the interrogation aimed to connect her practice to the central diabolical narrative; the specific dynamics of her examination are less documented than those of the principal accused"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Service-magic practice in the Edinburgh area; possible knowledge of other practitioners in the network",
+    "under_interrogation_pressure": "The North Berwick interrogation context, in which James VI's personal presence and explicit concern with diabolical conspiracy shaped the proceedings, would have exerted substantial pressure toward confession conforming to the sabbath-conspiracy template",
+    "final_confession": "Executed as part of the North Berwick prosecution; specific confessional content less documented than for the principal accused"
+  },
+
+  "microhistorical_significance": "Agnes Smeaton's case illustrates the mechanism by which service-magic practitioners with no connection to organized conspiracy were absorbed into politically driven witch prosecutions. Ginzburg's framework in Ecstasies (1991) for analyzing how prosecution narratives impose their own structure on practitioner testimony is directly applicable: the healing practice and service-magic consultation that defined Smeaton's community role were, under North Berwick interrogation pressure, converted into evidence of participation in the diabolical gathering that the prosecution narrative required.\n\nThe North Berwick trials are one of the clearest instances of what Ginzburg identifies as the prosecutorial generation of sabbath confessions: the inquisitorial framework so dominated the interrogation that the practitioner's own cosmological framework — in Smeaton's case, her identification as a healer with supernatural knowledge — was replaced by the diabolical template the interrogators required. The political stakes of the North Berwick trials (the king's personal involvement, the allegations of anti-royal conspiracy) intensified this dynamic beyond what normal service-magic prosecutions would have produced.",
+
+  "actor_vs_analyst_terminology": {
+    "smeaton_language": [
+      "Healing and service consultation",
+      "Community-embedded practice",
+      "Knowledge of remedies and counter-magic"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Participant in diabolical gathering (sabbath)",
+      "Conspiracy against the king",
+      "Demonic compact"
+    ]
+  },
+
+  "practical_activities": "Healing and service-magic consultation for Edinburgh-area clients; knowledge of remedies and counter-magic. Her practice was the standard service-magic repertoire of a community healer; its conversion into prosecution evidence was driven by the political context of the North Berwick trials rather than by any unusual element in her own practice.",
+
+  "interrogation_outcome": "Tried and executed as part of the North Berwick prosecution cluster, 1590-1591.",
+
+  "historiographical_significance": "Larner's Enemies of God (1981) documents the Edinburgh-area accused in the North Berwick cluster as evidence of the prosecution's characteristic expansion from a politically charged core to a wider network of service-magic practitioners already known for their activities. The North Berwick trials are analyzed by Larner as a defining episode in the Scottish witch-hunt, demonstrating the role of royal interest and political anxiety in driving large-scale prosecution. Hutton in The Witch (2017) situates the North Berwick accused within the broader Scottish service-magic tradition, noting that the political overlay of the trials should not obscure the fact that many of those drawn in — like Smeaton — were genuine community practitioners whose healing reputations made them identifiable and therefore vulnerable.",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "North Berwick trial records, 1590-1591; Survey of Scottish Witchcraft (Goodare et al.); Larner, Enemies of God (1981); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Larner in Enemies of God (1981) emphasizes the political dimensions of the North Berwick prosecution — James VI's personal role, the anti-royal conspiracy narrative — as the primary driver that transformed what might have been smaller-scale prosecutions into a major episode. Hutton in The Witch (2017) accepts this analysis while emphasizing that the individual practitioners drawn into the prosecution network, like Smeaton, had genuine service-magic practices that preceded and were independent of the political narrative imposed on them. The specific details of Agnes Smeaton's own practice and testimony are less recoverable than those of the principal North Berwick accused.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "goodare-scottish-witch-hunt-2002",
+  "title": "The Scottish Witch-Hunt in Context",
+  "author": "Julian Goodare",
+  "author_slug": "goodare-julian-b1956",
+  "year_published": 2002,
+  "edition_year": 2002,
+  "publisher": "Manchester University Press",
+  "text_type": "edited_volume",
+  "pages": 248,
+
+  "subject_focus": "An edited collection of specialist essays providing regional and thematic analyses of Scottish witch prosecution, arguing that Scottish prosecution was distinctive in its scale, its connection to state formation, and the specific administrative role of the Scottish Privy Council.",
+
+  "summary": "The Scottish Witch-Hunt in Context is an edited collection of specialist essays, compiled by Scotland's leading contemporary expert on witch prosecution, that provides the most detailed regional analysis of Scottish witch-hunting available. The essays cover the chronology and geography of Scottish prosecution, the role of torture and its legal regulation, the gender distribution of the accused (which was more strongly female-skewed in Scotland than in many other regions), the relationship between prosecution intensity and state centralisation, and the specific mechanisms by which cases moved from community accusation to formal Privy Council commission. Goodare's introduction develops a synthesis of the volume's findings, arguing that Scottish prosecution was shaped by the distinctive character of Scottish state formation — the relative weakness of local courts, the centralised role of the Privy Council in commissioning trials, and the confessionalisation programme of the post-Reformation Kirk. Several essays examine specific regional clusters and mass prosecutions, providing the local detail that Larner's Enemies of God established at the macro-level.",
+
+  "scholarly_significance": "This collection, edited by Scotland's leading specialist, is the essential companion to Larner's Enemies of God (1981) and is the standard reference for understanding Scottish prosecution's specific characteristics at the regional and institutional level. Where Larner established the interpretive framework — state formation, confessionalisation, and social control — Goodare's collection provides the evidentiary foundation: the specific geographic patterns, the institutional mechanisms, the demographic profiles, and the procedural dynamics that make Scottish prosecution distinctive within the European comparison. The volume is particularly important for the state-formation thesis: Goodare's essays and those of his contributors test and refine the claim that the Scottish Privy Council's centralised commission system was a key driver of prosecution intensity, producing mass trials that local community dynamics alone would not have generated. Database entries for Scottish trial events and for the broader state-formation interpretive framework draw on this volume alongside Larner. The collection also provides important data for `persecuted_group` entries covering Scotland's prosecution patterns.",
+
+  "key_arguments": [
+    {
+      "concept": "Scottish prosecution as state-formation product",
+      "claim": "Scottish witch prosecution was shaped by the specific character of Scottish state formation: the centralising role of the Privy Council in commissioning trials created the infrastructure for mass prosecution that local community dynamics alone would not have produced."
+    },
+    {
+      "concept": "Privy Council commission mechanism",
+      "claim": "The Scottish Privy Council's practice of issuing commissions authorising local lords and lairds to conduct witch trials created a specific institutional mechanism that could amplify local accusations into mass prosecutions, distinguishing Scotland from English common-law procedures."
+    },
+    {
+      "concept": "Regional distribution",
+      "claim": "Scottish prosecution was not evenly distributed: it was concentrated in specific regions and periods, with the east-central lowlands and the 1590s and 1660s as particular clusters, and these patterns reflect the uneven reach of state and Kirk institutions."
+    },
+    {
+      "concept": "Gender in Scottish prosecution",
+      "claim": "Scottish accused persons were more strongly female-skewed than many European comparisons, with approximately 85% of Scottish accused being women; the essays explore what social, theological, and institutional factors produced this pattern."
+    }
+  ],
+
+  "relation_to_database": "Directly used in `trial_event` entries for Scottish mass prosecutions. The state-formation analysis informs `demonological_scholar` entries for Larner and for James VI/I. `Location` entries for Scottish prosecution sites draw on the regional analysis. The institutional analysis of the Privy Council commission system informs `inquisitorial_body` or secular-court entries.",
+
+  "scholarly_disagreement": "The relative weight of state formation versus community dynamics in driving Scottish prosecution is debated within the collection itself: some contributors follow Larner in emphasising the top-down, state-building dimension, while others emphasise the community-level social conflicts that generated accusations and argue that the state machinery amplified but did not create the prosecution impulse. The comparative question — whether Scotland's prosecution intensity was primarily a product of its distinctive institutions or reflects a more general European dynamic — is addressed differently by different contributors.",
+
+  "source_method": "Published text; Manchester University Press 2002",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

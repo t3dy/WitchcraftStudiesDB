@@ -1,0 +1,30 @@
+{
+  "id": "finland",
+  "name": "Finland",
+  "modern_country": "Finland",
+  "latitude": 61.924,
+  "longitude": 25.748,
+  "location_type": "nation",
+
+  "hover_description": "Finland, c. 1640–1700: Tietäjä (spirit healer) tradition. ~130 executions, ~70% male — among Europe's highest male proportions. Swedish royal jurisdiction; Blåkulla panic reached Ostrobothnia.",
+
+  "panel_description": "Finland under Swedish royal jurisdiction produced a prosecution pattern with notable distinctive features, particularly in its relatively high proportion of male accused — approximately 70% in some documented clusters — which Hutton and other scholars attribute to the masculine cultural association of the Finnish tietäjä (spirit-knowledge practitioner) tradition.\n\n  The tietäjä was a traditional Finnish healer and diviner whose practice involved spirit contact, the singing of special songs (runo), and claims to knowledge derived from supernatural sources. Ginzburg analyzes the tietäjä tradition in Ecstasies (1991) as one of his pan-Eurasian ecstatic-tradition cases, arguing that the Finnish spirit-journey practice represents a northern variant of the same underlying tradition as the Friulian benandanti and the Sámi noaidi. The tietäjä tradition was predominantly male in cultural coding, unlike the female-associated magical practices that dominated prosecution elsewhere.\n\n  The Finnish prosecution wave also had a temporal overlap with the Swedish Blåkulla panic of 1668-1676: the children's testimony about diabolical sabbaths spread from Sweden into Swedish-administered Finland, particularly Ostrobothnia, producing a cluster of prosecutions that followed the Blåkulla accusation format.\n\n  The combination of an indigenous male spirit-practice tradition (tietäjä) and the imported Blåkulla sabbath format created a prosecution context different from both Swedish and western European patterns, making Finland a productive comparative case for understanding how indigenous traditions interacted with imported demonological frameworks.",
+
+  "key_trial_events": [],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "Finnish regional court records (under Swedish jurisdiction); analyzed in Ginzburg, Ecstasies (1991); Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

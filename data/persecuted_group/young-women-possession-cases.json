@@ -1,0 +1,39 @@
+{
+  "id": "young-women-possession-cases",
+  "name": "Young Women in Diabolical Possession Cases",
+  "category": "demographic",
+  "temporal_scope": "c. 1560–1700",
+  "primary_regions": ["france", "british-isles", "colonial-new-england"],
+
+  "group_profile": "In contrast to the dominant pattern in which older women were the primary accused in witch prosecution, diabolical possession cases generated a distinct demographic pattern in which young women — typically adolescent or in their twenties — occupied the central position, most commonly as the 'afflicted' or 'possessed' persons whose experiences drove the prosecution rather than as the primarily accused witches. This demographic pattern appears consistently across the major documented possession cases: the Louviers convent possessions (1640s), the Loudun possessions (1632-34) involving Ursuline nuns under Jeanne des Anges, the Aix-en-Provence possessions (1611), and the Salem afflicted girls (1692) including Ann Putnam Jr., Betty Parris, Abigail Williams, and others.\n\n  The young women in these cases occupied a structurally ambiguous position: simultaneously subjects of concern and generators of accusation. They were the victims of alleged diabolical attack (and thus sympathetic figures whose suffering demanded response) and the primary witnesses whose testimony drove prosecution (and thus agents with real power within the legal proceeding, however constrained that power was by their institutional position). Roper's psychoanalytic analysis in Witch Craze (2004) identifies the possession case as a specific type of witch prosecution in which the afflicted persons' inner conflicts — about sexuality, authority, autonomy, and institutional confinement — were expressed through the possession narrative and resolved through prosecution.",
+
+  "persecution_rationale": "The demonological understanding of possession held that the devil entered and controlled the body of the possessed through the agency of a witch who had commissioned the diabolic attack; the possessed person was thus a victim rather than a perpetrator. This framework positioned the young possessed women as spiritual sufferers requiring exorcism and the witch whose maleficium had enabled the possession as the party requiring prosecution. The convent setting characteristic of many French possession cases added a specifically institutional dimension: nuns experiencing mental distress within the constraints of convent life found both an explanatory framework (possession) and an institutional audience (confessor, superior, inquisitor) ready to validate and respond to that experience.",
+
+  "structural_vulnerability": "The young women at the center of possession cases occupied a distinctive structural position that shaped both their experience and their role in prosecution. In convent cases (Loudun, Louviers, Aix), the institutional confinement of religious life, combined with the authority relations between nuns and their confessors, created conditions in which conflicts of authority and desire were expressed through the possession framework. Roper argues that the young women's possession testimonies reflected genuine psychological experience (however we interpret its ultimate nature) filtered through the only available cultural framework for expressing it. At Salem, the 'afflicted girls' included both genuine community members and servant girls (like Tituba's household members) whose position in the Parris household gave them a specific structural vulnerability — and a specific opportunity for expression through accusation — that they exploited, consciously or otherwise.",
+
+  "historiographical_significance": "The possession cases involving young women have attracted distinct analytical frameworks from the mainstream witch-prosecution literature. De Certeau's The Possession at Loudun (1970, English trans. 2000) analyzed the Loudun case as a symptom of the crisis of early modern authority — the possessed nuns' testimonies as a form of speech unavailable through other channels. Roper's psychoanalytic approach in Witch Craze (2004) identifies the maternal-malevolence fantasy as central to possession-case dynamics: the young possessed women accuse older women of diabolically attacking their bodies, which Roper reads as projections of ambivalent desires related to maternity and female bodily experience. Boyer and Nissenbaum's Salem Possessed (1974) analyzes the afflicted girls' social positions within Salem Village's community conflict, finding that the accusers were predominantly associated with one faction while the accused were predominantly associated with another.",
+
+  "exemplary_accused_persons": [
+    "urbain-grandier-loudun-1634"
+  ],
+  "related_demonological_concepts": [
+    "diabolical-possession-exorcism",
+    "spectral-evidence",
+    "bewitchment-illness-attribution"
+  ],
+
+  "scholarly_disagreement": "The degree to which the young women in possession cases were active agents (consciously using the possession narrative for self-expression or power) versus genuine sufferers from psychological distress (expressing real inner conflict through the available cultural framework) is debated. Roper leans toward genuine psychological experience; other scholars interpret the possession performance as more consciously strategic. The Salem afflicted girls specifically have attracted debate: were they manipulative, genuinely believed, hysterical, traumatized? Historians' interpretations reflect their broader frameworks: Boyer/Nissenbaum (community conflict); Norton (frontier trauma); psychological approaches (genuine anxiety disorder).",
+  "source_method": "Loudun inquisition records; Salem Witchcraft Papers; analyzed in de Certeau, The Possession at Loudun (2000); Roper, Witch Craze (2004); Boyer and Nissenbaum, Salem Possessed (1974); Norton, In the Devil's Snare (2002); Levack, The Devil Within: Possession and Exorcism in the Christian West (2013)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "roper-witch-craze-2004",
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

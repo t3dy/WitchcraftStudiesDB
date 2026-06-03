@@ -1,0 +1,42 @@
+{
+  "id": "eichstatt-episcopal-court",
+  "name": "Eichstätt Episcopal Court",
+  "formal_name": "Hochstift Eichstätt — witchcraft jurisdiction under Johann Christoph von Westerstetten",
+  "institutional_type": "episcopal_secular_court",
+  "founded": null,
+  "dissolved": "1631",
+
+  "jurisdiction_description": "The Prince-Bishopric of Eichstätt was a small ecclesiastical principality of the Holy Roman Empire in Bavaria, lying between the larger episcopal principalities of Bamberg to the north and Augsburg to the southwest. Like its Franconian neighbors, Eichstätt combined spiritual and secular criminal authority in the Prince-Bishop, creating the undivided jurisdictional structure that Midelfort and Levack identify as the enabling institutional condition for mass prosecution. The absence of effective external oversight — neither a reformed-city council's judicial skepticism nor Parlement-style appellate review — left the Prince-Bishop's court without a structural check on prosecution expansion.\n\n  Prince-Bishop Johann Christoph von Westerstetten (r. 1612-1637) presided over the most intensive phase of the Eichstätt prosecution, which ran from approximately 1617 to 1631 and produced approximately 274 documented executions. Westerstetten was simultaneously active in the Augsburg bishop's territory as the Jesuit-trained driving force behind multiple prosecution campaigns; his role in both Eichstätt and the broader Bavarian-Franconian cluster makes him one of the most prosecutorially active individual episcopal figures in German witch-trial history.",
+  "jurisdiction_territories": ["bavaria"],
+
+  "procedural_features": {
+    "torture_policy": "Torture was applied systematically in the Eichstätt prosecution in a pattern consistent with neighboring episcopal courts. The procedural record does not indicate the application of canon law constraints on repetition or the ratification of confessions outside the coercive setting. The Eichstätt prosecution shares with Bamberg and Würzburg the absence of the procedural safeguards that inquisitorial canon law would have required.",
+    "evidence_standards": "Confession and cascade denunciation were the operative evidentiary standards, consistent with the Franconian-Bavarian episcopal court pattern. Each execution produced further accusations; the prosecution's expansion to high-status individuals reflects the logical extension of a cascade mechanism operating without evidentiary floor.",
+    "confession_policy": "Confession under torture, recorded as voluntary in formal court documents, was the standard conviction basis. The Eichstätt records document the standard features of the Franconian mass prosecution: sabbath attendance, sexual congress with the devil, and the naming of accomplices forming the core content of every confession.",
+    "appeal_mechanism": "No effective internal appeal mechanism is documented. The prosecution terminated through the disruptions of the Thirty Years' War and the broader collapse of the Franconian episcopal principality structure under military pressure, not through judicial review or institutional reform."
+  },
+
+  "role_in_witch_trials": "The Eichstätt episcopal court is the third major node in the Franconian-Bavarian mass prosecution cluster of 1617-1631, alongside Bamberg and Würzburg. Its approximately 274 documented executions are somewhat lower in absolute terms than the Bamberg and Würzburg totals, but comparable on a per-capita basis for the smaller principality's population. The Eichstätt prosecution demonstrates the regional dimension of the Franconian superhunt: multiple neighboring episcopal jurisdictions prosecuted simultaneously, with prosecutions in one territory potentially influencing those in adjacent territories through shared demonological assumptions and, in some cases, overlapping personnel. Westerstetten's simultaneous prosecutorial activity in adjacent jurisdictions illustrates the personal networks through which prosecution practices propagated.",
+
+  "witch_trial_involvement_level": "high",
+  "key_trial_events": [
+    "eichstatt-witch-trials-1617-1631"
+  ],
+
+  "historiographical_significance": "The Eichstätt prosecution is part of the Franconian cluster that Midelfort analyzed in Witch Hunting in Southwestern Germany (1972) as the paradigm case for the episcopal principality prosecution pattern. Midelfort's key argument — that the highest prosecution intensity in the German territories correlated with a specific combination of consolidated episcopal-secular authority, proximity of multiple such authorities, and absence of external oversight — is supported by the simultaneous Eichstätt, Bamberg, and Würzburg prosecutions.\n\n  Behringer's analysis in Witches and Witch-Hunts (2004) situates the Eichstätt trials within the broader Bavarian context and examines the role of the Bavarian Witchcraft Mandate (1611) in structuring prosecution across the region. The Mandate represented an attempt at standardization of procedure but, as Behringer documents, did not operate as an effective restraint in the episcopal principalities where the Prince-Bishop's authority superseded secular territorial law.\n\n  The Eichstätt prosecution receives less individual scholarly attention than Bamberg and Würzburg, in part because its documentation is less spectacular — there is no surviving equivalent to the Junius letter — but Levack's comparative account treats all three Franconian episcopal courts as structurally equivalent and jointly determinative of the regional pattern.",
+
+  "scholarly_disagreement": "The precise execution total for Eichstätt is uncertain; the figure of approximately 274 is derived from Midelfort's compilation of surviving records and is considered a minimum rather than a complete count. Whether Westerstetten's personal Jesuit theological training was an independent factor in prosecution intensity, beyond the structural institutional conditions, is a question the sources do not fully resolve.",
+  "source_method": "Eichstätt episcopal records; Midelfort, Witch Hunting in Southwestern Germany (1972); Behringer, Witches and Witch-Hunts (2004); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004",
+    "levack-witch-hunt-early-modern-2006",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

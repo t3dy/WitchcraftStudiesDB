@@ -1,0 +1,36 @@
+{
+  "id": "italy",
+  "name": "Italy",
+  "modern_country": "Italy",
+  "latitude": 41.874,
+  "longitude": 12.567,
+  "location_type": "nation",
+
+  "hover_description": "Italy, c. 1380–1700: Roman and Venetian Inquisitions restrained prosecution. Friuli benandanti cases. Milan's Lady Oriente tradition. ~6,000 accused, ~2,000 executed (est.).",
+
+  "panel_description": "Italy's prosecution pattern was shaped above all by the effective oversight of the Roman Inquisition and its subsidiary tribunals (notably the Venetian Inquisition), which exercised a consistently restraining influence on witch prosecution throughout the peninsula. The Italian regions under effective Roman oversight had substantially lower execution rates than comparable northern European territories.\n\n  The most important Italian contribution to historiography comes not from mass prosecutions but from two specific case clusters that Ginzburg identified as windows into the popular spirit-tradition underlying the composite witch stereotype. The Friuli benandanti — documented in Inquisition records from 1575 onward — were men and women who claimed to leave their bodies at night to do battle with witches for the fertility of the harvest; their tradition is Ginzburg's primary evidence for Night Battles (1983). The Milan trials of 1384-1390 documented the tradition of the donna de fuera (Lady Oriente), a female spirit leader who traveled with the dead and healed the sick, which Ginzburg and Pócs analyze as an earlier stratum of the ecstatic tradition.\n\n  The Venetian Inquisition's records are among the richest in Europe for documenting the variety of magical practices prosecuted and the procedures by which the Inquisition moderated its cases; Tedeschi's work on the Roman Inquisition and Monter's analysis of the Venetian records document the institutional restraint mechanisms in detail.\n\n  The Friuli region in particular — Italian-speaking but geographically Alpine — sits at the intersection of Italian, German, and Slavic cultural zones, which helps explain the specific character of the benandanti tradition.",
+
+  "key_trial_events": [
+    "friuli-benandanti-1575-inquisition",
+    "milan-lady-oriente-trials-1384-1390"
+  ],
+
+  "key_accused_persons": [
+    "gaspar-tagliacarne-friuli-1575",
+    "battista-moduco-friuli-1580"
+  ],
+
+  "scholarly_sources": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "Friuli Inquisition records; Venetian Inquisition archives; analyzed in Ginzburg, Night Battles (1983); Ginzburg, Ecstasies (1991); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

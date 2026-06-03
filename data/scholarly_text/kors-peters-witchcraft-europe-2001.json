@@ -1,0 +1,43 @@
+{
+  "id": "kors-peters-witchcraft-europe-2001",
+  "title": "Witchcraft in Europe, 400-1700: A Documentary History",
+  "author": "Alan Charles Kors and Edward Peters (eds.)",
+  "author_slug": null,
+  "year_published": 1972,
+  "edition_year": 2001,
+  "publisher": "University of Pennsylvania Press",
+  "text_type": "primary_source_edition",
+  "pages": 541,
+
+  "subject_focus": "An anthology of primary sources in English translation documenting the development of European witch belief and prosecution from the early medieval period to the close of the main prosecution era, with scholarly introductions to each document.",
+
+  "summary": "Witchcraft in Europe, 400–1700 is an anthology of primary sources in English translation covering the full chronological and thematic range of European witch prosecution. The documents range from early medieval canon law (the Canon Episcopi, c. 900) through high medieval theological discussions of magic and heresy, the major demonological treatises of the fifteenth through seventeenth centuries (including extended selections from the Malleus Maleficarum, Bodin's Demonmanie, and Weyer's De praestigiis daemonum), trial records, skeptical texts, and theological defences of prosecution. Each document is introduced with scholarly contextualisation. The second edition (2001), edited by Kors and Peters, substantially updated the scholarly apparatus and extended the source selection to incorporate materials that had become central to scholarship since the 1972 first edition, including the Sprenger-Institoris problematic, the benandanti evidence, and additional trial records. The anthology is organised both chronologically and thematically, guiding readers through the development of the cumulative witch-prosecution stereotype.",
+
+  "scholarly_significance": "The Kors-Peters anthology is the standard reference for primary-source access to the European witch-prosecution tradition for scholars and students without access to original languages. Its selection and editorial apparatus have shaped anglophone understanding of witch prosecution's documentary record for two generations, and the second edition remains the most comprehensive single-volume primary-source collection in English. The anthology's selection reflects a broadly intellectual-history approach — foregrounding the development of demonological theory in texts by learned authors — that is consistent with the Clark framework and complements it. The selection necessarily omits the vast majority of trial records (which are largely untranslated) and relies heavily on printed texts rather than archival materials, which means it captures the learned tradition better than popular belief. For the database, the anthology is directly relevant because many of the `scholarly_text` entries for primary sources (Malleus, Bodin, Weyer, James, Scot, etc.) can be cross-referenced here as a source for the translated text used in database entries. The anthology also provides the essential primary-source readings for `demonological_concept` entries on the development of the sabbath, the pact, and maleficium.",
+
+  "key_arguments": [
+    {
+      "concept": "Documentary selection and interpretation",
+      "claim": "The anthology's selection of sources guides readers through the development of the cumulative witch-prosecution composite from its early medieval antecedents through the major demonological synthesis and into the sceptical tradition; the framing argues for a broadly intellectual-history approach."
+    },
+    {
+      "concept": "Canon law tradition",
+      "claim": "The early medieval canon law materials — especially the Canon Episcopi's dismissal of night-flight beliefs as illusory — establish the legal and theological context for the later reversal by which the Inquisition and secular courts came to treat such beliefs as real and prosecutable."
+    },
+    {
+      "concept": "Continuity from heresy to witchcraft",
+      "claim": "The documentary progression from heresy inquisition to witch prosecution traces the institutional and theological mechanisms by which the heresy-prosecution apparatus was applied to the emerging witch-prosecution composite."
+    }
+  ],
+
+  "relation_to_database": "Provides accessible English translations for the primary sources that anchor the database's `scholarly_text` entries for primary sources and `demonological_concept` entries. Cross-referenced in database entries where the Kors-Peters translation has been used as the source text. The anthology's editorial apparatus informs the contextualisation in `timeline` entries for major publication events.",
+
+  "scholarly_disagreement": "Any documentary anthology's selection reflects editorial choices about which sources matter, and the Kors-Peters selection has been noted for giving relatively more weight to Continental versus British sources and to elite theological texts versus popular and archival materials. The intellectual-history framing of the editorial apparatus (the anthology was planned before Clark's work but is consistent with it) means that social-historical dimensions of prosecution receive less emphasis than the learned tradition. The second edition addressed some of these gaps but the constraints of single-volume format necessarily perpetuate others.",
+
+  "source_method": "Published text; University of Pennsylvania Press 2001 (second edition; first edition 1972)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,72 @@
+{
+  "id": "anne-bodenham-wiltshire-1653",
+  "name": "Anne Bodenham",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "england",
+  "year_interrogated": 1653,
+  "age_at_trial": 70,
+  "social_status": "Former servant of the astrologer and cunning man John Lambe; independent cunning woman with learned-magic elements in her practice; operated near Salisbury, Wiltshire",
+  "gender": "Female",
+
+  "self_identification": "Practitioner of learned magic — ritual invocation, sigil work, and book-based operations — combined with the service functions of the English cunning woman; understood her practice as effective magical knowledge inherited from her former employer",
+  "claimed_abilities": [
+    "Invocation of spirits using formal ritual, a magic circle, and written sigils",
+    "Consultation of magical books for divinatory and operative purposes",
+    "Crystal or mirror gazing for divination",
+    "Cure and counter-magic using ritual learned methods",
+    "Appearance of spirit animals during her operations"
+  ],
+
+  "biography": "Anne Bodenham of Fisherton Anger near Salisbury, Wiltshire, was tried and executed at the Salisbury assizes in 1653. She was approximately seventy years old at the time of her trial — a remarkable age that meant she had been practicing for decades — and her case is one of the most richly documented mid-seventeenth-century English cunning-woman prosecutions.\n\nBodenham's distinctive characteristic was the hybrid learned-popular character of her practice. She had formerly been a servant of John Lambe, an astrologer and magical practitioner of considerable notoriety who had been associated with the Duke of Buckingham and had himself been killed by a London mob in 1628 (though Bodenham described him as executed in 1640 — a chronological discrepancy in some accounts). From Lambe she had evidently acquired elements of learned magical practice: she used magical books, drew sigils, and reportedly worked within a magic circle when invoking spirits — all features of the ceremonial magic tradition rather than the primarily oral, pragmatic service-magic of most English cunning folk.\n\nThe case came to prosecution when a maidservant, Anne Styles, reported to her employers that Bodenham had bewitched her. Styles's testimony described witnessing Bodenham's magical operations in some detail, including the appearance of spirit animals during the ritual proceedings. This testimony, along with the material evidence of Bodenham's books and ritual instruments, formed the core of the prosecution case.\n\nSharpe analyzes Bodenham in Instruments of Darkness (1996) as primary evidence for the hybrid character of some English magical practitioners — the combination of learned, book-based ceremonial magic with the service functions (healing, divination, recovery of stolen goods) that defined the popular cunning-woman role.",
+
+  "interrogation_narrative": {
+    "circumstances": "Salisbury assizes, 1653; the case began with accusations from the maidservant Anne Styles, whose detailed testimony of witnessing magical operations drove the prosecution",
+    "bodenham_initial_claim": "Her practice drew on knowledge acquired from John Lambe; she used books, sigils, and formal ritual methods to invoke spirits and achieve practical effects for clients",
+    "interrogator_response": "The formal ritual elements of her practice — the magic circle, the invocations, the written sigils — were treated as evidence of diabolical compact rather than learned practice; Styles's testimony about spirit animals reinforced the demonological interpretation",
+    "adaptation": "At her advanced age, Bodenham appears to have made limited resistance to the prosecution's framing; the documentary record of the case is shaped substantially by Styles's testimony rather than Bodenham's own voice"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Use of magical books, sigils, and ritual invocation; the circle and formal apparatus of her practice; her relationship as Lambe's former servant and inheritor of his methods",
+    "under_interrogation_pressure": "The learned-magic elements of her practice were interpreted through the demonological framework; the spirit appearances described by Styles were treated as diabolical manifestations",
+    "final_confession": "Convicted and executed at Salisbury assizes, 1653; the details of her final statement are preserved in the published pamphlet account of the case"
+  },
+
+  "microhistorical_significance": "Anne Bodenham's case is significant within Ginzburg's comparative framework for what it reveals about the social transmission of magical knowledge: the practitioner who learned her craft in a specific apprentice-like relationship (servant to a learned magician) and then operated independently represents a route by which ceremonial and learned-magic elements entered popular service-magic practice. This transmission route — downward from elite or semi-elite learned practitioners to popular clients and practitioners — is part of what Thomas, following the Renaissance magic tradition, documented as the hybrid character of English magical practice.\n\nGinzburg's attention in Ecstasies (1991) to the transformation of practitioners' own frameworks under prosecutorial pressure applies directly to Bodenham's case: the formal ritual apparatus that gave her practice its distinctively learned character was, in the prosecution record, converted into evidence of organized diabolism rather than recognized as book-magic in the ceremonial tradition. The gap between how a practitioner understood her own practice and how prosecution authorities processed it is one of Ginzburg's central methodological concerns.",
+
+  "actor_vs_analyst_terminology": {
+    "bodenham_language": [
+      "Knowledge learned from John Lambe",
+      "Books of magic (her learned instruments)",
+      "Sigils and circles (formal ritual apparatus)",
+      "Invocation (as a learned technical procedure)"
+    ],
+    "prosecution_categories": [
+      "Witch",
+      "Diabolical compact",
+      "Invocation of evil spirits",
+      "Maleficium against Anne Styles"
+    ]
+  },
+
+  "practical_activities": "Bodenham's documented practice combined learned-magic elements (ritual circle, written sigils, formal invocation from books) with service-magic functions typical of English cunning women: divination, healing, counter-magic, and practical consultation for clients. The appearance of spirit animals in Styles's testimony suggests either the performance of ritual theater or genuine visionary experience within the learned-invocation context. Her client network near Salisbury was evidently established over many years of practice.",
+
+  "interrogation_outcome": "Tried and convicted at Salisbury assizes, 1653; executed by hanging. Her case was memorialized in Edmund Bower's pamphlet Doctor Lamb Revived (1653), which connected her practice explicitly to her former master Lambe.",
+
+  "historiographical_significance": "Sharpe analyzes Anne Bodenham in Instruments of Darkness (1996) as a primary example of the learned-popular hybrid in English magical practice — a practitioner whose methods drew on both the ceremonial magic tradition (books, circles, sigils, formal invocation) and the service-magic role of the English cunning woman. Thomas's Religion and the Decline of Magic (1971) provides the broader framework for understanding how learned magical traditions percolated through English society, reaching practitioners like Bodenham through the social networks around figures like Lambe. Hutton in The Witch (2017) discusses her case as part of the evidence for the diversity and social range of English service-magic practitioners. The case is one of the few in the English record where the transmission route of magical knowledge — from a specific learned master to a practicing woman — is explicitly documented.",
+
+  "scholarly_sources": [
+    "sharpe-instruments-of-darkness-1996",
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Salisbury assizes records, 1653; Edmund Bower, Doctor Lamb Revived (1653); analyzed in Sharpe, Instruments of Darkness (1996) and Thomas, Religion and the Decline of Magic (1971)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Thomas in Religion and the Decline of Magic (1971) emphasizes the continuity of learned-magic elements in popular practice as evidence of the hybrid character of English magical tradition; Sharpe in Instruments of Darkness (1996) develops this analysis specifically for the cunning-folk context. Whether Bodenham's learned-magic apparatus represents genuine ceremonial tradition inherited from Lambe or a performance calculated to impress clients — a distinction that matters for understanding the social function of the 'book magic' elements — is not fully resolvable from the prosecution record.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

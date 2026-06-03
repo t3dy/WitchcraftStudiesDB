@@ -1,0 +1,75 @@
+{
+  "id": "wilmot-redd-salem-1692",
+  "name": "Wilmot Redd",
+  "status": "Executed",
+  "trial_id": "salem-1692-trials",
+  "location_id": "salem",
+  "year_accused": 1692,
+  "year_executed": 1692,
+  "age_at_trial": 75,
+  "social_status": "Elderly widow of Marblehead, Massachusetts; known in her community under the folk identity 'Mammy Redd'; carried a long-established pre-accusation reputation as a witch dating at least to 1687",
+  "gender": "Female",
+
+  "biography": "Wilmot Redd of Marblehead was among the oldest accused persons at Salem and carried the longest-established pre-accusation reputation as a witch of any of the 1692 executed. Known in her community as 'Mammy Redd,' she had been the subject of a formal witchcraft complaint as early as 1687, when a Marblehead family accused her of afflicting a child; she escaped prosecution at that time but the accusation left a durable community identity as a witch that persisted into the 1692 crisis.\n\n  Redd was arrested on May 28, 1692, as the Salem accusation network expanded beyond the original Salem Village cluster to reach Marblehead and other coastal communities. She was among the oldest of the accused, estimated at approximately seventy-five years, widowed, and socially marginal in ways that made the prosecution's task straightforward: her pre-existing 'Mammy Redd' identity meant the afflicted persons' testimony encountered a community already primed to believe in her diabolical character. She maintained her innocence through examination and trial, was convicted by the Court of Oyer and Terminer, and was hanged on September 22, 1692, alongside Martha Corey, Mary Easty, Samuel Wardwell, and four others.\n\n  Hutton's analysis of the 'repeat-accused' pattern is directly applicable to Redd's case: the 1687 complaint, unsuccessful as a prosecution, functioned as a reputational deposit that the 1692 crisis drew upon. Norton in In the Devil's Snare (2002) and Boyer and Nissenbaum in Salem Possessed (1974) both note her Marblehead community identity as establishing the credibility framework within which the afflicted persons' testimony was received. Her case exemplifies the intersection between the long-standing English pattern of witch-reputation accumulation — documented by Macfarlane and Thomas for earlier English prosecutions — and the specific institutional mechanisms of the Salem crisis.",
+
+  "arrest_narrative": "Redd came to the 1692 authorities' attention through the expansion of the afflicted persons' testimony to Marblehead and through her pre-existing community reputation as 'Mammy Redd,' which dated at least to the 1687 formal complaint. The Marblehead accusation network appears in Norton's analysis of how the Salem crisis spread from its original Village locus. She was arrested May 28, 1692, examined before magistrates, and held for trial. The 1687 complaint against her was likely cited in proceedings as evidence of prior diabolical history.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1692-05-31",
+      "method": "Examination before magistrates; afflicted persons present; spectral evidence procedure; no physical torture documented",
+      "initial_response": "Denied all charges; maintained innocence throughout",
+      "duration": "Examination and formal trial before Court of Oyer and Terminer"
+    },
+    "torture_sessions": []
+  },
+
+  "confession_content": {
+    "demonic_pact": "None confessed; maintained innocence.",
+    "sabbath_activities": "None confessed.",
+    "maleficium_claimed": "None confessed.",
+    "accomplices_named": [
+      "None."
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Redd's case illustrates the Salem mechanism in which the court's evidentiary framework drew on reputational evidence accumulating over years — what Ginzburg would identify as the institutional crystallization of community suspicion into formal accusation. The 1687 complaint that failed to result in prosecution nonetheless fed directly into the 1692 prosecution by providing the 'Mammy Redd' identity that structured community reception of the afflicted persons' testimony. The structural coercion of Salem — trial by spectral evidence in a community already disposed to believe — required no physical torture to produce conviction of a woman whose neighbors had long identified her as a witch.",
+    "plausibility": "No independent evidence supports any charge against Redd. Hutton's documentation of the 'witch reputation' pattern — the accumulation of community suspicion around older, often widowed women over decades before formal prosecution — fits Redd precisely. Macfarlane's English witchcraft studies establish the broader pattern of which her Marblehead reputation was an instance: the witch-identity was a community construction that preceded any formal accusation and made the trial outcome nearly predetermined once accusation was lodged.",
+    "social_vulnerability": "Redd occupied the demographic center of early modern English-colonial witch prosecution: elderly, widowed, and bearing a pre-existing witch reputation. Thomas's Religion and the Decline of Magic (1971) and Macfarlane's Witchcraft in Tudor and Stuart England (1970) both analyze how the 'wise woman' or folk-healer's reputation, when it soured, became a witch reputation through neighborhood conflict dynamics. Redd's 'Mammy Redd' identity suggests she may have occupied a folk-practitioner role in Marblehead whose reputation turned adversarial in the 1687 incident and never recovered."
+  },
+
+  "execution_details": {
+    "date": "1692-09-22",
+    "method": "Hanged at Gallows Hill, Salem",
+    "location": "Gallows Hill, Salem Town, Massachusetts",
+    "witnesses": "Court officials, public; seven others executed on the same day",
+    "final_statement": "Maintained innocence; no surviving written statement documented."
+  },
+
+  "accusations_against_her": [
+    "Witchcraft and diabolical allegiance",
+    "Spectral appearances tormenting afflicted persons",
+    "Prior practice of harmful 'witchcraft' dating to the 1687 Marblehead complaint"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "No surviving formal petition or documented community support. Her marginal social position left her with few resources for organized defense.",
+    "defense_arguments": "Consistent denial at examination and trial; no surviving written defense."
+  },
+
+  "historiographical_significance": "Wilmot Redd's case documents the role of pre-existing witch reputation in structuring Salem prosecutions — the mechanism by which decades of community suspicion were mobilized by the 1692 crisis into fatal accusation. Boyer and Nissenbaum's Salem Possessed (1974) and Norton's In the Devil's Snare (2002) both note her Marblehead identity and prior 1687 complaint as contextual background. Hutton's The Witch (2017) places Redd within the broader pattern of repeat-accused individuals whose earlier escapes from prosecution left them more, not less, vulnerable to subsequent accusations. Her case provides a direct link between the long-standing English accusation pattern analyzed by Macfarlane and Thomas — in which witch reputation accumulates over years of neighborhood conflict before formal prosecution — and the specific institutional mechanisms of the 1692 crisis. Her age and widowed status place her at the demographic center of the early modern accused population that social historians have documented as statistically most vulnerable.",
+
+  "source_method": "The Salem Witchcraft Papers (SWP), University of Virginia edition; 1687 Marblehead complaint records; examination records for Wilmot Redd; Norton, In the Devil's Snare (2002); Boyer and Nissenbaum, Salem Possessed (1974); Massachusetts legislature exoneration and compensation acts (1711)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "hutton-the-witch-2017"
+  ],
+  "scholarly_disagreement": "The basic facts of Redd's prior 1687 complaint, 1692 arrest, and execution are not contested. Boyer and Nissenbaum and Norton differ in their primary explanatory frameworks (community conflict vs. frontier trauma) for why the 1692 crisis reached her community, but both are compatible with the Marblehead reputational evidence. Hutton's broader European comparative framework for witch-reputation accumulation is supplementary rather than contradictory to the Salem-specific accounts.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Salem Witchcraft Papers: examination of Wilmot Redd, May 31, 1692; 1687 Marblehead witchcraft complaint"
+}

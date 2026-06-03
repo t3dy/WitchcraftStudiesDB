@@ -1,0 +1,24 @@
+{
+  "id": "bekker-enchanted-world-published-1691",
+  "event_name": "Bekker's De Betoverde Wereld published",
+  "event_type": "primary_source_publication",
+  "date": "1691",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Amsterdam",
+  "location_slug": "netherlands",
+  "significance": "Balthasar Bekker's De Betoverde Wereld (The Enchanted World, 1691) was a Reformed Dutch minister's systematic Cartesian argument that Satan could not act directly in the physical world, making all alleged diabolical compacts and witch activities impossible; the work generated enormous controversy and contributed significantly to the intellectual climate in which witch prosecution declined across Protestant Europe.",
+  "related_entities": [
+    "clark-thinking-with-demons-2001"
+  ],
+  "source_method": "Published primary source; analyzed in Clark, Thinking with Demons (1997) and Hutton, The Witch (2017)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

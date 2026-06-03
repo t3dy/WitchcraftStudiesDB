@@ -1,0 +1,24 @@
+{
+  "id": "pope-john-xxii-super-illius-specula-1326",
+  "event_name": "Pope John XXII issues Super illius specula",
+  "event_type": "institutional_event",
+  "date": "1326",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Avignon",
+  "location_slug": null,
+  "significance": "Pope John XXII's bull Super illius specula declared that practitioners of ceremonial magic who formed pacts with demons were to be prosecuted as heretics, establishing the foundational papal authority for extending inquisitorial jurisdiction to magic and providing the doctrinal basis for later witch prosecution.",
+  "related_entities": [
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "source_method": "Published primary source; analyzed in Ankarloo and Clark, Witchcraft and Magic in Europe: The Middle Ages (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "cohn-europes-inner-demons-1975",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

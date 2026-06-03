@@ -1,0 +1,84 @@
+{
+  "id": "oberstdorf-chonrad-stoeckhlin-1587",
+  "name": "Chonrad Stoeckhlin",
+  "status": "Executed",
+  "trial_id": null,
+  "location_id": "bavaria",
+  "year_accused": 1586,
+  "year_executed": 1587,
+  "age_at_trial": 36,
+  "social_status": "Horse wrangler (Pferdeknecht) of Oberstdorf, Allgäu, Bavaria; low social status but locally known figure in the village community; married; understood himself within his community as a protective practitioner whose ecstatic spirit journeys defended local harvests against harmful witches",
+  "gender": "Male",
+
+  "biography": "Chonrad Stoeckhlin was a horse wrangler from Oberstdorf in the Allgäu region of Bavaria who was arrested in 1586 and executed at Schongau on January 23, 1587 — the primary subject of Wolfgang Behringer's microhistorical study Shaman of Oberstdorf (1994, English translation 1998), which is the essential scholarly source for his case.\n\n  Stoeckhlin claimed to experience periodic ecstatic trances, beginning after the death of his companion Jacob Walch, during which he traveled with a spirit company he called the 'Phantoms of the Night' (Nachtschar). This company, as he described it, included the souls of individuals who had died prematurely — unbaptized children, accident victims, and others — and undertook nocturnal journeys across the Allgäu landscape. Stoeckhlin maintained that during these journeys the Phantoms fought against harmful witches in spirit combat, protecting the community's harvest from diabolical destruction. He used his claimed visionary knowledge to assist community members: identifying the source of illness, locating lost animals, and providing protective advice.\n\n  Behringer analyzes Stoeckhlin's Nachtschar tradition as the Bavarian and Allgäu parallel to the Friulian benandanti documented by Ginzburg in The Night Battles (1983): an agricultural spirit-combat tradition in which specialized practitioners undertook ecstatic journeys to protect communal fertility, understood by the practitioners themselves as beneficent rather than diabolical. Both traditions were targeted by inquisitorial interrogation that sought to reframe them as diabolic sabbath attendance, progressively transforming the practitioners' own self-understanding through sustained questioning.\n\n  Under interrogation, Stoeckhlin's spirit journeys were systematically reinterpreted: his Phantoms of the Night became the witches' sabbath, and the Nachtschar's protective harvest-combat was recast as diabolical harm. He named accomplices who were subsequently arrested and prosecuted.",
+
+  "arrest_narrative": "Stoeckhlin was arrested in 1586 as Bavarian authorities became aware of his claimed visionary activities. His role as a practitioner using ecstatic experiences to assist community members — healing, identifying malefactors, providing protective knowledge — had been locally known and presumably locally tolerated before the formal prosecution. Behringer documents how the interrogation process that followed his arrest was shaped by the interrogators' existing conceptual framework: they understood his spirit journeys as diabolical sabbath attendance and interrogated him toward that conclusion, progressively transforming his testimony from accounts of beneficent protective journeys into confessions of diabolic allegiance. He was held and interrogated at Oberstdorf and subsequently transferred to Schongau for trial and execution.",
+
+  "interrogation_and_confession": {
+    "first_interrogation": {
+      "date": "1586",
+      "method": "Interrogation by Bavarian secular authorities; pressure and eventually torture consistent with contemporaneous German practice; Behringer's analysis focuses on the progressive transformation of Stoeckhlin's testimony across multiple sessions",
+      "initial_response": "Initially described his Nachtschar experiences in his own terms as protective spirit journeys; under sustained interrogation the accounts were progressively reshaped into confessions of diabolic allegiance",
+      "duration": "Extended interrogation across multiple sessions from 1586 to January 1587"
+    },
+    "torture_sessions": [
+      {
+        "session": 1,
+        "date": "1586-1587",
+        "method": "Torture methods consistent with Bavarian secular court practice of the period; Behringer's analysis documents the interrogation process from the records, which show the progressive transformation of testimony",
+        "duration": "Multiple sessions across the period of imprisonment",
+        "outcome": "Progressive transformation of Stoeckhlin's self-described Nachtschar experiences into diabolical-sabbath confession; naming of accomplices subsequently arrested"
+      }
+    ]
+  },
+
+  "confession_content": {
+    "demonic_pact": "Confession under interrogation reframed his described relationship with the spirit company as a diabolical compact; Stoeckhlin's own prior language described the Phantoms of the Night as including souls of the prematurely dead rather than demonic figures.",
+    "sabbath_activities": "The 'Phantoms of the Night' journeys, as described initially by Stoeckhlin as protective harvest-combat, were reframed by interrogation as sabbath attendance; the confessional transformation of the journey's purpose is the primary subject of Behringer's analysis.",
+    "maleficium_claimed": "Confessed under interrogation to harmful acts recast from his original self-description as a protective practitioner.",
+    "accomplices_named": [
+      "Multiple Oberstdorf community members named under interrogation; those named were subsequently arrested and prosecuted; Behringer documents the cascade dynamic this produced."
+    ]
+  },
+
+  "historiographical_analysis": {
+    "torture_mechanism": "Stoeckhlin's case is Behringer's primary evidence for the interrogation-transformation dynamic that Ginzburg documented for the Friulian benandanti: a process in which a practitioner's own tradition — internally coherent, locally valued, understood by its practitioner as protective — was progressively reframed through sustained institutional interrogation into a diabolical-sabbath confession. Ginzburg's methodology in Night Battles (1983) established the analytical framework for reading interrogation records as palimpsests in which the practitioner's original self-understanding can be partially recovered beneath the inquisitorial overlay; Behringer applies this framework directly to Stoeckhlin's case. The transformation was not instantaneous but incremental: each session reshaped the testimony further toward the expected confessional template.",
+    "plausibility": "Behringer's analysis confirms that Stoeckhlin genuinely held beliefs about the Phantoms of the Night and described real ecstatic or trance experiences, not fabricated claims. The tradition he participated in — protective spirit-journey combat for harvest defense — appears to have had genuine cultural roots in the Allgäu region, as Behringer argues, making it a regional parallel to the benandanti rather than an idiosyncratic individual claim. The harmful-witchcraft confession that emerged from interrogation cannot be treated as evidence of actual harmful practice.",
+    "social_vulnerability": "Stoeckhlin's vulnerability derived less from conventional social marginality than from his role as a practitioner of an ecstatic tradition that was already structurally incompatible with the categories the secular authorities deployed: any spirit journey that claimed to encounter non-Christian spirit companies was, within the demonological framework Clark analyzes in Thinking with Demons (2001), necessarily diabolical in character, regardless of the practitioner's own understanding of its purpose. His low social status as a horse wrangler left him without the social resources to resist prolonged interrogation. The cascade of accusations his testimony generated swept multiple community members into prosecution, multiplying the crisis he could not prevent."
+  },
+
+  "execution_details": {
+    "date": "1587-01-23",
+    "method": "Executed at Schongau following conviction; specific execution method consistent with Bavarian practice of the period",
+    "location": "Schongau, Bavaria",
+    "witnesses": "Court officials and public; Behringer's account documents the transfer from Oberstdorf to Schongau for the terminal proceedings",
+    "final_statement": "Not documented as a separate statement in Behringer's account; the interrogation records are the primary surviving textual evidence."
+  },
+
+  "accusations_against_her": [
+    "Diabolical allegiance through the reframed Nachtschar spirit journeys",
+    "Attendance at sabbath gatherings as reinterpreted from the Phantoms of the Night journeys",
+    "Maleficium against community members as derived from interrogation-transformed testimony",
+    "Naming as a witch-practitioner whose activities harmed the community he had claimed to protect"
+  ],
+
+  "contemporary_defense": {
+    "supporters": "No documented community defense; Stoeckhlin's role as a locally known practitioner had been tolerated rather than formally endorsed, leaving no institutional defenders when prosecution began.",
+    "defense_arguments": "His initial interrogation responses constituted an implicit defense: his own account of the Nachtschar emphasized its protective and beneficent character. This self-characterization was precisely what the interrogation process worked to reframe, and it did not function as exculpatory within the court's conceptual framework."
+  },
+
+  "historiographical_significance": "Chonrad Stoeckhlin's case is the central subject of Behringer's Shaman of Oberstdorf (1994/1998), which established it as the Bavarian counterpart to Ginzburg's Friulian benandanti and provided a second major example of the interrogation-transformation dynamic Ginzburg had documented in Night Battles (1983). Behringer's analysis extends Ginzburg's framework: where Ginzburg's benandanti cases were heard by the Venetian Inquisition over extended periods with relatively restrained procedure, Stoeckhlin's case was processed by Bavarian secular courts operating under greater urgency and with less procedural caution, producing a more rapid transformation of testimony and a fatal outcome. The Stoeckhlin case is significant for Clark's argument in Thinking with Demons (2001) as well: it demonstrates how demonological theory's coherent categorical framework determined what interrogators heard in testimony — the Phantoms of the Night were by definition diabolical within that framework, regardless of Stoeckhlin's own understanding. Hutton's The Witch (2017) uses both the benandanti and the Stoeckhlin case within his broader comparative argument about the diversity of cunning-folk and spirit-journey traditions across early modern Europe.",
+
+  "source_method": "Behringer, Shaman of Oberstdorf (German 1994; English translation 1998), which provides the primary analysis from the Oberstdorf and Schongau court records; Ginzburg, The Night Battles (1983), for comparative analytical framework; Behringer, Witches and Witch-Hunts (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991"
+  ],
+  "scholarly_disagreement": "Ginzburg and Behringer agree on the analytical framework of interrogation transformation applied to indigenous spirit-journey traditions but pursue different comparative arguments: Ginzburg's comparative project in Ecstasies (1991) develops a broad morphological claim about shamanic survivals across Eurasian traditions; Behringer in Shaman of Oberstdorf maintains a more cautious regional-historical approach, emphasizing the specific Allgäu context over the pan-European shamanic thesis. The factual record of Stoeckhlin's trial and execution is not contested. Some historians question the degree to which the benandanti-Stoeckhlin parallel supports broader claims about shamanic substrate traditions, as distinct from convergent regional folk belief.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03",
+  "primary_document": "Oberstdorf and Schongau court records (1586–1587), analyzed in Behringer, Shaman of Oberstdorf (1994/1998)"
+}

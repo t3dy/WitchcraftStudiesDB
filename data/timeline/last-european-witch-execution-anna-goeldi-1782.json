@@ -1,0 +1,21 @@
+{
+  "id": "last-european-witch-execution-anna-goeldi-1782",
+  "event_name": "Anna Goeldi executed — last European witch execution",
+  "event_type": "biographical",
+  "date": "1782",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Glarus, Switzerland",
+  "location_slug": "swiss-confederation",
+  "significance": "Anna Goeldi of Glarus, Switzerland, was judicially executed on June 13, 1782, in the last documented judicial execution for witchcraft in early modern Europe; her case was officially recorded as a poisoning case to avoid the embarrassment of a witchcraft charge, but contemporaries understood it as a de facto witch execution, and the Swiss parliament issued a formal rehabilitation in 2007.",
+  "related_entities": [],
+  "source_method": "Glarus cantonal court records; analyzed in Hutton, The Witch (2017) and Levack, The Witch-Hunt in Early Modern Europe (2006)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

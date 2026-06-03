@@ -1,0 +1,31 @@
+{
+  "id": "nördlingen",
+  "name": "Nördlingen",
+  "modern_country": "Germany (Bavaria)",
+  "latitude": 48.852,
+  "longitude": 10.490,
+  "location_type": "city",
+
+  "hover_description": "Nördlingen, 1590–1598: ~33 executions. Lyndal Roper's primary case study. Obstetric maleficium accusations; midwives targeted. Rebecca Lemp's letters to her husband survive.",
+
+  "panel_description": "Nördlingen, a free imperial city in Swabia (now in northern Bavaria), is the primary case study in Lyndal Roper's Witch Craze (2004) and provides the most extensively analyzed evidence for Roper's psychoanalytic interpretation of witch prosecution. The city's prosecution between approximately 1590 and 1598 produced approximately thirty-three executions from roughly one hundred accused.\n\n  The Nördlingen cases are distinguished from other German urban prosecutions by the specific profile of their accusation dynamics: the accused were disproportionately women associated with obstetric care — midwives, lying-in maids, and neighbors who attended childbirths. The confessions obtained focused on harm to infants and post-partum mothers, with detailed testimony about ointments applied to newborns, participation in infant deaths, and attendance at diabolical sabbaths where the harm was organized.\n\n  Roper's argument is that these confessions reflect unconscious projection: mothers who had lost infants — a common tragedy in early modern Europe, where infant mortality was extremely high — projected their guilt and grief onto the women present at the death, whose professional access to the vulnerable body made them plausible as malevolent agents. The lying-in period, in which the new mother was most vulnerable and most dependent on female attendants, was thus the specific social context that generated the Nördlingen accusation pattern.\n\n  The most emotionally powerful document from Nördlingen is the series of letters written by Rebecca Lemp — wife of an apothecary — from prison to her husband Stephan, protesting her innocence and describing her inability to withstand torture. These letters, preserved in the Nördlingen city archive, provide extraordinary evidence for the subjective experience of the coerced confession.",
+
+  "key_trial_events": [
+    "nördlingen-witch-trials-1590-1598"
+  ],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "roper-witch-craze-2004",
+    "midelfort-witch-hunting-1972",
+    "hutton-the-witch-2017"
+  ],
+
+  "source_method": "Stadtarchiv Nördlingen; analyzed in Roper, Witch Craze: Terror and Fantasy in Baroque Germany (2004); Midelfort, Witch Hunting in Southwestern Germany (1972)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

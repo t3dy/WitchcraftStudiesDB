@@ -1,0 +1,50 @@
+{
+  "id": "good-witch-beneficial-magic-problem",
+  "name": "The Good Witch and the Theological Problem of Beneficial Magic",
+  "category_type": "HYBRID_TERM",
+  "time_period": "Medieval and Early Modern (c. 1100–1700)",
+  "primary_locale": "England; broad European distribution",
+
+  "scholarly_definition": "The 'good witch' problem designates the theological and prosecutorial challenge posed by service magicians — cunning folk, healers, diviners, counter-witches — whose magic was beneficial in effect but condemned by ecclesiastical authorities as diabolically empowered in origin. The core theological argument, elaborated by Aquinas and applied by inquisitors and Protestant reformers alike, held that all operative magic beyond the boundaries of natural and divine causation necessarily derived its efficacy from demonic agency. A charm that healed a bewitched cow was not less diabolically sourced than one that killed it; a cunning woman who identified thieves through divination received her knowledge from the same source as one who called up storms. The beneficial effect was theologically irrelevant: what mattered was the source of the power.\n\nKeith Thomas made this tension the analytical center of Religion and the Decline of Magic (1971), arguing that the 'good witch' represented the point of greatest practical difficulty for prosecutorial authorities because communities valued and actively sought out service magicians. Alan Macfarlane's concurrent analysis of Essex witchcraft confirmed the same pattern for England: the cunning man or wise woman was a community resource whose elimination was socially costly. The theological logic condemning beneficial magic ran directly against the practical social logic of relying on its practitioners. This tension shaped the specifically English prosecution pattern, in which cunning folk were prosecuted inconsistently and sometimes not at all despite theoretical condemnation, and in which the community's ambivalence toward the accused frequently shaped trial outcomes.",
+
+  "intellectual_genealogy": {
+    "thomistic_prohibition": "Aquinas's argument that all non-natural operative magic derived efficacy from demonic cooperation provided the scholastic foundation for condemning beneficial magic; the argument was standard in medieval theology by the thirteenth century",
+    "canon_law_application": "Canon law prohibited recourse to diviners, healers using suspicious means, and counter-magic practitioners; the prohibition targeted beneficial magic specifically because harmful magic was already covered by secular law",
+    "protestant_intensification": "Protestant reformers, particularly Calvinist clergy in England and Scotland, attacked cunning folk more consistently and with greater ideological coherence than most Catholic authorities had; for Protestant theology, the absence of legitimate Catholic counter-magic (exorcism, holy water, relics) made the prohibition of cunning-folk alternatives more socially consequential",
+    "thomas_macfarlane_synthesis": "Thomas's Religion and the Decline of Magic (1971) and Macfarlane's Witchcraft in Tudor and Stuart England (1970) jointly established the analytical framework for the English beneficial-magic problem, though Thomas placed it within a broader argument about the social functions of magic and religion in pre-modern communities"
+  },
+
+  "clark_intellectual_analysis": "Clark's Thinking with Demons (1997) situates the condemnation of beneficial magic within the comprehensive demonological framework: the source-of-power argument — that all operative magic beyond divine miracle was demonically sourced — was a theologically coherent deduction from the premise that only God and demons could act beyond natural causation. The 'good witch' was not a conceptual problem for demonologists but a solved case: beneficial effect confirmed diabolical deception, since the demon's strategy was precisely to appear helpful in order to secure the practitioner's soul.",
+
+  "hutton_social_analysis": "Hutton's analysis in The Witch (2017) demonstrates that cunning folk occupied a legitimate and socially valued role in most European communities, providing healing, counter-magic, and divination services that communities actively needed. The prosecution of cunning folk therefore ran against community interest in a way that prosecution of maleficium-accused persons did not. Hutton shows that this social dynamic — communities protecting their service magicians from prosecution — explains why official condemnation of beneficial magic was so inconsistently enforced in practice, particularly in England where community sentiment influenced trial outcomes more directly than in Continental inquisitorial proceedings.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's Night Battles (1983) demonstrates through the Friuli benandanti case how practitioners of beneficial magic — whose self-understanding was as defenders against witchcraft, not as witches themselves — were gradually interrogated into confessing the diabolical framework that ecclesiastical authorities expected. The good-witch problem was resolved at the interrogation level by a process of conceptual translation: what practitioners described as beneficial activity was reinterpreted through demonological categories until it fit the required template of diabolical allegiance.",
+
+  "actor_perspective": {
+    "cunning_folk_self_understanding": "Service magicians typically understood their practices as legitimate, gift-based, or God-given rather than as diabolically sourced. They described inherited knowledge, prayers, and natural remedies rather than demonic compacts; the theological source-of-power argument was an external imposition, not a category that practitioners applied to themselves.",
+    "community_reliance": "Communities sought out cunning folk for healing, recovery of stolen goods, identification of maleficium perpetrators, and counter-magic — services the church condemned but failed to replace with equally effective alternatives. This practical reliance created a structural tension between theological prescription and social practice that shaped prosecution patterns throughout the period.",
+    "prosecutorial_ambivalence": "Prosecutors, particularly in England, frequently faced juries unwilling to convict persons whose community role had been beneficial. The good-witch problem was not only theological but practical: convicting a valued healer imposed direct costs on the community that convicting a maleficium-accused person did not."
+  },
+
+  "geographic_distribution": "The beneficial-magic problem was sharpest in England, where Calvinist prosecution ideology confronted a dense network of cunning folk and where common-law jury trials gave community sentiment unusual influence on outcomes. It was significant in Scotland, where Presbyterian hostility to all magic was intense. In Continental Europe, the beneficial-magic problem was generally resolved by the incorporation of cunning folk into the composite witch stereotype — the good witch was exposed as a bad witch through interrogation — rather than through the community-sentiment dynamics that complicated English prosecution. In Italian territories under Roman Inquisition supervision, cunning folk were often prosecuted under lighter charges (superstition rather than apostasy) with less severe penalties.",
+
+  "historiographical_significance": "The good-witch problem is one of the most analytically productive concepts in the social history of witchcraft because it reveals the gap between theological prescription and social practice. Thomas's Religion and the Decline of Magic (1971) used the concept to illuminate how magic and religion functioned as parallel systems for managing uncertainty and misfortune in pre-modern English society: the church's prohibition of beneficial magic left a service vacuum that cunning folk filled, making their elimination theologically necessary but socially harmful. Subsequent historians — Wilby, Hutton, Davies — have used the good-witch concept to recover the social world of service magicians in ways that purely prosecution-focused history obscures. The concept also illuminates the distinctiveness of English prosecution history: the relative infrequency of English mass prosecution reflects partly the community protection that service magic providers received, a social dynamic without close parallel in the German mass prosecution zones.",
+
+  "source_method": "Thomas, Religion and the Decline of Magic (1971); Macfarlane, Witchcraft in Tudor and Stuart England (1970); Hutton, The Witch (2017); Wilby, Cunning Folk and Familiar Spirits (2005); Clark, Thinking with Demons (1997); Ginzburg, Night Battles (1983)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The extent to which the good-witch problem drove prosecution versus inhibited it is contested: Thomas and Macfarlane argue that the cunning-folk network helped create the social conditions for maleficium accusation (by identifying suspects) while simultaneously providing a prosecution-resistant layer of practitioners. Hutton emphasizes the protective function of community valuation. Wilby's Cunning Folk and Familiar Spirits (2005) argues that cunning folk had a substantially autonomous practice tradition distinct from both learned magic and demonological witchcraft, complicating Thomas's functionalist account. Whether Protestant intensification of the prohibition actually increased prosecution of cunning folk (the standard view) or merely intensified official rhetoric while practice remained inconsistent is debated by historians of English religion.",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "hutton-the-witch-2017",
+    "wilby-cunning-folk-2005",
+    "clark-thinking-with-demons-2001",
+    "ginzburg-night-battles-1983",
+    "sharpe-instruments-of-darkness-1996"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

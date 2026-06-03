@@ -1,0 +1,39 @@
+{
+  "id": "accused-servants-domestic-workers",
+  "name": "Servants and Domestic Workers",
+  "category": "social_class",
+  "temporal_scope": "c. 1400–1700",
+  "primary_regions": ["english-territories", "german-states", "french-territories", "scandinavian-north"],
+
+  "group_profile": "Domestic servants — the large class of persons employed in gentry, merchant, and noble households across early modern Europe — constituted a structurally vulnerable accused group whose specific patterns of prosecution have been documented across multiple regional studies. Service was a life-stage condition for a significant proportion of early modern young adults, particularly women: Kussmaul's estimates suggest that a majority of English young adults spent some years in service before marriage, making the servant condition numerically very significant in the accused population even if servants were not uniquely overrepresented statistically in every jurisdiction.\n\n  Servants' proximity to their employers' households made them plausible suspects when misfortune struck: the servant who had prepared food was a natural candidate when illness followed a meal; the servant who had cared for infants was an obvious suspect when infant death followed. The dependent social position of the servant — lacking the property, legal standing, and social networks that supported self-defense in prosecution — made defense structurally difficult even where accusations were transparent. Briggs's analysis of Lorraine depositions in Witches and Neighbours (1996) documents numerous cases in which servants were accused by former employers or by households in which they had worked.\n\n  The enslaved domestic servant represents the extreme end of this vulnerability spectrum. Tituba's position at Salem — an enslaved Carib or African woman in the Parris household — combined servant vulnerability with the full legal defenselessness of enslaved status. Thomas's Religion and the Decline of Magic (1971) and Macfarlane's Witchcraft in Tudor and Stuart England (1970) together document the English servant-accused pattern across Tudor and Stuart cases.",
+
+  "persecution_rationale": "Demonological theory and popular belief converged in making servants plausible vectors for maleficium within the household. The servant's intimate access to food, children, and the physical spaces of the household meant that any harm that could be attributed to magical manipulation of household contents — poisoned food, bewitched infants, spoiled butter — fell within a servant's effective reach. The maleficium-through-proximity model, which held that a witch caused harm through contact or contamination, was naturally instantiated by the servant figure. In cases where a servant had been dismissed or mistreated and had expressed resentment — the verbal formula 'you will regret this' or equivalent — demonological theory framed the subsequent misfortune as fulfillment of a magical threat.",
+
+  "structural_vulnerability": "Thomas's analysis in Religion and the Decline of Magic identifies the servant's vulnerability as an intersection of access and powerlessness: the servant had the physical access to cause the harms attributed to witchcraft, lacked the social resources to resist accusation, and occupied a position in which their employer's grievance was structurally more credible to investigators than their own denial. Briggs's Lorraine analysis shows that the servant-accused pattern in Continental Europe shared these structural features with the English pattern, even in a different institutional prosecution context. Karlsen's analysis of Salem in The Devil in the Shape of a Woman identifies Tituba's enslaved status as an extreme version of the dependent vulnerability that characterized servant-accused persons more broadly: having no legal capacity to refuse testimony, no property to defend, and no kinship network within the prosecuting community, her position in the Parris household made her uniquely exposed.",
+
+  "historiographical_significance": "The servant-accused pattern intersects with several major debates in the social history of witch prosecution. The Thomas-Macfarlane charity-refusal model, formulated primarily around the poor-neighbor-accused pattern, does not directly explain servant prosecution (servants were not typically the alms-seeking party in the charity-refusal dynamic), suggesting that multiple distinct social mechanisms produced the overall pattern of prosecution targeting. Briggs's cross-regional analysis in Witches and Neighbours is important here: by comparing English and Lorraine cases, he demonstrates that servant prosecution was not merely a product of the English social conditions Thomas identified, but reflected structural vulnerabilities that operated across different institutional contexts. The Tituba case has been analyzed by Norton (In the Devil's Snare) and Breslaw (Tituba, Reluctant Witch) in considerable detail; both scholars note that Tituba's testimony was shaped not only by her vulnerability but by the specific expectations of her interrogators.",
+
+  "exemplary_accused_persons": [
+    "tituba-salem-1692"
+  ],
+  "related_demonological_concepts": [
+    "maleficium-harmful-magic",
+    "charity-refusal-accusation-model"
+  ],
+
+  "scholarly_disagreement": "Thomas and Macfarlane offer a primarily English social-functionalist account of servant vulnerability that critics argue may not translate to Continental contexts. Briggs (Witches and Neighbours) questions the direct applicability of the English model to Lorraine while confirming the servant-accused pattern itself. Karlsen's focus on the intersection of servant status and gender in the Salem context has been criticized by some scholars (including Norton) as underweighting the specific crisis conditions at Salem that distorted the normal accusation pattern.",
+  "source_method": "Lorraine deposition records analyzed in Briggs, Witches and Neighbours (1996); Essex assizes records analyzed in Macfarlane, Witchcraft in Tudor and Stuart England (1970); Thomas, Religion and the Decline of Magic (1971); Salem Witchcraft Papers analyzed in Karlsen, The Devil in the Shape of a Woman (1987) and Norton, In the Devil's Snare (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "briggs-witches-neighbours-1996",
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "karlsen-devil-shape-woman-1987",
+    "norton-in-devils-snare-2002"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

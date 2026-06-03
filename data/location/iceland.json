@@ -1,0 +1,28 @@
+{
+  "id": "iceland",
+  "name": "Iceland",
+  "modern_country": "Iceland",
+  "latitude": 64.963,
+  "longitude": -19.021,
+  "location_type": "nation",
+
+  "hover_description": "Iceland, 1604–1720: ~21 executions, ~80% male — the highest male proportion in Europe. Galdur (rune magic) prosecution; gender inversion of the normal prosecution pattern.",
+
+  "panel_description": "Iceland is the most striking demographic anomaly in European witch prosecution: of approximately twenty-one executions between 1604 and 1720, approximately seventeen (80-85%) were male, completely inverting the female predominance that characterized prosecution elsewhere in Europe. This gender inversion has attracted scholarly attention as a test case for the question of whether female predominance in prosecution was a feature of the witch stereotype itself or of the specific social vulnerabilities that accrued to women in other European contexts.\n\n  Icelandic prosecution targeted practitioners of galdur — rune magic and magical manipulation through written and spoken formulas — which was understood primarily as a male specialized knowledge in Icelandic culture. The male specialization of galdur practice meant that when prosecution occurred, the accused were predominantly the male practitioners of the socially recognized magical tradition rather than the socially marginal elderly women targeted elsewhere. The Icelandic prosecution pattern thus reflects the cultural specificity of what kind of magical practice attracted official attention rather than any demographic inevitability in who was prosecuted.\n\n  Scholars who argue that female predominance in prosecution elsewhere reflected the specific character of the Continental composite witch stereotype (which was constructed around female characteristics) point to Iceland as confirmation: where the relevant magical tradition was male-coded, male practitioners were prosecuted. Hutton's comparative analysis treats Iceland as important evidence for the contingency of the female-predominance pattern — it was not an inevitable consequence of patriarchal society but a feature of the particular stereotype that developed in Continental Europe.\n\n  Iceland's geographic isolation and small population (~50,000) meant that its total prosecution numbers were small, but the per-capita intensity was significant and the cultural distinctiveness of the Icelandic case is well-documented in the scholarship of Terry Gunnell and Kirsten Hastrup.",
+
+  "key_trial_events": [],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+
+  "source_method": "Icelandic court records; analyzed in Hastrup, A Cultural History of the Icelandic Witch Trial (1990); Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990); Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

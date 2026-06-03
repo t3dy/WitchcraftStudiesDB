@@ -1,0 +1,60 @@
+{
+  "id": "zugarramurdi-basque-trials-1609",
+  "name": "Zugarramurdi Basque Trials and the Salazar Investigation, 1609–1614",
+  "location_id": "basque-country",
+  "start_year": 1609,
+  "end_year": 1614,
+  "duration_months": 60,
+  "approximate_executions": 11,
+  "approximate_accused": 290,
+  "type": "Inquisitorial prosecution",
+
+  "historical_context": "The Zugarramurdi affair began in 1609 when the Spanish Inquisition's Logroño tribunal conducted an auto-de-fé at which eleven persons were condemned for witchcraft, including six burned in effigy (having died or fled). This initial prosecution, which stimulated a witchcraft panic across the Basque region, led to one of the most remarkable episodes in European witch-prosecution history: the Spanish Inquisition dispatched Alonso de Salazar Frías to investigate the panic, and Salazar's investigation — documented in his remarkable reports to the Suprema — concluded that none of the claimed witchcraft activities had actually occurred. Salazar's methodological skepticism effectively terminated Spanish witchcraft prosecution and established the Spanish Inquisition as one of the few major prosecution institutions to impose systematic skeptical review.",
+
+  "prosecution_mechanism": {
+    "institutional_structure": "Spanish Inquisition tribunal at Logroño (initial prosecution); Suprema (Spanish Inquisition's supreme council) dispatched Salazar for investigation (1609-1611); Salazar's findings led the Suprema to impose strict skeptical evidentiary standards (1614)",
+    "evidence_standard": "Initial prosecution used standard testimony and confession; Salazar's investigation tested specific claims through physical examination and circumstantial analysis, finding no physical evidence supporting any of the alleged activities",
+    "geographic_spread": "Spread from Zugarramurdi across the Basque Country following the initial auto-de-fé; panic involved thousands of confessors and accusers"
+  },
+
+  "notable_accused": [
+    "Zugarramurdi accused burned at Logroño auto-de-fé, 1609",
+    "Salazar investigated over 1,800 confessors and accusers during his 1610-1611 circuit"
+  ],
+
+  "accused_persons": [],
+
+  "resolution": "Salazar's investigation effectively ended the Spanish prosecution. His reports to the Suprema, culminating in 1613-1614, argued systematically that he had found no physical evidence of any of the claimed activities (sabbath attendance, transformation, maleficium, flying) and that the confessions and accusations were the product of panic, suggestion, and the community dynamics of rumor and social pressure. The Suprema accepted Salazar's conclusions and issued new instructions in 1614 making it virtually impossible to prosecute for witchcraft under Spanish Inquisition jurisdiction.",
+
+  "key_scholars": [
+    "Gustav Henningsen (The Witches' Advocate, 1980) — the definitive English-language study of the Salazar investigation, using Salazar's original reports in the inquisitorial archive",
+    "Alonso de Salazar Frías (his own reports, 1610-1613) — the primary documents",
+    "Henry Charles Lea (earlier scholarship) — documented the Spanish Inquisition's restraining role before Henningsen's fuller treatment"
+  ],
+
+  "demonological_concepts_present": [
+    "witches-sabbath-collective",
+    "maleficium-harm-magic",
+    "ecstatic-tradition-night-journey"
+  ],
+
+  "linked_inquisitorial_bodies": [
+    "spanish-inquisition"
+  ],
+
+  "historiographical_significance": "The Zugarramurdi affair and Salazar's investigation are central to the historical understanding of why the Spanish Inquisition was a restraining rather than a driving force in European witch prosecution. Henningsen's The Witches' Advocate (1980) is the foundational analysis, documenting Salazar's methodology — his systematic physical testing of specific claims, his analysis of how community panic generated self-reinforcing accusation patterns, his dismissal of testimony that could not be independently corroborated — as a remarkably early and methodologically sophisticated example of skeptical evidentiary review. Salazar's conclusion that 'there were neither witches nor bewitched until they were talked and written about' anticipates modern constructionist analyses of the witch-panic phenomenon. The Suprema's acceptance of Salazar's findings and the resulting 1614 instructions effectively terminated Spanish Inquisition prosecution of witchcraft for the next century.",
+
+  "source_method": "Logroño Inquisition archive; Salazar's reports to the Suprema (1610-1613); analyzed in Henningsen, The Witches' Advocate (1980); Levack, The Witch-Hunt in Early Modern Europe; Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The degree to which Salazar's skeptical conclusions reflect his genuine assessment of the evidence versus institutional politics within the Spanish Inquisition is a minor scholarly question. Henningsen argues for genuine empirical skepticism; others note that the Suprema had institutional reasons to rein in the Logroño tribunal's autonomous prosecution activity.",
+
+  "scholarly_sources": [
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-europe-1987",
+    "henningsen-witches-advocate-1980"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

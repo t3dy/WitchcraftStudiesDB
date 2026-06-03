@@ -1,0 +1,45 @@
+{
+  "id": "lausanne-witch-trials-1477-1484",
+  "name": "Lausanne Witch Trials, 1477–1484",
+  "location_id": "switzerland",
+  "date_range": "1477–1484",
+  "approximate_executions": null,
+  "approximate_accused": 100,
+  "jurisdiction": "Diocese of Lausanne; episcopal inquisitorial jurisdiction operating in the Vaud region (then under Savoyard and episcopal authority, modern-day western Switzerland and French-speaking Vaud)",
+  "legal_framework": "Inquisitorial ecclesiastical law; episcopal jurisdiction of the Bishop of Lausanne; pre-inquisitorial examination procedures combined with secular execution",
+
+  "overview": "The Lausanne witch trials of 1477–1484 belong to the crucial cluster of early Alpine prosecutions that scholars including Norman Cohn, Richard Kieckhefer, and William Monter have identified as the crucible in which the composite witch stereotype was formed. Predating the publication of the Malleus Maleficarum (1487) by a decade, the Lausanne proceedings are evidence that the key elements of what would become the standard learned witch stereotype — the nocturnal sabbath, the demonic pact, collective apostasy, infanticide and cannibalism at sabbath gatherings — were already in circulation and being used to frame prosecutions in the western Alpine zone before Kramer and Sprenger systematised them.\n\nThe proceedings in the diocese of Lausanne, involving over one hundred persons in proceedings conducted under episcopal auspices, took place in the Vaud region — the French-speaking territory south of Lake Geneva that forms the hinge point between the earliest Swiss-French Alpine prosecutions of the 1420s–1430s and the later spread of witch prosecution northward and eastward through the Empire. The Lausanne diocese had been a locus of witch prosecution since the 1430s, and the 1477–1484 trials represent a sustained period of activity within a region that was already the most active prosecution zone in Europe at mid-century.\n\nThe connection to the earlier Valais trials (1427–1436) is direct: both belong to what Monter terms the 'cradle of the witch craze,' the western Alpine zone where the composite stereotype emerged from the combination of learned heresy-inquisition procedures with indigenous Alpine folk belief about nocturnal assemblies. By 1477, the template was mature enough to generate large-scale prosecution in Lausanne without the experimental uncertainty visible in the earliest Valais records.",
+
+  "historiographical_analysis": "Norman Cohn's Europe's Inner Demons (1975) identifies the western Alpine zone — the Lausanne diocese, the Valais, the Dauphiné — as the region where the composite witch stereotype crystallised from the fusion of learned inquisitorial heresy categories with popular belief traditions about nocturnal assemblies. Cohn argues that the stereotype of the sabbath-attending, pact-making, infanticidal witch was a learned construction, a product of inquisitors' interrogation practices and demonological theory rather than a report of anything accused persons actually did, and the Lausanne proceedings are among his key evidentiary cases.\n\nWilliam Monter's Witchcraft in France and Switzerland (1976) provides the most detailed regional analysis of the Lausanne trials, drawing on the diocese's court records and situating the proceedings within the longer arc of Swiss-French prosecution extending from the 1420s to the seventeenth century. Monter accepts Cohn's basic argument about the learned construction of the stereotype but gives more weight to the interaction between inquisitorial categories and local belief traditions — the folk practices that inquisitors reinterpreted through the diabolic template.\n\nRichard Kieckhefer's Magic in the Middle Ages (1989) contextualises the Lausanne trials within the transition from medieval learned magic traditions to early modern demonology, tracing how the concept of maleficium was progressively assimilated to the framework of diabolic heresy in the fifteenth-century Alpine zone. Hutton's The Witch (2017) accepts the broad Cohn-Monter framework for the Alpine origin of the composite stereotype while complicating the story of what individual accused persons may actually have believed and practised.",
+
+  "accusation_patterns": {
+    "primary_targets": "Women and some men across a range of social positions within the diocese; the proceedings were inquisitorially structured rather than driven by community accusation, giving prosecutors more initiative in identifying targets",
+    "geographic_spread": "Throughout the diocese of Lausanne in the Vaud region; the episcopal jurisdiction provided the spatial framework; the prosecution did not cascade outside diocesan boundaries in this period but formed part of a broader regional pattern extending to the Valais and Savoyard territories",
+    "confession_characteristics": "Sabbath attendance, demonic pact, infanticide and preparation of magical substances from infant bodies, apostasy; the fully composite stereotype already visible; confessions produced under inquisitorial examination rather than torture on the German secular model, but coercive procedures nonetheless"
+  },
+
+  "key_accused_persons": [],
+
+  "related_demonological_concepts": [
+    "composite-witch-stereotype-formation",
+    "witches-sabbath-collective",
+    "crimen-exceptum"
+  ],
+
+  "primary_sources": "Diocese of Lausanne episcopal court records; analyzed in Monter, Witchcraft in France and Switzerland (1976); Cohn, Europe's Inner Demons (1975)",
+  "source_method": "Diocese of Lausanne episcopal court records; analyzed in Monter, Witchcraft in France and Switzerland: The Borderlands during the Reformation (1976); Cohn, Europe's Inner Demons: An Enquiry Inspired by the Great Witch-Hunt (1975); Kieckhefer, Magic in the Middle Ages (1989); Hutton, The Witch: A History of Fear (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "monter-witchcraft-france-switzerland-1976",
+    "cohn-europes-inner-demons-1975",
+    "kieckhefer-magic-middle-ages-1989",
+    "hutton-the-witch-2017"
+  ],
+
+  "scholarly_disagreement": "Cohn and Kieckhefer represent contrasting approaches to the origin of the composite witch stereotype as evidenced by the Lausanne trials: Cohn emphasises the learned construction of the stereotype by inquisitors drawing on heresy-prosecution templates, with accused persons' confessions reflecting inquisitorial frameworks rather than actual practice or belief; Kieckhefer gives more weight to the continuity between medieval learned magic traditions and the emerging demonological framework, suggesting the synthesis was more gradual and involved genuine folk practices being reinterpreted. Monter occupies a middle position, accepting that the stereotype was largely a learned construction while documenting genuine local magical practice traditions that inquisitors incorporated into the sabbath template. The precise execution count for the 1477–1484 period is uncertain, as the documentary record is fragmentary; the figure of 100+ proceedings reflects Monter's estimates and should not be taken as a precise count of executions.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

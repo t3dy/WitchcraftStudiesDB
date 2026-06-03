@@ -1,0 +1,25 @@
+{
+  "id": "guazzo-compendium-maleficarum-published-1608",
+  "event_name": "Guazzo's Compendium Maleficarum published",
+  "event_type": "primary_source_publication",
+  "date": "1608",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Milan",
+  "location_slug": null,
+  "significance": "Francesco Maria Guazzo's Compendium Maleficarum (1608) was an Ambrosian monk's comprehensive illustrated manual of witchcraft, notable for its famous copper engravings depicting sabbath activities; the work synthesized contemporary demonological opinion and became widely influential across Catholic Europe as a practical and theological guide to witch prosecution.",
+  "related_entities": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+  "source_method": "Published primary source; modern edition Montague Summers trans. (1929); analyzed in Clark, Thinking with Demons (1997)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

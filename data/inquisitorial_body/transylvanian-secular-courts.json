@@ -1,0 +1,40 @@
+{
+  "id": "transylvanian-secular-courts",
+  "name": "Transylvanian and Hungarian Secular Courts",
+  "formal_name": "Secular criminal courts of the Principality of Transylvania and Kingdom of Hungary under Habsburg consolidation",
+  "institutional_type": "secular_tribunal",
+  "founded": null,
+  "dissolved": "1768",
+
+  "jurisdiction_description": "The secular courts of Transylvania and the Kingdom of Hungary prosecuted witchcraft cases primarily in the eighteenth century, following Habsburg consolidation of the formerly Ottoman-held territories in the late seventeenth century. The jurisdictional landscape was complex: Transylvania had functioned as a semi-independent principality under Ottoman suzerainty, with its own legal traditions and a distinctive confessional mix (Lutheran, Calvinist, Unitarian, Catholic, and Orthodox populations coexisting under a system of recognized confessions). The Habsburg reconquest brought institutional standardization that both introduced new Catholic-derived prosecution impulses and eventually, through Empress Maria Theresa's 1768 decree against witch trials, imposed the first formal imperial prohibition on prosecution.\n\n  The most documented Hungarian-Transylvanian prosecutions occurred in the towns of the Great Hungarian Plain and the Transylvanian urban centers; the most significant individual cluster was the Szeged burning of 1728, in which twelve persons were executed by town council authority. The prosecution pattern was concentrated in the towns rather than the rural countryside, and in the period between approximately 1700 and 1758 — a period when witch prosecution was declining in most of western Europe but intensifying in the formerly Ottoman territories newly integrated into Habsburg administration.",
+  "jurisdiction_territories": [],
+
+  "procedural_features": {
+    "torture_policy": "Hungarian and Transylvanian secular courts used torture under procedures derived from both the Carolina and local customary law. The Habsburg administrative integration brought Roman-canon law procedures into closer alignment with the metropolitan standard, but implementation was uneven. The Szeged 1728 cases involved systematic torture and confession production consistent with the older prosecution model.",
+    "evidence_standards": "The evidence standard in Hungarian town council witchcraft prosecutions followed the Roman-canon law pattern: two witnesses or confession. The specific confessional content in the Hungarian evidence — extensively analyzed by Éva Pócs — combines the standard Central European sabbath template with locally specific elements drawn from Hungarian and Transylvanian folk belief, including the táltos (a shamanically-inflected healer tradition) and the lidérc (a spirit companion).",
+    "confession_policy": "Confession under torture, with ratification required under the Roman-canon law procedure then operative, was the standard basis for conviction. The Hungarian confessional record is particularly significant for Pócs's argument about the relationship between folk belief and inquisitorial interrogation: the confessions contain material that, read against the grain following Ginzburg's methodology, appears to preserve elements of shamanically-structured belief distorted by the demonological interrogation template.",
+    "appeal_mechanism": "Town council courts operated as courts of first instance; appeal lay to the royal curia and ultimately to the Habsburg central administration. Empress Maria Theresa's progressive restriction on witch prosecution — through both administrative intervention in specific cases and the 1768 general prohibition — was exercised through this appellate and supervisory structure."
+  },
+
+  "role_in_witch_trials": "The Transylvanian and Hungarian secular courts are historically significant as the major late site of European witch prosecution — active primarily in the early to mid-eighteenth century when prosecution was winding down or already terminated in most of western Europe. Their significance is partly chronological (demonstrating that the end of the witch hunt was geographically uneven, not a simultaneous European-wide event) and partly evidential: the Hungarian confessional records, analyzed by Pócs and Klaniczay, preserve an unusually rich body of material for studying the relationship between official demonological categories and indigenous folk belief in a region where the intersection of multiple cultural and religious traditions created a distinctive prosecution context.",
+
+  "witch_trial_involvement_level": "moderate",
+  "key_trial_events": [],
+
+  "historiographical_significance": "Éva Pócs's Between the Living and the Dead (1999; Hungarian original 1997) provides the foundational analysis of the Hungarian witchcraft confession material, developing an account of how Hungarian folk belief in spirit mediators and séers was transformed by interrogation into the diabolist sabbath template. Pócs's methodology follows Ginzburg in reading the confessions against the grain, identifying survivals of indigenous belief beneath the interrogation-imposed overlay. Gábor Klaniczay's The Uses of Supernatural Power (1990) and related work situates the Hungarian evidence within the broader Central European context of shamanism-derived beliefs and their encounter with Catholic and Reformed demonological categories.\n\n  The Hungarian evidence is crucial to the broader debate about the relationship between folk belief and demonological construction. Ginzburg's Ecstasies (1991) draws on the Hungarian and Central European material as part of his argument for a pan-European ecstatic flight tradition underlying the sabbath testimony. Pócs partially endorses and partially complicates this argument: she identifies the same folk-belief substrate but is more cautious than Ginzburg about reconstructing a unified pre-Christian tradition from regionally variable evidence.\n\n  The Habsburg prohibition of 1768 makes the Transylvanian-Hungarian context significant for the question of how witch prosecution ended: in this region, external political-administrative intervention rather than intellectual skepticism or local social change was the proximate cause of termination.",
+
+  "scholarly_disagreement": "Whether the shamanically-inflected elements in Hungarian confessional records reflect genuinely surviving pre-Christian belief traditions (Ginzburg, Pócs), are products of the interrogators' own cultural assumptions about Hungarian populations, or represent a combination of both, is a central debate. Pócs's more careful regional analysis of the Hungarian material has raised questions about the universalizing aspects of Ginzburg's pan-European reconstruction.",
+  "source_method": "Hungarian town council records; Pócs, Between the Living and the Dead (1999); Klaniczay, The Uses of Supernatural Power (1990); Ginzburg, Ecstasies (1991); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "levack-witch-hunt-early-modern-2006",
+    "behringer-witches-witch-hunts-2004",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

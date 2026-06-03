@@ -1,0 +1,31 @@
+{
+  "id": "sweden",
+  "name": "Sweden",
+  "modern_country": "Sweden",
+  "latitude": 59.334,
+  "longitude": 18.063,
+  "location_type": "nation",
+
+  "hover_description": "Sweden, 1668–1676: Blåkulla panic. Children's mass testimony. Royal commission 1669 at Mora. ~300 executed. Ankarloo's primary research territory.",
+
+  "panel_description": "Sweden's most significant witch prosecution was the Blåkulla panic of 1668-1676, which produced approximately 300 executions and was distinctive for its role of children as the primary accusers and witnesses. The panic began in the parish of Dalarna in 1668 with children's testimony that they were being abducted at night to a location called Blåkulla (literally 'Blue Mountain') where they attended diabolical sabbaths led by the Devil. The testimony spread rapidly; a royal commission sent to investigate at Mora in 1669 accepted the children's reports and resulted in twenty-three executions.\n\n  Ankarloo's Trolldomsprocesserna i Sverige (1971) is the foundational analysis of Swedish prosecution; his and Henningsen's subsequent edited volume Early Modern European Witchcraft (1990) made the Swedish material accessible to anglophone scholarship. The Blåkulla panic is significant comparatively for several reasons: the role of children as mass accusers parallels Salem's afflicted young women; the Svea Court of Appeal's eventual skepticism (which played a role in ending the panic in the mid-1670s) documents the role of appellate judicial oversight in moderating prosecution.\n\n  Sweden's prosecution was concentrated in the Blåkulla period; earlier and later prosecution was relatively limited. The Nordic legal framework — requiring civilian-style rather than inquisitorial process — provided both conditions for the 1668-1676 panic (the children's testimony was accepted as evidence) and for its ending (metropolitan court skepticism eventually prevailed).",
+
+  "key_trial_events": [
+    "sweden-blakulla-mass-trials-1668-1676"
+  ],
+
+  "key_accused_persons": [],
+
+  "scholarly_sources": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "Swedish regional court records; Svea Court of Appeal records; analyzed in Ankarloo, Trolldomsprocesserna i Sverige (1971); Ankarloo and Henningsen (eds.), Early Modern European Witchcraft (1990)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

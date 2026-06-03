@@ -1,0 +1,68 @@
+{
+  "id": "cunning-woman-mabel-briggs-yorkshire-1510",
+  "name": "Mabel Briggs",
+  "status": "Sentenced (non-capital)",
+  "trial_id": null,
+  "location_id": "england",
+  "year_interrogated": 1510,
+  "age_at_trial": null,
+  "social_status": "Yorkshire woman; cunning woman who practiced image magic and service consultation; brought before church courts; representative of the early sixteenth-century English service-magic population before the Elizabethan Witchcraft Acts transformed the institutional framework",
+  "gender": "Female",
+
+  "self_identification": "Practitioner of image magic — the making and use of wax figures to achieve specific practical effects — as a service function for clients; her practice was understood within the English popular-magic framework as effective craft rather than diabolical operation",
+  "claimed_abilities": [
+    "Making and using wax figures (image magic) for practical effects",
+    "Service consultation for clients seeking specific outcomes",
+    "General cunning-woman functions including healing and divination"
+  ],
+
+  "biography": "Mabel Briggs of Yorkshire was brought before church courts in approximately 1510 for practicing image magic — making and using wax figures to achieve desired effects for clients. Thomas documents her case in Religion and the Decline of Magic (1971) as part of the evidence for the continuity of image-magic practice in English service magic, demonstrating that this technique, associated in learned contexts with the most sophisticated forms of ritual magic, was also practiced in vernacular service-magic contexts by women who understood it as a practical craft rather than a learned art.\n\nImage magic — the making of wax or clay figures representing persons against whom specific effects were desired, typically harm, but occasionally love or healing — had a long history in both learned and popular practice. Its appearance in Briggs's case illustrates the permeability of the boundary between learned and popular magic that Thomas documents throughout Religion and the Decline of Magic: techniques theorized in learned texts circulated into popular practice where they were used for the same practical purposes (maleficium, love magic, healing) but without the learned apparatus of theory and justification.\n\nBriggs was sentenced by church courts rather than executed — the standard ecclesiastical response to service-magic practice in the pre-Elizabethan period, before the 1563 Witchcraft Act gave secular courts primary jurisdiction and introduced capital penalties. This outcome illustrates the institutional spectrum that Thomas documents: church courts handled most pre-1563 magic cases through discipline (penance, correction, censure) rather than capital punishment, creating a substantially different experience of prosecution from the post-1563 pattern.\n\nMacfarlane's comparative analysis in Witchcraft in Tudor and Stuart England (1970) provides the broader framework for understanding how the Elizabethan legislation transformed what had been primarily a church-court matter into a capital secular crime.",
+
+  "interrogation_narrative": {
+    "circumstances": "Yorkshire church court, approximately 1510; ecclesiastical proceedings aimed at discipline and correction rather than capital prosecution",
+    "briggs_initial_claim": "She made and used wax figures as a practical service-magic technique; her self-presentation likely framed this as effective craft knowledge rather than diabolical operation",
+    "interrogator_response": "Church court authorities treated image magic as forbidden and superstitious practice requiring discipline; the response was disciplinary rather than prosecutorial in the criminal sense",
+    "adaptation": "The ecclesiastical court context did not involve the sustained adversarial interrogation of secular witchcraft prosecution; Briggs's response to the proceedings was shaped by the less extreme institutional framework"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Making and using wax figures for image magic; service-magic practice for clients",
+    "under_interrogation_pressure": "Ecclesiastical court proceedings generated statements of practice rather than coerced confessions to capital charges; limited coercive pressure relative to later secular prosecution",
+    "final_confession": "Sentenced by church courts; non-capital penalty; correction and censure rather than execution"
+  },
+
+  "microhistorical_significance": "Mabel Briggs's case is significant for what it reveals about the continuity of image-magic practice in English service magic well before the Elizabethan Witchcraft Acts. The technique she employed — wax figure making — appears in both the most sophisticated learned-magic traditions (associated with ritual magic manuscripts) and in vernacular service-magic practice by women like Briggs, who used the technique without the learned theoretical apparatus. This downward percolation of learned-magic technique into popular practice is one of Thomas's central arguments in Religion and the Decline of Magic.\n\nGinzburg's attention to what practitioners actually did rather than what was alleged against them is relevant here: Briggs's documented practice of image magic is recoverable as a genuine service technique through the church-court record, not buried under a diabolical overlay that would have been produced by the more adversarial secular criminal proceedings of the later period. The mild institutional response preserved more of the practitioner's own framework than the capital prosecution that became standard after 1563.",
+
+  "actor_vs_analyst_terminology": {
+    "briggs_language": [
+      "Wax figures (her practical instrument)",
+      "Image magic (her service technique, though the scholarly term is modern)",
+      "Practical service for clients"
+    ],
+    "prosecution_categories": [
+      "Superstitious and forbidden practice (ecclesiastical category)",
+      "Image magic (church court terminology)",
+      "Enchantment (broader ecclesiastical term for such practices)"
+    ]
+  },
+
+  "practical_activities": "Making and using wax figures for image magic; service consultation for clients seeking practical outcomes. Image magic could be used for harm (maleficium), love magic, or healing depending on the client's purpose and the practitioner's operation. Thomas documents it as one of the standard techniques of the English service-magic repertoire, used by both male and female practitioners.",
+
+  "interrogation_outcome": "Sentenced by church courts to a non-capital penalty, approximately 1510; nature of penalty (penance, censure, correction) consistent with ecclesiastical disciplinary practice of the period.",
+
+  "historiographical_significance": "Thomas's Religion and the Decline of Magic (1971) uses Mabel Briggs's case as evidence for the persistence of image-magic practice in early sixteenth-century England and for the continuity of service-magic traditions that the Elizabethan witchcraft legislation would later subject to capital prosecution. Macfarlane's Witchcraft in Tudor and Stuart England (1970) provides the comparative framework showing how the post-1563 shift to secular prosecution transformed the institutional experience of practitioners like Briggs. Hutton's The Witch (2017) discusses early documented English cunning-woman cases as evidence for the service-magic tradition's long continuity and for the range of techniques — including image magic — that practitioners employed.",
+
+  "scholarly_sources": [
+    "thomas-religion-decline-magic-1971",
+    "hutton-the-witch-2017",
+    "macfarlane-witchcraft-tudor-stuart-1970"
+  ],
+
+  "source_method": "Yorkshire church court records, approximately 1510; documented in Thomas, Religion and the Decline of Magic (1971); Macfarlane, Witchcraft in Tudor and Stuart England (1970) provides institutional context",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Thomas in Religion and the Decline of Magic (1971) interprets image magic as evidence of learned technique in popular practice, arguing for substantial permeability between learned and popular magical traditions. Later scholars have questioned whether image-magic cases like Briggs's necessarily involve knowledge of the learned tradition or whether wax-figure making was an independently arrived at popular technique. The limited documentation of Briggs's specific case does not allow this distinction to be resolved.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

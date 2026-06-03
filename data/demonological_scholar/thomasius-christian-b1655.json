@@ -1,0 +1,72 @@
+{
+  "id": "thomasius-christian-b1655",
+  "name": "Christian Thomasius",
+  "birth_year": 1655,
+  "death_year": 1728,
+  "birth_place": "Leipzig, Electoral Saxony",
+  "academic_discipline": "Law; Natural Law Theory; Early Enlightenment Philosophy",
+  "primary_institution": "University of Halle (1694–1728; helped found it); previously Leipzig",
+
+  "major_works": [
+    {
+      "title": "De Crimine Magiae (On the Crime of Magic)",
+      "year": 1701,
+      "publisher": "Halle",
+      "significance": "A systematic legal argument that the crime of witchcraft was impossible because magic was an impossible act; that torture was not a valid means of establishing truth; and that all confessions produced under torture were worthless as evidence. The work is credited by legal historians with substantially accelerating the end of German witch prosecution.",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "Dissertatio de Crimine Veneficii (Dissertation on the Crime of Poisoning)",
+      "year": 1703,
+      "publisher": "Halle",
+      "significance": "A companion piece to De Crimine Magiae, extending the legal critique to the related charge of poisoning-by-magic and to the evidence standards governing both charges.",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "GERMAN LEGAL SKEPTIC / NATURAL LAW THEORIST / PROSECUTION CRITIC",
+
+  "core_argument": "Thomasius's legal critique of witch prosecution proceeded from natural law theory rather than theology or natural philosophy. His De Crimine Magiae (1701) argued: (1) the crime of witchcraft was legally impossible because it required an impossible act — genuine diabolical compact — and law could not punish what nature could not produce; (2) the use of torture to produce confessions was epistemically self-defeating — it generated testimony motivated by the desire to end pain, not testimony correlated with truth; and (3) the entire prosecutorial apparatus was therefore built on a legal fiction.\n\n  Thomasius was the first German jurist at a major university to make this argument explicitly and in print. His influence was institutional as well as intellectual: as a law professor and co-founder of the University of Halle, he trained a generation of Prussian jurists in the new legal culture that was increasingly skeptical of torture-based prosecution. The legal reforms of the eighteenth century in Prussia and other German states drew directly on the arguments Thomasius had developed.",
+
+  "key_contributions": [
+    {
+      "concept": "Legal impossibility of witchcraft",
+      "claim": "A crime that requires an impossible act cannot be prosecuted in law; therefore prosecution for witchcraft was legally null regardless of what defendants confessed under torture. Thomasius distinguished between theological questions about the devil's power and legal questions about what courts could properly punish.",
+      "implication": "The argument separated the legal and theological dimensions of prosecution, allowing the legal dimension to be reformed without requiring prior theological consensus — a practically important strategy for a confessionally divided Germany."
+    },
+    {
+      "concept": "Torture's epistemological invalidity",
+      "claim": "Evidence produced under torture is not merely ethically problematic but epistemically worthless: a person will confess to anything under sufficient pain, so torture tells us nothing about guilt. Thomasius was among the most systematic early modern opponents of judicial torture generally.",
+      "implication": "Friedrich Spee had made this argument in the Cautio Criminalis (1631) from a Jesuit confessor's practical experience; Thomasius made it from within legal theory, giving the argument different institutional purchase."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Friedrich Spee (whose Cautio Criminalis (1631) anticipated Thomasius's torture critique from a different disciplinary position)",
+      "Balthasar Bekker (together representing the legal and theological arms of the late seventeenth-century skeptical tradition)",
+      "Johann Weyer (earlier legal-medical skeptic whose arguments Thomasius extends and systematizes)"
+    ],
+    "creative_tension_with": [
+      "The entire demonological tradition that treated witchcraft as a legal crime susceptible to regular proof standards"
+    ]
+  },
+
+  "database_engagement": "Thomasius's legal critique is directly relevant to the torture-confession-dynamic and crimen-exceptum demonological_concept entries. His work marks the terminal phase of the prosecutorial era documented in trial_event entries; the cessation of major German prosecution in the early eighteenth century represents the institutional consequence of the legal culture he helped create.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+
+  "source_method": "De Crimine Magiae (1701); analyzed in Clark, Thinking with Demons (1997); Hutton, The Witch (2017); Levack, The Witch-Hunt in Early Modern Europe",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The precise weight of Thomasius's intellectual contribution versus structural and political factors in ending German prosecution is debated; Behringer's work on popular pressure suggests that the end of prosecution was partly driven by the exhaustion of the accusatory dynamic rather than primarily by elite legal reform. Thomasius is better understood as an intellectual contributor to changing legal culture than as a single cause of prosecution's end.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

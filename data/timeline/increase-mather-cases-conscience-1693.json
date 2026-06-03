@@ -1,0 +1,25 @@
+{
+  "id": "increase-mather-cases-conscience-1693",
+  "event_name": "Increase Mather's Cases of Conscience published",
+  "event_type": "primary_source_publication",
+  "date": "1693",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Boston, Massachusetts",
+  "location_slug": null,
+  "significance": "Increase Mather's Cases of Conscience Concerning Evil Spirits Personating Men (1693) argued that spectral evidence alone was insufficient for conviction in witch trials, appearing just as the Salem crisis was collapsing; the work is significant as evidence of a moderate Puritan position that accepted witch belief while questioning prosecutorial procedures, contributing to the intellectual framework for ending the trials.",
+  "related_entities": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974"
+  ],
+  "source_method": "Published primary source (Boston, 1693); analyzed in Boyer and Nissenbaum, Salem Possessed (1974) and Norton, In the Devil's Snare (2002)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "norton-in-devils-snare-2002",
+    "boyer-nissenbaum-salem-possessed-1974",
+    "karlsen-devil-shape-woman-1987"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

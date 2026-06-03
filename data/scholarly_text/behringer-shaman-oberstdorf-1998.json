@@ -1,0 +1,47 @@
+{
+  "id": "behringer-shaman-oberstdorf-1998",
+  "title": "Shaman of Oberstdorf: Chonrad Stoeckhlin and the Phantoms of the Night",
+  "author": "Wolfgang Behringer",
+  "author_slug": "behringer-wolfgang-b1956",
+  "year_published": 1994,
+  "edition_year": 1998,
+  "publisher": "University of Virginia Press",
+  "text_type": "monograph",
+  "pages": 184,
+
+  "subject_focus": "A microhistorical study of Chonrad Stoeckhlin, a horse wrangler from Oberstdorf, Bavaria, executed for witchcraft in 1587, who claimed to travel with the Phantoms of the Night in trance states, situating his tradition within the ecstatic-shamanic tradition identified by Carlo Ginzburg.",
+
+  "summary": "Shaman of Oberstdorf reconstructs the case of Chonrad Stoeckhlin, a horse wrangler and folk healer from the Alpine village of Oberstdorf in the Allgäu, who was executed as a witch in 1587 after confessing under torture to travelling with a spirit band known as the Phantoms of the Night (Nachtschar). In these trance journeys, Stoeckhlin claimed to learn the identities of witches, heal illness, and ascertain the fates of souls in purgatory. Behringer reconstructs the case through the surviving trial records, situating Stoeckhlin within the social world of the Alpine village and within the broader tradition of spirit-journey folk belief. The work operates in conscious dialogue with Ginzburg's ecstatic-tradition thesis, providing a central European case parallel to the Friulian benandanti. Behringer's approach is more cautious than Ginzburg's about the pan-Eurasian shamanic thesis, preferring to explain Stoeckhlin's tradition through regional Alpine folk culture while acknowledging the structural parallels that Ginzburg's comparative framework illuminates.",
+
+  "scholarly_significance": "The Stoeckhlin case is one of the three or four key test cases for Ginzburg's ecstatic-tradition thesis — alongside the benandanti, the Sicilian donas de fuera described by Henningsen, and the Hungarian táltos tradition studied by Klaniczay. Behringer's detailed microhistorical reconstruction of the case provided the most rigorous archival study of the Bavarian evidence and significantly strengthened the empirical case that spirit-journey traditions of the type Ginzburg described were genuine, regionally varied folk practices rather than scholarly inventions or prosecution artifacts. At the same time, Behringer's more cautious position on the pan-Eurasian shamanic claim offered a methodological counterweight to Ginzburg's broader synthesis: the case supports the claim that ecstatic traditions existed and could be prosecuted as witchcraft, without necessarily requiring the deep historical continuity from Eurasian shamanism that Ginzburg's Ecstasies argues for. Database entries on spirit-journey traditions, the benandanti parallel, and `healer_practitioner` entries for Alpine-tradition figures draw on this work. The analysis of how Stoeckhlin's trial moved from folkloric spirit-journey to full sabbath confession under torture is directly relevant to entries on confession dynamics.",
+
+  "key_arguments": [
+    {
+      "concept": "Stoeckhlin and the Nachtschar",
+      "claim": "Chonrad Stoeckhlin's tradition of nocturnal trance journeys with the Phantoms of the Night (Nachtschar) was a genuine Alpine folk practice with social functions — healing, divination, soul-finding — analogous to the benandanti of Friuli."
+    },
+    {
+      "concept": "Ecstatic tradition in central Europe",
+      "claim": "The structural parallels between Stoeckhlin's tradition and the benandanti, the Sicilian donas de fuera, and other ecstatic-tradition cases support Ginzburg's argument that a coherent family of spirit-journey folk beliefs existed across early modern Europe."
+    },
+    {
+      "concept": "Confessional transformation under torture",
+      "claim": "Stoeckhlin's original self-presentation as a spirit-traveller and healer was progressively transformed by interrogation and torture into a full sabbath confession; the trial record thus shows the process by which learned demonological templates overrode popular self-understanding."
+    },
+    {
+      "concept": "Caution on the pan-Eurasian thesis",
+      "claim": "While the central European evidence confirms the existence of ecstatic traditions, the regional Alpine folk-cultural context provides a more parsimonious explanation for Stoeckhlin's beliefs than deep historical continuity from Eurasian shamanism."
+    }
+  ],
+
+  "relation_to_database": "Used in `healer_practitioner` entries for Alpine spirit-journey practitioners and in `demonological_concept` entries covering nocturnal spirit companies and the transformation of benevolent folk practitioners into sabbath-attending witches under prosecution pressure. The trial's confessional dynamics inform `trial_event` entries discussing torture and confession.",
+
+  "scholarly_disagreement": "Whether Stoeckhlin's tradition represents a genuine substratum of pre-Christian shamanic practice in continuity from Eurasian origins (Ginzburg's reading in Ecstasies) or a regional Alpine folk tradition that developed independently and drew on local ecclesiastical frameworks (Behringer's more cautious position) is the central scholarly debate about this case. Hutton accepts the existence of ecstatic traditions while questioning both the pan-Eurasian continuity claim and whether the 'shamanic' label is analytically useful for European material. Pócs's Hungarian comparative work provides additional evidence without fully resolving the question of historical origin.",
+
+  "source_method": "Published text; University of Virginia Press 1998 (English translation of Chonrad Stoeckhlin und die Nachtschar, 1994)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

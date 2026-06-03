@@ -1,0 +1,69 @@
+{
+  "id": "margery-jourdemayne-london-1441",
+  "name": "Margery Jourdemayne",
+  "status": "Executed",
+  "trial_id": "london-jourdemayne-trial-1441",
+  "location_id": "essex",
+  "year_interrogated": 1441,
+  "age_at_trial": 45,
+  "social_status": "Practiced magic for clients including elite patrons; connected to the household of Eleanor Cobham, Duchess of Gloucester; resident of Eye, near Westminster; known as the 'Witch of Eye'",
+  "gender": "Female",
+
+  "self_identification": "Practitioner of magical arts for clients; the specific framework of her self-identification is not preserved in surviving records, but she was known as a practitioner of wax-image magic and other forms of compulsive magic for paying clients",
+  "claimed_abilities": [
+    "Wax image magic for love, harm, and compulsion",
+    "Necromancy (attributed by her accusers; she worked with Roger Bolingbroke who practiced necromantic and astrological magic)",
+    "Production of magical materials for clients",
+    "Divination about the future of powerful persons (most fatally: whether Henry VI would die)"
+  ],
+
+  "biography": "Margery Jourdemayne was burned at Smithfield in London on October 27, 1441, following conviction as a witch in the politically charged trial of Eleanor Cobham, Duchess of Gloucester. Eleanor, wife of Humphrey Duke of Gloucester (heir presumptive to the childless Henry VI), had allegedly employed Jourdemayne and the astrologer-magician Roger Bolingbroke to determine through magical and astrological means whether Henry VI would die soon and whether Eleanor would become queen.\n\n  Jourdemayne had a prior history of magical practice for clients: she had been arrested in 1430 on similar charges and released on sureties of good behavior, which she subsequently broke by continuing her practice. Her 1441 prosecution arose from the specifically treasonous character of the divination about the king's death: inquiring by magical means whether the king would die was treated as a form of treason, since the information gathered would presumably be used to plot against the king. The political dimension of the Cobham case made Jourdemayne's involvement far more dangerous than her previous unauthorized magic practice would have been.\n\n  She is known as the 'Witch of Eye' from the village near Westminster where she apparently operated. Her execution was specifically by burning — the punishment for heresy and witchcraft — while Bolingbroke (convicted of necromancy and heresy rather than witchcraft) was hanged, drawn, and quartered. Eleanor Cobham was treated as a peeress rather than a common criminal, sentenced to public penance and perpetual imprisonment rather than execution.",
+
+  "interrogation_narrative": {
+    "circumstances": "Arrested in connection with the investigation of Eleanor Cobham's activities; the 1441 proceedings included examination before ecclesiastical and secular authorities",
+    "self_identification": "Practitioner of magical arts; had provided wax images and other magical services to Eleanor Cobham for purposes including love magic and divination",
+    "interrogator_response": "The political context — the treasonous implication of divining the king's death — made the interrogators particularly thorough; the case was handled at the highest ecclesiastical and legal levels",
+    "adaptation": "Jourdemayne's confession implicated Eleanor Cobham and Bolingbroke in the divination enterprise; whether this was under torture or voluntary is not documented in the secondary literature"
+  },
+
+  "confessional_content": {
+    "initial_admissions": "Provision of wax images and magical services to Eleanor Cobham; participation in divination about the king's future",
+    "under_interrogation_pressure": "Implicated Eleanor Cobham and Roger Bolingbroke in the treasonous divination; described the magical services she had provided",
+    "final_confession": "Convicted of witchcraft and heresy; executed by burning at Smithfield, 27 October 1441"
+  },
+
+  "microhistorical_significance": "Margery Jourdemayne's case represents the intersection of popular magical practice with elite political intrigue — a practitioner providing magical services to high-status clients whose use of those services had treasonous political implications. This pattern is analytically distinct from the charity-refusal accusations that dominate the English prosecution record: Jourdemayne was not a poor woman cursing her neighbors but a practitioner with an elite clientele whose services became dangerous precisely because of her clients' political ambitions. Kieckhefer's analysis of late medieval magical practice and Sharpe's survey of English prosecution both note the Cobham case as an example of the politically charged use of magical services by powerful figures, where the prosecution targeted the practitioner as well as the patron.",
+
+  "actor_vs_analyst_terminology": {
+    "practitioner_language": [
+      "Wax images (the specific material of her practice)",
+      "Love magic and compulsive magic for clients",
+      "Divination about future events"
+    ],
+    "prosecution_categories": [
+      "Witchcraft (statutory prosecution for image magic and harmful magic)",
+      "Heresy (for the necromantic elements attributed to Bolingbroke's contributions)",
+      "Treason (the political dimension of divining the king's death)"
+    ]
+  },
+
+  "practical_activities": "Jourdemayne's practice was client-service magic — she produced wax images and provided magical services for paying clients, including apparently both love magic and divination. The scale and character of her practice — evidenced by the 1430 prior prosecution and the evident continuity of her practice after that — suggests a practitioner with an established client network rather than an occasional magical practitioner.",
+
+  "interrogation_outcome": "Executed by burning at Smithfield, 27 October 1441.",
+
+  "historiographical_significance": "Margery Jourdemayne's case is discussed in Kieckhefer's Magic in the Middle Ages (1989) as an example of the late medieval practitioner who provided magical services to elite clients, and by Sharpe in Instruments of Darkness (1996) as one of the fifteenth-century English cases that predate the statutory criminalization of 1563 but demonstrate the practice of prosecuting magical practitioners through heresy and treason law. The political dimension of her case — the use of magical divination to probe the king's future — connects the English tradition of political magic prosecution (documented from the fourteenth century onward) to the broader European context. Her prior prosecution in 1430 and subsequent continuation of practice is the English equivalent of the 'repeat accused' pattern Macfarlane documents for the sixteenth century.",
+
+  "scholarly_sources": [
+    "kieckhefer-magic-middle-ages-1989",
+    "sharpe-instruments-of-darkness-1996",
+    "thomas-religion-decline-magic-1971"
+  ],
+
+  "source_method": "English chronicles (Hall, Fabyan); parliamentary records; analyzed in Thomas, Religion and the Decline of Magic (1971); Kieckhefer, Magic in the Middle Ages (1989); Sharpe, Instruments of Darkness (1996)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "The details of Jourdemayne's interrogation and the specific content of her practice are known primarily through chronicle sources and secondary analysis rather than from surviving original court documents; confidence is MEDIUM accordingly. The political context of the Cobham case may have shaped the chronicle accounts.",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

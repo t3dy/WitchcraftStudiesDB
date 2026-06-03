@@ -1,0 +1,61 @@
+{
+  "id": "great-scottish-witch-hunt-1661-1662",
+  "name": "The Great Scottish Witch Hunt, 1661–1662",
+  "location_id": "edinburgh",
+  "start_year": 1661,
+  "end_year": 1662,
+  "duration_months": 18,
+  "approximate_executions": 660,
+  "approximate_accused": 664,
+  "type": "Mass prosecution",
+
+  "historical_context": "The 1661-62 witch hunt was the largest single wave of Scottish prosecution, producing approximately 660 executions in an eighteen-month period following the Restoration of Charles II. It occurred in the political context of the Restoration settlement: the return of royal authority after the Interregnum created a period of jurisdictional flux in which the Scottish Privy Council was reestablishing its authority while local commissioners pursued prosecution with minimal oversight. The hunt was not centrally organized but spread through a network of local commissions issuing from the Privy Council, which proved unable to regulate the pace of prosecution it had authorized.",
+
+  "prosecution_mechanism": {
+    "institutional_structure": "The Scottish Privy Council issued commissions to local landowners and magistrates authorizing them to try accused witches; this devolved structure created local prosecution initiatives with limited central review. The commission system was the characteristic Scottish mechanism, distinguishing Scottish prosecution from both the English assize system and the Continental inquisitorial procedure.",
+    "evidence_standard": "Confession under torture was the primary evidentiary basis; pricking for the devil's mark was widely used; the cascade mechanism of naming under torture generated the rapid spread of accusation",
+    "geographic_spread": "Concentrated in the Lothians, Fife, and the eastern Lowlands; spread to other counties through the commission system"
+  },
+
+  "notable_accused": [
+    "Numerous unnamed accused in Fife, the Lothians, and Stirlingshire; few individual records survive from this hunt compared to the 1590 North Berwick or the 1662 Isobel Gowdie cases"
+  ],
+
+  "accused_persons": [],
+
+  "resolution": "The hunt ended not through formal institutional termination but through a combination of exhaustion of the accusatory pool, growing Privy Council concern about the costs and disorder associated with mass prosecution, and the practical difficulties of sustaining commission jurisdiction over such a large number of cases simultaneously.",
+
+  "key_scholars": [
+    "Christina Larner (Enemies of God, 1981) — primary scholarly analysis of this hunt within her comprehensive account of Scottish witch prosecution",
+    "Julian Goodare (Survey of Scottish Witchcraft database, 2003) — quantitative documentation of the full Scottish prosecution record",
+    "Brian Levack (The Witch-Hunt in Early Modern Europe) — comparative analysis situating the Scottish pattern within European context"
+  ],
+
+  "demonological_concepts_present": [
+    "witches-sabbath-collective",
+    "devil-mark-witch-mark",
+    "diabolical-initiation-renunciation",
+    "torture-confession-dynamic"
+  ],
+
+  "linked_inquisitorial_bodies": [
+    "scottish-privy-council",
+    "court-of-justiciary-scotland"
+  ],
+
+  "historiographical_significance": "The 1661-62 hunt is the quantitative peak of Scottish prosecution and the primary evidence for Larner's argument in Enemies of God (1981) that Scottish witch prosecution was driven by the specific intersection of Presbyterian theological intensity, the Privy Council commission system, and the social vulnerability of women in post-Reformation Scotland. Goodare's Survey of Scottish Witchcraft database (2003) provides the most detailed documentation of the hunt's scope. The hunt's scale — approximately 660 executions in eighteen months — exceeded any comparable period of Continental prosecution and reflects the specifically Scottish institutional configuration: devolved commissions with limited central oversight, confession-and-denunciation cascade, and the theological framework of a Reformed church that took diabolical conspiracy seriously as a corporate threat to Scotland's covenant with God.",
+
+  "source_method": "Scottish Privy Council Register; commissary court records (partial survival); Survey of Scottish Witchcraft database (Goodare, 2003); analyzed in Larner, Enemies of God (1981); Levack, The Witch-Hunt in Early Modern Europe (1987); Goodare, The Scottish Witch-Hunt in Context (2002)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The exact number of executions is uncertain — Larner's figure of approximately 660 is widely cited but based on incomplete records. Goodare's more systematic database analysis refines but does not completely resolve the quantitative uncertainty. The degree to which the hunt was driven primarily by Privy Council commission policy versus local community dynamics versus theological anxiety has been debated between institutional-history and social-history approaches.",
+
+  "scholarly_sources": [
+    "larner-enemies-of-god-1981",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-europe-1987"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

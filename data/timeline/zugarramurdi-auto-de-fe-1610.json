@@ -1,0 +1,24 @@
+{
+  "id": "zugarramurdi-auto-de-fe-1610",
+  "event_name": "Logroño auto de fe burns Zugarramurdi accused",
+  "event_type": "trial_event",
+  "date": "1610",
+  "date_precision": "exact",
+  "circa_range": null,
+  "location": "Logroño, Navarre",
+  "location_slug": null,
+  "significance": "The auto de fe at Logroño on November 7-8, 1610, culminated the Spanish Inquisition's investigation of the Basque witch panic at Zugarramurdi, burning six persons in effigy and two in person; the Inquisition subsequently commissioned Alonso de Salazar Frías's skeptical inquiry, which led to a general restraining of further prosecution and exemplifies the Spanish Inquisition's overall restraining role in witch-hunting.",
+  "related_entities": [
+    "henningsen-witches-advocate-1980"
+  ],
+  "source_method": "Spanish Inquisition trial records; analyzed in Henningsen, The Witches' Advocate (1980)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "henningsen-witches-advocate-1980",
+    "levack-witch-hunt-early-modern-2006",
+    "ankarloo-henningsen-early-modern-witchcraft-1990"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

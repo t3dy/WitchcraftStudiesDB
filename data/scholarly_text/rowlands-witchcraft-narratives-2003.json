@@ -1,0 +1,47 @@
+{
+  "id": "rowlands-witchcraft-narratives-2003",
+  "title": "Witchcraft Narratives in Germany: Rothenburg, 1561-1652",
+  "author": "Alison Rowlands",
+  "author_slug": null,
+  "year_published": 2003,
+  "edition_year": 2003,
+  "publisher": "Manchester University Press",
+  "text_type": "monograph",
+  "pages": 261,
+
+  "subject_focus": "A microhistorical study of witch prosecution in the imperial city of Rothenburg ob der Tauber arguing that the city's relatively moderate prosecution record resulted from its secular city council's sceptical procedural standards and reluctance to use torture.",
+
+  "summary": "Witchcraft Narratives in Germany is a detailed microhistorical study of witch prosecution in the imperial city of Rothenburg ob der Tauber from 1561 to 1652. Rowlands argues that Rothenburg's prosecution was remarkably moderate compared to the episcopal territories and smaller lordships surrounding it — despite being located within Germany's most intense prosecution zone — precisely because the city's secular city council maintained sceptical procedural standards, subjected accusation narratives to critical scrutiny, refused to use torture in the majority of cases, and declined to follow the chain-prosecution logic that transformed individual accusations into mass trials elsewhere. Through detailed archival analysis of Rothenburg's trial records, Rowlands reconstructs both the specific social dynamics of accusation in the city — the patterns of community conflict, gender dynamics, and neighbourly interaction that generated accusations — and the institutional filtering mechanisms that prevented most accusations from resulting in execution. The work demonstrates that the legal and institutional context of a specific jurisdiction could dramatically affect prosecution outcomes even within Germany's intense prosecution zone.",
+
+  "scholarly_significance": "Rowlands's Rothenburg study is a key piece of evidence for the institutional-control thesis about witch prosecution — the argument that the presence or absence of effective procedural safeguards was the primary determinant of prosecution scale, independent of the intensity of popular witch belief. This thesis is important because it shifts the explanatory burden from belief and culture to law and institutions: it was not that Rothenburg's citizens believed less in witchcraft than their neighbours in the episcopal territories, but that Rothenburg's institutional procedures prevented prosecution from escalating. This finding complements the macro-level work of Levack and Monter on the determinants of prosecution intensity by providing the micro-level institutional analysis. Rowlands's detailed account of how accusation narratives were constructed, contested, and evaluated by the city council is one of the most rigorous available analyses of the social dynamics of witch accusation in German urban settings, paralleling Briggs's analysis of Lorraine communities and extending it to the specific institutional context of an imperial city. Database entries for German trial events, `location` entries for imperial cities, and `demonological_concept` entries on prosecution procedure draw on this work.",
+
+  "key_arguments": [
+    {
+      "concept": "Institutional moderation",
+      "claim": "Rothenburg's relatively moderate prosecution record was produced by the city council's institutional procedures — sceptical scrutiny of accusations, reluctance to use torture, refusal to follow chain-prosecution logic — rather than by lower levels of witch belief in the population."
+    },
+    {
+      "concept": "Secular urban council as restraining force",
+      "claim": "Secular urban councils, with their procedural conservatism and concern for civic order, could function as restraining forces on witch prosecution, in contrast to the episcopal and princely jurisdictions where prosecution was most intense."
+    },
+    {
+      "concept": "Community conflict and accusation",
+      "claim": "Witch accusations in Rothenburg arose from recognisable patterns of community conflict — neighbourhood disputes, economic tensions, gender conflicts, family feuds — that were common across early modern communities; the institutional filtering, not the absence of conflict, explains the low execution rate."
+    },
+    {
+      "concept": "Procedural safeguards and chain prosecution",
+      "claim": "The prohibition or limitation of torture and the refusal to extract names of accomplices from confessing witches prevented the chain-prosecution dynamic that transformed individual accusations into mass trials in territories such as Bamberg and Würzburg."
+    }
+  ],
+
+  "relation_to_database": "Informs `trial_event` entries for German prosecution, particularly comparisons between moderate and intense jurisdictions. `Location` entries for imperial cities draw on the institutional analysis. The institutional-control thesis frames `demonological_concept` entries on prosecution procedure and torture. The community-conflict analysis of accusation dynamics complements Briggs's Lorraine analysis.",
+
+  "scholarly_disagreement": "Whether Rothenburg is representative of German urban councils generally or constitutes an exceptional case is debated: Behringer's broader synthesis of German prosecution gives more weight to the variation in prosecution intensity across different jurisdiction types, suggesting Rothenburg is at one end of a spectrum rather than a unique outlier. The degree to which the city council's scepticism was principled versus pragmatic — whether the councillors doubted witch prosecution on intellectual grounds or were primarily managing the costs and disruptions of trials — is explored by Rowlands but not fully resolved. The question of how to weight institutional versus cultural explanations for prosecution variation remains open.",
+
+  "source_method": "Published text; Manchester University Press 2003",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

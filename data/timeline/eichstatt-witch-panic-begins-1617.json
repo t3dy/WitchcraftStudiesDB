@@ -1,0 +1,25 @@
+{
+  "id": "eichstatt-witch-panic-begins-1617",
+  "event_name": "Eichstätt witch prosecution begins under Westerstetten",
+  "event_type": "trial_event",
+  "date": "1617",
+  "date_precision": "approximate",
+  "circa_range": null,
+  "location": "Eichstätt, Bavaria",
+  "location_slug": "bavaria",
+  "significance": "Witch prosecution began in the Prince-Bishopric of Eichstätt under Bishop Johann Christoph von Westerstetten in 1617, eventually resulting in approximately 274 executions before ending circa 1631; the Eichstätt prosecution is one of the German episcopal 'superhunt' cluster alongside Bamberg and Würzburg, demonstrating how episcopal territorial authority concentrated prosecutorial capacity.",
+  "related_entities": [
+    "behringer-witches-witch-hunts-2004",
+    "midelfort-witch-hunting-1972"
+  ],
+  "source_method": "Eichstätt episcopal archives; analyzed in Midelfort, Witch Hunting in Southwestern Germany (1972) and Behringer, Witches and Witch-Hunts (2004)",
+  "confidence": "HIGH",
+  "review_status": "DRAFT",
+  "scholarly_sources": [
+    "behringer-witches-witch-hunts-2004",
+    "midelfort-witch-hunting-1972",
+    "roper-witch-craze-2004"
+  ],
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "france",
+  "name": "France",
+  "modern_country": "France",
+  "latitude": 46.603,
+  "longitude": 1.888,
+  "location_type": "nation",
+
+  "hover_description": "France, c. 1430–1700: ~3,000–4,000 executions. Lorraine border zone most intense. Parlement of Paris appellate oversight moderated prosecution in north. Briggs's primary territory.",
+
+  "panel_description": "France's witch prosecution was extensive but uneven, shaped above all by the legal structure of the French monarchy's system of appellate justice. The Parlement of Paris exercised appellate jurisdiction over northern and central France, and its consistent skepticism about witch convictions — frequently reducing death sentences to banishment, acquitting on appeal, or requiring additional evidence — dramatically suppressed prosecution rates in its jurisdiction compared to territories without effective appellate oversight.\n\n  The most intensive French prosecution occurred in territories where Parlement oversight was weakest or absent: Lorraine (technically not part of France until 1766, governed by independent dukes), the Labourd region of the Pyrenees (where Pierre de Lancre's investigation of 1609 produced approximately eighty executions), and parts of Burgundy. Briggs's Witches and Neighbours (1996) is the foundational study of Lorraine prosecution and the richest social analysis of any Continental prosecution territory.\n\n  Muchembled's acculturation thesis argues that French and Franco-Belgian prosecution was driven in part by Counter-Reformation elites' disciplinary campaign against popular culture: witch prosecution was one mechanism of religious and cultural homogenization through which educated elites enforced orthodoxy on rural communities. This thesis situates French prosecution within the broader history of confessionalization and state formation.\n\n  France also produced significant possession cases: the Loudun possessions of 1632-1634 (resulting in Urbain Grandier's execution) and the Aix-en-Provence case of 1611 (resulting in Louis Gaufridy's execution) are among the most analyzed possession episodes in European history.",
+
+  "key_trial_events": [
+    "lorraine-witch-trials-remy-1576-1606",
+    "aix-en-provence-possessions-1611",
+    "loudun-possessions-1634",
+    "de-lancre-labourd-investigation-1609"
+  ],
+
+  "key_accused_persons": [
+    "urbain-grandier-loudun-1634"
+  ],
+
+  "scholarly_sources": [
+    "briggs-witches-neighbours-1996",
+    "hutton-the-witch-2017",
+    "levack-witch-hunt-early-modern-2006",
+    "monter-witchcraft-france-switzerland-1976"
+  ],
+
+  "source_method": "French regional court records; analyzed in Briggs, Witches and Neighbours (1996); Monter, Witchcraft in France and Switzerland (1976); Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

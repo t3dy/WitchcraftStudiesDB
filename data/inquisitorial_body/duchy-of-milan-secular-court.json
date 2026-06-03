@@ -1,0 +1,43 @@
+{
+  "id": "duchy-of-milan-secular-court",
+  "name": "Ducal Courts of Milan (Podestà and Senate)",
+  "formal_name": "Podestà of Milan and the Senate of Milan (Senato di Milano)",
+  "institutional_type": "secular_tribunal",
+  "founded": null,
+  "dissolved": null,
+
+  "jurisdiction_description": "The secular courts of Milan — the podestà (the principal criminal court judge) and the ducal Senate — administered criminal justice in the Duchy of Milan from the Visconti period through the Spanish Habsburg takeover of 1535. The podestà of Milan held jurisdiction over serious criminal cases in the city and duchy, including witchcraft prosecutions. From 1535, the Duchy of Milan was governed as a Spanish crown territory, and the Spanish-appointed governor and Senate of Milan (Senato di Milano) exercised judicial oversight alongside the ongoing Roman Inquisition, which maintained a tribunal in Milan.\n\n  The most historically significant prosecutions conducted before the podestà of Milan are the trials of 1384 and 1390 involving the donna de fuera (lady from outside) or Lady Oriente tradition — a nocturnal society of women and animals presided over by a female leader who taught herbal medicine and revealed the fates of the dead. These trials, conducted before a secular criminal court rather than an inquisitorial tribunal, are among the earliest documented instances of the ecstatic nocturnal society tradition that Carlo Ginzburg analyzes as the folkloric substrate beneath the later fully developed witch stereotype.",
+
+  "jurisdiction_territories": ["italy"],
+
+  "procedural_features": {
+    "torture_policy": "The podestà of Milan operated under standard Italian communal and later ducal criminal procedure, which authorized judicial torture in serious criminal cases. The 1384 and 1390 proceedings against Sibilla and Pierina involved examination that produced confessions about the nocturnal society under the 'game of the good society' (gioco della buona società) led by Lady Oriente. The interrogation procedures, including the use of coercive examination, shaped the confessional content in ways Ginzburg's methodology takes seriously as partial evidence for underlying folk belief.",
+    "evidence_standards": "The podestà's criminal procedure required confession or witness testimony for conviction. In the 1384 and 1390 cases, the confessions of Sibilla and Pierina describing participation in Lady Oriente's nocturnal society were the primary evidentiary basis. The inquisitorial procedure used by the podestà — a judge-driven investigation rather than accusatorial proceedings — gave the examining magistrate broad authority to direct the examination and shape the resulting confessions.",
+    "confession_policy": "The confessions produced in the 1384 and 1390 Lady Oriente trials are analytically significant precisely because they predate the full development of the witches' sabbath stereotype and contain elements that Ginzburg argues reflect indigenous folk belief rather than inquisitorial construction: the focus on healing knowledge, the reversal of deaths, the specific figure of Lady Oriente as distinct from the devil, and the nocturnal society's benevolent (rather than malevolent) character. Sibilla was condemned in 1390 after a second trial in which her confession moved closer to the emerging diabolical sabbath template, suggesting the progressive imposition of orthodox demonological categories onto folk practice through repeated examination.",
+    "appeal_mechanism": "Appeals from the podestà of Milan in serious criminal cases could proceed to the ducal council and ultimately to the duke's justice. The overlap between the secular podestà jurisdiction and the emerging inquisitorial jurisdiction in Milan created some tension over competence in religious-crime cases; the Lady Oriente trials were conducted as secular criminal proceedings even though they involved religious heterodoxy, reflecting the fourteenth-century jurisdictional situation before the Milanese Inquisition had fully established its criminal competence."
+  },
+
+  "role_in_witch_trials": "The ducal courts of Milan, specifically the podestà, are the institutional context for the earliest documented version of the ecstatic nocturnal society tradition in the historical record. The 1384 trial of Sibilla before the podestà of Milan and her 1390 retrial are the founding documents for Carlo Ginzburg's analysis in Ecstasies: Deciphering the Witches' Sabbath (1991) of the donna de fuera or donna del buon gioco tradition as one of the pan-European folk beliefs about nocturnal ecstatic journeys that were progressively assimilated to the diabolical sabbath stereotype through repeated inquisitorial interrogation. The podestà's secular jurisdiction and the relatively early date of these trials — before the systematic development of the sabbath stereotype in the 1420s–1430s — makes them uniquely valuable evidence for the pre-construction phase of the witch image.",
+
+  "witch_trial_involvement_level": "moderate",
+  "key_trial_events": [
+    "milan-lady-oriente-trials-1384-1390"
+  ],
+
+  "historiographical_significance": "Carlo Ginzburg's Ecstasies: Deciphering the Witches' Sabbath (1991) is the primary scholarly work placing the Milan Lady Oriente trials in a European comparative framework. Ginzburg analyzes the 1384 and 1390 proceedings before the podestà of Milan as evidence for a widespread folk belief complex about nocturnal ecstatic societies — the donna de fuera, the bona domina, Lady Oriente, the 'game of the good society' — that shared structural features with the benandanti tradition in Friuli, the Sicilian donna di fuera, and analogous beliefs documented across Europe. The secular character of the Milan podestà proceedings is significant for Ginzburg's methodology: the relatively undeveloped diabolical framework in the 1384 interrogation allows the folk elements of Sibilla's confession to show through more clearly than they would in a fully developed inquisitorial proceeding.\n\n  Ginzburg's reading of the Milan trials has been debated. Norman Cohn's Europe's Inner Demons (1975) had argued that the sabbath was entirely a construction of inquisitorial procedure with no folk substrate; Ginzburg's Ecstasies (1991) is partly a sustained argument against Cohn's construction thesis, using the Milan and other early evidence. Hutton's The Witch (2017) engages with Ginzburg's Eurasian shamanism argument and finds it partially persuasive while questioning whether the evidence supports the specific claim of a single pan-Eurasian ecstatic tradition.\n\n  The Milanese ducal court's secular jurisdiction in these trials is also significant for the broader point that the Roman Inquisition was not the primary mechanism of witch prosecution even in Italy; the earliest Italian witch trials are largely secular proceedings.",
+
+  "scholarly_disagreement": "Whether the confessions of Sibilla and Pierina before the podestà of Milan reflect genuine folk beliefs about nocturnal societies (Ginzburg's argument) or are substantially constructed by the interrogator's questions within an emerging demonological framework (consistent with Cohn's construction thesis) is the central scholarly disagreement about these proceedings. Ginzburg's argument has been influential but not universally accepted; Richard Kieckhefer and others have noted that the evidence for a coherent pre-existing folk tradition rather than an interrogationally produced narrative is ambiguous in the 1384–1390 records.",
+  "source_method": "Ginzburg, Ecstasies: Deciphering the Witches' Sabbath (1991); Levack, The Witch-Hunt in Early Modern Europe (2006); Hutton, The Witch (2017); primary records of the 1384 and 1390 proceedings analyzed in Ginzburg (1991); Cohn, Europe's Inner Demons (1975) for the contrary position",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "ginzburg-ecstasies-1991",
+    "levack-witch-hunt-early-modern-2006",
+    "hutton-the-witch-2017",
+    "cohn-europes-inner-demons-1975"
+  ],
+
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}
