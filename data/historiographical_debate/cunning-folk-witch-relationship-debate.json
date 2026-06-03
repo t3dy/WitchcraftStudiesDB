@@ -1,0 +1,73 @@
+{
+  "id": "cunning-folk-witch-relationship-debate",
+  "name": "The Cunning Folk vs. Accused Witch Relationship Debate",
+  "question_at_issue": "Were cunning folk (healer-practitioners who identified and counteracted witchcraft) structurally distinct from accused witches within their communities, or did they occupy a continuous spectrum of magical practice that could shift from beneficial to malevolent depending on community perception?",
+  "date_range_of_scholarship": "1971–present",
+  "scholarly_positions": [
+    {
+      "scholar_slug": "thomas-keith-b1933",
+      "scholar_name": "Keith Thomas",
+      "position_label": "PRECURSOR",
+      "stance": "Thomas recognized cunning folk as a distinct occupational group who provided magical services — divination, healing, identifying thieves and witches — that were distinct from the malefic witchcraft for which accused witches were prosecuted. He treated them as evidence for the vitality of popular magic as a practical resource, and noted their uneasy relationship with both official religion (which condemned them) and popular culture (which consulted them).",
+      "key_work": "Religion and the Decline of Magic (1971)",
+      "key_argument": "Cunning folk occupied a recognizable social niche as paid magical specialists. Their practice was widespread, persistent, and genuinely distinct from the malefic magic attributed to witches, though the boundary was not absolute."
+    },
+    {
+      "scholar_slug": "hutton-ronald-b1953",
+      "scholar_name": "Ronald Hutton",
+      "position_label": "CONSENSUS",
+      "stance": "Cunning folk occupied a structurally distinct social role from accused witches — they were consulted to counteract witchcraft, not to perform it, and their function was explicitly protective. Within communities, this functional distinction was meaningful and generally observed. The accused witch was the person who had harmed; the cunning person was the resource to identify and counter harm. The two roles were not continuous but oppositional.",
+      "key_work": "The Witch (2017)",
+      "key_argument": "The community's structural need for a protective magical practitioner — someone to identify witches and reverse their maleficium — generated and sustained the cunning folk role. This role was valued, not feared. Accused witches were feared. The distinction is real, not simply a matter of reputation."
+    },
+    {
+      "scholar_slug": "wilby-emma-b1965",
+      "scholar_name": "Emma Wilby",
+      "position_label": "CONSENSUS",
+      "stance": "Agrees with Hutton on the structural distinction but argues that cunning folk's visionary experiences — encounters with familiar spirits, ability to travel in spirit — provide the genuine folk religious substrate that also appears, distorted, in witch confessions. The cunning folk are not simply a different social role but the surviving practitioners of an older visionary tradition. This tradition links them to the accused witch not through continuity of function but through continuity of experiential tradition.",
+      "key_work": "Cunning Folk and Familiar Spirits (2005)",
+      "key_argument": "The familiar spirit tradition — documented in English cunning folk cases and distorted in witch-trial confessions — represents a genuine visionary culture that persisted in lower-class communities. Cunning folk were the legitimate practitioners of this culture; accused witches were its villainized version."
+    },
+    {
+      "scholar_slug": "briggs-robin-b1942",
+      "scholar_name": "Robin Briggs",
+      "position_label": "CRITIC",
+      "stance": "The boundary between cunning folk and accused witch was more permeable than Hutton's structural model suggests. In Lorraine and other Continental contexts, the same person could be consulted as a healer and later accused as a witch. Community perception of magical practitioners was unstable — a cunning person's power to heal implied power to harm, and a shift in community relations could transform the benefactor into the accused. The structural distinction is real in most cases but was routinely crossed.",
+      "key_work": "Witches and Neighbours (1996)",
+      "key_argument": "The Lorraine records show numerous cases of persons who had previously served as magical healers being accused of witchcraft. The boundary was real but permeable, and the permeability matters for understanding how accusations arose."
+    },
+    {
+      "scholar_slug": "macfarlane-alan-b1941",
+      "scholar_name": "Alan Macfarlane",
+      "position_label": "PRECURSOR",
+      "stance": "In Essex, cunning folk were regularly consulted by accusers to identify witches. They functioned as an accusation-enabling resource, helping potential accusers to confirm their suspicions. This role placed them in a structurally ambiguous position: they reinforced accusation while claiming to counteract witchcraft.",
+      "key_work": "Witchcraft in Tudor and Stuart England (1970)",
+      "key_argument": "The cunning folk-witch relationship in Essex was dynamic and sometimes circular: cunning folk identified witches, which generated more accusations, which required more cunning folk consultation."
+    }
+  ],
+  "current_consensus": "The structural distinction between cunning folk and accused witches is broadly accepted as real and historically meaningful — Hutton's formulation is the current consensus position. Communities did maintain a functional distinction between the healer/identifier and the harmer/accused. This distinction was not merely scholarly but was observable in community behaviour (people consulted cunning folk, feared accused witches). The Ginzburg-Wilby contribution — that cunning folk preserve a genuine visionary tradition also visible in witch confessions — adds depth to the picture without contradicting the structural point. Briggs's modification — that the boundary was permeable and cunning folk could become accused witches — is also accepted as a complication of, rather than refutation of, the structural distinction. The Continental evidence (Lorraine, Friuli) supports greater permeability than the English evidence.",
+  "consensus_status": "EMERGING_CONSENSUS",
+  "counter_arguments": "The 'structural distinction' may be clearer in England, where cunning folk had a more developed and semi-institutionalized role, than in Continental contexts where the boundary between healer and witch was more fluid. The role of cunning folk in amplifying accusation (by confirming suspicions) rather than only countering witchcraft complicates the purely protective/oppositional model.",
+  "database_relevance": "The `healer_practitioner` entity type directly reflects this debate — entries in this type represent persons who were consulted as magical practitioners, not primarily accused witches, even when they were eventually accused. The `accused_person` entries include a `self_identification` field in some cases where the accused identified themselves as a healer rather than a witch. The distinction between these two entry types in the database itself embeds Hutton's structural argument.",
+  "linked_concepts": [
+    "cunning-folk",
+    "familiar-spirit",
+    "maleficium",
+    "popular-magic",
+    "healing-magic"
+  ],
+  "linked_scholarly_texts": [
+    "hutton-the-witch-2017",
+    "wilby-cunning-folk-2005",
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "briggs-witches-neighbours-1996",
+    "ginzburg-night-battles-1983"
+  ],
+  "source_method": "Synthesis of secondary scholarly literature; positions characterized from primary scholarly texts",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The EMERGING_CONSENSUS characterization is accepted by most scholars, though some who follow Briggs closely would prefer CONTESTED, given the strong evidence for permeability in Continental cases. The Wilby position on the visionary tradition as a link between cunning folk and witch confessions remains debated.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

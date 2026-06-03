@@ -1,0 +1,54 @@
+{
+  "id": "brita-zippel-dalarna-1669",
+  "name": "Brita Zippel",
+  "status": "Executed",
+  "trial_id": "sweden-blakulla-mass-trials-1668-1676",
+  "location_id": "dalarna-sweden",
+  "year_accused": 1669,
+  "year_executed": 1669,
+  "age_at_trial": null,
+  "social_status": "Adult peasant woman; resident of the parish of Mora, Dalarna, Sweden",
+  "gender": "female",
+  "biography": "Brita Zippel was one of the first adult women executed in the Dalarna witchcraft panic of 1668–1676 — the episode known as the 'Great Noise' (Det stora oväsendet) — executed at Mora in August 1669 following the royal commission investigation. She was among the 71 persons executed in the first great wave of Dalarna prosecution, triggered by the children's testimony that women of the parish had transported them at night to 'Blåkulla,' where the devil held court. The case of Brita Zippel was documented by Bengt Ankarloo in his analysis of the Dalarna panic, representing the typical profile of the first adult accused: a woman from the peasant community, named in the testimony of multiple children, who confessed under the pressure of the commission and was executed before the initial panic was halted by royal intervention.",
+  "arrest_narrative": "Zippel was named by children in the Mora parish as one of the women who had transported them by night to Blåkulla. The children's testimony — delivered in a context of mass suggestion, with children competing to name as many adults as possible — was the primary evidence against her. The royal commission, dispatched in June 1669 to investigate the Mora allegations, found the children's testimony credible and proceeded to formal examination of the accused adults. Zippel was among those examined by the commission, which had authority to compel confession and order execution.",
+  "interrogation_and_confession": {
+    "first_interrogation": "Under examination by the royal commission, Zippel initially denied the children's accusations. This denial was consistent with most of the adult accused in the early stages of the Dalarna investigation.",
+    "torture_sessions": "Whether Zippel was subjected to formal judicial torture is uncertain — the commission had authority to use coercive methods but the Swedish legal system was not as systematically committed to torture as German equivalents. The commission's methods included extended examination, confrontation with child accusers, and sustained psychological pressure.",
+    "confession_details": "Zippel eventually confessed to having transported children to Blåkulla and to participating in the assemblies described in the children's testimony. The confession content closely follows the Blåkulla narrative: the journey on animals or staves, the devil (called 'Antecessor') presiding at a feast, the ceremonies inverting Christian practice."
+  },
+  "confession_content": {
+    "blakulla_narrative": "Zippel confessed to the standard Blåkulla account as established by the children's prior testimony: transportation to Blåkulla, attendance at diabolical feasts, performance of ceremonies including the inversion of Christian ritual. The close correspondence between adult confessions and the prior children's testimony was noted by skeptics at the time and by later scholars as evidence of the testimony's suggestive character.",
+    "note": "The Blåkulla confession narrative was established by children's testimony before the adult examinations began; adult confessions then reproduced this narrative with striking uniformity. This uniformity is itself evidence of the narrative's inquisitorially imposed character rather than its authenticity."
+  },
+  "historiographical_analysis": {
+    "clark_perspective": "Zippel's case illustrates the transmission of the fully formed cumulative concept of witchcraft — sabbath, devil's pact, anti-Christian ceremony — into Swedish peasant culture via the learned channels of the Lutheran church and royal commission. The Blåkulla narrative the children described and Zippel confessed to was not a Swedish folk creation but a Europeanized demonological template adapted to Swedish topography and social context.",
+    "hutton_perspective": "The Blåkulla panic differs fundamentally from the English and Scottish patterns Hutton analyzes: the accusation mechanism was not the bottom-up refusal-quarrel-misfortune sequence but a top-down commission investigation triggered by children's mass testimony. The accused adults like Zippel were named by children, not accused by injured adult neighbours. This represents a structurally different accusation dynamic in which the usual social mechanisms are replaced by mass suggestion in a crisis context.",
+    "ginzburg_perspective": "The Swedish Blåkulla confessions are among the most difficult cases for Ginzburg's recovery method. The adult confessions are secondary to and shaped by the prior children's testimony; there is little space for pre-inquisitorial folk belief to emerge. Ankarloo's analysis suggests that there may have been some prior Swedish folk beliefs about nocturnal assemblies of witches, but the Blåkulla narrative as documented in the 1669 commission records is primarily a transmitted elite construction, not a genuine folk substrate."
+  },
+  "execution_details": {
+    "method": "Beheading followed by burning (the standard Swedish execution method for witchcraft in this period, as confirmed by Ankarloo's analysis)",
+    "location": "Mora, Dalarna, Sweden",
+    "date": "August 1669"
+  },
+  "accusations_against_her": [
+    "Transporting children to Blåkulla at night (named in children's testimony)",
+    "Attending diabolical assemblies at Blåkulla",
+    "Worshipping the devil known as 'Antecessor'",
+    "Participating in ceremonies inverting Christian practice"
+  ],
+  "contemporary_defense": {
+    "denial_record": "Initial denial of children's accusations, as documented in commission records",
+    "note": "The structural position of the accused adults — confronted with multiple children's consistent testimony in a commission context that presupposed guilt — made effective defense essentially impossible. The accused could not challenge children's testimony through normal social reputation mechanisms."
+  },
+  "historiographical_significance": "Brita Zippel represents the adult victims of the Blåkulla panic at its inception — persons swept up in mass prosecution triggered by children's testimony, operating in a legal environment without the appellate court structure that might have provided protection. Her case illustrates the distinctive character of the Swedish panic as analyzed by Ankarloo: not the typical bottom-up neighbourhood accusation but a top-down commission investigation that validated and amplified children's mass testimony. The 71 executions at Mora in 1669 — of which she was one — triggered a further wave of trials across Sweden that ultimately executed an estimated 300 persons before the panic ended in 1676.",
+  "source_method": "Bengt Ankarloo, 'Sweden: The Mass Burnings (1668–76),' in Bengt Ankarloo and Gustav Henningsen, eds., Early Modern European Witchcraft: Centres and Peripheries (Oxford: Clarendon Press, 1990), pp. 285–317; Bengt Ankarloo, Trolldomsprocesserna i Sverige (Stockholm: Nordiska museet, 1971). Name and basic case details from Ankarloo's analysis of the Mora commission records.",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "ankarloo-clark-vol4-witch-trials-2001"
+  ],
+  "scholarly_disagreement": "Individual biographical details for the Mora accused are sparse in English-language scholarship. Ankarloo's analysis provides aggregate data and case-type analysis more than individual biographical reconstruction. The specific details of Zippel's examination and the methods used to secure her confession are not fully documented in available secondary sources.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

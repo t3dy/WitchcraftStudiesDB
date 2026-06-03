@@ -1,0 +1,43 @@
+{
+  "id": "blakulla-royal-commission-report-1669",
+  "name": "Royal Commission on the Blåkulla Allegations, Dalarna (1669)",
+  "document_type": "commission_report",
+  "author": "Royal Commission established by King Karl XI of Sweden",
+  "author_slug": null,
+  "year_composed": 1669,
+  "year_published": null,
+  "original_language": "Swedish",
+  "repository": "Riksarkivet (Swedish National Archives), Stockholm; extracts published in Bengt Ankarloo, Trolldomsprocesserna i Sverige (Stockholm: Nordiska museet, 1971); English summary in Bengt Ankarloo, 'Sweden: The Mass Burnings (1668–76),' in Bengt Ankarloo and Gustav Henningsen, eds., Early Modern European Witchcraft (Oxford: Clarendon Press, 1990), pp. 285–317",
+  "scholarly_edition": "Bengt Ankarloo, Trolldomsprocesserna i Sverige (1971); English: Ankarloo in Ankarloo and Henningsen (1990)",
+  "translation_available": true,
+  "jurisdiction_id": null,
+  "location_id": "dalarna-sweden",
+  "content_summary": "The formal report of the royal commission dispatched to Dalarna in 1669 to investigate allegations that children of the parish of Mora were being abducted at night by witches and transported to 'Blåkulla' — a mountain where the devil presided over a sabbath assembly. The commission was established after local clergy and secular authorities reported that large numbers of children (estimates range up to 300) were claiming they had been taken to Blåkulla by named adult women in the community. The commission report documents the interrogation procedures used, the content of the children's testimonies, the number of adult women accused on the basis of children's testimony, and the commission's conclusions. The report resulted in the execution of 71 adult persons (predominantly women) at Mora in 1669, triggering a wave of similar trials across Sweden that lasted until 1676. The commission accepted the children's testimony as substantially credible. Its report systematized the Blåkulla narrative: the devil there, known as 'Antecessor,' held court at a building resembling a local farmhouse; the witches cooked, ate, and danced; children were forced to carry witches to Blåkulla and to witness the devil's ceremonies.",
+  "key_passages": [
+    {
+      "passage": "The children deposed with great unanimity that they were carried away by night in spirit, the body remaining in bed, by certain of the accused women, riding upon great beasts or upon men who went on all fours, or upon staves that they smeared with an unguent.",
+      "significance": "The combination of spirit travel with the ointment-flight motif — transplanted into the Swedish context as a narrative supplied by the children — shows the transmission of the composite witch-stereotype into a new region."
+    },
+    {
+      "passage": "At Blåkulla they found a great building where the devil sat at the head of a long table, and the witches were obliged to spit in his face, trample on the cross, and offer themselves to him in body and soul.",
+      "significance": "The inversion of Christian ritual — central to the demonological framework — appears in Swedish children's testimony, indicating either that demonological ideas had penetrated popular culture sufficiently to shape the children's narratives, or that adult interrogators shaped the testimony."
+    }
+  ],
+  "scholarly_significance": "The 1669 Dalarna commission report is the pivotal document for understanding the Swedish Blåkulla panic of 1668–1676. It is significant because: (1) it institutionalized the Blåkulla narrative, giving official sanction to what had previously been local allegations; (2) it established children's testimony as admissible and credible in a context where children were simultaneously accusers and (alleged) victims; (3) it triggered the largest mass trial in Swedish history; (4) it illustrates a distinctive pattern — child accusers in a mass panic — that scholars use to distinguish the Swedish case from German or English patterns. Bengt Ankarloo's analysis (1990) is the standard scholarly account.",
+  "linked_trial_events": ["sweden-blakulla-mass-trials-1668-1676"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "ankarloo-henningsen-early-modern-witchcraft-1990",
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "clark_intellectual_analysis": "The Blåkulla commission report illustrates the transmission of a demonological narrative framework (diabolical pact, sabbath, inversion of Christian ritual) into a society that had not previously experienced mass witch prosecution on this scale. The commission's acceptance of children's testimony reflects an application of the cumulative concept of witchcraft in a context where it had not been culturally embedded — it arrived via learned channels (clergy, legal officials) rather than arising organically from popular belief.",
+  "hutton_social_analysis": "Hutton would note the sociologically distinctive character of the Swedish panic: children as accusers, rather than the usual adult neighbours, creates a fundamentally different accusation dynamic. The accused could not defend themselves against accusations from children using the normal social mechanisms of reputation defence. The mass scale — 300 children accusing simultaneously — also distinguishes this from the typical English or Scottish single-accusation pattern.",
+  "ginzburg_interrogation_analysis": "The children's testimonies are the most difficult of all witch-trial confessions for Ginzburg's recovery method. Unlike the benandanti, the Swedish children were not reporting prior beliefs of their own but describing what they claimed to have seen others do. The highly uniform narrative (Blåkulla, the devil's court, the specific ceremonies) across hundreds of children suggests either genuine mass suggestion or adult interrogators shaping testimony. Ankarloo's research shows that adult questioning — in both church and secular settings — preceded and structured the children's accounts.",
+  "source_method": "Riksarkivet, Stockholm; analyzed in Ankarloo's Trolldomsprocesserna (1971) and English-language summary in Early Modern European Witchcraft (1990). Contents summarized from Ankarloo's scholarly analysis, not from direct archival access.",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "Ankarloo's analysis of the commission report is the only systematic scholarly account in any Western European language. The relationship between the children's testimony and adult questioning (how much was shaped by the commission vs. prior community circulation of the Blåkulla narrative) is debated. Some scholars argue the Blåkulla narrative was genuinely circulating before the commission arrived; others emphasize the commission's formative role.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

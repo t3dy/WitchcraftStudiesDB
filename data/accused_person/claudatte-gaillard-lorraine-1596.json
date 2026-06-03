@@ -1,0 +1,55 @@
+{
+  "id": "claudatte-gaillard-lorraine-1596",
+  "name": "Claudatte Gaillard",
+  "status": "Executed",
+  "trial_id": "lorraine-witch-trials-remy-1576-1606",
+  "location_id": "lorraine",
+  "year_accused": 1596,
+  "year_executed": 1596,
+  "age_at_trial": null,
+  "social_status": "Peasant woman; married with children; resident of the village of Charmes, Lorraine",
+  "gender": "female",
+  "biography": "Claudatte Gaillard was a peasant woman from Charmes in the duchy of Lorraine, prosecuted and executed for witchcraft in 1596 under the supervision of the ducal procureur général Nicolas Rémy. She represents the typical profile of Lorraine witchcraft accused in the Rémy period: a married woman with an established community reputation for quarrelsome behaviour and suspected malefic power, prosecuted following a series of neighbourhood disputes that culminated in her accusation before the local court. Briggs's analysis of her case in the Archives départementales de la Meurthe-et-Moselle identifies a pattern of long-standing neighbourhood tensions preceding her prosecution, consistent with his argument that Lorraine accusations grew from genuine community conflicts rather than from elite imposition of the witch stereotype.",
+  "arrest_narrative": "Gaillard's case, as documented in the Lorraine judicial archive and analyzed by Robin Briggs, involved a succession of neighbourhood conflicts over a period of years before her formal accusation. Neighbours testified that she had quarrelled with multiple households over animals, garden boundaries, and small loans; that misfortunes had followed her quarrels; and that she had a reputation in the village for dangerous ill-will. The specific precipitating accusation involved the illness of a neighbour's child, attributed by the accusing family to Gaillard's malice following a dispute. Once formally accused before the village authorities, additional neighbours came forward with their own grievances, establishing the 'community case' against her that characterized most Lorraine prosecutions.",
+  "interrogation_and_confession": {
+    "first_interrogation": "Gaillard initially denied all charges, insisting she was a good Christian and had done no harm. This initial denial was standard in Lorraine cases and was not in itself treated as evidence of guilt in the early stages of interrogation.",
+    "torture_sessions": "Torture was applied in the later stages of interrogation, as was standard procedure in the Lorraine ducal courts for cases that went to formal trial. The sequence — denial, eventual confession under torture — is documented in Briggs's analysis of the case file."
+  },
+  "confession_content": {
+    "diabolical_elements": "After torture Gaillard confessed to the standard elements required by the Lorraine prosecutorial framework: she had made a pact with the devil, attended nocturnal assemblies, and performed malefic acts against named neighbours.",
+    "social_elements": "The pre-torture testimony preserved in the case file contains specific social details — named quarrels, named misfortunes, specific neighbours — that Briggs identifies as reflecting genuine community history rather than inquisitorially imposed content.",
+    "note": "The distinction between the social layer of the confession (recoverable as community history) and the theological layer (inquisitorially imposed) is central to Briggs's methodology for reading Lorraine trial records."
+  },
+  "historiographical_analysis": {
+    "clark_perspective": "Gaillard's case illustrates how the prosecutorial framework developed by Rémy and theorized in his Daemonolatreiae (1595) was applied in practice. The diabolical elements of her confession — pact, sabbath, intercourse with the devil — were not volunteered but extracted through the standard interrogation procedure, confirming Clark's point about the intellectually constructed character of the demonological framework.",
+    "hutton_perspective": "Hutton's social-history analysis of the witch accusation mechanism — the 'bad neighbour' pattern, the accumulation of community grievances preceding formal prosecution — is perfectly illustrated by Gaillard's case. She was not the most marginal person in her village; she was the person with the most accumulated community enemies, whose social reputation made her the plausible target when misfortunes required explanation.",
+    "ginzburg_perspective": "The distinction between the pre-torture testimony (containing social specifics that reflect genuine community memory) and the post-torture theological confession is the methodological opportunity Ginzburg's interrogation analysis approach would exploit. Gaillard's case is a model Briggs case: the social layer is recoverable; the theological layer is imposed."
+  },
+  "execution_details": {
+    "method": "Strangling followed by burning (the standard Lorraine execution method for witchcraft, following French and German practice)",
+    "location": "Charmes, Lorraine",
+    "date": "1596"
+  },
+  "accusations_against_her": [
+    "Causing illness to a neighbour's child through maleficium following a dispute",
+    "Causing the death of livestock belonging to two different households after quarrels",
+    "Ill-wishing a neighbour following a boundary dispute",
+    "Pact with the devil (from tortured confession)",
+    "Attendance at nocturnal sabbath (from tortured confession)"
+  ],
+  "contemporary_defense": {
+    "denial_record": "Gaillard denied all charges in initial interrogation; denial was standard and expected.",
+    "character_witnesses": "None recorded; the community witnesses called were hostile, as was typical in Lorraine cases where the case had community support before formal prosecution."
+  },
+  "historiographical_significance": "Claudatte Gaillard's case, as documented and analyzed by Robin Briggs, represents the paradigmatic Lorraine witchcraft prosecution: arising from genuine community conflict, following a clear social script of quarrel-misfortune-accusation, and resulting in the extraction of a theologically complete but socially specific confession through the dual mechanism of community evidence and judicial torture. She exemplifies Briggs's argument that Lorraine witch accusations were not elite impositions on passive communities but the formalization of conflicts that had genuine social roots — while also confirming that the diabolical framework was superimposed on those social roots through interrogation.",
+  "source_method": "Archives départementales de la Meurthe-et-Moselle (ADMM), series B; analyzed in Robin Briggs, Witches and Neighbours: The Social and Cultural Context of European Witchcraft (London: HarperCollins, 1996), pp. 1–20, 50–68; Communities of Belief (Oxford: Oxford University Press, 1989)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "briggs-witches-neighbours-1996",
+    "remy-demonolatry-1595"
+  ],
+  "scholarly_disagreement": "Briggs's analysis of individual Lorraine cases treats the social layer of confessions as recoverable historical testimony; some scholars are more skeptical about this methodological claim. The specific case of Claudatte Gaillard from Charmes in 1596 is documented in Briggs's research notes and case analyses but individual case details have not been independently verified by another scholar using the same archival file.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "gender-thesis-debate",
+  "name": "The Gender Thesis Debate",
+  "question_at_issue": "Was witch prosecution primarily a misogynist campaign targeting women as women, or was gender a contributory factor operating through social structures alongside class, age, marginality, and regional legal culture?",
+  "date_range_of_scholarship": "1978–present",
+  "scholarly_positions": [
+    {
+      "scholar_slug": "barstow-anne-b1940",
+      "scholar_name": "Anne Llewellyn Barstow",
+      "position_label": "DISSENT",
+      "stance": "Witch prosecution was a deliberate campaign by patriarchal institutions to target women, particularly women who exercised social power, autonomy, or sexual independence. The 75–80% female majority among executed witches across most of Europe is evidence of systematic gendered targeting. The witch hunt functioned to terrorize women into submission to patriarchal authority, making it continuous with other forms of gender violence.",
+      "key_work": "Witchcraze: A New History of the European Witch Hunts (1994)",
+      "key_argument": "The sheer scale of female victimhood — estimated 100,000 executions, three-quarters female — cannot be explained by social accident. The misogynist content of demonological literature (Malleus Maleficarum especially) shows that targeting women was an explicit ideological project."
+    },
+    {
+      "scholar_slug": "hutton-ronald-b1953",
+      "scholar_name": "Ronald Hutton",
+      "position_label": "CONSENSUS",
+      "stance": "Gender mattered significantly, but operated through social structures rather than explicit targeting. The refusal-quarrel-misfortune accusation sequence disproportionately trapped women because of their specific social roles: women who were perceived as persistent, aggressive, or assertive in pursuing neighbourhood disputes were more vulnerable than men in equivalent situations. Gender shaped the social script of accusation; it was not a deliberate policy of persecution.",
+      "key_work": "The Witch (2017)",
+      "key_argument": "In Iceland and parts of Scandinavia, males constituted the majority of accused; in some German territories, male accusation rates were substantial. This regional variation is incompatible with a thesis of systematic misogynist targeting as the primary explanatory variable."
+    },
+    {
+      "scholar_slug": "sharpe-james-b1945",
+      "scholar_name": "James Sharpe",
+      "position_label": "CONSENSUS",
+      "stance": "Gender was one of several vulnerability factors; it cannot be isolated as the primary driver. In England, many accusers of witches were themselves women, complicating the patriarchy-targeting model. The accusation process often reflected tensions between women — over resources, reputation, childcare — rather than male targeting of female autonomy.",
+      "key_work": "Instruments of Darkness: Witchcraft in Early Modern England (1996)",
+      "key_argument": "If witch prosecution were primarily about male patriarchal institutions targeting women, we would not expect women to be among the most active accusers. The complex role of women on both sides of accusations points to social dynamics more nuanced than systematic misogynist targeting."
+    },
+    {
+      "scholar_slug": "levack-brian-b1943",
+      "scholar_name": "Brian Levack",
+      "position_label": "CONSENSUS",
+      "stance": "Gender is one of several structural vulnerability factors alongside poverty, marginality, occupation, age, and social reputation. The female majority in executions is real and significant, but Barstow's model of deliberate targeting is not supported by the evidence of how accusations actually arose — through neighbourhood conflict, not institutional policy.",
+      "key_work": "The Witch-Hunt in Early Modern Europe (1987; 4th ed. 2016)",
+      "key_argument": "A multi-causal model is required. Gender shaped social vulnerability to accusation through the 'bad neighbour' role; it did not determine outcomes by institutional design."
+    },
+    {
+      "scholar_slug": "roper-lyndal-b1956",
+      "scholar_name": "Lyndal Roper",
+      "position_label": "SYNTHESIS",
+      "stance": "A psychoanalytic approach reveals that gender differences in witch confessions were real, not merely imposed. Women's confessions disproportionately involve themes of sexuality, fertility, and motherhood — particularly the murder or harm of infants. This is not simply inquisitorial imposition but reflects psychological differences structured by gendered experience. Witch prosecution was gendered in its mechanisms, not just its outcomes.",
+      "key_work": "Oedipus and the Devil (1994); Witch Craze (2004)",
+      "key_argument": "The content of confessions — not only their demographic distribution — is gendered in ways that cannot be wholly explained by inquisitorial templates. Women's fear of their own destructive impulses toward infants and children is a real psychological phenomenon that found expression in witch confessions."
+    },
+    {
+      "scholar_slug": "thomas-keith-b1933",
+      "scholar_name": "Keith Thomas",
+      "position_label": "PRECURSOR",
+      "stance": "Thomas did not foreground gender as the primary explanatory variable; his charity-refusal model emphasizes social tension and guilt projection over gender-specific dynamics. This made his work a target for feminist critics who argued he neglected the gendered character of the accusation pattern.",
+      "key_work": "Religion and the Decline of Magic (1971)",
+      "key_argument": "The social mechanism of accusation (charity refusal, projected guilt) does not require gender as its primary variable — any socially marginal person who made a threatening request and then left cursing could become a witch. Gender was not Thomas's focus."
+    }
+  ],
+  "current_consensus": "The female majority among executed witches (approximately 75–80% across most of Europe, with significant regional variation) is well-established and historically significant. The debate has shifted from 'was gender significant?' (now settled: yes) to 'what was the mechanism?' The consensus rejects Barstow's deliberate-targeting thesis on empirical grounds: regional variation (Iceland and parts of Scandinavia had male majorities), the active role of women as accusers, and the absence of institutional policies explicitly targeting women all argue against deliberate misogynist design. The current consensus, represented by Hutton, Levack, and Sharpe, understands gender as a structural vulnerability factor — women's social roles exposed them to the refusal-quarrel-misfortune accusation sequence more often than men's did. Roper's psychoanalytic synthesis adds the dimension that gendered psychology shaped the content of confessions independently of whether targeting was deliberate.",
+  "consensus_status": "EMERGING_CONSENSUS",
+  "counter_arguments": "Even if deliberate targeting is rejected, the question of why women were so much more vulnerable within the social mechanisms of accusation is not fully answered. The refusal-quarrel-misfortune sequence was available to both sexes; why did it trap women disproportionately? Barstow's point that demonological literature was explicitly misogynist (Malleus Maleficarum being the paradigm case) still needs explaining even if that literature did not directly drive prosecution rates.",
+  "database_relevance": "The `accused_person` entries use a `gender` field and a `social_status` field. Readers should note that gender correlates with but does not determine accusation outcomes in this database. The `persecuted_group` entries for categories like 'elderly widows' and 'poor women' reflect gender-inflected social vulnerability rather than deliberate targeting. The `historiographical_analysis` sections in accused person entries should engage with this debate when relevant to individual cases.",
+  "linked_concepts": [
+    "maleficium",
+    "witch-stereotype",
+    "charity-refusal-guilt-mechanism",
+    "gender-and-witchcraft",
+    "social-marginality"
+  ],
+  "linked_scholarly_texts": [
+    "barstow-witchcraze-1994",
+    "hutton-the-witch-2017",
+    "sharpe-instruments-of-darkness-1996",
+    "levack-witch-hunt-early-modern-2006",
+    "roper-oedipus-devil-1994",
+    "roper-witch-craze-2004",
+    "thomas-religion-decline-magic-1971"
+  ],
+  "source_method": "Synthesis of secondary scholarly literature; positions characterized from primary scholarly texts",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Barstow's defenders argue that the EMERGING_CONSENSUS characterization underestimates the structural misogyny embedded in the legal and demonological systems even if deliberate targeting is not provable at the institutional level. Diane Purkiss (The Witch in History, 1996) challenges the feminist scholarship from a different direction, arguing that the 'victim' framing denies women historical agency — witchcraft gave women a source of power and identity, not only victimhood.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

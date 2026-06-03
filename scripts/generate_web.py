@@ -365,14 +365,16 @@ footer { background: var(--accent2); color: #c8a96e; text-align: center; padding
 
 def nav_html(active: str) -> str:
     pages = [
-        ("index.html",    "Home"),
-        ("trials.html",   "Trials"),
-        ("scholars.html", "Scholars"),
-        ("concepts.html", "Concepts"),
-        ("timeline.html", "Timeline"),
-        ("map.html",      "Map"),
-        ("sources.html",  "Sources"),
-        ("about.html",    "About"),
+        ("index.html",          "Home"),
+        ("trials.html",         "Trials"),
+        ("scholars.html",       "Scholars"),
+        ("concepts.html",       "Concepts"),
+        ("timeline.html",       "Timeline"),
+        ("map.html",            "Map"),
+        ("sources.html",        "Sources"),
+        ("primary-sources.html","Primary Sources"),
+        ("debates.html",        "Debates"),
+        ("about.html",          "About"),
     ]
     links = ""
     for href, label in pages:
@@ -433,6 +435,8 @@ def build_index(data: dict) -> str:
     n_timeline  = len(data["timeline"])
     n_sources   = len(data["scholarly_texts"])
     n_accused   = len(data["accused_persons"])
+    n_primary   = len(data["primary_sources"])
+    n_debates   = len(data["debates"])
 
     featured_trials = data["trial_events"][:3]
     featured_cards  = ""
@@ -451,7 +455,7 @@ def build_index(data: dict) -> str:
 
     body = f"""
 <h1>WitchcraftStudiesDB</h1>
-<p class="page-intro">A relational knowledge portal for the history of European and transatlantic witch trials, 1428–1692. Built on three scholarly traditions: Stuart Clark (intellectual history), Ronald Hutton (social history), and Carlo Ginzburg (microhistory).</p>
+<p class="page-intro">A relational knowledge portal for the history of European and transatlantic witch trials, 1428–1692. Built on three scholarly traditions: Stuart Clark (intellectual history), Ronald Hutton (social history), and Carlo Ginzburg (microhistory). Cross-referenced across trials, scholars, concepts, primary sources, and historiographical debates.</p>
 
 <div class="stats-grid">
   <div class="stat-box"><span class="stat-num">{n_trials}</span><span class="stat-lbl">Trial Events</span></div>
@@ -460,6 +464,8 @@ def build_index(data: dict) -> str:
   <div class="stat-box"><span class="stat-num">{n_concepts}</span><span class="stat-lbl">Concepts</span></div>
   <div class="stat-box"><span class="stat-num">{n_timeline}</span><span class="stat-lbl">Timeline Events</span></div>
   <div class="stat-box"><span class="stat-num">{n_sources}</span><span class="stat-lbl">Scholarly Texts</span></div>
+  <div class="stat-box"><span class="stat-num">{n_primary}</span><span class="stat-lbl">Primary Sources</span></div>
+  <div class="stat-box"><span class="stat-num">{n_debates}</span><span class="stat-lbl">Historiographical Debates</span></div>
 </div>
 
 <h2>Featured Trial Events</h2>
@@ -467,7 +473,7 @@ def build_index(data: dict) -> str:
 
 <h2>About the Database</h2>
 <p>WitchcraftStudiesDB integrates three scholarly frameworks for the history of witchcraft persecution. Entries are sourced directly from primary documents and peer-reviewed secondary literature. Every claim carries provenance: a named source, confidence level, and statement of scholarly disagreement where it exists.</p>
-<p>Navigate using the menu above. Use <a href="timeline.html">Timeline</a> for chronological overview, <a href="trials.html">Trials</a> for individual prosecutions, <a href="scholars.html">Scholars</a> for intellectual figures, and <a href="concepts.html">Concepts</a> for analytical categories.</p>
+<p>Navigate using the menu above. Use <a href="timeline.html">Timeline</a> for chronological overview, <a href="trials.html">Trials</a> for individual prosecutions, <a href="scholars.html">Scholars</a> for intellectual figures, <a href="concepts.html">Concepts</a> for analytical categories, <a href="primary-sources.html">Primary Sources</a> for archival documents, and <a href="debates.html">Debates</a> for named historiographical controversies with stated scholarly positions and current consensus.</p>
 <p><a href="about.html">Read more about the project methodology &rarr;</a></p>
 """
     return page_wrap("Home", "index.html", body)
@@ -476,7 +482,9 @@ def build_index(data: dict) -> str:
 
 def build_trials(data: dict) -> str:
     trials_js = js_embed("TRIALS", data["trial_events"])
-    js = trials_js + """
+    accused_js = js_embed("ACCUSED", data["accused_persons"])
+    psources_js = js_embed("PRIMARY_SOURCES", data["primary_sources"])
+    js = trials_js + accused_js + psources_js + """
 function trunc(s, n) { return s && s.length > n ? s.slice(0,n)+'…' : (s||''); }
 function renderTrials(list) {
   const el = document.getElementById('trial-list');
@@ -505,7 +513,12 @@ function showTrialDetail(id) {
   if (t.historiographical_significance) sections.push(`<div class="detail-section"><h4>Historiographical Significance</h4><p>${t.historiographical_significance}</p></div>`);
   if (t.demonological_framework) sections.push(`<div class="detail-section"><h4>Demonological Framework</h4><p>${t.demonological_framework}</p></div>`);
   if (t.scholarly_disagreement) sections.push(`<div class="detail-section"><h4>Scholarly Disagreement</h4><p>${t.scholarly_disagreement}</p></div>`);
-  if (t.accused_persons && t.accused_persons.length) sections.push(`<div class="detail-section"><h4>Accused Persons</h4><ul>${t.accused_persons.map(p=>`<li>${p}</li>`).join('')}</ul></div>`);
+  if (t.accused_persons && t.accused_persons.length) sections.push(`<div class="detail-section"><h4>Accused Persons (Named)</h4><ul>${t.accused_persons.map(p=>`<li>${p}</li>`).join('')}</ul></div>`);
+  // Relational cross-reference
+  const relAccused = ACCUSED.filter(a => a.trial_id === id);
+  if (relAccused.length) sections.push(`<div class="detail-section"><h4>Accused Persons in Database</h4><ul>${relAccused.map(a=>`<li><strong>${a.name}</strong> — ${a.status||''}</li>`).join('')}</ul></div>`);
+  const relPS = PRIMARY_SOURCES.filter(ps => (ps.linked_trial_events||[]).includes(id));
+  if (relPS.length) sections.push(`<div class="detail-section"><h4>Primary Sources</h4><ul>${relPS.map(ps=>`<li><a href="primary-sources.html" style="color:var(--link)">${ps.name}</a> (${ps.document_type||''})</li>`).join('')}</ul></div>`);
   const src = t.source_method ? `<div class="source-note">Source: ${t.source_method} &mdash; Confidence: <span class="confidence-${t.confidence}">${t.confidence||''}</span></div>` : '';
   showDetail(`<div class="detail-title">${t.name||t.id}</div>
     <div class="detail-meta">${[t.location_id, t.year_start, t.year_end ? '–'+t.year_end : ''].filter(Boolean).join(' ')}</div>
@@ -538,7 +551,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 def build_scholars(data: dict) -> str:
     scholars_js = js_embed("SCHOLARS", data["scholars"])
-    js = scholars_js + """
+    texts_js = js_embed("TEXTS_XR", data["scholarly_texts"])
+    debates_js = js_embed("DEBATES_XR", data["debates"])
+    concepts_js = js_embed("CONCEPTS_XR", data["concepts"])
+    js = scholars_js + texts_js + debates_js + concepts_js + """
 function trunc(s, n) { return s && s.length > n ? s.slice(0,n)+'…' : (s||''); }
 function positionBadge(pos) {
   if (!pos) return '';
@@ -582,6 +598,13 @@ function showScholarDetail(id) {
     if (a) sections.push(`<div class="detail-section"><h4>Alignment With</h4><ul>${a}</ul></div>`);
     if (c) sections.push(`<div class="detail-section"><h4>Creative Tension With</h4><ul>${c}</ul></div>`);
   }
+  // Relational cross-references
+  const relTexts = TEXTS_XR.filter(t => t.author_slug === s.id);
+  if (relTexts.length) sections.push(`<div class="detail-section"><h4>Works in Database</h4><ul>${relTexts.map(t=>`<li><em>${t.title}</em> (${t.year_published||'n.d.'})</li>`).join('')}</ul></div>`);
+  const relDebates = DEBATES_XR.filter(d => (d.scholarly_positions||[]).some(p => p.scholar_slug === s.id));
+  if (relDebates.length) sections.push(`<div class="detail-section"><h4>Historiographical Debates</h4><ul>${relDebates.map(d=>`<li><a href="debates.html" style="color:var(--link)">${d.name}</a></li>`).join('')}</ul></div>`);
+  const relConcepts = CONCEPTS_XR.filter(c => (c.scholarly_sources||[]).includes(s.id));
+  if (relConcepts.length) sections.push(`<div class="detail-section"><h4>Concepts Linked</h4><ul>${relConcepts.slice(0,8).map(c=>`<li>${c.name}</li>`).join('')}${relConcepts.length>8?`<li>… and ${relConcepts.length-8} more</li>`:''}</ul></div>`);
   const src = s.source_method ? `<div class="source-note">Source: ${s.source_method} &mdash; Confidence: <span class="confidence-${s.confidence}">${s.confidence||''}</span></div>` : '';
   const dates = [s.birth_year, s.death_year].filter(Boolean).join('–');
   showDetail(`<div class="detail-title">${s.name||s.id}</div>
@@ -627,7 +650,10 @@ document.addEventListener('DOMContentLoaded', function() {
 
 def build_concepts(data: dict) -> str:
     concepts_js = js_embed("CONCEPTS", data["concepts"])
-    js = concepts_js + """
+    scholars_js = js_embed("SCHOLARS_XR", data["scholars"])
+    trials_js = js_embed("TRIALS_XR", data["trial_events"])
+    debates_js = js_embed("DEBATES_XR2", data["debates"])
+    js = concepts_js + scholars_js + trials_js + debates_js + """
 function trunc(s, n) { return s && s.length > n ? s.slice(0,n)+'…' : (s||''); }
 function renderConcepts(list) {
   const el  = document.getElementById('concept-list');
@@ -656,6 +682,13 @@ function showConceptDetail(id) {
   if (c.ginzburg_interrogation_analysis) sections.push(`<div class="detail-section"><h4>Ginzburg: Interrogation Analysis</h4><p>${c.ginzburg_interrogation_analysis}</p></div>`);
   if (c.historiographical_significance) sections.push(`<div class="detail-section"><h4>Historiographical Significance</h4><p>${c.historiographical_significance}</p></div>`);
   if (c.scholarly_disagreement) sections.push(`<div class="detail-section"><h4>Scholarly Disagreement</h4><p>${c.scholarly_disagreement}</p></div>`);
+  // Relational cross-references
+  const relScholars = SCHOLARS_XR.filter(s => (c.scholarly_sources||[]).includes(s.id));
+  if (relScholars.length) sections.push(`<div class="detail-section"><h4>Scholars in Database</h4><ul>${relScholars.map(s=>`<li><strong>${s.name}</strong> ${s.birth_year?'('+s.birth_year+')':''}</li>`).join('')}</ul></div>`);
+  const relTrials = TRIALS_XR.filter(t => (t.related_demonological_concepts||[]).includes(c.id));
+  if (relTrials.length) sections.push(`<div class="detail-section"><h4>Trials Using This Concept</h4><ul>${relTrials.slice(0,6).map(t=>`<li>${t.name||t.id}</li>`).join('')}${relTrials.length>6?`<li>… and ${relTrials.length-6} more</li>`:''}</ul></div>`);
+  const relDebates = DEBATES_XR2.filter(d => (d.linked_concepts||[]).includes(c.id));
+  if (relDebates.length) sections.push(`<div class="detail-section"><h4>Historiographical Debates</h4><ul>${relDebates.map(d=>`<li><a href="debates.html" style="color:var(--link)">${d.name}</a></li>`).join('')}</ul></div>`);
   const src = c.source_method ? `<div class="source-note">Source: ${c.source_method} &mdash; Confidence: <span class="confidence-${c.confidence}">${c.confidence||''}</span></div>` : '';
   showDetail(`<div class="detail-title">${c.name||c.id}</div>
     <div class="detail-meta">${[c.category_type, c.time_period, c.primary_locale].filter(Boolean).join(' &middot; ')}</div>
@@ -791,7 +824,9 @@ document.addEventListener('DOMContentLoaded', function() {
 
 def build_sources(data: dict) -> str:
     texts_js = js_embed("TEXTS", data["scholarly_texts"])
-    js = texts_js + """
+    scholars_js = js_embed("SCHOLARS_XR3", data["scholars"])
+    debates_js = js_embed("DEBATES_XR3", data["debates"])
+    js = texts_js + scholars_js + debates_js + """
 function trunc(s, n) { return s && s.length > n ? s.slice(0,n)+'…' : (s||''); }
 function renderTexts(list) {
   const el  = document.getElementById('text-list');
@@ -823,6 +858,11 @@ function showTextDetail(id) {
     sections.push(`<div class="detail-section"><h4>Key Arguments</h4><ul>${args}</ul></div>`);
   }
   if (t.scholarly_disagreement) sections.push(`<div class="detail-section"><h4>Scholarly Disagreement</h4><p>${t.scholarly_disagreement}</p></div>`);
+  // Relational cross-references
+  const relAuthor = t.author_slug ? SCHOLARS_XR3.find(s => s.id === t.author_slug) : null;
+  if (relAuthor) sections.push(`<div class="detail-section"><h4>Author</h4><p><strong>${relAuthor.name}</strong>${relAuthor.birth_year?' ('+relAuthor.birth_year+(relAuthor.death_year?'–'+relAuthor.death_year:'')+')'':''} — ${relAuthor.academic_discipline||''}</p></div>`);
+  const relDebates = DEBATES_XR3.filter(d => (d.linked_scholarly_texts||[]).includes(t.id));
+  if (relDebates.length) sections.push(`<div class="detail-section"><h4>Appears In Debates</h4><ul>${relDebates.map(d=>`<li><a href="debates.html" style="color:var(--link)">${d.name}</a></li>`).join('')}</ul></div>`);
   const src = t.source_method ? `<div class="source-note">Source: ${t.source_method} &mdash; Confidence: <span class="confidence-${t.confidence}">${t.confidence||''}</span></div>` : '';
   showDetail(`<div class="detail-title">${t.title||t.id}</div>
     <div class="detail-meta">${[t.author, t.year_published, t.publisher, t.text_type].filter(Boolean).join(' &middot; ')}</div>
@@ -924,16 +964,19 @@ def build_map(data: dict) -> str:
         f'<polygon class="map-land" points="{pts(scandinavia)}"/>'
     )
 
+    def get_lat(l): return l.get("latitude") or (l.get("coordinates") or {}).get("latitude")
+    def get_lon(l): return l.get("longitude") or (l.get("coordinates") or {}).get("longitude")
+
     # Build location markers
     locs = [l for l in data["locations"]
-            if l.get("coordinates") and
-               LON_MIN <= l["coordinates"].get("longitude",999) <= LON_MAX and
-               LAT_MIN <= l["coordinates"].get("latitude",999) <= LAT_MAX]
+            if get_lat(l) is not None and get_lon(l) is not None and
+               LON_MIN <= get_lon(l) <= LON_MAX and
+               LAT_MIN <= get_lat(l) <= LAT_MAX]
 
     marker_svgs = []
     for loc in locs:
-        lat = loc["coordinates"]["latitude"]
-        lon = loc["coordinates"]["longitude"]
+        lat = get_lat(loc)
+        lon = get_lon(loc)
         cx, cy = proj(lat, lon)
         name = escape(loc.get("name", loc["id"]))
         hover = escape(loc.get("hover_description", loc.get("witchcraft_trials_significance","")[:120]))
@@ -1063,9 +1106,9 @@ document.getElementById('witch-map').addEventListener('mousemove', function(e) {
 
     loc_list_items = ""
     for loc in sorted(data["locations"], key=lambda l: l.get("name","").split("(")[0].strip()):
-        if not (loc.get("coordinates") and
-                LON_MIN <= loc["coordinates"].get("longitude",999) <= LON_MAX and
-                LAT_MIN <= loc["coordinates"].get("latitude",999) <= LAT_MAX):
+        if not (get_lat(loc) is not None and get_lon(loc) is not None and
+                LON_MIN <= get_lon(loc) <= LON_MAX and
+                LAT_MIN <= get_lat(loc) <= LAT_MAX):
             continue
         name = escape(loc.get("name",""))
         region = escape(loc.get("region",""))
@@ -1098,6 +1141,202 @@ document.getElementById('witch-map').addEventListener('mousemove', function(e) {
 </ul>
 """
     return page_wrap("Map", "map.html", body, js)
+
+
+# ── primary-sources.html ─────────────────────────────────────────────────────
+
+def build_primary_sources(data: dict) -> str:
+    ps_js = js_embed("PRIMARY_SOURCES", data["primary_sources"])
+    trials_js = js_embed("TRIALS_XR4", data["trial_events"])
+    accused_js = js_embed("ACCUSED_XR4", data["accused_persons"])
+    texts_js = js_embed("TEXTS_XR4", data["scholarly_texts"])
+    js = ps_js + trials_js + accused_js + texts_js + """
+function trunc(s, n) { return s && s.length > n ? s.slice(0,n)+'…' : (s||''); }
+const DOCTYPE_LABELS = {
+  trial_record: 'Trial Record', interrogation_transcript: 'Interrogation Transcript',
+  confession: 'Confession', letter: 'Letter', pamphlet: 'Pamphlet',
+  commission_report: 'Commission Report', chronicle: 'Chronicle',
+  inquisition_manual: 'Manual', indictment: 'Indictment',
+  deposition: 'Deposition', collection: 'Collection'
+};
+function renderPS(list) {
+  const el  = document.getElementById('ps-list');
+  const cnt = document.getElementById('ps-count');
+  cnt.textContent = list.length + ' result' + (list.length===1?'':'s');
+  if (!list.length) { el.innerHTML='<p style="color:var(--muted)">No results.</p>'; return; }
+  el.innerHTML = list.map(ps => {
+    const dtype = DOCTYPE_LABELS[ps.document_type] || ps.document_type || '';
+    const yr    = ps.year_composed || ps.year_published || '';
+    const lang  = ps.original_language || '';
+    const summ  = trunc(ps.content_summary, 200);
+    return `<div class="card" onclick="showPSDetail(${JSON.stringify(ps.id)})">
+      <div class="card-title">${ps.name||ps.id}</div>
+      <div class="card-meta">${[ps.author, yr, '<span class="tag">'+dtype+'</span>', lang ? lang+' lang.' : ''].filter(x=>x&&x!=='<span class="tag"></span>').join(' &middot; ')}</div>
+      <div class="card-body">${summ}</div>
+    </div>`;
+  }).join('');
+}
+function showPSDetail(id) {
+  const ps = PRIMARY_SOURCES.find(x=>x.id===id);
+  if (!ps) return;
+  const sections = [];
+  if (ps.content_summary) sections.push(`<div class="detail-section"><h4>Document Contents</h4><p>${ps.content_summary}</p></div>`);
+  if (ps.key_passages && ps.key_passages.length) {
+    const pkgs = ps.key_passages.map(p=>`<li><blockquote style="margin:4px 0 4px 12px;font-style:italic;border-left:3px solid var(--border);padding-left:8px">${p.passage}</blockquote><small style="color:var(--muted)">${p.significance}</small></li>`).join('');
+    sections.push(`<div class="detail-section"><h4>Key Passages</h4><ul style="padding-left:0;list-style:none">${pkgs}</ul></div>`);
+  }
+  if (ps.scholarly_significance) sections.push(`<div class="detail-section"><h4>Scholarly Significance</h4><p>${ps.scholarly_significance}</p></div>`);
+  if (ps.clark_intellectual_analysis) sections.push(`<div class="detail-section"><h4>Clark: Intellectual Analysis</h4><p>${ps.clark_intellectual_analysis}</p></div>`);
+  if (ps.hutton_social_analysis) sections.push(`<div class="detail-section"><h4>Hutton: Social Analysis</h4><p>${ps.hutton_social_analysis}</p></div>`);
+  if (ps.ginzburg_interrogation_analysis) sections.push(`<div class="detail-section"><h4>Ginzburg: Interrogation Analysis</h4><p>${ps.ginzburg_interrogation_analysis}</p></div>`);
+  if (ps.scholarly_disagreement) sections.push(`<div class="detail-section"><h4>Scholarly Disagreement</h4><p>${ps.scholarly_disagreement}</p></div>`);
+  // Relational cross-references
+  const relTrials = TRIALS_XR4.filter(t => (ps.linked_trial_events||[]).includes(t.id));
+  if (relTrials.length) sections.push(`<div class="detail-section"><h4>Related Trial Events</h4><ul>${relTrials.map(t=>`<li>${t.name||t.id} (${t.year_start||''})</li>`).join('')}</ul></div>`);
+  const relAccused = ACCUSED_XR4.filter(a => (ps.linked_accused_persons||[]).includes(a.id));
+  if (relAccused.length) sections.push(`<div class="detail-section"><h4>Related Accused Persons</h4><ul>${relAccused.map(a=>`<li><strong>${a.name}</strong> — ${a.status||''}</li>`).join('')}</ul></div>`);
+  const relTexts = TEXTS_XR4.filter(t => (ps.linked_scholarly_texts||[]).includes(t.id));
+  if (relTexts.length) sections.push(`<div class="detail-section"><h4>Scholarly Literature</h4><ul>${relTexts.map(t=>`<li><em>${t.title}</em> (${t.year_published||''})</li>`).join('')}</ul></div>`);
+  if (ps.repository) sections.push(`<div class="detail-section"><h4>Repository / Edition</h4><p>${ps.repository}</p></div>`);
+  const src = ps.source_method ? `<div class="source-note">Source: ${ps.source_method} &mdash; Confidence: <span class="confidence-${ps.confidence}">${ps.confidence||''}</span></div>` : '';
+  const yr = [ps.year_composed ? 'Composed '+ps.year_composed : '', ps.year_published ? 'Published '+ps.year_published : ''].filter(Boolean).join('; ');
+  showDetail(`<div class="detail-title">${ps.name||ps.id}</div>
+    <div class="detail-meta">${[ps.author, yr, DOCTYPE_LABELS[ps.document_type]||ps.document_type, ps.original_language].filter(Boolean).join(' &middot; ')}</div>
+    ${sections.join('')}${src}`);
+}
+function filterPS() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const type = document.getElementById('filter-type').value;
+  renderPS(PRIMARY_SOURCES.filter(ps => {
+    const blob = [ps.name, ps.author, ps.content_summary, ps.scholarly_significance].join(' ').toLowerCase();
+    const matchQ = !q || blob.includes(q);
+    const matchT = !type || ps.document_type === type;
+    return matchQ && matchT;
+  }));
+}
+document.addEventListener('DOMContentLoaded', function() {
+  renderPS(PRIMARY_SOURCES);
+  document.getElementById('search').addEventListener('input', filterPS);
+  document.getElementById('filter-type').addEventListener('change', filterPS);
+});
+"""
+    body = """
+<h1>Primary Sources</h1>
+<p class="page-intro">Archival documents, interrogation transcripts, letters, pamphlets, and commission reports produced at the time of events. Analyzed through Ginzburg's interrogation-analysis method: what did the interrogator supply? What might reflect genuine prior belief?</p>
+<div class="search-bar">
+  <input id="search" type="search" placeholder="Search by title, author, content…">
+  <select id="filter-type">
+    <option value="">All document types</option>
+    <option value="trial_record">Trial Records</option>
+    <option value="interrogation_transcript">Interrogation Transcripts</option>
+    <option value="confession">Confessions</option>
+    <option value="letter">Letters</option>
+    <option value="pamphlet">Pamphlets</option>
+    <option value="commission_report">Commission Reports</option>
+    <option value="collection">Collections</option>
+  </select>
+  <span class="count-label" id="ps-count"></span>
+</div>
+<div class="card-grid" id="ps-list"></div>
+"""
+    return page_wrap("Primary Sources", "primary-sources.html", body, js)
+
+
+# ── debates.html ─────────────────────────────────────────────────────────────
+
+def build_debates(data: dict) -> str:
+    debates_js = js_embed("DEBATES", data["debates"])
+    scholars_js = js_embed("SCHOLARS_XR5", data["scholars"])
+    texts_js = js_embed("TEXTS_XR5", data["scholarly_texts"])
+    concepts_js = js_embed("CONCEPTS_XR5", data["concepts"])
+    js = debates_js + scholars_js + texts_js + concepts_js + """
+function trunc(s, n) { return s && s.length > n ? s.slice(0,n)+'…' : (s||''); }
+const STATUS_STYLES = {
+  SETTLED: 'background:#2a7a2a;color:#fff',
+  EMERGING_CONSENSUS: 'background:#5a7a00;color:#fff',
+  CONTESTED: 'background:#8a6000;color:#fff',
+  OPEN: 'background:#666;color:#fff'
+};
+function renderDebates(list) {
+  const el  = document.getElementById('debate-list');
+  const cnt = document.getElementById('debate-count');
+  cnt.textContent = list.length + ' result' + (list.length===1?'':'s');
+  if (!list.length) { el.innerHTML='<p style="color:var(--muted)">No results.</p>'; return; }
+  el.innerHTML = list.map(d => {
+    const status = d.consensus_status || '';
+    const style  = STATUS_STYLES[status] || '';
+    const q = trunc(d.question_at_issue, 160);
+    const cons = trunc(d.current_consensus, 120);
+    return `<div class="card" onclick="showDebateDetail(${JSON.stringify(d.id)})">
+      <div class="card-title">${d.name||d.id} ${status?`<span class="badge" style="${style};margin-left:6px;font-size:.65rem">${status.replace('_',' ')}</span>`:''}</div>
+      <div class="card-meta">${d.date_range_of_scholarship||''}</div>
+      <div class="card-body"><em>${q}</em>${cons?'<br><small style="color:var(--muted)">Consensus: '+cons+'</small>':''}</div>
+    </div>`;
+  }).join('');
+}
+function showDebateDetail(id) {
+  const d = DEBATES.find(x=>x.id===id);
+  if (!d) return;
+  const sections = [];
+  if (d.question_at_issue) sections.push(`<div class="detail-section"><h4>Question at Issue</h4><p><em>${d.question_at_issue}</em></p></div>`);
+  if (d.current_consensus) {
+    const statusStyle = STATUS_STYLES[d.consensus_status]||'';
+    sections.push(`<div class="detail-section"><h4>Current Consensus <span class="badge" style="${statusStyle};margin-left:4px">${(d.consensus_status||'').replace('_',' ')}</span></h4><p>${d.current_consensus}</p></div>`);
+  }
+  if (d.scholarly_positions && d.scholarly_positions.length) {
+    const posHtml = d.scholarly_positions.map(p => {
+      const s = SCHOLARS_XR5.find(x=>x.id===p.scholar_slug);
+      const link = s ? `<strong>${p.scholar_name}</strong>` : `<strong>${p.scholar_name}</strong>`;
+      return `<li style="margin-bottom:12px"><div style="display:flex;gap:8px;align-items:baseline">${link} <span class="tag">${p.position_label||''}</span></div><div style="font-size:.85rem;margin-top:4px"><em>Key work:</em> ${p.key_work||''}</div><div style="font-size:.85rem;margin-top:2px">${p.key_argument||''}</div></li>`;
+    }).join('');
+    sections.push(`<div class="detail-section"><h4>Scholarly Positions</h4><ul style="padding-left:0;list-style:none">${posHtml}</ul></div>`);
+  }
+  if (d.counter_arguments) sections.push(`<div class="detail-section"><h4>Remaining Counter-Arguments</h4><p>${d.counter_arguments}</p></div>`);
+  if (d.database_relevance) sections.push(`<div class="detail-section"><h4>How This Affects the Database</h4><p>${d.database_relevance}</p></div>`);
+  // Relational cross-references
+  const relTexts = TEXTS_XR5.filter(t => (d.linked_scholarly_texts||[]).includes(t.id));
+  if (relTexts.length) sections.push(`<div class="detail-section"><h4>Key Texts</h4><ul>${relTexts.map(t=>`<li><em>${t.title}</em> (${t.year_published||''}) — ${t.author||''}</li>`).join('')}</ul></div>`);
+  const relConcepts = CONCEPTS_XR5.filter(c => (d.linked_concepts||[]).includes(c.id));
+  if (relConcepts.length) sections.push(`<div class="detail-section"><h4>Related Concepts</h4><ul>${relConcepts.map(c=>`<li>${c.name}</li>`).join('')}</ul></div>`);
+  if (d.scholarly_disagreement) sections.push(`<div class="detail-section"><h4>Meta-Note on This Entry</h4><p>${d.scholarly_disagreement}</p></div>`);
+  const src = d.source_method ? `<div class="source-note">Source: ${d.source_method} &mdash; Confidence: <span class="confidence-${d.confidence}">${d.confidence||''}</span></div>` : '';
+  showDetail(`<div class="detail-title">${d.name||d.id}</div>
+    <div class="detail-meta">${[d.date_range_of_scholarship, d.consensus_status ? 'Status: '+(d.consensus_status||'').replace('_',' ') : ''].filter(Boolean).join(' &middot; ')}</div>
+    ${sections.join('')}${src}`);
+}
+function filterDebates() {
+  const q = document.getElementById('search').value.toLowerCase();
+  const status = document.getElementById('filter-status').value;
+  renderDebates(DEBATES.filter(d => {
+    const blob = [d.name, d.question_at_issue, d.current_consensus].join(' ').toLowerCase();
+    const matchQ = !q || blob.includes(q);
+    const matchS = !status || d.consensus_status === status;
+    return matchQ && matchS;
+  }));
+}
+document.addEventListener('DOMContentLoaded', function() {
+  renderDebates(DEBATES);
+  document.getElementById('search').addEventListener('input', filterDebates);
+  document.getElementById('filter-status').addEventListener('change', filterDebates);
+});
+"""
+    body = """
+<h1>Historiographical Debates</h1>
+<p class="page-intro">Named scholarly controversies with stated positions from all historians who have taken a stance, current consensus where one exists, and how each debate should shape how you read the database.</p>
+<div class="search-bar">
+  <input id="search" type="search" placeholder="Search debates…">
+  <select id="filter-status">
+    <option value="">All statuses</option>
+    <option value="SETTLED">Settled</option>
+    <option value="EMERGING_CONSENSUS">Emerging Consensus</option>
+    <option value="CONTESTED">Contested</option>
+    <option value="OPEN">Open</option>
+  </select>
+  <span class="count-label" id="debate-count"></span>
+</div>
+<div class="card-grid" id="debate-list"></div>
+"""
+    return page_wrap("Debates", "debates.html", body, js)
 
 
 # ── about.html ────────────────────────────────────────────────────────────────
@@ -1163,15 +1402,17 @@ def build_about(data: dict) -> str:
 def main():
     print("Loading data…")
     data = {
-        "trial_events":    load_dir("trial_event"),
-        "accused_persons": load_dir("accused_person"),
-        "concepts":        load_dir("demonological_concept"),
-        "scholars":        load_dir("demonological_scholar"),
-        "scholarly_texts": load_dir("scholarly_text"),
-        "locations":       load_dir("location"),
-        "timeline":        load_dir("timeline"),
-        "persecuted_groups": load_dir("persecuted_group"),
+        "trial_events":       load_dir("trial_event"),
+        "accused_persons":    load_dir("accused_person"),
+        "concepts":           load_dir("demonological_concept"),
+        "scholars":           load_dir("demonological_scholar"),
+        "scholarly_texts":    load_dir("scholarly_text"),
+        "locations":          load_dir("location"),
+        "timeline":           load_dir("timeline"),
+        "persecuted_groups":  load_dir("persecuted_group"),
         "inquisitorial_bodies": load_dir("inquisitorial_body"),
+        "primary_sources":    load_dir("primary_source"),
+        "debates":            load_dir("historiographical_debate"),
     }
 
     for k, v in data.items():
@@ -1180,14 +1421,16 @@ def main():
     WEB.mkdir(exist_ok=True)
 
     pages = {
-        "index.html":    build_index(data),
-        "trials.html":   build_trials(data),
-        "scholars.html": build_scholars(data),
-        "concepts.html": build_concepts(data),
-        "timeline.html": build_timeline(data),
-        "map.html":      build_map(data),
-        "sources.html":  build_sources(data),
-        "about.html":    build_about(data),
+        "index.html":          build_index(data),
+        "trials.html":         build_trials(data),
+        "scholars.html":       build_scholars(data),
+        "concepts.html":       build_concepts(data),
+        "timeline.html":       build_timeline(data),
+        "map.html":            build_map(data),
+        "sources.html":        build_sources(data),
+        "primary-sources.html": build_primary_sources(data),
+        "debates.html":        build_debates(data),
+        "about.html":          build_about(data),
     }
 
     for fname, html in pages.items():

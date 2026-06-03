@@ -1,0 +1,44 @@
+{
+  "id": "bamberg-interrogation-records-1626-1631",
+  "name": "Bamberg Witch Trial Interrogation Records (1626–1631)",
+  "document_type": "collection",
+  "author": "Bamberg prince-bishopric court; Suffragan Bishop Friedrich Förner (theological supervisor); Chancellor Dr. Ernst Vasolt",
+  "author_slug": null,
+  "year_composed": 1626,
+  "year_published": null,
+  "original_language": "German",
+  "repository": "Stadtarchiv Bamberg; Staatsarchiv Bamberg; Hauptstaatsarchiv München; substantial portions published in Friedrich Leitschuh, Beiträge zur Geschichte des Hexenwesens in Franken (Bamberg, 1883); extracts in Kors and Peters, Witchcraft in Europe 400–1700 (2001)",
+  "scholarly_edition": "Friedrich Leitschuh, Beiträge zur Geschichte des Hexenwesens in Franken (1883); English-language analysis in Robin Briggs, Witches and Neighbours (1996) and Brian Levack, The Witch-Hunt in Early Modern Europe (2016)",
+  "translation_available": false,
+  "jurisdiction_id": "bamberg-prince-bishopric-court",
+  "location_id": "bamberg",
+  "content_summary": "The surviving judicial records from the Bamberg mass witch trial of 1626–1631, one of the most intensive and socially destructive witch prosecutions in European history. The records include: formal interrogation transcripts for individual accused persons, recording the questions asked and the responses given over multiple sessions; the record of torture applications (strappado, thumbscrews); lists of accomplices named under torture; the Hexenzettel (witch tickets) — small slips on which torture-produced confessions were summarized; execution records; and the letter of Johannes Junius to his daughter Veronica (1628). The trials executed approximately 300 persons between 1626 and 1631, including the chancellor and burgomasters of Bamberg, the prince-bishop's own family members, and children as young as seven years old. The records document the chain-accusation mechanism at its most extreme: each executed person was required under torture to name accomplices, who were then arrested and subjected to the same process. The interrogation transcripts show a standardized procedure: confrontation with the accusation (usually from other convicted persons), denial, application of torture, extraction of confession, requirement to name additional accomplices, further torture to confirm names.",
+  "key_passages": [
+    {
+      "passage": "[From the interrogation of Dorothea Flock, 1628:] She was asked who else was present at the witch dance. After strappado was applied she named seven persons. She was asked if she had seen the young Bürgermeister. After further application of the strappado she said yes, she had seen him there.",
+      "significance": "The chain-accusation mechanism in operation: the name of the Bürgermeister is extracted under torture after being asked directly — illustrating how the interrogator's questions determined who was named, rather than the accused's independent testimony."
+    },
+    {
+      "passage": "[Hexenzettel for Johannes Junius, 1628:] Confesses: renounced God, gave allegiance to the devil, attended sabbath at Zinkenwörth with 400 persons, committed maleficium against neighbours.",
+      "significance": "The standardized summary form of Bamberg confessions — the Hexenzettel — shows the extraction of required demonological elements reduced to an administrative template."
+    }
+  ],
+  "scholarly_significance": "The Bamberg records are among the most extensively documented mass witch trials in European history and have become paradigmatic cases for the study of mass prosecution dynamics. They are important because: (1) the chain-accusation mechanism is documented at scale and in detail, showing how the prosecutorial system generated its own expansion; (2) the social penetration of prosecution — reaching the chancellor, burgomasters, and prince-bishop's own family — illustrates the chain-reaction dynamic Midelfort describes for southwestern Germany; (3) the Johannes Junius letter provides first-person testimony of the coercive mechanism; (4) the very young victims (children) and very high-status victims (civic officials) demonstrate that the chain-accusation logic recognized no social boundaries once started. The records are the most direct evidence available for the internal mechanics of a mass witch trial.",
+  "linked_trial_events": ["bamberg-1626-mass-prosecution"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "levack-witch-hunt-early-modern-2006",
+    "midelfort-witch-hunting-1972",
+    "behringer-witches-witch-hunts-2004",
+    "kors-peters-witchcraft-europe-2001"
+  ],
+  "clark_intellectual_analysis": "The Bamberg records illustrate the practical application of the demonological proof theory developed by Binsfeld and others: the confession as 'queen of proofs,' the acceptability of torture to extract it, and the logical requirement that convicted persons name accomplices (since witchcraft was a conspiracy crime). Clark would note that this was not an irrational procedure but a rigorous application of scholastic legal reasoning to an accepted theological premise — that witches existed in organized communities.",
+  "hutton_social_analysis": "The Bamberg prosecution's penetration into civic elite circles (chancellor, burgomasters) is anomalous from Hutton's social-history perspective: his model of social marginality as vulnerability does not explain why the most powerful men in the city were eventually accused. Midelfort's chain-reaction sociology explains this better: once the prosecutorial logic required naming upward (after the marginal accused had exhausted their social networks), it moved into circles where social standing was no protection.",
+  "ginzburg_interrogation_analysis": "The Bamberg records are a paradigm case for the interrogation-analysis problem: the standardized interrogation procedure, the use of systematic torture, and the Hexenzettel summary forms all produce highly stereotyped confessions that offer very little space for genuine prior belief to emerge. The Johannes Junius letter is the most direct evidence that the confessions were fabricated. The question of what, if anything, is recoverable from Bamberg confessions as evidence of folk belief is essentially unanswerable — the confessions are almost entirely inquisitorially generated.",
+  "source_method": "Stadtarchiv Bamberg and Staatsarchiv Bamberg; Leitschuh's published extracts (1883); contents analyzed in Levack, Briggs, Behringer, and multiple handbook accounts. Johannes Junius letter separately attested in Kors/Peters (2001).",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The total number of executions (estimates range from 200 to 400) is uncertain due to incomplete archival survival. The dating of the prosecution's end (c.1631) is connected to the intervention of the Bamberg Witch Commissioner's reports to the Imperial Chamber Court and the disruption of the Thirty Years' War; the relative weight of these factors in ending the prosecution is debated.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

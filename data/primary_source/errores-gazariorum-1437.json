@@ -1,0 +1,43 @@
+{
+  "id": "errores-gazariorum-1437",
+  "name": "Errores Gazariorum (c.1437)",
+  "document_type": "trial_record",
+  "author": "Anonymous",
+  "author_slug": null,
+  "year_composed": 1437,
+  "year_published": null,
+  "original_language": "Latin",
+  "repository": "Manuscript tradition; principal manuscript: Bibliothèque cantonale et universitaire de Lausanne, MS 1 I 116 (formerly Lausanne, Archives cantonales); published in L'imaginaire du sabbat: Édition critique des textes les plus anciens, ed. Martine Ostorero, Agostino Paravicini Bagliani, and Kathrin Utz Trempe (Lausanne, 1999), pp. 273–362",
+  "scholarly_edition": "Ostorero, Paravicini Bagliani, and Utz Trempe, eds., L'imaginaire du sabbat (1999), pp. 273–362, with critical apparatus",
+  "translation_available": false,
+  "jurisdiction_id": null,
+  "location_id": "valais-vaud",
+  "content_summary": "An anonymous Latin treatise from the western Alpine region (Savoy/Dauphiné/Vaud borderlands), dated c.1437, titled 'The Errors of the Gazarii' ('Gazarii' being a corruption of 'Cathars,' used as a generic term for heretics). The document describes in detail the practices allegedly conducted by a sect of diabolical witches: a formal initiation rite involving renunciation of the faith and homage to a presiding demon in the form of a black cat or man; attendance at nocturnal assemblies (the 'synagogue') where the sect gathers; feasting on murdered children; orgies; the preparation of powders from dead children's flesh used to harm crops, animals, and people; the ability to fly to the assembly on sticks or animals. The document is presented as a summary of confessions extracted from accused persons, though no individual depositions are preserved. It is the earliest known document to combine all elements of the composite witch stereotype: nocturnal assembly, pact with the devil, infanticide, cannibalism, and maleficium.",
+  "key_passages": [
+    {
+      "passage": "Item they make an unguent from the fat of murdered children and from other ingredients, and with it they anoint a stick or a bench, on which they mount and are carried through the air to the place of their assembly.",
+      "significance": "Earliest surviving description of the witch's flight using ointment — combining the flight motif with the child-murder allegation in a way that defines the composite stereotype."
+    },
+    {
+      "passage": "Item at these assemblies, they worship the devil who appears in the form of a black cat or sometimes in the form of a man, kissing him under the tail in sign of homage, and then they dance back to back.",
+      "significance": "The osculum infame (obscene kiss) and demonic assembly in precise form that will recur in trial confessions throughout Europe for the next two centuries."
+    }
+  ],
+  "scholarly_significance": "The Errores Gazariorum is the earliest surviving document to present a fully formed composite witch stereotype — nocturnal flight, sabbath, pact, infanticide, and maleficium combined in a single account. Norman Cohn in Europe's Inner Demons (1975) identified it as crucial evidence for his argument that the composite stereotype was a recent construction of the 1420s–1440s, not an ancient survival. Martine Ostorero's critical edition (1999) is the standard scholarly text. Richard Kieckhefer, Cohn, and Ostorero all treat the Errores as the foundational document for understanding the crystallization of the witch stereotype.",
+  "linked_trial_events": ["valais-witch-trials-1427-1436"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "cohn-europes-inner-demons-1975",
+    "kieckhefer-magic-middle-ages-1989",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "clark_intellectual_analysis": "For Clark, the Errores Gazariorum represents a crucial moment in the intellectual formation of demonological thought: the theological concept of the pact, the legal concept of heretical conspiracy, and the popular image of harmful magic were synthesized into a coherent theological framework. The document's anonymous author is doing intellectual work — creating a category of offence that would organize prosecution for two centuries.",
+  "hutton_social_analysis": "Hutton emphasizes that the Errores Gazariorum represents the Alpine origins of the witch stereotype, in a region with particular social and religious tensions in the aftermath of the Hussite crisis and within the context of Alpine pastoral communities. The document's combination of child-murder with communal feast at the sabbath reflects specific anxieties about the inversion of community bonds.",
+  "ginzburg_interrogation_analysis": "For Ginzburg, the Errores Gazariorum is significant as an early document in a tradition he argues preserves, beneath its inquisitorial overlay, traces of a genuine shamanistic or ecstatic tradition involving nocturnal journeys. Ginzburg argues in Ecstasies (1991) that the 'synagogue' description preserves elements that no inquisitor would have invented — particularly the festive, non-malevolent character of some of the assembly activities. Critically, however, the Errores offers no direct access to what the accused actually said, only a summarized account of alleged confessions.",
+  "source_method": "Latin manuscript in Lausanne cantonal archives; critical edition by Ostorero, Paravicini Bagliani, and Utz Trempe (1999). Contents confirmed by Norman Cohn's analysis in Europe's Inner Demons and subsequent scholarship.",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Dating is approximate — Ostorero places it c.1437 but some scholars argue for a slightly earlier or later date within the 1430s. The geographical origin (Savoy vs. Dauphiné vs. Vaud) is disputed. The key historiographical disagreement is between Cohn (the document represents a wholly invented stereotype) and Ginzburg (it incorporates elements of genuine folk belief) — this is addressed in the sabbath-origins-debate entry.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

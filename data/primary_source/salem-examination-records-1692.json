@@ -1,0 +1,46 @@
+{
+  "id": "salem-examination-records-1692",
+  "name": "Salem Witchcraft Examination Records (1692)",
+  "document_type": "collection",
+  "author": "Jonathan Corwin, John Hathorne, and other magistrates (examiners); Cotton Mather, William Stoughton (related documents)",
+  "author_slug": null,
+  "year_composed": 1692,
+  "year_published": null,
+  "original_language": "English",
+  "repository": "Peabody Essex Museum, Salem, Massachusetts (primary collection); Massachusetts State Archives; Massachusetts Historical Society; transcribed in Paul Boyer and Stephen Nissenbaum, eds., Salem-Village Witchcraft: A Documentary Record of Local Conflict in Colonial New England (1972); digitized at Salem Witch Trials Documentary Archive and Transcription Project (University of Virginia)",
+  "scholarly_edition": "Paul Boyer and Stephen Nissenbaum, eds., Salem-Village Witchcraft: A Documentary Record (1972); Bernard Rosenthal, ed., Records of the Salem Witch-Hunt (Cambridge University Press, 2009)",
+  "translation_available": true,
+  "jurisdiction_id": null,
+  "location_id": "salem",
+  "content_summary": "The surviving legal records from the Salem witch crisis of 1692: examination records of the accused, formal depositions by accusers and witnesses, indictments, jury verdicts, and letters. Approximately 160 persons were accused; 19 were executed by hanging; one man, Giles Corey, was pressed to death for refusing to enter a plea. The examination records (conducted primarily by magistrates John Hathorne and Jonathan Corwin) document the distinctive American pattern: the afflicted accusers — primarily young women of Salem Village — displayed fits during examination, falling to the floor or into apparent convulsions when the accused looked at them. The records show the examinations as essentially coercive — the magistrates proceeded on the assumption of guilt and treated denial as evidence of further deception. The confessions (voluntarily offered by some accused to save their lives) follow a distinctive pattern: sabbath at a meadow, signing the devil's book, afflicting neighbours. The collections include the famous letter from Thomas Brattle (October 1692) criticizing the admission of spectral evidence, which became a key document in the trial's collapse.",
+  "key_passages": [
+    {
+      "passage": "Hathorne: 'Why do you hurt these children?' Tituba: 'I do not hurt them.' Hathorne: 'Who is it then?' Tituba: 'The devil, for aught I know.'",
+      "significance": "The examination of Tituba (an enslaved woman from Barbados or South America) — which produced the first confession and began the escalation — illustrates the coercive examination method and the magistrates' leading questions."
+    },
+    {
+      "passage": "[Thomas Brattle, letter of October 8, 1692:] 'I cannot but admire that any should so far forget themselves... as to admit the testimony of the afflicted persons, whereby any one of the accused was convicted... The prisoners at the bar had the liberty to scratch and bite the accuser; and that they were found so ready to do it, was accounted a proof of guilt.',",
+      "significance": "Brattle's letter is the most important contemporary critique of the trials' evidentiary standards, particularly the admission of 'spectral evidence' (testimony that the accused's spirit appeared to the witness)."
+    }
+  ],
+  "scholarly_significance": "The Salem records are the most extensively studied witch-trial archive in the English-speaking world, partly because of their accessibility (English language, digitized) and partly because of the cultural significance of the Salem crisis in American memory. Boyer and Nissenbaum's social-history analysis (Salem Possessed, 1974) used the examination records and community documents to map the sociological geography of accusation and defence, showing that accusers and accused were concentrated in distinct parts of Salem Village corresponding to different economic and ecclesiastical interests. Bernard Rosenthal's 2009 scholarly edition is now the standard reference for the full record set. The Salem records are exceptional in the witch-trial corpus for their volume and accessibility, but scholars caution against treating them as typical — they are an extreme case in an atypical legal and cultural context.",
+  "linked_trial_events": ["salem-1692-trials"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "boyer-nissenbaum-salem-possessed-1974",
+    "norton-in-devils-snare-2002",
+    "demos-entertaining-satan-1982",
+    "karlsen-devil-shape-woman-1987",
+    "mather-cotton-wonders-1693",
+    "calef-more-wonders-1700"
+  ],
+  "clark_intellectual_analysis": "The Salem examinations reflect a Reformed Protestant demonological framework in which spectral evidence — testimony that the accused's spirit appeared to the witness — was initially treated as admissible. This reflects a specific theological debate about whether the devil could assume the form of an innocent person without their consent. The eventual rejection of spectral evidence (by Increase Mather and others) was itself a theological argument, not merely a legal or rationalist one.",
+  "hutton_social_analysis": "Boyer and Nissenbaum's sociological analysis — the accusation pattern reflecting deep social tensions within Salem Village around agricultural vs. commercial interests, pro- and anti-Parris factions — exemplifies the Hutton-style social analysis of witch accusation as the expression of community conflict. The Salem case is exceptional in the precision with which the social geography of accusation can be reconstructed, making it a particularly vivid illustration of the social mechanisms Hutton describes in English and Scottish cases.",
+  "ginzburg_interrogation_analysis": "The Salem examinations are highly problematic for Ginzburg's recovery method. The examinations were conducted in a performative, quasi-theatrical context (afflicted persons present and reacting during questioning); the magistrates were explicitly hostile to denial; no individual was ever acquitted after examination. The confessions that emerged — particularly the elaborate confessions of the 'confessing' accused who escaped execution — show all the marks of inquisitorially generated testimony. The elements that are potentially recoverable (social tensions, specific neighbourhood conflicts, the religious anxiety of the afflicted girls) come from documentary sources other than the examinations themselves.",
+  "source_method": "Documents held at Peabody Essex Museum, Massachusetts State Archives, and Massachusetts Historical Society; comprehensively transcribed and digitized at the University of Virginia Salem Witch Trials Documentary Archive. Content confirmed by Boyer/Nissenbaum (1972) and Rosenthal (2009) editions.",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Boyer and Nissenbaum's social-geography thesis (accusers and accused concentrated in distinct economic-interest zones) has been significantly complicated by subsequent scholarship (Norton, Rosenthal) showing that the pattern is messier than their binary model suggested. The role of Tituba in initiating the crisis is debated: Elaine Breslaw and others dispute the traditional view that Tituba introduced Caribbean folk magic to the afflicted girls.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "newes-from-scotland-pamphlet-1591",
+  "name": "Newes from Scotland (1591)",
+  "document_type": "pamphlet",
+  "author": "Anonymous (possibly James VI of Scotland or a court author)",
+  "author_slug": null,
+  "year_composed": 1591,
+  "year_published": 1591,
+  "original_language": "English",
+  "repository": "British Library, London (multiple exemplars); reprinted in facsimile in G.B. Harrison, ed., Newes from Scotland (London: Bodley Head, 1924); digitized at Early English Books Online (EEBO)",
+  "scholarly_edition": "G.B. Harrison, ed., Newes from Scotland (1924 facsimile); reprinted in Lawrence Normand and Gareth Roberts, eds., Witchcraft in Early Modern Scotland: James VI's Demonology and the North Berwick Witches (Exeter: University of Exeter Press, 2000)",
+  "translation_available": true,
+  "jurisdiction_id": null,
+  "location_id": "north-berwick",
+  "content_summary": "A printed pamphlet of 26 pages, with woodcuts, published in London in 1591. It presents a popular account of the North Berwick witch trials of 1590–1591, written for a literate English audience. The pamphlet describes: the initial discovery of the conspiracy through the confession of Gilly Duncan; the subsequent interrogation of Agnes Sampson, who confessed under torture to attending a sabbath at North Berwick Kirk with 200 witches and warlocks; the specific charges against the witches — raising storms to wreck the king's ship returning from Denmark; digging up corpses to use in maleficium against James VI; dancing and singing at the church door. The pamphlet includes a dramatic scene in which Agnes Sampson reportedly whispers to James VI the exact words spoken between him and his new queen Anne of Denmark on their wedding night — which James finds convincing proof of supernatural knowledge. The pamphlet presents the trials as a royally endorsed fact and James VI as the specific target of the witches' conspiracy.",
+  "key_passages": [
+    {
+      "passage": "Agnes Sampson confessed that at the time when his Majesty was in Denmark, she took a wax image, and did put the same into the fire, and as the wax consumed and melted in the fire, so should the king's body also waste and consume away.",
+      "significance": "Image magic against a reigning monarch — the political dimension of the North Berwick trials that gave them royal urgency and shaped James VI's later Daemonologie."
+    },
+    {
+      "passage": "She whispered to the king's ear certain words that passed between the king and the queen at Oslo in Norway the first night of their marriage, with the answer each made to other. The king was greatly astonished, and swore by the living God that he believed all the witches in the world could not have discovered the same.",
+      "significance": "A set piece in the pamphlet that functions to establish James's personal conviction of the reality of witchcraft — probably a literary construction rather than a factual account, but historically important as evidence of how the trials were publicly framed."
+    }
+  ],
+  "scholarly_significance": "Newes from Scotland is the primary published popular account of the North Berwick trials and one of the earliest English witch-trial pamphlets with royal endorsement. It is important because: (1) it provides an account of what the public was told about the trials; (2) it illustrates how witch-trial narratives were constructed for popular audiences; (3) it shows the political use of witch prosecution — the trials were framed as a conspiracy against James VI specifically; (4) it influenced James's own Daemonologie (1597) and through that text, the broader Stuart witch-trial culture. Lawrence Normand and Gareth Roberts's critical edition (2000) provides the most thorough scholarly apparatus.",
+  "linked_trial_events": ["north-berwick-1590-trials"],
+  "linked_accused_persons": ["agnes-sampson-north-berwick-1591"],
+  "linked_scholarly_texts": [
+    "james-daemonologie-1597",
+    "goodare-scottish-witch-hunt-2002",
+    "larner-enemies-of-god-1981"
+  ],
+  "clark_intellectual_analysis": "The pamphlet illustrates the political theology of Stuart witch persecution: the witches' conspiracy specifically targeted the king because, in the demonological framework, the king was the primary defender of Christian society and therefore the primary target of Satan's servants. James VI's personal engagement with the trials — whispered secrets, personal interrogation of Sampson — enacted the king's role as demonological warrior that his own Daemonologie would theorize.",
+  "hutton_social_analysis": "The pamphlet's construction of a centralized diabolical conspiracy (200 witches with a specific political agenda) is far from the typical English or Scottish witchcraft accusation, which arose from neighbourhood conflict. The North Berwick trials represent an exceptional, top-down pattern in which the accusation structure was shaped by elite concerns — royal security, political conspiracy — rather than the usual bottom-up dynamic of community accusation.",
+  "ginzburg_interrogation_analysis": "The pamphlet is a literary reconstruction, not a court record. Its whispered-secrets episode is almost certainly a literary invention — too dramatically satisfying and too convenient (confirming the king's belief in witchcraft) to be a verbatim report. The actual interrogation records of Agnes Sampson (where they survive) show a very different picture: gradual and tortured extraction of confession. The pamphlet illustrates how popular print shaped the public reception of witch trials in ways that distorted and mythologized the actual interrogation record.",
+  "source_method": "Published pamphlet, 1591; multiple copies survive in British Library and other collections; digitized at EEBO. Contents analyzed in Normand and Roberts (2000), Larner (1981), and Goodare (2002).",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether James VI authored or heavily contributed to the pamphlet (as some scholars argue) or whether it was written by a court writer with his endorsement (the majority view) is uncertain. The whispered-secrets episode is generally treated by scholars as a literary invention, though Normand and Roberts discuss the possibility that it reflects some actual episode, however distorted in the telling.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

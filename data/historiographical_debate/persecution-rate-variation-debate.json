@@ -1,0 +1,73 @@
+{
+  "id": "persecution-rate-variation-debate",
+  "name": "The Persecution Rate Variation Debate",
+  "question_at_issue": "Why did witch prosecution rates vary so dramatically between regions — with some areas producing hundreds or thousands of executions and others virtually none — during the same period and under nominally similar legal and religious conditions?",
+  "date_range_of_scholarship": "1972–present",
+  "scholarly_positions": [
+    {
+      "scholar_slug": "behringer-wolfgang-b1956",
+      "scholar_name": "Wolfgang Behringer",
+      "position_label": "CONSENSUS",
+      "stance": "Political fragmentation was the key structural variable. The Holy Roman Empire, the most politically fragmented major polity in Europe, produced the highest absolute number of executions because no centralizing court had the power to intervene once a local panic began. Conversely, Spain and Portugal — with powerful central Inquisitions that viewed village witchcraft accusations skeptically — produced almost no witch executions. France's Parlement de Paris had regional authority sufficient to reverse local sentences. England's common law system provided procedural protections. The gradient of prosecution intensity maps closely onto the gradient of political centralization.",
+      "key_work": "Witches and Witch-Hunts: A Global History (2004)",
+      "key_argument": "Prosecutions escalated into mass hunts only where local authorities had both the power to pursue chain accusations and no superior court able to intervene and stop the spiral. The Holy Roman Empire's Kleinstaaterei (petty-state system) was structurally optimal for mass persecution."
+    },
+    {
+      "scholar_slug": "levack-brian-b1943",
+      "scholar_name": "Brian Levack",
+      "position_label": "CONSENSUS",
+      "stance": "A multi-causal model is required. Political structure (central vs. fragmented authority) is important, as Behringer argues, but the nature of the legal process — specifically, whether torture was routinely used to extract the names of accomplices and whether those accomplices were then prosecuted — is equally important in explaining mass trials. The Scottish 1661–1662 panic, in an otherwise centralizing polity, shows that local disruption of the normal appeal structures could create mass persecution even in a relatively centralized state.",
+      "key_work": "The Witch-Hunt in Early Modern Europe (4th ed., 2016)",
+      "key_argument": "Three factors combined to produce mass trials: the cumulative concept (belief in an organized diabolical conspiracy), judicial torture to extract accomplice names, and the absence of a superior court to review and overturn local sentences. When all three were present simultaneously, mass trials resulted."
+    },
+    {
+      "scholar_slug": "midelfort-h-c-erik-b1941",
+      "scholar_name": "H.C. Erik Midelfort",
+      "position_label": "PRECURSOR",
+      "stance": "In southwestern Germany, the escalation of mass trials followed a chain-reaction dynamic: initial executions of the 'usual suspects' (poor, marginal, old women) exhausted that social category; the logic of the diabolical conspiracy then required naming accomplices, which pushed accusations upward into more respectable social strata; once accusations reached persons whose social connections enabled resistance, the chain broke. This dynamic explains both why mass trials happened and why they stopped.",
+      "key_work": "Witch Hunting in Southwestern Germany, 1562–1684 (1972)",
+      "key_argument": "The sociology of the chain reaction is as important as the legal and political framework. Communities were not passive recipients of prosecution — their social structures shaped how panics escalated and ended."
+    },
+    {
+      "scholar_slug": "larner-christina-b1934",
+      "scholar_name": "Christina Larner",
+      "position_label": "SYNTHESIS",
+      "stance": "For Scotland, state-building ambitions were a crucial variable not reducible to the political-fragmentation thesis. The Scottish witch hunt was driven partly by the ambitions of a new national church (the Kirk) to discipline popular religion and by the crown's interest in using witch prosecution as an instrument of social control. The intensity of Scottish prosecution peaks at precisely the moments of greatest political tension around state formation.",
+      "key_work": "Enemies of God: The Witch-Hunt in Scotland (1981)",
+      "key_argument": "State formation and confessional discipline are independent variables that operated in Scotland to intensify prosecution even within a relatively centralized polity. Behringer's fragmentation thesis does not explain the Scottish pattern."
+    },
+    {
+      "scholar_slug": "monter-e-william-b1936",
+      "scholar_name": "E. William Monter",
+      "position_label": "CONSENSUS",
+      "stance": "Legal frameworks — specifically, the presence and authority of appeal courts — explain regional variation better than political fragmentation alone. The Parlement de Paris's skepticism about witch accusations effectively suppressed prosecution in northern France. Geneva's consistorial discipline substituted moral regulation for witch prosecution. Switzerland and Savoy show how the Alpine crucible of the composite stereotype did not inevitably produce mass prosecution — local legal cultures mediated between ideology and action.",
+      "key_work": "Witchcraft in France and Switzerland (1976); Frontiers of Heresy: The Spanish Inquisition from the Basque Lands to Sicily (1990)",
+      "key_argument": "The Spanish Inquisition's systematic skepticism — documented in the Salazar investigation — shows that even a powerful institution with the ideology to prosecute could choose not to, when senior officials reviewed the evidence carefully."
+    }
+  ],
+  "current_consensus": "No single-variable explanation commands consensus, and this is itself the consensus position: witch prosecution rate variation was multi-causal and resists monocausal explanation. The strongest single-variable thesis — Behringer's political fragmentation argument — is widely accepted as an important factor but not a sufficient explanation. The combination of factors identified by Levack (cumulative concept + judicial torture + absence of superior court review) provides the most widely accepted multi-causal framework. Midelfort's chain-reaction sociology, Larner's state-formation thesis, and Monter's legal-culture argument are accepted as important explanations for specific regional patterns without being generalized. The Salazar case in Spain — where an Inquisition skeptic effectively ended Basque prosecution through rigorous evidentiary standards — is the paradigm case for Monter's legal-culture argument.",
+  "consensus_status": "CONTESTED",
+  "counter_arguments": "Religion as a variable (Reformed vs. Catholic prosecution rates) remains contested. Calvinist Reformed churches sometimes prosecuted more intensely than Catholics in equivalent political contexts, and sometimes less. Confessional affiliation does not map cleanly onto prosecution intensity. The role of specific individuals (judges, inquisitors, bishops) in escalating or dampening prosecution also resists structural explanation — individual agency mattered in ways that complicate all structural accounts.",
+  "database_relevance": "This debate is directly relevant to how readers should interpret regional variation in the `trial_event` entries. The `inquisitorial_body` entries document the institutional frameworks (appeal courts, episcopal courts, secular courts, Inquisitions) that Levack and Monter identify as key variables. The `location` entries include `administrative_context` fields that record the political jurisdiction — readers should cross-reference this with prosecution intensity. The contrast between the Holy Roman Empire entries (Bamberg, Würzburg, Ellwangen) and the Spanish entries (Zugarramurdi, the Basque investigations) illustrates the political-structure variable in its sharpest form.",
+  "linked_concepts": [
+    "cumulative-concept-of-witchcraft",
+    "chain-accusation",
+    "judicial-torture",
+    "appeal-courts-and-witch-trials",
+    "political-fragmentation"
+  ],
+  "linked_scholarly_texts": [
+    "behringer-witches-witch-hunts-2004",
+    "levack-witch-hunt-early-modern-2006",
+    "midelfort-witch-hunting-1972",
+    "larner-enemies-of-god-1981",
+    "monter-witchcraft-france-switzerland-1976",
+    "henningsen-witches-advocate-1980"
+  ],
+  "source_method": "Synthesis of secondary scholarly literature; positions characterized from primary scholarly texts",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The CONTESTED status characterization may itself be contested — some scholars consider the multi-causal consensus well-established enough to count as EMERGING_CONSENSUS. The specific weight to be assigned to political structure vs. legal culture vs. individual agency in any given case remains genuinely open.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

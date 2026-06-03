@@ -1,0 +1,72 @@
+{
+  "id": "macfarlane-thomas-charity-refusal-model",
+  "name": "The Macfarlane-Thomas Charity-Refusal Model",
+  "question_at_issue": "Was the dominant mechanism of English witch accusation a specific sequence — refusal of charity to a beggar, the beggar's curse, subsequent misfortune, guilt-projected-as-accusation — arising from the breakdown of communal obligation in post-Reformation England?",
+  "date_range_of_scholarship": "1970–present",
+  "scholarly_positions": [
+    {
+      "scholar_slug": "thomas-keith-b1933",
+      "scholar_name": "Keith Thomas",
+      "position_label": "PRECURSOR",
+      "stance": "The typical English witch accusation followed a specific social script: a neighbourly request (usually for food, drink, or small charity) was refused; the requester left in apparent anger; the refuser later suffered a misfortune (illness, animal death); the refuser then accused the requester of causing the misfortune by witchcraft. The psychological mechanism was guilt — the refuser knew they had violated the norms of Christian neighbourliness, and this guilt was resolved by projecting malevolence onto the person they had wronged. The model is linked to the breakdown of the old communal ethic of charity by the Reformation's individualism and the Poor Law's substitution of institutional for personal charity.",
+      "key_work": "Religion and the Decline of Magic (1971)",
+      "key_argument": "English witch beliefs provided a mechanism for explaining misfortune and resolving social guilt. The accusation inverted the moral order: the person who refused charity — who was in the wrong — became the victim, and the person wronged became the wrongdoer."
+    },
+    {
+      "scholar_slug": "macfarlane-alan-b1941",
+      "scholar_name": "Alan Macfarlane",
+      "position_label": "PRECURSOR",
+      "stance": "The Thomas model is confirmed by quantitative study of the Essex witch-trial records (1560–1680). In the majority of Essex cases, the accusation preceded by a neighbourly interaction gone wrong — a request made, a refusal given, a curse or threat following, a misfortune occurring. The social geography of accusation was always at the village level — accusers and accused were neighbours, not strangers. The pattern confirms Thomas's charity-refusal model as the dominant mechanism for English witch accusation.",
+      "key_work": "Witchcraft in Tudor and Stuart England: A Regional and Comparative Study (1970)",
+      "key_argument": "Quantitative analysis of the Essex records — the first systematic quantitative study of an English county's witch-trial archive — confirms the Thomas model and shows the accusation was structurally embedded in neighbourly relations, not in family, class, or religious conflict."
+    },
+    {
+      "scholar_slug": "sharpe-james-b1945",
+      "scholar_name": "James Sharpe",
+      "position_label": "CONSENSUS",
+      "stance": "The Thomas-Macfarlane model is broadly correct for England but should not be applied mechanically. Many English cases follow the refusal-quarrel-accusation pattern, but not all. Women accused women in many cases where the charity-refusal mechanism is not evident. The model also does not explain why some refusers and not others became accusers, or why most charity refusals did not result in witch accusations.",
+      "key_work": "Instruments of Darkness (1996); 'Witchcraft and Women: Customary or Exceptional?' (article)",
+      "key_argument": "The model is valuable as a modal pattern, not as a universal mechanism. English witch accusation was diverse enough that no single model covers all cases."
+    },
+    {
+      "scholar_slug": "briggs-robin-b1942",
+      "scholar_name": "Robin Briggs",
+      "position_label": "CRITIC",
+      "stance": "The Macfarlane-Thomas model does not export to the Continent. In Lorraine, the dominant pattern was not charity-refusal but a more complex history of conflict between neighbours — quarrels over animals, land, inheritances, medical failures — that sometimes, but not always, followed a charity-refusal sequence. Continental evidence suggests the model is a specifically English pattern arising from specifically English social and religious conditions, not a universal mechanism of witch accusation.",
+      "key_work": "Witches and Neighbours (1996)",
+      "key_argument": "The Lorraine records show that most witch accusations grew from long-running neighbourhood quarrels with multiple incidents on both sides. The Thomas model's clean psychological narrative (guilt → projection → accusation) does not describe what Lorraine interrogation records reveal about accusation genesis."
+    },
+    {
+      "scholar_slug": "hutton-ronald-b1953",
+      "scholar_name": "Ronald Hutton",
+      "position_label": "CONSENSUS",
+      "stance": "Hutton generalizes the Thomas-Macfarlane model into a broader 'bad neighbour' pattern applicable across England and Scotland: the accused witch was typically someone with a reputation for aggressive, persistent, or antisocial behaviour in neighbourhood disputes — the person who 'could not be denied' and was perceived as dangerous when crossed. The specific charity-refusal sequence is one instantiation of this broader pattern.",
+      "key_work": "The Witch (2017)",
+      "key_argument": "The key social variable is reputation, not a specific transaction type. A witch accusation required both a pre-existing social perception of the accused as dangerous and a precipitating event (which might be a charity refusal, or a quarrel over animals, or a medical failure). The Thomas-Macfarlane model captures one important pattern within this broader structure."
+    }
+  ],
+  "current_consensus": "The Macfarlane-Thomas charity-refusal model is accepted as the most important explanatory framework for English witch accusation and broadly validated by the Essex quantitative evidence. It is treated as a significant contribution to understanding the social mechanism of English prosecution. However, the consensus is that the model describes a dominant pattern, not a universal mechanism; that it applies most clearly to England and Scotland, not to Continental Europe; and that subsequent scholarship (Sharpe, Hutton, Briggs) has refined and complicated it without replacing it. The guilt-projection psychological mechanism at the heart of the model is accepted by most historians as a plausible, though not provable, account of the accusers' psychology.",
+  "consensus_status": "SETTLED",
+  "counter_arguments": "The model's psychological mechanism — guilt projection — is inherently difficult to verify from the historical record. Why some refusers accused and most did not is not explained by the model. The model also doesn't address why the accused person was already pre-identified as a potential witch before the charity-refusal incident — the social reputation of the accused as someone who could curse effectively was usually established long before any specific accusation.",
+  "database_relevance": "The `accused_person` entries for English and Scottish cases include `arrest_narrative` fields that often trace the specific precipitating incident; readers should check whether the charity-refusal sequence is present. The `demonological_concept` entries for `maleficium`, `neighbourhood-conflict`, and `social-marginality` are the most directly relevant concepts. Continental accused persons should not be read through the English model — the Lorraine, German, and Scandinavian cases have different accusation dynamics.",
+  "linked_concepts": [
+    "maleficium",
+    "charity-refusal-guilt-mechanism",
+    "neighbourhood-conflict",
+    "social-marginality",
+    "popular-witch-belief"
+  ],
+  "linked_scholarly_texts": [
+    "thomas-religion-decline-magic-1971",
+    "macfarlane-witchcraft-tudor-stuart-1970",
+    "sharpe-instruments-of-darkness-1996",
+    "briggs-witches-neighbours-1996",
+    "hutton-the-witch-2017"
+  ],
+  "source_method": "Synthesis of secondary scholarly literature; positions characterized from primary scholarly texts",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Whether the model should be described as SETTLED or only as EMERGING_CONSENSUS depends on how broadly one interprets 'settled.' The core pattern is universally accepted for England; the psychological mechanism and the limited geographic scope remain interpretive questions rather than empirical settlements.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

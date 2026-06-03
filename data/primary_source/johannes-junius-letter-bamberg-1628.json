@@ -1,0 +1,47 @@
+{
+  "id": "johannes-junius-letter-bamberg-1628",
+  "name": "Letter of Johannes Junius to His Daughter Veronica (1628)",
+  "document_type": "letter",
+  "author": "Johannes Junius",
+  "author_slug": null,
+  "year_composed": 1628,
+  "year_published": null,
+  "original_language": "German",
+  "repository": "Stadtarchiv Bamberg; transcribed in Georg Ludwig Rexius, 'Anzeige und Untersuchung' (1865); published in English in Alan Kors and Edward Peters, eds., Witchcraft in Europe 400–1700: A Documentary History (2001), pp. 449–452",
+  "scholarly_edition": "Kors and Peters, Witchcraft in Europe 400–1700 (2nd ed., 2001), pp. 449–452",
+  "translation_available": true,
+  "jurisdiction_id": "bamberg-prince-bishopric-court",
+  "location_id": "bamberg",
+  "content_summary": "A letter written by Johannes Junius, Bürgermeister of Bamberg, to his daughter Veronica from prison, dated 24 July 1628, shortly before his execution. Junius protests his innocence throughout. He describes in sequence how the interrogations proceeded: confronted with witnesses (his wife and other condemned persons who named him under torture), he denied everything; he was tortured by strappado on three successive occasions; after the third session he confessed to attending a sabbath, renouncing God, and taking a devil's name. He writes that he confessed to things he did not do because 'they would not leave off the torture.' He begs his daughter to work for his posthumous exoneration and instructs her to show the letter to no one. The letter was smuggled out of prison by his jailer. A postscript written in a different hand may be by Veronica herself acknowledging receipt.",
+  "key_passages": [
+    {
+      "passage": "Many hundred thousand good-nights, dearly beloved daughter Veronica. Innocent have I come into prison, innocent have I been tortured, innocent must I die.",
+      "significance": "Explicit protestation of innocence from a man who had already confessed — documenting that confession under torture did not reflect genuine belief or act."
+    },
+    {
+      "passage": "And then came also — God in highest Heaven have mercy — the executioner, and put the thumbscrews on me, both hands bound together, so that the blood ran out at the nails and everywhere, so that for four weeks I could not use my hands, as you can see from the writing.",
+      "significance": "Direct description of torture procedure confirming the coercive mechanism behind the confession."
+    },
+    {
+      "passage": "Now, my dearest child, you have here all my confession and examination, how it took place … all false, all fabricated, so help me God.",
+      "significance": "Explicit statement that the entire confession was fabricated under duress — one of the clearest surviving primary source statements of this from a condemned person."
+    }
+  ],
+  "scholarly_significance": "The Junius letter is among the most important surviving documents in the history of witch trials because it provides first-person testimony from a condemned person explicitly stating that his confession was false and was produced by torture. It is the most frequently cited primary source in teaching and scholarship on the mechanics of coerced confession. Reprinted in virtually every documentary anthology of the witch trials. Used by historians across all schools to demonstrate that torture was decisive in shaping confessions.",
+  "linked_trial_events": ["bamberg-1626-mass-prosecution"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "kors-peters-witchcraft-europe-2001",
+    "levack-witch-hunt-early-modern-2006",
+    "behringer-witches-witch-hunts-2004"
+  ],
+  "clark_intellectual_analysis": "From Clark's intellectual-history perspective, the Junius letter is not primarily evidence about demonological ideas (Junius was not a demonologist) but about the mechanics of how demonological interrogation procedures functioned in practice. It shows that the formal categories of the cumulative concept — sabbath attendance, pact, renunciation of God — were imposed through the interrogation process rather than volunteered by the accused.",
+  "hutton_social_analysis": "Junius's letter documents the social profile of the Bamberg victims: he was a Bürgermeister, a senior civic official, not the marginalized figure typical of earlier waves of prosecution. The Bamberg hunt's penetration into elite civic and ecclesiastical circles illustrates the dynamic by which mass trials, once started, could move upward through social hierarchies rather than remaining confined to the socially vulnerable.",
+  "ginzburg_interrogation_analysis": "The letter is a paradigm case for Ginzburg's interrogation-analysis method applied in reverse: whereas Ginzburg reads interrogation transcripts to find pre-inquisitorial elements beneath the template, the Junius letter explicitly tells us that no such elements existed in this case — the entire confession was inquisitorially generated. It also illustrates the mechanism Ginzburg identifies in Italian benandanti cases: the gradual pressure over multiple sessions by which a resisting deponent was brought to accept the inquisitorial framework.",
+  "source_method": "Manuscript in Stadtarchiv Bamberg; published transcription in Rexius (1865); modern scholarly editions in Kors/Peters (2001) and multiple teaching anthologies. Content of letter confirmed by multiple independent scholarly editions.",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "No serious scholarly disagreement about the letter's authenticity or its contents. Some discussion of whether the postscript is by Veronica or by Junius himself, but this does not affect the main historical import. The letter's evidential value for the claim that confessions were coerced is not contested.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "poznan",
+  "name": "Poznań (Posen)",
+  "modern_country": "Poland",
+  "latitude": 52.4064,
+  "longitude": 16.9252,
+  "location_type": "city",
+  "region": "Greater Poland (Wielkopolska), Polish-Lithuanian Commonwealth",
+  "hover_description": "Major Polish city and judicial centre; site of the largest documented Polish witch trial (1701, 14 executions), in a region that saw some of the most intense Polish witch prosecution of the 18th century.",
+  "panel_description": "Poznań was the capital of Greater Poland (Wielkopolska) and an important judicial centre in the Polish-Lithuanian Commonwealth. The Poznań municipal court and the regional sejmik (noble assembly) courts both prosecuted witchcraft cases. Polish witch trials were concentrated in the seventeenth and eighteenth centuries — later than in most of Western Europe — and the Poznań region was among the most intensively prosecuted areas. The 1701 Poznań mass trial executed 14 persons and represented a peak of prosecution in the region. Polish witch trials differed from Western European patterns in several significant ways: they occurred during a period when Western prosecution had largely ended; they operated within a complex legal structure of competing noble, municipal, and church courts; and the accused were predominantly from peasant and urban poor backgrounds, prosecuted through local municipal courts rather than through church or royal authority.",
+  "administrative_context": "The Polish-Lithuanian Commonwealth had no central authority equivalent to the Parlement de Paris or the Spanish Inquisition that could review and overturn local witch-trial sentences. Municipal courts in cities like Poznań had substantial autonomy in criminal procedure. Witch prosecution in Poland was carried out primarily by urban municipal courts (with the accused often being rural peasants brought to the nearest city for trial) and by szlachta (noble) manorial courts. The absence of centralizing oversight that elsewhere dampened prosecution is identified by Wyporska and Pilaszek as a key structural factor in the late and intense character of Polish prosecution.",
+  "key_trial_events": ["poznan-witch-trials-1701"],
+  "key_accused_persons": [],
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "source_method": "Scholarly synthesis from Wanda Wyporska, Witchcraft in Early Modern Poland, 1500–1800 (2013) and Michał Pilaszek, 'Early Modern Witch-Hunting in Poland: General Outline and New Research Perspectives,' Acta Poloniae Historica 87 (2003). Geographic coordinates verified.",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "benandanti-inquisition-transcripts-1575-1580",
+  "name": "Friulian Inquisition Transcripts: Benandanti Investigations (1575–1580)",
+  "document_type": "interrogation_transcript",
+  "author": "Friulian Inquisition (Fra Felice da Montefalco, inquisitor)",
+  "author_slug": null,
+  "year_composed": 1575,
+  "year_published": null,
+  "original_language": "Italian",
+  "repository": "Archivio della Curia Arcivescovile, Udine (ACU), Fondo S. Uffizio, busta 1, processi 1 and 15; partly transcribed in Carlo Ginzburg, I benandanti (1966), appendices; key excerpts in English in Ginzburg, Night Battles (1983)",
+  "scholarly_edition": "Carlo Ginzburg, I benandanti: Stregoneria e culti agrari tra Cinquecento e Seicento (Turin: Einaudi, 1966); English: Night Battles: Witchcraft and Agrarian Cults in the Sixteenth and Seventeenth Centuries (London: Routledge & Kegan Paul, 1983)",
+  "translation_available": true,
+  "jurisdiction_id": "friulian-inquisition",
+  "location_id": "friuli",
+  "content_summary": "The inquisition case records from two initial investigations of the benandanti in Friuli: the interrogation of Battista Moduco (1575) and Paolo Gasparutto (1580–1581) by the Friulian Inquisitor Fra Felice da Montefalco. The transcripts record multiple interrogation sessions in which Moduco and Gasparutto describe themselves as 'benandanti' — those born with a caul who are compelled to go out on the Ember Days in spirit to do battle with witches and warlocks ('malandanti') in defence of the harvest. They describe the journey as occurring in a trance state, the body lying behind while the spirit goes out; the battles fought with stalks of fennel against the malandanti armed with sorghum stalks; the consequences for the harvest if the benandanti lose. They insist that their activities are good and beneficial, and distinguish themselves sharply from witches. The transcripts show the inquisitor's repeated attempts to assimilate this testimony to the conventional witch-trial framework and the deponents' resistance across multiple sessions before they gradually accept some diabolical elements under sustained pressure.",
+  "key_passages": [
+    {
+      "passage": "We go out and fight on the Ember Days, and we fight for the faith of Christ against witches and warlocks, and if we win, that year the harvests will be abundant, but if we lose, there will be famine.",
+      "significance": "The benandanti's self-description as defenders of Christian fertility against witches — the opposite of what the inquisitor expected — is the key evidence for Ginzburg's argument about genuine folk belief underlying the sabbath."
+    },
+    {
+      "passage": "The inquisitor: 'Do you go out in spirit or in body?' Moduco: 'In spirit; the body remains in bed.' The inquisitor: 'And who commands you to go out?' Moduco: 'A captain who appears in the form of a man, not the devil.'",
+      "significance": "The deponent's insistence on a 'captain' rather than the devil, and on spirit travel rather than bodily flight, illustrates the gap between folk belief and the inquisitor's diabolical template."
+    }
+  ],
+  "scholarly_significance": "These transcripts are the founding documents of Carlo Ginzburg's Night Battles (1966/1983) and remain the most important evidence for his argument that genuine folk beliefs underlie some witch-trial confessions. The benandanti described themselves as fighting for Christianity against witches — a self-image radically at odds with what inquisitors expected and would not have elicited through leading questions. The documents show in detail the process by which sustained inquisitorial pressure gradually reshaped the benandanti's self-description from beneficent night-battlers into conventional witches, providing a rare window onto the mechanism of interrogation-shaped confession. Ginzburg's handling of these documents created the methodology of 'interrogation analysis' that has influenced the entire field.",
+  "linked_trial_events": ["friuli-benandanti-1575-inquisition"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "klaniczay-uses-supernatural-1990",
+    "pocs-between-living-dead-1999"
+  ],
+  "clark_intellectual_analysis": "For Clark, these transcripts illustrate the encounter between a sophisticated theological framework (the inquisitor's) and an entirely different explanatory system (the benandanti's agrarian cosmology). What is intellectually significant is not that one is 'rational' and the other 'irrational,' but that both operated within internally coherent frameworks that were genuinely incommensurable until the interrogation process forced them into contact.",
+  "hutton_social_analysis": "Hutton reads the benandanti within his broader framework of cunning folk: their function was precisely what he describes for cunning folk generally — providing supernatural services to the community in exchange for social standing and gifts. Their self-description as defenders of the harvest confirms that the protective magical role was understood as socially beneficial within the community, distinct from malefic witchcraft.",
+  "ginzburg_interrogation_analysis": "These transcripts are the paradigm case for Ginzburg's method. The diagnostic elements of genuine prior belief are present: the deponents' insistence on a non-diabolical framework across multiple sessions; the positive emotional content of their descriptions (pride in fighting for the faith); the specific agricultural context (Ember Days, harvest battles) that the inquisitor did not supply; the sharp self-distinction from witches. The gradual capitulation under pressure over multiple sessions illustrates how inquisitorially imposed frames eventually overwhelm prior belief in the transcript record.",
+  "source_method": "Archival transcripts in Archivio della Curia Arcivescovile, Udine; contents published and analyzed in Ginzburg's Night Battles. Content confirmed by Ginzburg's published Italian and English editions with archival apparatus.",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "Ginzburg's interpretation of the benandanti as evidence of a shamanistic substrate is contested (see sabbath-origins-debate entry). Some scholars argue the benandanti's distinctive self-image could have developed locally without any pan-Eurasian shamanic tradition as background. The specific claim that these folk beliefs represented a pre-Christian fertility cult layer is challenged by scholars who see them as a local, post-Christian development.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

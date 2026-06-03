@@ -1,0 +1,41 @@
+{
+  "id": "lorraine-trial-records-1580s",
+  "name": "Lorraine Witchcraft Trial Records, Rémy Era (1570s–1600s)",
+  "document_type": "collection",
+  "author": "Lorraine ducal courts; Nicolas Rémy as procureur général (supervising authority)",
+  "author_slug": null,
+  "year_composed": 1576,
+  "year_published": null,
+  "original_language": "French",
+  "repository": "Archives départementales de la Meurthe-et-Moselle (ADMM), Nancy; series B (judicial records), particularly B 3372–8893; analyzed in Robin Briggs, Communities of Belief: Cultural and Social Tension in Early Modern France (1989) and Witches and Neighbours (1996)",
+  "scholarly_edition": "No complete critical edition; extracts and analysis in Robin Briggs, Witches and Neighbours (1996); Communities of Belief (1989); William Monter, 'Toads and Eucharists,' French Historical Studies (2001)",
+  "translation_available": false,
+  "jurisdiction_id": null,
+  "location_id": "lorraine",
+  "content_summary": "The surviving judicial records from the period of Nicolas Rémy's tenure as procureur général of Lorraine (1576–1606), during which he claimed to have prosecuted approximately 900 persons for witchcraft. The ADMM holds hundreds of individual case files (procès) from this period, each typically containing: the formal accusation, a summary of witness depositions from neighbours, one or more interrogation sessions with the accused, the sentence. The records are particularly valuable for the social history of accusation because: (1) torture was used late in the Lorraine process and in many cases not at all, making the pre-confession testimony less systematically coerced than German equivalents; (2) the interrogations include detailed questions about the accused's life, relationships, and community standing, producing extensive social testimony; (3) Briggs's sampling of approximately 400 Lorraine cases from the 1580s–1620s provides the most thorough quantitative analysis of any Continental witch-trial archive in English-language scholarship. The records reveal that most Lorraine witch accusations grew from long-standing neighbourhood quarrels — over animals, healing failures, inheritances, and boundary disputes — that had nothing initially to do with the diabolical framework imposed later by interrogation.",
+  "key_passages": [
+    {
+      "passage": "[Typical accusation structure, composite from Briggs's analysis:] The witness deposes that some five years ago she had a quarrel with the accused over the boundary between their gardens, and that shortly after this the witness's cow gave only blood instead of milk for three weeks, and the witness believes this was caused by the accused's malice.",
+      "significance": "The typical Lorraine accusation form — a prior quarrel, a subsequent misfortune attributed to maleficium — confirms the Macfarlane-Thomas model in a Continental context while also showing important differences (longer timescales, multiple incidents, no charity-refusal specifically)."
+    }
+  ],
+  "scholarly_significance": "The Lorraine records are the principal Continental case study in Robin Briggs's work, the most sophisticated social history of witch accusation in English-language scholarship. Their value lies in: (1) the relative scarcity of torture in early stages, making social testimony more recoverable; (2) the scale — hundreds of individual cases across 30 years — allowing quantitative pattern analysis; (3) Rémy's own published Daemonolatreiae (1595) can be read against the actual case records to see how his prosecutorial narrative shaped or distorted individual cases. Briggs's analysis showed that the witch stereotype was not imposed by an elite on passive victims but arose from genuine community tensions that the accused persons often shared — many accused persons believed themselves to have harmed neighbours through anger or malice even before accepting the diabolical framework.",
+  "linked_trial_events": ["lorraine-witch-trials-remy-1576-1606"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "remy-demonolatry-1595",
+    "briggs-witches-neighbours-1996",
+    "rowlands-witchcraft-narratives-2003",
+    "monter-witchcraft-france-switzerland-1976"
+  ],
+  "clark_intellectual_analysis": "Rémy's Daemonolatreiae (1595) — his systematized account of what he claimed to have learned from 900 prosecutions — can be read as an intellectual-history text in Clark's tradition: Rémy organizing his prosecutorial experience into a coherent demonological framework. Reading the actual case records against Rémy's published systematization shows how the prosecutorial experience was intellectually transformed into demonological theory.",
+  "hutton_social_analysis": "The Lorraine records are the paradigm case for Hutton's social-history approach: they reveal, at a level of granularity unavailable in most trial archives, the specific social conflicts that generated accusations. Briggs's analysis of the records shows that the majority of accusations grew from the 'bad neighbour' pattern — a person with a community reputation for aggressive, persistent, or dangerous behaviour who had a history of quarrels with multiple neighbours. This profile, not deliberate misogynist targeting or poverty alone, is the best predictor of accusation.",
+  "hutton_social_analysis_extension": "Briggs found that in a significant minority of Lorraine cases, the accused persons partly accepted the accusation — they believed they had harmed people through their anger or will, even if they rejected the diabolical framework. This is important for Hutton's argument about popular witch belief: in Lorraine at least, some accused persons shared community beliefs about the dangerous power of ill-wishing.",
+  "ginzburg_interrogation_analysis": "The relative scarcity of torture in early Lorraine interrogations makes these records more useful for Ginzburg's recovery method than German equivalents. Briggs's analysis shows that the accusation narrative (prior quarrel, subsequent misfortune) appears in the early testimony before any formal interrogation under torture, suggesting it reflects genuine community memory rather than being imposed by the interrogator. The theological layer (sabbath, pact) was added later in the process, often only when torture was eventually applied.",
+  "source_method": "Archives départementales de la Meurthe-et-Moselle, Nancy, series B; contents analyzed extensively in Robin Briggs, Witches and Neighbours (1996) and Communities of Belief (1989). Entry based on Briggs's published analysis, not direct archival access.",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The exact number of Rémy's prosecutions is contested — his claim of 900 is from his own preface to Daemonolatreiae and may be exaggerated. Briggs's sampling of the archives found approximately 400 surviving case files from the Rémy period, but archival survival is incomplete. The question of how representative Briggs's sample is of the full prosecution series is methodologically complex.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

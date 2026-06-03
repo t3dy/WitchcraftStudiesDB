@@ -1,0 +1,72 @@
+{
+  "id": "cumulative-concept-formation-debate",
+  "name": "The Cumulative Concept Formation Debate",
+  "question_at_issue": "When and where did the composite witch stereotype — combining diabolical pact, nocturnal sabbath, maleficium, and heretical conspiracy — crystallize into the legal and cultural form that drove mass prosecution?",
+  "date_range_of_scholarship": "1939–present",
+  "scholarly_positions": [
+    {
+      "scholar_slug": "cohn-norman-b1915",
+      "scholar_name": "Norman Cohn",
+      "position_label": "CONSENSUS",
+      "stance": "The cumulative concept — the composite stereotype that combined diabolical pact, sabbath, infanticide, cannibalism, and maleficium into an actionable crime — was formed in the western Alpine region in the 1420s–1440s. Before this, no such composite existed. Prior to the 1420s, sorcery (maleficium) was prosecuted without the sabbath; belief in flight was condemned as illusion by the Canon Episcopi; heretical conspiracy and malefic witchcraft were separate categories. The combination that made mass prosecution possible was an innovation of the 1420s–1440s Alpine inquisitors and secular judges.",
+      "key_work": "Europe's Inner Demons (1975)",
+      "key_argument": "The key documents — the Errores Gazariorum (c.1437), the Formicarius Book V (Nider, c.1437), the Valais trial records — all date from the same time and place (western Alps, 1420s–1440s). This is not coincidence but the moment of invention."
+    },
+    {
+      "scholar_slug": "kieckhefer-richard-b1946",
+      "scholar_name": "Richard Kieckhefer",
+      "position_label": "SYNTHESIS",
+      "stance": "The components of the cumulative concept had distinct histories that Cohn's argument sometimes conflates. The diabolical pact was a theological concept with medieval roots; the sabbath was a more recent construction; maleficium was ancient. The synthesis of these elements in the 1420s–1440s was a real historical event, but it built on components that had been developing in separate streams for centuries. The Alpine crucible was where they combined, not where they were invented ex nihilo.",
+      "key_work": "Magic in the Middle Ages (1989)",
+      "key_argument": "Learned magic, folk magic, theological demonology, and inquisitorial procedure each contributed distinct elements that only combined into the cumulative concept in the 1420s–1440s."
+    },
+    {
+      "scholar_slug": "clark-stuart-b1945",
+      "scholar_name": "Stuart Clark",
+      "position_label": "CONSENSUS",
+      "stance": "Clark does not primarily address the historical question of when the cumulative concept formed but treats it as an intellectual-historical object: a coherent set of ideas that could be analyzed as a system. He implicitly accepts Cohn's approximate dating. His contribution is to show that once formed, the cumulative concept had genuine intellectual coherence — it was not superstition but a sophisticated application of scholastic categories.",
+      "key_work": "Thinking with Demons (1997)",
+      "key_argument": "Whether the cumulative concept was 'invented' in the 1430s or built from earlier elements, by the late fifteenth century it formed a coherent intellectual system that demonologists developed with real philosophical sophistication."
+    },
+    {
+      "scholar_slug": "ostorero-martine-b1965",
+      "scholar_name": "Martine Ostorero",
+      "position_label": "CONSENSUS",
+      "stance": "Archival research on the Alpine trials of the 1420s–1440s confirms and refines Cohn's dating. The Vaud and Valais trials, the Errores Gazariorum, and the Formicarius are the crucible documents. Ostorero's critical editions of these texts provide the most thorough scholarly apparatus for the argument that the 1420s–1440s was the decisive moment.",
+      "key_work": "L'imaginaire du sabbat: Édition critique des textes les plus anciens (with Paravicini Bagliani and Utz Trempe, 1999); Folâtrer avec les démons (1995)",
+      "key_argument": "The convergence of secular and ecclesiastical judges in the Alpine region, the specific political and religious context of the post-Hussite years, and the particular intellectual environment of Basel and Lausanne all explain why the synthesis happened when and where it did."
+    },
+    {
+      "scholar_slug": "nider-johannes-b1380",
+      "scholar_name": "Johannes Nider",
+      "position_label": "PRECURSOR",
+      "stance": "Nider's Formicarius (c.1437), particularly Book V, is a primary source rather than a secondary scholarly position, but it is crucial as the first systematic academic treatment of the new composite witch. Nider was present at the Council of Basel and drew on interrogations conducted by the secular judge Peter of Berne to describe trials in the Valais. His work represents the moment when the new composite stereotype entered the learned mainstream.",
+      "key_work": "Formicarius, Book V (c.1437)",
+      "key_argument": "The cases Nider describes in Book V — children killed and eaten, sabbath assemblies, pact with the devil — combine the elements of the cumulative concept for the first time in a work designed for academic and clerical circulation."
+    }
+  ],
+  "current_consensus": "The scholarly consensus is that the composite witch stereotype crystallized in the 1420s–1440s in the western Alpine region (Vaud, Valais, Savoy, Dauphiné). The key documents are the Errores Gazariorum (c.1437), Nider's Formicarius Book V (c.1437), and the trial records from the Valais published in L'imaginaire du sabbat (1999). Earlier attempts to find the composite stereotype in classical or medieval sources (the Eichstätt trials of 1411, Roman-era slanders against Christians, medieval heresy trials) are now rejected as either misreadings of the evidence or evidence for individual components rather than the composite. The debate about whether the components were 'invented' in the 1420s or were assembled from pre-existing elements (Kieckhefer vs. Cohn) is largely settled in favor of Kieckhefer's more nuanced position — the synthesis was the innovation, not each component.",
+  "consensus_status": "SETTLED",
+  "counter_arguments": "The transmission mechanism from the Alpine crucible to other regions of Europe (how the composite stereotype spread from the Valais to Germany, Scotland, and eventually New England) is less well understood and remains an active research area. The Italian evidence (Nider's use of Bernardino of Siena's Sienese preaching) suggests a more complex geography of origins than the purely Alpine thesis.",
+  "database_relevance": "The `demonological_concept` entries for `cumulative-concept-of-witchcraft`, `witches-sabbath`, and `diabolical-pact` directly reflect the current consensus on this debate. The `trial_event` entries for `valais-witch-trials-1427-1436` and the `scholarly_text` entries for `nider-formicarius-1437` and `cohn-europes-inner-demons-1975` are the key linked entities. `timeline` entries for the 1430s document the specific moments of crystallization.",
+  "linked_concepts": [
+    "cumulative-concept-of-witchcraft",
+    "witches-sabbath",
+    "diabolical-pact",
+    "maleficium",
+    "canon-episcopi"
+  ],
+  "linked_scholarly_texts": [
+    "cohn-europes-inner-demons-1975",
+    "kieckhefer-magic-middle-ages-1989",
+    "nider-formicarius-1437",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002"
+  ],
+  "source_method": "Synthesis of secondary scholarly literature; positions characterized from primary scholarly texts",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "No significant disagreement about the broad consensus. The debate is now largely between those who accept Ostorero's refined archival account and those who want to push the Alpine thesis further back (pre-1420) or extend the geography (including northern Italian trials in the picture earlier).",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "poznan-witch-trials-1701",
+  "name": "Poznań Witch Trials (1701)",
+  "location_id": "poznan",
+  "date_range": "1701",
+  "approximate_executions": 14,
+  "approximate_accused": 20,
+  "year_start": 1701,
+  "year_end": 1701,
+  "jurisdiction": "Poznań municipal court (rada miejska) under Polish-Lithuanian Commonwealth law",
+  "legal_framework": "Municipal criminal procedure under the Polish-Lithuanian Commonwealth; application of Saxon law (Speculum Saxonum) as supplemented by local ordinances; torture authorized and used",
+  "overview": "The 1701 Poznań witch trial was among the largest single witch-trial proceedings in Polish history, executing 14 persons and representing the peak intensity of a broader wave of Polish witch prosecution that lasted from approximately the 1630s to the 1770s. The trial was conducted by the Poznań municipal court under the legal authority of the Polish-Lithuanian Commonwealth, operating in a legal environment that lacked any appellate court equivalent capable of reviewing and halting mass prosecution. The accused were predominantly women from the poorer urban and rural communities around Poznań. Confessions were obtained under torture, and the accused were required to name accomplices, creating a chain-accusation dynamic characteristic of mass trials. The specific precipitating event or events that initiated this particular trial are not recorded in available secondary sources. The trial took place at a period when witch prosecution in Western Europe had largely ended, illustrating the distinctive chronological profile of Polish witch-hunting.",
+  "historiographical_analysis": {
+    "clark_perspective": "The Poznań trial illustrates the late transmission of the cumulative concept of witchcraft into Polish legal and intellectual culture. Demonological ideas reached Poland through learned channels — university-educated clergy, imported legal texts, translated demonological literature — with a significant lag behind Western European developments. By 1701 the intellectual framework that sustained these prosecutions was already being questioned in Western Europe.",
+    "hutton_perspective": "The Poznań trial's accused profile — primarily poor urban and rural women — reflects the same social vulnerability patterns Hutton identifies in English and Scottish cases, transposed into a different legal and social context. The lack of a protective appellate court structure in the Commonwealth meant that the social mechanisms that generated accusations (neighbourhood conflict, medical failures, misfortune attribution) could escalate into mass prosecution without institutional check.",
+    "ginzburg_perspective": "Polish witch-trial confessions from this period have not been subjected to the systematic interrogation analysis that Ginzburg applied to the Friulian benandanti records. The question of what Polish folk beliefs underlie the confession content — whether there were Polish equivalents to the benandanti's ecstatic traditions — is an open research question. Pócs's work on Hungarian and Carpathian folk beliefs suggests a rich tradition of shamanic-type practices in the broader region."
+  },
+  "accusation_patterns": {
+    "primary_accusations": ["maleficium against neighbours", "causing illness in livestock", "causing death or illness", "sabbath attendance", "pact with devil"],
+    "gender_profile": "Predominantly female accused, consistent with the general Polish pattern documented by Pilaszek (approximately 75–80% female among executed Polish witches).",
+    "social_profile": "Urban and rural poor; some cases involved village healer-practitioners (znachorki) accused of crossing from healing to harming.",
+    "accusation_trigger": "Precise precipitating events not documented in available secondary sources; likely involved neighbourhood misfortune attribution and chain accusation under torture."
+  },
+  "key_accused_persons": [],
+  "related_demonological_concepts": [
+    "maleficium",
+    "diabolical-pact",
+    "chain-accusation"
+  ],
+  "primary_sources": "Poznań municipal court records (Archiwum Państwowe w Poznaniu, Akta Rady Miejskiej); not comprehensively published",
+  "source_method": "Secondary scholarship: Wanda Wyporska, Witchcraft in Early Modern Poland, 1500–1800 (Basingstoke: Palgrave Macmillan, 2013); Michał Pilaszek, 'Early Modern Witch-Hunting in Poland: General Outline and New Research Perspectives,' Acta Poloniae Historica 87 (2003), pp. 5–52; Bohdan Baranowski, Procesy czarownic w Polsce w XVII i XVIII wieku (Łódź, 1952)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_sources": [
+    "ankarloo-clark-vol4-witch-trials-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "scholarly_disagreement": "The specific number of executions (14) is from Pilaszek's synthesis; Baranowski's earlier Polish-language scholarship gives somewhat different figures. The Poznań trial is documented in Polish-language scholarship that has not been comprehensively translated or analyzed in English-language studies. The characterization of this as 'among the largest single proceedings' in Polish history is based on Pilaszek's survey but the Polish archival record is not fully catalogued.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

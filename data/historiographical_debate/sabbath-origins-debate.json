@@ -1,0 +1,74 @@
+{
+  "id": "sabbath-origins-debate",
+  "name": "The Sabbath Origins Debate",
+  "question_at_issue": "Was the witches' sabbath an elite construction imposed through interrogation, or did it incorporate genuine elements of popular belief — specifically a shamanistic or ecstatic folk tradition involving nocturnal journeys?",
+  "date_range_of_scholarship": "1939–present",
+  "scholarly_positions": [
+    {
+      "scholar_slug": "cohn-norman-b1915",
+      "scholar_name": "Norman Cohn",
+      "position_label": "PRECURSOR",
+      "stance": "The witches' sabbath was entirely a fabrication by inquisitors and theologians, recycling ancient slanders (applied to early Christians, then to Cathars and Jews) into a composite stereotype. No real folk practice or belief corresponded to it. The myth of the organized devil-worshipping sect was a projection of elite anxieties, not a distorted reflection of popular religion.",
+      "key_work": "Europe's Inner Demons (1975)",
+      "key_argument": "The sabbath stereotype was constructed wholesale by inquisitors between the 1420s and 1440s by combining theological concepts (diabolical pact) with ancient slanders (nocturnal orgies, infanticide, cannibalism) previously applied to heretics. It had no empirical basis in folk practice."
+    },
+    {
+      "scholar_slug": "ginzburg-carlo-b1939",
+      "scholar_name": "Carlo Ginzburg",
+      "position_label": "DISSENT",
+      "stance": "The sabbath incorporated genuine elements of a widespread Eurasian shamanistic tradition involving ecstatic nocturnal journeys to fight for fertility, communicate with the dead, or travel to an otherworld. Beneath the inquisitorial overlay of diabolism, confessions preserve traces of real folk belief. The benandanti of Friuli are the key evidence: they described nocturnal battles in terms that do not fit the inquisitorial template and had to be pressured across multiple sessions to accept the diabolical frame.",
+      "key_work": "Night Battles (1983); Ecstasies: Deciphering the Witches' Sabbath (1991)",
+      "key_argument": "A morphological comparison of ecstatic traditions across Eurasia (benandanti, Hungarian táltos, Livonian werewolves, Ossetian burkudzäutä) reveals a common shamanistic substrate. Inquisitors did not invent this substrate; they reinterpreted it diabolically."
+    },
+    {
+      "scholar_slug": "kieckhefer-richard-b1946",
+      "scholar_name": "Richard Kieckhefer",
+      "position_label": "SYNTHESIS",
+      "stance": "Kieckhefer distinguishes between the learned and popular components of witch belief. The diabolical pact and heretical conspiracy were elite, theological constructions; some elements of folk magic (maleficium, healing, divination) were real practices. The sabbath as a composite image was constructed by learned interrogators who imposed their categories onto diverse popular practices. The synthesis is not between Cohn and Ginzburg but rather a more granular analysis of which elements were elite impositions and which were folk substrates.",
+      "key_work": "Magic in the Middle Ages (1989)",
+      "key_argument": "The learned and popular traditions were always distinct but interacted — popular practitioners did real things; elite demonologists reinterpreted them through a diabolical framework that was genuinely alien to the practitioners."
+    },
+    {
+      "scholar_slug": "wilby-emma-b1965",
+      "scholar_name": "Emma Wilby",
+      "position_label": "CONSENSUS",
+      "stance": "Agrees with Ginzburg that genuine visionary experiences underlie some sabbath confessions, but grounds this in the specific culture of cunning folk and their familiars rather than in a pan-Eurasian shamanism. Argues that the visionary tradition was real and widespread among lower-class magical practitioners in early modern Britain and Europe, and that this tradition provided the raw material that inquisitors and demonologists shaped into the sabbath stereotype.",
+      "key_work": "Cunning Folk and Familiar Spirits (2005); The Visions of Isobel Gowdie (2010)",
+      "key_argument": "The shamanic or visionary tradition need not be traced to a common Eurasian origin (as Ginzburg argues) to be real — the folk visionary culture of cunning folk provides sufficient local explanation for the raw material of sabbath confessions."
+    },
+    {
+      "scholar_slug": "behringer-wolfgang-b1956",
+      "scholar_name": "Wolfgang Behringer",
+      "position_label": "SYNTHESIS",
+      "stance": "Sees strong regional variation: some regions (Alpine, Friulian) had genuine folk beliefs about night journeys that inquisitors reinterpreted diabolically; in other regions the sabbath was more clearly imposed through the interrogation process. Neither a universal folk substrate nor a universal elite fabrication explains the evidence across all regions.",
+      "key_work": "Shaman of Oberstdorf (1998); Witches and Witch-Hunts (2004)",
+      "key_argument": "Chonrad Stoeckhlin's case in Oberstdorf (1586–1587) is a paradigm case of an individual with genuine visionary experiences being gradually incorporated into the diabolical framework through clerical pressure over multiple interrogation sessions."
+    }
+  ],
+  "current_consensus": "A genuine synthesis has emerged that accepts elements from both Cohn and Ginzburg. Cohn's core claim — that the composite sabbath stereotype was an elite construction of the 1420s–1440s, not a survival of ancient or medieval practice — is broadly accepted. Ginzburg's claim — that some folk practitioners had genuine visionary experiences or beliefs about nocturnal journeys, which inquisitors reinterpreted diabolically — is also broadly accepted. The debate is now about proportion and specificity: how much of any given confession reflects genuine prior belief versus the interrogator's template, and whether the folk substrate was a coherent 'shamanistic' tradition (Ginzburg's strong claim) or a looser set of visionary practices (Wilby's more cautious version). Cohn's extreme position — that no folk practice of any kind underlies the confessions — is no longer defensible given the benandanti evidence and the Oberstdorf case.",
+  "consensus_status": "EMERGING_CONSENSUS",
+  "counter_arguments": "Ginzburg's specific claim of a pan-Eurasian shamanistic tradition with a common Eurasian origin remains contested and has not been widely accepted in its strong form. The morphological comparison method he uses is criticized for finding patterns across very different cultural contexts. Additionally, even accepting that some folk beliefs were genuine, the interrogation analysis problem remains: we cannot reliably distinguish genuine prior belief from inquisitorially imposed confession in most individual cases.",
+  "database_relevance": "This debate directly affects how to interpret the `confession_content` fields in `accused_person` entries and the `key_passages` in `primary_source` confession documents. Readers should treat the explicitly diabolical elements of confessions (sabbath attendance, pact signature, intercourse with the devil) as primarily inquisitorially generated. Elements not called for by the standard template — specific named neighbours, grievances, local landscape details, descriptions of activities with positive emotional valence — are more likely to reflect genuine testimony. The `healer_practitioner` entries are the most relevant for assessing the Ginzburg-Wilby folk substrate argument.",
+  "linked_concepts": [
+    "witches-sabbath",
+    "diabolical-pact",
+    "cumulative-concept-of-witchcraft",
+    "benandanti",
+    "night-flying"
+  ],
+  "linked_scholarly_texts": [
+    "cohn-europes-inner-demons-1975",
+    "ginzburg-night-battles-1983",
+    "ginzburg-ecstasies-1991",
+    "kieckhefer-magic-middle-ages-1989",
+    "wilby-cunning-folk-2005",
+    "behringer-shaman-oberstdorf-1998",
+    "pocs-between-living-dead-1999"
+  ],
+  "source_method": "Synthesis of secondary scholarly literature; positions characterized from primary scholarly texts",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "There is some disagreement about whether the debate is best framed as Cohn vs. Ginzburg or whether this binary obscures a more complex picture of regional variation. Behringer argues that the binary framing is itself a problem. Ostorero's archival work on Alpine cases somewhat supports Cohn's position on the constructed character of the early stereotype.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

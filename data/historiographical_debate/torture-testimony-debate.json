@@ -1,0 +1,72 @@
+{
+  "id": "torture-testimony-debate",
+  "name": "The Torture-Testimony Debate",
+  "question_at_issue": "Does torture so decisively determine the content of witch-trial confessions that they reveal nothing recoverable about the accused's prior beliefs, or can historical methods identify authentic testimony beneath the inquisitorially imposed layer?",
+  "date_range_of_scholarship": "1975–present",
+  "scholarly_positions": [
+    {
+      "scholar_slug": "ginzburg-carlo-b1939",
+      "scholar_name": "Carlo Ginzburg",
+      "position_label": "CONSENSUS",
+      "stance": "A careful reading method can recover pre-inquisitorial elements from tortured confessions. The diagnostic test is: identify elements that do not fit the inquisitorial template — details the interrogator would not have supplied, descriptions of activities with positive emotional valence (feasting, dancing, fertility), geographically and socially specific details, and elements that the accused resisted across multiple sessions before accepting. These 'survivals' provide genuine evidence of prior folk belief.",
+      "key_work": "Night Battles (1983); The Cheese and the Worms (1980)",
+      "key_argument": "The benandanti of Friuli insisted across repeated sessions that their nocturnal battles were good and socially beneficial — this is not what the inquisitor wanted to hear, and the persistence of this claim against inquisitorial pressure makes it credible as genuine prior belief."
+    },
+    {
+      "scholar_slug": "peters-edward-b1936",
+      "scholar_name": "Edward Peters",
+      "position_label": "DISSENT",
+      "stance": "Torture was specifically designed to produce the expected confession and largely succeeded. The judicial torture process, as Peters traces from Roman law through medieval canon law to early modern practice, was a truth-extraction mechanism premised on the idea that confession was the 'queen of proofs.' In this framework, the tortured testimony reflects the inquisitor's questions, not the accused's authentic beliefs.",
+      "key_work": "Torture (1985); Inquisition (1988)",
+      "key_argument": "Legal torture operated within a procedural framework that predetermined the content of acceptable confessions. The leading questions, the specific charges, and the iterative confrontation process all shaped what the accused could and could not say."
+    },
+    {
+      "scholar_slug": "briggs-robin-b1942",
+      "scholar_name": "Robin Briggs",
+      "position_label": "SYNTHESIS",
+      "stance": "Most Lorraine confessions (where torture was used sparingly compared to the German mass trials) reveal social tensions, specific neighbours, personal histories of conflict, and economic grievances that no interrogator supplied. This social layer of the confession is recoverable and historically valuable. The theological framework — sabbath, pact, intercourse with the devil — is inquisitorially imposed. The two layers can often be distinguished by their specificity and social coherence.",
+      "key_work": "Witches and Neighbours (1996); Communities of Belief (2010)",
+      "key_argument": "The Lorraine records are particularly valuable because torture was used late in the process or not at all in many cases; the confessions are less systematically coerced, which makes them more useful for recovering genuine community tensions and social beliefs."
+    },
+    {
+      "scholar_slug": "gaskill-malcolm-b1967",
+      "scholar_name": "Malcolm Gaskill",
+      "position_label": "CONSENSUS",
+      "stance": "Confessions must be read as documents of encounter between inquisitorial expectations and the accused's world, not as unmediated testimony. The social layer — specific details about neighbours, grievances, and community relationships — is the most recoverable element. The theological layer is primarily an imposed framework. Careful contextual reading can recover something of the accused's world without treating confessions as transparent testimony.",
+      "key_work": "Witchfinders: A Seventeenth-Century English Tragedy (2005); Crime and Mentalities in Early Modern England (2000)",
+      "key_argument": "Even heavily coerced confessions embed details about the accused's social world that the interrogator did not control. These details — specific names, specific grievances, specific landscapes — are the most valuable element for the historian."
+    },
+    {
+      "scholar_slug": "clark-stuart-b1945",
+      "scholar_name": "Stuart Clark",
+      "position_label": "CONSENSUS",
+      "stance": "Clark is relatively uninterested in this debate because his intellectual-history approach focuses on what demonologists believed and wrote, not on what accused persons believed. But he implicitly accepts that interrogation shaped confession content, because his argument that demonological ideas were intellectually coherent rests on reading the academic treatises rather than the trial records.",
+      "key_work": "Thinking with Demons (1997)",
+      "key_argument": "The key texts for understanding witch prosecution are the academic demonological works, not the trial records — because the trial records tell us about the interaction between elite categories and accused persons, not about elite ideas in their own right."
+    }
+  ],
+  "current_consensus": "Torture is now universally accepted as having decisively shaped the content of confessions in jurisdictions where it was used systematically. The Johannes Junius letter, among other evidence, demonstrates that confessions were fabricated under duress even by individuals who explicitly knew them to be false. The question of what, if anything, is recoverable has a more nuanced answer: the scholarly consensus, represented by Briggs, Gaskill, and Ginzburg (cautiously), is that the social layer of confessions — specific neighbours, specific grievances, specific local landscapes — is more recoverable than the theological layer. Ginzburg's recovery method is accepted in principle but used cautiously and skeptically by most practitioners. Peters's extreme position — that nothing is recoverable — is not widely accepted because it cannot explain the specificity and social coherence of the non-theological confession elements.",
+  "consensus_status": "SETTLED",
+  "counter_arguments": "Even accepting the distinction between recoverable social layers and inquisitorially imposed theological layers, methodological doubts remain: the accusation narrative (X harmed my cow after I refused to give her milk) was also shaped by the interrogator's leading questions, not only the theological framework. The accuser's own social prejudices and expectations shaped what they reported before the interrogator could impose anything. The 'authentic' layer may be more deeply mediated than the Ginzburg-Briggs approach assumes.",
+  "database_relevance": "This debate is directly relevant to all `accused_person` entries with `confession_content` fields. Readers should treat `confession_content` as a field describing what the accused confessed to (including the inquisitorially imposed framework), not necessarily what they believed or did. The `ginzburg_interrogation_analysis` fields in entries attempt to apply Ginzburg's method to identify which elements of specific confessions are more versus less likely to reflect genuine prior belief. The `interrogation_and_confession` narrative sections note where torture was used and how this shapes the evidentiary status of the content.",
+  "linked_concepts": [
+    "torture-and-confession",
+    "diabolical-pact",
+    "witches-sabbath",
+    "confession-as-proof",
+    "leading-questions"
+  ],
+  "linked_scholarly_texts": [
+    "ginzburg-night-battles-1983",
+    "ginzburg-cheese-worms-1980",
+    "briggs-witches-neighbours-1996",
+    "kors-peters-witchcraft-europe-2001",
+    "levack-witch-hunt-early-modern-2006"
+  ],
+  "source_method": "Synthesis of secondary scholarly literature; positions characterized from primary scholarly texts",
+  "review_status": "REVIEWED",
+  "confidence": "HIGH",
+  "scholarly_disagreement": "No disagreement about the existence and importance of this debate. The characterization of Peters as the 'skeptical' position and Ginzburg as the 'recovery method' position is standard in the field. Some scholars would locate Briggs closer to Peters than to Ginzburg on methodological grounds, since Briggs's recovery claims are more limited.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}

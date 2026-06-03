@@ -1,0 +1,40 @@
+{
+  "id": "trier-trial-records-1586-1594",
+  "name": "Trier Witch-Trial Records (1586–1594)",
+  "document_type": "collection",
+  "author": "Trier electoral court; Bishop Peter Binsfeld (supervising authority); Cornelius Loos (contemporary critic)",
+  "author_slug": null,
+  "year_composed": 1586,
+  "year_published": null,
+  "original_language": "Latin",
+  "repository": "Landeshauptarchiv Koblenz (principal collection); Stadtbibliothek Trier; partly analyzed in H.C. Erik Midelfort, 'Heartland of the Witchcraze: Central and Northern Europe,' History Today 31 (1981); documented in Georg Lercheimer (Hermann Witekind), Christlich Bedencken (1585) and Cornelius Loos, De vera et falsa magia (1592, suppressed manuscript)",
+  "scholarly_edition": "No complete modern critical edition; documents analyzed in Brian Levack, The Witch-Hunt in Early Modern Europe (4th ed., 2016) and Midelfort's regional studies",
+  "translation_available": false,
+  "jurisdiction_id": null,
+  "location_id": "trier",
+  "content_summary": "The surviving records from the Trier witch hunt of 1581–1593, one of the most intensive prosecution campaigns in the Holy Roman Empire. Under Archbishop Johann von Schönenberg and his suffragan Bishop Peter Binsfeld, the electoral diocese of Trier executed an estimated 368 persons (the figure of 'more than 300 villages' stripped of inhabitants is a contemporary exaggeration). The records include: indictment records for individual accused persons; interrogation transcripts showing the chain-accusation process by which convicted persons were compelled to name accomplices; execution records for the villages of Konz, Saarburg, and Schweich, where virtually all adult inhabitants were prosecuted. The records document the progressive escalation as accusation chains moved upward from village cunning folk and beggars to respected civic figures, clergy, and eventually the chancellor and two burgomasters of Trier. The contemporary account by Cornelius Loos (De vera et falsa magia, 1592) — a suppressed critique written by a Trier canon — argues that the confessions were fabricated under torture and that innocent people were dying. Loos was forced to publicly recant before Binsfeld.",
+  "key_passages": [
+    {
+      "passage": "[From Cornelius Loos, De vera et falsa magia, 1592:] 'Wretched creatures are compelled by the severity of the torture to confess things they have never done, and so by the cruel butchery innocent lives are taken; and, by a new alchemy, gold and silver are coined from human blood.'",
+      "significance": "One of the earliest sustained contemporary critiques of witch-trial procedures, written from inside the prosecuting jurisdiction, suppressed immediately. Anticipates Spee's Cautio Criminalis by 40 years."
+    }
+  ],
+  "scholarly_significance": "The Trier records document one of the most destructive mass prosecutions in German history and are important for several reasons: (1) they illustrate the chain-accusation mechanism operating at industrial scale — the systematic extraction of accomplice names through torture that drove mass trials; (2) they document the social escalation from marginal persons upward into civic elites, including clergy and officials; (3) they contain the suppressed Loos critique, which shows that contemporary dissent was possible and was actively silenced; (4) they are the context for Bishop Binsfeld's Tractatus de Confessionibus Maleficorum (1589), which provided the theological justification for accepting tortured confessions. The records are analyzed in Midelfort's regional studies and Levack's comparative synthesis.",
+  "linked_trial_events": ["trier-witch-trials-1581-1593"],
+  "linked_accused_persons": [],
+  "linked_scholarly_texts": [
+    "binsfeld-tractatus-1589",
+    "spee-cautio-criminalis-1631",
+    "levack-witch-hunt-early-modern-2006",
+    "midelfort-witch-hunting-1972"
+  ],
+  "clark_intellectual_analysis": "The Trier prosecution operated under Binsfeld's theological framework — the Tractatus de Confessionibus — which Clark identifies as a serious intellectual contribution to the systematization of demonological proof theory. Binsfeld's argument that tortured confessions were admissible because witchcraft was crimen exceptum (exceptional crime) and because the devil could not compel innocent persons to confess was a genuine theological argument within the scholastic tradition, not mere opportunism.",
+  "hutton_social_analysis": "The Trier hunt shows the social dynamics of chain-accusation in their most extreme form. The prosecution began with the typical social profile (poor, marginal, female) but its chain-accusation logic drove it upward to encompass civic leadership. This illustrates Midelfort's chain-reaction model: the logic of the diabolical conspiracy, once accepted, could not stop at social boundaries.",
+  "ginzburg_interrogation_analysis": "Loos's contemporary critique provides unusual corroborating evidence for what Ginzburg's method infers from structural analysis: the confessions were fabricated under torture. Loos was present during the prosecutions and saw the mechanism from the inside. His suppression illustrates how the institutional commitment to the confession-as-proof framework insulated the prosecution from critique at the moment it operated.",
+  "source_method": "Landeshauptarchiv Koblenz and Stadtbibliothek Trier archives; contents analyzed in Midelfort, Levack, and Binsfeld's published Tractatus. Loos text in British Museum manuscript; described in George Lincoln Burr, 'The Fate of Dietrich Flade' (1890).",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "scholarly_disagreement": "The exact number of executions at Trier is contested — figures range from 306 to 1,000 in various sources. Midelfort's careful regional analysis suggests the lower figure is more defensible. The geographic extent of the prosecution within the electorate is also not fully mapped.",
+  "created_date": "2026-06-03",
+  "last_modified": "2026-06-03"
+}
