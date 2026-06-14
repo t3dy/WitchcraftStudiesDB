@@ -4,16 +4,18 @@
 
 | Type | Count | ID Pattern | Example |
 |------|-------|------------|---------|
-| `trial_event` | 36 | `trial-location-year` | `bamberg-1626-mass-prosecution` |
-| `accused_person` | 43 | `name-location-year` | `margaretha-binder-bamberg-1626` |
+| `trial_event` | 37 | `trial-location-year` | `bamberg-1626-mass-prosecution` |
+| `accused_person` | 45 | `name-location-year` | `margaretha-binder-bamberg-1626` |
 | `demonological_concept` | 53 | `concept-name` | `witches-sabbath-collective` |
 | `demonological_scholar` | 60 | `surname-firstname-bYYYY` | `ginzburg-carlo-b1939` |
 | `scholarly_text` | 58 | `surname-title-word-year` | `clark-thinking-with-demons-2001` |
-| `location` | 40 | `location-name` | `bamberg` |
+| `location` | 41 | `location-name` | `bamberg` |
 | `healer_practitioner` | 33 | `name-location-tradition` | `gaspar-tagliacarne-friuli-benandante` |
 | `persecuted_group` | 35 | `group-descriptor-scope` | `widows-early-modern` |
 | `inquisitorial_body` | 40 | `institution-name` | `venetian-inquisition` |
 | `timeline` | 68 | `event-descriptor-year` | `malleus-maleficarum-published-1487` |
+| `primary_source` | 10 | `slug-name-location-year` | `johannes-junius-letter-bamberg-1628` |
+| `historiographical_debate` | 8 | `debate-keyword` | `sabbath-origins-debate` |
 
 ## JSON Conventions
 
