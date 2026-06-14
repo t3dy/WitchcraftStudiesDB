@@ -1,0 +1,105 @@
+{
+  "id": "bernardino-of-siena-b1380",
+  "name": "Bernardino of Siena",
+  "birth_year": 1380,
+  "death_year": 1444,
+  "birth_place": "Massa Marittima, Tuscany, Republic of Siena",
+  "academic_discipline": "Theology; Moral Theology; Pastoral Preaching",
+  "primary_institution": "Franciscan Order (Observant branch); itinerant preaching throughout central and northern Italy",
+  "specialization": "Popular moral reform preaching; integration of maleficium and diabolism with heresy in vernacular sermon tradition; early transmission of learned demonological categories to lay audiences",
+
+  "major_works": [
+    {
+      "title": "Sermones de evangelio aeterno (Prediche volgari sul Campo di Siena, 1427)",
+      "year": 1427,
+      "publisher": "Manuscript; preached in the Campo of Siena, August-September 1427; recorded by a notary and later transcribed",
+      "significance": "Forty-five vernacular sermons delivered to mass public audiences in Siena, containing several sermons explicitly attacking maleficium, sortilegium, and diabolical pact; the earliest major vernacular preaching campaign to treat witchcraft as a diabolical heresy equivalent to apostasy, linking popular magic practice to the learned demonological tradition",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "De idololatria (from Opera Omnia, Sermon 28 on the Eternal Gospel)",
+      "year": 1431,
+      "publisher": "Written in Latin; collected in Opera Omnia (Venice, 1745)",
+      "significance": "Latin doctrinal treatise on idolatry, magic, and diabolical pact, synthesizing scholastic demonological categories and providing the theological grounding for his popular preaching against witchcraft and folk magic practitioners",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "ADVOCATE",
+
+  "core_argument": "Bernardino's Sienese sermons of 1427 argued that practitioners of maleficium — including cunning folk, healers, and those who sought magical remedies — had implicitly or explicitly entered into a pact with the devil, making them apostates from Christianity regardless of their intentions. His contribution was not doctrinal novelty but the mass popularization of an equation already forming in learned circles: that popular magic, however apparently beneficial, constituted heresy because its efficacy derived from diabolical agency. By preaching this doctrine in the vernacular to thousands in public squares, Bernardino served as a critical transmission vector carrying elite demonological categories downward into popular culture, while simultaneously reflecting and amplifying popular anxieties about maleficium upward into the learned tradition.",
+
+  "methodological_approach": {
+    "primary_materials": "Franciscan pastoral and penitential theology; scholastic demonological tradition from Aquinas and the Dominican tradition; popular vernacular cases drawn from confession and pastoral experience; Canon Episcopi and its canonical commentary tradition",
+    "analysis_target": "The moral and spiritual dangers of magic and diabolism in everyday lay life; the pastoral obligation to identify and condemn diabolical practice among the laity",
+    "evidence_type": "Casuistic moral illustration; popular anecdote and exemplum; scholastic citation; biblical and canonical authority",
+    "explanatory_level": "Pastoral-moral; Bernardino organized demonological categories for didactic popular preaching rather than systematic theological inquiry"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Vernacular mass popularization of the maleficium-heresy equation",
+      "claim": "Bernardino preached to audiences of thousands in Italian city squares, translating into vernacular Italian the scholastic doctrine that all magical efficacy derived from diabolical pact and thus constituted apostasy. This was not merely a repetition of elite demonological arguments but a pastoral campaign explicitly designed to produce popular recognition that folk magic practitioners — including the community's healers and cunning folk — were devil-worshippers.",
+      "implication": "Bernardino represents a crucial link in the formation of the composite witch stereotype: by mass-marketing the maleficium-heresy equation to lay audiences, he helped create the popular demand for prosecution that gave judicial and inquisitorial proceedings their social legitimacy. His Siena sermons took place in 1427, the same year that early Alpine witch trials were being documented — placing him within the foundational moment identified by Kieckhefer and Cohn."
+    },
+    {
+      "concept": "Preaching as demonological transmission channel",
+      "claim": "Bernardino's sermons provide documented evidence that learned demonological theory was circulating in popular form before the first major printed demonologies. His 1427 campaign predates the Formicarius (c.1437) and the Malleus (1486) and suggests that the composite witch stereotype was being simultaneously constructed from above (learned theology) and transmitted downward (popular preaching) in the 1420s–1430s.",
+      "implication": "For historians of the composite stereotype's formation, Bernardino complicates narratives of purely top-down clerical construction: popular preaching was both transmitting elite theory and responding to genuine lay concern, making the process of stereotype formation a two-directional exchange."
+    },
+    {
+      "concept": "Named denunciation of diviners, soothsayers, and cunning folk as diabolists",
+      "claim": "In several of the 1427 Siena sermons, Bernardino explicitly named categories of popular practitioners — those who cast lots, healed with charms, used herbal remedies with ritual words — as participants in diabolical compact, demanding that lay Christians denounce them to ecclesiastical authorities. This anticipates the pastoral-inquisitorial apparatus that would later systematize in the Malleus.",
+      "implication": "Bernardino's sermons contributed to the criminalization of a spectrum of folk practices that had previously occupied an ambiguous status in pastoral theology, helping to establish the prosecutorial categories that would govern later inquisitorial procedure."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "popular_culture_interface": "Bernardino's sermons survive in notarial transcription, preserving both the Latin doctrinal framework and the vernacular Italian delivery. This textual form — recording popular preaching for an educated audience — itself embodies the two-level character of fifteenth-century demonological culture: elite theology translated into popular idiom.",
+    "canon_episcopi": "Unlike later systematizers, Bernardino did not directly engage with the Canon Episcopi's skepticism about night-flight; his focus was on the moral and spiritual status of diabolical pact rather than the metaphysics of nocturnal assemblies.",
+    "franciscan_context": "Bernardino's Observant Franciscan affiliation shaped his pastoral approach: the Observant reform movement emphasized rigorous moral discipline and popular preaching, making his campaign against popular magic a product of internal Franciscan reform dynamics as well as broader demonological developments."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Johannes Nider (near-contemporary; Nider's Formicarius c.1437 reflects similar categories of maleficium-as-heresy operating in the same decade; both figure in the foundational moment of composite stereotype formation)",
+      "Early Dominican and Franciscan inquisitors active in Northern Italian and Alpine contexts in the 1420s-1430s who were simultaneously prosecuting and theorizing the composite witch figure"
+    ],
+    "creative_tension_with": [
+      "Later Franciscan tradition that was more cautious about the reality of diabolical pact (Bernardino's position was not universally shared within his own order)",
+      "Modern historians who emphasize popular agency in magic practice — Bernardino's sermons present a clerical construction of folk practice as diabolism that does not allow practitioners to speak for themselves"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Bernardino's Siena sermons were sufficiently celebrated that his popular preaching against magic became a reference point for later Franciscan and Dominican preachers. His canonization in 1450 — only six years after his death — gave his pastoral methods institutional endorsement. The sermons were later cited by inquisitors and demonologists as early evidence of the spread of diabolical heresy in Italy.",
+    "criticisms": [
+      "Modern historians have questioned whether Bernardino's denunciations of popular magic practitioners led directly to prosecution, or whether they functioned primarily as pastoral theater — creating collective moral recognition without necessarily triggering judicial action",
+      "The relationship between Bernardino's vernacular preaching campaign and the contemporaneous Alpine witch trials (documented by Nider) is debated: whether they represent independent parallel developments or a connected movement remains unresolved",
+      "Ronald Hutton and others have emphasized that the folk practitioners Bernardino targeted — healers, cunning folk, diviners — understood themselves as Christians providing services, not diabolists; Bernardino's characterization was an externally imposed categorization"
+    ]
+  },
+
+  "database_engagement": "Bernardino of Siena is cited in demonological_concept entries related to the maleficium-heresy equation and the composite witch stereotype's formation, particularly in the context of Italian fifteenth-century developments predating the Malleus. His position as a popular preacher makes him relevant to entries on the transmission of demonological theory to lay audiences. The tension between Bernardino's characterization of folk practitioners as diabolists and Hutton's recovery of their self-understanding as legitimate healers is directly pertinent to the healer_practitioner entries in the database.",
+
+  "historiographical_significance": "Bernardino of Siena occupies an important position at the intersection of popular preaching and early demonological theory formation that has been underemphasized in Anglophone witchcraft scholarship. His 1427 Siena sermons constitute one of the earliest documented mass campaigns explicitly linking popular magic to diabolical heresy, occurring in the same decade as the early Alpine trials that Nider would document in the Formicarius. Franco Mormando's The Preacher's Demons: Bernardino of Siena and the Social Underworld of Early Renaissance Italy (1999) provides the most thorough analysis of his demonological preaching in English. Italian scholarship has been more attentive to Bernardino, recognizing him as a critical node in the development of late medieval demonology. For the Clark-Hutton-Ginzburg analytical framework, Bernardino presents a useful test case: Clark would emphasize the intellectual coherence of his theological argument about diabolical pact; Hutton would focus on the social cost of his campaign to the folk practitioners he targeted; Ginzburg would attend to what the recorded sermon transcripts might reveal about pre-existing popular beliefs that Bernardino was simultaneously absorbing and condemning.",
+
+  "scholarly_disagreement": "The central historical dispute about Bernardino concerns the relationship between his preaching and actual prosecution. Franco Mormando argues that Bernardino's campaigns contributed materially to the prosecution climate in central Italian cities, while Richard Kieckhefer emphasizes that the connection between popular preaching and judicial action was indirect and mediated through complex social dynamics. A separate debate concerns whether Bernardino's characterization of folk magic as diabolism was theologically innovative or merely a systematic application of existing Franciscan and Dominican pastoral doctrine; here Kieckhefer and Cohn offer somewhat different readings.",
+
+  "scholarly_sources": [
+    "clark-thinking-with-demons-2001",
+    "kieckhefer-magic-middle-ages-1989",
+    "cohn-europes-inner-demons-1975",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "kors-peters-witchcraft-europe-2001"
+  ],
+
+  "source_method": "Richard Kieckhefer, Magic in the Middle Ages (Cambridge, 1989); Norman Cohn, Europe's Inner Demons (1975); Stuart Clark, Thinking with Demons (1997/2001); Franco Mormando, The Preacher's Demons (University of Chicago Press, 1999); Ankarloo and Clark, Witchcraft and Magic in Europe Vol. 3 (2002); primary sources: Prediche volgari sul Campo di Siena (1427), ed. C. Cannarozzi (1934)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}
