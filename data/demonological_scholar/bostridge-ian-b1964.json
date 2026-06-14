@@ -1,0 +1,74 @@
+{
+  "id": "bostridge-ian-b1964",
+  "name": "Ian Bostridge",
+  "birth_year": 1964,
+  "death_year": null,
+  "birth_place": "London, England",
+  "academic_discipline": "History / Intellectual History",
+  "primary_institution": "University of Oxford (doctoral research); subsequently classical singing career (baritone)",
+  "specialization": "English witchcraft prosecution and its decline; Restoration and eighteenth-century political culture; history of ideas",
+
+  "major_works": [
+    {
+      "title": "Witchcraft and its Transformations, c.1650–c.1750",
+      "year": 1997,
+      "publisher": "Oxford University Press",
+      "significance": "Revisionist account of the decline of English witch prosecution, arguing that the end of prosecution reflected changing political languages rather than the triumph of scientific rationalism; challenges Whig narratives of Enlightenment progress"
+    },
+    {
+      "title": "A Singer's Notebook",
+      "year": 2011,
+      "publisher": "Faber & Faber",
+      "significance": "Essays on music, literature, and culture; reflects the transition from historical scholarship to performing arts career"
+    },
+    {
+      "title": "Schubert's Winter Journey: Anatomy of an Obsession",
+      "year": 2015,
+      "publisher": "Knopf",
+      "significance": "Cross-disciplinary study of Schubert's Winterreise; demonstrates the humanities-ranging intellectual formation visible also in his witchcraft history"
+    }
+  ],
+
+  "historiographical_position": "INTELLECTUAL_HISTORIAN",
+  "core_argument": "Bostridge argues that the decline of witch prosecution in England during the later seventeenth and early eighteenth centuries cannot be explained by the standard Whig narrative of scientific rationalism displacing superstition. Instead, the decline was driven by shifts in political language and parliamentary culture: witchcraft became unsustainable as a prosecution not because educated people stopped believing in it but because the political languages available for articulating collective fears and legitimating institutional action changed after the Civil Wars and Restoration. Prosecution of witches was caught up in debates about evidence, authority, and the boundaries of legitimate state action that were primarily political and constitutional in character, not scientific. This argument aligns Bostridge with Clark's intellectual-history tradition — both insist that ideas must be understood in their own political and theological context — while focusing specifically on the mechanisms of decline rather than of prosecution.",
+
+  "methodological_approach": {
+    "primary_method": "Intellectual history of political languages; close reading of parliamentary debates, pamphlet literature, and legal records",
+    "source_types": "Parliamentary records, pamphlet literature of the Restoration and early eighteenth century, published witchcraft trials, political and theological texts on evidence and authority",
+    "interpretive_framework": "Political languages approach (associated with Quentin Skinner and J.G.A. Pocock): ideas are embedded in specific political vocabularies that enable and constrain what can be argued; the decline of witchcraft prosecution reflects a transformation of these vocabularies rather than simply a change in belief"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The decline of prosecution as political, not scientific",
+      "description": "Bostridge's central revisionist argument is that the standard Enlightenment narrative — that witch prosecution declined as science replaced superstition — misidentifies both the mechanism and the timing of change. His archival research in parliamentary and pamphlet sources shows that late seventeenth-century English debates about witchcraft were primarily debates about evidence, authority, and the competence of magistrates, conducted in the idiom of post-Civil War political discourse. The decline of prosecution was a consequence of changing political frameworks, not of changing natural-philosophical belief."
+    },
+    {
+      "concept": "Witchcraft and constitutional politics",
+      "description": "Bostridge connects the history of witchcraft prosecution to the broader history of Restoration constitutional politics — specifically, to the developing debate about the limits of state authority, the standards of evidence in courts, and the relationship between learned expertise and popular testimony. This connection between witch prosecution and constitutional development had not previously been made with Bostridge's archival precision, and it opens a productive interface between witchcraft historiography and the history of English political thought."
+    },
+    {
+      "concept": "Challenge to Whig historiography of science and witchcraft",
+      "description": "Bostridge's work is an important intervention against the assumption, still common in popular accounts and embedded in some academic treatments, that the end of witch prosecution represents the 'triumph of reason.' By showing that the actual mechanism of decline was political rather than scientific, he reinforces Clark's argument that witch prosecution was never irrational to begin with — and therefore that its end cannot straightforwardly represent the triumph of rationality over irrationality."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["clark-stuart-b1943", "sharpe-james-b1945", "thomas-keith-b1933"],
+    "creative_tension_with": ["hutton-ronald-b1953", "macfarlane-alan-b1941", "davies-owen-b1969"]
+  },
+
+  "database_engagement": "Bostridge's work is particularly relevant to database entries dealing with the late period of English prosecution and the mechanisms of decline. In trial_event entries for later English cases (the 1712 Jane Wenham trial is paradigmatic), his argument about political language replaces simple scientific-rationalism explanations. In demonological_concept entries treating the sabbath and maleficium in the English context, his work provides the intellectual-historical framework for understanding how these concepts became politically unsustainable. The database's timeline entries on the decline of English prosecution draw on Bostridge's periodization and mechanism.",
+
+  "historiographical_significance": "Ian Bostridge's Witchcraft and its Transformations (1997) represents the most intellectually sophisticated account of why and how English witch prosecution declined. The Whig narrative — that the Enlightenment produced scientific rationalism that exposed witchcraft belief as superstition — had already been undermined by Keith Thomas's demonstration (1971) that magical belief persisted well into the eighteenth century among educated English men and women. Bostridge went further: he showed, through close archival work in parliamentary debates, pamphlet controversies, and legal records, that the mechanism of decline was not the replacement of one belief system by another but the transformation of the political languages available for articulating collective fears and legitimating prosecution.\n\nBostridge's work extends Clark's intellectual-history framework into the later period and into the specifically English constitutional context. Clark showed that prosecution was coherent within its own intellectual framework; Bostridge shows that the end of prosecution was coherent within a different but equally political and ideological framework. Both insist on the priority of ideas — and specifically of the political languages in which ideas are embedded — over social or economic determinism. This puts both scholars in creative tension with Hutton's social history, which tends to explain prosecution (and its decline) through social dynamics rather than political language.\n\nBostridge's subsequent transition from academic historian to performing artist (he became one of Britain's leading baritones) has made him an unusual figure in the historiography — his Witchcraft book is sometimes treated as a one-off intervention rather than part of a sustained research program — but the book's arguments have been incorporated into the field's standard accounts of English prosecution's decline and remain the most detailed treatment of the political dimensions of that decline.",
+
+  "scholarly_disagreement": "Bostridge's political-language argument for the decline of English prosecution has been broadly accepted as a corrective to simple rationalist accounts, but some scholars have questioned whether it fully displaces social and economic explanations. James Sharpe in Instruments of Darkness (1996) offered a more pluralistic account of English witchcraft that accommodates both political and social dimensions. Owen Davies's research on popular magic in post-prosecution England (Popular Magic, 2003) shows that beliefs persisted long after prosecution ceased, supporting Bostridge's argument that cognitive change was not the mechanism — but Davies's social history of magic practitioners provides a complementary rather than competing explanation. Ronald Hutton's social-history framework implicitly challenges Bostridge's emphasis on elite political culture, since Hutton's account of cunning folk and folk practitioners suggests that changes at the community level mattered as much as changes in parliamentary language.",
+
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "thomas-religion-decline-magic-1971"],
+
+  "source_method": "Published scholarship; Bostridge, Witchcraft and its Transformations (1997), preface and introduction; ODNB entry for Ian Charles Bostridge",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

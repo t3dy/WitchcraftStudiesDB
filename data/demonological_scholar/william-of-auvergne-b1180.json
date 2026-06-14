@@ -1,0 +1,112 @@
+{
+  "id": "william-of-auvergne-b1180",
+  "name": "William of Auvergne",
+  "birth_year": 1180,
+  "death_year": 1249,
+  "birth_place": "Aurillac, Auvergne, France",
+  "academic_discipline": "Theology; Natural Philosophy; Scholastic Demonology",
+  "primary_institution": "University of Paris (professor of theology, c.1223-1228); Bishop of Paris (1228-1249)",
+  "specialization": "Scholastic natural philosophy applied to magic and demonology; establishment of systematic limits on demonic power within a framework of divine permission; early treatment of demonic pact and its metaphysical conditions",
+
+  "major_works": [
+    {
+      "title": "De Universo creaturarum (On the Universe of Creatures)",
+      "year": 1236,
+      "publisher": "Written c.1231-1236; printed at Paris (1516) and Nuremberg (1496) in collected works editions",
+      "significance": "A comprehensive summa of natural philosophy and cosmology; contains the most extensive thirteenth-century treatment of demonic nature, power, and agency, arguing that demons were real spiritual beings whose power over the material world was real but strictly bounded by divine permission; established the scholastic framework for subsequent medieval and early modern demonological discussion of how much demons could actually do",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "De legibus (On Laws)",
+      "year": 1230,
+      "publisher": "Written c.1230; in Opera Omnia (Paris, 1516)",
+      "significance": "Systematic treatment of law, including extended discussion of magical and diabolical law; established that the diabolical pact was a legally real contractual relationship between humans and demons, with significant implications for the subsequent legal theology of witchcraft prosecution",
+      "pages": null,
+      "database_entry": null
+    },
+    {
+      "title": "De Anima (On the Soul)",
+      "year": 1235,
+      "publisher": "Written c.1232-1235; in Opera Omnia (Paris, 1516)",
+      "significance": "Psychological and philosophical treatment of the soul, dreams, and visions, including discussion of how demonic agency could produce illusory experiences; relevant to the demonological question of whether witchcraft sabbath experiences were real or diabolically induced delusions",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SYSTEMATIZER",
+
+  "core_argument": "William of Auvergne's thirteenth-century theological corpus established the scholastic framework for thinking about demonic agency that would underpin all subsequent medieval and early modern demonological discussion. His central contribution was a precise and philosophically rigorous account of demonic power as real but limited: demons were genuine spiritual beings with real capacity to act in the material world, but their power was bounded by divine permission (potestas permissa) and could never extend beyond what God allowed. This framework resolved a theological tension that had troubled earlier writers — between the Christian insistence on God's omnipotence and the evident evil of demonic activity — by locating demonic power entirely within the providential order, as an instrument of divine punishment and testing. For the subsequent history of witchcraft belief, this framework was foundational: it meant that belief in demonic agency was not incompatible with Christian theology but was theologically mandated, while the bounded character of that agency preserved divine sovereignty. William also gave the first sustained scholastic analysis of the demonic pact as a contractual relationship, a theological move with profound implications for the later legal theology of witchcraft prosecution.",
+
+  "methodological_approach": {
+    "primary_materials": "Patristic authorities especially Augustine; newly available Arabic philosophy including Avicenna and Averroes; classical natural philosophy especially Aristotle; the Bible and its commentators; canonical texts on magic and divination",
+    "analysis_target": "The nature of demonic beings and the extent of their power over the material and spiritual world; the theological conditions under which demonic agency was possible; the moral and spiritual status of magical practice and diabolical pact",
+    "evidence_type": "Scholastic argument from philosophical principle; patristic authority; biblical text; natural philosophical reasoning",
+    "explanatory_level": "Metaphysical-theological; William worked at the level of the nature of beings and their causal powers, providing the philosophical underpinning for subsequent more applied demonological discussions"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Bounded demonic power within divine permission (potestas permissa)",
+      "claim": "William established that demonic power in the material world was real but strictly bounded by divine permission: demons could cause genuine harm — disease, madness, storms, sexual temptation — but only within limits God permitted for providential purposes. This framework prevented both excessive skepticism (denying demonic agency) and excessive credulity (attributing unlimited power to demons) and provided a theologically principled account of how much witchcraft could actually harm its victims.",
+      "implication": "The potestas permissa doctrine became the theological infrastructure for all subsequent scholastic discussions of witchcraft causation; it was the framework within which the question of whether specific alleged harms — killing by maleficium, raising storms, causing impotence — were demonically possible was evaluated. Every subsequent major demonological writer from Nider to the Malleus to Bodin operated within this framework."
+    },
+    {
+      "concept": "First systematic scholastic analysis of the demonic pact",
+      "claim": "William's De legibus provided the first sustained scholastic analysis of the diabolical pact as a legal-theological reality: a genuine contractual relationship between a human soul and a demonic being, constituting apostasy from God and placing the contracting party under demonic power. This legal-theological analysis of the pact was the foundation for the subsequent development of pact doctrine in inquisitorial and demonological literature.",
+      "implication": "The pact doctrine, as William developed it, established the legal and theological basis for treating witchcraft as a form of heresy rather than merely a form of criminal sorcery: if the pact constituted apostasy, it fell within the inquisitorial jurisdiction over heresy. This jurisdictional implication would be fully exploited only in the fifteenth century, but William's analysis provided the doctrinal foundation."
+    },
+    {
+      "concept": "Integration of Arabic natural philosophy into Christian demonology",
+      "claim": "William's treatment of demonic agency drew on Avicennan natural philosophy as well as Augustinian theology, integrating the newly available Arabic philosophical tradition — with its rich discussion of emanations, spiritual beings, and their interaction with the material world — into a Christian demonological framework. This integration was crucial for giving scholastic demonology its philosophical rigor, distinguishing it from purely theological assertion.",
+      "implication": "The incorporation of Avicennan natural philosophy into Christian demonology is part of the broader thirteenth-century scholastic synthesis that Stuart Clark identifies as the intellectual foundation of coherent demonological thought; William is an early figure in this synthesis, anticipating the more complete integration achieved by Aquinas."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "augustinian_tradition": "William drew extensively on Augustine's On the Divination of Demons and City of God for his framework of demonic agency, but subjected Augustine's authority to scholastic critical examination rather than simply citing it, representing the new scholastic method in action.",
+    "arabic_philosophy": "William's engagement with Avicenna — available to him through the late twelfth-century translations at Toledo — allowed him to give demonic agency a philosophical account in terms of spiritual causation that the Augustinian tradition alone could not supply.",
+    "canon_episcopi": "William engaged with the Canon Episcopi's traditions about illusory night-flight, situating them within his broader framework of demonic power as the ability to create convincing illusions in the mind — a position that preserved the Canon Episcopi's skepticism about physical sabbath attendance while acknowledging demonic power over the imagination."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Thomas Aquinas, who extended and systematized the framework William established for scholastic demonology (Aquinas drew on William and went further in integrating Aristotelian natural philosophy with Christian demonological theology)",
+      "Albert the Great, whose roughly contemporary synthesis of natural philosophy and demonological theology ran parallel to William's"
+    ],
+    "creative_tension_with": [
+      "The Augustinian skeptical tradition about demonic power, which William engaged and transformed rather than simply adopting",
+      "Later nominalist theologians who questioned the metaphysical foundations of William's realist framework for demonic causation"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "William's theological corpus was a standard reference for thirteenth- and fourteenth-century scholastic theologians discussing magic and demonology. His framework for demonic power as real but bounded was adopted and systematized by Aquinas and became the standard scholastic position. The printed editions of his Opera Omnia in the late fifteenth and early sixteenth centuries gave his work new accessibility to early modern demonological writers.",
+    "criticisms": [
+      "Later scholastics criticized specific aspects of William's account of demonic nature and power as insufficiently consistent with the Aristotelian framework that became dominant after Aquinas's synthesis",
+      "The degree to which William's demonological framework genuinely synthesized Arabic and Latin traditions or merely accommodated them superficially has been debated by historians of medieval philosophy",
+      "Some historians have noted that William's treatment of women and female susceptibility to demonic influence anticipates later misogynistic demonological themes, though his analysis was more philosophically grounded than the cruder versions that appeared in later texts"
+    ]
+  },
+
+  "database_engagement": "William of Auvergne is the foundational figure for the scholastic demonological tradition represented in the database. His potestas permissa doctrine and pact analysis are the intellectual background for demonological_concept entries on demonic power, the diabolical pact, and the Canon Episcopi tradition. His work is the necessary context for understanding why later demonologists like Nider and the Malleus authors believed they were doing serious theology rather than expressing superstition — they were working within a framework of philosophical rigor that William had helped establish.",
+
+  "historiographical_significance": "William of Auvergne is a figure whose importance to witchcraft historiography has been more recognized by historians of medieval theology and philosophy than by historians of witch prosecution. He belongs to the crucial thirteenth-century scholastic synthesis that provided the intellectual infrastructure for later demonological thought: the integration of Augustinian theology, Avicennan natural philosophy, and Aristotelian causation into a coherent account of demonic agency. Richard Kieckhefer (Magic in the Middle Ages, 1989) provides the most accessible treatment of William in the context of medieval magical thought. Stuart Clark's analysis of the scholastic demonological tradition in Thinking with Demons identifies the kind of framework William established as the source of what Clark calls demonology's 'internal coherence' — the quality of being a serious intellectual tradition with principled positions, not mere superstition. For the database's analytical framework, William represents the starting point of the scholastic demonological tradition that flows through Aquinas, through the Formicarius, and into the major early modern systematizations.",
+
+  "scholarly_disagreement": "Richard Kieckhefer and Valerie Flint (The Rise of Magic in Early Medieval Europe, 1991) differ in emphasis on how much thirteenth-century scholastic demonology represented genuine intellectual innovation versus systematization of earlier patristic traditions. Kieckhefer emphasizes the role of Arabic philosophy in enabling new precision; Flint emphasizes continuities with Augustinian and Carolingian traditions. Steven Marrone has written on William's natural philosophy in Ways to God (2001), but the demonological dimensions of his work have been less systematically analyzed than the broader philosophical dimensions. The question of William's direct influence on the fifteenth-century systematizers — whether they read him directly or encountered his framework through intermediaries like Aquinas — has not been fully traced.",
+
+  "scholarly_sources": [
+    "kieckhefer-magic-middle-ages-1989",
+    "clark-thinking-with-demons-2001",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "cohn-europes-inner-demons-1975"
+  ],
+
+  "source_method": "Richard Kieckhefer, Magic in the Middle Ages (Cambridge, 1989); Stuart Clark, Thinking with Demons (1997/2001); Ankarloo-Clark, Witchcraft and Magic in Europe Vol. 3 (2002); Norman Cohn, Europe's Inner Demons (1975); primary sources: De Universo (c.1231-1236), De legibus (c.1230), in Opera Omnia (Paris, 1516)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

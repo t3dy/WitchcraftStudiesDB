@@ -1,0 +1,80 @@
+{
+  "id": "murray-margaret-b1863",
+  "name": "Margaret Murray",
+  "birth_year": 1863,
+  "death_year": 1963,
+  "birth_place": "Calcutta, British India",
+  "academic_discipline": "Egyptology / Folklore / Anthropology",
+  "primary_institution": "University College London (Egyptology)",
+  "specialization": "Egyptology (primary career); European witchcraft folklore; comparative religion",
+
+  "major_works": [
+    {
+      "title": "The Witch-Cult in Western Europe",
+      "year": 1921,
+      "publisher": "Oxford University Press",
+      "significance": "Argued that European witch trial confessions recorded a real, organized pre-Christian fertility religion; enormously influential despite being built on selective use of evidence and now thoroughly discredited by scholarly consensus"
+    },
+    {
+      "title": "The God of the Witches",
+      "year": 1933,
+      "publisher": "Sampson Low, Marston & Co.",
+      "significance": "Popular elaboration of the witch-cult thesis, reaching a wider audience and cementing Murray's influence on the emerging neo-pagan movement"
+    },
+    {
+      "title": "The Divine King in England",
+      "year": 1954,
+      "publisher": "Faber & Faber",
+      "significance": "Extension of the witch-cult argument to English kingship; argued English monarchs were sacred divine kings sacrificed to the old religion; similarly discredited"
+    },
+    {
+      "title": "My First Hundred Years (autobiography)",
+      "year": 1963,
+      "publisher": "William Kimber",
+      "significance": "Memoir written in her centenary year; provides biographical context for her intellectual trajectory from Egyptology to witchcraft studies"
+    }
+  ],
+
+  "historiographical_position": "ANTHROPOLOGICAL",
+  "core_argument": "Murray argued that the thousands of witch trial confessions across Western Europe recorded not judicial fantasies or tortured inventions but the actual practices of a real, secret, organized pre-Christian fertility religion — a cult of a horned god — that had survived from ancient times beneath the surface of Christian society. The 'witches' prosecuted by early modern authorities were genuine initiates of this surviving pagan cult, and their confessions, though extracted under duress, contained kernels of authentic religious practice. This thesis is now thoroughly discredited on both methodological and empirical grounds: Murray selected evidence tendentiously, ignored contradictory confessions, misread the trial record, and applied a model derived from colonial anthropology to European materials in ways scholars of both European history and anthropology have found indefensible. Her thesis influenced neither Clark (who showed demonology as learned theology), Hutton (who showed folk practitioners' actual activities were far more mundane), nor Ginzburg (who showed confessions as products of interrogation), but it dominated popular understanding of witchcraft for most of the twentieth century.",
+
+  "methodological_approach": {
+    "primary_method": "Comparative folklore and anthropology applied to trial transcripts; selection of confessional details interpreted as survivals of pre-Christian religion",
+    "source_types": "Published trial transcripts, primarily from English and Scottish sources; continental trials used selectively",
+    "interpretive_framework": "Diffusionist anthropology derived from J.G. Frazer's Golden Bough (1890–1915); assumption that widespread folkloric parallels indicate common origin in a surviving primitive religion; survivalism — the belief that pagan practices persisted beneath Christian culture as a coherent institutional cult"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The 'witch-cult' hypothesis",
+      "description": "Murray's central contribution was the claim that the 'witches' of the early modern trials were members of an organized, secret survival of a pre-Christian religion worshipping a horned god of fertility. This hypothesis was original and influential, providing a positive identity for accused witches rather than treating them as victims of judicial delusion. However, the hypothesis has been comprehensively refuted: Norman Cohn in Europe's Inner Demons (1975) demonstrated that Murray's evidence base was selectively constructed, that she ignored the large majority of confessions that do not fit her model, and that the organizational coherence she attributed to the 'cult' is not present in the documents she cited."
+    },
+    {
+      "concept": "Influence on Wicca and modern neo-paganism",
+      "description": "Though discredited as history, Murray's witch-cult thesis exercised decisive influence on the founding mythology of Wicca. Gerald Gardner, who created Wicca in the 1940s–50s, drew explicitly on Murray's model of a surviving pagan religion and recruited her to write the introduction to his Witchcraft Today (1954). Ronald Hutton's Triumph of the Moon (1999) traces this influence in detail, showing how Murray's scholarly apparatus — however flawed — gave the new religious movement historical legitimacy it otherwise lacked. This influence on modern religious practice, not any enduring scholarly validity, is the main reason Murray's work remains relevant to witchcraft historiography."
+    },
+    {
+      "concept": "Negative exemplar: the dangers of survivalism and selective citation",
+      "description": "Murray's work has become the canonical negative exemplar in witchcraft historiography — the standard illustration of how selective use of evidence, prior interpretive commitments, and the application of inappropriate anthropological models can produce a persuasive but entirely false account. Her case is discussed in historiographical introductions by Cohn, Hutton, and Ginzburg precisely as a methodological warning. The scholarly consensus against Murray's thesis is virtually total, which is unusual in a field characterized by substantial interpretive disagreement."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": [],
+    "creative_tension_with": ["cohn-norman-b1915", "hutton-ronald-b1953", "ginzburg-carlo-b1939", "clark-stuart-b1943", "thomas-keith-b1933", "briggs-robin-b1945", "levack-brian-b1943"]
+  },
+
+  "database_engagement": "Murray's witch-cult thesis appears in database entries primarily as a discredited interpretive framework that must be named and refuted. In demonological_concept entries treating the witches' sabbath, her survivalist interpretation is explicitly contrasted with Cohn's refutation and Ginzburg's alternative microhistorical account. In entries on folk practitioners and cunning folk (healer_practitioner entries), her model of an organized pagan cult is contrasted with Hutton's demonstration that the real activities of service-magic practitioners bore no resemblance to the organized fertility-religion she described. The historiographical_debate entry on sabbath origins necessarily engages with Murray's position as the thesis that required refutation. Her influence on Wicca is relevant context for demonological_concept entries on the sabbath and the horned god.",
+
+  "historiographical_significance": "Margaret Murray's historiographical significance is almost entirely negative: she produced a thesis that was wrong, demonstrably built on selective use of evidence, and that dominated popular understanding of witchcraft for several decades while being progressively demolished by specialist research. The Witch-Cult in Western Europe (1921) applied Frazerian survivalism — the assumption that widespread folk practices represent survivals of an ancient, organized pre-Christian religion — to European witch trial confessions. The result was a model of the 'witches' as genuine cultists of a real religion, which provided an apparently dignified account of their persecution. The model gained academic respectability partly through the prestige of Murray's Egyptological career and partly through the sponsorship of the Oxford University Press, which published the work and later commissioned her to write the 'Witchcraft' article for the Encyclopaedia Britannica — an article that appeared in successive editions from 1929 to 1968, long after the academic consensus had turned against her.\n\nNorman Cohn's systematic refutation in Europe's Inner Demons (1975) is the crucial counter-text: Cohn showed that Murray ignored the overwhelming majority of confessions that do not fit her cult model, that she misread documents, and that the organizational coherence she attributed to the cult was a product of her selective reading rather than the evidence. Ronald Hutton in Triumph of the Moon (1999) traced Murray's influence on Wicca's founding mythology in forensic detail. Keith Thomas in Religion and the Decline of Magic (1971) implicitly bypassed Murray by treating cunning folk's actual practices without reference to her cult hypothesis. Carlo Ginzburg in Ecstasies (1989) noted Murray's intuition that something real lay beneath the confessions but entirely rejected her methodology and conclusions, substituting a rigorous interrogation-analysis method for her selective citation.\n\nMurray's continued relevance is as an object lesson and as a historical actor in the Wicca founding narrative — not as a guide to the historical evidence.",
+
+  "scholarly_disagreement": "Murray's witch-cult thesis was comprehensively refuted across several scholarly traditions. Norman Cohn in Europe's Inner Demons (1975) provided the most systematic demolition, demonstrating that Murray's evidence was selectively chosen, her citations misread, and the organizational coherence she attributed to the 'cult' absent from the actual documents. Keith Thomas in Religion and the Decline of Magic (1971) conducted detailed research on English popular magic that produced no evidence for Murray's organized cult. Ronald Hutton in Triumph of the Moon (1999) traced precisely how Murray's model was invented and how it influenced modern neo-paganism — demonstrating that the 'witch-cult' was a modern construction, not a historical survival. Carlo Ginzburg, who might have been expected to be sympathetic to Murray's intuition that something lay beneath confessions, explicitly rejected her method as incompatible with rigorous interrogation analysis. There is no significant scholarly support for Murray's thesis in contemporary witchcraft historiography.",
+
+  "scholarly_sources": ["cohn-europes-inner-demons-1975", "hutton-the-witch-2017"],
+
+  "source_method": "Published scholarship; ODNB entry for Margaret Alice Murray; Hutton, Triumph of the Moon (1999), ch. 8–9; Cohn, Europe's Inner Demons (1975), introduction and ch. 7",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

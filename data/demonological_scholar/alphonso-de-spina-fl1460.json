@@ -1,0 +1,99 @@
+{
+  "id": "alphonso-de-spina-fl1460",
+  "name": "Alphonso de Spina",
+  "birth_year": null,
+  "death_year": 1491,
+  "birth_place": "Castile, Spain (exact location uncertain; possibly of converso origin)",
+  "academic_discipline": "Theology; Apologetics; Demonology",
+  "primary_institution": "Franciscan Order; University of Salamanca (rector, 1452); later Bishop of Thermopylae (in partibus)",
+  "specialization": "Theological apologetics against Islam and Judaism; demonological synthesis for the Iberian context; transmission of Alpine and Northern European witch-sabbath material into Castilian theological literature",
+
+  "major_works": [
+    {
+      "title": "Fortalitium fidei contra Judaeos, Sarracenos aliosque Christianae fidei inimicos (Fortress of Faith against Jews, Saracens, and Other Enemies of the Christian Faith)",
+      "year": 1458,
+      "publisher": "Written c.1458-1460; printed at Strasbourg, 1471; multiple subsequent editions",
+      "significance": "A massive encyclopedic apologetic text in five books, of which Book V contains the most extensive pre-Malleus catalogue of demonic activity, witchcraft, and related phenomena in the Iberian demonological tradition; the text synthesized earlier Northern European and Alpine material on the sabbath and diabolical pact for a Castilian audience while situating witchcraft within a broader framework of threats to Christian faith from Jews, Muslims, and demons",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SYSTEMATIZER",
+
+  "core_argument": "Alphonso de Spina's Fortalitium fidei (c.1458) is remarkable for its encyclopedic ambition and its geographical position: it represents the earliest substantial synthesis of the emerging composite witch stereotype for the Iberian peninsula, transmitted from Alpine and Northern Italian sources to Castile. Book V of the Fortalitium categorizes ten types of demons and documents the activities of witches (bruxas), sorcerers, and diviners in a systematic way that drew on the same sources — Nider's Formicarius, inquisitorial records, theological tradition — that were being synthesized in Northern Europe at the same moment. Crucially, de Spina's demonological synthesis was embedded within a broader apologetic framework addressing Islam and Judaism as parallel threats to Christian orthodoxy, so that in the Fortalitium witchcraft and demonic activity functioned as one front in a comprehensive defense of Christian faith against multiple enemies. This framing — unique to the Iberian context — gave demonological theory in Castile a different social and theological valence from its Northern European equivalents.",
+
+  "methodological_approach": {
+    "primary_materials": "Scholastic theological texts; inquisitorial and episcopal records; Northern European demonological literature especially Nider's Formicarius; patristic authority; classical sources on magic and demons",
+    "analysis_target": "The comprehensive theological threat posed by Jews, Muslims, heretics, and demons to Christian faith in Castile; the demonological dimension as one of multiple interlocking challenges to orthodox Christianity",
+    "evidence_type": "Encyclopedic catalogue of authorities; case exempla from inquisitorial records; scholastic theological argument; biblical and patristic citation",
+    "explanatory_level": "Theological-apologetic; witchcraft was explained within the framework of diabolic opposition to Christian faith and the broader struggle between Christianity and its external and internal enemies"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "First major Iberian synthesis of the composite witch stereotype",
+      "claim": "Book V of the Fortalitium fidei constitutes the first substantial systematic demonology written for the Iberian audience, translating the Alpine and Northern Italian composite witch stereotype — sabbath, diabolical pact, maleficium — into the Castilian theological context. De Spina's synthesis predates the Malleus by nearly three decades and was widely read across Spain in multiple editions.",
+      "implication": "The Fortalitium's influence on the subsequent Spanish Inquisition's approach to witchcraft (which was notably more skeptical than the Malleus's) remains historiographically contested; some scholars argue that de Spina's encyclopedic over-inclusiveness ultimately contributed to skepticism by presenting demonological claims in a framework that encouraged critical evaluation."
+    },
+    {
+      "concept": "Demonological taxonomy embedded in multi-front Christian apologetics",
+      "claim": "By situating demonology within a comprehensive polemic against Jews, Muslims, and heretics as well as demons, de Spina created a framework in which witchcraft was not an isolated theological problem but one expression of a universal diabolical opposition to Christian civilization. This multi-front framework shaped how Castilian and later Iberian theologians conceptualized witchcraft — as part of a broader pattern of threat rather than as a discrete prosecutorial category.",
+      "implication": "The apologetic framework helps explain why the Spanish Inquisition's eventual approach to witchcraft differed from Northern European models: having been trained to evaluate demonic claims within a rigorous apologetic tradition that required distinguishing genuine threats from fraudulent ones, Inquisition officials brought a more systematic skepticism to witchcraft accusations."
+    },
+    {
+      "concept": "Ten-part demonic taxonomy",
+      "claim": "De Spina's Book V organized demonic activity into ten categories (fates, pythones, incubi and succubi, Herodes's companions who killed infants, bogeymen, spirits of the dead, demons, prestidigitators, night-wanderers, and deluders of the senses), providing the most elaborate demonic taxonomy in fifteenth-century demonological literature. This taxonomy was subsequently cited by later writers as a systematic authority.",
+      "implication": "The taxonomic ambition of the Fortalitium made it a reference text for later systematizers, including both those who followed its credulity and those who used its comprehensiveness as a basis for critical evaluation."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "nider_formicarius": "De Spina drew explicitly on Nider's Formicarius for the composite witch stereotype material, making the Fortalitium an important node in the transmission network carrying Alpine trial evidence into broader European demonological literature.",
+    "iberian_cases": "The Fortalitium also drew on local Castilian and Iberian cases, including references to bruxas (witches) and her activities in Iberian popular culture, grounding the Northern European stereotype in local context.",
+    "jewish_and_muslim_texts": "De Spina's apologetic engagement with Jewish and Muslim theological texts gave his treatment of demonology an unusually broad comparative dimension, situating Christian demon belief within a framework that required accounting for parallel beliefs in other traditions."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Nicolas Jacquier (near-contemporary working independently but within the same synthesis movement of the 1450s-1460s)",
+      "Johannes Nider (Fortalitium drew directly on Formicarius material)",
+      "Later Iberian demonologists who cited the Fortalitium as foundational authority"
+    ],
+    "creative_tension_with": [
+      "The Spanish Inquisition's subsequent institutional skepticism about witchcraft claims (the Fortalitium's credulity was not fully followed by the institution it influenced)",
+      "Modern scholars who emphasize the Inquisition's restraining role in Spanish witchcraft prosecution, who must account for the Fortalitium's evident advocacy of the composite witch stereotype"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Fortalitium was widely printed and read in Spain and across Europe, with editions in Strasbourg (1471), Nuremberg (1494), Lyon (1487, 1511), and elsewhere. Its influence on the early Spanish Inquisition's theological framework was significant, though the Inquisition's eventual approach to witchcraft — notably skeptical compared to Northern European models — represents a complex departure from the Fortalitium's demonological enthusiasm.",
+    "criticisms": [
+      "The Fortalitium's encyclopedic over-inclusion — its catalogue of ten types of demons and its accumulation of demonological evidence from across the tradition — has been criticized as producing a framework that is theologically ambitious but epistemically undisciplined",
+      "Gustav Henningsen and William Monter, writing on the Spanish Inquisition's approach to witchcraft, have argued that the Spanish inquisitorial tradition ultimately departed from the Fortalitium's credulity toward systematic skepticism, though the reasons for this departure remain debated",
+      "De Spina's possible converso background (which some scholars have suggested, without consensus) has led to speculation about whether his apologetic framework served personal or political motives beyond theological conviction — a line of argument that most scholars regard as insufficiently evidenced"
+    ]
+  },
+
+  "database_engagement": "Alphonso de Spina is relevant to demonological_concept entries on the composite witch stereotype and demonic taxonomy. His position as the primary Iberian synthesizer of the composite stereotype makes him relevant to discussions of regional variation in the database, particularly the contrast between Northern European prosecution enthusiasm and the eventual Spanish Inquisition skepticism. He is also relevant to the historiographical_debate entries on the canon episcopi tradition and on the relationship between learned demonology and prosecution practice.",
+
+  "historiographical_significance": "Alphonso de Spina's place in witchcraft historiography has been shaped by the paradox that the most extensive pre-Malleus synthesis of the composite witch stereotype for the Iberian context was produced by a Franciscan apologist whose institutional context — the emerging Spanish Inquisition — ultimately developed a notably more skeptical approach to witchcraft prosecution than the Fortalitium's own demonological enthusiasm would suggest. Historians like Henry Charles Lea and, more recently, Gustav Henningsen and William Monter, have documented the Spanish Inquisition's comparative restraint in witchcraft prosecution; explaining how an institution shaped in part by the Fortalitium arrived at that restraint is a significant historiographical puzzle. The Fortalitium's unique framing of demonology within a broader multi-front apologetics — addressing Islam and Judaism as parallel threats alongside demonism — gave Iberian demonological thinking a comparative and critical orientation that may partly explain this development.",
+
+  "scholarly_disagreement": "Historians disagree about the relationship between the Fortalitium's demonological advocacy and the Spanish Inquisition's subsequent institutional skepticism about witchcraft. Gustav Henningsen (The Witches' Advocate, 1980) emphasized the Inquisition's rational skepticism as a distinctive achievement; William Monter has explored the institutional dynamics that produced this skepticism. Neither has fully resolved the paradox of how an institution drawing on de Spina's framework arrived at conclusions so different from his. A secondary debate concerns de Spina's possible converso background and its relevance to his apologetic orientation; this remains unresolved due to the state of the evidence.",
+
+  "scholarly_sources": [
+    "cohn-europes-inner-demons-1975",
+    "clark-thinking-with-demons-2001",
+    "kieckhefer-magic-middle-ages-1989",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "henningsen-witches-advocate-1980",
+    "kors-peters-witchcraft-europe-2001"
+  ],
+
+  "source_method": "Norman Cohn, Europe's Inner Demons (1975); Stuart Clark, Thinking with Demons (1997/2001); Richard Kieckhefer, Magic in the Middle Ages (Cambridge, 1989); Gustav Henningsen, The Witches' Advocate (University of Nevada Press, 1980); Ankarloo-Clark, Witchcraft and Magic in Europe Vol. 3 (2002); primary source: Fortalitium fidei (written c.1458, printed Strasbourg 1471)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

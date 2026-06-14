@@ -1,0 +1,49 @@
+{
+  "id": "trevor-roper-witch-craze-1967",
+  "title": "The European Witch-Craze of the Sixteenth and Seventeenth Centuries",
+  "author": "H.R. Trevor-Roper",
+  "author_slug": "trevor-roper-hugh-b1914",
+  "year_published": 1967,
+  "original_year": 1967,
+  "original_title": "The European Witch-Craze of the Sixteenth and Seventeenth Centuries",
+  "original_language": "English",
+  "original_publisher": "Macmillan, London (published as essay in Religion, the Reformation and Social Change, 1967; also published as standalone Penguin 1969)",
+  "publisher": "Macmillan",
+  "text_type": "article_collection",
+
+  "subject_focus": "First major synthetic interpretation of European witch prosecution arguing that the 'witch-craze' was driven by Reformation and Counter-Reformation religious conflict, with prosecution intensity correlating to zones of confessional competition.",
+
+  "summary": "Trevor-Roper's essay — originally a chapter in his Religion, the Reformation and Social Change (1967) — constitutes the first systematic attempt to synthesize European witch prosecution into a single interpretive framework. His central thesis is that the witch-craze was not a medieval survival but a distinctly early modern phenomenon energized by Reformation and Counter-Reformation religious conflict: as Protestants and Catholics competed for souls and social control, witch prosecution intensified in zones of confessional competition and frontier anxiety. Trevor-Roper traces the concept of the witch-craze as an ideological construct shaped by the Reformation, arguing that the mountain borderlands between Reformed and Catholic territories produced the most intense prosecution. The term 'witch-craze' itself — with its connotation of collective irrationality, panic, and ideologically driven escalation — originates in Trevor-Roper's framing. The essay also incorporates a social-psychological argument about scapegoating: communities under stress from religious conflict projected anxieties onto marginal figures identified as witches, creating a self-reinforcing pattern of accusation and confession.",
+
+  "scholarly_significance": "Trevor-Roper's essay has a paradoxical significance: it is simultaneously foundational to the modern historiography of witch prosecution and substantially discredited in its central empirical claims. Its importance is historiographical rather than argumentative — it defined the questions, the scale, and the synthetic ambition that subsequent scholarship either confirmed or refuted.\n\n  The thesis that prosecution was highest during periods of confessional conflict was directly falsified by the regional specialists who followed. Erik Midelfort's Witch Hunting in Southwestern Germany (1972) demonstrated that the most intense southwestern German prosecution occurred after the height of confessional competition; E. William Monter's Witchcraft in France and Switzerland (1976) showed that the Alpine borderlands Trevor-Roper identified as epicentres did not conform to his confessional-conflict model; Levack's comparative analysis (The Witch-Hunt in Early Modern Europe, 2006) confirmed that institutional structure better explained variation than confessional competition. The confessional-competition model survives only in modified form in Behringer's work on Bavaria, where it has some partial application.\n\n  Trevor-Roper coined the term 'witch-craze,' which entered general discourse and remains the default popular designation despite specialists' discomfort with its implication of collective irrationality and its anachronistic framing. Stuart Clark's Thinking with Demons (1997) implicitly corrects Trevor-Roper by insisting on taking demonological thought seriously rather than explaining prosecution as 'craze.' Ginzburg's microhistorical approach rejects the macro-causal framing entirely.\n\n  The database uses Trevor-Roper's essay primarily as a historiographical reference point — the synthesis that subsequent regional research dismantled — rather than as a source of specific factual claims.",
+
+  "key_arguments": [
+    {
+      "concept": "Confessional conflict as primary driver",
+      "claim": "The intensification of witch prosecution in the sixteenth and seventeenth centuries was driven primarily by Reformation and Counter-Reformation religious conflict; prosecution was most intense in zones of confessional competition and religious frontier anxiety."
+    },
+    {
+      "concept": "Mountain borderlands as prosecution epicentres",
+      "claim": "Trevor-Roper identified the Alpine borderlands between Reformed and Catholic territories — particularly the Franco-German borderland, the western Alps, and the Rhineland frontier — as the zones of most intense prosecution, attributing this to their position on confessional frontiers."
+    },
+    {
+      "concept": "The witch-craze as early modern, not medieval, phenomenon",
+      "claim": "Witch prosecution was not a survival of medieval superstition but a distinctly early modern development, peaking in the sixteenth and seventeenth centuries and correlating with the specific social-psychological stresses of the Reformation era."
+    },
+    {
+      "concept": "Social-psychological scapegoating model",
+      "claim": "Communities under ideological stress from confessional conflict projected anxiety onto marginal figures — the isolated, the old, the deviant — identified as witches, creating a self-reinforcing cycle of accusation and confession driven by social psychology rather than rational evidence."
+    }
+  ],
+
+  "relation_to_database": "Trevor-Roper's essay is cited as the originating synthesis against which regional and institutional analyses are positioned. The term 'witch-craze' appears in database entries with the note that it derives from Trevor-Roper and carries his discredited confessional-conflict assumptions. Entries on German mass prosecution, Scottish trials, and French Parlement intervention implicitly or explicitly correct Trevor-Roper's regional claims.",
+
+  "scholarly_disagreement": "The confessional-conflict thesis was directly challenged by Midelfort (Witch Hunting in Southwestern Germany, 1972), who showed German mass prosecution did not peak during confessional competition. Monter (Witchcraft in France and Switzerland, 1976) found the Alpine borderland pattern Trevor-Roper emphasized did not conform to confessional-conflict predictions. Levack (The Witch-Hunt in Early Modern Europe, 1987/2006) confirmed that institutional structure — not confessional competition — better explained execution rate variation. Behringer (Witchcraft Persecutions in Bavaria, 1988/1997) found partial evidence for confessional dynamics in Bavaria but not as primary explanation. Clark (Thinking with Demons, 1997) rejected Trevor-Roper's irrationalist framing by demonstrating demonological thought's internal coherence. The term 'witch-craze' is resisted by most specialists precisely because it embeds Trevor-Roper's social-psychological framework.",
+
+  "source_method": "Published text: H.R. Trevor-Roper, 'The European Witch-Craze of the Sixteenth and Seventeenth Centuries,' in Religion, the Reformation and Social Change (Macmillan, 1967); also published as standalone essay (Penguin, 1969); analyzed in Ronald Hutton, The Witch (2017); Brian Levack, The Witch-Hunt in Early Modern Europe (2006, 3rd ed.); Wolfgang Behringer, Witches and Witch-Hunts (2004)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "goodare-european-witch-hunt-2016",
+  "title": "The European Witch-Hunt",
+  "author": "Julian Goodare",
+  "author_slug": "goodare-julian-b1957",
+  "year_published": 2016,
+  "original_year": 2016,
+  "original_title": "The European Witch-Hunt",
+  "original_language": "English",
+  "original_publisher": "Routledge, London and New York",
+  "publisher": "Routledge",
+  "text_type": "monograph",
+
+  "subject_focus": "Synthetic overview of European witch prosecution incorporating recent regional, gender-based, and social-historical research, with particular attention to Scottish material and the social dynamics of accusation across jurisdictions.",
+
+  "summary": "Goodare's synthesis represents the most comprehensive recent overview of European witch prosecution, integrating three decades of regional scholarship that substantially transformed the field after the foundational works of Levack, Larner, and Monter. The book provides accessible but rigorous treatment of the chronological patterns, regional variation, social dynamics, and ideological frameworks of European prosecution, from the Alpine origins of the composite stereotype in the 1420s through the decline of prosecution in the early eighteenth century. Goodare is particularly valuable for his integration of Scottish material — his primary area of archival expertise — into the comparative European framework: Scotland's distinctive prosecution pattern (intense but episodic; secular rather than inquisitorial; strongly shaped by Calvinist theology and lay participation) receives more analytical attention here than in any comparable synthesis. The book also incorporates the mature gender analysis of prosecution — the demographic patterns, the demonological constructions of female susceptibility, and the limits of simple feminist interpretations — developed by Rowlands, Schulte, and others since the 1990s.",
+
+  "scholarly_significance": "Goodare's European Witch-Hunt is the essential introductory synthesis for the current state of the field and a primary reference for cross-jurisdictional comparison. It performs a different function from Levack's Witch-Hunt in Early Modern Europe (which remains the standard reference for quantitative and institutional analysis): where Levack's strength is the institutional framework and demographic statistics, Goodare integrates the social and ideological dimensions that subsequent scholarship has developed.\n\n  The Scottish dimension is Goodare's most distinctive contribution. Building on his own archival research and on Christina Larner's foundational Enemies of God (1981), Goodare provides the most analytically integrated treatment of Scottish prosecution in any European synthesis. Scotland's distinctive features — the role of lay accusers (the 'delation' system), the combination of Calvinist covenant theology with popular belief in maleficium, the pattern of intense episodic panics (1590, 1597, 1628–30, 1649, 1661–62) interspersed with periods of minimal prosecution — receive sustained analysis.\n\n  Goodare's treatment of gender is more nuanced than earlier syntheses. He accepts the demographic reality that approximately 75–80% of European accused were female (with significant regional variation including male-majority jurisdictions in Iceland, Estonia, and Russia) while resisting the simple feminist interpretation that prosecution was primarily a campaign against women. The intersection of gender with other social variables (age, poverty, marital status, social reputation) receives more careful treatment here than in either Levack or earlier syntheses.\n\n  The database draws on Goodare for cross-jurisdictional comparison, Scottish prosecution entries, and gender analysis in persecuted_group entries.",
+
+  "key_arguments": [
+    {
+      "concept": "Social dynamics of accusation as primary focus",
+      "claim": "Understanding who was accused, by whom, and under what social conditions is as important as understanding the ideological content of witch prosecution; Goodare integrates the social history of accusation dynamics with the intellectual history of demonological theory."
+    },
+    {
+      "concept": "Scottish prosecution as analytically distinctive",
+      "claim": "Scottish witch prosecution was shaped by a combination of Calvinist covenant theology, lay delation practice, secular court structure, and intense but episodic panic patterns that make it analytically distinct from both English and Continental prosecution and merits integration into comparative European analysis rather than treatment as peripheral."
+    },
+    {
+      "concept": "Gender analysis beyond simple misogyny thesis",
+      "claim": "The demographic predominance of female accused (approximately 75–80% European average) reflects multiple intersecting social variables — gender, age, poverty, social reputation, marital status — rather than a singular misogynist agenda; prosecution targeted a social type whose gendering was one dimension among several."
+    },
+    {
+      "concept": "Integration of recent regional scholarship",
+      "claim": "The decades of regional scholarship (Behringer on Bavaria, Midelfort on southwest Germany, Monter on France and Switzerland, Macfarlane on Essex, Larner on Scotland) require integration into a revised synthetic framework that preserves regional specificity while enabling comparative analysis."
+    }
+  ],
+
+  "relation_to_database": "Goodare is cited in database entries on Scottish prosecution, gender analysis of accused persons, and cross-jurisdictional comparison. His work on the social dynamics of accusation informs persecuted_group entries and the structural analysis of prosecution patterns.",
+
+  "scholarly_disagreement": "Goodare's synthesis has been broadly well received but reviewed critically on two points. Levack (review in various journals) notes that Goodare's social-historical emphasis, while valuable, does not adequately engage the institutional analysis that Levack's own work establishes as explanatorily primary. Some Scottish specialists (Lizanne Henderson, Edward Cowan) have noted that Goodare's familiarity with Scottish material does not always translate into adequate attention to the specifically Scottish sources that complicate generalizations about Scottish prosecution patterns. The gendered analysis, while more nuanced than earlier work, has been critiqued by Alison Rowlands as still understating the significance of regional male-majority prosecution episodes.",
+
+  "source_method": "Published text: Julian Goodare, The European Witch-Hunt (Routledge, 2016); engaged with Brian Levack, The Witch-Hunt in Early Modern Europe (2006, 3rd ed.) and Ronald Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "rowlands-alison-b1967",
+  "name": "Alison Rowlands",
+  "birth_year": 1967,
+  "death_year": null,
+  "birth_place": null,
+  "academic_discipline": "History / Early Modern European History",
+  "primary_institution": "University of Essex",
+  "specialization": "German witchcraft prosecution; gender and witch trials; Rothenburg ob der Tauber; civic institutional culture and prosecution restraint",
+
+  "major_works": [
+    {
+      "title": "Witchcraft Narratives in Germany: Rothenburg ob der Tauber, 1561–1652",
+      "year": 2003,
+      "publisher": "Manchester University Press",
+      "significance": "Detailed archival study of witchcraft prosecution in the imperial city of Rothenburg ob der Tauber, showing how civic institutional culture, legal procedure, and community-level social dynamics combined to restrain prosecution to comparatively limited scale despite surrounding territorial mass prosecutions"
+    },
+    {
+      "title": "Witchcraft and Masculinities in Early Modern Europe (editor)",
+      "year": 2009,
+      "publisher": "Palgrave Macmillan",
+      "significance": "Collected volume on the underexplored dimension of male witchcraft accusation in early modern Europe; challenges the assumption that witchcraft was primarily a female phenomenon"
+    }
+  ],
+
+  "historiographical_position": "SOCIAL_HISTORIAN",
+  "core_argument": "Rowlands argues that the key to understanding the highly variable geography of German witch prosecution lies not in demonological ideology or community-level social tensions alone but in the specific character of local civic and legal institutions. Her study of Rothenburg ob der Tauber — an imperial free city with its own council, courts, and urban identity — demonstrates that the same social tensions and demonological beliefs that produced mass prosecution in neighboring territories did not generate equivalent persecution in Rothenburg, because the city's institutional culture, legal procedure, and civic leadership combined to restrain accusation and prevent chain-reaction panic. This argument aligns Rowlands with Hutton's social-history emphasis on structural factors over ideology, but adds a specifically institutional dimension that extends Levack's legal analysis into the microhistorical detail of a single city's court records. She differs from Clark's intellectual history in treating demonological ideas as context rather than primary subject, and from Ginzburg's microhistory in focusing on institutional structures rather than on individual voices.",
+
+  "methodological_approach": {
+    "primary_method": "Archival social history of a single imperial city; close reading of city council records, court documents, and denunciation lists",
+    "source_types": "Rothenburg city council records; court records for witchcraft and related cases; denunciation lists; comparative German witchcraft trial statistics",
+    "interpretive_framework": "Institutional social history: how civic legal culture, council procedures, and urban identity shaped the response to witchcraft accusation; comparison with surrounding territories that experienced mass prosecution to isolate the institutional variable"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Civic institutional culture as protection against mass prosecution",
+      "description": "Rowlands's central finding is that Rothenburg's relatively limited witch prosecution — 63 cases over nine decades, compared to thousands of executions in neighboring southwest German territories — was not the product of scepticism about witchcraft but of institutional features specific to imperial free cities: council oversight of judicial procedure, legal protections against coerced chain-denunciation, and civic identity investment in moderate governance. This institutional explanation for variation in prosecution rates contributes a specific mechanism to Levack's general argument that legal and institutional variables are primary determinants of execution rates."
+    },
+    {
+      "concept": "Narrative analysis of witchcraft testimonies",
+      "description": "Rowlands analyzes the narratives that Rothenburg witchcraft suspects told about their encounters with the devil, their relationships with their accusers, and their self-understanding as practitioners — using these narratives to recover the community dynamics of accusation and the subjective experience of being accused. This narrative analysis, which draws on Ginzburg's attention to subaltern voices while adapting it to a German civic context, shows that accused persons were active narrators of their own situations rather than passive recipients of demonological categories."
+    },
+    {
+      "concept": "Masculinities and witchcraft",
+      "description": "Rowlands's edited volume on witchcraft and masculinities (2009) made a significant contribution to the gender analysis of witch prosecution by systematically examining the understudied category of male witches. While feminist scholarship since Barstow and Karlsen had established the predominantly female character of prosecution, Rowlands's volume showed that male accusation — particularly in German territories — was more common than often assumed, and that the gender dynamics of accusation were more complex than a simple female-victim model could capture."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["hutton-ronald-b1953", "levack-brian-b1943", "midelfort-hans-c-erik-b1942", "roper-lyndal-b1956"],
+    "creative_tension_with": ["clark-stuart-b1943", "ginzburg-carlo-b1939", "barstow-anne-llewellyn-b1935", "briggs-robin-b1945"]
+  },
+
+  "database_engagement": "Rowlands's Rothenburg study is directly relevant to trial_event and location entries for southwest German territories. The Rothenburg case appears as a comparative reference point in entries dealing with mass prosecution zones of the German southwest — the Trier, Bamberg, and Würzburg panics — where the contrast with Rothenburg's limited prosecution illuminates the institutional variable. Demonological_concept entries on chain-denunciation and panic dynamics cite Rowlands's analysis of how Rothenburg's procedures interrupted the chain-reaction mechanism. Her work on masculinities is relevant to persecuted_group entries and to database entries where the gender distribution of accusation is at issue.",
+
+  "historiographical_significance": "Alison Rowlands's Witchcraft Narratives in Germany (2003) contributes to one of the most productive questions in recent witchcraft historiography: why did prosecution intensity vary so dramatically across geographically proximate territories? Her Rothenburg study is a model of comparative microhistory, using one well-documented city as a controlled case to isolate the institutional variables that moderated prosecution. The finding that Rothenburg's civic culture, legal procedure, and council oversight combined to prevent mass prosecution — while surrounding territories experienced devastating panics — supports Levack's general argument about the primacy of legal and institutional factors while providing it with archival flesh.\n\nRowlands's work sits most naturally within Hutton's social-history tradition in its attention to community-level dynamics and institutional structure, but it extends that tradition in a specifically German direction that complements Midelfort's foundational study of southwestern Germany and Behringer's research on Bavaria. Her attention to the narratives told by accused persons — the stories they constructed about their encounters with the devil and their relationships with their accusers — also engages with Ginzburg's microhistorical concern for recovering individual voices from hostile sources, though her analytical frame is more institutional than Ginzburg's.\n\nThe volume on witchcraft and masculinities (2009) that Rowlands edited is significant as a systematic engagement with a dimension of the subject that earlier gender-focused scholarship — particularly the feminist tradition of Barstow and Karlsen — had underemphasized. By demonstrating that male witchcraft accusation was more common in German territories than the standard statistical picture suggested, Rowlands's volume opened a productive line of inquiry into the gendering of prosecution that remains active.",
+
+  "scholarly_disagreement": "Rowlands's institutional explanation for Rothenburg's limited prosecution is well-supported archivally but raises questions about the relationship between institutional restraint and the absence of belief: did Rothenburg's council restrain prosecution because they were less convinced of witchcraft's reality, or because their institutional culture provided barriers that operated independently of belief? Clark's intellectual-history framework would suggest that belief was a separate variable from institutional restraint; Rowlands's analysis focuses on the latter without fully resolving the former. Robin Briggs's emphasis on community-level social dynamics as the primary driver of accusation is in some tension with Rowlands's institutional emphasis: Briggs's analysis suggests that community tensions drive accusation regardless of institutional response, while Rowlands shows that institutional response can interrupt the escalation that community tensions might otherwise produce.",
+
+  "scholarly_sources": ["levack-witch-hunt-early-modern-2006", "clark-thinking-with-demons-2001"],
+
+  "source_method": "Published scholarship; Rowlands, Witchcraft Narratives in Germany (2003), preface and introduction; review literature in German History and Magic, Ritual, and Witchcraft",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

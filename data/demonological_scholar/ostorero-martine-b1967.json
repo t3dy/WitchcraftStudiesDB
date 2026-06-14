@@ -1,0 +1,74 @@
+{
+  "id": "ostorero-martine-b1967",
+  "name": "Martine Ostorero",
+  "birth_year": 1967,
+  "death_year": null,
+  "birth_place": "Switzerland",
+  "academic_discipline": "History / Medieval and Early Modern History",
+  "primary_institution": "University of Lausanne",
+  "specialization": "Origins of the witches' sabbath; fifteenth-century Alpine witchcraft; learned magic and heresy in late medieval Switzerland and Savoy",
+
+  "major_works": [
+    {
+      "title": "L'imaginaire du sabbat: Édition critique des textes les plus anciens (1430 c.–1440 c.)",
+      "year": 1999,
+      "publisher": "Université de Lausanne (Cahiers lausannois d'histoire médiévale)",
+      "significance": "Critical edition with analytical essays of five foundational texts from the 1420s–1440s documenting the first appearance of the cumulative witch concept including the sabbath; establishes the documentary basis for the Alpine origin of the composite stereotype"
+    },
+    {
+      "title": "Folâtrer avec les démons: Sabbat et chasse aux sorcières à Vevey (1448)",
+      "year": 1995,
+      "publisher": "Université de Lausanne",
+      "significance": "Case study of the 1448 Vevey witch trials; early work establishing Ostorero's focus on Alpine origins and trial microhistory"
+    },
+    {
+      "title": "Le diable au sabbat: Littérature démonologique et sorcellerie (1440–1460)",
+      "year": 2011,
+      "publisher": "Sismel — Edizioni del Galluzzo (Florence)",
+      "significance": "Full study of the relationship between learned demonological literature and the crystallization of the sabbath concept in the mid-fifteenth century Alpine context; major synthetic treatment of the formative period"
+    }
+  ],
+
+  "historiographical_position": "INTELLECTUAL_HISTORIAN",
+  "core_argument": "Ostorero argues that the cumulative witch concept — the composite stereotype combining night-flight, the sabbath gathering, demonic pact, and apostasy — did not evolve gradually across the whole of Europe but crystallized rapidly in a specific time and place: the Alpine and Franco-Swiss border regions in the 1420s–1440s. The five foundational texts she co-edited in L'imaginaire du sabbat (1999) provide the documentary basis for this claim, showing how a new demonological synthesis emerged from the intersection of inquisitorial prosecution of heresy in Savoy, Valais, and the Dauphiné with local Alpine magic traditions. This argument places Ostorero firmly within Clark's intellectual-history tradition — she treats demonological texts as objects of serious historical analysis — while adding a micro-chronological precision that Clark's sweeping history of ideas could not achieve. Her work complements Ginzburg's attention to Alpine folk beliefs but focuses on learned demonological texts rather than on interrogation analysis of practitioners.",
+
+  "methodological_approach": {
+    "primary_method": "Critical edition of foundational demonological texts combined with contextual historical analysis; archival research in Swiss, Savoyard, and Dauphinois inquisition records",
+    "source_types": "Manuscript demonological texts from Alpine archives; inquisition trial records from the Valais, Savoy, and Dauphiné; printed demonological literature of the mid-fifteenth century",
+    "interpretive_framework": "Intellectual history of the formation of demonological concepts through close reading of manuscript traditions; reconstruction of the textual genealogy of sabbath imagery and cumulative witch concept; attention to the specific institutional context of inquisitorial activity in the Alpine region"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The 1420s–1440s Alpine origin of the cumulative witch concept",
+      "description": "Ostorero's most significant contribution is the precise dating and geographic localization of the first appearance of the composite witch stereotype. The five texts edited in L'imaginaire du sabbat — including the Errores Gazariorum (c.1437), Claude Tholosan's Ut magorum et maleficiorum errores (c.1436), and Johannes Nider's Formicarius (c.1437) — collectively document the rapid crystallization of a new concept between approximately 1428 and 1440 in the Alpine and western Alpine borderlands. This localization has been broadly accepted in subsequent scholarship as establishing the documentary basis for the 'Alpine origins' hypothesis that Michael Bailey and Richard Kieckhefer had argued on other grounds."
+    },
+    {
+      "concept": "Critical edition as historical method",
+      "description": "Ostorero's contribution to method is the application of critical editing practice — establishing text, identifying sources, tracing manuscript tradition — to the foundational demonological texts. Prior scholarship had worked with often unreliable printed versions or partial transcriptions of the key fifteenth-century texts. By producing rigorous critical editions with full apparatus and analytical introductions, Ostorero's work in L'imaginaire du sabbat provided the field with a reliable textual foundation for the study of sabbath origins, enabling more precise intellectual-history analysis than had previously been possible."
+    },
+    {
+      "concept": "The role of inquisitorial context in concept formation",
+      "description": "Ostorero demonstrates that the cumulative witch concept emerged not from popular belief alone, nor from learned demonological speculation in isolation, but from the specific encounter between inquisitorial prosecution of Alpine heresy and the local magic practices being interrogated. The inquisitors active in Valais and the Dauphiné in the 1420s–1440s were prosecuting what they interpreted as a new heretical sect; their interrogatory framework shaped the confessions they extracted; those confessions in turn fed back into the demonological texts produced by the same or related ecclesiastical circles. The Alpine origin of the stereotype is thus also the story of a specific institutional nexus producing a new concept."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["clark-stuart-b1943", "kieckhefer-richard-b1947", "bailey-michael-b1971", "ginzburg-carlo-b1939"],
+    "creative_tension_with": ["hutton-ronald-b1953", "cohn-norman-b1915", "murray-margaret-b1863"]
+  },
+
+  "database_engagement": "Ostorero's work is foundational for the database's demonological_concept entries on the witches' sabbath and the cumulative witch concept, where the 1420s–1440s Alpine origin is documented and its textual basis established. The five texts from L'imaginaire du sabbat appear in scholarly_sources arrays for sabbath-related concept entries and for entries treating the Valais, Savoyard, and Dauphinois trials. Timeline entries for the formative period of witch prosecution (1428–1450) draw on her dating and localization. The scholarly_text entries for the Errores Gazariorum and related foundational texts reference her critical editions as the standard modern scholarly editions.",
+
+  "historiographical_significance": "Martine Ostorero holds a distinctive position in witchcraft historiography as the scholar who provided the most rigorous textual foundation for the 'Alpine origins' hypothesis — the argument that the composite witch stereotype crystallized in the Franco-Swiss-Savoyard Alpine borderlands in the 1420s–1440s. Before L'imaginaire du sabbat (1999), this hypothesis rested on a combination of trial record analysis (by Richard Kieckhefer and others) and intellectual-history argument; Ostorero's critical editions gave it a secure textual basis by establishing authoritative texts of the five foundational documents in which the cumulative concept first appears.\n\nHer work operates within the intellectual-history tradition associated with Clark — treating demonological texts as objects of serious analysis within their own intellectual context — while achieving a chronological and geographical precision that Clark's broad sweep across a century and a half of demonological tradition does not attempt. Within the three-framework structure of the database, Ostorero is most closely aligned with Clark on method and with Ginzburg on the importance of the specific Alpine regional context, though she differs from Ginzburg in focusing on learned texts rather than on interrogation dynamics and practitioner voices.\n\nHer work is less well known in Anglophone scholarship than its importance warrants, partly because her major publications are in French and Italian. Le diable au sabbat (2011), her full synthetic treatment of the formative period, has not been translated into English. Nevertheless, the 'Alpine origins' thesis she helped establish has been incorporated into the standard surveys by Levack, Briggs, and Behringer, and her critical editions are the standard reference for scholars working on the foundational fifteenth-century texts.",
+
+  "scholarly_disagreement": "The 'Alpine origins' hypothesis that Ostorero's work supports has been broadly accepted but not universally so. Some scholars have argued that the emphasis on Alpine origins underestimates the role of earlier fifteenth-century prosecution in other regions — particularly the Vaudois trials in Languedoc and the heresy prosecutions in the Rhine valley. Norman Cohn's analysis in Europe's Inner Demons (1975) predates Ostorero but raises general questions about the continuity between learned fantasy and popular practice that her critical-edition method does not fully address. Richard Kieckhefer and Michael Bailey have debated the relative weighting of learned intellectual tradition versus inquisitorial pressure in the formation of the composite concept, with Ostorero generally supporting Bailey's emphasis on the specific institutional and regional context of Alpine inquisitorial activity.",
+
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "cohn-europes-inner-demons-1975", "kieckhefer-magic-middle-ages-1989"],
+
+  "source_method": "Published scholarship; Ostorero's own prefaces and introductions to L'imaginaire du sabbat (1999) and Le diable au sabbat (2011); bibliographical assessments in Levack, The Witch-Hunt in Early Modern Europe (2006 ed.); Bailey, Fearful Spirits, Reasoned Follies (2013)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "peter-of-berne-fl1430",
+  "name": "Peter of Berne",
+  "birth_year": null,
+  "death_year": null,
+  "birth_place": "Berne, Switzerland (presumed)",
+  "academic_discipline": "Civil Law; Secular Judicial Administration",
+  "primary_institution": "Secular courts of Berne, Swiss Confederation; role as judge (iudex) in the Bernese Oberland",
+  "specialization": "Secular judicial prosecution of witchcraft and maleficium in the Alpine Swiss context; an early practitioner of what would later be theorized as inquisitorial witchcraft procedure",
+
+  "major_works": [
+    {
+      "title": "No independent written works; judicial records of Bernese Oberland trials (1400s-1420s)",
+      "year": null,
+      "publisher": "Trial records; no surviving independent authored text; known only through Johannes Nider's account in Formicarius Book V",
+      "significance": "Peter of Berne's judicial practice in the Bernese Oberland constitutes the primary empirical evidence base on which Nider constructed the first systematic Northern European demonology; while Peter wrote nothing that survives independently, his reported interrogation findings and prosecution experience were the foundational empirical content of the composite witch stereotype as Nider articulated it",
+      "pages": null,
+      "database_entry": "nider-formicarius-1437"
+    }
+  ],
+
+  "historiographical_position": "PROCEDURAL",
+
+  "core_argument": "Peter of Berne's historical significance is entirely mediated: he is known only through Nider's representation of him in the Formicarius, where he appears as the principal informant for the composite witch stereotype's Alpine empirical content. The critical historical question is whether Nider's account of Peter's findings accurately reflects Alpine witch prosecution practice in the 1400s-1420s, or whether the filtering process of transmission — Peter to Nider, oral to written, vernacular to Latin, judicial to theological — transformed the material significantly. Peter represents the secular judicial dimension of early fifteenth-century Alpine witch prosecution, and his reported practice — using judicial torture, accepting confessions of diabolical assembly and maleficium — suggests that secular courts were operating with composite witch categories before these were fully systematized in learned demonological literature.",
+
+  "methodological_approach": {
+    "primary_materials": "Actual judicial interrogations and trial proceedings in the Bernese Oberland; not a theorist but a practitioner whose methods are reconstructed through Nider's mediated account",
+    "analysis_target": "Prosecution of suspected malefactors and diabolists in an Alpine Swiss secular judicial context",
+    "evidence_type": "Confession testimony (obtained under judicial process); witness depositions; physical evidence of maleficium",
+    "explanatory_level": "Judicial-practical; Peter's framework was the secular law of maleficium and heresy prosecution, not theological systematization"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Primary empirical source for the Alpine composite witch stereotype",
+      "claim": "Peter of Berne's reports to Nider provided the concrete case material — specific named malefactors, specific acts of maleficium, specific confessions of diabolical assembly — that allowed Nider to argue that the composite witch stereotype reflected actual prosecution experience rather than clerical fantasy. Whether that argument was correct is precisely what modern historians dispute, but Peter's role as the empirical anchor of Nider's theoretical construction makes him historiographically indispensable.",
+      "implication": "The credibility of the Formicarius's witch stereotype as empirical documentation depends entirely on the reliability of Peter's reports; Cohn's argument that the stereotype was clerical fabrication requires him to impugn Peter's credibility or Nider's representation of it, while Bailey's more nuanced view requires distinguishing what Peter actually found from what Nider made of it."
+    },
+    {
+      "concept": "Secular judicial authority as witch prosecution agent",
+      "claim": "Peter's role as a secular judge — not a Dominican inquisitor or episcopal official — indicates that Alpine witch prosecution in the early fifteenth century was not exclusively an ecclesiastical inquisitorial enterprise. Secular courts in the Swiss Confederation were pursuing witchcraft cases using both civil law and heresy categories, a hybrid that would characterize much of the subsequent history of continental European witch prosecution.",
+      "implication": "Peter's secular judicial role supports Levack's and Monter's arguments about the importance of secular courts in early witch prosecution, and complicates narratives that treat the Inquisition as the primary prosecution engine."
+    },
+    {
+      "concept": "Transmission node in the Alpine-to-learned-demonology pipeline",
+      "claim": "The Chain Peter-Nider-Malleus constitutes the clearest documented transmission pathway from Alpine local prosecution practice to systematic European demonological literature. Peter's oral testimony to Nider (likely at the Council of Basel, 1431-1435, where both were present) provided the empirical content that Nider organized into theological categories that Kramer and Sprenger then cited as authoritative precedent.",
+      "implication": "Understanding this transmission chain is essential for the historiographical question of whether early demonological literature reflects actual prosecution practice or constructs it; Peter is the evidential fulcrum on which that question turns."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "nider_formicarius": "Peter's entire documented existence derives from Book V of Nider's Formicarius, where he appears as 'the judge Peter' ('iudex Petrus') reporting on witch cases from the Bernese Oberland. The textual form — reported speech within a dialogue — layers multiple mediations between Peter's original experience and the surviving text.",
+    "council_of_basel": "The likely location of Peter and Nider's meeting was the Council of Basel (1431-1435), where Nider was a prominent reformer and where many clerical and secular figures converged. Michael Bailey has argued this institutional context shaped what kind of information Nider solicited and recorded.",
+    "bernese_records": "Archival research in Bernese cantonal records has produced some corroboration that secular witch prosecutions occurred in the Bernese Oberland in the relevant period, but the specific cases Nider attributes to Peter cannot be individually verified from surviving documentary evidence."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Johannes Nider (Nider transmits Peter's cases as authoritative empirical evidence; Peter's judicial findings provided the factual grounding for Nider's theological synthesis)",
+      "Early secular Alpine judges pursuing witchcraft cases in the Swiss Confederation and Savoy in the 1410s-1430s, operating in parallel with or independent of ecclesiastical inquisitorial authority"
+    ],
+    "creative_tension_with": [
+      "Norman Cohn, whose argument that the composite witch stereotype was clerical fabrication requires explaining away the putative empirical evidence Peter represents",
+      "Modern historians who take a skeptical view of the Formicarius's empirical accuracy, arguing that Nider transformed Peter's raw judicial material into something categorically different"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Peter of Berne's cases, as mediated by Nider, were the primary empirical evidence for early Alpine witch prosecution and were cited by the Malleus Maleficarum as support for the composite stereotype's reality. The Peter-Nider transmission chain thus had direct influence on the most widely read and judicially influential demonological text of the early modern period.",
+    "criticisms": [
+      "Peter's identity and biography are essentially unknown outside Nider's text; he cannot be confirmed from independent archival sources, which creates uncertainty about the degree to which 'Peter of Berne' was a real historical agent rather than a rhetorical device in Nider's dialogue",
+      "The process of transmission — judicial verbal reports transformed into Latin theological dialogue — introduces unknown quantities of distortion; what Nider selected, emphasized, and framed from Peter's reports cannot be controlled for",
+      "Michael Bailey (Battling Demons, 2003) argues that the specific case details Nider attributes to Peter bear the marks of Nider's pastoral-theological organization rather than raw judicial testimony, suggesting significant transformation in the transmission process"
+    ]
+  },
+
+  "database_engagement": "Peter of Berne is referenced in the nider-johannes-b1380 demonological_scholar entry as Nider's principal informant. He is relevant to demonological_concept entries on the composite witch stereotype's formation and to the scholarly debate recorded in the sabbath-origins-debate historiographical_debate entry. His role as secular judge is pertinent to inquisitorial_body entries documenting secular court jurisdiction over witchcraft cases.",
+
+  "historiographical_significance": "Peter of Berne is one of the most important figures in early witchcraft historiography precisely because he is nearly invisible: a secular judge whose reported judicial experience was the empirical foundation of the earliest systematic Northern European demonology, known only through a single mediated text. His significance is thus a function of his position in a transmission chain rather than any surviving independent contribution. Historians who follow Cohn in treating the composite witch stereotype as clerical invention must explain Peter away; historians who, like Michael Bailey, argue for a more complex relationship between judicial practice and theological systematization must attend carefully to the Peter-Nider transmission as the clearest documented instance of that relationship. The Peter problem — how much of what Nider reports reflects actual Alpine judicial experience, and how much reflects Nider's pastoral-theological reorganization of that experience — is a microcosm of the broader epistemological challenge in early witchcraft historiography.",
+
+  "scholarly_disagreement": "Norman Cohn (Europe's Inner Demons, 1975) treated the Formicarius's accounts of Peter's cases as evidence of clerical construction of the witch stereotype, doubting that Alpine judicial practice had independently arrived at the composite figure. Michael Bailey (Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages, Penn State Press, 2003) offers a more nuanced view, arguing that Nider drew on genuine Alpine prosecution evidence while organizing it through Dominican pastoral categories, so that both Peter's experience and Nider's framework are necessary to explain the result. Richard Kieckhefer largely follows Bailey's view. The question of Peter's literal historicity — whether a specific secular judge named Peter existed as Nider describes — has not been definitively resolved through archival research.",
+
+  "scholarly_sources": [
+    "nider-formicarius-1437",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "cohn-europes-inner-demons-1975",
+    "broedel-malleus-construction-2003",
+    "kieckhefer-magic-middle-ages-1989"
+  ],
+
+  "source_method": "Johannes Nider, Formicarius Book V (c.1437, printed c.1475); Michael Bailey, Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages (Penn State University Press, 2003); Norman Cohn, Europe's Inner Demons (1975); Ankarloo-Clark, Witchcraft and Magic in Europe Vol. 3 (2002); Richard Kieckhefer, Magic in the Middle Ages (Cambridge, 1989)",
+  "review_status": "DRAFT",
+  "confidence": "LOW",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "peters-magician-witch-1978",
+  "title": "The Magician, the Witch and the Law",
+  "author": "Edward Peters",
+  "author_slug": "peters-edward-b1936",
+  "year_published": 1978,
+  "original_year": 1978,
+  "original_title": "The Magician, the Witch and the Law",
+  "original_language": "English",
+  "original_publisher": "University of Pennsylvania Press, Philadelphia",
+  "publisher": "University of Pennsylvania Press",
+  "text_type": "monograph",
+
+  "subject_focus": "Traces the development of medieval and early modern legal frameworks for prosecuting magic and witchcraft, with particular attention to the engagement of heresy law with magical practice and the formation of the crimen exceptum doctrine.",
+
+  "summary": "Peters's study examines how Roman law traditions, canonical legal thought, and theological categories of heresy and apostasy converged to produce the legal infrastructure through which witchcraft and magic became prosecutable offenses in the medieval and early modern periods. Beginning with Roman law's treatment of maleficium and the learned magic traditions of late antiquity, Peters traces how successive papal decretals, conciliar decisions, and canon law commentary progressively associated magical practice with heresy, apostasy, and eventually devil-worship. The pivotal development in Peters's analysis is the assimilation of magic to heresy: once magical practice was constructed as implying an implicit pact with the devil — and therefore apostasy from Christian faith — it fell under heretical jurisdiction with all the procedural consequences, including inquisitorial process, torture as a legally sanctioned tool, and the crimen exceptum status that restricted the accused's procedural protections. Peters demonstrates that this legal development was gradual, contested, and completed only in the fifteenth century, making witch prosecution in the full early modern sense legally possible only when heresy law's engagement with magic had been consolidated.",
+
+  "scholarly_significance": "Peters's legal history is the foundational English-language study of the juridical preconditions of witch prosecution. While subsequent scholarship has substantially developed and complicated his account, the core argument — that witch prosecution's intensification depended on the prior assimilation of magic to heresy through canon law development — remains essential.\n\n  The book's primary contribution is to Levack's institutional analysis: Levack's explanation of why different institutions produced different prosecution rates presupposes the legal framework Peters reconstructs. The crimen exceptum doctrine — the treatment of witchcraft as an exceptional crime permitting suspension of normal procedural protections — which Levack identifies as crucial to enabling mass prosecution, is reconstructed in its legal-historical development by Peters.\n\n  Stuart Clark's Thinking with Demons situates demonological theory within the broader intellectual framework that Peters documents on the legal side: the two works are complementary in their analysis of how learned professional culture (legal and theological) constructed witchcraft as a category requiring prosecution. Peters's emphasis on the canon law process aligns with Clark's insistence on taking the learned frameworks seriously.\n\n  Richard Kieckhefer's Magic in the Middle Ages (1989) built significantly on Peters's framework while modifying some of his conclusions about the pace and mechanism of magic's assimilation to heresy. Peters's later involvement in the Witchcraft in Europe anthology series (with Alan Kors) ensured his legal framework remained integrated into subsequent synthetic scholarship.\n\n  The database draws on Peters for all entries involving the legal mechanisms of witch prosecution — the crimen exceptum doctrine, inquisitorial procedure, the role of torture, and the procedural differences between ecclesiastical and secular courts.",
+
+  "key_arguments": [
+    {
+      "concept": "Magic's assimilation to heresy as foundational development",
+      "claim": "The critical legal development enabling witch prosecution was the progressive assimilation of magical practice to heresy through canon law: once magic was construed as implying demonic pact and apostasy, it fell under heretical jurisdiction with all its procedural consequences."
+    },
+    {
+      "concept": "Crimen exceptum doctrine formation",
+      "claim": "The treatment of witchcraft as an exceptional crime (crimen exceptum) permitting suspension of normal procedural protections for accused persons — including restriction of defense rights, expanded use of torture, and admission of otherwise excluded testimony — developed gradually through canon law commentary and papal decree before becoming the standard prosecutorial framework."
+    },
+    {
+      "concept": "Roman law as foundational substrate",
+      "claim": "Roman law's maleficium category provided the initial substrate on which medieval canonical and theological developments were layered; the continuity from late antique Roman law through medieval canon law to early modern witch prosecution shows a legal tradition of managing magical practice rather than a wholly novel early modern development."
+    },
+    {
+      "concept": "Procedural conditions as prosecution enablers",
+      "claim": "The legal framework that made mass witch prosecution possible — inquisitorial procedure, torture as legally sanctioned tool of interrogation, crimen exceptum status, suspension of normal evidence rules — was in place by the mid-fifteenth century, making the chronology of prosecution intensity explicable partly in terms of when this legal apparatus became operational."
+    }
+  ],
+
+  "relation_to_database": "Peters is cited in database entries on the crimen exceptum doctrine, inquisitorial procedure, and the legal mechanisms of witch prosecution. His reconstruction of how heresy law absorbed magic provides the legal-historical foundation for understanding the procedural dynamics documented in trial_event and inquisitorial_body entries.",
+
+  "scholarly_disagreement": "Richard Kieckhefer (Magic in the Middle Ages, 1989) argued that Peters overemphasized the role of clerical and academic tradition in constructing the magic-heresy nexus and underemphasized the independent survival of popular magic practice; the law did not create magic as a phenomenon but created the prosecutorial framework through which existing practice became criminalized. Kieckhefer also refined Peters's chronology of the canon law developments. More recently, Michael Bailey (Magic and Superstition in Europe, 2007) has integrated Peters's legal framework with attention to the theological superstition categories that worked alongside heresy law; Bailey sees the two tracks — heresy prosecution and superstition correction — as parallel mechanisms Peters partially conflates.",
+
+  "source_method": "Published text: Edward Peters, The Magician, the Witch and the Law (University of Pennsylvania Press, 1978); developed in Alan Kors and Edward Peters (eds.), Witchcraft in Europe, 400–1700: A Documentary History (University of Pennsylvania Press, 1972; 2nd ed. 2001)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

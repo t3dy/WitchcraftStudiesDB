@@ -1,0 +1,97 @@
+{
+  "id": "etienne-de-bourbon-b1190",
+  "name": "Étienne de Bourbon",
+  "birth_year": 1190,
+  "death_year": 1261,
+  "birth_place": "Belleville-sur-Saône, Burgundy, France",
+  "academic_discipline": "Theology; Preaching; Inquisition",
+  "primary_institution": "Dominican Order; inquisitor in southern France and Burgundy; Lyons and the Rhône valley region",
+  "specialization": "Pastoral preaching and exemplum collection; early inquisitorial activity in southern France; ethnographic documentation of popular religious practice and belief, including accounts of nocturnal assemblies",
+
+  "major_works": [
+    {
+      "title": "Tractatus de diversis materiis praedicabilibus (Treatise on Various Preachable Matters)",
+      "year": 1261,
+      "publisher": "Written c.1250-1261; unfinished at Étienne's death; surviving in numerous manuscripts; partially edited by A. Lecoy de la Marche (Paris, 1877)",
+      "significance": "A vast encyclopedic collection of sermon exempla organized according to the seven gifts of the Holy Spirit; contains among the earliest documentary evidence for the belief in the 'society of Lady Abundia' — a group of women believed to travel at night with a female supernatural figure — which later scholars have identified as a precursor tradition to the later witches' sabbath doctrine; also contains the earliest documented account of the cult of Saint Guinefort the greyhound, an unauthorized popular saint",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SYSTEMATIZER",
+
+  "core_argument": "Étienne de Bourbon's Tractatus de diversis materiis praedicabilibus (c.1250-1261) is the earliest substantial Dominican inquisitorial text to record in detail the belief in nocturnal assemblies of women following a supernatural female figure — 'domina Abundia' or 'Lady Abundance' — who were believed to enter houses, feast on the contents, and bring prosperity or harm to their hosts. Étienne's treatment of this belief is complex: he recorded it with apparent ethnographic accuracy, noting its regional distribution and its precise content, while simultaneously condemning it as diabolical delusion within the Canon Episcopi framework — the women believed they were traveling with Lady Abundia were in fact deluded by demons. His significance for witchcraft historiography lies in his position as the earliest documented ethnographer of the nocturnal assembly belief, predating the Alpine trials and the systematic demonological tradition by two centuries. The accounts he preserved are the primary evidence for scholars arguing that later sabbath doctrine drew on genuine pre-existing folk beliefs about nocturnal assemblies.",
+
+  "methodological_approach": {
+    "primary_materials": "Personal inquisitorial experience in southern France and Burgundy; informants and confessants who described popular beliefs about nocturnal assemblies; canonical texts including the Canon Episcopi and related traditions; patristic and theological authority",
+    "analysis_target": "Popular religious beliefs and practices that deviated from orthodox Christianity; the pastoral and inquisitorial challenge of condemning practices that practitioners regarded as innocent or beneficial",
+    "evidence_type": "Pastoral exemplum derived from direct pastoral and inquisitorial encounter; canonical authority; penitential tradition",
+    "explanatory_level": "Pastoral-inquisitorial; Étienne's framework was the Canon Episcopi tradition of treating nocturnal assembly beliefs as diabolically induced delusion — a skeptical stance that nevertheless preserved the ethnographic content of what believers actually believed"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Earliest documentary source for the 'society of Lady Abundia' nocturnal assembly belief",
+      "claim": "Étienne's Tractatus provides the earliest substantial ethnographic documentation of the belief that certain women traveled at night in the company of Lady Abundia, entering houses, feasting, and influencing the prosperity of inhabitants. This belief — recorded by Étienne as widespread in Burgundy and surrounding regions — is the most important pre-inquisitorial evidence for the kind of nocturnal assembly belief that later became the sabbath doctrine.",
+      "implication": "For scholars like Carlo Ginzburg (Ecstasies, 1991), who argues that the sabbath doctrine derived from genuine pre-existing folk beliefs about ecstatic nocturnal journeys, Étienne's account of the 'society of Lady Abundia' is primary evidence: it shows that nocturnal assembly beliefs existed in popular culture long before the inquisitorial sabbath stereotype was formulated, and that these beliefs had a different character — benign rather than diabolical, fertilizing rather than destructive — from the later inquisitorial construction."
+    },
+    {
+      "concept": "Canon Episcopi skepticism as the interpretive frame for popular nocturnal assembly belief",
+      "claim": "Étienne interpreted the 'society of Lady Abundia' belief through the Canon Episcopi framework: the women who believed they traveled at night were victims of diabolical delusion, not real participants in actual nocturnal assemblies. This interpretive frame simultaneously condemned the belief as deluded and preserved the idea that demonic agency could produce convincing illusory experiences. Étienne's position was thus skeptical about the physical reality of the assembly but credulous about the demonic source of the delusion.",
+      "implication": "The persistence of the Canon Episcopi skeptical framework in Étienne's treatment — even as he provided detailed ethnographic content that later systematizers would use to argue for the reality of nocturnal assemblies — illustrates the gradual character of the shift from skepticism to credulity in the inquisitorial tradition that Cohn and Ginzburg debate."
+    },
+    {
+      "concept": "Earliest documented account of Saint Guinefort the greyhound",
+      "claim": "The Tractatus contains the earliest surviving documentation of the popular cult of Saint Guinefort — a greyhound venerated as a saint in Burgundy, believed to heal sick children — which Étienne investigated and condemned as inquisitor. This account, though not directly related to witchcraft, demonstrates Étienne's role as a systematic recorder of popular religious deviation and his position at the boundary between pastoral observation and inquisitorial action.",
+      "implication": "The Saint Guinefort account, which has received more scholarly attention than the 'society of Lady Abundia' material, demonstrates Étienne's general practice of careful ethnographic recording combined with condemnatory inquisitorial action — a practice that simultaneously preserved and condemned popular religious life."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "canon_episcopi": "Étienne's engagement with the Canon Episcopi — the Carolingian canonical text that attributed nocturnal assembly beliefs to demonic delusion — was complex: he used it as the interpretive frame for the 'society of Lady Abundia' material, but his detailed ethnographic recording went beyond what the Canon Episcopi's skeptical framework required, preserving the content of beliefs it condemned.",
+    "inquisitorial_practice": "As an active inquisitor in southern France and Burgundy, Étienne had direct access to popular belief through the inquisitorial process as well as through pastoral encounter, giving his Tractatus an unusual combination of ethnographic detail and prosecutorial authority.",
+    "preaching_tradition": "The Tractatus's organization as a collection of preaching exempla meant that Étienne's accounts of popular belief — including the 'society of Lady Abundia' material — were framed as instructional material for preachers, embedding them in the pastoral tradition and giving them a circulation through preaching that extended beyond the inquisitorial context."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Jacques de Vitry and other thirteenth-century exemplum collectors who documented popular religious practice in pastoral context",
+      "Other Dominican inquisitors in southern France who were recording and prosecuting popular religious deviation in the same period"
+    ],
+    "creative_tension_with": [
+      "Later fifteenth-century demonologists who would use the kind of nocturnal assembly material Étienne recorded as evidence for the physical reality of sabbath attendance — inverting Étienne's Canon Episcopi skepticism",
+      "Carlo Ginzburg, whose use of Étienne's 'society of Lady Abundia' material as evidence for pre-existing folk belief implicitly challenges the view that the sabbath doctrine was purely a clerical construction"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "The Tractatus's enormous manuscript circulation among Dominican preachers spread Étienne's accounts of popular belief — including the 'society of Lady Abundia' material — through the preaching network of thirteenth- and fourteenth-century Europe. Whether later writers on nocturnal assemblies drew directly on Étienne or on the same underlying popular traditions through independent channels is not fully resolved.",
+    "criticisms": [
+      "Norman Cohn (Europe's Inner Demons, 1975) was skeptical about whether Étienne's 'society of Lady Abundia' accounts reflected genuine popular belief or pastoral misrepresentation of popular practice through clerical categories",
+      "Carlo Ginzburg (Ecstasies, 1991) treated the accounts as genuine evidence of pre-existing folk belief about ecstatic nocturnal journeys, using them as part of his argument for a shamanistic substrate beneath the sabbath doctrine — a reading that Cohn challenged",
+      "The incomplete and manuscript-only state of the Tractatus until the partial nineteenth-century edition has limited systematic scholarly engagement with the full text"
+    ]
+  },
+
+  "database_engagement": "Étienne de Bourbon is cited in historiographical_debate entries on sabbath origins and in demonological_concept entries on the Canon Episcopi tradition and the nocturnal assembly belief. His 'society of Lady Abundia' accounts are the primary pre-inquisitorial evidence in the database for folk belief about nocturnal assemblies, and the historiographical dispute between Cohn and Ginzburg about how to interpret them is directly relevant to the sabbath-origins-debate entry. He is also relevant to discussions of inquisitorial ethnography as a historical source in the corpus entries.",
+
+  "historiographical_significance": "Étienne de Bourbon occupies a critical position in debates about the origins of the sabbath doctrine as the earliest substantial documented source for nocturnal assembly beliefs in a form close to what later became the witches' sabbath. His Tractatus has generated sharply divergent interpretations: for Norman Cohn (Europe's Inner Demons, 1975), his accounts of 'Lady Abundia's society' reflect pastoral clerical misrepresentation of popular practice rather than genuine popular belief about nocturnal assemblies; for Carlo Ginzburg (Ecstasies, 1991), they constitute primary evidence that such beliefs genuinely existed in popular culture long before the inquisitorial sabbath stereotype was formulated, supporting Ginzburg's thesis of a shamanistic substrate. The dispute between Cohn and Ginzburg about how to read Étienne's accounts has not been resolved, but it is one of the most important methodological debates in witchcraft historiography, involving questions about how pastoral and inquisitorial texts can be read against the grain to recover popular belief. Étienne's ethnographic precision — his recording of regional distribution, specific practitioners' accounts, and precise content of the nocturnal assembly belief — gives his Tractatus an unusual documentary richness for a thirteenth-century source.",
+
+  "scholarly_disagreement": "The central dispute about Étienne concerns the relationship between his pastoral recording and the popular belief it describes. Carlo Ginzburg (Ecstasies, 1991) used the 'society of Lady Abundia' accounts as primary evidence for an ecstatic fertility cult that predated and underlaid the sabbath doctrine, arguing that Étienne's careful recording preserved genuine folk belief beneath his condemnatory interpretation. Norman Cohn (Europe's Inner Demons, 1975) argued that such accounts reflected clerical projection rather than genuine popular belief and that the connection between the 'Lady Abundia' tradition and the later sabbath was constructed rather than discovered. Jean-Claude Schmitt (The Holy Greyhound: Guinefort, Healer of Children since the Thirteenth Century, 1979, translated 1983) provides the most thorough scholarly analysis of Étienne's Tractatus through the lens of the Saint Guinefort case, but without the same attention to the 'Lady Abundia' material.",
+
+  "scholarly_sources": [
+    "cohn-europes-inner-demons-1975",
+    "ginzburg-ecstasies-1991",
+    "kieckhefer-magic-middle-ages-1989",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "clark-thinking-with-demons-2001"
+  ],
+
+  "source_method": "Norman Cohn, Europe's Inner Demons (1975); Carlo Ginzburg, Ecstasies: Deciphering the Witches' Sabbath (1991); Richard Kieckhefer, Magic in the Middle Ages (Cambridge, 1989); Ankarloo-Clark, Witchcraft and Magic in Europe Vol. 3 (2002); Jean-Claude Schmitt, The Holy Greyhound (Cambridge University Press, 1983); primary source: Tractatus de diversis materiis praedicabilibus (c.1250-1261), partial edition by A. Lecoy de la Marche (Paris, 1877)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

@@ -1,0 +1,98 @@
+{
+  "id": "nicolas-jacquier-fl1450",
+  "name": "Nicolas Jacquier",
+  "birth_year": null,
+  "death_year": 1472,
+  "birth_place": "Unknown; likely France or Low Countries",
+  "academic_discipline": "Theology; Canon Law; Inquisitorial Procedure",
+  "primary_institution": "Dominican Order; Inquisition of France; later Inquisitor of Bohemia",
+  "specialization": "Inquisitorial demonology; legal argumentation for witchcraft as a new and distinct heretical sect; systematization of sabbath doctrine",
+
+  "major_works": [
+    {
+      "title": "Flagellum haereticorum fascinariorum (The Scourge of Heretical Fascinators)",
+      "year": 1458,
+      "publisher": "Written 1458; printed at Frankfurt, 1581",
+      "significance": "The first major systematic argument that witches constituted a new heretical sect — the 'fascinarii' or fascinators — distinct from the types of magicians and diviners catalogued in older canonical and pastoral literature; Jacquier argued this distinction was legally and theologically critical because it meant the Canon Episcopi's skeptical provisions did not apply to the new witches, clearing the way for unrestricted inquisitorial prosecution",
+      "pages": null,
+      "database_entry": null
+    }
+  ],
+
+  "historiographical_position": "SYSTEMATIZER",
+
+  "core_argument": "Jacquier's central argumentative move in the Flagellum haereticorum fascinariorum (1458) was the claim that contemporary witches constituted a 'new sect' (nova secta) of heretics whose sabbath activities, diabolical pacts, and maleficium were empirically distinct from the activities described by the Canon Episcopi. The Canon Episcopi — a ninth-century canonical text incorporated into Gratian's Decretum — had stated that women who claimed to fly at night with Diana were deluded, and its skeptical provisions had been used to challenge inquisitorial proceedings against alleged witches. Jacquier's response was to argue that the Canon Episcopi addressed a different and earlier type of practitioner; the current witches were something genuinely new, whose sabbath attendance was physically real rather than illusory. This 'new sect' argument was the single most influential doctrinal move in fifteenth-century demonological literature because it removed the principal canonical obstacle to prosecution, and Jacquier made it before the Malleus, establishing the key argumentative template that Kramer and Sprenger would later elaborate.",
+
+  "methodological_approach": {
+    "primary_materials": "Inquisitorial practice records; canonical texts including the Canon Episcopi and Gratian's Decretum; scholastic theological argument; earlier Dominican demonological literature including the Formicarius",
+    "analysis_target": "The legal and theological status of alleged witchcraft practitioners within the framework of canon law and inquisitorial jurisdiction; the question of whether existing canonical provisions allowed or foreclosed prosecution",
+    "evidence_type": "Canonical citation and argument; scholastic theological reasoning; reported inquisitorial case evidence",
+    "explanatory_level": "Legal-theological; Jacquier's framework was primarily juridical — establishing the conditions under which inquisitorial prosecution was canonically authorized — secondarily theological"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "The 'new sect' argument circumventing the Canon Episcopi",
+      "claim": "Jacquier's argument that contemporary witches represented a historically unprecedented new sect — distinguishable from the deluded women of the Canon Episcopi by their physical sabbath attendance and explicit diabolical covenant — was the key doctrinal innovation that cleared the canonical path for unrestricted inquisitorial prosecution. By historicizing the Canon Episcopi as addressing a previous and different phenomenon, he prevented the skeptical canonical tradition from constraining current proceedings.",
+      "implication": "The 'new sect' argument became the standard move in late fifteenth- and sixteenth-century demonological literature; the Malleus Maleficarum adopted it without attribution, and it remained canonical in prosecution-supporting literature through the seventeenth century. Jacquier's priority in making this argument makes the Flagellum an essential document in the genealogy of the composite witch stereotype."
+    },
+    {
+      "concept": "Early formal systematization of the sabbath as physical reality",
+      "claim": "The Flagellum is among the earliest texts to present the witches' sabbath — collective assembly, homage to the devil, sexual acts, infanticide, cannibalism — as a physically real event occurring in the external world, not as a diabolical illusion or psychological phenomenon. Jacquier argued from inquisitorial evidence that confessions described real experience, not delusion.",
+      "implication": "Jacquier's insistence on physical sabbath reality — against the Canon Episcopi's illusionism — established a doctrinal position that would be hotly contested through the sixteenth and seventeenth centuries, but which prosecution-supporting demonologists consistently maintained. His arguments are a reference point in the debate over sabbath doctrine that Cohn tracked in Europe's Inner Demons."
+    },
+    {
+      "concept": "Inquisitorial authority over secular magic as heresy",
+      "claim": "By defining fascinarii as heretics rather than merely magicians or diviners, Jacquier established the jurisdictional principle that inquisitors — not merely bishops or secular courts — had proper authority over witchcraft cases. The heresy classification was not merely theological but administratively consequential, determining which institutional apparatus could prosecute.",
+      "implication": "The heresy-definition argument reinforced the ecclesiastical inquisitorial claim to jurisdiction at precisely the moment when secular courts were also expanding their prosecutorial reach; the subsequent history of jurisdictional competition between ecclesiastical and secular courts over witchcraft cases was in part a response to the theoretical claims Jacquier's work articulated."
+    }
+  ],
+
+  "engagement_with_primary_sources": {
+    "canon_episcopi": "Jacquier's primary engagement was with the Canon Episcopi, which he read carefully and argued against systematically, distinguishing its historical referent from contemporary witch practice. This sustained canonical engagement makes the Flagellum the most legally sophisticated of the early anti-Canon Episcopi texts.",
+    "inquisitorial_records": "Jacquier drew on his own inquisitorial experience in France and Bohemia to supply case evidence for the reality of the new sect's practices, following Nider's model of grounding theoretical argument in prosecution experience.",
+    "formicarius": "Jacquier's knowledge of Nider's Formicarius is evident in his treatment of Alpine witch practice, which he synthesized with Inquisition case material from France and Bohemia."
+  },
+
+  "scholarly_relationships": {
+    "alignment_with": [
+      "Johannes Nider (Jacquier built on Nider's composite witch stereotype, extending it with more systematic canonical argumentation)",
+      "Heinrich Kramer and Jakob Sprenger (the Malleus adopted Jacquier's 'new sect' argument and drew on the Flagellum's canonical framework without explicit acknowledgment)",
+      "Alphonso de Spina (near-contemporary who was independently developing similar arguments for the Iberian context in Fortalitium fidei)"
+    ],
+    "creative_tension_with": [
+      "The Canon Episcopi tradition and its defenders, who maintained that alleged witchcraft experiences were delusional",
+      "Later sceptics including Johann Weyer, who would reassert versions of the illusionism argument that Jacquier's 'new sect' doctrine had attempted to foreclose"
+    ]
+  },
+
+  "reception_and_critique": {
+    "major_influences": "Although the Flagellum was not printed until 1581 — over a century after it was written — it circulated in manuscript among Dominican inquisitors and was known to the authors of the Malleus, who incorporated its central arguments. Its long manuscript circulation followed by late print publication suggests it functioned as an intra-institutional document before becoming more widely available.",
+    "criticisms": [
+      "Norman Cohn argued that Jacquier's 'new sect' doctrine was a polemical construction designed to expand inquisitorial jurisdiction rather than an accurate description of an empirical reality, and that the Canon Episcopi's skeptical tradition he was circumventing was epistemically more defensible than his own credulity",
+      "Later sceptics within the demonological tradition — including some who supported moderate prosecution — criticized the evidentiary basis of Jacquier's claims about physical sabbath attendance, arguing that confession evidence obtained under torture could not support ontological claims about sabbath reality",
+      "Historians of legal procedure have noted that Jacquier's jurisdictional arguments served the institutional interests of the Dominican Inquisition in the face of competing claims from secular courts and episcopal authority"
+    ]
+  },
+
+  "database_engagement": "Nicolas Jacquier is relevant to demonological_concept entries on the witches' sabbath, the canon episcopi debate, and the diabolical pact. His 'new sect' argument is the immediate precedent for the canonical framework the Malleus Maleficarum deployed, and he appears in historiographical_debate entries on sabbath doctrine origins. The Flagellum's manuscript circulation makes it relevant to discussions of intra-institutional communication within the Dominican inquisitorial network, relevant to inquisitorial_body entries.",
+
+  "historiographical_significance": "Nicolas Jacquier is a figure whose historical significance is disproportionate to his scholarly visibility in Anglophone literature. His Flagellum haereticorum fascinariorum (1458) made the canonical argument — the 'new sect' doctrine circumventing the Canon Episcopi — that would become the standard template for prosecution-supporting demonological literature for the next century and a half. Norman Cohn identified Jacquier's text as a key document in the formation of the sabbath doctrine in Europe's Inner Demons (1975), and subsequent scholarship has confirmed that the Malleus was drawing on Jacquier's framework without acknowledgment. The Flagellum belongs to the crucial decade of the 1450s–1460s when multiple writers were independently synthesizing earlier piecemeal witch prosecution material into systematic demonological argument — the same decade that produced Alphonso de Spina's Fortalitium fidei. In the analytical framework of the database, Jacquier exemplifies what Clark calls the 'internal coherence' of demonological argument: his canonical reasoning was not superstition but sophisticated legal theology applied to the problem of how existing law could authorize unrestricted prosecution.",
+
+  "scholarly_disagreement": "Norman Cohn (Europe's Inner Demons, 1975) treated Jacquier as a key agent in the clerical fabrication of the sabbath doctrine, emphasizing the strategic function of his 'new sect' argument in expanding inquisitorial power. Richard Kieckhefer (Magic in the Middle Ages, 1989) offers a somewhat more nuanced view, acknowledging the canonical sophistication of Jacquier's argument while concurring that it served prosecutorial expansion. Stuart Clark (Thinking with Demons, 1997) treats Jacquier's argument as an example of serious canonical legal reasoning, resisting Cohn's reductive explanation but not fully endorsing the empirical claims. The question of whether the Flagellum's manuscript circulation influenced the Malleus authors directly or indirectly remains debated.",
+
+  "scholarly_sources": [
+    "cohn-europes-inner-demons-1975",
+    "clark-thinking-with-demons-2001",
+    "kieckhefer-magic-middle-ages-1989",
+    "ankarloo-clark-vol3-middle-ages-2002",
+    "kors-peters-witchcraft-europe-2001"
+  ],
+
+  "source_method": "Norman Cohn, Europe's Inner Demons (1975); Stuart Clark, Thinking with Demons (1997/2001); Richard Kieckhefer, Magic in the Middle Ages (Cambridge, 1989); Ankarloo-Clark, Witchcraft and Magic in Europe Vol. 3 (2002); Kors and Peters, Witchcraft in Europe 400–1700: A Documentary History (2001); primary source: Flagellum haereticorum fascinariorum (written 1458, printed Frankfurt 1581)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

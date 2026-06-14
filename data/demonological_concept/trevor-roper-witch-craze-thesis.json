@@ -1,0 +1,63 @@
+{
+  "id": "trevor-roper-witch-craze-thesis",
+  "name": "The Trevor-Roper Witch-Craze Thesis (Confessional-Conflict Model)",
+  "category_type": "ANALYST_TERM",
+  "time_period": "Historiographical: 1967–c.1980s; concerns prosecution patterns c.1560–1680",
+  "primary_locale": "Claimed application to all of Europe, especially zones of Protestant/Catholic competition; thesis has been substantially falsified for most jurisdictions",
+
+  "scholarly_definition": "The Trevor-Roper witch-craze thesis is the historical-sociological argument, advanced by H.R. Trevor-Roper in 'The European Witch-Craze of the Sixteenth and Seventeenth Centuries' (1967), that the intensification of European witch prosecution was driven primarily by Reformation and Counter-Reformation religious conflict: prosecution was most intense in zones of confessional competition, and the 'witch-craze' — Trevor-Roper's own term — was a product of the ideological anxiety generated when Protestant and Catholic communities competed for allegiance and social control. Trevor-Roper also proposed a social-psychological scapegoating model: communities under ideological stress from confessional conflict projected their anxieties onto marginal figures — the isolated, elderly, and deviant — who became identifiable as witches. The thesis constitutes the first major synthetic interpretation of European witch prosecution as a coherent phenomenon and coined the term 'witch-craze,' which entered general discourse and remains the default popular designation despite specialists' rejection. The thesis has been substantially falsified by regional scholarship demonstrating that execution rates did not correlate with confessional competition, but it retains historiographical importance as the synthesis that subsequent scholarship dismantled.",
+
+  "intellectual_genealogy": {
+    "trevor_roper_formulation": "Trevor-Roper's essay originated as a lecture at Oxford in the 1960s and was published in Religion, the Reformation and Social Change (Macmillan, 1967). It drew on earlier work by Jules Michelet (La Sorcière, 1862) and on the social-psychological models prevalent in mid-century historical sociology.",
+    "social_psychological_context": "The essay emerged from the mid-century tradition of applying social-psychological concepts — mass hysteria, scapegoating, collective projection — to historical phenomena. This tradition, influenced by Freudian and functionalist sociology, tended to explain collective religious behavior in terms of social stress and psychological displacement rather than analyzing belief content.",
+    "influence_on_popular_discourse": "The term 'witch-craze,' with its implication of collective irrationality and panic, entered popular and journalistic usage through Trevor-Roper's essay and remains dominant outside specialist scholarship despite being rejected by most specialists as conceptually misleading.",
+    "regional_falsification": "Erik Midelfort's Witch Hunting in Southwestern Germany (1972) was the first direct regional falsification; E. William Monter's Witchcraft in France and Switzerland (1976), Levack's comparative synthesis (1987), and Behringer's Bavarian study (1988/1997) collectively established that the confessional-conflict model did not predict execution rate patterns across European jurisdictions."
+  },
+
+  "clark_intellectual_analysis": "Clark's Thinking with Demons (1997) constitutes an implicit but systematic rejection of Trevor-Roper's explanatory framework, though Clark rarely engages Trevor-Roper directly. Trevor-Roper's 'witch-craze' model treats prosecution as a product of collective irrationality and social-psychological stress — as something fundamentally non-rational that requires explanation in terms of social dysfunction. Clark's project insists on the opposite: demonological thought was coherent theology, prosecutors were educated and intellectually sophisticated, and explanation of prosecution must begin with understanding the internal logic of the ideas that made prosecution seem necessary, not with social-psychological theories that bypass the content of belief. The conflict between Clark's approach and Trevor-Roper's is methodological as much as interpretive: Clark insists on rationality-within-framework; Trevor-Roper assumes irrationality.",
+
+  "hutton_social_analysis": "Hutton (The Witch, 2017) addresses Trevor-Roper's thesis in the context of reviewing synthetic explanations of prosecution and finds it empirically unsustainable. The confessional-competition model does not predict where prosecution was most intense: some of the most intensive episodes — German mass prosecution, Scottish panics, the Salem outbreak — do not correlate with zones of confessional competition in the way Trevor-Roper proposed. Hutton also notes that Trevor-Roper's social-psychological scapegoating model is too vague to generate testable predictions, since communities under 'stress' are ubiquitous in early modern Europe but prosecution was geographically and temporally concentrated in ways the model cannot explain.",
+
+  "ginzburg_interrogation_analysis": "Ginzburg's microhistorical approach operates at a level of specificity that makes Trevor-Roper's macro-sociological model methodologically inadequate for different reasons than Clark's intellectual-history critique. Where Trevor-Roper explains prosecution through aggregate social forces (confessional competition, collective anxiety), Ginzburg shows that individual cases — specific interrogations, specific accused persons, specific confession texts — require analysis at the level of the particular exchange between interrogator and accused. The 'witch-craze' as a trans-European sociological phenomenon is too coarse a category to generate the microhistorical insight Ginzburg's approach demands.",
+
+  "actor_perspective": {
+    "contemporary_understandings": "Trevor-Roper's model is entirely an analyst's construction: contemporaries who prosecuted witches did not understand themselves as acting out confessional anxiety or scapegoating social deviants. Their own understanding was that they were defending Christian communities against diabolical infiltration — an understanding rooted in the specific theological and legal frameworks Stuart Clark analyzes. Trevor-Roper's model does not engage with what contemporaries actually believed they were doing.",
+    "confessional_competition_perception": "In some specific contexts — Bavarian Counter-Reformation, Scottish Reformation — confessional competition did inform how officials framed prosecution. But this is different from Trevor-Roper's claim that confessional competition was the primary driver across Europe; it was one contextual factor among many, variously significant in different jurisdictions."
+  },
+
+  "empirical_falsifications": {
+    "midelfort_southwest_germany": "Midelfort (Witch Hunting in Southwestern Germany, 1972) showed that southwestern German mass prosecution peaked after the height of confessional competition, in the early seventeenth century, not during the period of greatest Reformed/Catholic tension.",
+    "monter_france_switzerland": "Monter (Witchcraft in France and Switzerland, 1976) demonstrated that the Alpine borderlands Trevor-Roper identified as prosecution epicentres, being zones of confessional competition, did not in fact show prosecution patterns consistent with confessional-conflict prediction.",
+    "levack_institutional_alternative": "Levack (The Witch-Hunt in Early Modern Europe, 1987/2006) provided the alternative explanation: execution rate variation correlates more strongly with institutional structure (appellate review, procedural constraints on torture, judicial oversight) than with confessional competition.",
+    "behringer_bavaria": "Behringer (Witchcraft Persecutions in Bavaria, 1988/1997) found some evidence for confessional dynamics in Bavarian prosecution but as one factor in a multi-causal analysis, not as the primary driver Trevor-Roper proposed."
+  },
+
+  "term_legacy": {
+    "witch_craze_as_problematic_term": "The term 'witch-craze' that Trevor-Roper coined and popularized carries significant analytical problems: it implies collective irrationality (a 'craze'), treats prosecution as a unified phenomenon across European jurisdictions (when regional variation is primary), and suggests a single sociological explanation (anxiety-driven collective behavior) that specialist scholarship has rejected. Most historians of witchcraft avoid the term or use it with explicit qualification.",
+    "popular_persistence": "Despite specialist rejection, 'witch-craze' remains the dominant popular and journalistic designation for early modern witch prosecution, largely because Trevor-Roper's essay was widely read and because the term's connotations of collective irrationality fit popular assumptions about 'superstition.'"
+  },
+
+  "historiographical_significance": "The Trevor-Roper witch-craze thesis is historiographically significant as the first major synthetic interpretation of European witch prosecution and as the generative hypothesis against which subsequent regional scholarship was positioned. Its importance is negative and generative: by proposing a testable (if wrong) thesis about what drove prosecution, it prompted the regional studies — Midelfort, Monter, Behringer, Larner, Macfarlane — that transformed the field in the 1970s–1990s. The thesis is now a historiographical fossil, important for understanding the development of witchcraft studies but not for understanding witch prosecution itself. The term 'witch-craze' that it bequeathed to popular discourse remains a live problem: it embeds Trevor-Roper's discredited assumptions in the very vocabulary used to describe the phenomenon.",
+
+  "scholarly_disagreement": "The confessional-conflict thesis was directly challenged by Midelfort (1972), Monter (1976), and Levack (1987/2006) on empirical grounds and by Clark (1997) on methodological grounds. Behringer (Witches and Witch-Hunts, 2004) accepts some role for confessional dynamics in specific regional contexts (Bavaria, the Rhine territories) while rejecting the claim that confessional competition explains European prosecution as a whole. No specialist currently defends Trevor-Roper's thesis in its original form. The term 'witch-craze' continues to generate debate: historians of popular culture and gender (Anne Barstow, Witch Craze, 1994) have used the term while rejecting Trevor-Roper's specific argument; specialists in witch trial historiography (Clark, Hutton, Levack) avoid it.",
+
+  "source_method": "H.R. Trevor-Roper, 'The European Witch-Craze of the Sixteenth and Seventeenth Centuries,' in Religion, the Reformation and Social Change (Macmillan, 1967); critiqued in Erik Midelfort, Witch Hunting in Southwestern Germany (Stanford University Press, 1972); E. William Monter, Witchcraft in France and Switzerland (Cornell University Press, 1976); Brian Levack, The Witch-Hunt in Early Modern Europe (1987/2006); Stuart Clark, Thinking with Demons (1997/2001); Wolfgang Behringer, Witches and Witch-Hunts (Polity Press, 2004); Ronald Hutton, The Witch (Yale University Press, 2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "scholarly_sources": [
+    "trevor-roper-witch-craze-1967",
+    "levack-witch-hunt-early-modern-2006",
+    "clark-thinking-with-demons-2001",
+    "hutton-the-witch-2017"
+  ],
+
+  "related_concepts": [
+    "confessional-competition-witch-prosecution",
+    "little-ice-age-crisis-prosecution",
+    "moral-panic-witch-prosecution"
+  ],
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

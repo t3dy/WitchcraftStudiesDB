@@ -1,0 +1,49 @@
+{
+  "id": "briggs-communities-belief-1989",
+  "title": "Communities of Belief: Cultural and Social Tension in Early Modern France",
+  "author": "Robin Briggs",
+  "author_slug": "briggs-robin-b1942",
+  "year_published": 1989,
+  "original_year": 1989,
+  "original_title": "Communities of Belief: Cultural and Social Tension in Early Modern France",
+  "original_language": "English",
+  "original_publisher": "Oxford University Press, Oxford",
+  "publisher": "Oxford University Press",
+  "text_type": "monograph",
+
+  "subject_focus": "Analysis of cultural and social dynamics in early modern Lorraine, establishing the village-community framework for understanding witch accusation as an expression of internal social tensions rather than external elite imposition.",
+
+  "summary": "Communities of Belief collects and develops Briggs's archival research on early modern Lorraine, with particular focus on how social tensions, neighbourhood conflict, and patterns of communal life generated witch accusations from within village communities. The central argument runs against both the elite-imposition model (Muchembled's acculturation thesis) and simple victim-studies perspectives: witch accusation in Lorraine emerged primarily from within communities themselves, reflecting specific social dynamics — charity refusal, envy, neighbourhood quarrel, personal reputation built over decades — rather than being imposed by external authorities. Briggs reconstructs the social logic of accusation through detailed archival work on the Lorraine prosecution records, showing how accused individuals' reputations accumulated over long periods through a series of neighbourhood conflicts before formal accusation crystallized. The book provides the analytical foundation for Briggs's major synthesis, Witches and Neighbours (1996), which extended these arguments to a comparative European framework.",
+
+  "scholarly_significance": "Communities of Belief is the essential analytical predecessor to Witches and Neighbours and is the place to find Briggs's most detailed regional argument, grounded specifically in Lorraine archival evidence. While Witches and Neighbours (1996) achieved greater reach and influence, Communities of Belief contains the methodological and empirical foundations.\n\n  Briggs's challenge to Muchembled's acculturation thesis — itself grounded in French and Belgian material — is particularly significant because it uses the same regional evidence base to reach opposite conclusions. Where Muchembled reads prosecution records as evidence of elite cultural disciplining, Briggs's Lorraine records show popular initiative: community members brought accusations, testified against neighbors they had identified as witches over long periods, and participated actively in prosecution in ways that cannot be reduced to elite imposition.\n\n  The charity-refusal model — the pattern in which accused persons were characterized by their accusers as having expressed malicious resentment after being refused charity or neighborly aid — receives its most detailed regional development in this volume. This connects Briggs's work with the English charity-refusal model identified by Keith Thomas and Alan Macfarlane while also showing regional variations.\n\n  Ronald Hutton (The Witch, 2017) engages with Briggs's community-level analysis as a significant corrective to both victim-centered and elite-centered narratives. The database draws on Communities of Belief for entries on Lorraine prosecution patterns, accused persons from that region, and the concept of community-based accusation dynamics.",
+
+  "key_arguments": [
+    {
+      "concept": "Popular initiative in witch accusation",
+      "claim": "Witch accusations in Lorraine originated primarily within village communities rather than being imposed by external elite authorities; community members identified, tracked, and eventually formally accused neighbors whose behavior had made them suspects over long periods, often spanning decades."
+    },
+    {
+      "concept": "Reputation accumulation as accusation precondition",
+      "claim": "Successful witch accusations required the prior accumulation of a negative reputation over time, built through a series of neighborhood conflicts, perceived malicious acts, and expressions of resentment; formal accusation crystallized an existing communal judgment rather than creating it."
+    },
+    {
+      "concept": "Social tension as prosecution driver",
+      "claim": "The social dynamics generating witch accusations were specific: charity-refusal resentment, neighbor envy, conflict over resources and social precedence, and the social isolation of individuals unable to maintain the reciprocal obligations of community life — structural conditions that created both the accused and the accuser."
+    },
+    {
+      "concept": "Against the acculturation thesis",
+      "claim": "Muchembled's acculturation model — prosecution as elite cultural disciplining — does not fit Lorraine evidence, where prosecution reflects popular social dynamics and community initiative rather than a top-down campaign against popular culture."
+    }
+  ],
+
+  "relation_to_database": "Briggs is cited in database entries on Lorraine prosecution patterns and the community-based accusation dynamic. The charity-refusal model and reputation-accumulation analysis from Communities of Belief inform entries on accused persons from French jurisdictions. This work is the primary scholarly source for understanding the social structure of prosecution in the Duchy of Lorraine.",
+
+  "scholarly_disagreement": "Briggs's emphasis on popular initiative has been broadly accepted for the Lorraine case but has been challenged as to its generalizability. Willem de Blécourt (Trial by Jury, 2000; various articles) argues that Briggs understates the role of institutional context — magistrates' willingness to prosecute, the availability of legal mechanism — in enabling community accusation to become formal prosecution. Muchembled (Le roi et la sorcière, 1993 and subsequent work) has modified but not abandoned his acculturation model in response to Briggs's critique, arguing that elite and popular dynamics operated simultaneously. Stuart Clark's review of Witches and Neighbours in Past and Present accepted Briggs's empirical account while questioning whether the social-tension model fully accounts for the ideological dimension of prosecution.",
+
+  "source_method": "Published text: Robin Briggs, Communities of Belief: Cultural and Social Tension in Early Modern France (Oxford University Press, 1989); developed in Robin Briggs, Witches and Neighbours (HarperCollins, 1996); engaged in Ronald Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

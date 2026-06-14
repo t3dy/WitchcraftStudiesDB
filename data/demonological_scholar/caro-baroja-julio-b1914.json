@@ -1,0 +1,80 @@
+{
+  "id": "caro-baroja-julio-b1914",
+  "name": "Julio Caro Baroja",
+  "birth_year": 1914,
+  "death_year": 1995,
+  "birth_place": "Madrid, Spain",
+  "academic_discipline": "Anthropology / History",
+  "primary_institution": "Independent scholar (associated with Spanish National Research Council, CSIC)",
+  "specialization": "Basque and Iberian ethnography; comparative witchcraft; Spanish Inquisition; popular religion",
+
+  "major_works": [
+    {
+      "title": "Las brujas y su mundo (The World of the Witches)",
+      "year": 1961,
+      "publisher": "Revista de Occidente (Madrid); English translation: University of Chicago Press, 1964",
+      "significance": "First major comparative anthropological history of witchcraft to integrate Iberian and Basque material into the broader European debate; demonstrated that Spanish witchcraft traditions had a distinct regional character not reducible to the northern European model"
+    },
+    {
+      "title": "De la superstición al ateísmo: meditaciones anthropológicas",
+      "year": 1974,
+      "publisher": "Taurus (Madrid)",
+      "significance": "Broader study of the relationship between popular belief, superstition, and secular thought in Spanish cultural history"
+    },
+    {
+      "title": "Vidas mágicas e Inquisición (2 vols.)",
+      "year": 1967,
+      "publisher": "Taurus (Madrid)",
+      "significance": "Detailed case studies of individuals prosecuted by the Spanish Inquisition for magical practices; extends the microhistorical attention to individuals that Ginzburg later championed from Italian sources"
+    },
+    {
+      "title": "El señor inquisidor y otras vidas por oficio",
+      "year": 1968,
+      "publisher": "Alianza Editorial (Madrid)",
+      "significance": "Studies of inquisitors and their professional cultures; important for understanding the institutional dimensions of Spanish witch prosecution"
+    }
+  ],
+
+  "historiographical_position": "ANTHROPOLOGICAL",
+  "core_argument": "Caro Baroja argued that European witchcraft traditions must be understood through comparative anthropological analysis that takes regional variation as primary — and that the Spanish and Basque material, largely unknown to Anglophone scholarship, revealed a distinctive regional tradition that modified and complicated any pan-European synthesis. His work on Iberian witchcraft showed that in the Spanish case, the role of the Spanish Inquisition was broadly restraining rather than persecutory — a finding later confirmed and extended by Gustav Henningsen's research on Zugarramurdi — and that the folk beliefs documented in Spanish trials had affinities with Mediterranean religious traditions that Anglo-German-focused accounts could not explain. Caro Baroja's approach is closest to Hutton's social-anthropological attention to actual folk practices, but predates and in some respects anticipates Hutton's framework; it differs from Clark's intellectual history in treating demonological theory as context rather than subject, and from Ginzburg's microhistory in working comparatively across regions rather than from single interrogation records.",
+
+  "methodological_approach": {
+    "primary_method": "Comparative cultural anthropology combined with historical analysis of trial records; ethnographic attention to Basque and Iberian folk beliefs as living tradition",
+    "source_types": "Inquisition trial records from Spanish archives; Basque ethnographic material; comparative European witchcraft literature; classical and medieval sources on demonology",
+    "interpretive_framework": "Functionalist anthropology applied to historical material; understanding witchcraft belief as part of an integrated system of popular religion, folk medicine, and community social organization; comparative method linking Spanish material to classical antiquity, Mediterranean folk religion, and northern European traditions"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Iberian witchcraft as a distinct regional tradition",
+      "description": "Caro Baroja demonstrated that Basque and Spanish witchcraft traditions had structural features — the role of the akelarrea (sabbath in Basque tradition), specific diabolical figures, the integration of witchcraft with Basque communal religion — that set them apart from the stereotypical north European or German model. This regional specificity, which Caro Baroja documented through Basque ethnographic and historical sources, helped establish the principle that regional variation must be taken as primary in any analysis of European witchcraft — a methodological commitment now central to the field's self-understanding."
+    },
+    {
+      "concept": "The Spanish Inquisition as restraining force",
+      "description": "Caro Baroja's analysis of Spanish Inquisition records revealed that the institutional response of the Spanish Inquisition to witchcraft accusations was characteristically sceptical and procedurally restrained — contrary to the popular image of the Inquisition as a witch-hunting machine. This finding, confirmed and elaborated by Henningsen's research on the Zugarramurdi cases (1609–1614) and Alonso de Salazar Frías's famous sceptical report, became important evidence for scholars arguing that centralized institutional oversight tended to restrain rather than amplify prosecution."
+    },
+    {
+      "concept": "Anthropological continuity between ancient and early modern witchcraft",
+      "description": "Caro Baroja drew connections between ancient Graeco-Roman concepts of witchcraft (the strix, the lamia, night-flying women) and early modern Iberian traditions, using classical sources alongside early modern trial records and contemporary Basque ethnographic material. While some of these continuity arguments have been qualified by subsequent scholarship (Hutton is cautious about assumed continuities), Caro Baroja's method of reading across long chronological spans and cultural borders opened comparative perspectives that remain productive."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["hutton-ronald-b1953", "henningsen-gustav-b1934", "ginzburg-carlo-b1939", "monter-e-william-b1936"],
+    "creative_tension_with": ["clark-stuart-b1943", "murray-margaret-b1863", "trevor-roper-hr-b1914"]
+  },
+
+  "database_engagement": "Caro Baroja's work is drawn upon in the database primarily in location entries for Iberian and Basque territories, trial_event entries for Spanish Inquisition cases, and in demonological_concept entries treating the sabbath and night-flying traditions where Iberian material is relevant. His documentation of the Spanish Inquisition's restraining role is particularly relevant to inquisitorial_body entries on the Spanish Inquisition. The healer_practitioner entries for Spanish and Basque traditions cite Caro Baroja alongside Henningsen for the regional specificity of Iberian folk magic. The comparative anthropological framework he established appears in concept entries where Mediterranean classical continuities are at issue.",
+
+  "historiographical_significance": "Julio Caro Baroja was the scholar who made Iberian witchcraft historiography available to the broader European scholarly community, at a moment when the debate was dominated by English, Scottish, German, and Swiss material. The World of the Witches (1961, English translation 1964) offered the first comprehensive anthropological account of Spanish and Basque witchcraft belief as a regionally specific phenomenon with its own internal logic and historical trajectory. Caro Baroja's combination of classical learning, Basque ethnographic fieldwork, and careful archival research in Inquisition records produced a genuinely synthetic account that neither the social historians (who lacked his ethnographic depth) nor the intellectual historians (who lacked his regional specificity) could have produced.\n\nHis influence on subsequent Iberian witchcraft scholarship was substantial: Gustav Henningsen's The Witches' Advocate (1980), the definitive study of the Zugarramurdi trials and Alonso de Salazar's sceptical report, built directly on the archival and interpretive foundations Caro Baroja established. William Monter's comparative work on the Franco-Swiss border incorporated Caro Baroja's comparative method.\n\nWithin the three-framework structure of the database, Caro Baroja is most naturally aligned with Hutton's attention to actual folk practices and regional variation, though he predates Hutton's synthesis and lacks Hutton's demographic precision. He shares Ginzburg's interest in recovering subaltern voices from hostile sources, but his method is more broadly anthropological than Ginzburg's microhistorical focus on individual interrogations. Clark's intellectual-history framework is the one least present in Caro Baroja's work, which consistently treats learned demonological theory as context for folk belief rather than as its own object of analysis. His work has been less engaged by Anglophone scholarship than its importance warrants, partly because much of it remains untranslated.",
+
+  "scholarly_disagreement": "Caro Baroja's continuity arguments — tracing Iberian witchcraft traditions to Graeco-Roman antiquity — have been treated with caution by scholars skeptical of long-range cultural continuities. Ronald Hutton in The Witch (2017) engages carefully with Caro Baroja's classical material while expressing methodological caution about assumed continuity. Norman Cohn's critique of Murray-style survivalism implicitly touches Caro Baroja's comparative method, though Caro Baroja's use of evidence was far more rigorous than Murray's. The question of how far Iberian findings can be generalized to non-Iberian European contexts remains open: Levack's structural analysis treats Spain as a special case precisely because of the Inquisition's restraining role, which distinguishes it sharply from the decentralized prosecution systems of the German territories.",
+
+  "scholarly_sources": ["levack-witch-hunt-early-modern-2006", "cohn-europes-inner-demons-1975"],
+
+  "source_method": "Published scholarship; Caro Baroja's own prefaces; bibliographical assessments in Henningsen, The Witches' Advocate (1980); Levack, The Witch-Hunt in Early Modern Europe (2006 ed.)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

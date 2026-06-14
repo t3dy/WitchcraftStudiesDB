@@ -1,0 +1,49 @@
+{
+  "id": "bostridge-witchcraft-transformations-1997",
+  "title": "Witchcraft and its Transformations, c.1650–c.1750",
+  "author": "Ian Bostridge",
+  "author_slug": "bostridge-ian-b1964",
+  "year_published": 1997,
+  "original_year": 1997,
+  "original_title": "Witchcraft and its Transformations, c.1650–c.1750",
+  "original_language": "English",
+  "original_publisher": "Oxford University Press, Oxford",
+  "publisher": "Oxford University Press",
+  "text_type": "monograph",
+
+  "subject_focus": "Analysis of the decline of English witch prosecution through the lens of political culture and parliamentary debate, arguing that the waning of prosecution reflected changes in political language and legitimacy rather than the advance of scientific rationalism.",
+
+  "summary": "Bostridge's study, developed from his Oxford doctoral thesis, examines the period of prosecution decline in England from approximately 1650 to 1750, focusing on parliamentary debate, legal reform, and the political cultures of Whig and Tory factions. His central thesis challenges the standard Enlightenment narrative — the claim that scientific rationalism, represented by figures like Robert Boyle, Isaac Newton, and the new Royal Society natural philosophy, displaced witchcraft belief and made prosecution untenable. Bostridge demonstrates instead that the decline of prosecution was not primarily driven by scientific skepticism; indeed, significant numbers of scientifically literate figures continued to affirm witchcraft belief into the eighteenth century. What changed was the political language in which witchcraft could function as a meaningful category: changing alignments of political faction (Whig and Tory), changing conceptions of legitimate authority and the relationship between law and evidence, and shifting frameworks of parliamentary argument progressively removed the conceptual conditions under which witch prosecution could be sustained and politically legitimated.",
+
+  "scholarly_significance": "Bostridge's work represents the most sophisticated English case study of prosecution decline and stands as the primary challenge to the simple Enlightenment-as-cause narrative. Its contribution is methodologically significant beyond England: it demonstrates that explanation of prosecution decline requires the same contextual specificity as explanation of prosecution itself — that 'the Enlightenment' is as inadequate an explanation of decline as 'religious conflict' is of escalation.\n\n  The book's argument that witchcraft discourse was embedded in political languages rather than being simply a matter of supernatural belief or skepticism places it in productive tension with Stuart Clark's intellectual-history approach. Where Clark analyzes the internal coherence of demonological thought as theology, Bostridge shows how that thought was deployed in and shaped by political contexts — parliamentary faction, statutory reform, and the contest over legitimate authority in post-Civil War England. Both studies insist on taking contemporaries' engagement with witchcraft seriously rather than explaining it reductively, but they operate at different levels of analysis.\n\n  Ronald Hutton (The Witch, 2017) cites Bostridge as an important corrective to Whig narratives of rational progress replacing superstition. The database draws on Bostridge particularly for entries related to English prosecution patterns in the late seventeenth century and for the concept of judicial skepticism as a prosecution-limiting mechanism in which political culture plays a mediating role.",
+
+  "key_arguments": [
+    {
+      "concept": "Political culture, not science, ended prosecution",
+      "claim": "The decline of English witch prosecution resulted primarily from changes in political language and the conditions of parliamentary legitimacy, not from the displacement of witchcraft belief by scientific rationalism; many scientifically sophisticated figures continued to affirm witchcraft belief long after prosecution ceased."
+    },
+    {
+      "concept": "Witchcraft belief embedded in political faction",
+      "claim": "In the English context, witchcraft discourse was entangled with Whig and Tory political identities; the alignment of witchcraft prosecution with specific factional positions meant that changes in factional politics reshaped the viability of prosecution as a political act."
+    },
+    {
+      "concept": "Parliamentary debate as analytical site",
+      "claim": "Parliamentary debates over the statutes governing witch prosecution — particularly debates around the repeal of the 1604 Witchcraft Act — reveal how the category of witchcraft functioned in political argument and how its political utility waned through changing frameworks of legal and evidentiary legitimacy."
+    },
+    {
+      "concept": "Skepticism as political language",
+      "claim": "Judicial and intellectual skepticism about witch confessions was not simply a matter of natural-philosophical epistemology but a political stance whose meaning and force varied with factional context; skepticism about witchcraft became aligned with specific political positions and was deployed in factional argument."
+    }
+  ],
+
+  "relation_to_database": "Bostridge is cited in database entries on English prosecution patterns, prosecution decline, and judicial skepticism as a prosecution-limiting mechanism. His argument that political culture mediates the relationship between intellectual change and prosecution practice is used to contextualize English entries where simple rationalism narratives would otherwise distort analysis.",
+
+  "scholarly_disagreement": "Bostridge's argument about the primacy of political culture over scientific rationalism has been broadly accepted for the English case but has been questioned as to its generalizability. Malcolm Gaskill (Crime and Mentalities in Early Modern England, 2000) emphasizes the role of changing popular credulity and community-level prosecution demand alongside parliamentary politics. James Sharpe (Instruments of Darkness, 1996) accepts that political culture plays a role but argues that changing popular attitudes toward evidence and community accusation patterns also contributed significantly. The thesis has been less influential on Continental historiography, where political culture operated through different institutional channels.",
+
+  "source_method": "Published text: Ian Bostridge, Witchcraft and its Transformations, c.1650–c.1750 (Oxford University Press, 1997); analyzed in Ronald Hutton, The Witch (2017); Brian Levack, The Witch-Hunt in Early Modern Europe (2006, 3rd ed.)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

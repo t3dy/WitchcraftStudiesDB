@@ -1,0 +1,86 @@
+{
+  "id": "davies-owen-b1969",
+  "name": "Owen Davies",
+  "birth_year": 1969,
+  "death_year": null,
+  "birth_place": null,
+  "academic_discipline": "History / Social History",
+  "primary_institution": "University of Hertfordshire",
+  "specialization": "Cunning folk in post-prosecution England; popular magic and ghost belief in English history; history of witchcraft beyond the trial period (18th–20th centuries)",
+
+  "major_works": [
+    {
+      "title": "Witchcraft, Magic and Culture 1736–1951",
+      "year": 1999,
+      "publisher": "Manchester University Press",
+      "significance": "Documents the persistence of popular magical belief and informal witch accusation in England after the repeal of the Witchcraft Act in 1736; challenges the assumption that witch belief ended with prosecution"
+    },
+    {
+      "title": "Popular Magic: Cunning-folk in English History",
+      "year": 2003,
+      "publisher": "Hambledon and London",
+      "significance": "Comprehensive study of cunning folk — magical service providers — in English history from the medieval period through the twentieth century; demonstrates their pervasive presence in English popular culture across the whole period"
+    },
+    {
+      "title": "The Haunted: A Social History of Ghosts",
+      "year": 2007,
+      "publisher": "Palgrave Macmillan",
+      "significance": "Social history of ghost belief in England from the early modern period to the present; extends Davies's analysis of popular supernatural belief beyond the witchcraft framework"
+    },
+    {
+      "title": "Magic: A Very Short Introduction",
+      "year": 2012,
+      "publisher": "Oxford University Press",
+      "significance": "Accessible synthetic introduction to magic as a cross-cultural phenomenon; widely assigned in undergraduate courses"
+    },
+    {
+      "title": "America Bewitched: The Story of Witchcraft after Salem",
+      "year": 2013,
+      "publisher": "Oxford University Press",
+      "significance": "Documents the persistence of witchcraft belief and informal accusation in American history after the Salem trials; extends the post-prosecution historiographical method to the American context"
+    }
+  ],
+
+  "historiographical_position": "SOCIAL_HISTORIAN",
+  "core_argument": "Davies argues that the social history of witchcraft and popular magic cannot be adequately written if it stops at the point where legal prosecution ended, because the beliefs and practices that drove prosecution continued long after the last execution. His study of cunning folk demonstrates that magical service providers — healers, diviners, charm-makers — were present in English communities from the medieval period through the twentieth century, operating in a continuous tradition that legal prosecution interrupted but did not destroy. This argument extends Hutton's rehabilitation of cunning folk as legitimate historical subjects into the post-prosecution period, filling the gap that Hutton's focus on the prosecution era left open. Davies differs from Clark's intellectual history in focusing on popular rather than learned belief, from Ginzburg's microhistory in working across long chronological spans rather than individual cases, and from Bostridge's political-language history in grounding the continuity of belief in social practice rather than in elite discourse.",
+
+  "methodological_approach": {
+    "primary_method": "Social history of popular belief drawing on newspaper archives, folklore collections, court records, and anthropological fieldwork reports",
+    "source_types": "Newspaper accounts of cunning folk and informal witch accusation; folklore society archives and collections; quarter sessions records; autobiographical and diary material from rural communities; anthropological surveys of twentieth-century English magical belief",
+    "interpretive_framework": "Long-duration social history of popular belief; analysis of cunning folk as a social role operating within specific community structures; attention to the material conditions of magical practice and the economic relationships between cunning folk and their clients"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Cunning folk as a continuous social institution",
+      "description": "Davies's Popular Magic (2003) demonstrated that cunning folk — individuals who provided magical services for pay within rural and urban English communities — constituted a persistent social institution present in English life from the medieval period through at least the twentieth century. This longitudinal study showed that the cunning folk documented in sixteenth and seventeenth century witch trial records were not an anomaly of the persecution era but representatives of a continuous tradition of magical service provision that the witch trials had partially disrupted and partially absorbed."
+    },
+    {
+      "concept": "Post-prosecution popular belief as legitimate historical subject",
+      "description": "By extending the study of English witchcraft belief beyond 1736 — the date of the last English Witchcraft Act — Davies established that popular magical belief was not a medieval or early modern survival destined to disappear with 'modernity' but a persistent feature of English popular culture that continued to generate informal accusation, community conflict, and the purchase of magical services well into the twentieth century. This demonstration problematizes both the simple Enlightenment narrative (belief ended with prosecution) and Bostridge's political-language account (which focuses on elite discourse), by showing that popular belief had its own trajectory independent of legal and political frameworks."
+    },
+    {
+      "concept": "The separation between legal prosecution and popular belief",
+      "description": "A key analytical contribution of Davies's work is the sharp distinction between the history of legal prosecution (which ended in the eighteenth century) and the history of popular witchcraft belief (which did not). By documenting the persistence of belief, informal accusation, and counter-magical practice in post-prosecution England, Davies showed that the 'end' of witch prosecution was an institutional rather than a cultural event — courts stopped hearing witchcraft cases before communities stopped believing in witches and acting on those beliefs through non-legal means."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["hutton-ronald-b1953", "thomas-keith-b1933", "sharpe-james-b1945", "wilby-emma-b1964"],
+    "creative_tension_with": ["clark-stuart-b1943", "ginzburg-carlo-b1939", "bostridge-ian-b1964"]
+  },
+
+  "database_engagement": "Davies's work is relevant to database entries dealing with the continuity of popular magic beyond the trial period. In healer_practitioner entries, his documentation of cunning folk across multiple centuries provides the long-duration context within which early modern practitioners can be situated. Demonological_concept entries on maleficium and counter-magic cite Davies's material on informal community responses to suspected witchcraft in the post-prosecution period. The database's timeline entries for the post-1736 period draw on Davies's documentation of the persistence of accusatory behavior. His America Bewitched provides context for entries dealing with American witchcraft belief after Salem.",
+
+  "historiographical_significance": "Owen Davies's most significant contribution to witchcraft historiography is the extension of the field's chronological scope beyond the prosecution era. Before Davies's sustained archival work, the social history of English witchcraft effectively ended with the last prosecution; the continuation of popular belief and informal community action against suspected witches was known from folklore collections but had not been subjected to the same rigorous social-historical analysis as the trial period. Davies's Witchcraft, Magic and Culture 1736–1951 (1999) and Popular Magic (2003) together demonstrated that the proper history of English popular magic is not coterminous with the history of prosecution.\n\nThis argument has important implications for the three primary frameworks. Hutton's social history is confirmed and extended: cunning folk persisted as a social institution long after prosecution ceased, suggesting that the social role was more fundamental than the legal framework that periodically criminalized it. Bostridge's political-language argument for the decline of prosecution is supplemented but also partly complicated by Davies's evidence: if popular belief persisted without significant change after the political languages that had supported prosecution transformed, then Bostridge's mechanism explains the legal history without fully accounting for the cultural history. Clark's intellectual history has least direct engagement with Davies's work, since Davies's popular-magic practitioners were not the learned demonologists whose texts Clark analyzed — but Clark's insistence that beliefs must be understood as internally coherent rather than merely superstitious applies to popular magical practice as much as to learned demonology.\n\nDavies has also done important work on American popular magic (America Bewitched, 2013) and ghost belief (The Haunted, 2007) that extends his analytical approach across thematic and geographic boundaries, making him one of the most productive social historians of popular supernatural belief currently working.",
+
+  "scholarly_disagreement": "Davies's emphasis on long-duration continuity in popular belief raises questions about how much historical change he may be underestimating within his long chronological frame. Some historians of popular culture have questioned whether the cunning folk of the nineteenth century really operated in the same tradition as those of the sixteenth century, or whether superficial similarities conceal substantial transformation. Keith Thomas in Religion and the Decline of Magic (1971) argued for a genuine transformation in the climate of elite belief that did eventually filter into popular culture; Davies's evidence for persistent popular belief does not directly contradict Thomas but suggests that the transformation was slower and more partial than Thomas implied.",
+
+  "scholarly_sources": ["hutton-the-witch-2017", "thomas-religion-decline-magic-1971"],
+
+  "source_method": "Published scholarship; Davies's own prefaces and introductions; review literature in Folklore and Social History; historiographical assessments in Hutton, The Witch (2017)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

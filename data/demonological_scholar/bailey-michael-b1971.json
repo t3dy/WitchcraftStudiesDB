@@ -1,0 +1,80 @@
+{
+  "id": "bailey-michael-b1971",
+  "name": "Michael D. Bailey",
+  "birth_year": 1971,
+  "death_year": null,
+  "birth_place": null,
+  "academic_discipline": "History / Medieval and Early Modern History",
+  "primary_institution": "Iowa State University",
+  "specialization": "Late medieval learned magic and heresy; formation of the witch stereotype; boundaries between magic, superstition, and religion in medieval and early modern Europe",
+
+  "major_works": [
+    {
+      "title": "Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages",
+      "year": 2003,
+      "publisher": "Pennsylvania State University Press",
+      "significance": "Detailed study of the Dominican reformer Johannes Nider (c.1380–1438) and the role of his Formicarius in forming the early composite witch stereotype; situates witch stereotype formation within the context of late medieval church reform movements"
+    },
+    {
+      "title": "Magic and Superstition in Europe: A Concise History from Antiquity to the Present",
+      "year": 2007,
+      "publisher": "Rowman & Littlefield",
+      "significance": "Accessible synthetic survey of European magic and superstition from antiquity through the modern period; widely used as an undergraduate teaching text"
+    },
+    {
+      "title": "Fearful Spirits, Reasoned Follies: The Boundaries of Superstition in Late Medieval Europe",
+      "year": 2013,
+      "publisher": "Cornell University Press",
+      "significance": "Analyzes how late medieval theologians drew and redrew the boundaries between legitimate religion, acceptable magic, and condemned superstition; fundamental for understanding the conceptual framework within which witch prosecution became possible"
+    },
+    {
+      "title": "Magic: The Basics",
+      "year": 2018,
+      "publisher": "Routledge",
+      "significance": "Concise introductory study of magic as a category of thought and practice across cultures; demonstrates Bailey's commitment to interdisciplinary synthesis"
+    }
+  ],
+
+  "historiographical_position": "INTELLECTUAL_HISTORIAN",
+  "core_argument": "Bailey argues that the formation of the composite witch stereotype in the early fifteenth century must be understood as a product of the specific intellectual and institutional environment of late medieval church reform, not as the natural culmination of demonological theory in isolation or as a social response to community tensions. His study of Johannes Nider demonstrates that Nider's Formicarius — one of the five foundational texts establishing the cumulative concept — was written by a Dominican reformer concerned above all with moral and ecclesiastical renewal, and that Nider's account of Alpine witches was embedded in a broader argument about the spiritual condition of Christendom. This approach extends Clark's intellectual-history method backward into the late medieval period and adds a reform-movement context that Clark's primarily early modern focus did not supply. Bailey's Fearful Spirits, Reasoned Follies (2013) further develops this by showing that the category of 'superstition' — a medieval theological concept with specific content — was the crucial conceptual vehicle through which learned theologians systematized concerns about popular magic and heresy into the composite witch stereotype.",
+
+  "methodological_approach": {
+    "primary_method": "Intellectual history of theological concepts; close reading of late medieval Latin texts in their reform and institutional context",
+    "source_types": "Late medieval theological treatises and demonological texts, primarily in Latin; chronicle and reform literature; inquisition manuals and early witch-hunt records from the Alpine region",
+    "interpretive_framework": "Conceptual history of the categories of magic, heresy, and superstition; analysis of how theological boundary-drawing between legitimate and illicit religious practice created the conceptual space occupied by the witch stereotype; institutional context of Dominican reform movements"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Church reform as context for stereotype formation",
+      "description": "Bailey's Battling Demons (2003) established that Johannes Nider's Formicarius — now recognized as one of the foundational texts of the composite witch concept — was not primarily a demonological treatise but a reform text concerned with moral and spiritual renewal. Nider's accounts of Alpine witches served a rhetorical and didactic function within his broader argument about Christendom's spiritual condition. This contextualization showed that the witch stereotype emerged from the intersection of inquisitorial prosecution and reforming theology, not from a self-contained demonological tradition."
+    },
+    {
+      "concept": "Superstition as a theological category",
+      "description": "Fearful Spirits, Reasoned Follies (2013) traced the history of 'superstition' as a technical theological concept in late medieval thought, showing how theologians from Augustine through Aquinas to the fifteenth-century reformers used it to classify and condemn practices that crossed the boundary between acceptable popular religion and illicit magic. This analysis revealed that the intellectual machinery for condemning popular magic as diabolical was in place long before it was applied systematically to the construction of the witch stereotype — and that the application was selective and contested rather than automatic."
+    },
+    {
+      "concept": "The late medieval intellectual genealogy of witch prosecution",
+      "description": "Across his three major works, Bailey has produced the most detailed account in English of the intellectual genealogy of witch prosecution in the late medieval period: from the theological definition of superstition (Fearful Spirits), through the specific reform context in which the composite stereotype crystallized (Battling Demons), to the broader comparative survey (Magic and Superstition in Europe). Together, these works fill the chronological gap between Kieckhefer's medieval magic survey and Clark's primarily post-1480 intellectual history."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["clark-stuart-b1943", "kieckhefer-richard-b1947", "ostorero-martine-b1967"],
+    "creative_tension_with": ["hutton-ronald-b1953", "ginzburg-carlo-b1939", "cohn-norman-b1915"]
+  },
+
+  "database_engagement": "Bailey's work is central to database entries on the formative period of witch prosecution. The Nider entry (nider-johannes-b1380) draws extensively on Battling Demons for the contextual analysis of the Formicarius. Demonological_concept entries on the witches' sabbath and cumulative witch concept cite Bailey and Ostorero jointly for the Alpine origin and late medieval formation. Timeline entries for 1428–1440 reference Bailey's dating and contextualization. Scholarly_text entries for the Formicarius and related early fifteenth-century texts cite Battling Demons as the standard modern scholarly treatment.",
+
+  "historiographical_significance": "Michael D. Bailey occupies a distinctive niche in witchcraft historiography as the scholar who most rigorously extended Clark's intellectual-history method backward into the late medieval period. Clark's Thinking with Demons (1997) focused primarily on the great age of witch prosecution (c.1480–1650); Bailey's Battling Demons (2003) and Fearful Spirits, Reasoned Follies (2013) provided the intellectual-historical prehistory, tracing how the theological categories that made prosecution possible were formed in the preceding century.\n\nHis study of Nider is particularly important because Nider's Formicarius had long been recognized as a foundational text but had not been subjected to sustained contextual analysis. By situating Nider within the reform movement he served — the Dominican Observant reform, the Council of Constance context, the specific Alpine regional missions — Bailey showed that the Formicarius was not simply an early demonological treatise but a document produced at the intersection of multiple institutional pressures. This finding has consequences for how the Alpine origin of the composite witch concept is understood: it is not merely the product of an Alpine trial record feeding learned theory, but of a reform-minded intellectual processing Alpine trial reports through a theological framework shaped by his specific reforming agenda.\n\nBailey works primarily within Clark's intellectual-history tradition and shares Clark's insistence that demonological ideas must be understood on their own terms within their theological context. His work has less engagement with Hutton's social-history concerns (the actual practices of folk practitioners) and with Ginzburg's interrogation-analysis method, though Fearful Spirits, Reasoned Follies does address the question of how the category of superstition was applied to actual practitioners. His synthetic survey Magic and Superstition in Europe (2007) is widely used in university teaching and has helped establish his framework as a standard reference for the field's synthetic accounts.",
+
+  "scholarly_disagreement": "Bailey's emphasis on the reform-context of early witch stereotype formation has been broadly welcomed but raises questions about whether his Nider-centered narrative is too focused on one figure in one institutional setting. Martine Ostorero's collaborative work in L'imaginaire du sabbat (1999) provides a broader textual base that partly validates and partly complicates Bailey's narrative — showing that other texts from the same period (the Errores Gazariorum, Tholosan's text) emerged from slightly different institutional contexts than Nider's Dominican reform milieu. Richard Kieckhefer's emphasis on the common tradition of learned magic as the primary context for demonological development is in some tension with Bailey's focus on the specific reform context; both accounts are plausible and the relationship between them remains a matter of current scholarly debate.",
+
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "kieckhefer-magic-middle-ages-1989"],
+
+  "source_method": "Published scholarship; Bailey's own prefaces and introductions; review literature in Speculum, Magic, Ritual, and Witchcraft; Levack, The Witch-Hunt in Early Modern Europe (2006 ed.)",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

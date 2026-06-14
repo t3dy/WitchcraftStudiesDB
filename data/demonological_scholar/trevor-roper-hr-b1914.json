@@ -1,0 +1,74 @@
+{
+  "id": "trevor-roper-hr-b1914",
+  "name": "H.R. Trevor-Roper",
+  "birth_year": 1914,
+  "death_year": 2003,
+  "birth_place": "Glanton, Northumberland, England",
+  "academic_discipline": "History / Intellectual History",
+  "primary_institution": "University of Oxford (Regius Professor of Modern History, 1957–1980); later Peterhouse, Cambridge",
+  "specialization": "Early modern European history, Reformation, religious conflict, witchcraft historiography",
+
+  "major_works": [
+    {
+      "title": "The European Witch-Craze of the Sixteenth and Seventeenth Centuries",
+      "year": 1967,
+      "publisher": "Harper & Row (in Religion, the Reformation and Social Change)",
+      "significance": "Influential synthetic essay arguing that the witch-craze was driven by the religious conflict of the Reformation and Counter-Reformation rather than by social or economic factors; for a generation defined the terms of the debate on persecution's causes"
+    },
+    {
+      "title": "Religion, the Reformation and Social Change",
+      "year": 1967,
+      "publisher": "Macmillan",
+      "significance": "Essay collection contextualizing the witch-craze essay within broader arguments about the relationship between religious conflict and social violence in early modern Europe"
+    },
+    {
+      "title": "The Last Days of Hitler",
+      "year": 1947,
+      "publisher": "Macmillan",
+      "significance": "Trevor-Roper's most celebrated work outside witchcraft history; demonstrates his range as an analyst of ideological systems under pressure"
+    }
+  ],
+
+  "historiographical_position": "INTELLECTUAL_HISTORIAN",
+  "core_argument": "Trevor-Roper argued that the great witch-craze of the sixteenth and seventeenth centuries was not a product of popular superstition, social tension, or legal innovation in isolation, but was driven above all by the ideological ferment of the Reformation and Counter-Reformation: competing confessional forces each deployed witch prosecution as an instrument of social discipline and confessional boundary-marking. The craze reached its greatest intensity precisely in the zones of confessional contestation — the borderlands of Empire, the religiously fragmented southwest German territories — and subsided as confessional boundaries stabilized. This thesis positions him as closer to Clark's intellectual-history framework than to Hutton's social history, but his analysis remains at the level of broad ideological forces rather than the close reading of demonological texts that Clark undertook thirty years later. Subsequent regional research has substantially qualified his framework by showing that the pattern of prosecution does not map neatly onto confessional conflict zones.",
+
+  "methodological_approach": {
+    "primary_method": "Synthetic intellectual history; comparative analysis of regional patterns",
+    "source_types": "Published demonological texts; secondary scholarship on Reformation conflict; regional trial statistics as available in 1967",
+    "interpretive_framework": "The witch-craze as expression of ideological conflict between competing confessional systems; prosecution as a technology of social discipline deployed by embattled religious establishments"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Confessional conflict as driver of prosecution",
+      "description": "Trevor-Roper's central claim was that witch prosecution intensified in direct proportion to the intensity of Reformation and Counter-Reformation conflict in any given region. This was a significant advance on Enlightenment narratives that explained the craze by mere irrationality, and on simple social-economic explanations, by connecting persecution explicitly to the dynamics of confessional competition. Even where his regional conclusions have been corrected, the general question he foregrounded — why does prosecution intensity vary by region and period? — remains central to the field."
+    },
+    {
+      "concept": "The 'witch-craze' as a definable historical phenomenon",
+      "description": "Trevor-Roper's essay gave the academic field a working concept — the 'witch-craze' — that distinguished the concentrated period of mass prosecution (approximately 1550–1650) from both the earlier accumulation of demonological theory and the later decline. While the term has been criticized for overstating coherence and underplaying regional variation, it provided a useful periodization that structured subsequent debate. Brian Levack, Robin Briggs, and Wolfgang Behringer all engaged critically but productively with this periodization."
+    },
+    {
+      "concept": "Intellectual respectability for witchcraft historiography",
+      "description": "Writing as Regius Professor of Modern History at Oxford, Trevor-Roper's engagement with witch prosecution helped legitimate the subject as a serious field of historical inquiry rather than an antiquarian curiosity or a topic for folklorists. This institutional endorsement contributed to the explosion of academic witchcraft studies in the 1970s and 1980s, from which Thomas, Macfarlane, Levack, and eventually Clark, Hutton, and Ginzburg emerged."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["clark-stuart-b1943", "levack-brian-b1943"],
+    "creative_tension_with": ["hutton-ronald-b1953", "ginzburg-carlo-b1939", "midelfort-hans-c-erik-b1942", "behringer-wolfgang-b1956", "briggs-robin-b1945", "thomas-keith-b1933", "macfarlane-alan-b1941"]
+  },
+
+  "database_engagement": "Trevor-Roper's 'witch-craze' thesis functions in the database primarily as a historiographical reference point — an influential earlier position that subsequent entries implicitly or explicitly revise. In demonological_concept entries treating the geography and chronology of persecution, the confessional-conflict hypothesis appears as a named interpretive framework alongside its critiques from regional specialists. In trial_event entries for southwest German and Swiss territories — precisely the regions Trevor-Roper cited as evidence — the tension between his macro-level explanation and the detailed regional picture supplied by Midelfort, Behringer, and Briggs is directly relevant. His essay is cited in scholarly_sources arrays for entries on the social and regional dynamics of persecution, typically flagged as a seminal but substantially superseded position.",
+
+  "historiographical_significance": "Trevor-Roper's 1967 essay 'The European Witch-Craze' represents the last major attempt by a mainstream British historian to offer a single-cause explanation for the phenomenon of mass witch prosecution. Writing before the archival revolution in witchcraft studies — before Midelfort's regional German studies (1972), before Thomas's Religion and the Decline of Magic (1971), before Ginzburg's microhistorical turn — Trevor-Roper worked with limited quantitative data and a broad-brush comparative method that subsequent specialist research has not sustained. His core thesis, that confessional conflict drove persecution, has been tested against the regional record and found insufficient: Erik Midelfort showed that in southwest Germany, which should have been the craze's epicenter on Trevor-Roper's model, the pattern of prosecution was shaped more by legal structure and local political culture than by Lutheran-Catholic rivalry. Wolfgang Behringer's extensive archival work on Bavaria and the Empire found similar results. Robin Briggs in Witches and Neighbours (1996) argued that the confessional-conflict thesis overlooked the community dynamics — neighbourhood tensions, social marginalization, gendered vulnerability — that drove individual accusations.\n\nNevertheless, Trevor-Roper's contribution to the field was real and lasting in two respects. First, his essay gave the academic community a synthetic framework to argue against — the productivity of subsequent witchcraft historiography owes something to the need to correct him. Second, his emphasis on ideological explanation anticipated, however crudely, Clark's later and far more sophisticated intellectual history: the intuition that witchcraft prosecution was connected to the dynamics of confessional thought, not merely to social tension or popular superstition, was correct even if his execution of that insight remained superficial. Clark's Thinking with Demons (1997) is in some sense the proper intellectual-history study that Trevor-Roper's essay gestured toward but could not deliver given the state of the field in 1967. Trevor-Roper's 'witch-craze' thesis is now studied primarily as a historiographical document rather than as a reliable guide to the evidence.",
+
+  "scholarly_disagreement": "Trevor-Roper's confessional-conflict thesis was challenged from multiple directions. Erik Midelfort in Witch Hunting in Southwestern Germany (1972) demonstrated through archival research that regional prosecution patterns in precisely the areas Trevor-Roper cited as paradigmatic did not correspond to confessional boundaries. Wolfgang Behringer's research on Bavaria and Germany further undermined the thesis by showing that Catholic territories with little Protestant competition prosecuted vigorously. Robin Briggs argued that Trevor-Roper neglected the community-level social dynamics that drove accusations. Brian Levack in The Witch-Hunt in Early Modern Europe (1987) offered a multicausal model that acknowledged ideological factors while insisting that legal and institutional variables were equally important. Stuart Clark's alignment with Trevor-Roper's general intuition — that ideas matter — was accompanied by a comprehensive revision of his method: Clark showed that demonological thought was theologically sophisticated in ways Trevor-Roper's essay did not approach.",
+
+  "scholarly_sources": ["clark-thinking-with-demons-2001", "levack-witch-hunt-early-modern-2006"],
+
+  "source_method": "Published scholarship; ODNB entry for Hugh Redwald Trevor-Roper, Baron Dacre of Glanton; historiographical assessments in Levack, Briggs, and Midelfort's published works",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

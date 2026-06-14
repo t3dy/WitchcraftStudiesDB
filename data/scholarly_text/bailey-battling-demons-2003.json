@@ -1,0 +1,49 @@
+{
+  "id": "bailey-battling-demons-2003",
+  "title": "Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages",
+  "author": "Michael D. Bailey",
+  "author_slug": "bailey-michael-b1971",
+  "year_published": 2003,
+  "original_year": 2003,
+  "original_title": "Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages",
+  "original_language": "English",
+  "original_publisher": "Pennsylvania State University Press, University Park",
+  "publisher": "Pennsylvania State University Press",
+  "text_type": "monograph",
+
+  "subject_focus": "Study of Johannes Nider and the intellectual and reforming context of the 1420s–1430s in which the composite witch stereotype — combining maleficium, demonic pact, heresy, and sabbath — crystallized for the first time.",
+
+  "summary": "Bailey's monograph reconstructs the intellectual and institutional environment in which the composite concept of the witch — the amalgamation of maleficium, demonic pact, apostasy, and sabbath that defined the early modern witch stereotype — first took coherent form in the 1420s and 1430s. The central figure is the Dominican reformer Johannes Nider (c.1380–1438), whose Formicarius (c.1437) contains the earliest extended accounts of organized witchcraft as a diabolical conspiracy. Bailey demonstrates that Nider's engagement with witchcraft cannot be understood in isolation from his role as a leading figure in the conciliarist reform movement of the early fifteenth century: his reforming agenda, his concern with popular religiosity, his confrontation with heretical movements (Hussites, flagellants), and his engagement with the Council of Basel collectively shaped the framework within which he interpreted reports of diabolical assemblies from the Alpine foothills. The book situates the crystallization of the witch stereotype not in theological abstraction but in the concrete institutional and reforming context of early fifteenth-century conciliarism.",
+
+  "scholarly_significance": "Bailey's study is the primary scholarly treatment of the earliest phase of composite witch-concept formation and is indispensable for understanding the Alpine origins of the sabbath doctrine. It complements the editorial work of Ostorero, Paravicini Bagliani, and Utz Tremp (L'imaginaire du sabbat, 1999), which provides the critical edition of the same foundational early-fifteenth-century texts; together the two works establish the scholarly consensus that the 1420s–1440s were the decisive period of composite stereotype formation.\n\n  Bailey's intellectual-history approach aligns closely with Stuart Clark's method: he insists that Nider's ideas about witchcraft were coherent responses to his specific intellectual and institutional environment rather than expressions of irrational fear. The reforming context is essential: Nider was not primarily a witch-hunter but a church reformer whose concern with popular religious discipline and heretical deviance led him to engage with reports of diabolical assembly in a way that contributed significantly to the composite stereotype's formation.\n\n  The book's contribution to the database's timeline entries is substantial: it provides the most detailed analysis of how the crystallization event — the formation of the composite stereotype in Alpine localities in the 1420s–1440s — occurred and what intellectual and institutional conditions enabled it. Bailey challenges accounts that treat the Malleus Maleficarum (1487) as the foundational text by showing the composite concept was already substantially formed fifty years earlier.\n\n  The study also situates the composite concept formation in the context of late medieval heresy prosecution, demonstrating continuities between the prosecution of Waldensians, Hussites, and witches as diabolical conspirators — a connection that contextualizes the composite witch concept within the longer history of collective heresy accusation.",
+
+  "key_arguments": [
+    {
+      "concept": "Johannes Nider as key formative figure",
+      "claim": "Nider's Formicarius (c.1437) represents the earliest extended synthesis of maleficium, demonic pact, apostasy, and collective sabbath into a composite witch concept; Nider was not an intellectual innovator but a synthesizer who brought together existing elements in a way that proved enormously influential."
+    },
+    {
+      "concept": "Reform movement context of stereotype formation",
+      "claim": "The composite witch concept crystallized in the context of the conciliarist reform movement of the 1420s–1440s; Nider's engagement with witchcraft was inseparable from his reforming agenda, his confrontation with popular heterodoxy, and his institutional role at the Council of Basel."
+    },
+    {
+      "concept": "Alpine origin of composite concept",
+      "claim": "The composite witch stereotype emerged from specific Alpine localities — the western Alps, Savoy, the Valais — where reports of diabolical assemblies reached reforming authorities in the 1420s–1440s; the geographical origin was not incidental but reflected specific social conditions in mountain border communities."
+    },
+    {
+      "concept": "Continuity with heresy prosecution",
+      "claim": "The composite witch concept drew heavily on existing templates for prosecuting collective heresy (Waldensians, Cathars); the construction of witches as a diabolical sect was enabled by transferring the heresy prosecution template to a new target category, not by a wholly novel conceptual development."
+    }
+  ],
+
+  "relation_to_database": "Bailey is the primary source for database entries on the composite witch stereotype's formation in the 1420s–1440s, Nider as a demonological scholar, and the relationship between conciliarist reform and witch-concept development. Timeline entries on the crystallization of the composite stereotype draw on Bailey for intellectual context.",
+
+  "scholarly_disagreement": "Bailey's focus on Nider and the reforming context has been broadly accepted, but the relative weight of different contributing factors — Alpine local conditions versus learned clerical synthesis versus heresy prosecution models — remains debated. Richard Kieckhefer (Magic in the Middle Ages, 1989; analysis in various articles) had earlier traced the longer medieval background of maleficium and demonic pact separately, and Bailey's synthesis represents a later integration that some specialists find too concentrated on a single intellectual figure. Ostorero's L'imaginaire du sabbat (1999) provides complementary evidence from different early Alpine texts that partially complicates Bailey's Nider-centered narrative. The question of whether composite witch concept formation required a specific trigger (the Alpine location, the reform crisis) or was a general development ready to emerge from several possible contexts remains open.",
+
+  "source_method": "Published text: Michael D. Bailey, Battling Demons: Witchcraft, Heresy, and Reform in the Late Middle Ages (Pennsylvania State University Press, 2003); reviewed alongside Martine Ostorero et al., L'imaginaire du sabbat (1999); Stuart Clark, Thinking with Demons (1997/2001)",
+  "review_status": "DRAFT",
+  "confidence": "HIGH",
+
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}

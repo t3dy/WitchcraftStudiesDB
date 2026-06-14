@@ -1,0 +1,68 @@
+{
+  "id": "kounine-laura-b1985",
+  "name": "Laura Kounine",
+  "birth_year": 1985,
+  "death_year": null,
+  "birth_place": null,
+  "academic_discipline": "History / Early Modern European History",
+  "primary_institution": "University of Sussex",
+  "specialization": "History of emotions; witchcraft and selfhood; Württemberg witch trials; ego-documents and subjectivity in early modern Germany",
+
+  "major_works": [
+    {
+      "title": "Imagining the Witch: Emotions, Gender and Selfhood in Early Modern Germany",
+      "year": 2018,
+      "publisher": "Oxford University Press",
+      "significance": "Applies the history of emotions and ego-document analysis to Württemberg witchcraft trials, recovering individual emotional experience and self-fashioning from trial records; argues against purely structural approaches by attending to the specific subjectivity of accused persons"
+    },
+    {
+      "title": "Emotions in the History of Witchcraft (co-edited with Mozur Godfrey)",
+      "year": 2018,
+      "publisher": "Palgrave Macmillan",
+      "significance": "Collected volume bringing together emotional history methods and witchcraft studies across multiple European regional contexts; establishes the subfield of emotional history of witchcraft"
+    }
+  ],
+
+  "historiographical_position": "MICROHISTORIAN",
+  "core_argument": "Kounine argues that witchcraft trials in early modern Germany — specifically Württemberg — cannot be adequately understood through structural analysis alone, whether social-historical (demography of the accused), intellectual-historical (demonological theory), or even microhistorical (interrogation procedure), because these approaches bracket the individual emotional experience and self-fashioning of accused persons as historical agents. By using ego-documents — letters, personal testimonies, spiritual diaries — alongside court records, and applying the analytical tools of the history of emotions, Kounine recovers the specific emotional grammar within which accused persons understood their situation, constructed their identities, and negotiated their relationships with their accusers, their communities, and the authorities. This approach extends Ginzburg's microhistorical concern for recovering subaltern voices into the domain of emotional experience, while adding a methodological dimension — the history of emotions as an analytical framework — that Ginzburg's primarily procedural analysis did not supply. It differs from Hutton's social history in refusing to aggregate individuals into social categories, and from Clark's intellectual history in focusing on popular rather than learned emotional experience.",
+
+  "methodological_approach": {
+    "primary_method": "History of emotions combined with ego-document analysis and archival microhistory of individual cases",
+    "source_types": "Württemberg court records; personal petitions, letters, and supplications written by accused persons or on their behalf; spiritual testimonies and confessions; church visitation records",
+    "interpretive_framework": "History of emotions as developed by Barbara Rosenwein (emotional communities) and Jan Plamper; ego-document analysis derived from Rudolf Dekker and Winfried Schulze's tradition; microhistorical attention to the individual case as a window onto broader structures"
+  },
+
+  "key_contributions": [
+    {
+      "concept": "Emotional history of the accused witch",
+      "description": "Kounine's most distinctive contribution is the systematic application of emotional-history methods to the trial records of accused witches. By identifying the specific emotional vocabulary used by accused persons in their petitions, supplications, and personal testimonies — expressions of shame, fear, love, anger, spiritual desperation — Kounine shows that accused persons were operating within recognizable emotional communities with their own norms of emotional expression, and that their responses to accusation were shaped by those norms as much as by their guilt or innocence. This approach recovers a dimension of accused persons' experience that demographic social history and interrogation-procedure analysis equally bracket."
+    },
+    {
+      "concept": "Self-fashioning under accusation",
+      "description": "Drawing on the ego-documents produced by accused persons — particularly their personal petitions to the Württemberg court and duke — Kounine analyzes how accused witches actively fashioned and presented their identities in response to accusation. Rather than treating accused persons as passive recipients of demonological categories imposed through interrogation (Ginzburg's emphasis), Kounine shows that accused persons were active self-presenters who drew on available cultural resources — piety, neighborly virtue, domestic duty, gender identity — to construct alternative narratives to the demonological accusations against them."
+    },
+    {
+      "concept": "Württemberg as a restraining institutional context",
+      "description": "Kounine's archival work in Württemberg illuminates a German territorial context in which ducal oversight and a centralized legal framework produced patterns of prosecution that differed markedly from the mass panics of the Catholic prince-bishoprics (Bamberg, Würzburg, Trier). The Württemberg material provides a comparative Protestant counterpart to the Catholic German mass prosecutions studied by Midelfort and Behringer, and the institutional restraint she documents at the territorial level complements Rowlands's similar findings for the civic context of Rothenburg."
+    }
+  ],
+
+  "scholarly_relationships": {
+    "alignment_with": ["ginzburg-carlo-b1939", "roper-lyndal-b1956", "hutton-ronald-b1953", "rowlands-alison-b1967"],
+    "creative_tension_with": ["clark-stuart-b1943", "levack-brian-b1943", "midelfort-hans-c-erik-b1942"]
+  },
+
+  "database_engagement": "Kounine's work is most relevant to accused_person entries and trial_event entries in the German Protestant context, particularly where ego-documents survive that allow individual emotional experience to be recovered. Her methodology — attending to the specific emotional grammar of accused persons' self-presentation — informs the writing standards for accused_person entries throughout the database, where the WRITING_STYLE_GUIDE's insistence on individual specificity over structural abstraction reflects Kounine's microhistorical commitment. Entries dealing with Württemberg trials draw on her archival work. The historiographical_debate entry on the sabbath origins debate and similar debates benefits from Kounine's reminder that structural arguments must not erase the specificity of individual cases.",
+
+  "historiographical_significance": "Laura Kounine's Imagining the Witch (2018) represents the fullest development in English-language witchcraft historiography of the turn toward emotional history and ego-document analysis. This turn is significant because it challenges the dominance of two approaches that, despite their differences, share an orientation toward structures rather than individual experience: Clark's intellectual history analyzes the shared ideas that made prosecution possible; Hutton's social history analyzes the demographic and institutional patterns that shaped prosecution; even Ginzburg's microhistory, despite its attention to individual voices, ultimately focuses on interrogation procedure as a structural mechanism. Kounine's focus on how specific individuals felt, understood, and narrated their situations introduces a subject-centered dimension that none of these approaches fully provides.\n\nHer work builds most directly on Lyndal Roper's psychological history of German witch prosecution (Witch Craze, 2004), which also attended to the emotional and subjective dimensions of accusation and confession. But where Roper drew primarily on psychoanalytic frameworks, Kounine works with the more historically specific analytical tools of the history of emotions — particularly Barbara Rosenwein's concept of 'emotional communities' — which allows her to situate individual emotional experience within the historically specific emotional norms of early modern German communities without imposing modern psychological categories.\n\nKounine's Württemberg focus also makes a significant regional contribution: the Protestant German territorial context of Württemberg is less well studied than either the Catholic prince-bishopric panics (Bamberg, Würzburg) or the English case, and her archival work provides a detailed picture of how a Protestant territory's centralized legal oversight shaped a distinctive pattern of prosecution and restraint.",
+
+  "scholarly_disagreement": "Kounine's ego-document and emotional-history approach has been welcomed as a productive supplement to structural analysis, but raises methodological questions about representativeness: the accused persons who left ego-documents sufficient for emotional-history analysis are, almost by definition, not typical of the accused population, which was predominantly poor, female, and socially marginal. The most vulnerable accused persons — those most likely to be executed — are precisely those least likely to have left petitions and personal letters. Stuart Clark's intellectual-history framework and Brian Levack's structural analysis might argue that the experiences of the atypical individuals recoverable through ego-documents cannot be straightforwardly generalized to explain prosecution patterns. Ginzburg's interrogation-analysis method, which specifically attends to what is said under duress rather than in voluntary self-presentation, provides a different kind of access to accused persons' voices that may be methodologically superior for the most disadvantaged subjects.",
+
+  "scholarly_sources": ["ginzburg-night-battles-1983", "clark-thinking-with-demons-2001", "hutton-the-witch-2017"],
+
+  "source_method": "Published scholarship; Kounine, Imagining the Witch (2018), preface and introduction; review literature in German History and Magic, Ritual, and Witchcraft",
+  "review_status": "DRAFT",
+  "confidence": "MEDIUM",
+  "created_date": "2026-06-14",
+  "last_modified": "2026-06-14"
+}
